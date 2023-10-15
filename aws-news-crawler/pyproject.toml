@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aws-news-crawler"
+version = "0.1.0"
+description = ""
+authors = ["Roman Tsypuk <tsypuk.conf@gmail.com>"]
+readme = "README.md"
+packages = [{include = "aws_news_crawler"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+feedparser = "^6.0.10"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
