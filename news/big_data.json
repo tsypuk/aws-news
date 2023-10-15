@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Orchestrate Amazon EMR Serverless jobs with AWS Step functions",
+        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-amazon-emr-serverless-jobs-with-aws-step-functions/"
+    },
+    {
+        "title": "Achieve higher query throughput: Auto scaling in Amazon OpenSearch Serverless now supports shard replica scaling",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-higher-query-throughput-auto-scaling-in-amazon-opensearch-serverless-now-supports-shard-replica-scaling/"
+    },
+    {
+        "title": "How healthcare organizations can analyze and create insights using price transparency data",
+        "link": "https://aws.amazon.com/blogs/big-data/how-healthcare-organizations-can-analyze-and-create-insights-using-price-transparency-data/"
+    },
+    {
+        "title": "Modernize a legacy real-time analytics application with Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/modernize-a-legacy-real-time-analytics-application-with-amazon-managed-service-for-apache-flink/"
+    },
+    {
+        "title": "Automated data governance with AWS Glue Data Quality, sensitive data detection, and AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/automated-data-governance-with-aws-glue-data-quality-sensitive-data-detection-and-aws-lake-formation/"
+    },
+    {
+        "title": "Using AWS AppSync and AWS Lake Formation to access a secure data lake through a GraphQL API",
+        "link": "https://aws.amazon.com/blogs/big-data/using-aws-appsync-and-aws-lake-formation-to-access-a-secure-data-lake-through-a-graphql-api/"
+    },
+    {
+        "title": "Simplify data transfer: Google BigQuery to Amazon S3 using Amazon AppFlow",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-transfer-google-bigquery-to-amazon-s3-using-amazon-appflow/"
+    },
+    {
+        "title": "Define per-team resource limits for big data workloads using Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/define-per-team-resource-limits-for-big-data-workloads-using-amazon-emr-serverless/"
+    },
+    {
+        "title": "Unlock data across organizational boundaries using Amazon DataZone \u2013 now generally available",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-data-across-organizational-boundaries-using-amazon-datazone-now-generally-available/"
+    },
+    {
+        "title": "Automate legacy ETL conversion to AWS Glue using Cognizant Data and Intelligence Toolkit (CDIT) \u2013 ETL Conversion Tool",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-legacy-etl-conversion-to-aws-glue-using-cognizant-data-and-intelligence-toolkit-cdit-etl-conversion-tool/"
+    },
+    {
+        "title": "Query big data with resilience using Trino in Amazon EMR with Amazon EC2 Spot Instances for less cost",
+        "link": "https://aws.amazon.com/blogs/big-data/query-big-data-with-resilience-using-trino-in-amazon-emr-with-amazon-ec2-spot-instances-for-less-cost/"
+    },
+    {
+        "title": "Migrate an existing data lake to a transactional data lake using Apache Iceberg",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-an-existing-data-lake-to-a-transactional-data-lake-using-apache-iceberg/"
+    },
+    {
+        "title": "Apache Iceberg optimization: Solving the small files problem in Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/apache-iceberg-optimization-solving-the-small-files-problem-in-amazon-emr/"
+    },
+    {
+        "title": "Non-JSON ingestion using Amazon Kinesis Data Streams, Amazon MSK, and Amazon Redshift Streaming Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/non-json-ingestion-using-amazon-kinesis-data-streams-amazon-msk-and-amazon-redshift-streaming-ingestion/"
+    },
+    {
+        "title": "Process and analyze highly nested and large XML files using AWS Glue and Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/process-and-analyze-highly-nested-and-large-xml-files-using-aws-glue-and-amazon-athena/"
+    },
+    {
+        "title": "Build event-driven architectures with Amazon MSK and Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/big-data/build-event-driven-architectures-with-amazon-msk-and-amazon-eventbridge/"
+    },
+    {
+        "title": "Improved resiliency with cluster manager task throttling for Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/improved-resiliency-with-cluster-manager-task-throttling-for-amazon-opensearch-service/"
+    },
+    {
+        "title": "Introducing hybrid access mode for AWS Glue Data Catalog to secure access using AWS Lake Formation and IAM and Amazon S3 policies",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-hybrid-access-mode-for-aws-glue-data-catalog-to-secure-access-using-aws-lake-formation-and-iam-and-amazon-s3-policies/"
+    },
+    {
+        "title": "Using Experian identity resolution with AWS Clean Rooms to achieve higher audience activation match rates",
+        "link": "https://aws.amazon.com/blogs/big-data/using-experian-identity-resolution-with-aws-clean-rooms-to-achieve-higher-audience-activation-match-rates/"
+    },
+    {
+        "title": "Manage your workloads better using Amazon Redshift Workload Management",
+        "link": "https://aws.amazon.com/blogs/big-data/manage-your-workloads-better-using-amazon-redshift-workload-management/"
+    }
+]

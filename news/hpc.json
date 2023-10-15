@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Financial services industry HPC migrations using AWS ParallelCluster with Slurm",
+        "link": "https://aws.amazon.com/blogs/hpc/financial-services-industry-hpc-migrations-using-aws-parallelcluster-with-slurm/"
+    },
+    {
+        "title": "Conceptual design using generative AI and CFD simulations on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/conceptual-design-using-generative-ai-and-cfd-simulations-on-aws/"
+    },
+    {
+        "title": "Implementing AWS ParallelCluster in a Shared VPC",
+        "link": "https://aws.amazon.com/blogs/hpc/implementing-aws-parallelcluster-in-a-shared-vpc/"
+    },
+    {
+        "title": "Introducing a community recipe library for HPC infrastructure on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/introducing-a-community-recipe-library-for-hpc-infrastructure-on-aws/"
+    },
+    {
+        "title": "Real-time quant trading on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/real-time-quant-trading-on-aws/"
+    },
+    {
+        "title": "How Maxar builds short duration \u2018bursty\u2019 HPC workloads on AWS at scale",
+        "link": "https://aws.amazon.com/blogs/hpc/how-maxar-builds-short-duration-bursty-hpc-workloads-on-aws-at-scale/"
+    },
+    {
+        "title": "How Amazon\u2019s Search M5 team optimizes compute resources and cost with fair-share scheduling on AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/how-amazons-search-m5-team-optimizes-compute-resources-and-cost-with-fair-share-scheduling-on-aws-batch/"
+    },
+    {
+        "title": "Bursting your HPC applications to AWS is now easier with Amazon File Cache and AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/hpc/bursting-your-hpc-applications-to-aws-is-now-easier-with-amazon-file-cache-and-aws-parallelcluster/"
+    },
+    {
+        "title": "The plumbing: best-practice infrastructure to facilitate HPC on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/the-plumbing-best-practice-infrastructure-to-facilitate-hpc-on-aws/"
+    },
+    {
+        "title": "Deep-dive into Hpc7a, the newest AMD-powered member of the HPC instance family",
+        "link": "https://aws.amazon.com/blogs/hpc/deep-dive-into-hpc7a-the-newest-amd-powered-member-of-the-hpc-instance-family/"
+    },
+    {
+        "title": "How computer vision is enabling a circular economy",
+        "link": "https://aws.amazon.com/blogs/hpc/how-computer-vision-is-enabling-a-circular-economy/"
+    },
+    {
+        "title": "Automate scheduling of jobs on AWS Batch and AWS Fargate with Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/hpc/automate-scheduling-of-jobs-on-aws-batch-and-aws-fargate-with-amazon-eventbridge/"
+    },
+    {
+        "title": "Improving NFL player health using machine learning with AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/improving-nfl-player-health-using-machine-learning-with-aws-batch/"
+    },
+    {
+        "title": "Diving Deeper into Fair-Share Scheduling in AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/deep-dive-on-fair-share-scheduling-in-aws-batch/"
+    },
+    {
+        "title": "How to make digital technologies for the circular economy work for your business",
+        "link": "https://aws.amazon.com/blogs/hpc/how-to-make-digital-technologies-for-the-circular-economy-work-for-your-business/"
+    },
+    {
+        "title": "Call for participation: RADIUSS Tutorial Series 2023",
+        "link": "https://aws.amazon.com/blogs/hpc/call-for-participation-radiuss-tutorial-series-2023/"
+    },
+    {
+        "title": "Deploying and running HPC applications on AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/deploying-and-running-hpc-applications-on-aws-batch/"
+    },
+    {
+        "title": "High performance actuarial reserve modeling using AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/high-performance-actuarial-reserve-modeling-using-aws-batch/"
+    },
+    {
+        "title": "Automate your clusters by creating self-documenting HPC with AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/hpc/automate-your-clusters-by-creating-self-documenting-hpc-with-aws-parallelcluster/"
+    },
+    {
+        "title": "Running protein structure prediction at scale using a web interface for researchers",
+        "link": "https://aws.amazon.com/blogs/hpc/running-protein-structure-prediction-at-scale-using-a-web-interface-for-researchers/"
+    }
+]

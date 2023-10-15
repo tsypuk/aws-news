@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Create AMIs with AWS CodePipeline",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/create-amis-with-aws-codepipeline/"
+    },
+    {
+        "title": "Automate IAM credential reports for large AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-iam-credential-reports-for-large-aws-organizations/"
+    },
+    {
+        "title": "Automate prework to save time deploying an Amazon EKS Kubernetes cluster",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-prework-to-save-time-deploying-amazon-eks-kubernetes-cluster/"
+    },
+    {
+        "title": "Manage multiaccount and multi-Region infrastructure in Terraform using AWS Cloud9",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/manage-multiaccount-multi-region-infrastructure-terraform-aws-cloud9/"
+    },
+    {
+        "title": "Save time with automated security checks of your Terraform scripts",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-with-automated-security-checks-of-terraform-scripts/"
+    },
+    {
+        "title": "Read parameters across AWS Regions with AWS CloudFormation custom resources",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/read-parameters-across-aws-regions-with-aws-cloudformation-custom-resources/"
+    },
+    {
+        "title": "Reduce costs with an ephemeral Amazon FSx for Lustre file system",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-costs-with-ephemeral-amazon-fsx-for-lustre-file-system/"
+    },
+    {
+        "title": "Manage permission sets and account assignments in AWS IAM Identity Center with a CI/CD pipeline",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/manage-permission-sets-and-account-assignments-in-aws-iam-identity-center-with-a-ci-cd-pipeline/"
+    },
+    {
+        "title": "Reduce security risks from IaC drift in multi-Region AWS deployments with Terraform",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-security-risks-from-iac-drift-in-multi-region-aws-deployments-with-terraform/"
+    },
+    {
+        "title": "Automate sports data polling with AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-sports-data-polling-with-aws-step-functions/"
+    },
+    {
+        "title": "Keep your AWS resources when you rename an AWS CloudFormation stack",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/keep-your-aws-resources-when-you-rename-an-aws-cloudformation-stack/"
+    },
+    {
+        "title": "Save time and reduce errors by automating AWS Lambda code updates",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-reduce-errors-automating-lambda-code-updates/"
+    },
+    {
+        "title": "Create a more secure LAMP stack with AWS WAF (web application firewall)",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/secure-lamp-stack-aws-waf-web-application-firewall/"
+    },
+    {
+        "title": "Reduce log-storage costs by automating retention settings in Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-log-storage-costs-by-automating-retention-settings-in-amazon-cloudwatch/"
+    },
+    {
+        "title": "Disaster recovery: 3 failover scenarios for your Amazon Aurora global database with Terraform (Part 2)",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/disaster-recovery-failover-scenarios-aurora-global-database-terraform/"
+    },
+    {
+        "title": "Collect custom metrics with Amazon CloudWatch strategic tagging",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/collect-custom-metrics-with-amazon-cloudwatch-strategic-tagging/"
+    },
+    {
+        "title": "Deploy bastion hosts into private subnets with AWS CDK",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/deploy-bastion-hosts-into-private-subnets-with-aws-cdk/"
+    },
+    {
+        "title": "Prepare for faster disaster recovery: Deploy an Amazon Aurora global database with Terraform (Part 1)",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/disaster-recovery-deploy-amazon-aurora-global-database-with-terraform/"
+    },
+    {
+        "title": "Emulate your test environment using a service virtualization on AWS",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/emulate-test-environment-using-service-virtualization/"
+    },
+    {
+        "title": "Top 5 posts published in 2021 on the AWS Infrastructure & Automation Blog",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/top-5-posts-2021-aws-ia-blog/"
+    }
+]

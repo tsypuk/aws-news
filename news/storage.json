@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Retaining Amazon EC2 AMI snapshots for compliance using Amazon EBS Snapshots Archive",
+        "link": "https://aws.amazon.com/blogs/storage/retaining-amazon-ec2-ami-snapshots-for-compliance-using-amazon-ebs-snapshots-archive/"
+    },
+    {
+        "title": "Getting visibility into storage usage in multi-tenant Amazon S3 buckets",
+        "link": "https://aws.amazon.com/blogs/storage/getting-visibility-into-storage-usage-in-multi-tenant-amazon-s3-buckets/"
+    },
+    {
+        "title": "Consolidate and query Amazon S3 Inventory reports for Region-wide object-level visibility",
+        "link": "https://aws.amazon.com/blogs/storage/consolidate-and-query-amazon-s3-inventory-reports-for-region-wide-object-level-visibility/"
+    },
+    {
+        "title": "Migrate from Google Cloud Platform (GCP) to AWS using AWS Application Migration Service",
+        "link": "https://aws.amazon.com/blogs/storage/migrate-from-google-cloud-platform-gcp-to-aws-using-aws-application-migration-service/"
+    },
+    {
+        "title": "Cross-region disaster recovery with Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/cross-region-disaster-recovery-with-amazon-fsx-for-netapp-ontap/"
+    },
+    {
+        "title": "Identify cold objects for archiving to Amazon S3 Glacier storage classes",
+        "link": "https://aws.amazon.com/blogs/storage/identify-cold-objects-for-archiving-to-amazon-s3-glacier-storage-classes/"
+    },
+    {
+        "title": "How Orca Security efficiently shares encrypted Amazon EBS Snapshots",
+        "link": "https://aws.amazon.com/blogs/storage/how-orca-security-efficiently-shared-encrypted-amazon-ebs-snapshots/"
+    },
+    {
+        "title": "Derive insights from AWS DataSync task reports using AWS Glue, Amazon Athena, and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/storage/derive-insights-from-aws-datasync-task-reports-using-aws-glue-amazon-athena-and-amazon-quicksight/"
+    },
+    {
+        "title": "How Continental uses Mountpoint for Amazon S3 in autonomous driving development \u2013 accelerating simulation performance by 20%",
+        "link": "https://aws.amazon.com/blogs/storage/how-continental-uses-mountpoint-for-amazon-s3-in-autonomous-driving-development-accelerating-simulation-performance-by-20/"
+    },
+    {
+        "title": "Amazon Elastic Block Store at 15 Years",
+        "link": "https://aws.amazon.com/blogs/storage/amazon-elastic-block-store-at-15-years/"
+    },
+    {
+        "title": "Optimizing performance of Apache Spark workloads on Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/optimizing-performance-of-apache-spark-workloads-on-amazon-s3/"
+    },
+    {
+        "title": "Sharing data on Amazon FSx for OpenZFS across Linux and Windows clients",
+        "link": "https://aws.amazon.com/blogs/storage/sharing-data-on-amazon-fsx-for-openzfs-across-linux-and-windows-clients/"
+    },
+    {
+        "title": "Disabling Amazon S3 access control lists with S3 Inventory",
+        "link": "https://aws.amazon.com/blogs/storage/disabling-amazon-s3-access-control-lists-with-s3-inventory/"
+    },
+    {
+        "title": "Migrating DigitalOcean Spaces to Amazon S3 using AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/migrating-digitalocean-spaces-to-amazon-s3-using-aws-datasync/"
+    },
+    {
+        "title": "Simplify multicloud data movement wherever data is stored with AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/simplify-multicloud-data-movement-wherever-data-is-stored-with-aws-datasync/"
+    },
+    {
+        "title": "Introducing AWS Backup logically air-gapped vault",
+        "link": "https://aws.amazon.com/blogs/storage/introducing-aws-backup-logically-air-gapped-vault/"
+    },
+    {
+        "title": "Reduce recovery time and optimize storage costs with faster restores from Amazon S3 Glacier storage classes and Commvault",
+        "link": "https://aws.amazon.com/blogs/storage/reduce-recovery-time-and-optimize-storage-costs-with-faster-restores-from-amazon-s3-glacier-and-commvault/"
+    },
+    {
+        "title": "Authorize NFS clients outside of AWS with AWS IAM Roles Anywhere",
+        "link": "https://aws.amazon.com/blogs/storage/authorize-nfs-clients-outside-of-aws-with-iam-roles-anywhere/"
+    },
+    {
+        "title": "Detect malware threats using AWS Transfer Family",
+        "link": "https://aws.amazon.com/blogs/storage/detect-malware-threats-using-aws-transfer-family/"
+    },
+    {
+        "title": "Configuring the auto-expansion of Amazon FSx for OpenZFS with Amazon CloudWatch and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/storage/configuring-the-auto-expansion-of-fsx-for-openzfs-using-cloudwatch-alarms-and-aws-lambda/"
+    }
+]

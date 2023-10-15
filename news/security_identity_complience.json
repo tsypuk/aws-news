@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Now available: Building a scalable vulnerability management program on AWS",
+        "link": "https://aws.amazon.com/blogs/security/now-available-how-to-build-a-scalable-vulnerability-management-program-on-aws/"
+    },
+    {
+        "title": "New whitepaper available: Charting a path to stronger security with Zero Trust",
+        "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-charting-a-path-to-stronger-security-with-zero-trust/"
+    },
+    {
+        "title": "Use SAML with Amazon Cognito to support a multi-tenant application with a single user pool",
+        "link": "https://aws.amazon.com/blogs/security/use-saml-with-amazon-cognito-to-support-a-multi-tenant-application-with-a-single-user-pool/"
+    },
+    {
+        "title": "How AWS protects customers from DDoS events",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-protects-customers-from-ddos-events/"
+    },
+    {
+        "title": "Delegating permission set management and account assignment in AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/delegating-permission-set-management-and-account-assignment-in-aws-iam-identity-center/"
+    },
+    {
+        "title": "PCI DSS v4.0 on AWS Compliance Guide now available",
+        "link": "https://aws.amazon.com/blogs/security/pci-dss-v4-0-on-aws-compliance-guide-now-available/"
+    },
+    {
+        "title": "AWS-LC is now FIPS 140-3 certified",
+        "link": "https://aws.amazon.com/blogs/security/aws-lc-is-now-fips-140-3-certified/"
+    },
+    {
+        "title": "Use AWS Secrets Manager to store and manage secrets in on-premises or multicloud workloads",
+        "link": "https://aws.amazon.com/blogs/security/use-aws-secrets-manager-to-store-and-manage-secrets-in-on-premises-or-multicloud-workloads/"
+    },
+    {
+        "title": "Enable Security Hub partner integrations across your organization",
+        "link": "https://aws.amazon.com/blogs/security/enable-security-hub-partner-integrations-across-your-organization/"
+    },
+    {
+        "title": "Validate IAM policies with Access Analyzer using AWS Config rules",
+        "link": "https://aws.amazon.com/blogs/security/validate-iam-policies-with-access-analyzer-using-aws-config-rules/"
+    },
+    {
+        "title": "How to use AWS Certificate Manager to enforce certificate issuance controls",
+        "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-certificate-manager-to-enforce-certificate-issuance-controls/"
+    },
+    {
+        "title": "Secure by Design: AWS to enhance MFA requirements in 2024",
+        "link": "https://aws.amazon.com/blogs/security/security-by-design-aws-to-enhance-mfa-requirements-in-2024/"
+    },
+    {
+        "title": "Manage AWS Security Hub using CloudFormation",
+        "link": "https://aws.amazon.com/blogs/security/manage-aws-security-hub-using-cloudformation/"
+    },
+    {
+        "title": "Get the full benefits of IMDSv2 and disable IMDSv1 across your AWS infrastructure",
+        "link": "https://aws.amazon.com/blogs/security/get-the-full-benefits-of-imdsv2-and-disable-imdsv1-across-your-aws-infrastructure/"
+    },
+    {
+        "title": "How AWS threat intelligence deters threat actors",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-threat-intelligence-deters-threat-actors/"
+    },
+    {
+        "title": "AWS achieves QI2/QC2 qualification to host critical data and workloads from the Italian Public Administration",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-qi2-qc2-qualification-to-host-critical-data-and-workloads-from-the-italian-public-administration/"
+    },
+    {
+        "title": "Deploy AWS WAF faster with Security Automations",
+        "link": "https://aws.amazon.com/blogs/security/deploy-aws-managed-rules-using-security-automations-for-aws-waf/"
+    },
+    {
+        "title": "Enable external pipeline deployments to AWS Cloud by using IAM Roles Anywhere",
+        "link": "https://aws.amazon.com/blogs/security/enable-external-pipeline-deployments-to-aws-cloud-by-using-iam-roles-anywhere/"
+    },
+    {
+        "title": "2023 H1 IRAP report is now available on AWS Artifact for Australian customers",
+        "link": "https://aws.amazon.com/blogs/security/2023-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
+    },
+    {
+        "title": "How to implement cryptographic modules to secure private keys used with IAM Roles Anywhere",
+        "link": "https://aws.amazon.com/blogs/security/how-to-implement-cryptographic-modules-to-secure-private-keys-used-with-iam-roles-anywhere/"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Update to AWS SDK for Java v2, AWS SDK for .NET v3, and AWS Tools for PowerShell when using S3 GetObjectAttributes API",
+        "link": "https://aws.amazon.com/blogs/developer/update-to-aws-sdk-for-java-v2-aws-sdk-for-net-v3-and-aws-tools-for-powershell-when-using-s3-getobjectattributes-api/"
+    },
+    {
+        "title": "Announcing overridable client configuration in the AWS SDK for Kotlin",
+        "link": "https://aws.amazon.com/blogs/developer/overridable-client-configuration-aws-sdk-kotlin/"
+    },
+    {
+        "title": "Creating Smithy Projects with Smithy Init",
+        "link": "https://aws.amazon.com/blogs/developer/creating-smithy-projects-with-smithy-init/"
+    },
+    {
+        "title": "AWS Toolkit for Visual Studio adds support for Arm64 Visual Studio",
+        "link": "https://aws.amazon.com/blogs/developer/aws-toolkit-for-visual-studio-adds-support-for-arm64-visual-studio/"
+    },
+    {
+        "title": "Reduce Lambda cold start times: migrate to AWS SDK for JavaScript v3",
+        "link": "https://aws.amazon.com/blogs/developer/reduce-lambda-cold-start-times-migrate-to-aws-sdk-for-javascript-v3/"
+    },
+    {
+        "title": "Introducing S3 cross-region support in the AWS SDK for Java 2.x",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-s3-cross-region-support-in-the-aws-sdk-for-java-2-x/"
+    },
+    {
+        "title": "Introducing Smithy for Python",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-smithy-for-python/"
+    },
+    {
+        "title": "New: Improved flexibility when configuring endpoint URLs with the AWS SDKs and tools",
+        "link": "https://aws.amazon.com/blogs/developer/new-improved-flexibility-when-configuring-endpoint-urls-with-the-aws-sdks-and-tools/"
+    },
+    {
+        "title": ".NET Lambda Annotations Framework is now generally available",
+        "link": "https://aws.amazon.com/blogs/developer/net-lambda-annotations-framework/"
+    },
+    {
+        "title": "Introducing the AWS .NET Distributed Cache Provider for DynamoDB (Preview)",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-net-distributed-cache-provider-for-dynamodb-preview/"
+    },
+    {
+        "title": "Announcing Amazon S3 checksums support in the AWS SDK for Kotlin",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-amazon-s3-checksums-support-in-the-aws-sdk-for-kotlin/"
+    },
+    {
+        "title": "AWS SDK for Go Aligns with Go Release Policy on Supported Runtimes",
+        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-go-aligns-with-go-release-policy-on-supported-runtimes/"
+    },
+    {
+        "title": "Introducing the Smithy CLI",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-the-smithy-cli/"
+    },
+    {
+        "title": "Configuring .NET Garbage Collection for Amazon ECS and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/developer/configuring-net-garbage-collection-for-amazon-ecs-and-aws-lambda/"
+    },
+    {
+        "title": "Introducing a new client in the AWS SDK for Java 2.x for retrieving EC2 Instance Metadata",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-a-new-client-in-the-aws-sdk-for-java-2-x-for-retrieving-ec2-instance-metadata/"
+    },
+    {
+        "title": "Announcing the end of Windows Installer support for AWS Tools for Windows",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-windows-installer-support/"
+    },
+    {
+        "title": "Run an Active-Passive, multi region API using Aurora RDS Global Cluster",
+        "link": "https://aws.amazon.com/blogs/developer/10322-2/"
+    },
+    {
+        "title": "Announcing availability of the AWS CRT HTTP Client in the AWS SDK for Java 2.x",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-availability-of-the-aws-crt-http-client-in-the-aws-sdk-for-java-2-x/"
+    },
+    {
+        "title": "Measure the Business Impact of Personalize Recommendations",
+        "link": "https://aws.amazon.com/blogs/developer/measure-the-business-impact-of-personalize-recommendations/"
+    },
+    {
+        "title": "Introducing CRT-based S3 Client and the S3 Transfer Manager in the AWS SDK for Java 2.x",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-crt-based-s3-client-and-the-s3-transfer-manager-in-the-aws-sdk-for-java-2-x/"
+    }
+]
