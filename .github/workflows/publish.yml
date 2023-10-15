@@ -1,13 +1,19 @@
-name: Example Push Action
-on: push
+name: Nightly Job
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # This will run every night at midnight UTC
+
 jobs:
-  build:
+  nightly-job:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
       - uses: actions/checkout@v3
+      - name: Install python
       - uses: actions/setup-python@v4
         with:
-          python-version: ${{ matrix.python }}
+          python-version: 3.11
       - name: Install poetry
         run: pip install poetry
       - name: Run all tests
