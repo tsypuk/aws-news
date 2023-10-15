@@ -1,6 +1,7 @@
 import json
 import feedparser
 
+
 def main():
     file_path = '../rss_config.json'  # Replace with the actual path to your file
     with open(file_path, 'r') as file:
