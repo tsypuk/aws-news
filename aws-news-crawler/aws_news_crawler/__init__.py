@@ -3,7 +3,7 @@ import feedparser
 
 
 def main():
-    file_path = '../rss_config.json'  # Replace with the actual path to your file
+    file_path = './rss_config.json'  # Replace with the actual path to your file
     with open(file_path, 'r') as file:
         data = json.load(file)
 
@@ -18,7 +18,7 @@ def main():
         entries = [{'title': entry.title, 'link': entry.link} for entry in feed.entries]
 
         # Write to JSON file
-        with open(f'../../news/{file_name}.json', 'w') as json_file:
+        with open(f'../news/{file_name}.json', 'w') as json_file:
             json.dump(entries, json_file, indent=4)
 
 
