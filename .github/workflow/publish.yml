@@ -1,0 +1,24 @@
+name: Example Push Action
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Install poetry
+        run: pip install poetry
+      - name: Run all tests
+        run: |
+          poetry install
+          poetry run python aws_news_crawler/__init__.py
+      - uses: actions/checkout@v3
+      - run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "chore(rss): crawl and add new content"
+          git push
