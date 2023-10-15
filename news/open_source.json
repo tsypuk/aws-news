@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Enhancing an Internal Developer Platform (IDP) with Crossplane on EKS at SIXT",
+        "link": "https://aws.amazon.com/blogs/opensource/enhancing-internal-developer-platform-idp-with-crossplane-on-eks-at-sixt/"
+    },
+    {
+        "title": "Behind the Scenes on AWS Contributions to Open Source Databases",
+        "link": "https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-open-source-databases/"
+    },
+    {
+        "title": "Cloud Native Operational Excellence (CNOE): A Joint Effort to Share Internal Developer Platform Tools and Best Practices",
+        "link": "https://aws.amazon.com/blogs/opensource/cloud-native-operational-excellence-cnoe-a-joint-effort-to-share-internal-developer-platform-tools-and-best-practices/"
+    },
+    {
+        "title": "Ray Integration for AWS Trainium and AWS Inferentia is Now Available",
+        "link": "https://aws.amazon.com/blogs/opensource/ray-integration-for-aws-trainium-aws-inferentia-is-now-available/"
+    },
+    {
+        "title": "Argo CD Application Controller Scalability Testing on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/opensource/argo-cd-application-controller-scalability-testing-on-amazon-eks/"
+    },
+    {
+        "title": "How MongoDB and AWS Collaborated to Enable Running the Open Source MongoDB Kafka Connector in Managed Environments",
+        "link": "https://aws.amazon.com/blogs/opensource/how-mongodb-and-aws-collaborated-to-enable-running-the-open-source-mongodb-kafka-connector-in-managed-environments/"
+    },
+    {
+        "title": "Celebrating One Year of OCSF: Simplifying Security Telemetry for a Stronger Defense",
+        "link": "https://aws.amazon.com/blogs/opensource/celebrating-one-year-of-ocsf-simplifying-security-telemetry-for-a-stronger-defense/"
+    },
+    {
+        "title": "Configure Keycloak on Amazon Elastic Kubernetes Service (Amazon EKS) using Terraform",
+        "link": "https://aws.amazon.com/blogs/opensource/configure-keycloak-on-amazon-elastic-kubernetes-service-amazon-eks-using-terraform/"
+    },
+    {
+        "title": "Weaveworks and AWS Joining Forces to Maintain Open Source eksctl",
+        "link": "https://aws.amazon.com/blogs/opensource/weaveworks-and-aws-joining-forces-to-maintain-open-source-eksctl/"
+    },
+    {
+        "title": "Leveraging Open Source at Barclays to Enable Lambda Event Filtering with AWS Glue Schema Registry",
+        "link": "https://aws.amazon.com/blogs/opensource/leveraging-open-source-at-barclays-to-enable-lambda-event-filtering-with-aws-glue-schema-registry/"
+    },
+    {
+        "title": "Using Steampipe Relationship Graphs to Navigate Cloud Resources on AWS",
+        "link": "https://aws.amazon.com/blogs/opensource/using-the-new-relationship-graph-capabilities-in-open-source-steampipe-on-aws/"
+    },
+    {
+        "title": "Kubernetes Multi-Cluster Service Discovery using Open Source AWS Cloud Map MCS Controller",
+        "link": "https://aws.amazon.com/blogs/opensource/kubernetes-multi-cluster-service-discovery-using-open-source-aws-cloud-map-mcs-controller/"
+    },
+    {
+        "title": "Simplify Amazon EKS Multi-Cluster Authentication with Open Source Pinniped",
+        "link": "https://aws.amazon.com/blogs/opensource/simplify-amazon-eks-multi-cluster-authentication-with-open-source-pinniped/"
+    },
+    {
+        "title": "Create RESTful APIs on AWS with OpenAPI Specification (With No Coding)",
+        "link": "https://aws.amazon.com/blogs/opensource/create-restful-apis-on-aws-with-openapi-specification-with-no-coding/"
+    },
+    {
+        "title": "How Traveloka Uses Backstage as an API Developer Portal for Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/opensource/how-traveloka-uses-backstage-as-an-api-developer-portal-for-amazon-api-gateway/"
+    },
+    {
+        "title": "Configure Continuous Deployment Using Kustomize Components and Spinnaker Operator in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/opensource/configure-continuous-deployment-using-kustomize-components-and-spinnaker-operator-in-amazon-eks/"
+    },
+    {
+        "title": "Fully Automated Deployment of an Open Source Mail Server on AWS",
+        "link": "https://aws.amazon.com/blogs/opensource/fully-automated-deployment-of-an-open-source-mail-server-on-aws/"
+    },
+    {
+        "title": "Using Open Source Cedar to Write and Enforce Custom Authorization Policies",
+        "link": "https://aws.amazon.com/blogs/opensource/using-open-source-cedar-to-write-and-enforce-custom-authorization-policies/"
+    },
+    {
+        "title": "Announcing Snapchange: An Open Source KVM-backed Snapshot Fuzzing Framework",
+        "link": "https://aws.amazon.com/blogs/opensource/announcing-snapchange-an-open-source-kvm-backed-snapshot-fuzzing-framework/"
+    },
+    {
+        "title": "How Zomato Boosted Performance 25% and Cut Compute Cost 30% Migrating Trino and Druid Workloads to AWS Graviton",
+        "link": "https://aws.amazon.com/blogs/opensource/how-zomato-boosted-performance-25-and-cut-compute-cost-30-migrating-trino-and-druid-workloads-to-aws-graviton/"
+    }
+]

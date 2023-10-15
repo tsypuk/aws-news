@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Implement AWS IAM authentication with Amazon VPC Lattice and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/implement-aws-iam-authentication-with-amazon-vpc-lattice-and-amazon-eks/"
+    },
+    {
+        "title": "Operating resilient workloads on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/operating-resilient-workloads-on-amazon-eks/"
+    },
+    {
+        "title": "Optimize webSocket applications scaling with API Gateway on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/optimize-websocket-applications-scaling-with-api-gateway-on-amazon-eks/"
+    },
+    {
+        "title": "Analyze EKS Fargate costs using Amazon Quicksight",
+        "link": "https://aws.amazon.com/blogs/containers/analyze-eks-fargate-costs-using-amazon-quicksight/"
+    },
+    {
+        "title": "Start Spring Boot applications faster on AWS Fargate using SOCI",
+        "link": "https://aws.amazon.com/blogs/containers/start-spring-boot-applications-faster-on-aws-fargate-using-soci/"
+    },
+    {
+        "title": "How to upgrade Amazon EKS worker nodes with Karpenter Drift",
+        "link": "https://aws.amazon.com/blogs/containers/how-to-upgrade-amazon-eks-worker-nodes-with-karpenter-drift/"
+    },
+    {
+        "title": "Amazon EKS extended support for Kubernetes versions available in preview",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-available-in-preview/"
+    },
+    {
+        "title": "Use shared VPC subnets in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/use-shared-vpcs-in-amazon-eks/"
+    },
+    {
+        "title": "Build secure application networks with VPC Lattice, Amazon ECS, and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/containers/build-secure-application-networks-with-vpc-lattice-amazon-ecs-and-aws-lambda/"
+    },
+    {
+        "title": "AWS App Runner adds support for monorepos",
+        "link": "https://aws.amazon.com/blogs/containers/aws-app-runner-adds-support-for-monorepos/"
+    }
+]

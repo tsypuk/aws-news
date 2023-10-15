@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Quickly Restore Amazon EC2 Mac Instances using Replace Root Volume capability",
+        "link": "https://aws.amazon.com/blogs/compute/new-reset-amazon-ec2-mac-instances-to-a-known-state-using-replace-root-volume-capability/"
+    },
+    {
+        "title": "Filtering events in Amazon EventBridge with wildcard pattern matching",
+        "link": "https://aws.amazon.com/blogs/compute/filtering-events-in-amazon-eventbridge-with-wildcard-pattern-matching/"
+    },
+    {
+        "title": "Building a serverless document chat with AWS Lambda and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/compute/building-a-serverless-document-chat-with-aws-lambda-and-amazon-bedrock/"
+    },
+    {
+        "title": "Visually design your application with AWS Application Composer",
+        "link": "https://aws.amazon.com/blogs/compute/visually-design-your-application-with-aws-application-composer/"
+    },
+    {
+        "title": "Integrating AWS WAF with your Amazon Lightsail instance",
+        "link": "https://aws.amazon.com/blogs/compute/integrating-aws-waf-with-your-amazon-lightsail-instance/"
+    },
+    {
+        "title": "Architecting for scale with Amazon API Gateway private integrations",
+        "link": "https://aws.amazon.com/blogs/compute/architecting-for-scale-with-amazon-api-gateway-private-integrations/"
+    },
+    {
+        "title": "Centralizing management of AWS Lambda layers across multiple AWS Accounts",
+        "link": "https://aws.amazon.com/blogs/compute/centralizing-management-of-aws-lambda-layers-across-multiple-aws-accounts/"
+    },
+    {
+        "title": "Implementing idempotent AWS Lambda functions with Powertools for AWS Lambda (TypeScript)",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-idempotent-aws-lambda-functions-with-powertools-for-aws-lambda-typescript/"
+    },
+    {
+        "title": "Building resilient serverless applications using chaos engineering",
+        "link": "https://aws.amazon.com/blogs/compute/building-resilient-serverless-applications-using-chaos-engineering/"
+    },
+    {
+        "title": "Building a secure webhook forwarder using an AWS Lambda extension and Tailscale",
+        "link": "https://aws.amazon.com/blogs/compute/building-a-secure-webhook-forwarder-using-an-aws-lambda-extension-and-tailscale/"
+    },
+    {
+        "title": "AWS SAM support for HashiCorp Terraform now generally available",
+        "link": "https://aws.amazon.com/blogs/compute/aws-sam-support-for-hashicorp-terraform-now-generally-available/"
+    },
+    {
+        "title": "Enhancing Workflow Studio with new features for streamlined authoring",
+        "link": "https://aws.amazon.com/blogs/compute/enhancing-workflow-studio-with-new-features-for-streamlined-authoring/"
+    },
+    {
+        "title": "Introducing Intra-VPC Communication Across Multiple Outposts with Direct VPC Routing",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-intra-vpc-communication-across-multiple-outposts-with-direct-vpc-routing/"
+    },
+    {
+        "title": "Enhancing file sharing using Amazon S3 and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/compute/enhancing-file-sharing-using-amazon-s3-and-aws-step-functions/"
+    },
+    {
+        "title": "Using and Managing Security Groups on AWS Snowball Edge devices",
+        "link": "https://aws.amazon.com/blogs/compute/using-and-managing-security-groups-on-aws-snowball-edge-devices/"
+    },
+    {
+        "title": "Protecting an AWS Lambda function URL with Amazon CloudFront and Lambda@Edge",
+        "link": "https://aws.amazon.com/blogs/compute/protecting-an-aws-lambda-function-url-with-amazon-cloudfront-and-lambdaedge/"
+    },
+    {
+        "title": "Providing durable storage for AWS Outposts servers using AWS Snowcone",
+        "link": "https://aws.amazon.com/blogs/compute/providing-durable-storage-for-aws-outpost-servers-using-aws-snowcone/"
+    },
+    {
+        "title": "Implementing the transactional outbox pattern with Amazon EventBridge Pipes",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-the-transactional-outbox-pattern-with-amazon-eventbridge-pipes/"
+    },
+    {
+        "title": "Create, Use, and Troubleshoot Launch Scripts on Amazon Lightsail",
+        "link": "https://aws.amazon.com/blogs/compute/create-use-and-troubleshoot-launch-scripts-on-amazon-lightsail/"
+    },
+    {
+        "title": "Integrating IBM MQ with Amazon SQS and Amazon SNS using Apache Camel",
+        "link": "https://aws.amazon.com/blogs/compute/integrating-ibm-mq-with-amazon-sqs-and-amazon-sns-using-apache-camel/"
+    }
+]

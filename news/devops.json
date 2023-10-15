@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Using Generative AI, Amazon Bedrock and Amazon CodeGuru to Improve Code Quality and Security",
+        "link": "https://aws.amazon.com/blogs/devops/using-generative-ai-amazon-bedrock-and-amazon-codeguru-to-improve-code-quality-and-security/"
+    },
+    {
+        "title": "Blue/Green deployments using AWS CDK Pipelines and AWS CodeDeploy",
+        "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-using-aws-cdk-pipelines-and-aws-codedeploy/"
+    },
+    {
+        "title": "Enhancing Resource Isolation in AWS CDK with the App Staging Synthesizer",
+        "link": "https://aws.amazon.com/blogs/devops/enhancing-resource-isolation-in-aws-cdk-with-the-app-staging-synthesizer/"
+    },
+    {
+        "title": "Build and deploy to Amazon EKS with Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/devops/build-and-deploy-to-amazon-eks-with-amazon-codecatalyst/"
+    },
+    {
+        "title": "Automate Lambda code signing with Amazon CodeCatalyst and AWS Signer",
+        "link": "https://aws.amazon.com/blogs/devops/automate-lambda-code-signing-with-amazon-codecatalyst-and-aws-signer/"
+    },
+    {
+        "title": "Using Amazon CodeCatalyst Blueprints to Build and Deploy a Video-On-Demand Application to AWS",
+        "link": "https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-blueprints-to-build-and-deploy-a-video-on-demand-application-to-aws/"
+    },
+    {
+        "title": "Deploying container application using Amazon CodeCatalyst and AWS App Runner",
+        "link": "https://aws.amazon.com/blogs/devops/deploying-container-application-using-amazon-codecatalyst-and-aws-app-runner/"
+    },
+    {
+        "title": "How to import existing resources into AWS CDK Stacks",
+        "link": "https://aws.amazon.com/blogs/devops/how-to-import-existing-resources-into-aws-cdk-stacks/"
+    },
+    {
+        "title": "Implementing GitFlow with Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/devops/implementing-gitflow-with-amazon-codecatalyst/"
+    },
+    {
+        "title": "Manage roles and entitlements with PBAC using Amazon Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/devops/manage-roles-and-entitlements-with-pbac-using-amazon-verified-permissions/"
+    },
+    {
+        "title": "Best Practices for Writing Step Functions Terraform Projects",
+        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-writing-step-functions-terraform-projects/"
+    },
+    {
+        "title": "Using AWS CloudFormation and AWS Cloud Development Kit to provision multicloud resources",
+        "link": "https://aws.amazon.com/blogs/devops/using-aws-cloudformation-and-aws-cloud-development-kit-to-provision-multicloud-resources/"
+    },
+    {
+        "title": "Identify regional feature parity using the AWS CloudFormation registry",
+        "link": "https://aws.amazon.com/blogs/devops/identify-regional-feature-parity-using-the-aws-cloudformation-registry/"
+    },
+    {
+        "title": "How to add notifications and manual approval to an AWS CDK Pipeline",
+        "link": "https://aws.amazon.com/blogs/devops/how-to-add-notifications-and-manual-approval-to-an-aws-cdk-pipeline/"
+    },
+    {
+        "title": "Implementing automatic drift detection in CDK Pipelines using Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/devops/implementing-automatic-drift-detection-in-cdk-pipelines-using-amazon-eventbridge/"
+    },
+    {
+        "title": "Load test your applications in a CI/CD pipeline using CDK  pipelines and AWS Distributed Load Testing Solution",
+        "link": "https://aws.amazon.com/blogs/devops/load-test-applications-in-cicd-pipeline/"
+    },
+    {
+        "title": "Developing with Java and Spring Boot using Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/"
+    },
+    {
+        "title": "Exploring Fn::ForEach and Fn::FindInMap enhancements in AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/devops/exploring-fnforeach-and-fnfindinmap-enhancements-in-aws-cloudformation/"
+    },
+    {
+        "title": "Deploy serverless applications in a multicloud environment using Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/devops/deploy-serverless-applications-in-a-multicloud-environment-using-amazon-codecatalyst/"
+    },
+    {
+        "title": "Deploy container applications in a multicloud environment using Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/devops/deploy-container-applications-in-a-multicloud-environment-using-amazon-codecatalyst/"
+    }
+]

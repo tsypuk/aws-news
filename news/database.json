@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Migrate SQL Server to Babelfish for Aurora PostgreSQL using the Compass tool and AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-to-babelfish-for-aurora-postgresql-using-the-compass-tool-and-aws-dms/"
+    },
+    {
+        "title": "Archive to cold storage with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/archive-to-cold-storage-with-amazon-dynamodb/"
+    },
+    {
+        "title": "Import Ethereum private keys to AWS KMS",
+        "link": "https://aws.amazon.com/blogs/database/import-ethereum-private-keys-to-aws-kms/"
+    },
+    {
+        "title": "How Zalando migrated their shopping carts to Amazon DynamoDB from Apache Cassandra",
+        "link": "https://aws.amazon.com/blogs/database/how-zalando-migrated-their-shopping-carts-to-amazon-dynamodb-from-apache-cassandra/"
+    },
+    {
+        "title": "Unlocking cost-optimization: Open Raven\u2019s journey with Amazon Aurora I/O-Optimized leads to 60% savings",
+        "link": "https://aws.amazon.com/blogs/database/unlocking-cost-optimization-open-ravens-journey-with-amazon-aurora-i-o-optimized-leads-to-60-savings/"
+    },
+    {
+        "title": "Using pgactive: Active-active Replication Extension for PostgreSQL on Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/using-pgactive-active-active-replication-extension-for-postgresql-on-amazon-rds-for-postgresql/"
+    },
+    {
+        "title": "Filter delete operations with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/filter-delete-operations-with-aws-dms/"
+    },
+    {
+        "title": "Run Ethereum nodes on AWS",
+        "link": "https://aws.amazon.com/blogs/database/run-ethereum-nodes-on-aws/"
+    },
+    {
+        "title": "How VMware consolidated a multi-tenant cloud asset data store on Amazon Aurora MySQL with Amazon RDS Proxy",
+        "link": "https://aws.amazon.com/blogs/database/how-vmware-consolidated-a-multi-tenant-cloud-asset-data-store-on-amazon-aurora-mysql-with-amazon-rds-proxy/"
+    },
+    {
+        "title": "Configure Amazon Aurora PostgreSQL database activity streams for monitoring in IBM Guardium",
+        "link": "https://aws.amazon.com/blogs/database/configure-amazon-aurora-postgresql-database-activity-streams-for-monitoring-in-ibm-guardium/"
+    },
+    {
+        "title": "The Future of Personal Digital Records: Unlocking Security and Efficiency through Blockchain and Smart Contracts",
+        "link": "https://aws.amazon.com/blogs/database/the-future-of-personal-digital-records-unlocking-security-and-efficiency-through-blockchain-and-smart-contracts/"
+    },
+    {
+        "title": "Implement auto-increment with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/implement-auto-increment-with-amazon-dynamodb/"
+    },
+    {
+        "title": "Cross-account Amazon RDS for Oracle migration using Amazon RDS snapshots and AWS DMS for minimal downtime",
+        "link": "https://aws.amazon.com/blogs/database/cross-account-amazon-rds-for-oracle-migration-using-amazon-rds-snapshots-and-aws-dms-for-minimal-downtime/"
+    },
+    {
+        "title": "Gain insights from Web3 data with The Graph and Amazon Managed Blockchain",
+        "link": "https://aws.amazon.com/blogs/database/gain-insights-from-web3-data-with-the-graph-and-amazon-managed-blockchain/"
+    },
+    {
+        "title": "Migrate a cross-account TDE-enabled Amazon RDS for Oracle DB instance with reduced downtime using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/migrate-a-cross-account-tde-enabled-amazon-rds-for-oracle-db-instance-with-reduced-downtime-using-aws-dms/"
+    },
+    {
+        "title": "Introducing incremental export from Amazon DynamoDB to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/database/introducing-incremental-export-from-amazon-dynamodb-to-amazon-s3/"
+    },
+    {
+        "title": "Implement a CI/CD pipeline for Ethereum smart contract development on AWS \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/database/implement-a-ci-cd-pipeline-for-ethereum-smart-contract-development-on-aws-part-2/"
+    },
+    {
+        "title": "Build an ultra-low latency online feature store for real-time inferencing using Amazon ElastiCache for Redis",
+        "link": "https://aws.amazon.com/blogs/database/build-an-ultra-low-latency-online-feature-store-for-real-time-inferencing-using-amazon-elasticache-for-redis/"
+    },
+    {
+        "title": "How to deploy SQL Server Analysis Services on RDS Custom in a new VPC environment",
+        "link": "https://aws.amazon.com/blogs/database/how-to-deploy-sql-server-analysis-services-on-rds-custom-in-a-new-vpc-environment/"
+    },
+    {
+        "title": "Explore the prerequisites required to create an Amazon RDS Custom for SQL Server instance",
+        "link": "https://aws.amazon.com/blogs/database/explore-the-prerequisites-required-to-create-an-amazon-rds-custom-for-sql-server-instance/"
+    }
+]
