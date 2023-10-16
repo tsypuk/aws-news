@@ -3,7 +3,7 @@ name: Nightly Job
 on:
   schedule:
     - cron: '0 0 * * *' # This will run every night at midnight UTC
-    - cron: '*/10 * * * *' # testing schedule
+#    - cron: '*/10 * * * *' # testing schedule
 
 jobs:
   nightly-job:
@@ -25,7 +25,6 @@ jobs:
           poetry run python aws_news_crawler/__init__.py
       - name: push to git
         run: |
-          date > generated.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
