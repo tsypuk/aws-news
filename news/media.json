@@ -1,5 +1,9 @@
 [
     {
+        "title": "Observability using native Amazon CloudWatch and AWS X-Ray for serverless modern applications",
+        "link": "https://aws.amazon.com/blogs/mt/observability-using-native-amazon-cloudwatch-and-aws-x-ray-for-serverless-modern-applications/"
+    },
+    {
         "title": "Accelerate End-to-End Application Modernization with AWS App2Container and AWS Migration Hub Refactor Spaces",
         "link": "https://aws.amazon.com/blogs/mt/accelerate-end-to-end-application-modernization-with-aws-app2container-and-aws-migration-hub-refactor-spaces/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining AWS Application Migration Service Replication Agent deployment using MGN connector",
         "link": "https://aws.amazon.com/blogs/mt/streamlining-aws-application-migration-service-replication-agent-deployment-using-mgn-connector/"
-    },
-    {
-        "title": "Learn how to design landing zone architectures with new AWS Control Tower training",
-        "link": "https://aws.amazon.com/blogs/mt/learn-how-to-design-landing-zone-architectures-with-new-aws-control-tower-training/"
     }
 ]
