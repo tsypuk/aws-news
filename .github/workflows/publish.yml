@@ -3,6 +3,7 @@ name: Nightly Job
 on:
   schedule:
     - cron: '0 0 * * *' # This will run every night at midnight UTC
+    - cron: '*/10 * * * *' # testing schedule
 
 jobs:
   nightly-job:
