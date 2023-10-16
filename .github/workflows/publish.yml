@@ -22,6 +22,7 @@ jobs:
           poetry install
           poetry run python aws_news_crawler/__init__.py
       - uses: actions/checkout@v3
+      - name: push to git
       - run: |
           date > generated.txt
           git config user.name github-actions
