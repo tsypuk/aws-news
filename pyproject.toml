@@ -8,6 +8,7 @@ packages = [{include = "aws_news"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+git-changelog = "^2.3.1"
 
 
 [build-system]
