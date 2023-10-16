@@ -9,9 +9,7 @@ jobs:
   nightly-job:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
       - uses: actions/checkout@v3
-      - name: Install python
       - uses: actions/setup-python@v4
         with:
           python-version: 3.11
