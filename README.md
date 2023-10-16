@@ -40,6 +40,8 @@
 
 ## Converted AWS feeds to JSON
 
+All these files content is crawled with nightly job ``cron: '0 0 * * *'`` and is always up-to-date.
+
 | Name                              | JSON Content                                                                 |
 |-----------------------------------|------------------------------------------------------------------------------|
 | Architecture                      | https://blog.tsypuk.com/aws-news/news/architecture.json                      |
