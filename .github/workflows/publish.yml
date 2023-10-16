@@ -17,5 +17,6 @@ jobs:
         run: pip install poetry
       - name: Run all tests
         run: |
+          cd aws-news-crawler
           poetry install
           poetry run python aws_news_crawler/__init__.py
