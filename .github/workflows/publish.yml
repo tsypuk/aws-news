@@ -15,11 +15,11 @@ jobs:
           python-version: 3.11
       - name: Install poetry
         run: pip install poetry
-      - name: Run all tests
+      - name: Install dependencies
         run: |
-          pwd
           cd aws-news-crawler
-          pwd
           poetry install
-          pwd
+      - name: Execute crawler
+        run: |
+          cd aws-news-crawler
           poetry run python aws_news_crawler/__init__.py
