@@ -1,5 +1,13 @@
 [
     {
+        "title": "New \u2013 Seventh Generation Memory-optimized Amazon EC2 Instances (R7i)",
+        "link": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/"
+    },
+    {
+        "title": "AWS Weekly Roundup \u2013 EBS Status Check, Textract Custom Queries, Amazon Linux 2, and more \u2013 October 16, 2023",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ebs-status-check-textract-custom-queries-amazon-linux-2-and-more-october-16-2023/"
+    },
+    {
         "title": "AWS Weekly Roundup: AWS Control Tower, Amazon Bedrock, Amazon OpenSearch Service, and More (October 9, 2023)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-control-tower-amazon-bedrock-amazon-opensearch-service-and-more-october-9-2023/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS End User Computing Innovation Day 2023:  Architecting End User Computing for Change and Agility",
         "link": "https://aws.amazon.com/blogs/aws/aws-end-user-computing-innovation-day-2023-architecting-end-user-computing-for-change-and-agility/"
-    },
-    {
-        "title": "How Vercel Shipped Cron Jobs in 2 Months Using Amazon EventBridge Scheduler",
-        "link": "https://aws.amazon.com/blogs/aws/how-vercel-shipped-cron-jobs-in-2-months-using-amazon-eventbridge-scheduler/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Farewell EC2-Classic, EBS at 15 Years, and More (Sept. 4, 2023)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-farewell-ec2-classic-ebs-at-15-years-and-more-sept-4-2023/"
     }
 ]

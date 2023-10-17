@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing a new temperature-resistant packaging technique for optical devices",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-a-new-temperature-resistant-packaging-technique-for-optical-devices/"
+    },
+    {
         "title": "Speeding up hybrid quantum algorithms with parametric circuits on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/speeding-up-hybrid-quantum-algorithms-with-parametric-circuits-on-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How we learned to program with atoms in 24 hours flat",
         "link": "https://aws.amazon.com/blogs/quantum-computing/how-we-learned-to-program-with-atoms-in-24-hours-flat/"
-    },
-    {
-        "title": "Amazon Braket now included in AWS SOC-2 Security, Availability, Confidentiality & Privacy Report",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-now-included-in-aws-soc-2-security-availability-confidentiality-privacy-report/"
     }
 ]
