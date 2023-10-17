@@ -1,5 +1,9 @@
 [
     {
+        "title": "Query Heterogeneous Data Sources through AWS AppSync GraphQL APIs",
+        "link": "https://aws.amazon.com/blogs/mobile/query-heterogeneous-data-sources-through-aws-appsync-graphql-apis/"
+    },
+    {
         "title": "GraphQL Gateway Based Federation with AWS AppSync and GraphQL Fusion",
         "link": "https://aws.amazon.com/blogs/mobile/graphql-gateway-based-federation-with-aws-appsync-and-graphql-fusion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a social network app with Amplify Form Builder and Storage",
         "link": "https://aws.amazon.com/blogs/mobile/building-a-social-network-app-with-amplify-form-builder-and-storage/"
-    },
-    {
-        "title": "AWS Amplify JavaScript Library Announces Leaner Bundles and Faster Load Times",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-javascript-library-announces-leaner-bundles-and-faster-load-times/"
     }
 ]

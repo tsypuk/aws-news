@@ -1,5 +1,9 @@
 [
     {
+        "title": "Processing large records with Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/processing-large-records-with-amazon-kinesis-data-streams/"
+    },
+    {
         "title": "Orchestrate Amazon EMR Serverless jobs with AWS Step functions",
         "link": "https://aws.amazon.com/blogs/big-data/orchestrate-amazon-emr-serverless-jobs-with-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Experian identity resolution with AWS Clean Rooms to achieve higher audience activation match rates",
         "link": "https://aws.amazon.com/blogs/big-data/using-experian-identity-resolution-with-aws-clean-rooms-to-achieve-higher-audience-activation-match-rates/"
-    },
-    {
-        "title": "Manage your workloads better using Amazon Redshift Workload Management",
-        "link": "https://aws.amazon.com/blogs/big-data/manage-your-workloads-better-using-amazon-redshift-workload-management/"
     }
 ]

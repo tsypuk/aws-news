@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to build a scalable, multi-tenant IoT SaaS platform on AWS using a multi-account strategy",
+        "link": "https://aws.amazon.com/blogs/iot/how-to-build-a-scalable-multi-tenant-iot-saas-platform-on-aws-using-a-multi-account-strategy/"
+    },
+    {
         "title": "2023 year in review: digital twins on AWS for agile and resilient operations",
         "link": "https://aws.amazon.com/blogs/iot/2023-year-in-review-digital-twins-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Industrial Overall Equipment Effectiveness (OEE) guide with AWS IoT SiteWise",
         "link": "https://aws.amazon.com/blogs/iot/industrial-ooee-with-aws-iot-sitewise/"
-    },
-    {
-        "title": "Building and Modernizing Connected Vehicle platforms with AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/modernizing-connected-vehicle-platforms-with-aws-iot/"
     }
 ]

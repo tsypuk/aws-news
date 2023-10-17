@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/"
+    },
+    {
         "title": "Improve performance of Falcon models with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build an end-to-end MLOps pipeline for visual quality inspection at the edge \u2013 Part 3",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-3/"
-    },
-    {
-        "title": "Build a crop segmentation machine learning model with Planet data and Amazon SageMaker geospatial capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-crop-segmentation-machine-learning-model-with-planet-data-and-amazon-sagemaker-geospatial-capabilities/"
     }
 ]
