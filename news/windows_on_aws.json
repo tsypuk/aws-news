@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reserve your seat: Microsoft workloads on AWS sessions at re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reserve-your-seat-microsoft-workloads-on-aws-sessions-at-reinvent-2023/"
+    },
+    {
         "title": "Comparing performance of new releases of Babelfish and comparing Babelfish performance with SQL Server",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/comparing-performance-of-new-releases-of-babelfish-and-comparing-babelfish-performance-with-sql-server/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to copy data from Azure Blob Storage to Amazon S3 using code",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/azure-blob-to-amazon-s3/"
-    },
-    {
-        "title": "How to simplify certificate provisioning in Active Directory with AWS Private Certificate Authority",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-certificate-provisioning-in-ad-with-aws-private-ca/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the AWS Well-Architected Framework DevOps Guidance",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-aws-well-architected-framework-devops-guidance/"
+    },
+    {
         "title": "Using Generative AI, Amazon Bedrock and Amazon CodeGuru to Improve Code Quality and Security",
         "link": "https://aws.amazon.com/blogs/devops/using-generative-ai-amazon-bedrock-and-amazon-codeguru-to-improve-code-quality-and-security/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy serverless applications in a multicloud environment using Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/deploy-serverless-applications-in-a-multicloud-environment-using-amazon-codecatalyst/"
-    },
-    {
-        "title": "Deploy container applications in a multicloud environment using Amazon CodeCatalyst",
-        "link": "https://aws.amazon.com/blogs/devops/deploy-container-applications-in-a-multicloud-environment-using-amazon-codecatalyst/"
     }
 ]
