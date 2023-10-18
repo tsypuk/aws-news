@@ -1,5 +1,13 @@
 [
     {
+        "title": "Create a centralized repository for Oracle AWR reports using Amazon EFS integration for Amazon RDS for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/create-a-centralized-repository-for-oracle-awr-reports-using-amazon-efs-integration-for-amazon-rds-for-oracle/"
+    },
+    {
+        "title": "Implement an automated approach for handling AWS DMS operational events",
+        "link": "https://aws.amazon.com/blogs/database/implement-an-automated-approach-for-handling-aws-dms-operational-events/"
+    },
+    {
         "title": "Deploy Amazon RDS Custom for Oracle using Terraform modules",
         "link": "https://aws.amazon.com/blogs/database/deploy-amazon-rds-custom-for-oracle-using-terraform-modules/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate a cross-account TDE-enabled Amazon RDS for Oracle DB instance with reduced downtime using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/migrate-a-cross-account-tde-enabled-amazon-rds-for-oracle-db-instance-with-reduced-downtime-using-aws-dms/"
-    },
-    {
-        "title": "Introducing incremental export from Amazon DynamoDB to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/database/introducing-incremental-export-from-amazon-dynamodb-to-amazon-s3/"
-    },
-    {
-        "title": "Implement a CI/CD pipeline for Ethereum smart contract development on AWS \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/database/implement-a-ci-cd-pipeline-for-ethereum-smart-contract-development-on-aws-part-2/"
     }
 ]

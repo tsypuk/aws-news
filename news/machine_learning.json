@@ -1,5 +1,17 @@
 [
     {
+        "title": "Learn how Amazon Pharmacy created their LLM-based chat-bot using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-pharmacy-created-their-llm-based-chat-bot-using-amazon-sagemaker/"
+    },
+    {
+        "title": "Keeping an eye on your cattle using AI technology",
+        "link": "https://aws.amazon.com/blogs/machine-learning/keeping-an-eye-on-your-cattle-using-ai-technology/"
+    },
+    {
+        "title": "Personalize your search results with Amazon Personalize and Amazon OpenSearch Service integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/personalize-your-search-results-with-amazon-personalize-and-amazon-opensearch-service-integration/"
+    },
+    {
         "title": "How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Code Llama code generation models from Meta are now available via Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/code-llama-code-generation-models-from-meta-are-now-available-via-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Build an end-to-end MLOps pipeline for visual quality inspection at the edge \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1/"
-    },
-    {
-        "title": "Build an end-to-end MLOps pipeline for visual quality inspection at the edge \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-2/"
-    },
-    {
-        "title": "Build an end-to-end MLOps pipeline for visual quality inspection at the edge \u2013 Part 3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-3/"
     }
 ]
