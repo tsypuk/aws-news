@@ -1,5 +1,9 @@
 [
     {
+        "title": "Refactor to Modern .NET and Move to Linux",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/refactor-to-modern-net-and-move-to-linux/"
+    },
+    {
         "title": "Reserve your seat: Microsoft workloads on AWS sessions at re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reserve-your-seat-microsoft-workloads-on-aws-sessions-at-reinvent-2023/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to view Azure costs using Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/cloud-intelligence-dashboard-for-azure/"
-    },
-    {
-        "title": "How to copy data from Azure Blob Storage to Amazon S3 using code",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/azure-blob-to-amazon-s3/"
     }
 ]

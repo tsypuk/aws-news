@@ -1,5 +1,17 @@
 [
     {
+        "title": "Reduce container startup time on Amazon EKS with Bottlerocket data volume",
+        "link": "https://aws.amazon.com/blogs/containers/reduce-container-startup-time-on-amazon-eks-with-bottlerocket-data-volume/"
+    },
+    {
+        "title": "Build a multi-tenant chatbot with RAG using Amazon Bedrock and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/build-a-multi-tenant-chatbot-with-rag-using-amazon-bedrock-and-amazon-eks/"
+    },
+    {
+        "title": "Manage scale-to-zero scenarios with Karpenter and Serverless",
+        "link": "https://aws.amazon.com/blogs/containers/manage-scale-to-zero-scenarios-with-karpenter-and-serverless/"
+    },
+    {
         "title": "Implement AWS IAM authentication with Amazon VPC Lattice and Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/implement-aws-iam-authentication-with-amazon-vpc-lattice-and-amazon-eks/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Amazon EKS extended support for Kubernetes versions available in preview",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-available-in-preview/"
-    },
-    {
-        "title": "Use shared VPC subnets in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/use-shared-vpcs-in-amazon-eks/"
-    },
-    {
-        "title": "Build secure application networks with VPC Lattice, Amazon ECS, and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/containers/build-secure-application-networks-with-vpc-lattice-amazon-ecs-and-aws-lambda/"
-    },
-    {
-        "title": "AWS App Runner adds support for monorepos",
-        "link": "https://aws.amazon.com/blogs/containers/aws-app-runner-adds-support-for-monorepos/"
     }
 ]
