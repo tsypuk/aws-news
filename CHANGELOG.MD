@@ -6,7 +6,23 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/0.1.00.1.0) - 2023-10-16
+## [0.2.0](https://github.com/tsypuk/aws-news/releases/tag/0.2.0) - 2023-10-19
+
+<small>[Compare with 0.1.0](https://github.com/tsypuk/aws-news/compare/0.1.0...0.2.0)</small>
+
+### Docs
+
+- update README with index details ([b7b522c](https://github.com/tsypuk/aws-news/commit/b7b522c934fb60f2ec8795cfe8ca40333178fdb0) by Roman Tsypuk).
+- add schedule info ([112e632](https://github.com/tsypuk/aws-news/commit/112e632d6fef244caa93bc3409b9e531f8216307) by Roman Tsypuk).
+
+### Features
+
+- add initial index ([4bb94a0](https://github.com/tsypuk/aws-news/commit/4bb94a037f203c0faa6bba96f4b097f268ddef9c) by Roman Tsypuk).
+- add utx and path to index ([a0f864a](https://github.com/tsypuk/aws-news/commit/a0f864a4a26ec5c2c93b1df680b52ebdf925b7d4) by Roman Tsypuk).
+- add index generation ([6a2c83e](https://github.com/tsypuk/aws-news/commit/6a2c83e0e710657a0f3434ec3ec07c3c8e303fde) by Roman Tsypuk).
+- github actions schedule nigthly job completed ([f59d6e5](https://github.com/tsypuk/aws-news/commit/f59d6e58f0531a1970b2daca0cd46498fb251368) by Roman Tsypuk).
+
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/0.1.0) - 2023-10-16
 
 <small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/d23c8f084ce23d8fc9e782fd26fa323cdfd03a08...0.1.0)</small>
 
