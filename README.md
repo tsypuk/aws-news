@@ -1,19 +1,3 @@
-## News Index:
-
-https://blog.tsypuk.com/aws-news/index.json                    |
-
-Index is built nightly and has the latest info for each feed.
-You can query it, cache and compare if it was updated since last by any of following fields:
-
-| Param     | Description                              | Example                                                          |
-|-----------|------------------------------------------|------------------------------------------------------------------|
-| name      | same name as AWS feed (see next section) | architecture                                                     |
-| size      | file size in Bytes                       | 4584                                                             |
-| timestamp | timestamp                                | 1697723020.3600237                                               |
-| utc       | UTC string representation                | 2023-10-19T13:43:40.360024+00:00                                 |
-| hash      | SHA256 file hash                         | fc4007c3a01b8e5629fdd0ac102257ba23935f4f5070724f5e9181aa2f0666e0 |
-| path      | URL to download                          | https://blog.tsypuk.com/aws-news/news/architecture.json          |
-
 ## Public AWS RSS feeds (XML-based):
 
 | Name                              | AWS RSS FEED                                                         |
@@ -95,3 +79,19 @@ All these files content is crawled with nightly job ``cron: '0 0 * * *'`` and is
 | Storage                           | https://blog.tsypuk.com/aws-news/news/storage.json                           |
 | Training Certification            | https://blog.tsypuk.com/aws-news/news/training_certification.json            |
 | Windows on AWS                    | https://blog.tsypuk.com/aws-news/news/windows_on_aws.json                    |
+
+## News Index:
+
+https://blog.tsypuk.com/aws-news/index.json                    |
+
+Index is built nightly and has the latest info for each feed.
+You can query it, cache and compare if it was updated since last by any of following fields:
+
+| Param     | Example                                                          |
+|-----------|------------------------------------------------------------------|
+| name      | architecture                                                     |
+| size      | 4584                                                             |
+| timestamp | 1697723020.3600237                                               |
+| utc       | 2023-10-19T13:43:40.360024+00:00                                 |
+| hash      | fc4007c3a01b8e5629fdd0ac102257ba23935f4f5070724f5e9181aa2f0666e0 |
+| path      | https://blog.tsypuk.com/aws-news/news/architecture.json          |
