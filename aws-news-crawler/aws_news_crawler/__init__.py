@@ -1,6 +1,7 @@
 import hashlib
 import json
 import os
+from datetime import datetime, timezone
 
 import feedparser
 
@@ -34,16 +35,15 @@ def main():
             'name': file_name,
             'size': size,
             'timestamp': timestamp,
-            'hash': sha256_hash
+            'utc': datetime.fromtimestamp(timestamp, timezone.utc).isoformat(),
+            'hash': sha256_hash,
+            'path': f'https://blog.tsypuk.com/aws-news/news/{file_name}.json'
         }
 
         output_data.append(file_info)
 
-    with open('index.json', 'w') as output_file:
+    with open('../index.json', 'w') as output_file:
         json.dump(output_data, output_file, indent=4)
-
-
-
 
 if __name__ == "__main__":
     main()
