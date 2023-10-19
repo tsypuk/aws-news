@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing login nodes in AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/hpc/introducing-login-nodes-in-aws-parallelcluster/"
+    },
+    {
         "title": "Financial services industry HPC migrations using AWS ParallelCluster with Slurm",
         "link": "https://aws.amazon.com/blogs/hpc/financial-services-industry-hpc-migrations-using-aws-parallelcluster-with-slurm/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate your clusters by creating self-documenting HPC with AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/automate-your-clusters-by-creating-self-documenting-hpc-with-aws-parallelcluster/"
-    },
-    {
-        "title": "Running protein structure prediction at scale using a web interface for researchers",
-        "link": "https://aws.amazon.com/blogs/hpc/running-protein-structure-prediction-at-scale-using-a-web-interface-for-researchers/"
     }
 ]

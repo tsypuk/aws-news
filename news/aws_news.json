@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon MSK Replicator \u2013 Fully Managed Replication across MSK Clusters in Same or Different AWS Regions",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-msk-replicator-fully-managed-replication-across-msk-clusters-in-same-or-different-aws-regions/"
+    },
+    {
         "title": "New Customization Capability in Amazon CodeWhisperer Generates Even Better Suggestions (Preview)",
         "link": "https://aws.amazon.com/blogs/aws/new-customization-capability-in-amazon-codewhisperer-generates-even-better-suggestions-preview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New Amazon EC2 R7iz Instances are Optimized for High CPU Performance, Memory-Intensive Workloads",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/"
-    },
-    {
-        "title": "The newest AWS Heroes are here \u2013 September 2023",
-        "link": "https://aws.amazon.com/blogs/aws/the-newest-aws-heroes-are-here-september-2023/"
     }
 ]

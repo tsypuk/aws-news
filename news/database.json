@@ -1,5 +1,21 @@
 [
     {
+        "title": "The convergence of AI and digital assets: A new dawn for financial infrastructure",
+        "link": "https://aws.amazon.com/blogs/database/the-convergence-of-ai-and-digital-assets-a-new-dawn-for-financial-infrastructure/"
+    },
+    {
+        "title": "Migrate IBM Db2 LUW to Amazon Aurora PostgreSQL or Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrate-ibm-db2-luw-to-amazon-aurora-postgresql-or-amazon-rds-for-postgresql/"
+    },
+    {
+        "title": "How to enable and optimize audits on Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/how-to-enable-and-optimize-audits-on-amazon-rds-for-sql-server/"
+    },
+    {
+        "title": "Unlock the power of the AWS CLI for Amazon RDS and Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/unlock-the-power-of-the-aws-cli-for-amazon-rds-and-amazon-aurora/"
+    },
+    {
         "title": "Create a centralized repository for Oracle AWR reports using Amazon EFS integration for Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/create-a-centralized-repository-for-oracle-awr-reports-using-amazon-efs-integration-for-amazon-rds-for-oracle/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "The Future of Personal Digital Records: Unlocking Security and Efficiency through Blockchain and Smart Contracts",
         "link": "https://aws.amazon.com/blogs/database/the-future-of-personal-digital-records-unlocking-security-and-efficiency-through-blockchain-and-smart-contracts/"
-    },
-    {
-        "title": "Implement auto-increment with Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/implement-auto-increment-with-amazon-dynamodb/"
-    },
-    {
-        "title": "Cross-account Amazon RDS for Oracle migration using Amazon RDS snapshots and AWS DMS for minimal downtime",
-        "link": "https://aws.amazon.com/blogs/database/cross-account-amazon-rds-for-oracle-migration-using-amazon-rds-snapshots-and-aws-dms-for-minimal-downtime/"
-    },
-    {
-        "title": "Gain insights from Web3 data with The Graph and Amazon Managed Blockchain",
-        "link": "https://aws.amazon.com/blogs/database/gain-insights-from-web3-data-with-the-graph-and-amazon-managed-blockchain/"
-    },
-    {
-        "title": "Migrate a cross-account TDE-enabled Amazon RDS for Oracle DB instance with reduced downtime using AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/migrate-a-cross-account-tde-enabled-amazon-rds-for-oracle-db-instance-with-reduced-downtime-using-aws-dms/"
     }
 ]
