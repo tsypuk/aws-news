@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Marketplace Seller Conference 2023 recap",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/aws-marketplace-seller-conference-2023-recap/"
+    },
+    {
         "title": "How to set seller disbursement preferences in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-set-seller-disbursement-preferences-in-aws-marketplace/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to provision software available in AWS Marketplace in AWS GovCloud",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-provision-software-aws-marketplace-govcloud/"
-    },
-    {
-        "title": "Track machine learning experiments using InfinStor MLflow with Amazon SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/track-machine-learning-experiments-infinstor-mlflow-amazon-sagemaker-studio/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transferring data from Google Cloud Filestore to Amazon EFS using AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/transferring-data-from-google-cloud-filestore-to-amazon-efs-using-aws-datasync/"
+    },
+    {
         "title": "Retaining Amazon EC2 AMI snapshots for compliance using Amazon EBS Snapshots Archive",
         "link": "https://aws.amazon.com/blogs/storage/retaining-amazon-ec2-ami-snapshots-for-compliance-using-amazon-ebs-snapshots-archive/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Detect malware threats using AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/detect-malware-threats-using-aws-transfer-family/"
-    },
-    {
-        "title": "Configuring the auto-expansion of Amazon FSx for OpenZFS with Amazon CloudWatch and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/storage/configuring-the-auto-expansion-of-fsx-for-openzfs-using-cloudwatch-alarms-and-aws-lambda/"
     }
 ]
