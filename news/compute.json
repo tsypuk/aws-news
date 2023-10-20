@@ -1,5 +1,9 @@
 [
     {
+        "title": "Maintaining a local copy of your data in AWS Local Zones",
+        "link": "https://aws.amazon.com/blogs/compute/maintaining-a-local-copy-of-your-data-in-aws-local-zones/"
+    },
+    {
         "title": "Enabling highly available connectivity from on premises to AWS Local Zones",
         "link": "https://aws.amazon.com/blogs/compute/enabling-highly-available-connectivity-from-on-premises-to-aws-local-zones/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Protecting an AWS Lambda function URL with Amazon CloudFront and Lambda@Edge",
         "link": "https://aws.amazon.com/blogs/compute/protecting-an-aws-lambda-function-url-with-amazon-cloudfront-and-lambdaedge/"
-    },
-    {
-        "title": "Providing durable storage for AWS Outposts servers using AWS Snowcone",
-        "link": "https://aws.amazon.com/blogs/compute/providing-durable-storage-for-aws-outpost-servers-using-aws-snowcone/"
     }
 ]

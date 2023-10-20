@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor and alert on DDL and DCL changes in Amazon RDS for MySQL, Amazon RDS for MariaDB, and Amazon Aurora MySQL",
+        "link": "https://aws.amazon.com/blogs/database/monitor-and-alert-on-ddl-and-dcl-changes-in-amazon-rds-for-mysql-amazon-rds-for-mariadb-and-amazon-aurora-mysql/"
+    },
+    {
         "title": "The convergence of AI and digital assets: A new dawn for financial infrastructure",
         "link": "https://aws.amazon.com/blogs/database/the-convergence-of-ai-and-digital-assets-a-new-dawn-for-financial-infrastructure/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Configure Amazon Aurora PostgreSQL database activity streams for monitoring in IBM Guardium",
         "link": "https://aws.amazon.com/blogs/database/configure-amazon-aurora-postgresql-database-activity-streams-for-monitoring-in-ibm-guardium/"
-    },
-    {
-        "title": "The Future of Personal Digital Records: Unlocking Security and Efficiency through Blockchain and Smart Contracts",
-        "link": "https://aws.amazon.com/blogs/database/the-future-of-personal-digital-records-unlocking-security-and-efficiency-through-blockchain-and-smart-contracts/"
     }
 ]

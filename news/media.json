@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing a successful cloud migration: top five pitfalls and how to avoid a stall",
+        "link": "https://aws.amazon.com/blogs/mt/designing-a-successful-cloud-migration-top-five-pitfalls-and-how-to-avoid-a-stall/"
+    },
+    {
         "title": "Observe dynamic sites with Amazon CloudWatch Synthetics and AWS Systems Manager Parameter Store",
         "link": "https://aws.amazon.com/blogs/mt/observe-dynamic-sites-with-cloudwatch-synthetics-and-systems-manager-parameter-store/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Lambda-backed Custom Resources to Reduce Overhead in a Multi-Account Environment",
         "link": "https://aws.amazon.com/blogs/mt/using-lambda-backed-custom-resources-to-reduce-overhead-in-a-multi-account-environment/"
-    },
-    {
-        "title": "Scale your workload reviews with the new Review Templates feature in the AWS Well-Architected Tool",
-        "link": "https://aws.amazon.com/blogs/mt/scale-your-workload-reviews-with-the-new-review-templates-feature-in-the-aws-well-architected-tool/"
     }
 ]

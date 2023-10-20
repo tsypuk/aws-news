@@ -1,5 +1,13 @@
 [
     {
+        "title": "SmugMug\u2019s durable search pipelines for Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/smugmugs-durable-search-pipelines-for-amazon-opensearch-service/"
+    },
+    {
+        "title": "Load data incrementally from transactional data lakes to data warehouses",
+        "link": "https://aws.amazon.com/blogs/big-data/load-data-incrementally-from-transactional-data-lakes-to-data-warehouses/"
+    },
+    {
         "title": "Enhance your security posture by storing Amazon Redshift admin credentials without human intervention using AWS Secrets Manager integration",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-your-security-posture-by-storing-amazon-redshift-admin-credentials-without-human-intervention-using-aws-secrets-manager-integration/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate an existing data lake to a transactional data lake using Apache Iceberg",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-an-existing-data-lake-to-a-transactional-data-lake-using-apache-iceberg/"
-    },
-    {
-        "title": "Apache Iceberg optimization: Solving the small files problem in Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/apache-iceberg-optimization-solving-the-small-files-problem-in-amazon-emr/"
-    },
-    {
-        "title": "Non-JSON ingestion using Amazon Kinesis Data Streams, Amazon MSK, and Amazon Redshift Streaming Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/non-json-ingestion-using-amazon-kinesis-data-streams-amazon-msk-and-amazon-redshift-streaming-ingestion/"
     }
 ]

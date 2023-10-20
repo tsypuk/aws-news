@@ -1,5 +1,9 @@
 [
     {
+        "title": "Why you should use Fargate with AWS Batch for your serverless batch architectures",
+        "link": "https://aws.amazon.com/blogs/hpc/why-use-fargate-with-aws-batch-for-serverless-batch-compute/"
+    },
+    {
         "title": "Introducing login nodes in AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/introducing-login-nodes-in-aws-parallelcluster/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "High performance actuarial reserve modeling using AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/high-performance-actuarial-reserve-modeling-using-aws-batch/"
-    },
-    {
-        "title": "Automate your clusters by creating self-documenting HPC with AWS ParallelCluster",
-        "link": "https://aws.amazon.com/blogs/hpc/automate-your-clusters-by-creating-self-documenting-hpc-with-aws-parallelcluster/"
     }
 ]

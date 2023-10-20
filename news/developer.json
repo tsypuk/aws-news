@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improved DynamoDB Initialization Patterns for the AWS SDK for .NET",
+        "link": "https://aws.amazon.com/blogs/developer/improved-dynamodb-initialization-patterns-for-the-aws-sdk-for-net/"
+    },
+    {
         "title": "Update to AWS SDK for Java v2, AWS SDK for .NET v3, and AWS Tools for PowerShell when using S3 GetObjectAttributes API",
         "link": "https://aws.amazon.com/blogs/developer/update-to-aws-sdk-for-java-v2-aws-sdk-for-net-v3-and-aws-tools-for-powershell-when-using-s3-getobjectattributes-api/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Measure the Business Impact of Personalize Recommendations",
         "link": "https://aws.amazon.com/blogs/developer/measure-the-business-impact-of-personalize-recommendations/"
-    },
-    {
-        "title": "Introducing CRT-based S3 Client and the S3 Transfer Manager in the AWS SDK for Java 2.x",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-crt-based-s3-client-and-the-s3-transfer-manager-in-the-aws-sdk-for-java-2-x/"
     }
 ]

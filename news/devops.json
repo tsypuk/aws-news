@@ -1,5 +1,9 @@
 [
     {
+        "title": "Multiple Load Balancer Support in AWS CodeDeploy",
+        "link": "https://aws.amazon.com/blogs/devops/multiple-load-balance-support-in-codedeploy/"
+    },
+    {
         "title": "Announcing the AWS Well-Architected Framework DevOps Guidance",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-aws-well-architected-framework-devops-guidance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Exploring Fn::ForEach and Fn::FindInMap enhancements in AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/devops/exploring-fnforeach-and-fnfindinmap-enhancements-in-aws-cloudformation/"
-    },
-    {
-        "title": "Deploy serverless applications in a multicloud environment using Amazon CodeCatalyst",
-        "link": "https://aws.amazon.com/blogs/devops/deploy-serverless-applications-in-a-multicloud-environment-using-amazon-codecatalyst/"
     }
 ]
