@@ -1,5 +1,13 @@
 [
     {
+        "title": "Resolve private DNS hostnames for Amazon MSK Connect",
+        "link": "https://aws.amazon.com/blogs/big-data/resolve-private-dns-hostnames-for-amazon-msk-connect/"
+    },
+    {
+        "title": "Migrate data from Azure Blob Storage to Amazon S3 using AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-data-from-azure-blob-storage-to-amazon-s3-using-aws-glue/"
+    },
+    {
         "title": "SmugMug\u2019s durable search pipelines for Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/smugmugs-durable-search-pipelines-for-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate legacy ETL conversion to AWS Glue using Cognizant Data and Intelligence Toolkit (CDIT) \u2013 ETL Conversion Tool",
         "link": "https://aws.amazon.com/blogs/big-data/automate-legacy-etl-conversion-to-aws-glue-using-cognizant-data-and-intelligence-toolkit-cdit-etl-conversion-tool/"
-    },
-    {
-        "title": "Query big data with resilience using Trino in Amazon EMR with Amazon EC2 Spot Instances for less cost",
-        "link": "https://aws.amazon.com/blogs/big-data/query-big-data-with-resilience-using-trino-in-amazon-emr-with-amazon-ec2-spot-instances-for-less-cost/"
-    },
-    {
-        "title": "Migrate an existing data lake to a transactional data lake using Apache Iceberg",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-an-existing-data-lake-to-a-transactional-data-lake-using-apache-iceberg/"
     }
 ]
