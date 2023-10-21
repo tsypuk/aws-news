@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build ROSA Clusters with Terraform",
+        "link": "https://aws.amazon.com/blogs/containers/build-rosa-clusters-with-terraform/"
+    },
+    {
+        "title": "PBS speeds deployment and reduces costs with AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/containers/pbs-speeds-deployment-and-reduces-costs-with-aws-fargate/"
+    },
+    {
         "title": "Reduce container startup time on Amazon EKS with Bottlerocket data volume",
         "link": "https://aws.amazon.com/blogs/containers/reduce-container-startup-time-on-amazon-eks-with-bottlerocket-data-volume/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Start Spring Boot applications faster on AWS Fargate using SOCI",
         "link": "https://aws.amazon.com/blogs/containers/start-spring-boot-applications-faster-on-aws-fargate-using-soci/"
-    },
-    {
-        "title": "How to upgrade Amazon EKS worker nodes with Karpenter Drift",
-        "link": "https://aws.amazon.com/blogs/containers/how-to-upgrade-amazon-eks-worker-nodes-with-karpenter-drift/"
-    },
-    {
-        "title": "Amazon EKS extended support for Kubernetes versions available in preview",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-available-in-preview/"
     }
 ]

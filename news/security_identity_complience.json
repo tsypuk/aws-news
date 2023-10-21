@@ -1,5 +1,13 @@
 [
     {
+        "title": "IAM Roles Anywhere with an external certificate authority",
+        "link": "https://aws.amazon.com/blogs/security/iam-roles-anywhere-with-an-external-certificate-authority/"
+    },
+    {
+        "title": "AWS Security Profile: Liam Wadman, Senior Solutions Architect, AWS Identity",
+        "link": "https://aws.amazon.com/blogs/security/aws-security-profile-liam-wadman-sr-solutions-architect-aws-identity/"
+    },
+    {
         "title": "Securing generative AI: An introduction to the Generative AI Security Scoping Matrix",
         "link": "https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS achieves QI2/QC2 qualification to host critical data and workloads from the Italian Public Administration",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-qi2-qc2-qualification-to-host-critical-data-and-workloads-from-the-italian-public-administration/"
-    },
-    {
-        "title": "Deploy AWS WAF faster with Security Automations",
-        "link": "https://aws.amazon.com/blogs/security/deploy-aws-managed-rules-using-security-automations-for-aws-waf/"
-    },
-    {
-        "title": "Enable external pipeline deployments to AWS Cloud by using IAM Roles Anywhere",
-        "link": "https://aws.amazon.com/blogs/security/enable-external-pipeline-deployments-to-aws-cloud-by-using-iam-roles-anywhere/"
     }
 ]
