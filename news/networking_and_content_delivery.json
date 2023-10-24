@@ -1,5 +1,9 @@
 [
     {
+        "title": "A Continuous Improvement Model for Interconnects within AWS Data Centers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/a-continuous-improvement-model-for-interconnects-within-aws-data-centers/"
+    },
+    {
         "title": "Achieve optimal routing with AWS Cloud WAN for multi-Region networks",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/achieve-optimal-routing-with-aws-cloud-wan-for-multi-region-networks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing Amazon API Gateway with secure ciphers using Amazon CloudFront",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-amazon-api-gateway-with-secure-ciphers-using-amazon-cloudfront/"
-    },
-    {
-        "title": "Announcing AWS Global Accelerator IPv6 support for Amazon EC2 endpoints",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/global-accelerator-ipv6-ec2/"
     }
 ]
