@@ -1,5 +1,9 @@
 [
     {
+        "title": "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/"
+    },
+    {
         "title": "Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Personalize your generative AI applications with Amazon SageMaker Feature Store",
         "link": "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
-    },
-    {
-        "title": "Build an image-to-text generative AI application using multimodality models on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-image-to-text-generative-ai-application-using-multimodality-models-on-amazon-sagemaker/"
     }
 ]

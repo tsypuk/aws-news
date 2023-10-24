@@ -1,5 +1,9 @@
 [
     {
+        "title": "Updated Essential Eight guidance for Australian customers",
+        "link": "https://aws.amazon.com/blogs/security/updated-essential-eight-guidance-for-australian-customers/"
+    },
+    {
         "title": "IAM Roles Anywhere with an external certificate authority",
         "link": "https://aws.amazon.com/blogs/security/iam-roles-anywhere-with-an-external-certificate-authority/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How AWS threat intelligence deters threat actors",
         "link": "https://aws.amazon.com/blogs/security/how-aws-threat-intelligence-deters-threat-actors/"
-    },
-    {
-        "title": "AWS achieves QI2/QC2 qualification to host critical data and workloads from the Italian Public Administration",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-qi2-qc2-qualification-to-host-critical-data-and-workloads-from-the-italian-public-administration/"
     }
 ]

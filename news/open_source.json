@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling Scientists to Collaborate with Amazon EKS and Open Science Studio",
+        "link": "https://aws.amazon.com/blogs/opensource/enabling-scientists-to-collaborate-with-amazon-eks-and-open-science-studio/"
+    },
+    {
         "title": "Enhancing an Internal Developer Platform (IDP) with Crossplane on EKS at SIXT",
         "link": "https://aws.amazon.com/blogs/opensource/enhancing-internal-developer-platform-idp-with-crossplane-on-eks-at-sixt/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Snapchange: An Open Source KVM-backed Snapshot Fuzzing Framework",
         "link": "https://aws.amazon.com/blogs/opensource/announcing-snapchange-an-open-source-kvm-backed-snapshot-fuzzing-framework/"
-    },
-    {
-        "title": "How Zomato Boosted Performance 25% and Cut Compute Cost 30% Migrating Trino and Druid Workloads to AWS Graviton",
-        "link": "https://aws.amazon.com/blogs/opensource/how-zomato-boosted-performance-25-and-cut-compute-cost-30-migrating-trino-and-druid-workloads-to-aws-graviton/"
     }
 ]

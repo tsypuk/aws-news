@@ -1,5 +1,13 @@
 [
     {
+        "title": "Configure an AWS DMS endpoint to access cross-account secrets from AWS Secrets Manager",
+        "link": "https://aws.amazon.com/blogs/database/configure-an-aws-dms-endpoint-to-access-cross-account-secrets-from-aws-secrets-manager/"
+    },
+    {
+        "title": "Migrate an IBM Db2 for iSeries database to Amazon Aurora PostgreSQL using Blu Age and Qlik Replicate",
+        "link": "https://aws.amazon.com/blogs/database/migrate-an-ibm-db2-for-iseries-database-to-amazon-aurora-postgresql-using-blu-age-and-qlik-replicate/"
+    },
+    {
         "title": "Build a web-based cryptocurrency wallet tracker with Amazon Managed Blockchain Access and Query",
         "link": "https://aws.amazon.com/blogs/database/build-a-web-based-cryptocurrency-wallet-tracker-with-amazon-managed-blockchain-access-and-query/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Using pgactive: Active-active Replication Extension for PostgreSQL on Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/using-pgactive-active-active-replication-extension-for-postgresql-on-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "Filter delete operations with AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/filter-delete-operations-with-aws-dms/"
-    },
-    {
-        "title": "Run Ethereum nodes on AWS",
-        "link": "https://aws.amazon.com/blogs/database/run-ethereum-nodes-on-aws/"
     }
 ]
