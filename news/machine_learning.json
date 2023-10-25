@@ -1,5 +1,13 @@
 [
     {
+        "title": "Intelligent document processing with Amazon Textract, Amazon Bedrock, and LangChain",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/"
+    },
+    {
+        "title": "T-Mobile US, Inc. uses artificial intelligence through Amazon Transcribe and Amazon Translate to deliver voicemail in the language of their customers\u2019 choice",
+        "link": "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers-choice/"
+    },
+    {
         "title": "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use no-code machine learning to derive insights from product reviews using Amazon SageMaker Canvas sentiment analysis and text analysis models",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-no-code-machine-learning-to-derive-insights-from-product-reviews-using-amazon-sagemaker-canvas-sentiment-analysis-and-text-analysis-models/"
-    },
-    {
-        "title": "Prepare your data for Amazon Personalize with Amazon SageMaker Data Wrangler",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/"
-    },
-    {
-        "title": "Personalize your generative AI applications with Amazon SageMaker Feature Store",
-        "link": "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
     }
 ]

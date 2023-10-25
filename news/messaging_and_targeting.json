@@ -1,9 +1,5 @@
 [
     {
-        "title": "How to prevent SMS Pumping when using Amazon Pinpoint or SNS",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-prevent-sms-pumping-when-using-amazon-pinpoint-or-sns/"
-    },
-    {
         "title": "Automate marketing campaigns with real-time customer data using Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-marketing-campaigns-with-real-time-customer-data-using-amazon-pinpoint/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "How to verify an email address in SES which does not have an inbox",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-verify-an-email-address-in-ses-which-does-not-have-an-inbox/"
+    },
+    {
+        "title": "How to Manage Global Sending of SMS with Amazon Pinpoint",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-manage-global-sending-of-sms-with-amazon-pinpoint/"
     }
 ]

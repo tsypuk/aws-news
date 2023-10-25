@@ -1,5 +1,13 @@
 [
     {
+        "title": "Upgrade your Amazon DocumentDB clusters using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/upgrade-your-amazon-documentdb-clusters-using-aws-dms/"
+    },
+    {
+        "title": "Build a sensor network using AWS IoT Core and Amazon DocumentDB",
+        "link": "https://aws.amazon.com/blogs/database/build-a-sensor-network-using-aws-iot-core-and-amazon-documentdb/"
+    },
+    {
         "title": "Configure an AWS DMS endpoint to access cross-account secrets from AWS Secrets Manager",
         "link": "https://aws.amazon.com/blogs/database/configure-an-aws-dms-endpoint-to-access-cross-account-secrets-from-aws-secrets-manager/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Zalando migrated their shopping carts to Amazon DynamoDB from Apache Cassandra",
         "link": "https://aws.amazon.com/blogs/database/how-zalando-migrated-their-shopping-carts-to-amazon-dynamodb-from-apache-cassandra/"
-    },
-    {
-        "title": "Unlocking cost-optimization: Open Raven\u2019s journey with Amazon Aurora I/O-Optimized leads to 60% savings",
-        "link": "https://aws.amazon.com/blogs/database/unlocking-cost-optimization-open-ravens-journey-with-amazon-aurora-i-o-optimized-leads-to-60-savings/"
-    },
-    {
-        "title": "Using pgactive: Active-active Replication Extension for PostgreSQL on Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/using-pgactive-active-active-replication-extension-for-postgresql-on-amazon-rds-for-postgresql/"
     }
 ]

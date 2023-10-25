@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unpacking the power of agent-based models for environmental and socio-economic impact",
+        "link": "https://aws.amazon.com/blogs/hpc/unpacking-the-power-of-agent-based-models-for-environmental-and-socio-economic-impact/"
+    },
+    {
         "title": "Why you should use Fargate with AWS Batch for your serverless batch architectures",
         "link": "https://aws.amazon.com/blogs/hpc/why-use-fargate-with-aws-batch-for-serverless-batch-compute/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying and running HPC applications on AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/deploying-and-running-hpc-applications-on-aws-batch/"
-    },
-    {
-        "title": "High performance actuarial reserve modeling using AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/high-performance-actuarial-reserve-modeling-using-aws-batch/"
     }
 ]

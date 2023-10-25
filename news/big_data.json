@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplify Amazon Redshift monitoring using the new unified SYS views",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-amazon-redshift-monitoring-using-the-new-unified-sys-views/"
+    },
+    {
+        "title": "Build multi-layer maps in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/build-multi-layer-maps-in-amazon-opensearch-service/"
+    },
+    {
         "title": "Run Spark SQL on Amazon Athena Spark",
         "link": "https://aws.amazon.com/blogs/big-data/run-spark-sql-on-amazon-athena-spark/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify data transfer: Google BigQuery to Amazon S3 using Amazon AppFlow",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-data-transfer-google-bigquery-to-amazon-s3-using-amazon-appflow/"
-    },
-    {
-        "title": "Define per-team resource limits for big data workloads using Amazon EMR Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/define-per-team-resource-limits-for-big-data-workloads-using-amazon-emr-serverless/"
-    },
-    {
-        "title": "Unlock data across organizational boundaries using Amazon DataZone \u2013 now generally available",
-        "link": "https://aws.amazon.com/blogs/big-data/unlock-data-across-organizational-boundaries-using-amazon-datazone-now-generally-available/"
     }
 ]
