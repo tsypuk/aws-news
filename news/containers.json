@@ -1,5 +1,17 @@
 [
     {
+        "title": "Announcing remote cache support in Amazon ECR for BuildKit clients",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-remote-cache-support-in-amazon-ecr-for-buildkit-clients/"
+    },
+    {
+        "title": "How Telkomsel migrated MyOrbit applications to Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/how-telkomsel-migrated-myorbit-applications-to-amazon-eks/"
+    },
+    {
+        "title": "Scale to 15,000+ tasks in a single Amazon Elastic Container Service (ECS) cluster",
+        "link": "https://aws.amazon.com/blogs/containers/scale-to-15000-tasks-in-a-single-amazon-elastic-container-service-ecs-cluster/"
+    },
+    {
         "title": "Build ROSA Clusters with Terraform",
         "link": "https://aws.amazon.com/blogs/containers/build-rosa-clusters-with-terraform/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Operating resilient workloads on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/operating-resilient-workloads-on-amazon-eks/"
-    },
-    {
-        "title": "Optimize webSocket applications scaling with API Gateway on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/optimize-websocket-applications-scaling-with-api-gateway-on-amazon-eks/"
-    },
-    {
-        "title": "Analyze EKS Fargate costs using Amazon Quicksight",
-        "link": "https://aws.amazon.com/blogs/containers/analyze-eks-fargate-costs-using-amazon-quicksight/"
-    },
-    {
-        "title": "Start Spring Boot applications faster on AWS Fargate using SOCI",
-        "link": "https://aws.amazon.com/blogs/containers/start-spring-boot-applications-faster-on-aws-fargate-using-soci/"
     }
 ]

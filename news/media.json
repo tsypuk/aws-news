@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Tag-Based Filtering to Manage AWS Health Monitoring and Alerting at Scale",
+        "link": "https://aws.amazon.com/blogs/mt/using-tag-based-filtering-to-manage-health-monitoring-and-alerting-at-scale/"
+    },
+    {
         "title": "Designing a successful cloud migration: top five pitfalls and how to avoid a stall",
         "link": "https://aws.amazon.com/blogs/mt/designing-a-successful-cloud-migration-top-five-pitfalls-and-how-to-avoid-a-stall/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Strategizing Mainframe Scheduler Migration to AWS",
         "link": "https://aws.amazon.com/blogs/mt/strategizing-mainframe-scheduler-migration-to-aws/"
-    },
-    {
-        "title": "Using Lambda-backed Custom Resources to Reduce Overhead in a Multi-Account Environment",
-        "link": "https://aws.amazon.com/blogs/mt/using-lambda-backed-custom-resources-to-reduce-overhead-in-a-multi-account-environment/"
     }
 ]
