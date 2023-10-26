@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecture Patterns for AWS AppSync Private APIs",
+        "link": "https://aws.amazon.com/blogs/mobile/architecture-patterns-for-aws-appsync-private-apis/"
+    },
+    {
         "title": "Query Heterogeneous Data Sources through AWS AppSync GraphQL APIs",
         "link": "https://aws.amazon.com/blogs/mobile/query-heterogeneous-data-sources-through-aws-appsync-graphql-apis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Amplify enables CloudWatch Logging Support for Swift and Android",
         "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-cloudwatch-logger-is-now-available-for-swift-and-android/"
-    },
-    {
-        "title": "Building a social network app with Amplify Form Builder and Storage",
-        "link": "https://aws.amazon.com/blogs/mobile/building-a-social-network-app-with-amplify-form-builder-and-storage/"
     }
 ]

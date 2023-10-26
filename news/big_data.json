@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enable cost-efficient operational analytics with Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/enable-cost-efficient-operational-analytics-with-amazon-opensearch-ingestion/"
+    },
+    {
+        "title": "Unstructured data management and governance using AWS AI/ML and analytics services",
+        "link": "https://aws.amazon.com/blogs/big-data/unstructured-data-management-and-governance-using-aws-ai-ml-and-analytics-services/"
+    },
+    {
         "title": "Simplify Amazon Redshift monitoring using the new unified SYS views",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-amazon-redshift-monitoring-using-the-new-unified-sys-views/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automated data governance with AWS Glue Data Quality, sensitive data detection, and AWS Lake Formation",
         "link": "https://aws.amazon.com/blogs/big-data/automated-data-governance-with-aws-glue-data-quality-sensitive-data-detection-and-aws-lake-formation/"
-    },
-    {
-        "title": "Using AWS AppSync and AWS Lake Formation to access a secure data lake through a GraphQL API",
-        "link": "https://aws.amazon.com/blogs/big-data/using-aws-appsync-and-aws-lake-formation-to-access-a-secure-data-lake-through-a-graphql-api/"
-    },
-    {
-        "title": "Simplify data transfer: Google BigQuery to Amazon S3 using Amazon AppFlow",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-transfer-google-bigquery-to-amazon-s3-using-amazon-appflow/"
     }
 ]

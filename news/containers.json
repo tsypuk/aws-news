@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run time sensitive workloads on ECS Fargate with clock accuracy tracking",
+        "link": "https://aws.amazon.com/blogs/containers/run-time-sensitive-workloads-on-ecs-fargate-with-clock-accuracy-tracking/"
+    },
+    {
+        "title": "Lacework\u2019s batch workloads on Amazon EKS: Lessons learned",
+        "link": "https://aws.amazon.com/blogs/containers/scale-laceworks-batch-workloads-on-amazon-eks-lessons-learned/"
+    },
+    {
         "title": "Announcing remote cache support in Amazon ECR for BuildKit clients",
         "link": "https://aws.amazon.com/blogs/containers/announcing-remote-cache-support-in-amazon-ecr-for-buildkit-clients/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Manage scale-to-zero scenarios with Karpenter and Serverless",
         "link": "https://aws.amazon.com/blogs/containers/manage-scale-to-zero-scenarios-with-karpenter-and-serverless/"
-    },
-    {
-        "title": "Implement AWS IAM authentication with Amazon VPC Lattice and Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/implement-aws-iam-authentication-with-amazon-vpc-lattice-and-amazon-eks/"
-    },
-    {
-        "title": "Operating resilient workloads on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/operating-resilient-workloads-on-amazon-eks/"
     }
 ]
