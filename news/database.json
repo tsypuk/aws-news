@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce downtime with Amazon Aurora MySQL database restart time optimizations",
+        "link": "https://aws.amazon.com/blogs/database/reduce-downtime-with-amazon-aurora-mysql-database-restart-time-optimizations/"
+    },
+    {
         "title": "Upgrade your Amazon DocumentDB clusters using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/upgrade-your-amazon-documentdb-clusters-using-aws-dms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Import Ethereum private keys to AWS KMS",
         "link": "https://aws.amazon.com/blogs/database/import-ethereum-private-keys-to-aws-kms/"
-    },
-    {
-        "title": "How Zalando migrated their shopping carts to Amazon DynamoDB from Apache Cassandra",
-        "link": "https://aws.amazon.com/blogs/database/how-zalando-migrated-their-shopping-carts-to-amazon-dynamodb-from-apache-cassandra/"
     }
 ]

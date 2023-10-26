@@ -1,5 +1,9 @@
 [
     {
+        "title": "Detection and high-frequency monitoring of methane emission point sources using Amazon SageMaker geospatial capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detection-and-high-frequency-monitoring-of-methane-emission-point-sources-using-amazon-sagemaker-geospatial-capabilities/"
+    },
+    {
         "title": "Intelligent document processing with Amazon Textract, Amazon Bedrock, and LangChain",
         "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Mistral 7B foundation models from Mistral AI are now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Use no-code machine learning to derive insights from product reviews using Amazon SageMaker Canvas sentiment analysis and text analysis models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-no-code-machine-learning-to-derive-insights-from-product-reviews-using-amazon-sagemaker-canvas-sentiment-analysis-and-text-analysis-models/"
     }
 ]
