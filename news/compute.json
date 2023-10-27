@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mixing AWS Graviton with x86 CPUs to optimize cost and resiliency using Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/compute/mixing-aws-graviton-with-x86-cpus-to-optimize-cost-and-resilience-using-amazon-eks/"
+    },
+    {
         "title": "Maintaining a local copy of your data in AWS Local Zones",
         "link": "https://aws.amazon.com/blogs/compute/maintaining-a-local-copy-of-your-data-in-aws-local-zones/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using and Managing Security Groups on AWS Snowball Edge devices",
         "link": "https://aws.amazon.com/blogs/compute/using-and-managing-security-groups-on-aws-snowball-edge-devices/"
-    },
-    {
-        "title": "Protecting an AWS Lambda function URL with Amazon CloudFront and Lambda@Edge",
-        "link": "https://aws.amazon.com/blogs/compute/protecting-an-aws-lambda-function-url-with-amazon-cloudfront-and-lambdaedge/"
     }
 ]

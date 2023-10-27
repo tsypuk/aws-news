@@ -1,5 +1,17 @@
 [
     {
+        "title": "Intelligently search Drupal content using Amazon Kendra",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/"
+    },
+    {
+        "title": "Intuitivo achieves higher throughput while saving on AI/ML costs using AWS Inferentia and PyTorch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/"
+    },
+    {
+        "title": "Empower your business users to extract insights from company documents using Amazon SageMaker Canvas Generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/empower-your-business-users-to-extract-insights-from-company-documents-using-amazon-sagemaker-canvas-generative-ai/"
+    },
+    {
         "title": "Detection and high-frequency monitoring of methane emission point sources using Amazon SageMaker geospatial capabilities",
         "link": "https://aws.amazon.com/blogs/machine-learning/detection-and-high-frequency-monitoring-of-methane-emission-point-sources-using-amazon-sagemaker-geospatial-capabilities/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "New \u2013 No-code generative AI capabilities now available in Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/new-no-code-generative-ai-capabilities-now-available-in-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Reinventing a cloud-native federated learning architecture on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reinventing-a-cloud-native-federated-learning-architecture-on-aws/"
-    },
-    {
-        "title": "Mistral 7B foundation models from Mistral AI are now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart/"
     }
 ]

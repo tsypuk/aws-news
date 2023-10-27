@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bose: Building a scalable, more secure global cloud network with AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/bose-building-a-scalable-more-secure-global-cloud-network-with-aws-cloud-wan/"
+    },
+    {
         "title": "Elastic Load Balancer: Maximizing Benefits and Keeping Costs Low",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/elb-maximizing-benefits-and-keeping-costs-low/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New AWS Networking Core Digital Knowledge Badge",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/new-aws-networking-core-digital-knowledge-badge/"
-    },
-    {
-        "title": "Configuring client IP address preservation with a Network Load Balancer in AWS Global Accelerator",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-client-ip-address-preservation-with-a-network-load-balancer-in-aws-global-accelerator/"
     }
 ]

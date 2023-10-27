@@ -1,5 +1,9 @@
 [
     {
+        "title": "Let\u2019s Architect! Designing systems for stream data processing",
+        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-designing-systems-for-stream-data-processing/"
+    },
+    {
         "title": "Let\u2019s Architect! Designing systems for batch data processing",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-designing-systems-for-batch-data-processing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for implementing event-driven architectures in your organization",
         "link": "https://aws.amazon.com/blogs/architecture/best-practices-for-implementing-event-driven-architectures-in-your-organization/"
-    },
-    {
-        "title": "Temporal data lake architecture for benchmark and indices analytics",
-        "link": "https://aws.amazon.com/blogs/architecture/temporal-data-lake-architecture-for-benchmark-and-indices-analytics/"
     }
 ]

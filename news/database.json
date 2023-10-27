@@ -1,5 +1,9 @@
 [
     {
+        "title": "New \u2013 Fully managed Blue/Green Deployment in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/new-fully-managed-blue-green-deployment-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Reduce downtime with Amazon Aurora MySQL database restart time optimizations",
         "link": "https://aws.amazon.com/blogs/database/reduce-downtime-with-amazon-aurora-mysql-database-restart-time-optimizations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Archive to cold storage with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/archive-to-cold-storage-with-amazon-dynamodb/"
-    },
-    {
-        "title": "Import Ethereum private keys to AWS KMS",
-        "link": "https://aws.amazon.com/blogs/database/import-ethereum-private-keys-to-aws-kms/"
     }
 ]

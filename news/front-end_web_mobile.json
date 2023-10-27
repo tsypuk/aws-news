@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accessing resources in a Amazon Virtual Private Cloud (Amazon VPC) from Next.js API Routes",
+        "link": "https://aws.amazon.com/blogs/mobile/accessing-resources-in-a-amazon-virtual-private-cloud-amazon-vpc-from-next-js-api-routes/"
+    },
+    {
         "title": "Architecture Patterns for AWS AppSync Private APIs",
         "link": "https://aws.amazon.com/blogs/mobile/architecture-patterns-for-aws-appsync-private-apis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SSG vs SSR in Next.js Web Applications: Choosing the Right Rendering Approach",
         "link": "https://aws.amazon.com/blogs/mobile/ssg-vs-ssr-in-next-js-web-applications-choosing-the-right-rendering-approach/"
-    },
-    {
-        "title": "AWS Amplify enables CloudWatch Logging Support for Swift and Android",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-cloudwatch-logger-is-now-available-for-swift-and-android/"
     }
 ]
