@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon Redshift: Lower price, higher performance",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-lower-price-higher-performance/"
+    },
+    {
+        "title": "An automated approach to perform an in-place engine upgrade in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/an-automated-approach-to-perform-an-in-place-engine-upgrade-in-amazon-opensearch-service/"
+    },
+    {
+        "title": "Create, train, and deploy Amazon Redshift ML model integrating features from Amazon SageMaker Feature Store",
+        "link": "https://aws.amazon.com/blogs/big-data/create-train-and-deploy-amazon-redshift-ml-model-integrating-features-from-amazon-sagemaker-feature-store/"
+    },
+    {
         "title": "Enable cost-efficient operational analytics with Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/enable-cost-efficient-operational-analytics-with-amazon-opensearch-ingestion/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Achieve higher query throughput: Auto scaling in Amazon OpenSearch Serverless now supports shard replica scaling",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-higher-query-throughput-auto-scaling-in-amazon-opensearch-serverless-now-supports-shard-replica-scaling/"
-    },
-    {
-        "title": "How healthcare organizations can analyze and create insights using price transparency data",
-        "link": "https://aws.amazon.com/blogs/big-data/how-healthcare-organizations-can-analyze-and-create-insights-using-price-transparency-data/"
-    },
-    {
-        "title": "Modernize a legacy real-time analytics application with Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-a-legacy-real-time-analytics-application-with-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Automated data governance with AWS Glue Data Quality, sensitive data detection, and AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/automated-data-governance-with-aws-glue-data-quality-sensitive-data-detection-and-aws-lake-formation/"
     }
 ]

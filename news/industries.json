@@ -1,5 +1,13 @@
 [
     {
+        "title": "Future of Retail: AWS Smart Store Kiosks Redefine Customer Experience",
+        "link": "https://aws.amazon.com/blogs/industries/future-of-retail-aws-smart-store-kiosks-redefine-customer-experience/"
+    },
+    {
+        "title": "Artificial intelligence in industrial welding produces near-real-time insights through virtually 100% sample sizes",
+        "link": "https://aws.amazon.com/blogs/industries/artificial-intelligence-in-industrial-welding-produces-near-real-time-insights-through-virtually-100-sample-sizes/"
+    },
+    {
         "title": "The Future of Automation is Here: Attend SPS 2023 in Nuremberg, Germany",
         "link": "https://aws.amazon.com/blogs/industries/the-future-of-automation-is-here-attend-sps-2023-in-nuremberg-germany/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Optimizing HPC deployments with EC2 Fleet and IBM Spectrum LSF",
         "link": "https://aws.amazon.com/blogs/industries/optimizing-hpc-deployments-with-ec2-fleet-and-ibm-spectrum-lsf-2/"
-    },
-    {
-        "title": "Tapestry Builds a Scalable IaC Platform with Built-In Governance and Security",
-        "link": "https://aws.amazon.com/blogs/industries/tapestry-builds-a-scalable-iac-platform-with-built-in-governance-and-security/"
-    },
-    {
-        "title": "iFood modernizes its financial middleware to event-driven architecture",
-        "link": "https://aws.amazon.com/blogs/industries/ifood-modernizes-its-financial-middleware-to-event-driven-architecture/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon CodeWhisperer Dashboard and CloudWatch Metrics",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/"
+    },
+    {
         "title": "Why AWS is the Best Place to Run Rust",
         "link": "https://aws.amazon.com/blogs/devops/why-aws-is-the-best-place-to-run-rust/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Load test your applications in a CI/CD pipeline using CDK  pipelines and AWS Distributed Load Testing Solution",
         "link": "https://aws.amazon.com/blogs/devops/load-test-applications-in-cicd-pipeline/"
-    },
-    {
-        "title": "Developing with Java and Spring Boot using Amazon CodeWhisperer",
-        "link": "https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/"
     }
 ]
