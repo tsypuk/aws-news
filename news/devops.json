@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to use Amazon CodeWhisperer using Okta as an external IdP",
+        "link": "https://aws.amazon.com/blogs/devops/how-to-use-amazon-codewhisperer-using-okta-as-an-external-idp/"
+    },
+    {
         "title": "Introducing Amazon CodeWhisperer Dashboard and CloudWatch Metrics",
         "link": "https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing automatic drift detection in CDK Pipelines using Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/devops/implementing-automatic-drift-detection-in-cdk-pipelines-using-amazon-eventbridge/"
-    },
-    {
-        "title": "Load test your applications in a CI/CD pipeline using CDK  pipelines and AWS Distributed Load Testing Solution",
-        "link": "https://aws.amazon.com/blogs/devops/load-test-applications-in-cicd-pipeline/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlocking the Future: Wipro\u2019s Business Case-Driven Approach for Mainframe Modernization on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/unlocking-the-future-wipro-business-case-driven-approach-for-mainframe-modernization-on-aws/"
+    },
+    {
+        "title": "How Sela Builds Low-Latency Serverless Control Planes for Hybrid-Tenant Developer Platforms",
+        "link": "https://aws.amazon.com/blogs/apn/how-sela-builds-low-latency-serverless-control-planes-for-hybrid-tenant-developer-platforms/"
+    },
+    {
         "title": "Delivering Broadcast IMF with Multi-Partner Workflows on AWS",
         "link": "https://aws.amazon.com/blogs/apn/delivering-broadcast-imf-with-multi-partner-workflows-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Authenticate Kubecost Users with Application Load Balancer and Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/apn/authenticate-kubecost-users-with-application-load-balancer-and-amazon-cognito/"
-    },
-    {
-        "title": "Building a Data Lakehouse with Amazon S3 and Dremio on Apache Iceberg Tables",
-        "link": "https://aws.amazon.com/blogs/apn/building-a-data-lakehouse-with-amazon-s3-and-dremio-on-apache-iceberg-tables/"
-    },
-    {
-        "title": "Simplify Application Networking with Amazon VPC Lattice and VMware Cloud on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/simplify-application-networking-with-amazon-vpc-lattice-and-vmware-cloud-on-aws/"
     }
 ]

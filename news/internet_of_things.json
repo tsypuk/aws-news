@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ten security golden rules for connected mobility solutions",
+        "link": "https://aws.amazon.com/blogs/iot/ten-security-golden-rules-for-connected-mobility-solutions/"
+    },
+    {
         "title": "How to build a scalable, multi-tenant IoT SaaS platform on AWS using a multi-account strategy",
         "link": "https://aws.amazon.com/blogs/iot/how-to-build-a-scalable-multi-tenant-iot-saas-platform-on-aws-using-a-multi-account-strategy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transforming fleet telematics into predictive analytics with Capgemini\u2019s Trusted Vehicle and AWS IoT FleetWise",
         "link": "https://aws.amazon.com/blogs/iot/transforming-fleet-telematics-into-predictive-analytics-with-capgeminis-trusted-vehicle-and-aws-iot-fleetwise/"
-    },
-    {
-        "title": "Industrial Overall Equipment Effectiveness (OEE) guide with AWS IoT SiteWise",
-        "link": "https://aws.amazon.com/blogs/iot/industrial-ooee-with-aws-iot-sitewise/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Archiving and replaying messages with Amazon SNS FIFO",
+        "link": "https://aws.amazon.com/blogs/compute/archiving-and-replaying-messages-with-amazon-sns-fifo/"
+    },
+    {
+        "title": "Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension",
+        "link": "https://aws.amazon.com/blogs/compute/enhancing-runtime-security-and-governance-with-the-aws-lambda-runtime-api-proxy-extension/"
+    },
+    {
         "title": "Mixing AWS Graviton with x86 CPUs to optimize cost and resiliency using Amazon EKS",
         "link": "https://aws.amazon.com/blogs/compute/mixing-aws-graviton-with-x86-cpus-to-optimize-cost-and-resilience-using-amazon-eks/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Intra-VPC Communication Across Multiple Outposts with Direct VPC Routing",
         "link": "https://aws.amazon.com/blogs/compute/introducing-intra-vpc-communication-across-multiple-outposts-with-direct-vpc-routing/"
-    },
-    {
-        "title": "Enhancing file sharing using Amazon S3 and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/compute/enhancing-file-sharing-using-amazon-s3-and-aws-step-functions/"
-    },
-    {
-        "title": "Using and Managing Security Groups on AWS Snowball Edge devices",
-        "link": "https://aws.amazon.com/blogs/compute/using-and-managing-security-groups-on-aws-snowball-edge-devices/"
     }
 ]

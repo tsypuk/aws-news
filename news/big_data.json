@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlock scalable analytics with AWS Glue and Google BigQuery",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-aws-glue-and-google-bigquery/"
+    },
+    {
         "title": "Amazon Redshift: Lower price, higher performance",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-lower-price-higher-performance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Orchestrate Amazon EMR Serverless jobs with AWS Step functions",
         "link": "https://aws.amazon.com/blogs/big-data/orchestrate-amazon-emr-serverless-jobs-with-aws-step-functions/"
-    },
-    {
-        "title": "Achieve higher query throughput: Auto scaling in Amazon OpenSearch Serverless now supports shard replica scaling",
-        "link": "https://aws.amazon.com/blogs/big-data/achieve-higher-query-throughput-auto-scaling-in-amazon-opensearch-serverless-now-supports-shard-replica-scaling/"
     }
 ]
