@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure containerized workloads on Amazon EKS and AWS Fargate with Aqua",
+        "link": "https://aws.amazon.com/blogs/containers/secure-containerized-workloads-on-amazon-eks-and-aws-fargate-with-aqua/"
+    },
+    {
         "title": "Run time sensitive workloads on ECS Fargate with clock accuracy tracking",
         "link": "https://aws.amazon.com/blogs/containers/run-time-sensitive-workloads-on-ecs-fargate-with-clock-accuracy-tracking/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Build a multi-tenant chatbot with RAG using Amazon Bedrock and Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/build-a-multi-tenant-chatbot-with-rag-using-amazon-bedrock-and-amazon-eks/"
-    },
-    {
-        "title": "Manage scale-to-zero scenarios with Karpenter and Serverless",
-        "link": "https://aws.amazon.com/blogs/containers/manage-scale-to-zero-scenarios-with-karpenter-and-serverless/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "A phased approach towards a complex HITRUST r2 validated assessment",
+        "link": "https://aws.amazon.com/blogs/security/a-phased-approach-towards-a-complex-hitrust-r2-validated-assessment/"
+    },
+    {
+        "title": "The security attendee\u2019s guide to AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/security/the-security-attendees-guide-to-aws-reinvent-2023/"
+    },
+    {
         "title": "Mask and redact sensitive data published to Amazon SNS using managed and custom data identifiers",
         "link": "https://aws.amazon.com/blogs/security/mask-and-redact-sensitive-data-published-to-amazon-sns-using-managed-and-custom-data-identifiers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Validate IAM policies with Access Analyzer using AWS Config rules",
         "link": "https://aws.amazon.com/blogs/security/validate-iam-policies-with-access-analyzer-using-aws-config-rules/"
-    },
-    {
-        "title": "How to use AWS Certificate Manager to enforce certificate issuance controls",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-certificate-manager-to-enforce-certificate-issuance-controls/"
-    },
-    {
-        "title": "Secure by Design: AWS to enhance MFA requirements in 2024",
-        "link": "https://aws.amazon.com/blogs/security/security-by-design-aws-to-enhance-mfa-requirements-in-2024/"
     }
 ]
