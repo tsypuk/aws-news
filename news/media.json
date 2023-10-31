@@ -1,5 +1,13 @@
 [
     {
+        "title": "Lowering MTTR with Amazon CloudWatch and AWS X-Ray",
+        "link": "https://aws.amazon.com/blogs/mt/lowering-mttr-with-amazon-cloudwatch-and-aws-x-ray/"
+    },
+    {
+        "title": "Unlocking the power: The keys to delivering successful Cloud Migrations",
+        "link": "https://aws.amazon.com/blogs/mt/unlocking-the-power-the-keys-to-delivering-successful-cloud-migrations/"
+    },
+    {
         "title": "Self-service Account Provisioning Using AWS Service Management Connector for ServiceNow",
         "link": "https://aws.amazon.com/blogs/mt/self-service-account-provisioning-using-aws-service-management-connector-for-servicenow/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Estimating Total Cost of Ownership (TCO) for modernizing workloads on AWS using Containerization \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/mt/estimating-total-cost-of-ownership-tco-for-modernizing-workloads-on-aws-using-containerization-part-1/"
-    },
-    {
-        "title": "Identify AWS Systems Manager Patch Compliance Status with AWS CloudTrail Lake",
-        "link": "https://aws.amazon.com/blogs/mt/identify-aws-systems-manager-patch-compliance-status-with-aws-cloudtrail-lake/"
-    },
-    {
-        "title": "Improve your feature flagging with AWS AppConfig Version Labels",
-        "link": "https://aws.amazon.com/blogs/mt/improve-your-feature-flagging-with-aws-appconfig-version-labels/"
     }
 ]

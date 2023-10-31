@@ -1,5 +1,13 @@
 [
     {
+        "title": "Scaling national identity schemes with itsme and Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/security/scaling-national-identity-schemes-with-itsme-and-amazon-cognito/"
+    },
+    {
+        "title": "Evolving cyber threats demand new security approaches \u2013 The benefits of a unified and global IT/OT SOC",
+        "link": "https://aws.amazon.com/blogs/security/evolving-cyber-threats-demand-new-security-approaches-the-benefits-of-a-unified-and-global-it-ot-soc/"
+    },
+    {
         "title": "A phased approach towards a complex HITRUST r2 validated assessment",
         "link": "https://aws.amazon.com/blogs/security/a-phased-approach-towards-a-complex-hitrust-r2-validated-assessment/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use AWS Secrets Manager to store and manage secrets in on-premises or multicloud workloads",
         "link": "https://aws.amazon.com/blogs/security/use-aws-secrets-manager-to-store-and-manage-secrets-in-on-premises-or-multicloud-workloads/"
-    },
-    {
-        "title": "Enable Security Hub partner integrations across your organization",
-        "link": "https://aws.amazon.com/blogs/security/enable-security-hub-partner-integrations-across-your-organization/"
-    },
-    {
-        "title": "Validate IAM policies with Access Analyzer using AWS Config rules",
-        "link": "https://aws.amazon.com/blogs/security/validate-iam-policies-with-access-analyzer-using-aws-config-rules/"
     }
 ]

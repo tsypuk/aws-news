@@ -1,5 +1,9 @@
 [
     {
+        "title": "Your guide to customer experience with Amazon Connect at re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/contact-center/your-guide-to-customer-experience-with-amazon-connect-at-reinvent-2023/"
+    },
+    {
         "title": "Multiple SAML identity providers for a single Amazon Connect instance",
         "link": "https://aws.amazon.com/blogs/contact-center/multiple-saml-identity-providers-for-a-single-amazon-connect-instance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Web application for managing Amazon Connect contact center custom prompts",
         "link": "https://aws.amazon.com/blogs/contact-center/web-application-for-managing-amazon-connect-contact-center-custom-prompts/"
-    },
-    {
-        "title": "Best practices: Managing call recordings in Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/best-practices-managing-call-recordings-in-amazon-connect/"
     }
 ]

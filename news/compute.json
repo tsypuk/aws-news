@@ -1,5 +1,9 @@
 [
     {
+        "title": "Sending and receiving webhooks on AWS: Innovate with event notifications",
+        "link": "https://aws.amazon.com/blogs/compute/sending-and-receiving-webhooks-on-aws-innovate-with-event-notifications/"
+    },
+    {
         "title": "Archiving and replaying messages with Amazon SNS FIFO",
         "link": "https://aws.amazon.com/blogs/compute/archiving-and-replaying-messages-with-amazon-sns-fifo/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing Workflow Studio with new features for streamlined authoring",
         "link": "https://aws.amazon.com/blogs/compute/enhancing-workflow-studio-with-new-features-for-streamlined-authoring/"
-    },
-    {
-        "title": "Introducing Intra-VPC Communication Across Multiple Outposts with Direct VPC Routing",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-intra-vpc-communication-across-multiple-outposts-with-direct-vpc-routing/"
     }
 ]
