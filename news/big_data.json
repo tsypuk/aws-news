@@ -1,5 +1,9 @@
 [
     {
+        "title": "Spark on AWS Lambda: An Apache Spark runtime for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/big-data/spark-on-aws-lambda-an-apache-spark-runtime-for-aws-lambda/"
+    },
+    {
         "title": "Unlock scalable analytics with AWS Glue and Google BigQuery",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-aws-glue-and-google-bigquery/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Processing large records with Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/processing-large-records-with-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "Orchestrate Amazon EMR Serverless jobs with AWS Step functions",
-        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-amazon-emr-serverless-jobs-with-aws-step-functions/"
     }
 ]

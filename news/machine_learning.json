@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use AWS PrivateLink to set up private access to Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/"
+    },
+    {
+        "title": "Deploy and fine-tune foundation models in Amazon SageMaker JumpStart with two lines of code",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-fine-tune-foundation-models-in-amazon-sagemaker-jumpstart-with-two-lines-of-code/"
+    },
+    {
         "title": "Elevate your marketing solutions with Amazon Personalize and generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/"
-    },
-    {
-        "title": "Improve performance of Falcon models with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Index your web crawled content using the new Web Crawler for Amazon Kendra",
-        "link": "https://aws.amazon.com/blogs/machine-learning/index-your-web-crawled-content-using-the-new-web-crawler-for-amazon-kendra/"
     }
 ]

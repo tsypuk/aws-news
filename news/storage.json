@@ -1,5 +1,9 @@
 [
     {
+        "title": "Manage event ordering and duplicate events with Amazon S3 Event Notifications",
+        "link": "https://aws.amazon.com/blogs/storage/manage-event-ordering-and-duplicate-events-with-amazon-s3-event-notifications/"
+    },
+    {
         "title": "Automate Amazon S3 File Gateway on Amazon EC2 with Terraform by HashiCorp",
         "link": "https://aws.amazon.com/blogs/storage/automate-amazon-s3-file-gateway-on-amazon-ec2-with-terraform-by-hashicorp/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reduce recovery time and optimize storage costs with faster restores from Amazon S3 Glacier storage classes and Commvault",
         "link": "https://aws.amazon.com/blogs/storage/reduce-recovery-time-and-optimize-storage-costs-with-faster-restores-from-amazon-s3-glacier-and-commvault/"
-    },
-    {
-        "title": "Authorize NFS clients outside of AWS with AWS IAM Roles Anywhere",
-        "link": "https://aws.amazon.com/blogs/storage/authorize-nfs-clients-outside-of-aws-with-iam-roles-anywhere/"
     }
 ]

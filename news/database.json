@@ -1,5 +1,13 @@
 [
     {
+        "title": "Impactful features in PostgreSQL 15",
+        "link": "https://aws.amazon.com/blogs/database/impactful-features-in-postgresql-15/"
+    },
+    {
+        "title": "Detect and fix low cardinality indexes in Amazon DocumentDB",
+        "link": "https://aws.amazon.com/blogs/database/detect-and-fix-low-cardinality-indexes-in-amazon-documentdb/"
+    },
+    {
         "title": "Prewarm an Amazon RDS for Oracle database to reduce the impact of lazy loading",
         "link": "https://aws.amazon.com/blogs/database/prewarm-an-amazon-rds-for-oracle-database-to-reduce-the-impact-of-lazy-loading/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implement an automated approach for handling AWS DMS operational events",
         "link": "https://aws.amazon.com/blogs/database/implement-an-automated-approach-for-handling-aws-dms-operational-events/"
-    },
-    {
-        "title": "Deploy Amazon RDS Custom for Oracle using Terraform modules",
-        "link": "https://aws.amazon.com/blogs/database/deploy-amazon-rds-custom-for-oracle-using-terraform-modules/"
-    },
-    {
-        "title": "Visualize Ethereum ERC20 token data using Amazon Managed Blockchain Query and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/database/visualize-ethereum-erc20-token-data-using-amazon-managed-blockchain-query-and-amazon-quicksight/"
     }
 ]

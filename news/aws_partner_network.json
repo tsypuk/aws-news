@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enriching Snowflake Data with Amazon Location Service and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/apn/enriching-snowflake-data-with-amazon-location-service-and-aws-lambda/"
+    },
+    {
+        "title": "Filter and Stream Logs from Amazon S3 Logging Buckets into Splunk Using AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/apn/filter-and-stream-logs-from-amazon-s3-logging-buckets-into-splunk-using-aws-lambda/"
+    },
+    {
         "title": "Unlocking the Future: Wipro\u2019s Business Case-Driven Approach for Mainframe Modernization on AWS",
         "link": "https://aws.amazon.com/blogs/apn/unlocking-the-future-wipro-business-case-driven-approach-for-mainframe-modernization-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Say Hello to 177 AWS Competency, MSP, Service Delivery, and Service Ready Partners Added or Renewed in September",
         "link": "https://aws.amazon.com/blogs/apn/say-hello-to-177-aws-competency-msp-service-delivery-and-service-ready-partners-added-or-renewed-in-september/"
-    },
-    {
-        "title": "Navigating Security Challenges and Committing to the Cloud with Axonius and AWS",
-        "link": "https://aws.amazon.com/blogs/apn/navigating-security-challenges-and-committing-to-the-cloud-with-axonius-and-aws/"
-    },
-    {
-        "title": "Authenticate Kubecost Users with Application Load Balancer and Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/apn/authenticate-kubecost-users-with-application-load-balancer-and-amazon-cognito/"
     }
 ]
