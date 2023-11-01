@@ -1,5 +1,17 @@
 [
     {
+        "title": "Use Amazon DynamoDB incremental export to update Apache Iceberg tables",
+        "link": "https://aws.amazon.com/blogs/database/use-amazon-dynamodb-incremental-export-to-update-apache-iceberg-tables/"
+    },
+    {
+        "title": "Techniques to improve the state-of-the-art in Cloud FinOps using Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/techniques-to-improve-the-state-of-the-art-in-cloud-finops-using-amazon-neptune/"
+    },
+    {
+        "title": "How power utilities analyze and detect harmonics issues using power quality and customer usage data with Amazon Timestream: Part 2",
+        "link": "https://aws.amazon.com/blogs/database/part-2-how-power-utilities-analyze-and-detect-harmonics-issues-using-power-quality-and-customer-usage-data-with-amazon-timestream/"
+    },
+    {
         "title": "Impactful features in PostgreSQL 15",
         "link": "https://aws.amazon.com/blogs/database/impactful-features-in-postgresql-15/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How to enable and optimize audits on Amazon RDS for SQL Server",
         "link": "https://aws.amazon.com/blogs/database/how-to-enable-and-optimize-audits-on-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Unlock the power of the AWS CLI for Amazon RDS and Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/unlock-the-power-of-the-aws-cli-for-amazon-rds-and-amazon-aurora/"
-    },
-    {
-        "title": "Create a centralized repository for Oracle AWR reports using Amazon EFS integration for Amazon RDS for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/create-a-centralized-repository-for-oracle-awr-reports-using-amazon-efs-integration-for-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Implement an automated approach for handling AWS DMS operational events",
-        "link": "https://aws.amazon.com/blogs/database/implement-an-automated-approach-for-handling-aws-dms-operational-events/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Snowflake with Amazon MWAA to orchestrate data pipelines",
+        "link": "https://aws.amazon.com/blogs/big-data/use-snowflake-with-amazon-mwaa-to-orchestrate-data-pipelines/"
+    },
+    {
         "title": "Spark on AWS Lambda: An Apache Spark runtime for AWS Lambda",
         "link": "https://aws.amazon.com/blogs/big-data/spark-on-aws-lambda-an-apache-spark-runtime-for-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate your data warehouse migration to Amazon Redshift \u2013 Part 7",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-warehouse-migration-to-amazon-redshift-part-7/"
-    },
-    {
-        "title": "Processing large records with Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/big-data/processing-large-records-with-amazon-kinesis-data-streams/"
     }
 ]

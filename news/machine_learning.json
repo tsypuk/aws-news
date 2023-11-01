@@ -1,5 +1,9 @@
 [
     {
+        "title": "Schneider Electric leverages Retrieval Augmented LLMs on SageMaker to ensure real-time updates in their ERP systems",
+        "link": "https://aws.amazon.com/blogs/machine-learning/schneider-electric-leverages-retrieval-augmented-llms-on-sagemaker-to-ensure-real-time-updates-in-their-erp-systems/"
+    },
+    {
         "title": "Use AWS PrivateLink to set up private access to Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Personalize your search results with Amazon Personalize and Amazon OpenSearch Service integration",
         "link": "https://aws.amazon.com/blogs/machine-learning/personalize-your-search-results-with-amazon-personalize-and-amazon-opensearch-service-integration/"
-    },
-    {
-        "title": "How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/"
     }
 ]

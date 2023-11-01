@@ -1,5 +1,13 @@
 [
     {
+        "title": "Transforming transactions: Streamlining PCI compliance using AWS serverless architecture",
+        "link": "https://aws.amazon.com/blogs/security/transforming-transactions-streamlining-pci-compliance-using-aws-serverless-architecture/"
+    },
+    {
+        "title": "Prepare your AWS workloads for the \u201cOperational risks and resilience \u2013 banks\u201d FINMA Circular",
+        "link": "https://aws.amazon.com/blogs/security/prepare-your-aws-workloads-for-the-operational-risks-and-resilience-banks-finma-circular/"
+    },
+    {
         "title": "Scaling national identity schemes with itsme and Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/security/scaling-national-identity-schemes-with-itsme-and-amazon-cognito/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "PCI DSS v4.0 on AWS Compliance Guide now available",
         "link": "https://aws.amazon.com/blogs/security/pci-dss-v4-0-on-aws-compliance-guide-now-available/"
-    },
-    {
-        "title": "AWS-LC is now FIPS 140-3 certified",
-        "link": "https://aws.amazon.com/blogs/security/aws-lc-is-now-fips-140-3-certified/"
-    },
-    {
-        "title": "Use AWS Secrets Manager to store and manage secrets in on-premises or multicloud workloads",
-        "link": "https://aws.amazon.com/blogs/security/use-aws-secrets-manager-to-store-and-manage-secrets-in-on-premises-or-multicloud-workloads/"
     }
 ]
