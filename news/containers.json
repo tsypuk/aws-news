@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building multi-tenant JupyterHub Platforms on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/building-multi-tenant-jupyterhub-platforms-on-amazon-eks/"
+    },
+    {
+        "title": "Karpenter graduates to beta",
+        "link": "https://aws.amazon.com/blogs/containers/karpenter-graduates-to-beta/"
+    },
+    {
         "title": "Secure containerized workloads on Amazon EKS and AWS Fargate with Aqua",
         "link": "https://aws.amazon.com/blogs/containers/secure-containerized-workloads-on-amazon-eks-and-aws-fargate-with-aqua/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "PBS speeds deployment and reduces costs with AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/pbs-speeds-deployment-and-reduces-costs-with-aws-fargate/"
-    },
-    {
-        "title": "Reduce container startup time on Amazon EKS with Bottlerocket data volume",
-        "link": "https://aws.amazon.com/blogs/containers/reduce-container-startup-time-on-amazon-eks-with-bottlerocket-data-volume/"
-    },
-    {
-        "title": "Build a multi-tenant chatbot with RAG using Amazon Bedrock and Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/build-a-multi-tenant-chatbot-with-rag-using-amazon-bedrock-and-amazon-eks/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling GitHub usage with AWS",
+        "link": "https://aws.amazon.com/blogs/mt/scaling-github-usage-with-aws/"
+    },
+    {
         "title": "Lowering MTTR with Amazon CloudWatch and AWS X-Ray",
         "link": "https://aws.amazon.com/blogs/mt/lowering-mttr-with-amazon-cloudwatch-and-aws-x-ray/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to reduce Istio sidecar metric cardinality with Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/how-to-reduce-istio-sidecar-metric-cardinality-with-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "Estimating Total Cost of Ownership (TCO) for modernizing workloads on AWS using Containerization \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/mt/estimating-total-cost-of-ownership-tco-for-modernizing-workloads-on-aws-using-containerization-part-1/"
     }
 ]
