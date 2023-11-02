@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analog Hamiltonian simulation with PennyLane",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/analog-hamiltonian-simulation-with-pennylane/"
+    },
+    {
         "title": "Explore quantum algorithms faster by running your local Python code as an Amazon Braket Hybrid Job with minimal code changes",
         "link": "https://aws.amazon.com/blogs/quantum-computing/explore-quantum-algorithms-faster-by-running-your-local-python-code-as-an-amazon-braket-hybrid-job-with-minimal-code-changes/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing the Wolfram Quantum Framework for Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-the-wolfram-quantum-framework-for-amazon-braket/"
-    },
-    {
-        "title": "Graph coloring with physics-inspired graph neural networks",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/graph-coloring-with-physics-inspired-graph-neural-networks/"
     }
 ]

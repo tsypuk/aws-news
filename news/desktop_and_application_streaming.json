@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate management of Amazon WorkSpaces and Amazon AppStream 2.0",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automate-management-of-amazon-workspaces-and-amazon-appstream-2-0/"
+    },
+    {
         "title": "AWS End User Computing at re:Invent 2023: A sneak peek!",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-end-user-computing-at-reinvent-2023-a-sneak-peek/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Track user processes in Amazon AppStream 2.0 sessions",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/track-user-processes-in-amazon-appstream-2-0-sessions/"
-    },
-    {
-        "title": "Migrating Amazon WorkSpaces services from Microsoft Office included bundles to Microsoft 365",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/migrating-amazon-workspaces-services-from-microsoft-office-included-bundles-to-microsoft-365/"
     }
 ]

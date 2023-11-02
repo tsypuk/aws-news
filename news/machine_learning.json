@@ -1,5 +1,13 @@
 [
     {
+        "title": "Dialogue-guided visual language processing with Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/dialogue-guided-visual-language-processing-with-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "How Reveal\u2019s Logikcull used Amazon Comprehend to detect and redact PII from legal documents at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-reveals-logikcull-used-amazon-comprehend-to-detect-and-redact-pii-from-legal-documents-at-scale/"
+    },
+    {
         "title": "Schneider Electric leverages Retrieval Augmented LLMs on SageMaker to ensure real-time updates in their ERP systems",
         "link": "https://aws.amazon.com/blogs/machine-learning/schneider-electric-leverages-retrieval-augmented-llms-on-sagemaker-to-ensure-real-time-updates-in-their-erp-systems/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Learn how Amazon Pharmacy created their LLM-based chat-bot using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-pharmacy-created-their-llm-based-chat-bot-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Keeping an eye on your cattle using AI technology",
-        "link": "https://aws.amazon.com/blogs/machine-learning/keeping-an-eye-on-your-cattle-using-ai-technology/"
-    },
-    {
-        "title": "Personalize your search results with Amazon Personalize and Amazon OpenSearch Service integration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/personalize-your-search-results-with-amazon-personalize-and-amazon-opensearch-service-integration/"
     }
 ]

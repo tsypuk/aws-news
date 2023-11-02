@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ready for Flight: Announcing Finch 1.0 GA!",
+        "link": "https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/"
+    },
+    {
         "title": "Enabling Scientists to Collaborate with Amazon EKS and Open Science Studio",
         "link": "https://aws.amazon.com/blogs/opensource/enabling-scientists-to-collaborate-with-amazon-eks-and-open-science-studio/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Open Source Cedar to Write and Enforce Custom Authorization Policies",
         "link": "https://aws.amazon.com/blogs/opensource/using-open-source-cedar-to-write-and-enforce-custom-authorization-policies/"
-    },
-    {
-        "title": "Announcing Snapchange: An Open Source KVM-backed Snapshot Fuzzing Framework",
-        "link": "https://aws.amazon.com/blogs/opensource/announcing-snapchange-an-open-source-kvm-backed-snapshot-fuzzing-framework/"
     }
 ]

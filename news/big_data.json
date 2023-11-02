@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement model versioning with Amazon Redshift ML",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-model-versioning-with-amazon-redshift-ml/"
+    },
+    {
+        "title": "Enable Multi-AZ deployments for your Amazon Redshift data warehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/enable-multi-az-deployments-for-your-amazon-redshift-data-warehouse/"
+    },
+    {
         "title": "Use Snowflake with Amazon MWAA to orchestrate data pipelines",
         "link": "https://aws.amazon.com/blogs/big-data/use-snowflake-with-amazon-mwaa-to-orchestrate-data-pipelines/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Run Apache Hive workloads using Spark SQL with Amazon EMR on EKS",
         "link": "https://aws.amazon.com/blogs/big-data/run-apache-hive-workloads-using-spark-sql-with-amazon-emr-on-eks/"
-    },
-    {
-        "title": "Unleash the power of Snapshot Management to take automated snapshots using Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/unleash-the-power-of-snapshot-management-to-take-automated-snapshots-using-amazon-opensearch-service/"
-    },
-    {
-        "title": "Accelerate your data warehouse migration to Amazon Redshift \u2013 Part 7",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-warehouse-migration-to-amazon-redshift-part-7/"
     }
 ]

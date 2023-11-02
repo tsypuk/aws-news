@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the end of support for Ruby runtimes 2.3 and 2.4 for the AWS SDK For Ruby",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-ruby-runtimes-2-3-and-2-4-for-the-aws-sdk-for-ruby/"
+    },
+    {
         "title": "Announcing the end of support for Node.js 14.x in the AWS SDK for JavaScript (v3)",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-node-js-14-x-in-the-aws-sdk-for-javascript-v3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Run an Active-Passive, multi region API using Aurora RDS Global Cluster",
         "link": "https://aws.amazon.com/blogs/developer/10322-2/"
-    },
-    {
-        "title": "Announcing availability of the AWS CRT HTTP Client in the AWS SDK for Java 2.x",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-availability-of-the-aws-crt-http-client-in-the-aws-sdk-for-java-2-x/"
     }
 ]

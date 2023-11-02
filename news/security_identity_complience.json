@@ -1,5 +1,13 @@
 [
     {
+        "title": "Refine permissions for externally accessible roles using IAM Access Analyzer and IAM action last accessed",
+        "link": "https://aws.amazon.com/blogs/security/refine-permissions-for-externally-accessible-roles-using-iam-access-analyzer-and-iam-action-last-accessed/"
+    },
+    {
+        "title": "Security considerations for running containers on Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/security/security-considerations-for-running-containers-on-amazon-ecs/"
+    },
+    {
         "title": "Transforming transactions: Streamlining PCI compliance using AWS serverless architecture",
         "link": "https://aws.amazon.com/blogs/security/transforming-transactions-streamlining-pci-compliance-using-aws-serverless-architecture/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How AWS protects customers from DDoS events",
         "link": "https://aws.amazon.com/blogs/security/how-aws-protects-customers-from-ddos-events/"
-    },
-    {
-        "title": "Delegating permission set management and account assignment in AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/delegating-permission-set-management-and-account-assignment-in-aws-iam-identity-center/"
-    },
-    {
-        "title": "PCI DSS v4.0 on AWS Compliance Guide now available",
-        "link": "https://aws.amazon.com/blogs/security/pci-dss-v4-0-on-aws-compliance-guide-now-available/"
     }
 ]

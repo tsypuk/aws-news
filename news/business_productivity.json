@@ -1,5 +1,13 @@
 [
     {
+        "title": "Easily monitor for anomalous behavior across multiple SaaS applications with AWS AppFabric",
+        "link": "https://aws.amazon.com/blogs/business-productivity/easily-monitor-for-anomalous-behavior-across-multiple-saas-applications-with-aws-appfabric/"
+    },
+    {
+        "title": "Cross-application audit log analysis with AWS AppFabric",
+        "link": "https://aws.amazon.com/blogs/business-productivity/cross-application-audit-log-analysis-with-aws-appfabric/"
+    },
+    {
         "title": "Get higher quality call recordings using Amazon Chime SDK call analytics",
         "link": "https://aws.amazon.com/blogs/business-productivity/get-higher-quality-call-recordings-using-amazon-chime-sdk-call-analytics/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Announces AWS Supply Chain",
         "link": "https://aws.amazon.com/blogs/business-productivity/aws-announces-aws-supply-chain/"
-    },
-    {
-        "title": "Enable skill calling through Alexa devices with new features in the Amazon Chime SDK",
-        "link": "https://aws.amazon.com/blogs/business-productivity/enable-skill-calling-through-alexa-devices-with-new-features-in-the-amazon-chime-sdk/"
-    },
-    {
-        "title": "Topdanmark builds screen sharing tool using AWS Communication Developer Services (CDS)",
-        "link": "https://aws.amazon.com/blogs/business-productivity/topdanmark-builds-screen-sharing-tool-using-aws-communication-developer-services-cds/"
     }
 ]

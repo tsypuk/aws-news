@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing protocol selection when using Amazon FSx for NetApp ONTAP for Microsoft SQL Server",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimizing-protocol-selection-when-using-amazon-fsx-for-netapp-ontap-for-microsoft-sql-server/"
+    },
+    {
         "title": "Refactor to Modern .NET and Move to Linux",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/refactor-to-modern-net-and-move-to-linux/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "It\u2019s end of support time again. Are your Microsoft Windows Servers secure?",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/its-end-of-support-time-again-are-your-windows-servers-secure/"
-    },
-    {
-        "title": "How to view Azure costs using Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/cloud-intelligence-dashboard-for-azure/"
     }
 ]
