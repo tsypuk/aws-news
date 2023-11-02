@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Connect real-time monitoring using Amazon Managed Grafana and Amazon Timestream",
+        "link": "https://aws.amazon.com/blogs/mt/amazon-connect-real-time-monitoring-using-amazon-managed-grafana-and-amazon-timestream/"
+    },
+    {
+        "title": "Mark your calendars for AWS Mainframe Modernization sessions @ re: Invent 2023",
+        "link": "https://aws.amazon.com/blogs/mt/mark-your-calendars-for-aws-mainframe-modernization-sessions-re-invent-2023/"
+    },
+    {
         "title": "Scaling GitHub usage with AWS",
         "link": "https://aws.amazon.com/blogs/mt/scaling-github-usage-with-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Monitoring Generative AI applications using Amazon Bedrock and Amazon CloudWatch integration",
         "link": "https://aws.amazon.com/blogs/mt/monitoring-generative-ai-applications-using-amazon-bedrock-and-amazon-cloudwatch-integration/"
-    },
-    {
-        "title": "Provisioning access to security and audit teams in an AWS multi-account environment created by AWS Control Tower",
-        "link": "https://aws.amazon.com/blogs/mt/provisioning-access-to-security-and-audit-teams-in-an-aws-multi-account-environment-created-by-aws-control-tower/"
-    },
-    {
-        "title": "How to reduce Istio sidecar metric cardinality with Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-reduce-istio-sidecar-metric-cardinality-with-amazon-managed-service-for-prometheus/"
     }
 ]
