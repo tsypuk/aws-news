@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Use AWS Service Catalog with HashiCorp Terraform Cloud",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-use-aws-service-catalog-with-hashicorp-terraform-cloud/"
+    },
+    {
+        "title": "Simplify, Accelerate, and Automate SAP Deployment Using AWS Launch Wizard for SAP",
+        "link": "https://aws.amazon.com/blogs/apn/simplify-accelerate-and-automate-sap-deployment-using-aws-launch-wizard-for-sap/"
+    },
+    {
         "title": "Integrating Amazon Cognito with 1Kosmos BlockID for Enhanced Security and User Experience",
         "link": "https://aws.amazon.com/blogs/apn/integrating-amazon-cognito-with-1kosmos-blockid-for-enhanced-security-and-user-experience/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplifying Amazon EKS Adoption With Comprinno\u2019s Pre-Crafted Well-Architected EKS Package",
         "link": "https://aws.amazon.com/blogs/apn/simplifying-amazon-eks-adoption-with-comprinno-pre-crafted-well-architected-eks-package/"
-    },
-    {
-        "title": "Intelligent Email Response Management Using Amazon Connect and TCS RemacX",
-        "link": "https://aws.amazon.com/blogs/apn/intelligent-email-response-management-using-amazon-connect-and-tcs-remacx/"
-    },
-    {
-        "title": "BeyondTrust\u2019s Identity Security Insights SaaS Offering, Supported by AWS SaaS Factory",
-        "link": "https://aws.amazon.com/blogs/apn/beyondtrusts-identity-security-insights-saas-solution-supported-by-aws-saas-factory/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to monitor Amazon Elastic File System (EFS) storage costs",
+        "link": "https://aws.amazon.com/blogs/storage/monitor-amazon-elastic-file-system-amazon-efs-storage-costs/"
+    },
+    {
         "title": "Manage event ordering and duplicate events with Amazon S3 Event Notifications",
         "link": "https://aws.amazon.com/blogs/storage/manage-event-ordering-and-duplicate-events-with-amazon-s3-event-notifications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS Backup logically air-gapped vault",
         "link": "https://aws.amazon.com/blogs/storage/introducing-aws-backup-logically-air-gapped-vault/"
-    },
-    {
-        "title": "Reduce recovery time and optimize storage costs with faster restores from Amazon S3 Glacier storage classes and Commvault",
-        "link": "https://aws.amazon.com/blogs/storage/reduce-recovery-time-and-optimize-storage-costs-with-faster-restores-from-amazon-s3-glacier-and-commvault/"
     }
 ]

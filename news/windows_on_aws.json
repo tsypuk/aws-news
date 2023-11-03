@@ -1,5 +1,9 @@
 [
     {
+        "title": "Configure Microsoft Active Directory to use Amazon Time Sync",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/configure-microsoft-active-directory-to-use-amazon-time-sync/"
+    },
+    {
         "title": "Optimizing protocol selection when using Amazon FSx for NetApp ONTAP for Microsoft SQL Server",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimizing-protocol-selection-when-using-amazon-fsx-for-netapp-ontap-for-microsoft-sql-server/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Reduce Microsoft SQL Server licensing costs with AWS Compute Optimizer",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reduce-microsoft-sql-server-licensing-costs-with-aws-compute-optimizer/"
-    },
-    {
-        "title": "It\u2019s end of support time again. Are your Microsoft Windows Servers secure?",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/its-end-of-support-time-again-are-your-windows-servers-secure/"
     }
 ]

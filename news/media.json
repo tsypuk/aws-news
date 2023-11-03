@@ -1,5 +1,17 @@
 [
     {
+        "title": "Know Before You Go \u2013 AWS re:Invent 2023 Monitoring and Observability, and Centralized Operations Management",
+        "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2023-cloud-operations-monitoring-observability-and-centralized-operations-management/"
+    },
+    {
+        "title": "How to email your Amazon CloudWatch dashboard",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-email-your-amazon-cloudwatch-dashboard/"
+    },
+    {
+        "title": "Automating Amazon EC2 Auto Scaling with Amazon CloudWatch custom metrics and AWS CDK",
+        "link": "https://aws.amazon.com/blogs/mt/automating-amazon-ec2-auto-scaling-with-amazon-cloudwatch-custom-metric-and-aws-cdk/"
+    },
+    {
         "title": "Amazon Connect real-time monitoring using Amazon Managed Grafana and Amazon Timestream",
         "link": "https://aws.amazon.com/blogs/mt/amazon-connect-real-time-monitoring-using-amazon-managed-grafana-and-amazon-timestream/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Monitor Amazon EKS Control Plane metrics using  AWS Open Source monitoring services",
         "link": "https://aws.amazon.com/blogs/mt/monitor-amazon-eks-control-plane-metrics-using-aws-open-source-monitoring-services/"
-    },
-    {
-        "title": "Auto-remediate best practice deviations detected by AWS Trusted Advisor",
-        "link": "https://aws.amazon.com/blogs/mt/auto-remediate-best-practice-deviations-detected-by-aws-trusted-advisor/"
-    },
-    {
-        "title": "7 Easy steps to migrate Oracle database to AWS in minutes",
-        "link": "https://aws.amazon.com/blogs/mt/7-easy-steps-to-migrate-oracle-database-to-aws-in-minutes/"
-    },
-    {
-        "title": "Monitoring Generative AI applications using Amazon Bedrock and Amazon CloudWatch integration",
-        "link": "https://aws.amazon.com/blogs/mt/monitoring-generative-ai-applications-using-amazon-bedrock-and-amazon-cloudwatch-integration/"
     }
 ]
