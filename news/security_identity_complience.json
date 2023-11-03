@@ -1,5 +1,21 @@
 [
     {
+        "title": "Approaches for migrating users to Amazon Cognito user pools",
+        "link": "https://aws.amazon.com/blogs/security/approaches-for-migrating-users-to-amazon-cognito-user-pools/"
+    },
+    {
+        "title": "How to share security telemetry per OU using Amazon Security Lake and AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/security/how-to-share-security-telemetry-per-ou-using-amazon-security-lake-and-aws-lake-formation/"
+    },
+    {
+        "title": "Aggregating, searching, and visualizing log data from distributed sources with Amazon Athena and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/security/aggregating-searching-and-visualizing-log-data-from-distributed-sources-with-amazon-athena-and-amazon-quicksight/"
+    },
+    {
+        "title": "How to visualize Amazon Security Lake findings with Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/security/how-to-visualize-amazon-security-lake-findings-with-amazon-quicksight/"
+    },
+    {
         "title": "Refine permissions for externally accessible roles using IAM Access Analyzer and IAM action last accessed",
         "link": "https://aws.amazon.com/blogs/security/refine-permissions-for-externally-accessible-roles-using-iam-access-analyzer-and-iam-action-last-accessed/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "AWS announces Cloud Companion Guide for the CSA Cyber Trust mark",
         "link": "https://aws.amazon.com/blogs/security/aws-announces-cloud-companion-guide-for-the-csa-cyber-trust-mark/"
-    },
-    {
-        "title": "Now available: Building a scalable vulnerability management program on AWS",
-        "link": "https://aws.amazon.com/blogs/security/now-available-how-to-build-a-scalable-vulnerability-management-program-on-aws/"
-    },
-    {
-        "title": "New whitepaper available: Charting a path to stronger security with Zero Trust",
-        "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-charting-a-path-to-stronger-security-with-zero-trust/"
-    },
-    {
-        "title": "Use SAML with Amazon Cognito to support a multi-tenant application with a single user pool",
-        "link": "https://aws.amazon.com/blogs/security/use-saml-with-amazon-cognito-to-support-a-multi-tenant-application-with-a-single-user-pool/"
-    },
-    {
-        "title": "How AWS protects customers from DDoS events",
-        "link": "https://aws.amazon.com/blogs/security/how-aws-protects-customers-from-ddos-events/"
     }
 ]
