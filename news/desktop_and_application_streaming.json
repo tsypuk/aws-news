@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize application streaming costs with Amazon AppStream 2.0",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-application-streaming-costs-with-amazon-appstream-2-0/"
+    },
+    {
         "title": "Next-level SaaS security with Amazon WorkSpaces Web",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/next-level-saas-security-with-amazon-workspaces-web/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use automation to optimize and control cost of Amazon AppStream 2.0",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/how-to-use-automation-to-optimize-and-control-cost-of-amazon-appstream-2-0/"
-    },
-    {
-        "title": "How to configure Desktop Single Sign-On using OKTA with audio optimization for Amazon Connect on Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/how-to-configure-desktop-single-sign-on-using-okta-with-audio-optimization-for-amazon-connect-on-amazon-workspaces/"
     }
 ]

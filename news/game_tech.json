@@ -1,5 +1,9 @@
 [
     {
+        "title": "Pixel streaming considerations in AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/pixel-streaming-considerations-in-aws/"
+    },
+    {
         "title": "The Game Developer\u2019s Guide to re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/gametech/the-game-developers-guide-to-aws-reinvent-2023/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How an indie developer realized an out-of-this-world vision for multiplayer video game \u201cCrossfar\u201d using Amazon GameLift",
         "link": "https://aws.amazon.com/blogs/gametech/how-an-indie-developer-realized-an-out-of-this-world-vision-for-multiplayer-video-game-crossfar-using-amazon-gamelift/"
-    },
-    {
-        "title": "EA\u2019s Metalhead launches \u2018Super Mega Baseball 4\u2019 with cross-play for six platforms using Amazon GameLift",
-        "link": "https://aws.amazon.com/blogs/gametech/eas-metalhead-launches-super-mega-baseball-4-with-cross-play-for-six-platforms-using-amazon-gamelift/"
     }
 ]

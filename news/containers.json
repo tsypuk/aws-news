@@ -1,5 +1,9 @@
 [
     {
+        "title": "A deep dive into Amazon ECS task health and task replacement",
+        "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-amazon-ecs-task-health-and-task-replacement/"
+    },
+    {
         "title": "Building multi-tenant JupyterHub Platforms on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/building-multi-tenant-jupyterhub-platforms-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Build ROSA Clusters with Terraform",
         "link": "https://aws.amazon.com/blogs/containers/build-rosa-clusters-with-terraform/"
-    },
-    {
-        "title": "PBS speeds deployment and reduces costs with AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/containers/pbs-speeds-deployment-and-reduces-costs-with-aws-fargate/"
     }
 ]

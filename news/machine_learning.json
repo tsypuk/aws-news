@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bundesliga Match Facts Shot Speed \u2013 Who fires the hardest shots in the Bundesliga?",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-facts-shot-speed-who-fires-the-hardest-shots-in-the-bundesliga/"
+    },
+    {
         "title": "Deploy ML models built in Amazon SageMaker Canvas to Amazon SageMaker real-time endpoints",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ml-models-built-in-amazon-sagemaker-canvas-to-amazon-sagemaker-real-time-endpoints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models",
         "link": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/"
-    },
-    {
-        "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/"
     }
 ]

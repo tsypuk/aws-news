@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Cross-Account Deployment in GitLab Pipelines Using AWS CDK",
+        "link": "https://aws.amazon.com/blogs/apn/building-cross-account-deployment-in-gitlab-pipelines-using-aws-cdk/"
+    },
+    {
         "title": "How to Use AWS Service Catalog with HashiCorp Terraform Cloud",
         "link": "https://aws.amazon.com/blogs/apn/how-to-use-aws-service-catalog-with-hashicorp-terraform-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Congrats to Our 2023 AWS Ambassador Award Winners and Meet the Newest AWS Ambassadors",
         "link": "https://aws.amazon.com/blogs/apn/congrats-to-our-2023-aws-ambassador-award-winners-and-meet-the-newest-aws-ambassadors/"
-    },
-    {
-        "title": "Simplifying Amazon EKS Adoption With Comprinno\u2019s Pre-Crafted Well-Architected EKS Package",
-        "link": "https://aws.amazon.com/blogs/apn/simplifying-amazon-eks-adoption-with-comprinno-pre-crafted-well-architected-eks-package/"
     }
 ]

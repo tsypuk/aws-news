@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate self-service analytics integrating on-premises and third-party data with AWS Data Exchange and Dremio",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/accelerate-self-service-analytics-integrating-on-premises-third-party-data-aws-data-exchange-dremio/"
+    },
+    {
+        "title": "Join third-party data in Amazon Redshift with Snowflake using Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/join-third-party-data-in-amazon-redshift-with-snowflake-using-amazon-athena/"
+    },
+    {
         "title": "Quant research at scale using AWS and Refinitiv data",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/quant-research-scale-aws-refinitiv-data/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to strategically package and price your solution in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/strategically-package-price-your-solution-aws-marketplace/"
-    },
-    {
-        "title": "Masking Patient Data with DataMasque\u2019s template for Amazon HealthLake",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/masking-patient-data-datamasques-template-amazon-healthlake/"
-    },
-    {
-        "title": "How to provision software available in AWS Marketplace in AWS GovCloud",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-provision-software-aws-marketplace-govcloud/"
     }
 ]

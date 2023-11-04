@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a Real-time, WebSockets API for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/mobile/connecting-applications-to-generative-ai-presents-new-challenges/"
+    },
+    {
+        "title": "Connect Amazon Bedrock to your data with AWS AppSync and GraphQL",
+        "link": "https://aws.amazon.com/blogs/mobile/connect-aws-bedrock-large-language-models-to-enterprise-knowledge-databases-and-apis/"
+    },
+    {
         "title": "Modern Tooling for Your Website using AWS, Contentful, and Next.js",
         "link": "https://aws.amazon.com/blogs/mobile/modern-tooling-for-your-website-using-aws-contentful-and-next-js/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS SAM now supports GraphQL Applications with AWS AppSync",
         "link": "https://aws.amazon.com/blogs/mobile/aws-sam-now-supports-graphql-applications-with-aws-appsync/"
-    },
-    {
-        "title": "SSG vs SSR in Next.js Web Applications: Choosing the Right Rendering Approach",
-        "link": "https://aws.amazon.com/blogs/mobile/ssg-vs-ssr-in-next-js-web-applications-choosing-the-right-rendering-approach/"
-    },
-    {
-        "title": "AWS Amplify enables CloudWatch Logging Support for Swift and Android",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-cloudwatch-logger-is-now-available-for-swift-and-android/"
     }
 ]
