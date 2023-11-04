@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to create an AMI hardening pipeline and automate updates to your ECS instance fleet",
+        "link": "https://aws.amazon.com/blogs/security/how-to-create-an-ami-hardening-pipeline-and-automate-updates-to-your-ecs-instance-fleet/"
+    },
+    {
+        "title": "How to use chaos engineering in incident response",
+        "link": "https://aws.amazon.com/blogs/security/how-to-use-chaos-engineering-in-incident-response/"
+    },
+    {
         "title": "Approaches for migrating users to Amazon Cognito user pools",
         "link": "https://aws.amazon.com/blogs/security/approaches-for-migrating-users-to-amazon-cognito-user-pools/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Security Profile: Liam Wadman, Senior Solutions Architect, AWS Identity",
         "link": "https://aws.amazon.com/blogs/security/aws-security-profile-liam-wadman-sr-solutions-architect-aws-identity/"
-    },
-    {
-        "title": "Securing generative AI: An introduction to the Generative AI Security Scoping Matrix",
-        "link": "https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/"
-    },
-    {
-        "title": "AWS announces Cloud Companion Guide for the CSA Cyber Trust mark",
-        "link": "https://aws.amazon.com/blogs/security/aws-announces-cloud-companion-guide-for-the-csa-cyber-trust-mark/"
     }
 ]

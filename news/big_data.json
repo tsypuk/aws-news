@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy Amazon QuickSight dashboards to monitor AWS Glue ETL job metrics and set alarms",
+        "link": "https://aws.amazon.com/blogs/big-data/deploy-amazon-quicksight-dashboards-to-monitor-aws-glue-etl-job-metrics-and-set-alarms/"
+    },
+    {
         "title": "GoDaddy benchmarking results in up to 24% better price-performance for their Spark workloads with AWS Graviton2 on Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/godaddy-benchmarking-results-in-up-to-24-better-price-performance-for-their-spark-workloads-with-aws-graviton2-on-amazon-emr-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance your security posture by storing Amazon Redshift admin credentials without human intervention using AWS Secrets Manager integration",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-your-security-posture-by-storing-amazon-redshift-admin-credentials-without-human-intervention-using-aws-secrets-manager-integration/"
-    },
-    {
-        "title": "Migrate Microsoft Azure Synapse Analytics to Amazon Redshift using AWS SCT",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-microsoft-azure-synapse-analytics-to-amazon-redshift-using-aws-sct/"
     }
 ]
