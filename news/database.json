@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate from Oracle PL/JSON to Amazon Aurora PostgreSQL JSONB",
+        "link": "https://aws.amazon.com/blogs/database/migrate-from-oracle-pl-json-to-amazon-aurora-postgresql-jsonb/"
+    },
+    {
+        "title": "Accelerate HNSW indexing and searching with pgvector on Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-hnsw-indexing-and-searching-with-pgvector-on-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Set up Amazon CloudWatch alarms on Amazon RDS Enhanced Monitoring OS metrics",
         "link": "https://aws.amazon.com/blogs/database/set-up-amazon-cloudwatch-alarms-on-amazon-rds-enhanced-monitoring-os-metrics/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Upgrade your Amazon DocumentDB clusters using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/upgrade-your-amazon-documentdb-clusters-using-aws-dms/"
-    },
-    {
-        "title": "Build a sensor network using AWS IoT Core and Amazon DocumentDB",
-        "link": "https://aws.amazon.com/blogs/database/build-a-sensor-network-using-aws-iot-core-and-amazon-documentdb/"
-    },
-    {
-        "title": "Migrate an IBM Db2 for iSeries database to Amazon Aurora PostgreSQL using Blu Age and Qlik Replicate",
-        "link": "https://aws.amazon.com/blogs/database/migrate-an-ibm-db2-for-iseries-database-to-amazon-aurora-postgresql-using-blu-age-and-qlik-replicate/"
     }
 ]

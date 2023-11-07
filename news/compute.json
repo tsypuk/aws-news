@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing faster polling scale-up for AWS Lambda functions configured with Amazon SQS",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-faster-polling-scale-up-for-aws-lambda-functions-configured-with-amazon-sqs/"
+    },
+    {
         "title": "Orchestrating dependent file uploads with AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/orchestrating-dependent-file-uploads-with-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a secure webhook forwarder using an AWS Lambda extension and Tailscale",
         "link": "https://aws.amazon.com/blogs/compute/building-a-secure-webhook-forwarder-using-an-aws-lambda-extension-and-tailscale/"
-    },
-    {
-        "title": "AWS SAM support for HashiCorp Terraform now generally available",
-        "link": "https://aws.amazon.com/blogs/compute/aws-sam-support-for-hashicorp-terraform-now-generally-available/"
     }
 ]

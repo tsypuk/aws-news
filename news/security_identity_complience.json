@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to improve your security incident response processes with Jupyter notebooks",
+        "link": "https://aws.amazon.com/blogs/security/how-to-improve-your-security-incident-response-processes-with-jupyter-notebooks/"
+    },
+    {
+        "title": "Build an entitlement service for business applications using Amazon Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/security/build-an-entitlement-service-for-business-applications-using-amazon-verified-permissions/"
+    },
+    {
         "title": "How to create an AMI hardening pipeline and automate updates to your ECS instance fleet",
         "link": "https://aws.amazon.com/blogs/security/how-to-create-an-ami-hardening-pipeline-and-automate-updates-to-your-ecs-instance-fleet/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Updated Essential Eight guidance for Australian customers",
         "link": "https://aws.amazon.com/blogs/security/updated-essential-eight-guidance-for-australian-customers/"
-    },
-    {
-        "title": "IAM Roles Anywhere with an external certificate authority",
-        "link": "https://aws.amazon.com/blogs/security/iam-roles-anywhere-with-an-external-certificate-authority/"
-    },
-    {
-        "title": "AWS Security Profile: Liam Wadman, Senior Solutions Architect, AWS Identity",
-        "link": "https://aws.amazon.com/blogs/security/aws-security-profile-liam-wadman-sr-solutions-architect-aws-identity/"
     }
 ]

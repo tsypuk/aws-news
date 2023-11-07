@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Open Source Projects are Using Kani to Write Better Software in Rust",
+        "link": "https://aws.amazon.com/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust/"
+    },
+    {
         "title": "Ready for Flight: Announcing Finch 1.0 GA!",
         "link": "https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Fully Automated Deployment of an Open Source Mail Server on AWS",
         "link": "https://aws.amazon.com/blogs/opensource/fully-automated-deployment-of-an-open-source-mail-server-on-aws/"
-    },
-    {
-        "title": "Using Open Source Cedar to Write and Enforce Custom Authorization Policies",
-        "link": "https://aws.amazon.com/blogs/opensource/using-open-source-cedar-to-write-and-enforce-custom-authorization-policies/"
     }
 ]
