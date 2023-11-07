@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing Amazon MWAA support for Apache Airflow version 2.7.2 and deferrable operators",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-7-2-and-deferrable-operators/"
+    },
+    {
+        "title": "Use IAM runtime roles with Amazon EMR Studio Workspaces and AWS Lake Formation for cross-account fine-grained access control",
+        "link": "https://aws.amazon.com/blogs/big-data/use-iam-runtime-roles-with-amazon-emr-studio-workspaces-and-aws-lake-formation-for-cross-account-fine-grained-access-control/"
+    },
+    {
         "title": "Deploy Amazon QuickSight dashboards to monitor AWS Glue ETL job metrics and set alarms",
         "link": "https://aws.amazon.com/blogs/big-data/deploy-amazon-quicksight-dashboards-to-monitor-aws-glue-etl-job-metrics-and-set-alarms/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "SmugMug\u2019s durable search pipelines for Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/smugmugs-durable-search-pipelines-for-amazon-opensearch-service/"
-    },
-    {
-        "title": "Load data incrementally from transactional data lakes to data warehouses",
-        "link": "https://aws.amazon.com/blogs/big-data/load-data-incrementally-from-transactional-data-lakes-to-data-warehouses/"
-    },
-    {
-        "title": "Enhance your security posture by storing Amazon Redshift admin credentials without human intervention using AWS Secrets Manager integration",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-your-security-posture-by-storing-amazon-redshift-admin-credentials-without-human-intervention-using-aws-secrets-manager-integration/"
     }
 ]

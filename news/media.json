@@ -1,5 +1,21 @@
 [
     {
+        "title": "Know Before You Go \u2013 AWS re:Invent 2023 Cloud Governance and Compliance",
+        "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2023-governance-and-compliance/"
+    },
+    {
+        "title": "Creating a correction of errors document",
+        "link": "https://aws.amazon.com/blogs/mt/creating-a-correction-of-errors-document/"
+    },
+    {
+        "title": "Monitoring GPU workloads on Amazon EKS using AWS managed open-source services",
+        "link": "https://aws.amazon.com/blogs/mt/monitoring-gpu-workloads-on-amazon-eks-using-aws-managed-open-source-services/"
+    },
+    {
+        "title": "Announcing Container Insights with Enhanced Observability for Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/mt/new-container-insights-with-enhanced-observability-for-amazon-eks/"
+    },
+    {
         "title": "Know Before You Go \u2013 AWS re:Invent 2023 Monitoring and Observability, and Centralized Operations Management",
         "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2023-cloud-operations-monitoring-observability-and-centralized-operations-management/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Observability using native Amazon CloudWatch and AWS X-Ray for serverless modern applications",
         "link": "https://aws.amazon.com/blogs/mt/observability-using-native-amazon-cloudwatch-and-aws-x-ray-for-serverless-modern-applications/"
-    },
-    {
-        "title": "Accelerate End-to-End Application Modernization with AWS App2Container and AWS Migration Hub Refactor Spaces",
-        "link": "https://aws.amazon.com/blogs/mt/accelerate-end-to-end-application-modernization-with-aws-app2container-and-aws-migration-hub-refactor-spaces/"
-    },
-    {
-        "title": "Estimating Total Cost of Ownership (TCO) for modernizing workloads on AWS using Containerization \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/mt/estimating-total-cost-of-ownership-tco-for-modernizing-workloads-on-aws-using-containerization-part-2/"
-    },
-    {
-        "title": "Monitor IoT device health at scale with Amazon Managed Grafana\u00ad\u00ad",
-        "link": "https://aws.amazon.com/blogs/mt/monitor-iot-device-health-at-scale-with-amazon-managed-grafana/"
-    },
-    {
-        "title": "Monitor Amazon EKS Control Plane metrics using  AWS Open Source monitoring services",
-        "link": "https://aws.amazon.com/blogs/mt/monitor-amazon-eks-control-plane-metrics-using-aws-open-source-monitoring-services/"
     }
 ]

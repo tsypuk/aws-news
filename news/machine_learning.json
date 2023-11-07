@@ -1,5 +1,17 @@
 [
     {
+        "title": "Use generative AI to increase agent productivity through automated call summarization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
+    },
+    {
+        "title": "Customize Amazon Textract with business-specific documents using Custom Queries",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-textract-with-business-specific-documents-using-custom-queries/"
+    },
+    {
+        "title": "Stream large language model responses in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/stream-large-language-model-responses-in-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Bundesliga Match Facts Shot Speed \u2013 Who fires the hardest shots in the Bundesliga?",
         "link": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-facts-shot-speed-who-fires-the-hardest-shots-in-the-bundesliga/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/"
-    },
-    {
-        "title": "How Meesho built a generalized feed ranker using Amazon SageMaker inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-meesho-built-a-generalized-feed-ranker-using-amazon-sagemaker-inference/"
-    },
-    {
-        "title": "Announcing Rekogniton Custom Moderation: Enhance accuracy of pre-trained Rekognition moderation models with your data",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/"
-    },
-    {
-        "title": "Defect detection in high-resolution imagery using two-stage Amazon Rekognition Custom Labels models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/defect-detection-in-high-resolution-imagery-using-two-stage-amazon-rekognition-custom-labels-models/"
     }
 ]

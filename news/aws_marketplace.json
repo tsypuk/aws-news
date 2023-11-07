@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining Third-party add-on management in Amazon EKS cluster using Terraform and Amazon EKS add-on catalog",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/streamlining-third-party-add-on-management-amazon-eks-cluster-using-terraform-amazon-eks-add-on-catalog/"
+    },
+    {
         "title": "Accelerate self-service analytics integrating on-premises and third-party data with AWS Data Exchange and Dremio",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/accelerate-self-service-analytics-integrating-on-premises-third-party-data-aws-data-exchange-dremio/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to update your single-AMI products in AWS Marketplace using self-service",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/update-single-ami-products-aws-marketplace-using-self-service/"
-    },
-    {
-        "title": "How to strategically package and price your solution in AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/strategically-package-price-your-solution-aws-marketplace/"
     }
 ]

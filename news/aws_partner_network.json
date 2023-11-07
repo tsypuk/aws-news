@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Unlock Real-Time Data Streams with CockroachDB and Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-unlock-real-time-data-streams-with-cockroachdb-and-amazon-msk/"
+    },
+    {
+        "title": "How Vox Media Automates SaaS Security Risk Controls with DoControl",
+        "link": "https://aws.amazon.com/blogs/apn/how-vox-media-automates-saas-security-risk-controls-with-docontrol/"
+    },
+    {
         "title": "Building Cross-Account Deployment in GitLab Pipelines Using AWS CDK",
         "link": "https://aws.amazon.com/blogs/apn/building-cross-account-deployment-in-gitlab-pipelines-using-aws-cdk/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Strategies, Patterns, and Security Measures for Integrating Infor CloudSuite with AWS",
         "link": "https://aws.amazon.com/blogs/apn/strategies-patterns-and-security-measures-for-integrating-infor-cloudsuite-with-aws/"
-    },
-    {
-        "title": "How AWS Partners Can Conduct a High-Quality Cloud Readiness Assessment for Customers",
-        "link": "https://aws.amazon.com/blogs/apn/how-aws-partners-can-conduct-a-high-quality-cloud-readiness-assessment-for-customers/"
-    },
-    {
-        "title": "Congrats to Our 2023 AWS Ambassador Award Winners and Meet the Newest AWS Ambassadors",
-        "link": "https://aws.amazon.com/blogs/apn/congrats-to-our-2023-aws-ambassador-award-winners-and-meet-the-newest-aws-ambassadors/"
     }
 ]
