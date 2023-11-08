@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS KMS is now FIPS 140-2 Security Level 3. What does this mean for you?",
+        "link": "https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/"
+    },
+    {
+        "title": "AWS Wickr achieves FedRAMP Moderate authorization",
+        "link": "https://aws.amazon.com/blogs/security/aws-wickr-achieves-fedramp-moderate-authorization/"
+    },
+    {
         "title": "How to improve your security incident response processes with Jupyter notebooks",
         "link": "https://aws.amazon.com/blogs/security/how-to-improve-your-security-incident-response-processes-with-jupyter-notebooks/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS FedRAMP Revision 5 baselines transition update",
         "link": "https://aws.amazon.com/blogs/security/aws-fedramp-revision-5-transition-update/"
-    },
-    {
-        "title": "AWS Digital Sovereignty Pledge: Announcing a new, independent sovereign cloud in Europe",
-        "link": "https://aws.amazon.com/blogs/security/aws-digital-sovereignty-pledge-announcing-a-new-independent-sovereign-cloud-in-europe/"
-    },
-    {
-        "title": "Updated Essential Eight guidance for Australian customers",
-        "link": "https://aws.amazon.com/blogs/security/updated-essential-eight-guidance-for-australian-customers/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a Cloud Automation Practice for Operational Excellence: Best Practices from AWS Managed Services",
+        "link": "https://aws.amazon.com/blogs/mt/build-a-cloud-automation-practice-for-operational-excellence-best-practices-from-aws-managed-services/"
+    },
+    {
         "title": "Know Before You Go \u2013 AWS re:Invent 2023 Cloud Governance and Compliance",
         "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2023-governance-and-compliance/"
     },
@@ -12,7 +16,7 @@
         "link": "https://aws.amazon.com/blogs/mt/monitoring-gpu-workloads-on-amazon-eks-using-aws-managed-open-source-services/"
     },
     {
-        "title": "Announcing Container Insights with Enhanced Observability for Amazon EKS",
+        "title": "Announcing Container Insights with Enhanced Observability for Amazon EKS on EC2",
         "link": "https://aws.amazon.com/blogs/mt/new-container-insights-with-enhanced-observability-for-amazon-eks/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Centralize image administration for virtual machines and containers using EC2 Image Builder",
         "link": "https://aws.amazon.com/blogs/mt/centralize-image-administration-for-virtual-machines-and-containers-using-ec2-image-builder/"
-    },
-    {
-        "title": "Observability using native Amazon CloudWatch and AWS X-Ray for serverless modern applications",
-        "link": "https://aws.amazon.com/blogs/mt/observability-using-native-amazon-cloudwatch-and-aws-x-ray-for-serverless-modern-applications/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Configure dynamic tenancy for Amazon OpenSearch Dashboards",
+        "link": "https://aws.amazon.com/blogs/big-data/configure-dynamic-tenancy-for-amazon-opensearch-dashboards/"
+    },
+    {
+        "title": "Connect your data for faster decisions with AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/connect-your-data-for-faster-decisions-with-aws/"
+    },
+    {
         "title": "Introducing Amazon MWAA support for Apache Airflow version 2.7.2 and deferrable operators",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-7-2-and-deferrable-operators/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Resolve private DNS hostnames for Amazon MSK Connect",
         "link": "https://aws.amazon.com/blogs/big-data/resolve-private-dns-hostnames-for-amazon-msk-connect/"
-    },
-    {
-        "title": "Migrate data from Azure Blob Storage to Amazon S3 using AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-data-from-azure-blob-storage-to-amazon-s3-using-aws-glue/"
-    },
-    {
-        "title": "SmugMug\u2019s durable search pipelines for Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/smugmugs-durable-search-pipelines-for-amazon-opensearch-service/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harnessing the power of enterprise data with generative AI: Insights from Amazon Kendra, LangChain, and large language models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-enterprise-data-with-generative-ai-insights-from-amazon-kendra-langchain-and-large-language-models/"
+    },
+    {
         "title": "Use generative AI to increase agent productivity through automated call summarization",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Governing the ML lifecycle at scale, Part 1: A framework for architecting ML workloads using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-1-a-framework-for-architecting-ml-workloads-using-amazon-sagemaker/"
     }
 ]
