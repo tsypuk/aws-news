@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Fleet Training to Improve Level 3 Digital Twin Virtual Sensors with Ansys on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/using-fleet-training-to-improve-l3-digital-twin-virtual-sensors-with-ansys-on-aws/"
+    },
+    {
         "title": "Accelerating green-urban planning simulations with AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/accelerating-green-urban-planning-simulations-with-aws-batch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving NFL player health using machine learning with AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/improving-nfl-player-health-using-machine-learning-with-aws-batch/"
-    },
-    {
-        "title": "Diving Deeper into Fair-Share Scheduling in AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/deep-dive-on-fair-share-scheduling-in-aws-batch/"
     }
 ]

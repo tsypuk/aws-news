@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Aurora MySQL zero-ETL integration with Amazon Redshift is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift-is-now-generally-available/"
+    },
+    {
+        "title": "New \u2013 Create application-consistent snapshots using Amazon Data Lifecycle Manager and custom scripts",
+        "link": "https://aws.amazon.com/blogs/aws/new-create-application-consistent-snapshots-using-amazon-data-lifecycle-manager-and-custom-scripts/"
+    },
+    {
         "title": "AWS Weekly Roundup\u2014Reserve GPU capacity for short ML workloads, Finch is GA, and more\u2014November 6, 2023",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reserve-gpu-capacity-for-short-ml-workloads-finch-is-ga-and-more-november-6-2023/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon MSK Introduces Managed Data Delivery from Apache Kafka to Your Data Lake",
         "link": "https://aws.amazon.com/blogs/aws/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon EC2 M2 Pro Mac, Amazon Coretto 21, Amazon CloudWatch Synthetics, and more (Sept. 25, 2023)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m2-pro-mac-amazon-coretto-21-amazon-cloudwatch-synthetics-and-more-sept-25-2023/"
-    },
-    {
-        "title": "New \u2013 Add Your Swift Packages to AWS CodeArtifact",
-        "link": "https://aws.amazon.com/blogs/aws/new-add-your-swift-packages-to-aws-codeartifact/"
     }
 ]

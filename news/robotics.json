@@ -1,5 +1,9 @@
 [
     {
+        "title": "ANYbotics uses AWS to deploy a global robot workforce for industrial inspections",
+        "link": "https://aws.amazon.com/blogs/robotics/anybotics-uses-aws-to-deploy-a-global-robot-workforce-for-industrial-inspections/"
+    },
+    {
         "title": "Running high-fidelity O3DE simulations in AWS RoboMaker",
         "link": "https://aws.amazon.com/blogs/robotics/running-high-fidelity-o3de-simulations-in-aws-robomaker/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Build headless robotic simulations with AWS Batch",
         "link": "https://aws.amazon.com/blogs/robotics/build-headless-robotic-simulations-with-aws-batch/"
-    },
-    {
-        "title": "How to connect your robots to the AWS Cloud and drive data-driven innovation",
-        "link": "https://aws.amazon.com/blogs/robotics/how-to-connect-your-robots-to-the-aws-cloud-and-drive-data-driven-innovation/"
     }
 ]
