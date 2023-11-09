@@ -1,5 +1,9 @@
 [
     {
+        "title": "Lattice Boltzmann simulation with Palabos on AWS using Graviton-based Amazon EC2 Hpc7g instances",
+        "link": "https://aws.amazon.com/blogs/hpc/lattice-boltzmann-simulation-with-palabos-on-aws-using-graviton-based-amazon-ec2-hpc7g-instances/"
+    },
+    {
         "title": "Using Fleet Training to Improve Level 3 Digital Twin Virtual Sensors with Ansys on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/using-fleet-training-to-improve-l3-digital-twin-virtual-sensors-with-ansys-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate scheduling of jobs on AWS Batch and AWS Fargate with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/hpc/automate-scheduling-of-jobs-on-aws-batch-and-aws-fargate-with-amazon-eventbridge/"
-    },
-    {
-        "title": "Improving NFL player health using machine learning with AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/improving-nfl-player-health-using-machine-learning-with-aws-batch/"
     }
 ]

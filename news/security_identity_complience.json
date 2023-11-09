@@ -1,5 +1,9 @@
 [
     {
+        "title": "Set up AWS Private Certificate Authority to issue certificates for use with IAM Roles Anywhere",
+        "link": "https://aws.amazon.com/blogs/security/set-up-aws-private-certificate-authority-to-issue-certificates-for-use-with-iam-roles-anywhere/"
+    },
+    {
         "title": "AWS KMS is now FIPS 140-2 Security Level 3. What does this mean for you?",
         "link": "https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Mask and redact sensitive data published to Amazon SNS using managed and custom data identifiers",
         "link": "https://aws.amazon.com/blogs/security/mask-and-redact-sensitive-data-published-to-amazon-sns-using-managed-and-custom-data-identifiers/"
-    },
-    {
-        "title": "AWS FedRAMP Revision 5 baselines transition update",
-        "link": "https://aws.amazon.com/blogs/security/aws-fedramp-revision-5-transition-update/"
     }
 ]
