@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/"
+    },
+    {
+        "title": "Optimize for sustainability with Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/"
+    },
+    {
         "title": "Harnessing the power of enterprise data with generative AI: Insights from Amazon Kendra, LangChain, and large language models",
         "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-enterprise-data-with-generative-ai-insights-from-amazon-kendra-langchain-and-large-language-models/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Intelligent document processing with Amazon Textract, Amazon Bedrock, and LangChain",
         "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/"
-    },
-    {
-        "title": "T-Mobile US, Inc. uses artificial intelligence through Amazon Transcribe and Amazon Translate to deliver voicemail in the language of their customers\u2019 choice",
-        "link": "https://aws.amazon.com/blogs/machine-learning/t-mobile-us-inc-uses-artificial-intelligence-through-amazon-transcribe-and-amazon-translate-to-deliver-voicemail-in-the-language-of-their-customers-choice/"
-    },
-    {
-        "title": "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/"
     }
 ]

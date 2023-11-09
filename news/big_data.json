@@ -1,5 +1,17 @@
 [
     {
+        "title": "Real-time streaming data top picks you cannot miss at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/big-data/real-time-streaming-data-top-picks-you-cannot-miss-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "How Gilead used Amazon Redshift to quickly and cost-effectively load third-party medical claims data",
+        "link": "https://aws.amazon.com/blogs/big-data/how-gilead-used-amazon-redshift-to-quickly-and-cost-effectively-load-third-party-medical-claims-data/"
+    },
+    {
+        "title": "Implement fine-grained access control in Amazon SageMaker Studio and Amazon EMR using Apache Ranger and Microsoft Active Directory",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-fine-grained-access-control-in-amazon-sagemaker-studio-and-amazon-emr-using-apache-ranger-and-microsoft-active-directory/"
+    },
+    {
         "title": "Configure dynamic tenancy for Amazon OpenSearch Dashboards",
         "link": "https://aws.amazon.com/blogs/big-data/configure-dynamic-tenancy-for-amazon-opensearch-dashboards/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Simplify Amazon Redshift monitoring using the new unified SYS views",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-amazon-redshift-monitoring-using-the-new-unified-sys-views/"
-    },
-    {
-        "title": "Build multi-layer maps in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/build-multi-layer-maps-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "Run Spark SQL on Amazon Athena Spark",
-        "link": "https://aws.amazon.com/blogs/big-data/run-spark-sql-on-amazon-athena-spark/"
-    },
-    {
-        "title": "Resolve private DNS hostnames for Amazon MSK Connect",
-        "link": "https://aws.amazon.com/blogs/big-data/resolve-private-dns-hostnames-for-amazon-msk-connect/"
     }
 ]

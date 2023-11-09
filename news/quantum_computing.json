@@ -1,5 +1,9 @@
 [
     {
+        "title": "Towards practical molecular electronic structure simulations on NISQ devices with Amazon Braket and Kvantify\u2019s FAST-VQE algorithm",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/towards-practical-molecular-electronic-structure-simulations-on-nisq-devices-with-amazon-braket-and-kvantifys-fast-vqe-algorithm/"
+    },
+    {
         "title": "Analog Hamiltonian simulation with PennyLane",
         "link": "https://aws.amazon.com/blogs/quantum-computing/analog-hamiltonian-simulation-with-pennylane/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Running quantum chemistry calculations using AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/quantum-computing/running-quantum-chemistry-calculations-using-aws-parallelcluster/"
-    },
-    {
-        "title": "Introducing the Wolfram Quantum Framework for Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-the-wolfram-quantum-framework-for-amazon-braket/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing API endpoints using Amazon API Gateway and Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/containers/securing-api-endpoints-using-amazon-api-gateway-and-amazon-vpc-lattice/"
+    },
+    {
         "title": "A deep dive into Amazon ECS task health and task replacement",
         "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-amazon-ecs-task-health-and-task-replacement/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Scale to 15,000+ tasks in a single Amazon Elastic Container Service (ECS) cluster",
         "link": "https://aws.amazon.com/blogs/containers/scale-to-15000-tasks-in-a-single-amazon-elastic-container-service-ecs-cluster/"
-    },
-    {
-        "title": "Build ROSA Clusters with Terraform",
-        "link": "https://aws.amazon.com/blogs/containers/build-rosa-clusters-with-terraform/"
     }
 ]
