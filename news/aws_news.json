@@ -1,5 +1,21 @@
 [
     {
+        "title": "New for Amazon SQS \u2013\u00a0Update the AWS SDK to reduce latency",
+        "link": "https://aws.amazon.com/blogs/aws/new-for-amazon-sqs-update-the-aws-sdk-to-reduce-latency/"
+    },
+    {
+        "title": "New \u2013 Block Public Sharing of Amazon EBS Snapshots",
+        "link": "https://aws.amazon.com/blogs/aws/new-block-public-sharing-of-amazon-ebs-snapshots/"
+    },
+    {
+        "title": "New for Amazon Comprehend \u2013 Toxicity Detection",
+        "link": "https://aws.amazon.com/blogs/aws/new-for-amazon-comprehend-toxicity-detection/"
+    },
+    {
+        "title": "New \u2013 Manage Planned Lifecycle Events on AWS Health",
+        "link": "https://aws.amazon.com/blogs/aws/new-manage-planned-lifecycle-events-on-aws-health/"
+    },
+    {
         "title": "Amazon Aurora MySQL zero-ETL integration with Amazon Redshift is now generally available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift-is-now-generally-available/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "New \u2013 Amazon EC2 C7a Instances Powered By 4th Gen AMD EPYC Processors for Compute Optimized Workloads",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7a-instances-powered-by-4th-gen-amd-epyc-processors-for-compute-optimized-workloads/"
-    },
-    {
-        "title": "Amazon DataZone Now Generally Available \u2013 Collaborate on Data Projects across Organizational Boundaries",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-datazone-now-generally-available-collaborate-on-data-projects-across-organizational-boundaries/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2013 Amazon Bedrock Is Now Generally Available, Attend AWS Innovate Online, and More \u2013 Oct 2, 2023",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-is-now-generally-available-attend-aws-innovate-online-and-more-oct-2-2023/"
-    },
-    {
-        "title": "Amazon Bedrock Is Now Generally Available \u2013 Build and Scale Generative AI Applications with Foundation Models",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-is-now-generally-available-build-and-scale-generative-ai-applications-with-foundation-models/"
-    },
-    {
-        "title": "Amazon MSK Introduces Managed Data Delivery from Apache Kafka to Your Data Lake",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/"
     }
 ]

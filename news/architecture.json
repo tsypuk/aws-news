@@ -1,5 +1,9 @@
 [
     {
+        "title": "Let\u2019s Architect! Tools for developers",
+        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-tools-for-developers/"
+    },
+    {
         "title": "Journey to Cloud-Native Architecture Series #7:\u00a0 Using Containers and Cell-based design for higher resiliency and efficiency",
         "link": "https://aws.amazon.com/blogs/architecture/journey-to-cloud-native-architecture-series-7-using-containers-and-cell-based-design-for-higher-resiliency-and-efficiency/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving medical imaging workflows with AWS HealthImaging and SageMaker",
         "link": "https://aws.amazon.com/blogs/architecture/improving-medical-imaging-workflows-with-aws-healthimaging-and-sagemaker/"
-    },
-    {
-        "title": "Content Repository for Unstructured Data with Multilingual Semantic Search: Part 2",
-        "link": "https://aws.amazon.com/blogs/architecture/content-repository-for-unstructured-data-with-multilingual-semantic-search-part-2/"
     }
 ]
