@@ -1,5 +1,13 @@
 [
     {
+        "title": "Promote pipelines in a multi-environment setup using Amazon SageMaker Model Registry, HashiCorp Terraform, GitHub, and Jenkins CI/CD",
+        "link": "https://aws.amazon.com/blogs/machine-learning/promote-pipelines-in-a-multi-environment-setup-using-amazon-sagemaker-model-registry-hashicorp-terraform-github-and-jenkins-ci-cd/"
+    },
+    {
+        "title": "Customizing coding companions for organizations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customizing-coding-companions-for-organizations/"
+    },
+    {
         "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Empower your business users to extract insights from company documents using Amazon SageMaker Canvas and Generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/empower-your-business-users-to-extract-insights-from-company-documents-using-amazon-sagemaker-canvas-generative-ai/"
-    },
-    {
-        "title": "Detection and high-frequency monitoring of methane emission point sources using Amazon SageMaker geospatial capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/detection-and-high-frequency-monitoring-of-methane-emission-point-sources-using-amazon-sagemaker-geospatial-capabilities/"
-    },
-    {
-        "title": "Intelligent document processing with Amazon Textract, Amazon Bedrock, and LangChain",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/"
     }
 ]

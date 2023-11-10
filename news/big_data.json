@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create a modern data platform using the Data Build Tool (dbt) in the AWS Cloud",
+        "link": "https://aws.amazon.com/blogs/big-data/create-a-modern-data-platform-using-the-data-build-tool-dbt-in-the-aws-cloud/"
+    },
+    {
         "title": "Real-time streaming data top picks you cannot miss at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/big-data/real-time-streaming-data-top-picks-you-cannot-miss-at-aws-reinvent-2023/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unstructured data management and governance using AWS AI/ML and analytics services",
         "link": "https://aws.amazon.com/blogs/big-data/unstructured-data-management-and-governance-using-aws-ai-ml-and-analytics-services/"
-    },
-    {
-        "title": "Simplify Amazon Redshift monitoring using the new unified SYS views",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-amazon-redshift-monitoring-using-the-new-unified-sys-views/"
     }
 ]

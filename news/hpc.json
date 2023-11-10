@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deep-dive into Ansys Fluent performance on Ansys Gateway powered by AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/deep-dive-into-ansys-fluent-performance-on-ansys-gateway-powered-by-aws/"
+    },
+    {
         "title": "Lattice Boltzmann simulation with Palabos on AWS using Graviton-based Amazon EC2 Hpc7g instances",
         "link": "https://aws.amazon.com/blogs/hpc/lattice-boltzmann-simulation-with-palabos-on-aws-using-graviton-based-amazon-ec2-hpc7g-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How computer vision is enabling a circular economy",
         "link": "https://aws.amazon.com/blogs/hpc/how-computer-vision-is-enabling-a-circular-economy/"
-    },
-    {
-        "title": "Automate scheduling of jobs on AWS Batch and AWS Fargate with Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/hpc/automate-scheduling-of-jobs-on-aws-batch-and-aws-fargate-with-amazon-eventbridge/"
     }
 ]

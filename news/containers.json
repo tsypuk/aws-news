@@ -1,5 +1,21 @@
 [
     {
+        "title": "Migration considerations \u2013 Cloud Foundry to Amazon ECS with AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/containers/migration-considerations-cloud-foundry-to-amazon-ecs-with-aws-fargate/"
+    },
+    {
+        "title": "Enable Private Access to the Amazon EKS Kubernetes API with AWS PrivateLink",
+        "link": "https://aws.amazon.com/blogs/containers/enable-private-access-to-the-amazon-eks-kubernetes-api-with-aws-privatelink/"
+    },
+    {
+        "title": "Serverless containers at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/containers/serverless-containers-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "On-premises egress design patterns for Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/on-premises-egress-design-patterns-for-amazon-eks/"
+    },
+    {
         "title": "Securing API endpoints using Amazon API Gateway and Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/containers/securing-api-endpoints-using-amazon-api-gateway-and-amazon-vpc-lattice/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Run time sensitive workloads on ECS Fargate with clock accuracy tracking",
         "link": "https://aws.amazon.com/blogs/containers/run-time-sensitive-workloads-on-ecs-fargate-with-clock-accuracy-tracking/"
-    },
-    {
-        "title": "Lacework\u2019s batch workloads on Amazon EKS: Lessons learned",
-        "link": "https://aws.amazon.com/blogs/containers/scale-laceworks-batch-workloads-on-amazon-eks-lessons-learned/"
-    },
-    {
-        "title": "Announcing remote cache support in Amazon ECR for BuildKit clients",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-remote-cache-support-in-amazon-ecr-for-buildkit-clients/"
-    },
-    {
-        "title": "How Telkomsel migrated MyOrbit applications to Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/how-telkomsel-migrated-myorbit-applications-to-amazon-eks/"
-    },
-    {
-        "title": "Scale to 15,000+ tasks in a single Amazon Elastic Container Service (ECS) cluster",
-        "link": "https://aws.amazon.com/blogs/containers/scale-to-15000-tasks-in-a-single-amazon-elastic-container-service-ecs-cluster/"
     }
 ]
