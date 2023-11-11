@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
+    },
+    {
+        "title": "Use machine learning without writing a single line of code with Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Explore advanced techniques for hyperparameter optimization with Amazon SageMaker Automatic Model Tuning",
+        "link": "https://aws.amazon.com/blogs/machine-learning/explore-advanced-techniques-for-hyperparameter-optimization-with-amazon-sagemaker-automatic-model-tuning/"
+    },
+    {
         "title": "Promote pipelines in a multi-environment setup using Amazon SageMaker Model Registry, HashiCorp Terraform, GitHub, and Jenkins CI/CD",
         "link": "https://aws.amazon.com/blogs/machine-learning/promote-pipelines-in-a-multi-environment-setup-using-amazon-sagemaker-model-registry-hashicorp-terraform-github-and-jenkins-ci-cd/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Elevate your marketing solutions with Amazon Personalize and generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/"
-    },
-    {
-        "title": "Intelligently search Drupal content using Amazon Kendra",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-drupal-content-using-amazon-kendra/"
-    },
-    {
-        "title": "Intuitivo achieves higher throughput while saving on AI/ML costs using AWS Inferentia and PyTorch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intuitivo-achieves-higher-throughput-while-saving-on-ai-ml-costs-using-aws-inferentia-and-pytorch/"
-    },
-    {
-        "title": "Empower your business users to extract insights from company documents using Amazon SageMaker Canvas and Generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/empower-your-business-users-to-extract-insights-from-company-documents-using-amazon-sagemaker-canvas-generative-ai/"
     }
 ]

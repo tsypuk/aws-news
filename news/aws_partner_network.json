@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building a Secure and Scalable Enterprise Landing Zone on AWS with DXC\u2019s Multi-Account Strategy",
+        "link": "https://aws.amazon.com/blogs/apn/building-a-secure-and-scalable-enterprise-landing-zone-on-aws-with-dxc-multi-account-strategy/"
+    },
+    {
+        "title": "Leveraging Neo4j and Amazon Bedrock for an Explainable, Secure, and Connected Generative AI Solution",
+        "link": "https://aws.amazon.com/blogs/apn/leveraging-neo4j-and-amazon-bedrock-for-an-explainable-secure-and-connected-generative-ai-solution/"
+    },
+    {
         "title": "Introducing the Generative AI Center of Excellence for AWS Partners: The Path to AI Expertise",
         "link": "https://aws.amazon.com/blogs/apn/introducing-the-generative-ai-center-of-excellence-for-aws-partners-the-path-to-ai-expertise/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Using AWS Trusted Advisor to Drive Operational Excellence with Ensono Envision Advisor",
         "link": "https://aws.amazon.com/blogs/apn/using-aws-trusted-advisor-to-drive-operational-excellence-with-ensono-envision-advisor/"
-    },
-    {
-        "title": "From Idea to Market: AWS Marketplace Vendor Insights for Secure SaaS",
-        "link": "https://aws.amazon.com/blogs/apn/from-idea-to-market-aws-marketplace-vendor-insights-for-secure-saas/"
-    },
-    {
-        "title": "Comparing AWS Lambda Arm vs. x86 Performance, Cost, and Analysis",
-        "link": "https://aws.amazon.com/blogs/apn/comparing-aws-lambda-arm-vs-x86-performance-cost-and-analysis-2/"
     }
 ]

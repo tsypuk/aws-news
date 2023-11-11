@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing CloudFront Security Dashboard, a Unified CDN and Security Experience",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-security-dashboard-a-unified-cdn-and-security-experience/"
+    },
+    {
         "title": "Exploring Data Transfer Costs for Classic and Application Load Balancers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-data-transfer-costs-for-classic-and-application-load-balancers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Benefits of Domain Registration with Amazon Route 53",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/benefits-of-domain-registration-with-amazon-route-53/"
-    },
-    {
-        "title": "Cost-effective ways for securing your web applications using AWS WAF",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cost-effective-ways-for-securing-your-web-applications-using-aws-waf/"
     }
 ]
