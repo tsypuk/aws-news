@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhanced Amazon CloudWatch metrics for Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/compute/enhanced-amazon-cloudwatch-metrics-for-amazon-eventbridge/"
+    },
+    {
+        "title": "Introducing the Amazon Linux 2023 runtime for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-the-amazon-linux-2023-runtime-for-aws-lambda/"
+    },
+    {
         "title": "Scaling improvements when processing Apache Kafka with AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/scaling-improvements-when-processing-apache-kafka-with-aws-lambda/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Centralizing management of AWS Lambda layers across multiple AWS Accounts",
         "link": "https://aws.amazon.com/blogs/compute/centralizing-management-of-aws-lambda-layers-across-multiple-aws-accounts/"
-    },
-    {
-        "title": "Implementing idempotent AWS Lambda functions with Powertools for AWS Lambda (TypeScript)",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-idempotent-aws-lambda-functions-with-powertools-for-aws-lambda-typescript/"
-    },
-    {
-        "title": "Building resilient serverless applications using chaos engineering",
-        "link": "https://aws.amazon.com/blogs/compute/building-resilient-serverless-applications-using-chaos-engineering/"
     }
 ]

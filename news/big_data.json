@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying data processing at Capitec with Amazon Redshift integration for Apache Spark",
+        "link": "https://aws.amazon.com/blogs/big-data/simplifying-data-processing-at-capitec-with-amazon-redshift-integration-for-apache-spark/"
+    },
+    {
         "title": "Create a modern data platform using the Data Build Tool (dbt) in the AWS Cloud",
         "link": "https://aws.amazon.com/blogs/big-data/create-a-modern-data-platform-using-the-data-build-tool-dbt-in-the-aws-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable cost-efficient operational analytics with Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/enable-cost-efficient-operational-analytics-with-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "Unstructured data management and governance using AWS AI/ML and analytics services",
-        "link": "https://aws.amazon.com/blogs/big-data/unstructured-data-management-and-governance-using-aws-ai-ml-and-analytics-services/"
     }
 ]
