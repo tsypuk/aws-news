@@ -1,5 +1,21 @@
 [
     {
+        "title": "Secure your data at rest on Amazon RDS Custom for SQL Server using transparent data encryption (TDE) or column-level encryption (CLE)",
+        "link": "https://aws.amazon.com/blogs/database/secure-your-data-at-rest-on-amazon-rds-custom-for-sql-server-using-transparent-data-encryption-tde-or-column-level-encryption-cle/"
+    },
+    {
+        "title": "Configure Linked Servers on Amazon RDS Custom for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/configure-linked-servers-on-amazon-rds-custom-for-sql-server/"
+    },
+    {
+        "title": "Troubleshoot network connectivity to Amazon RDS Custom databases using VPC Reachability Analyzer",
+        "link": "https://aws.amazon.com/blogs/database/troubleshoot-network-connectivity-to-amazon-rds-custom-databases-using-vpc-reachability-analyzer/"
+    },
+    {
+        "title": "Diagram-as-code using generative AI to build a data model for Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/diagram-as-code-using-generative-ai-to-build-a-data-model-for-amazon-neptune/"
+    },
+    {
         "title": "Amazon RDS Proxy multiplexing support for PostgreSQL Extended Query Protocol",
         "link": "https://aws.amazon.com/blogs/database/amazon-rds-proxy-multiplexing-support-for-postgresql-extended-query-protocol/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build a generative AI-powered agent assistance application using Amazon Aurora and Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/database/build-a-generative-ai-powered-agent-assistance-application-using-amazon-aurora-and-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Mask PII data using AWS DMS and Amazon Macie during migration",
-        "link": "https://aws.amazon.com/blogs/database/mask-pii-data-using-aws-dms-and-amazon-macie-during-migration/"
-    },
-    {
-        "title": "Amazon Timestream for Amazon Connect real-time monitoring",
-        "link": "https://aws.amazon.com/blogs/database/amazon-timestream-for-amazon-connect-real-time-monitoring/"
-    },
-    {
-        "title": "Powering Amazon RDS with AWS Graviton3: Benchmarks",
-        "link": "https://aws.amazon.com/blogs/database/powering-amazon-rds-with-aws-graviton3-benchmarks/"
-    },
-    {
-        "title": "Use Amazon DynamoDB incremental export to update Apache Iceberg tables",
-        "link": "https://aws.amazon.com/blogs/database/use-amazon-dynamodb-incremental-export-to-update-apache-iceberg-tables/"
     }
 ]

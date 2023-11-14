@@ -1,5 +1,9 @@
 [
     {
+        "title": "New: Research and Engineering Studio on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/new-research-and-engineering-studio-on-aws/"
+    },
+    {
         "title": "Deep-dive into Ansys Fluent performance on Ansys Gateway powered by AWS",
         "link": "https://aws.amazon.com/blogs/hpc/deep-dive-into-ansys-fluent-performance-on-ansys-gateway-powered-by-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deep-dive into Hpc7a, the newest AMD-powered member of the HPC instance family",
         "link": "https://aws.amazon.com/blogs/hpc/deep-dive-into-hpc7a-the-newest-amd-powered-member-of-the-hpc-instance-family/"
-    },
-    {
-        "title": "How computer vision is enabling a circular economy",
-        "link": "https://aws.amazon.com/blogs/hpc/how-computer-vision-is-enabling-a-circular-economy/"
     }
 ]

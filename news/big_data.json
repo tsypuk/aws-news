@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon MSK Serverless now supports Kafka clients written in all programming languages",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-serverless-now-supports-kafka-clients-written-in-all-programming-languages/"
+    },
+    {
+        "title": "Amazon MSK IAM authentication now supports all programming languages",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-iam-authentication-now-supports-all-programming-languages/"
+    },
+    {
+        "title": "Your guide to AWS Analytics at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "How GamesKraft uses Amazon Redshift data sharing to support growing analytics workloads",
+        "link": "https://aws.amazon.com/blogs/big-data/how-gameskraft-uses-amazon-redshift-data-sharing-to-support-growing-analytics-workloads/"
+    },
+    {
         "title": "Simplifying data processing at Capitec with Amazon Redshift integration for Apache Spark",
         "link": "https://aws.amazon.com/blogs/big-data/simplifying-data-processing-at-capitec-with-amazon-redshift-integration-for-apache-spark/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Unlock scalable analytics with AWS Glue and Google BigQuery",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-aws-glue-and-google-bigquery/"
-    },
-    {
-        "title": "Amazon Redshift: Lower price, higher performance",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-lower-price-higher-performance/"
-    },
-    {
-        "title": "An automated approach to perform an in-place engine upgrade in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/an-automated-approach-to-perform-an-in-place-engine-upgrade-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "Create, train, and deploy Amazon Redshift ML model integrating features from Amazon SageMaker Feature Store",
-        "link": "https://aws.amazon.com/blogs/big-data/create-train-and-deploy-amazon-redshift-ml-model-integrating-features-from-amazon-sagemaker-feature-store/"
-    },
-    {
-        "title": "Enable cost-efficient operational analytics with Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-cost-efficient-operational-analytics-with-amazon-opensearch-ingestion/"
     }
 ]
