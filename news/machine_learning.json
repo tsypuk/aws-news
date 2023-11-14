@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement real-time personalized recommendations using Amazon Personalize",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-real-time-personalized-recommendations-using-amazon-personalize/"
+    },
+    {
+        "title": "Improve LLM responses in RAG use cases by interacting with the user",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-llm-responses-in-rag-use-cases-by-interacting-with-the-user/"
+    },
+    {
         "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use AWS PrivateLink to set up private access to Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/"
-    },
-    {
-        "title": "Deploy and fine-tune foundation models in Amazon SageMaker JumpStart with two lines of code",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-fine-tune-foundation-models-in-amazon-sagemaker-jumpstart-with-two-lines-of-code/"
-    },
-    {
-        "title": "Elevate your marketing solutions with Amazon Personalize and generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-your-marketing-solutions-with-amazon-personalize-and-generative-ai/"
     }
 ]

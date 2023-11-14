@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon Bedrock now provides access to Meta\u2019s Llama 2 Chat 13B model",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/"
+    },
+    {
+        "title": "Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/"
+    },
+    {
+        "title": "AWS Weekly Roundup \u2013 CloudFront security dashboard, EBS snapshots improvements, and more \u2013 November 13, 2023",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-cloudfront-security-dashboard-ebs-snapshots-improvements-and-more-november-13-2023/"
+    },
+    {
         "title": "New for Amazon SQS \u2013\u00a0Update the AWS SDK to reduce latency",
         "link": "https://aws.amazon.com/blogs/aws/new-for-amazon-sqs-update-the-aws-sdk-to-reduce-latency/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AWS Weekly Roundup \u2013 EBS Status Check, Textract Custom Queries, Amazon Linux 2, and more \u2013 October 16, 2023",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ebs-status-check-textract-custom-queries-amazon-linux-2-and-more-october-16-2023/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Control Tower, Amazon Bedrock, Amazon OpenSearch Service, and More (October 9, 2023)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-control-tower-amazon-bedrock-amazon-opensearch-service-and-more-october-9-2023/"
-    },
-    {
-        "title": "AWS ExecLeaders Data and Generative AI Day: Fueling Business Growth with Data and Generative AI",
-        "link": "https://aws.amazon.com/blogs/aws/aws-execleaders-data-and-generative-ai-day-fueling-business-growth-with-data-and-generative-ai/"
-    },
-    {
-        "title": "New \u2013 Amazon EC2 C7a Instances Powered By 4th Gen AMD EPYC Processors for Compute Optimized Workloads",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7a-instances-powered-by-4th-gen-amd-epyc-processors-for-compute-optimized-workloads/"
     }
 ]
