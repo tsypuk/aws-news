@@ -1,5 +1,21 @@
 [
     {
+        "title": "New \u2013 Multi-account search in AWS Resource Explorer",
+        "link": "https://aws.amazon.com/blogs/aws/new-multi-account-search-in-aws-resource-explorer/"
+    },
+    {
+        "title": "New \u2013 AWS Audit Manager now supports first third-party GRC integration",
+        "link": "https://aws.amazon.com/blogs/aws/new-aws-audit-manager-now-supports-first-third-party-grc-integration/"
+    },
+    {
+        "title": "AWS Glue Data Catalog now supports automatic compaction of Apache Iceberg tables",
+        "link": "https://aws.amazon.com/blogs/aws/aws-glue-data-catalog-now-supports-automatic-compaction-of-apache-iceberg-tables/"
+    },
+    {
+        "title": "Meet the final cohort of AWS Heroes this year \u2013 November 2023",
+        "link": "https://aws.amazon.com/blogs/aws/meet-the-final-cohort-of-aws-heroes-this-year-november-2023/"
+    },
+    {
         "title": "Amazon Bedrock now provides access to Meta\u2019s Llama 2 Chat 13B model",
         "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Rotate Your SSL/TLS Certificates Now \u2013 Amazon RDS and Amazon Aurora Expire in 2024",
         "link": "https://aws.amazon.com/blogs/aws/rotate-your-ssl-tls-certificates-now-amazon-rds-and-amazon-aurora-expire-in-2024/"
-    },
-    {
-        "title": "Introducing Amazon MSK Replicator \u2013 Fully Managed Replication across MSK Clusters in Same or Different AWS Regions",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-msk-replicator-fully-managed-replication-across-msk-clusters-in-same-or-different-aws-regions/"
-    },
-    {
-        "title": "New Customization Capability in Amazon CodeWhisperer Generates Even Better Suggestions (Preview)",
-        "link": "https://aws.amazon.com/blogs/aws/new-customization-capability-in-amazon-codewhisperer-generates-even-better-suggestions-preview/"
-    },
-    {
-        "title": "New \u2013 Seventh Generation Memory-optimized Amazon EC2 Instances (R7i)",
-        "link": "https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2013 EBS Status Check, Textract Custom Queries, Amazon Linux 2, and more \u2013 October 16, 2023",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ebs-status-check-textract-custom-queries-amazon-linux-2-and-more-october-16-2023/"
     }
 ]

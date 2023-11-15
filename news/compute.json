@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing logging support for Amazon EventBridge Pipes",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-logging-support-for-amazon-eventbridge-pipes/"
+    },
+    {
+        "title": "An attendee\u2019s guide to hybrid cloud and edge computing at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/compute/an-attendees-guide-to-hybrid-cloud-and-edge-computing-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "The serverless attendee\u2019s guide to AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/compute/the-serverless-attendees-guide-to-aws-reinvent-2023/"
+    },
+    {
         "title": "Enhanced Amazon CloudWatch metrics for Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/compute/enhanced-amazon-cloudwatch-metrics-for-amazon-eventbridge/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Visually design your application with AWS Application Composer",
         "link": "https://aws.amazon.com/blogs/compute/visually-design-your-application-with-aws-application-composer/"
-    },
-    {
-        "title": "Integrating AWS WAF with your Amazon Lightsail instance",
-        "link": "https://aws.amazon.com/blogs/compute/integrating-aws-waf-with-your-amazon-lightsail-instance/"
-    },
-    {
-        "title": "Architecting for scale with Amazon API Gateway private integrations",
-        "link": "https://aws.amazon.com/blogs/compute/architecting-for-scale-with-amazon-api-gateway-private-integrations/"
-    },
-    {
-        "title": "Centralizing management of AWS Lambda layers across multiple AWS Accounts",
-        "link": "https://aws.amazon.com/blogs/compute/centralizing-management-of-aws-lambda-layers-across-multiple-aws-accounts/"
     }
 ]

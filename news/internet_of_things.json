@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to use the new metric export capability of AWS IoT Device Defender",
+        "link": "https://aws.amazon.com/blogs/iot/metric-export-aws-iot-device-defender/"
+    },
+    {
         "title": "Get connected with AWS IoT at re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/iot/get-connected-with-aws-iot-at-reinvent-2023/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to get started with the new disconnected duration metric in AWS IoT Device Defender",
         "link": "https://aws.amazon.com/blogs/iot/how-to-get-started-with-the-new-disconnected-duration-metric-in-aws-iot-device-defender/"
-    },
-    {
-        "title": "Design considerations for cost-effective video surveillance platforms with AWS IoT for Smart Homes",
-        "link": "https://aws.amazon.com/blogs/iot/design-considerations-for-cost-effective-video-surveillance-platforms-with-aws-iot-for-smart-homes/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Securely stream AWS workloads to your remote workers",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/securely-stream-aws-workloads-to-your-remote-workers/"
+    },
+    {
+        "title": "Deploying and managing Amazon WorkSpaces applications with Ansible",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/deploying-and-managing-amazon-workspaces-applications-with-ansible/"
+    },
+    {
         "title": "Optimize Amazon WorkSpaces performance with the EUC Metrics Portal",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-amazon-workspaces-performance-with-the-euc-metrics-portal/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Monitor and automate AWS End User Computing (EUC) with AWS Chatbot",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/monitor-and-automate-aws-end-user-computingeuc-with-aws-chatbot/"
-    },
-    {
-        "title": "Accelerating cloud-based delivery of applications as a competitive advantage",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/accelerating-cloud-based-delivery-of-applications-as-a-competitive-advantage/"
-    },
-    {
-        "title": "Improving the security of your web-based workloads with Amazon WorkSpaces Web",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/improving-the-security-of-your-web-based-workloads-with-amazon-workspaces-web/"
     }
 ]

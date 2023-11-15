@@ -1,5 +1,17 @@
 [
     {
+        "title": "Implementing a GSMA Compliant Remote SIM Provisioning Workload on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/implementing-a-gsma-compliant-remote-sim-provisioning-workload-on-aws/"
+    },
+    {
+        "title": "Building custom connectors using OSDU and Amazon AppFlow Custom Connector SDK",
+        "link": "https://aws.amazon.com/blogs/industries/osdu-and-amazon-appflow/"
+    },
+    {
+        "title": "Aeron performance enables capital markets to move to the cloud on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/aeron-performance-enables-capital-markets-to-move-to-the-cloud-on-aws/"
+    },
+    {
         "title": "Enhancing the Retail Experience: The Power of Computer Vision",
         "link": "https://aws.amazon.com/blogs/industries/enhancing-the-retail-experience-the-power-of-computer-vision/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Broadcasters scale personalized advertising utilizing SAS 360 Match On AWS",
         "link": "https://aws.amazon.com/blogs/industries/broadcasters-scale-personalized-advertising-utilizing-sas-360-match-on-aws/"
-    },
-    {
-        "title": "Retail Partner Conversations: FenixCommerce improves profitability using AI",
-        "link": "https://aws.amazon.com/blogs/industries/retail-partner-conversations-fenixcommerce-improves-profitability-using-ai/"
-    },
-    {
-        "title": "A Healthcare and Life Sciences Guide to AWS re:Invent 2023",
-        "link": "https://aws.amazon.com/blogs/industries/a-healthcare-and-life-sciences-guide-to-aws-reinvent-2023/"
-    },
-    {
-        "title": "Jump start your Cloud Transformation with Experience-Based Acceleration on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/jump-start-your-cloud-transformation-with-experience-based-acceleration-on-aws/"
     }
 ]

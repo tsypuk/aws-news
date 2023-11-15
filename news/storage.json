@@ -1,5 +1,9 @@
 [
     {
+        "title": "How PingCAP transformed TiDB into a serverless DBaaS using Amazon S3 and Amazon EBS",
+        "link": "https://aws.amazon.com/blogs/storage/how-pingcap-transformed-tidb-into-a-serverless-dbaas-using-amazon-s3-and-amazon-ebs/"
+    },
+    {
         "title": "Automating application-consistent Amazon EBS Snapshots for MySQL and PostgreSQL",
         "link": "https://aws.amazon.com/blogs/storage/automating-application-consistent-amazon-ebs-snapshots-for-mysql-and-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Sharing data on Amazon FSx for OpenZFS across Linux and Windows clients",
         "link": "https://aws.amazon.com/blogs/storage/sharing-data-on-amazon-fsx-for-openzfs-across-linux-and-windows-clients/"
-    },
-    {
-        "title": "Disabling Amazon S3 access control lists with S3 Inventory",
-        "link": "https://aws.amazon.com/blogs/storage/disabling-amazon-s3-access-control-lists-with-s3-inventory/"
     }
 ]
