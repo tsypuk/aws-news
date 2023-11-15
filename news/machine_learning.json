@@ -1,5 +1,21 @@
 [
     {
+        "title": "Flag harmful content using Amazon Comprehend toxicity detection",
+        "link": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-content-using-amazon-comprehend-toxicity-detection/"
+    },
+    {
+        "title": "Fine-tune and Deploy Mistral 7B with Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-mistral-7b-with-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Harness large language models in fake news detection",
+        "link": "https://aws.amazon.com/blogs/machine-learning/harness-large-language-models-in-fake-news-detection/"
+    },
+    {
+        "title": "Model management for LoRA fine-tuned models using Llama2 and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/model-management-for-lora-fine-tuned-models-using-llama2-and-amazon-sagemaker/"
+    },
+    {
         "title": "Implement real-time personalized recommendations using Amazon Personalize",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-real-time-personalized-recommendations-using-amazon-personalize/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Develop generative AI applications to improve teaching and learning experiences",
         "link": "https://aws.amazon.com/blogs/machine-learning/develop-generative-ai-applications-to-improve-teaching-and-learning-experiences/"
-    },
-    {
-        "title": "Dialogue-guided visual language processing with Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/dialogue-guided-visual-language-processing-with-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "How Reveal\u2019s Logikcull used Amazon Comprehend to detect and redact PII from legal documents at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-reveals-logikcull-used-amazon-comprehend-to-detect-and-redact-pii-from-legal-documents-at-scale/"
-    },
-    {
-        "title": "Schneider Electric leverages Retrieval Augmented LLMs on SageMaker to ensure real-time updates in their ERP systems",
-        "link": "https://aws.amazon.com/blogs/machine-learning/schneider-electric-leverages-retrieval-augmented-llms-on-sagemaker-to-ensure-real-time-updates-in-their-erp-systems/"
-    },
-    {
-        "title": "Use AWS PrivateLink to set up private access to Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-privatelink-to-set-up-private-access-to-amazon-bedrock/"
     }
 ]

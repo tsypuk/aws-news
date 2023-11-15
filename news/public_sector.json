@@ -1,5 +1,9 @@
 [
     {
+        "title": "Lessons learned from Intelsat\u2019s successful domain migration with AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/lessons-learned-from-intelsats-successful-domain-migration-with-aws/"
+    },
+    {
         "title": "Improving public health through data exchange",
         "link": "https://aws.amazon.com/blogs/publicsector/improving-public-health-through-data-exchange/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "StateRAMP on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/stateramp-on-aws/"
-    },
-    {
-        "title": "Maximizing satellite communications usage with Amazon Forecast",
-        "link": "https://aws.amazon.com/blogs/publicsector/maximizing-satellite-communications-usage-with-amazon-forecast/"
     }
 ]

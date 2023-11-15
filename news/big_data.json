@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Kinesis Data Streams: celebrating a decade of real-time data innovation",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-streams-celebrating-a-decade-of-real-time-data-innovation/"
+    },
+    {
+        "title": "How Wallapop improved performance of analytics workloads with Amazon Redshift Serverless and data sharing",
+        "link": "https://aws.amazon.com/blogs/big-data/how-wallapop-improved-performance-of-analytics-workloads-with-amazon-redshift-serverless-and-data-sharing/"
+    },
+    {
         "title": "Amazon MSK Serverless now supports Kafka clients written in all programming languages",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-serverless-now-supports-kafka-clients-written-in-all-programming-languages/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use Snowflake with Amazon MWAA to orchestrate data pipelines",
         "link": "https://aws.amazon.com/blogs/big-data/use-snowflake-with-amazon-mwaa-to-orchestrate-data-pipelines/"
-    },
-    {
-        "title": "Spark on AWS Lambda: An Apache Spark runtime for AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/big-data/spark-on-aws-lambda-an-apache-spark-runtime-for-aws-lambda/"
-    },
-    {
-        "title": "Unlock scalable analytics with AWS Glue and Google BigQuery",
-        "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-aws-glue-and-google-bigquery/"
     }
 ]

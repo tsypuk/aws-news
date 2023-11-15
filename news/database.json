@@ -1,5 +1,17 @@
 [
     {
+        "title": "Achieve over 500 million requests per second per cluster with Amazon ElastiCache for Redis 7.1",
+        "link": "https://aws.amazon.com/blogs/database/achieve-over-500-million-requests-per-second-per-cluster-with-amazon-elasticache-for-redis-7-1/"
+    },
+    {
+        "title": "Plan an Oracle migration to Amazon RDS for Oracle using Oracle Data Pump and AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/plan-an-oracle-migration-to-amazon-rds-for-oracle-using-oracle-data-pump-and-aws-dms/"
+    },
+    {
+        "title": "Schedule scaling for Amazon Aurora replicas using AWS Application Auto Scaling",
+        "link": "https://aws.amazon.com/blogs/database/schedule-scaling-for-amazon-aurora-replicas-using-aws-application-auto-scaling/"
+    },
+    {
         "title": "Secure your data at rest on Amazon RDS Custom for SQL Server using transparent data encryption (TDE) or column-level encryption (CLE)",
         "link": "https://aws.amazon.com/blogs/database/secure-your-data-at-rest-on-amazon-rds-custom-for-sql-server-using-transparent-data-encryption-tde-or-column-level-encryption-cle/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Set up Amazon CloudWatch alarms on Amazon RDS Enhanced Monitoring OS metrics",
         "link": "https://aws.amazon.com/blogs/database/set-up-amazon-cloudwatch-alarms-on-amazon-rds-enhanced-monitoring-os-metrics/"
-    },
-    {
-        "title": "Implementing run-time write synchronization in Amazon Aurora Global Database",
-        "link": "https://aws.amazon.com/blogs/database/implementing-run-time-write-synchronization-in-amazon-aurora-global-database/"
-    },
-    {
-        "title": "Migrate from Oracle to Amazon RDS for MySQL, MariaDB or Amazon Aurora MySQL using Oracle GoldenGate",
-        "link": "https://aws.amazon.com/blogs/database/migrate-from-oracle-to-amazon-rds-for-mysql-mariadb-or-amazon-aurora-mysql-using-oracle-goldengate/"
-    },
-    {
-        "title": "Build a generative AI-powered agent assistance application using Amazon Aurora and Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/database/build-a-generative-ai-powered-agent-assistance-application-using-amazon-aurora-and-amazon-sagemaker-jumpstart/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Join us for a week of AWS Amplify launches",
+        "link": "https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/"
+    },
+    {
         "title": "Build a Real-time, WebSockets API for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mobile/connecting-applications-to-generative-ai-presents-new-challenges/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs",
         "link": "https://aws.amazon.com/blogs/mobile/aws-appsync-now-supports-javascript-for-all-resolvers-in-graphql-apis/"
-    },
-    {
-        "title": "AWS SAM now supports GraphQL Applications with AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-sam-now-supports-graphql-applications-with-aws-appsync/"
     }
 ]

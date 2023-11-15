@@ -1,5 +1,13 @@
 [
     {
+        "title": "Get Your Questions Answered at re:Invent 2023 in the AWS Modern Applications and Open Source Zone",
+        "link": "https://aws.amazon.com/blogs/opensource/get-your-questions-answered-at-reinvent-2023-in-the-aws-modern-applications-and-open-source-zone/"
+    },
+    {
+        "title": "Deploy Large Language Models Easily with the New ezsmdeploy Python SDK",
+        "link": "https://aws.amazon.com/blogs/opensource/deploy-large-language-models-easily-with-the-new-ezsmdeploy-python-sdk/"
+    },
+    {
         "title": "How Onehouse Makes it Easy to Leverage Open Source Data Services on AWS",
         "link": "https://aws.amazon.com/blogs/opensource/how-onehouse-makes-it-easy-to-leverage-open-source-data-services-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Create RESTful APIs on AWS with OpenAPI Specification (With No Coding)",
         "link": "https://aws.amazon.com/blogs/opensource/create-restful-apis-on-aws-with-openapi-specification-with-no-coding/"
-    },
-    {
-        "title": "How Traveloka Uses Backstage as an API Developer Portal for Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/opensource/how-traveloka-uses-backstage-as-an-api-developer-portal-for-amazon-api-gateway/"
-    },
-    {
-        "title": "Configure Continuous Deployment Using Kustomize Components and Spinnaker Operator in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/opensource/configure-continuous-deployment-using-kustomize-components-and-spinnaker-operator-in-amazon-eks/"
     }
 ]

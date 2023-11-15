@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cross-account support in Amazon Route 53 Application Recovery Controller",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cross-account-support-in-amazon-route-53-application-recovery-controller/"
+    },
+    {
         "title": "Introducing CloudFront Security Dashboard, a Unified CDN and Security Experience",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-security-dashboard-a-unified-cdn-and-security-experience/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Bring your own IP addresses (BYOIP) and RFC 8805 for localization of Internet content",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-bring-your-own-ip-addresses-byoip-and-rfc-8805-for-localization-of-internet-content/"
-    },
-    {
-        "title": "Benefits of Domain Registration with Amazon Route 53",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/benefits-of-domain-registration-with-amazon-route-53/"
     }
 ]
