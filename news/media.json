@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extend your Amazon Managed Grafana experience with Grafana community plugins",
+        "link": "https://aws.amazon.com/blogs/mt/extend-your-amazon-managed-grafana-experience-with-grafana-community-plugins/"
+    },
+    {
         "title": "Use AWS Config inventory and compliance dashboards for a unified view of resource inventory and compliance",
         "link": "https://aws.amazon.com/blogs/mt/use-aws-config-inventory-and-compliance-dashboards-for-a-unified-view-of-resource-inventory-and-compliance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for managing AWS account meta-data at scale",
         "link": "https://aws.amazon.com/blogs/mt/best-practices-for-managing-aws-account-meta-data-at-scale/"
-    },
-    {
-        "title": "How to download your AWS Resilience Hub assessment results",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-download-your-aws-resilience-hub-assessment-results/"
     }
 ]

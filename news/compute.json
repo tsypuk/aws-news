@@ -1,5 +1,21 @@
 [
     {
+        "title": "Introducing AWS Step Functions redrive to recover from failures more easily",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-aws-step-functions-redrive-a-new-way-to-restart-workflows/"
+    },
+    {
+        "title": "Managing AWS Lambda runtime upgrades",
+        "link": "https://aws.amazon.com/blogs/compute/managing-aws-lambda-runtime-upgrades/"
+    },
+    {
+        "title": "Node.js 20.x runtime now available in AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/node-js-20-x-runtime-now-available-in-aws-lambda/"
+    },
+    {
+        "title": "Converting Apache Kafka events from Avro to JSON using EventBridge Pipes",
+        "link": "https://aws.amazon.com/blogs/compute/converting-apache-kafka-events-from-avro-to-json-using-eventbridge-pipes/"
+    },
+    {
         "title": "Introducing logging support for Amazon EventBridge Pipes",
         "link": "https://aws.amazon.com/blogs/compute/introducing-logging-support-for-amazon-eventbridge-pipes/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Serverless ICYMI Q3 2023",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q3-2023/"
-    },
-    {
-        "title": "Quickly Restore Amazon EC2 Mac Instances using Replace Root Volume capability",
-        "link": "https://aws.amazon.com/blogs/compute/new-reset-amazon-ec2-mac-instances-to-a-known-state-using-replace-root-volume-capability/"
-    },
-    {
-        "title": "Filtering events in Amazon EventBridge with wildcard pattern matching",
-        "link": "https://aws.amazon.com/blogs/compute/filtering-events-in-amazon-eventbridge-with-wildcard-pattern-matching/"
-    },
-    {
-        "title": "Building a serverless document chat with AWS Lambda and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/compute/building-a-serverless-document-chat-with-aws-lambda-and-amazon-bedrock/"
-    },
-    {
-        "title": "Visually design your application with AWS Application Composer",
-        "link": "https://aws.amazon.com/blogs/compute/visually-design-your-application-with-aws-application-composer/"
     }
 ]

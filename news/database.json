@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing frozen collections in Amazon Keyspaces",
+        "link": "https://aws.amazon.com/blogs/database/announcing-frozen-collections-in-amazon-keyspaces/"
+    },
+    {
         "title": "Achieve over 500 million requests per second per cluster with Amazon ElastiCache for Redis 7.1",
         "link": "https://aws.amazon.com/blogs/database/achieve-over-500-million-requests-per-second-per-cluster-with-amazon-elasticache-for-redis-7-1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate HNSW indexing and searching with pgvector on Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/accelerate-hnsw-indexing-and-searching-with-pgvector-on-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "Set up Amazon CloudWatch alarms on Amazon RDS Enhanced Monitoring OS metrics",
-        "link": "https://aws.amazon.com/blogs/database/set-up-amazon-cloudwatch-alarms-on-amazon-rds-enhanced-monitoring-os-metrics/"
     }
 ]

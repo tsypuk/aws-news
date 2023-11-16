@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building fast Next.js apps using TypeScript and AWS Amplify JavaScript v6",
+        "link": "https://aws.amazon.com/blogs/mobile/amplify-javascript-v6/"
+    },
+    {
         "title": "Join us for a week of AWS Amplify launches",
         "link": "https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a serverless store finder site using Amazon Location Service",
         "link": "https://aws.amazon.com/blogs/mobile/build-a-serverless-store-finder-site-using-amazon-location-service/"
-    },
-    {
-        "title": "AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-appsync-now-supports-javascript-for-all-resolvers-in-graphql-apis/"
     }
 ]
