@@ -1,5 +1,29 @@
 [
     {
+        "title": "Introducing shared VPC support on Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-shared-vpc-support-on-amazon-mwaa/"
+    },
+    {
+        "title": "Unlock innovation in data and AI at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-innovation-in-data-and-ai-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "What\u2019s cooking with Amazon Redshift at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/big-data/whats-cooking-with-amazon-redshift-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "BMW Cloud Efficiency Analytics powered by Amazon QuickSight and Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/bmw-cloud-efficiency-analytics-powered-by-amazon-quicksight-and-amazon-athena/"
+    },
+    {
+        "title": "Implement Apache Flink near-online data enrichment patterns",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-apache-flink-near-online-data-enrichment-patterns/"
+    },
+    {
+        "title": "Clean up your Excel and CSV files without writing code using AWS Glue DataBrew",
+        "link": "https://aws.amazon.com/blogs/big-data/clean-up-your-excel-and-csv-files-without-writing-code-using-aws-glue-databrew/"
+    },
+    {
         "title": "Amazon Kinesis Data Streams: celebrating a decade of real-time data innovation",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-streams-celebrating-a-decade-of-real-time-data-innovation/"
     },
@@ -20,7 +44,7 @@
         "link": "https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-aws-reinvent-2023/"
     },
     {
-        "title": "How GamesKraft uses Amazon Redshift data sharing to support growing analytics workloads",
+        "title": "How Gameskraft uses Amazon Redshift data sharing to support growing analytics workloads",
         "link": "https://aws.amazon.com/blogs/big-data/how-gameskraft-uses-amazon-redshift-data-sharing-to-support-growing-analytics-workloads/"
     },
     {
@@ -54,29 +78,5 @@
     {
         "title": "Introducing Amazon MWAA support for Apache Airflow version 2.7.2 and deferrable operators",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-7-2-and-deferrable-operators/"
-    },
-    {
-        "title": "Use IAM runtime roles with Amazon EMR Studio Workspaces and AWS Lake Formation for cross-account fine-grained access control",
-        "link": "https://aws.amazon.com/blogs/big-data/use-iam-runtime-roles-with-amazon-emr-studio-workspaces-and-aws-lake-formation-for-cross-account-fine-grained-access-control/"
-    },
-    {
-        "title": "Deploy Amazon QuickSight dashboards to monitor AWS Glue ETL job metrics and set alarms",
-        "link": "https://aws.amazon.com/blogs/big-data/deploy-amazon-quicksight-dashboards-to-monitor-aws-glue-etl-job-metrics-and-set-alarms/"
-    },
-    {
-        "title": "GoDaddy benchmarking results in up to 24% better price-performance for their Spark workloads with AWS Graviton2 on Amazon EMR Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/godaddy-benchmarking-results-in-up-to-24-better-price-performance-for-their-spark-workloads-with-aws-graviton2-on-amazon-emr-serverless/"
-    },
-    {
-        "title": "Implement model versioning with Amazon Redshift ML",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-model-versioning-with-amazon-redshift-ml/"
-    },
-    {
-        "title": "Enable Multi-AZ deployments for your Amazon Redshift data warehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-multi-az-deployments-for-your-amazon-redshift-data-warehouse/"
-    },
-    {
-        "title": "Use Snowflake with Amazon MWAA to orchestrate data pipelines",
-        "link": "https://aws.amazon.com/blogs/big-data/use-snowflake-with-amazon-mwaa-to-orchestrate-data-pipelines/"
     }
 ]

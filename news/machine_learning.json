@@ -1,5 +1,21 @@
 [
     {
+        "title": "Implement a custom AutoML job using pre-selected algorithms in Amazon SageMaker Automatic Model Tuning",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-custom-automl-job-using-pre-selected-algorithms-in-amazon-sagemaker-automatic-model-tuning/"
+    },
+    {
+        "title": "Best prompting practices for using the Llama 2 Chat LLM through Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-prompting-practices-for-using-the-llama-2-chat-llm-through-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Principal Financial Group uses AWS Post Call Analytics solution to extract omnichannel customer insights",
+        "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-uses-aws-post-call-analytics-solution-to-extract-omnichannel-customer-insights/"
+    },
+    {
+        "title": "Foundational vision models and visual prompt engineering for autonomous driving applications",
+        "link": "https://aws.amazon.com/blogs/machine-learning/foundational-vision-models-and-visual-prompt-engineering-for-autonomous-driving-applications/"
+    },
+    {
         "title": "Flag harmful content using Amazon Comprehend toxicity detection",
         "link": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-content-using-amazon-comprehend-toxicity-detection/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Customize Amazon Textract with business-specific documents using Custom Queries",
         "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-textract-with-business-specific-documents-using-custom-queries/"
-    },
-    {
-        "title": "Stream large language model responses in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/stream-large-language-model-responses-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Bundesliga Match Facts Shot Speed \u2013 Who fires the hardest shots in the Bundesliga?",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-facts-shot-speed-who-fires-the-hardest-shots-in-the-bundesliga/"
-    },
-    {
-        "title": "Deploy ML models built in Amazon SageMaker Canvas to Amazon SageMaker real-time endpoints",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ml-models-built-in-amazon-sagemaker-canvas-to-amazon-sagemaker-real-time-endpoints/"
-    },
-    {
-        "title": "Develop generative AI applications to improve teaching and learning experiences",
-        "link": "https://aws.amazon.com/blogs/machine-learning/develop-generative-ai-applications-to-improve-teaching-and-learning-experiences/"
     }
 ]

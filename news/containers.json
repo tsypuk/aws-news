@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon EKS and Kubernetes sessions at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "How HPE Aruba Networking modernized on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/how-hpe-aruba-networking-modernized-on-amazon-eks/"
+    },
+    {
         "title": "Deliver Namespace as a Service multi tenancy for Amazon EKS using Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/deliver-namespace-as-a-service-multi-tenancy-for-amazon-eks-using-karpenter/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Building multi-tenant JupyterHub Platforms on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/building-multi-tenant-jupyterhub-platforms-on-amazon-eks/"
-    },
-    {
-        "title": "Karpenter graduates to beta",
-        "link": "https://aws.amazon.com/blogs/containers/karpenter-graduates-to-beta/"
-    },
-    {
-        "title": "Secure containerized workloads on Amazon EKS and AWS Fargate with Aqua",
-        "link": "https://aws.amazon.com/blogs/containers/secure-containerized-workloads-on-amazon-eks-and-aws-fargate-with-aqua/"
     }
 ]

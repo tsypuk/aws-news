@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to deploy Extended Security Updates for Windows Server 2012 on Amazon EC2 with AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-extended-security-updates-for-windows-server-2012-on-amazon-ec2-with-aws-systems-manager/"
+    },
+    {
         "title": "Configure Microsoft Active Directory to use Amazon Time Sync",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/configure-microsoft-active-directory-to-use-amazon-time-sync/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Integrate multiple Microsoft Entra ID tenants with AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-multiple-microsoft-entra-id-tenants-with-aws-iam-identity-center/"
-    },
-    {
-        "title": "Reduce Microsoft SQL Server licensing costs with AWS Compute Optimizer",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reduce-microsoft-sql-server-licensing-costs-with-aws-compute-optimizer/"
     }
 ]
