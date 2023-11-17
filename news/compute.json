@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing advanced logging controls for AWS Lambda functions",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-advanced-logging-controls-for-aws-lambda-functions/"
+    },
+    {
+        "title": "It\u2019s About Time: Microsecond-Accurate Clocks on Amazon EC2 Instances",
+        "link": "https://aws.amazon.com/blogs/compute/its-about-time-microsecond-accurate-clocks-on-amazon-ec2-instances/"
+    },
+    {
+        "title": "Introducing the AWS Integrated Application Test Kit (IATK)",
+        "link": "https://aws.amazon.com/blogs/compute/aws-integrated-application-test-kit/"
+    },
+    {
+        "title": "Triggering AWS Lambda function from a cross-account Amazon Managed Streaming for Apache Kafka",
+        "link": "https://aws.amazon.com/blogs/compute/triggering-aws-lambda-function-from-a-cross-account-amazon-managed-streaming-for-apache-kafka/"
+    },
+    {
+        "title": "Introducing instance maintenance policy for Amazon EC2 Auto Scaling",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-instance-maintenance-policy-for-amazon-ec2-auto-scaling/"
+    },
+    {
         "title": "Introducing AWS Step Functions redrive to recover from failures more easily",
         "link": "https://aws.amazon.com/blogs/compute/introducing-aws-step-functions-redrive-a-new-way-to-restart-workflows/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension",
         "link": "https://aws.amazon.com/blogs/compute/enhancing-runtime-security-and-governance-with-the-aws-lambda-runtime-api-proxy-extension/"
-    },
-    {
-        "title": "Mixing AWS Graviton with x86 CPUs to optimize cost and resiliency using Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/compute/mixing-aws-graviton-with-x86-cpus-to-optimize-cost-and-resilience-using-amazon-eks/"
-    },
-    {
-        "title": "Maintaining a local copy of your data in AWS Local Zones",
-        "link": "https://aws.amazon.com/blogs/compute/maintaining-a-local-copy-of-your-data-in-aws-local-zones/"
-    },
-    {
-        "title": "Enabling highly available connectivity from on premises to AWS Local Zones",
-        "link": "https://aws.amazon.com/blogs/compute/enabling-highly-available-connectivity-from-on-premises-to-aws-local-zones/"
-    },
-    {
-        "title": "Training machine learning models on premises for data residency with AWS Outposts rack",
-        "link": "https://aws.amazon.com/blogs/compute/training-machine-learning-models-on-premises-for-data-residency-with-aws-outposts-rack/"
-    },
-    {
-        "title": "Serverless ICYMI Q3 2023",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q3-2023/"
     }
 ]

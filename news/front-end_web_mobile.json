@@ -1,5 +1,9 @@
 [
     {
+        "title": "Wildcard Subdomains for Multi-tenant Apps on AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/wildcard-subdomains-for-multi-tenant-apps-on-aws-amplify-hosting/"
+    },
+    {
         "title": "Building fast Next.js apps using TypeScript and AWS Amplify JavaScript v6",
         "link": "https://aws.amazon.com/blogs/mobile/amplify-javascript-v6/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Amplify supports Time-Based One-Time Password (TOTP) for MFA on Android, Swift, and Flutter",
         "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-totp-support-for-mfa-on-android-swift-flutter/"
-    },
-    {
-        "title": "Build a serverless store finder site using Amazon Location Service",
-        "link": "https://aws.amazon.com/blogs/mobile/build-a-serverless-store-finder-site-using-amazon-location-service/"
     }
 ]

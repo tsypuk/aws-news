@@ -1,5 +1,17 @@
 [
     {
+        "title": "Philips accelerates development of AI-enabled healthcare solutions with an MLOps platform built on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/philips-accelerates-development-of-ai-enabled-healthcare-solutions-with-an-mlops-platform-built-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Fine-tune Whisper models on Amazon SageMaker with LoRA",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-whisper-models-on-amazon-sagemaker-with-lora/"
+    },
+    {
+        "title": "Use foundation models to improve model accuracy with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-foundation-models-to-improve-model-accuracy-with-amazon-sagemaker/"
+    },
+    {
         "title": "Implement a custom AutoML job using pre-selected algorithms in Amazon SageMaker Automatic Model Tuning",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-custom-automl-job-using-pre-selected-algorithms-in-amazon-sagemaker-automatic-model-tuning/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize for sustainability with Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/"
-    },
-    {
-        "title": "Harnessing the power of enterprise data with generative AI: Insights from Amazon Kendra, LangChain, and large language models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-enterprise-data-with-generative-ai-insights-from-amazon-kendra-langchain-and-large-language-models/"
-    },
-    {
-        "title": "Use generative AI to increase agent productivity through automated call summarization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-to-increase-agent-productivity-through-automated-call-summarization/"
-    },
-    {
-        "title": "Customize Amazon Textract with business-specific documents using Custom Queries",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-textract-with-business-specific-documents-using-custom-queries/"
     }
 ]

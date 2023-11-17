@@ -1,5 +1,21 @@
 [
     {
+        "title": "Power enterprise-grade Data Vaults with Amazon Redshift \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/big-data/power-enterprise-grade-data-vaults-with-amazon-redshift-part-1/"
+    },
+    {
+        "title": "Power enterprise-grade Data Vaults with Amazon Redshift \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/power-enterprise-grade-data-vaults-with-amazon-redshift-part-2/"
+    },
+    {
+        "title": "Decentralize LF-tag management with AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/decentralize-lf-tag-management-with-aws-lake-formation/"
+    },
+    {
+        "title": "Use generative AI with Amazon EMR, Amazon Bedrock, and English SDK for Apache Spark to unlock insights",
+        "link": "https://aws.amazon.com/blogs/big-data/use-generative-ai-with-amazon-emr-amazon-bedrock-and-english-sdk-for-apache-spark-to-unlock-insights/"
+    },
+    {
         "title": "Introducing shared VPC support on Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-shared-vpc-support-on-amazon-mwaa/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Gilead used Amazon Redshift to quickly and cost-effectively load third-party medical claims data",
         "link": "https://aws.amazon.com/blogs/big-data/how-gilead-used-amazon-redshift-to-quickly-and-cost-effectively-load-third-party-medical-claims-data/"
-    },
-    {
-        "title": "Implement fine-grained access control in Amazon SageMaker Studio and Amazon EMR using Apache Ranger and Microsoft Active Directory",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-fine-grained-access-control-in-amazon-sagemaker-studio-and-amazon-emr-using-apache-ranger-and-microsoft-active-directory/"
-    },
-    {
-        "title": "Configure dynamic tenancy for Amazon OpenSearch Dashboards",
-        "link": "https://aws.amazon.com/blogs/big-data/configure-dynamic-tenancy-for-amazon-opensearch-dashboards/"
-    },
-    {
-        "title": "Connect your data for faster decisions with AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/connect-your-data-for-faster-decisions-with-aws/"
-    },
-    {
-        "title": "Introducing Amazon MWAA support for Apache Airflow version 2.7.2 and deferrable operators",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-7-2-and-deferrable-operators/"
     }
 ]

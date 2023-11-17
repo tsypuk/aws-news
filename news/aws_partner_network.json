@@ -1,5 +1,21 @@
 [
     {
+        "title": "Enhancing AWS Partner Central to Deliver a Simple, Personalized, and Value-Driven Experience",
+        "link": "https://aws.amazon.com/blogs/apn/enhancing-aws-partner-central-to-deliver-a-simple-personalized-and-value-driven-experience/"
+    },
+    {
+        "title": "Say Hello to 197 AWS MSP, Competency, Service Ready, and Service Delivery Partners Added or Renewed in October",
+        "link": "https://aws.amazon.com/blogs/apn/say-hello-to-197-aws-msp-competency-service-ready-and-service-delivery-partners-added-or-renewed-in-october/"
+    },
+    {
+        "title": "Your Guide to VMware Cloud on AWS at re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/apn/your-guide-to-vmware-cloud-on-aws-at-reinvent-2023/"
+    },
+    {
+        "title": "How WSP Digital Improves Geospatial Pipeline Efficiency with AWS Step Functions and AWS Batch",
+        "link": "https://aws.amazon.com/blogs/apn/how-wsp-digital-improves-geospatial-pipeline-efficiency-with-aws-step-functions-and-aws-batch/"
+    },
+    {
         "title": "Mainframe Application Modernization Using HCLTech\u2019s ADvantage Modernize Framework",
         "link": "https://aws.amazon.com/blogs/apn/mainframe-application-modernization-using-hcltech-advantage-modernize-framework/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Simplify, Accelerate, and Automate SAP Deployment Using AWS Launch Wizard for SAP",
         "link": "https://aws.amazon.com/blogs/apn/simplify-accelerate-and-automate-sap-deployment-using-aws-launch-wizard-for-sap/"
-    },
-    {
-        "title": "Integrating Amazon Cognito with 1Kosmos BlockID for Enhanced Security and User Experience",
-        "link": "https://aws.amazon.com/blogs/apn/integrating-amazon-cognito-with-1kosmos-blockid-for-enhanced-security-and-user-experience/"
-    },
-    {
-        "title": "Ensuring Safe and Sustainable Autonomous Vehicle Validation on AWS with TCS Mobility Suite Smart Validation",
-        "link": "https://aws.amazon.com/blogs/apn/ensuring-safe-and-sustainable-autonomous-vehicle-validation-on-aws-with-tcs-mobility-suite-smart-validation/"
-    },
-    {
-        "title": "Enriching Snowflake Data with Amazon Location Service and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/apn/enriching-snowflake-data-with-amazon-location-service-and-aws-lambda/"
-    },
-    {
-        "title": "Filter and Stream Logs from Amazon S3 Logging Buckets into Splunk Using AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/apn/filter-and-stream-logs-from-amazon-s3-logging-buckets-into-splunk-using-aws-lambda/"
     }
 ]
