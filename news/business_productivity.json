@@ -1,5 +1,13 @@
 [
     {
+        "title": "Learn how to become an AWS AppFabric supported application",
+        "link": "https://aws.amazon.com/blogs/business-productivity/learn-how-to-become-an-aws-appfabric-supported-application/"
+    },
+    {
+        "title": "How generative AI features of AWS AppFabric help SaaS app developers",
+        "link": "https://aws.amazon.com/blogs/business-productivity/how-generative-ai-features-of-aws-appfabric-help-saas-app-developers/"
+    },
+    {
         "title": "Generate impactful insights across your SaaS applications with AWS AppFabric",
         "link": "https://aws.amazon.com/blogs/business-productivity/generate-impactful-insights-across-your-saas-applications-with-aws-appfabric/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How NTT DOCOMO added video customer support using AWS",
         "link": "https://aws.amazon.com/blogs/business-productivity/ntt-docomo-added-video-customer-support-using-aws/"
-    },
-    {
-        "title": "How NTT East utilizes Amazon Chime SDK to adapt to digital transformation",
-        "link": "https://aws.amazon.com/blogs/business-productivity/how-ntt-east-utilizes-amazon-chime-sdk-to-adapt-to-digital-transformation/"
-    },
-    {
-        "title": "Using call metadata to enhance insights provided by Amazon Chime SDK call analytics",
-        "link": "https://aws.amazon.com/blogs/business-productivity/using-call-metadata-to-enhance-insights-provided-by-amazon-chime-sdk-call-analytics/"
     }
 ]

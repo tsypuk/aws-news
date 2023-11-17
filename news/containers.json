@@ -1,5 +1,17 @@
 [
     {
+        "title": "Optimize AZ traffic costs using Amazon EKS, Karpenter, and Istio Editorial",
+        "link": "https://aws.amazon.com/blogs/containers/optimize-az-traffic-costs-using-amazon-eks-karpenter-and-istio-editorial/"
+    },
+    {
+        "title": "Scalable and Cost-Effective Event-Driven Workloads with KEDA and Karpenter on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/scalable-and-cost-effective-event-driven-workloads-with-keda-and-karpenter-on-amazon-eks/"
+    },
+    {
+        "title": "Run Amazon EKS on RHEL Worker Nodes with IPVS Networking",
+        "link": "https://aws.amazon.com/blogs/containers/run-amazon-eks-on-rhel-worker-nodes-with-ipvs-networking/"
+    },
+    {
         "title": "Amazon EKS and Kubernetes sessions at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "On-premises egress design patterns for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/on-premises-egress-design-patterns-for-amazon-eks/"
-    },
-    {
-        "title": "Securing API endpoints using Amazon API Gateway and Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/containers/securing-api-endpoints-using-amazon-api-gateway-and-amazon-vpc-lattice/"
-    },
-    {
-        "title": "A deep dive into Amazon ECS task health and task replacement",
-        "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-amazon-ecs-task-health-and-task-replacement/"
-    },
-    {
-        "title": "Building multi-tenant JupyterHub Platforms on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/building-multi-tenant-jupyterhub-platforms-on-amazon-eks/"
     }
 ]

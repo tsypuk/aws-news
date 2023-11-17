@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting started with Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-started-with-amazon-workspaces/"
+    },
+    {
         "title": "Genomics England improves its researcher experience with Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/genomics-england-improves-its-researcher-experience-with-amazon-workspaces/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Converting a desktop application to a cloud service in less than an hour",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/converting-a-desktop-application-to-a-cloud-service-in-less-than-an-hour/"
-    },
-    {
-        "title": "Migrating an on-premises VDI solution to AWS using Amazon WorkSpaces Core",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/migrating-an-on-premises-vdi-solution-to-aws-using-amazon-workspaces-core/"
     }
 ]

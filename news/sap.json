@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating the update process of a clustered SAP HANA DB using nZDT and Ansible",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automating-the-update-process-of-a-clustered-sap-hana-db-using-nzdt-and-ansible/"
+    },
+    {
         "title": "Extend RISE with SAP on AWS with Analytics Fabric for SAP Accelerators",
         "link": "https://aws.amazon.com/blogs/awsforsap/extend-rise-with-sap-on-aws-with-analytics-fabric-for-sap-accelerators/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modernize your SAP eco-system with SAP BTP and AWS services",
         "link": "https://aws.amazon.com/blogs/awsforsap/modernize-your-sap-eco-system-with-sap-btp-and-aws-services/"
-    },
-    {
-        "title": "SAP and AWS Collaborate to Accelerate Demand and Digital Transformation for Customers",
-        "link": "https://aws.amazon.com/blogs/awsforsap/sap-and-aws-collaborate-to-accelerate-demand-and-digital-transformation-for-customers/"
     }
 ]

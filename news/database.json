@@ -1,6 +1,30 @@
 [
     {
-        "title": "Announcing frozen collections in Amazon Keyspaces",
+        "title": "Know before you go: Amazon DynamoDB sessions at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/database/know-before-you-go-amazon-dynamodb-sessions-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "Achieve one second or less of downtime with ProxySQL when upgrading Amazon RDS Multi-AZ deployments with two readable standbys",
+        "link": "https://aws.amazon.com/blogs/database/achieve-one-second-or-less-of-downtime-with-proxysql-when-upgrading-amazon-rds-multi-az-deployments-with-two-readable-standbys/"
+    },
+    {
+        "title": "Fast switchovers with PgBouncer on Amazon RDS Multi-AZ deployments with two readable standbys for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/fast-switchovers-with-pgbouncer-on-amazon-rds-multi-az-deployments-with-two-readable-standbys-for-postgresql/"
+    },
+    {
+        "title": "Achieve one second or less downtime with the Advanced JDBC Wrapper Driver when upgrading Amazon RDS Multi-AZ DB Clusters",
+        "link": "https://aws.amazon.com/blogs/database/achieve-one-second-or-less-downtime-with-the-advanced-jdbc-wrapper-driver-when-upgrading-amazon-rds-multi-az-db-clusters/"
+    },
+    {
+        "title": "Perform minor version upgrades with a downtime of 1 second or less with Amazon RDS Proxy and Amazon RDS Multi-AZ deployments with two readable standbys",
+        "link": "https://aws.amazon.com/blogs/database/perform-minor-version-upgrades-with-a-downtime-of-1-second-or-less-with-amazon-rds-proxy-and-amazon-rds-multi-az-deployments-with-two-readable-standbys/"
+    },
+    {
+        "title": "Amazon RDS for SQL Server now supports SQL Server 2022",
+        "link": "https://aws.amazon.com/blogs/database/amazon-rds-for-sql-server-now-supports-sql-server-2022/"
+    },
+    {
+        "title": "Announcing frozen collections for Amazon Keyspaces",
         "link": "https://aws.amazon.com/blogs/database/announcing-frozen-collections-in-amazon-keyspaces/"
     },
     {
@@ -54,29 +78,5 @@
     {
         "title": "New \u2013 Amazon Aurora Optimized Reads for Aurora PostgreSQL with up to 8x query latency improvement for I/O-intensive applications",
         "link": "https://aws.amazon.com/blogs/database/new-amazon-aurora-optimized-reads-for-aurora-postgresql-with-up-to-8x-query-latency-improvement-for-i-o-intensive-applications/"
-    },
-    {
-        "title": "Migrate Oracle global unique indexes in partitioned tables to Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrate-oracle-global-unique-indexes-in-partitioned-tables-to-amazon-rds-for-postgresql-and-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Introducing the Amazon Timestream UNLOAD statement: Export time-series data for additional insights",
-        "link": "https://aws.amazon.com/blogs/database/introducing-the-amazon-timestream-unload-statement-export-time-series-data-for-additional-insights/"
-    },
-    {
-        "title": "Determining the optimal value for shared_buffers using the pg_buffercache extension in PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/determining-the-optimal-value-for-shared_buffers-using-the-pg_buffercache-extension-in-postgresql/"
-    },
-    {
-        "title": "Working with geospatial data in Amazon ElastiCache for Redis",
-        "link": "https://aws.amazon.com/blogs/database/working-with-geospatial-data-in-amazon-elasticache-for-redis/"
-    },
-    {
-        "title": "Migrate from Oracle PL/JSON to Amazon Aurora PostgreSQL JSONB",
-        "link": "https://aws.amazon.com/blogs/database/migrate-from-oracle-pl-json-to-amazon-aurora-postgresql-jsonb/"
-    },
-    {
-        "title": "Accelerate HNSW indexing and searching with pgvector on Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/accelerate-hnsw-indexing-and-searching-with-pgvector-on-amazon-rds-for-postgresql/"
     }
 ]
