@@ -1,5 +1,9 @@
 [
     {
+        "title": "6 New AWS Amplify Launches for Frontend Developers",
+        "link": "https://aws.amazon.com/blogs/mobile/6-new-aws-amplify-launches-to-make-frontend-development-easier/"
+    },
+    {
         "title": "Wildcard Subdomains for Multi-tenant Apps on AWS Amplify Hosting",
         "link": "https://aws.amazon.com/blogs/mobile/wildcard-subdomains-for-multi-tenant-apps-on-aws-amplify-hosting/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing new AWS AppSync module and functions for DynamoDB JavaScript resolvers",
         "link": "https://aws.amazon.com/blogs/mobile/introducing-new-aws-appsync-module-and-functions-for-dynamodb-javascript-resolvers/"
-    },
-    {
-        "title": "AWS Amplify supports Time-Based One-Time Password (TOTP) for MFA on Android, Swift, and Flutter",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-totp-support-for-mfa-on-android-swift-flutter/"
     }
 ]

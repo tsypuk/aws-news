@@ -1,5 +1,17 @@
 [
     {
+        "title": "How CubeAngle Built a Serverless File Ingestion and Processing Framework Powered by AWS",
+        "link": "https://aws.amazon.com/blogs/apn/how-cubeangle-built-a-serverless-file-ingestion-and-processing-framework-powered-by-aws/"
+    },
+    {
+        "title": "How to Streamline API Development on Amazon API Gateway Using SmartBear\u2019s SwaggerHub",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-streamline-api-development-on-amazon-api-gateway-using-smartbear-swaggerhub/"
+    },
+    {
+        "title": "The Future of Search: Exploring Generative AI Chat-Based Solutions with AWS and Slalom",
+        "link": "https://aws.amazon.com/blogs/apn/the-future-of-search-exploring-generative-ai-chat-based-solutions-with-aws-and-slalom/"
+    },
+    {
         "title": "Enhancing AWS Partner Central to Deliver a Simple, Personalized, and Value-Driven Experience",
         "link": "https://aws.amazon.com/blogs/apn/enhancing-aws-partner-central-to-deliver-a-simple-personalized-and-value-driven-experience/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Vox Media Automates SaaS Security Risk Controls with DoControl",
         "link": "https://aws.amazon.com/blogs/apn/how-vox-media-automates-saas-security-risk-controls-with-docontrol/"
-    },
-    {
-        "title": "Building Cross-Account Deployment in GitLab Pipelines Using AWS CDK",
-        "link": "https://aws.amazon.com/blogs/apn/building-cross-account-deployment-in-gitlab-pipelines-using-aws-cdk/"
-    },
-    {
-        "title": "How to Use AWS Service Catalog with HashiCorp Terraform Cloud",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-use-aws-service-catalog-with-hashicorp-terraform-cloud/"
-    },
-    {
-        "title": "Simplify, Accelerate, and Automate SAP Deployment Using AWS Launch Wizard for SAP",
-        "link": "https://aws.amazon.com/blogs/apn/simplify-accelerate-and-automate-sap-deployment-using-aws-launch-wizard-for-sap/"
     }
 ]
