@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simple and comprehensive data protection with Amazon Data Lifecycle Manager",
+        "link": "https://aws.amazon.com/blogs/storage/simple-and-comprehensive-data-protection-with-amazon-data-lifecycle-manager/"
+    },
+    {
+        "title": "AWS file storage at re:Invent 2023 in 3 easy steps",
+        "link": "https://aws.amazon.com/blogs/storage/aws-file-storage-at-reinvent-2023-in-3-easy-steps/"
+    },
+    {
         "title": "How PingCAP transformed TiDB into a serverless DBaaS using Amazon S3 and Amazon EBS",
         "link": "https://aws.amazon.com/blogs/storage/how-pingcap-transformed-tidb-into-a-serverless-dbaas-using-amazon-s3-and-amazon-ebs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Elastic Block Store at 15 Years",
         "link": "https://aws.amazon.com/blogs/storage/amazon-elastic-block-store-at-15-years/"
-    },
-    {
-        "title": "Optimizing performance of Apache Spark workloads on Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/optimizing-performance-of-apache-spark-workloads-on-amazon-s3/"
-    },
-    {
-        "title": "Sharing data on Amazon FSx for OpenZFS across Linux and Windows clients",
-        "link": "https://aws.amazon.com/blogs/storage/sharing-data-on-amazon-fsx-for-openzfs-across-linux-and-windows-clients/"
     }
 ]

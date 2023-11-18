@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining agriculture operations with serverless anomaly detection using AWS IoT",
+        "link": "https://aws.amazon.com/blogs/iot/serverless-iot-anomaly-detection/"
+    },
+    {
         "title": "Accelerate Industry 4.0 Adoption using Containerized Gateway Services",
         "link": "https://aws.amazon.com/blogs/iot/accelerate-industry-4-0-adoption-using-containerized-gateway-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to improve device discoverability by unlocking 50 AWS IoT thing type attributes",
         "link": "https://aws.amazon.com/blogs/iot/how-to-improve-device-discoverability-by-unlocking-50-aws-iot-thing-type-attributes/"
-    },
-    {
-        "title": "Calculating Overall Equipment Effectiveness (OEE) with AWS IoT SiteWise",
-        "link": "https://aws.amazon.com/blogs/iot/calculating-overall-equipment-effectiveness-oee-with-aws-iot-sitewise/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Converting stateful application to stateless using AWS services",
+        "link": "https://aws.amazon.com/blogs/architecture/converting-stateful-application-to-stateless-using-aws-services/"
+    },
+    {
         "title": "Let\u2019s Architect! Tools for developers",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-tools-for-developers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Let\u2019s Architect! Resiliency in architectures",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-resiliency-in-architectures/"
-    },
-    {
-        "title": "Improving medical imaging workflows with AWS HealthImaging and SageMaker",
-        "link": "https://aws.amazon.com/blogs/architecture/improving-medical-imaging-workflows-with-aws-healthimaging-and-sagemaker/"
     }
 ]

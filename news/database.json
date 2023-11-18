@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing Group Replication plugin for active/active replication on Amazon RDS for MySQL",
+        "link": "https://aws.amazon.com/blogs/database/introducing-group-replication-plugin-for-active-active-replication-on-amazon-rds-for-mysql/"
+    },
+    {
+        "title": "Create a SQL Server Developer Edition instance using BYOM on Amazon RDS Custom for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/create-a-sql-server-developer-edition-instance-using-byom-on-amazon-rds-custom-for-sql-server/"
+    },
+    {
+        "title": "Create an AWS Glue Data Catalog with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/create-an-aws-glue-data-catalog-with-aws-dms/"
+    },
+    {
         "title": "Know before you go: Amazon DynamoDB sessions at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/database/know-before-you-go-amazon-dynamodb-sessions-at-aws-reinvent-2023/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize cost and boost performance of RDS for MySQL using Amazon ElastiCache for Redis",
         "link": "https://aws.amazon.com/blogs/database/optimize-cost-and-boost-performance-of-rds-for-mysql-using-amazon-elasticache-for-redis/"
-    },
-    {
-        "title": "Best practices for sizing your Amazon ElastiCache for Redis clusters",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-sizing-your-amazon-elasticache-for-redis-clusters/"
-    },
-    {
-        "title": "Architect and migrate business-critical applications to Amazon RDS for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/architect-and-migrate-business-critical-applications-to-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "New \u2013 Amazon Aurora Optimized Reads for Aurora PostgreSQL with up to 8x query latency improvement for I/O-intensive applications",
-        "link": "https://aws.amazon.com/blogs/database/new-amazon-aurora-optimized-reads-for-aurora-postgresql-with-up-to-8x-query-latency-improvement-for-i-o-intensive-applications/"
     }
 ]

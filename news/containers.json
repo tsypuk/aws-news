@@ -1,7 +1,11 @@
 [
     {
-        "title": "Optimize AZ traffic costs using Amazon EKS, Karpenter, and Istio Editorial",
-        "link": "https://aws.amazon.com/blogs/containers/optimize-az-traffic-costs-using-amazon-eks-karpenter-and-istio-editorial/"
+        "title": "Enhanced VPC flexibility: modify subnets and security groups in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/enhanced-vpc-flexibility-modify-subnets-and-security-groups-in-amazon-eks/"
+    },
+    {
+        "title": "Optimize AZ traffic costs using Amazon EKS, Karpenter, and Istio",
+        "link": "https://aws.amazon.com/blogs/containers/optimize-az-traffic-costs-using-amazon-eks-karpenter-and-istio/"
     },
     {
         "title": "Scalable and Cost-Effective Event-Driven Workloads with KEDA and Karpenter on Amazon EKS",
@@ -34,9 +38,5 @@
     {
         "title": "Serverless containers at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/containers/serverless-containers-at-aws-reinvent-2023/"
-    },
-    {
-        "title": "On-premises egress design patterns for Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/on-premises-egress-design-patterns-for-amazon-eks/"
     }
 ]

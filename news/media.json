@@ -1,5 +1,13 @@
 [
     {
+        "title": "The Mergers & Acquisitions Cloud Center of Excellence (M&A CCoE) \u2013 Part 2: Roles and Responsibilities",
+        "link": "https://aws.amazon.com/blogs/mt/the-mergers-acquisitions-cloud-center-of-excellence-ma-ccoe-part-2-roles-and-responsibilities/"
+    },
+    {
+        "title": "The Mergers & Acquisitions Cloud Center of Excellence (M&A CCoE) \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/mt/the-mergers-acquisitions-cloud-center-of-excellence-ma-ccoe-part-1/"
+    },
+    {
         "title": "Announcing AWS CloudTrail Lake one-year extendable retention pricing option",
         "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-lake-one-year-extendable-retention-pricing-option/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Scaling GitHub usage with AWS",
         "link": "https://aws.amazon.com/blogs/mt/scaling-github-usage-with-aws/"
-    },
-    {
-        "title": "Lowering MTTR with Amazon CloudWatch and AWS X-Ray",
-        "link": "https://aws.amazon.com/blogs/mt/lowering-mttr-with-amazon-cloudwatch-and-aws-x-ray/"
-    },
-    {
-        "title": "Unlocking the power: The keys to delivering successful Cloud Migrations",
-        "link": "https://aws.amazon.com/blogs/mt/unlocking-the-power-the-keys-to-delivering-successful-cloud-migrations/"
     }
 ]

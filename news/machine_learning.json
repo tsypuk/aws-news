@@ -1,5 +1,17 @@
 [
     {
+        "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
+        "link": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/"
+    },
+    {
+        "title": "Retrieval-Augmented Generation with LangChain, Amazon SageMaker JumpStart, and MongoDB Atlas semantic search",
+        "link": "https://aws.amazon.com/blogs/machine-learning/retrieval-augmented-generation-with-langchain-amazon-sagemaker-jumpstart-and-mongodb-atlas-semantic-search/"
+    },
+    {
+        "title": "Build a foundation model (FM) powered customer service bot with agents for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-foundation-model-fm-powered-customer-service-bot-with-agents-for-amazon-bedrock/"
+    },
+    {
         "title": "Philips accelerates development of AI-enabled healthcare solutions with an MLOps platform built on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/philips-accelerates-development-of-ai-enabled-healthcare-solutions-with-an-mlops-platform-built-on-amazon-sagemaker/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Promote pipelines in a multi-environment setup using Amazon SageMaker Model Registry, HashiCorp Terraform, GitHub, and Jenkins CI/CD",
         "link": "https://aws.amazon.com/blogs/machine-learning/promote-pipelines-in-a-multi-environment-setup-using-amazon-sagemaker-model-registry-hashicorp-terraform-github-and-jenkins-ci-cd/"
-    },
-    {
-        "title": "Customizing coding companions for organizations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customizing-coding-companions-for-organizations/"
-    },
-    {
-        "title": "Build a medical imaging AI inference pipeline with MONAI Deploy on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-imaging-ai-inference-pipeline-with-monai-deploy-on-aws/"
-    },
-    {
-        "title": "Optimize for sustainability with Amazon CodeWhisperer",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/"
     }
 ]

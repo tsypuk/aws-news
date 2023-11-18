@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Amazon CodeCatalyst with Amazon Virtual Private Cloud",
+        "link": "https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-with-amazon-virtual-private-cloud/"
+    },
+    {
         "title": "AWS CodeBuild adds support for AWS Lambda compute mode",
         "link": "https://aws.amazon.com/blogs/devops/aws-codebuild-adds-support-for-aws-lambda-compute-mode/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identify regional feature parity using the AWS CloudFormation registry",
         "link": "https://aws.amazon.com/blogs/devops/identify-regional-feature-parity-using-the-aws-cloudformation-registry/"
-    },
-    {
-        "title": "How to add notifications and manual approval to an AWS CDK Pipeline",
-        "link": "https://aws.amazon.com/blogs/devops/how-to-add-notifications-and-manual-approval-to-an-aws-cdk-pipeline/"
     }
 ]
