@@ -1,5 +1,9 @@
 [
     {
+        "title": "The frontend web and mobile app developer\u2019s guide to AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/mobile/the-frontend-developers-guide-to-aws-reinvent-2023/"
+    },
+    {
         "title": "6 New AWS Amplify Launches for Frontend Developers",
         "link": "https://aws.amazon.com/blogs/mobile/6-new-aws-amplify-launches-to-make-frontend-development-easier/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Detect real users with AWS Amplify and Face Liveness",
         "link": "https://aws.amazon.com/blogs/mobile/detect-real-users-with-aws-amplify-and-face-liveness/"
-    },
-    {
-        "title": "Introducing new AWS AppSync module and functions for DynamoDB JavaScript resolvers",
-        "link": "https://aws.amazon.com/blogs/mobile/introducing-new-aws-appsync-module-and-functions-for-dynamodb-javascript-resolvers/"
     }
 ]
