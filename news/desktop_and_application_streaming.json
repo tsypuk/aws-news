@@ -1,5 +1,13 @@
 [
     {
+        "title": "Understand user access patterns and optimize Amazon WorkSpaces with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/understand-user-access-patterns-and-optimize-amazon-workspaces-with-amazon-cloudwatch/"
+    },
+    {
+        "title": "Migrating to Microsoft 365 Apps for enterprise at scale on Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/preparing-to-migrate-to-microsoft-365-apps-at-scale-on-amazon-workspaces/"
+    },
+    {
         "title": "Disrupting your thinking on end-user computing",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/disrupting-your-thinking-on-end-user-computing/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamlining VDI migration to AWS with Amazon WorkSpaces Core",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/streamlining-vdi-migration-to-aws-with-amazon-workspaces-core/"
-    },
-    {
-        "title": "Empowering the modern workforce with virtual meetings",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/empowering-the-modern-workforce-with-virtual-meetings/"
-    },
-    {
-        "title": "Strategies for enabling any application in a virtual desktop environment",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/strategies-for-enabling-any-application-in-a-virtual-desktop-environment/"
     }
 ]

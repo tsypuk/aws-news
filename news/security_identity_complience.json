@@ -1,5 +1,17 @@
 [
     {
+        "title": "How to use multiple instances of AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/how-to-use-multiple-instances-of-aws-iam-identity-center/"
+    },
+    {
+        "title": "AWS achieves SNI 27001 certification for the AWS Asia Pacific (Jakarta) Region",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27001-certification-for-the-aws-asia-pacific-jakarta-region/"
+    },
+    {
+        "title": "Establishing a data perimeter on AWS: Require services to be created only within expected networks",
+        "link": "https://aws.amazon.com/blogs/security/establishing-a-data-perimeter-on-aws-require-services-to-be-created-only-within-expected-networks/"
+    },
+    {
         "title": "Download AWS Security Hub CSV report",
         "link": "https://aws.amazon.com/blogs/security/download-aws-security-hub-csv-report/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How to use chaos engineering in incident response",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-chaos-engineering-in-incident-response/"
-    },
-    {
-        "title": "Approaches for migrating users to Amazon Cognito user pools",
-        "link": "https://aws.amazon.com/blogs/security/approaches-for-migrating-users-to-amazon-cognito-user-pools/"
-    },
-    {
-        "title": "How to share security telemetry per OU using Amazon Security Lake and AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/security/how-to-share-security-telemetry-per-ou-using-amazon-security-lake-and-aws-lake-formation/"
-    },
-    {
-        "title": "Aggregating, searching, and visualizing log data from distributed sources with Amazon Athena and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/security/aggregating-searching-and-visualizing-log-data-from-distributed-sources-with-amazon-athena-and-amazon-quicksight/"
     }
 ]

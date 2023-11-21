@@ -1,5 +1,13 @@
 [
     {
+        "title": "Secure GxP compliance by automating the Amazon RDS security audit log export process",
+        "link": "https://aws.amazon.com/blogs/database/secure-gxp-compliance-by-automating-the-amazon-rds-security-audit-log-export-process/"
+    },
+    {
+        "title": "Configure reverse replication using AWS DMS to migrate an Oracle database to Amazon RDS for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/configure-reverse-replication-using-aws-dms-to-migrate-an-oracle-database-to-amazon-rds-for-oracle/"
+    },
+    {
         "title": "Introducing Group Replication plugin for active/active replication on Amazon RDS for MySQL",
         "link": "https://aws.amazon.com/blogs/database/introducing-group-replication-plugin-for-active-active-replication-on-amazon-rds-for-mysql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon RDS Proxy multiplexing support for PostgreSQL Extended Query Protocol",
         "link": "https://aws.amazon.com/blogs/database/amazon-rds-proxy-multiplexing-support-for-postgresql-extended-query-protocol/"
-    },
-    {
-        "title": "Automatically scale Amazon RDS storage using Amazon CloudWatch and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/database/automatically-scale-amazon-rds-storage-using-amazon-cloudwatch-and-aws-lambda/"
-    },
-    {
-        "title": "Optimize cost and boost performance of RDS for MySQL using Amazon ElastiCache for Redis",
-        "link": "https://aws.amazon.com/blogs/database/optimize-cost-and-boost-performance-of-rds-for-mysql-using-amazon-elasticache-for-redis/"
     }
 ]

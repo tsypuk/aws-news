@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating Wasabi Object Storage to Amazon S3 using AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/migrating-wasabi-object-storage-to-amazon-s3-using-aws-datasync/"
+    },
+    {
         "title": "Simple and comprehensive data protection with Amazon Data Lifecycle Manager",
         "link": "https://aws.amazon.com/blogs/storage/simple-and-comprehensive-data-protection-with-amazon-data-lifecycle-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Continental uses Mountpoint for Amazon S3 in autonomous driving development \u2013 accelerating simulation performance by 20%",
         "link": "https://aws.amazon.com/blogs/storage/how-continental-uses-mountpoint-for-amazon-s3-in-autonomous-driving-development-accelerating-simulation-performance-by-20/"
-    },
-    {
-        "title": "Amazon Elastic Block Store at 15 Years",
-        "link": "https://aws.amazon.com/blogs/storage/amazon-elastic-block-store-at-15-years/"
     }
 ]
