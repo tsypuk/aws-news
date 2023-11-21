@@ -1,5 +1,29 @@
 [
     {
+        "title": "Leverage generative AI to create custom dashboard widgets in Amazon CloudWatch using Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/mt/leverage-generative-ai-to-create-custom-dashboard-widgets-in-amazon-cloudwatch-using-amazon-codewhisperer/"
+    },
+    {
+        "title": "Improving Mergers & Acquisitions Due Diligence with AWS Audit Manager",
+        "link": "https://aws.amazon.com/blogs/mt/improving-mergers-acquisitions-due-diligence-with-aws-audit-manager/"
+    },
+    {
+        "title": "Monitoring and Visualizing Amazon EKS signals with Kiali and AWS managed open-source services",
+        "link": "https://aws.amazon.com/blogs/mt/monitoring-and-visualizing-amazon-eks-signals-with-kiali-and-aws-managed-open-source-services/"
+    },
+    {
+        "title": "Achieve domain consistency in event-driven architectures",
+        "link": "https://aws.amazon.com/blogs/mt/achieve-domain-consistency-in-event-driven-architectures/"
+    },
+    {
+        "title": "Accelerate Modernization outcomes with Automation",
+        "link": "https://aws.amazon.com/blogs/mt/accelerate-modernization-outcomes-with-automation/"
+    },
+    {
+        "title": "Using Puppet to automate AWS Elastic Disaster Recovery for Amazon EC2 instances at scale",
+        "link": "https://aws.amazon.com/blogs/mt/using-puppet-to-automate-aws-elastic-disaster-recovery-for-amazon-ec2-instances-at-scale/"
+    },
+    {
         "title": "The Mergers & Acquisitions Cloud Center of Excellence (M&A CCoE) \u2013 Part 2: Roles and Responsibilities",
         "link": "https://aws.amazon.com/blogs/mt/the-mergers-acquisitions-cloud-center-of-excellence-ma-ccoe-part-2-roles-and-responsibilities/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Announcing Amazon CloudWatch Container Insights with Enhanced Observability for Amazon EKS on EC2",
         "link": "https://aws.amazon.com/blogs/mt/new-container-insights-with-enhanced-observability-for-amazon-eks/"
-    },
-    {
-        "title": "Know Before You Go \u2013 AWS re:Invent 2023 Monitoring and Observability, and Centralized Operations Management",
-        "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2023-cloud-operations-monitoring-observability-and-centralized-operations-management/"
-    },
-    {
-        "title": "How to email your Amazon CloudWatch dashboard",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-email-your-amazon-cloudwatch-dashboard/"
-    },
-    {
-        "title": "Automating Amazon EC2 Auto Scaling with Amazon CloudWatch custom metrics and AWS CDK",
-        "link": "https://aws.amazon.com/blogs/mt/automating-amazon-ec2-auto-scaling-with-amazon-cloudwatch-custom-metric-and-aws-cdk/"
-    },
-    {
-        "title": "Amazon Connect real-time monitoring using Amazon Managed Grafana and Amazon Timestream",
-        "link": "https://aws.amazon.com/blogs/mt/amazon-connect-real-time-monitoring-using-amazon-managed-grafana-and-amazon-timestream/"
-    },
-    {
-        "title": "Mark your calendars for AWS Mainframe Modernization sessions @ re: Invent 2023",
-        "link": "https://aws.amazon.com/blogs/mt/mark-your-calendars-for-aws-mainframe-modernization-sessions-re-invent-2023/"
-    },
-    {
-        "title": "Scaling GitHub usage with AWS",
-        "link": "https://aws.amazon.com/blogs/mt/scaling-github-usage-with-aws/"
     }
 ]

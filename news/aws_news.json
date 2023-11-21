@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup \u2013 EC2 DL2q instances, PartyRock, Amplify\u2019s 6th birthday, and more \u2013 November 20, 2023",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-dl2q-instances-partyrock-amplifys-6th-birthday-and-more-november-20-2023/"
+    },
+    {
         "title": "Happy anniversary, Amazon CloudFront: 15 years of evolution and internet advancements",
         "link": "https://aws.amazon.com/blogs/aws/happy-anniversary-amazon-cloudfront-15-years-of-evolution-and-internet-advancements/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon EC2 Instance Metadata Service IMDSv2 by default",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-instance-metadata-service-imdsv2-by-default/"
-    },
-    {
-        "title": "Announcing Amazon EC2 Capacity Blocks for ML to reserve GPU capacity for your machine learning workloads",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-capacity-blocks-for-ml-to-reserve-gpu-capacity-for-your-machine-learning-workloads/"
     }
 ]

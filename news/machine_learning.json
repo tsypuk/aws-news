@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Amazon SageMaker Studio to build a RAG question answering solution with Llama 2, LangChain, and Pinecone for fast experimentation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-to-build-a-rag-question-answering-solution-with-llama-2-langchain-and-pinecone-for-fast-experimentation/"
+    },
+    {
+        "title": "KT\u2019s journey to reduce training time for a vision transformers model using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/kts-journey-to-reduce-training-time-for-a-vision-transformers-model-using-amazon-sagemaker/"
+    },
+    {
         "title": "Moderate your Amazon IVS live stream using Amazon Rekognition",
         "link": "https://aws.amazon.com/blogs/machine-learning/moderate-your-amazon-ivs-live-stream-using-amazon-rekognition/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use machine learning without writing a single line of code with Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Explore advanced techniques for hyperparameter optimization with Amazon SageMaker Automatic Model Tuning",
-        "link": "https://aws.amazon.com/blogs/machine-learning/explore-advanced-techniques-for-hyperparameter-optimization-with-amazon-sagemaker-automatic-model-tuning/"
-    },
-    {
-        "title": "Promote pipelines in a multi-environment setup using Amazon SageMaker Model Registry, HashiCorp Terraform, GitHub, and Jenkins CI/CD",
-        "link": "https://aws.amazon.com/blogs/machine-learning/promote-pipelines-in-a-multi-environment-setup-using-amazon-sagemaker-model-registry-hashicorp-terraform-github-and-jenkins-ci-cd/"
     }
 ]

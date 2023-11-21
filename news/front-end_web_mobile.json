@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Support for Hosting Any SSR app on AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/introducing-support-for-hosting-any-ssr-app-on-aws-amplify-hosting/"
+    },
+    {
         "title": "The frontend web and mobile app developer\u2019s guide to AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/mobile/the-frontend-developers-guide-to-aws-reinvent-2023/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a Conversational AI app to Interact with AWS using AWS Amplify",
         "link": "https://aws.amazon.com/blogs/mobile/build-a-conversational-ai-app-to-interact-with-aws-using-aws-amplify/"
-    },
-    {
-        "title": "Detect real users with AWS Amplify and Face Liveness",
-        "link": "https://aws.amazon.com/blogs/mobile/detect-real-users-with-aws-amplify-and-face-liveness/"
     }
 ]
