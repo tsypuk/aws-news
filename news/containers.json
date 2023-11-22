@@ -1,5 +1,13 @@
 [
     {
+        "title": "Cognitive Systems Corp.\u2019s Amazon EKS journey: Wi-Fi Sensing technology",
+        "link": "https://aws.amazon.com/blogs/containers/cognitive-systems-corp-s-amazon-eks-journey-wi-fi-sensing-technology/"
+    },
+    {
+        "title": "Build Generative AI apps on Amazon ECS for SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/containers/build-generative-ai-apps-on-amazon-ecs-for-sagemaker-jumpstart/"
+    },
+    {
         "title": "Enhanced VPC flexibility: modify subnets and security groups in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/enhanced-vpc-flexibility-modify-subnets-and-security-groups-in-amazon-eks/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Migration considerations \u2013 Cloud Foundry to Amazon ECS with AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/migration-considerations-cloud-foundry-to-amazon-ecs-with-aws-fargate/"
-    },
-    {
-        "title": "Enable Private Access to the Amazon EKS Kubernetes API with AWS PrivateLink",
-        "link": "https://aws.amazon.com/blogs/containers/enable-private-access-to-the-amazon-eks-kubernetes-api-with-aws-privatelink/"
-    },
-    {
-        "title": "Serverless containers at AWS re:Invent 2023",
-        "link": "https://aws.amazon.com/blogs/containers/serverless-containers-at-aws-reinvent-2023/"
     }
 ]

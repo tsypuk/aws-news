@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/"
+    },
+    {
         "title": "AWS Weekly Roundup \u2013 EC2 DL2q instances, PartyRock, Amplify\u2019s 6th birthday, and more \u2013 November 20, 2023",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-dl2q-instances-partyrock-amplifys-6th-birthday-and-more-november-20-2023/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup\u2014Reserve GPU capacity for short ML workloads, Finch is GA, and more\u2014November 6, 2023",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reserve-gpu-capacity-for-short-ml-workloads-finch-is-ga-and-more-november-6-2023/"
-    },
-    {
-        "title": "Amazon EC2 Instance Metadata Service IMDSv2 by default",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-instance-metadata-service-imdsv2-by-default/"
     }
 ]

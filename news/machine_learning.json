@@ -1,5 +1,21 @@
 [
     {
+        "title": "How Amazon Music uses SageMaker with NVIDIA to optimize ML training and inference performance and cost",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-music-uses-sagemaker-with-nvidia-to-optimize-ml-training-and-inference-performance-and-cost/"
+    },
+    {
+        "title": "Machine Learning with MATLAB and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-matlab-and-amazon-sagemaker/"
+    },
+    {
+        "title": "Text embedding and sentence similarity retrieval at scale with Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/text-embedding-and-sentence-similarity-retrieval-at-scale-with-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Amazon Textract\u2019s new Layout feature introduces efficiencies in general purpose and generative AI document processing tasks",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-textracts-new-layout-feature-introduces-efficiencies-in-general-purpose-and-generative-ai-document-processing-tasks/"
+    },
+    {
         "title": "Use Amazon SageMaker Studio to build a RAG question answering solution with Llama 2, LangChain, and Pinecone for fast experimentation",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-to-build-a-rag-question-answering-solution-with-llama-2-langchain-and-pinecone-for-fast-experimentation/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Model management for LoRA fine-tuned models using Llama2 and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/model-management-for-lora-fine-tuned-models-using-llama2-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Implement real-time personalized recommendations using Amazon Personalize",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-real-time-personalized-recommendations-using-amazon-personalize/"
-    },
-    {
-        "title": "Improve LLM responses in RAG use cases by interacting with the user",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-llm-responses-in-rag-use-cases-by-interacting-with-the-user/"
-    },
-    {
-        "title": "Build trust and safety for generative AI applications with Amazon Comprehend and LangChain",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-trust-and-safety-for-generative-ai-applications-with-amazon-comprehend-and-langchain/"
-    },
-    {
-        "title": "Use machine learning without writing a single line of code with Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-machine-learning-without-writing-a-single-line-of-code-with-amazon-sagemaker-canvas/"
     }
 ]
