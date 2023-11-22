@@ -1,5 +1,17 @@
 [
     {
+        "title": "Accelerate connected vehicle deployment with the Connected Mobility Solution on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/accelerate-connected-vehicle-deployment-with-the-connected-mobility-solution-on-aws/"
+    },
+    {
+        "title": "AWS Clean Rooms: Privacy-enhanced collaboration use cases",
+        "link": "https://aws.amazon.com/blogs/industries/aws-clean-rooms-privacy-enhanced-collaboration-use-cases/"
+    },
+    {
+        "title": "How payment companies are building SoftPOS solutions on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-payment-companies-are-building-softpos-solutions-on-aws/"
+    },
+    {
         "title": "Enable Analytics and Insights for Telecom Networks",
         "link": "https://aws.amazon.com/blogs/industries/enable-analytics-and-insights-for-telecom-networks/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Low latency cloud-native exchanges",
         "link": "https://aws.amazon.com/blogs/industries/low-latency-cloud-native-exchanges/"
-    },
-    {
-        "title": "Implementing a GSMA Compliant Remote SIM Provisioning Workload on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/implementing-a-gsma-compliant-remote-sim-provisioning-workload-on-aws/"
-    },
-    {
-        "title": "Building custom connectors using OSDU and Amazon AppFlow Custom Connector SDK",
-        "link": "https://aws.amazon.com/blogs/industries/osdu-and-amazon-appflow/"
-    },
-    {
-        "title": "Aeron performance enables capital markets to move to the cloud on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/aeron-performance-enables-capital-markets-to-move-to-the-cloud-on-aws/"
     }
 ]

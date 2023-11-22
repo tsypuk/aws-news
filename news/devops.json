@@ -1,5 +1,9 @@
 [
     {
+        "title": "Your DevOps and Developer Productivity guide to re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-reinvent-2023/"
+    },
+    {
         "title": "Introducing Amazon CodeWhisperer for command line",
         "link": "https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-for-command-line/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best Practices for Writing Step Functions Terraform Projects",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-for-writing-step-functions-terraform-projects/"
-    },
-    {
-        "title": "Using AWS CloudFormation and AWS Cloud Development Kit to provision multicloud resources",
-        "link": "https://aws.amazon.com/blogs/devops/using-aws-cloudformation-and-aws-cloud-development-kit-to-provision-multicloud-resources/"
     }
 ]

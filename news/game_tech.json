@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Milestone turbocharged the \u2018Hot Wheels Unleashed\u2019 franchise with Amazon GameLift",
+        "link": "https://aws.amazon.com/blogs/gametech/how-milestone-turbocharged-the-hot-wheels-unleashed-franchise-with-amazon-gamelift/"
+    },
+    {
         "title": "How Dream11 built a multi-tenant user authentication service on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/gametech/5359-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Compiling Unreal Engine 5 Dedicated Servers for AWS Graviton EC2 Instances",
         "link": "https://aws.amazon.com/blogs/gametech/compiling-unreal-engine-5-dedicated-servers-for-aws-graviton-ec2-instances/"
-    },
-    {
-        "title": "QXR Studios accelerates game testing and development with Amazon GameLift Anywhere",
-        "link": "https://aws.amazon.com/blogs/gametech/qxr-studios-accelerates-game-testing-and-development-with-amazon-gamelift-anywhere/"
     }
 ]

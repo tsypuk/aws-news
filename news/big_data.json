@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing persistent buffering for Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-persistent-buffering-for-amazon-opensearch-ingestion/"
+    },
+    {
+        "title": "Build scalable and serverless RAG workflows with a vector engine for Amazon OpenSearch Serverless and Amazon Bedrock Claude models",
+        "link": "https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/"
+    },
+    {
         "title": "Enhance monitoring and debugging for AWS Glue jobs using new job observability metrics",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Wallapop improved performance of analytics workloads with Amazon Redshift Serverless and data sharing",
         "link": "https://aws.amazon.com/blogs/big-data/how-wallapop-improved-performance-of-analytics-workloads-with-amazon-redshift-serverless-and-data-sharing/"
-    },
-    {
-        "title": "Amazon MSK Serverless now supports Kafka clients written in all programming languages",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-serverless-now-supports-kafka-clients-written-in-all-programming-languages/"
-    },
-    {
-        "title": "Amazon MSK IAM authentication now supports all programming languages",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-iam-authentication-now-supports-all-programming-languages/"
     }
 ]

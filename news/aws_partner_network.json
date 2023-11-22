@@ -1,5 +1,9 @@
 [
     {
+        "title": "Capgemini\u2019s Lifecycle Optimization for Aerospace: Extending Component Lifespan Using AWS",
+        "link": "https://aws.amazon.com/blogs/apn/capgemini-lifecycle-optimization-for-aerospace-extending-component-lifespan-using-aws/"
+    },
+    {
         "title": "Automatically Resize Amazon EBS Capacity with Zesty Disk for Cost Efficiency and Consistent Performance",
         "link": "https://aws.amazon.com/blogs/apn/automatically-resize-amazon-ebs-capacity-with-zesty-disk-for-cost-efficiency-and-consistent-performance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Creating the Right Patient Outcomes with Amazon HealthLake and Accenture Health Analytics",
         "link": "https://aws.amazon.com/blogs/apn/creating-the-right-patient-outcomes-with-amazon-healthlake-and-accenture-health-analytics/"
-    },
-    {
-        "title": "How to Unlock Real-Time Data Streams with CockroachDB and Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-unlock-real-time-data-streams-with-cockroachdb-and-amazon-msk/"
     }
 ]
