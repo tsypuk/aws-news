@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate SAP Deployments with AWS Launch Wizard for SAP APIs",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automate-sap-deployments-with-aws-launch-wizard-for-sap-apis/"
+    },
+    {
         "title": "Automating the update process of a clustered SAP HANA DB using nZDT and Ansible",
         "link": "https://aws.amazon.com/blogs/awsforsap/automating-the-update-process-of-a-clustered-sap-hana-db-using-nzdt-and-ansible/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor SAP Applications using Amazon CloudWatch Application Insights",
         "link": "https://aws.amazon.com/blogs/awsforsap/monitor-sap-amazon-cloudwatch-application-insights/"
-    },
-    {
-        "title": "Modernize your SAP eco-system with SAP BTP and AWS services",
-        "link": "https://aws.amazon.com/blogs/awsforsap/modernize-your-sap-eco-system-with-sap-btp-and-aws-services/"
     }
 ]
