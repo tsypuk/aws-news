@@ -1,5 +1,17 @@
 [
     {
+        "title": "Disaster Recovery (DR) Failover to the Disconnected Edge",
+        "link": "https://aws.amazon.com/blogs/mt/disaster-recovery-dr-failover-to-the-disconnected-edge/"
+    },
+    {
+        "title": "How to drive the discussions around carbon footprint reduction to support modernization and migration to the Cloud?",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-drive-the-discussions-around-carbon-footprint-reduction-to-support-modernization-and-migration-to-the-cloud/"
+    },
+    {
+        "title": "Manage your AWS multi-account environment with Account Factory for Terraform (AFT)",
+        "link": "https://aws.amazon.com/blogs/mt/manage-your-aws-multi-account-environment-with-account-factory-for-terraform-aft/"
+    },
+    {
         "title": "Leverage generative AI to create custom dashboard widgets in Amazon CloudWatch using Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/mt/leverage-generative-ai-to-create-custom-dashboard-widgets-in-amazon-cloudwatch-using-amazon-codewhisperer/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Know Before You Go \u2013 AWS re:Invent 2023 Cloud Governance and Compliance",
         "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2023-governance-and-compliance/"
-    },
-    {
-        "title": "Creating a correction of errors document",
-        "link": "https://aws.amazon.com/blogs/mt/creating-a-correction-of-errors-document/"
-    },
-    {
-        "title": "Monitoring GPU workloads on Amazon EKS using AWS managed open-source services",
-        "link": "https://aws.amazon.com/blogs/mt/monitoring-gpu-workloads-on-amazon-eks-using-aws-managed-open-source-services/"
-    },
-    {
-        "title": "Announcing Amazon CloudWatch Container Insights with Enhanced Observability for Amazon EKS on EC2",
-        "link": "https://aws.amazon.com/blogs/mt/new-container-insights-with-enhanced-observability-for-amazon-eks/"
     }
 ]

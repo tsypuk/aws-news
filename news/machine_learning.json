@@ -1,5 +1,49 @@
 [
     {
+        "title": "Amazon EC2 DL2q instance for cost-efficient, high-performance AI inference is now generally available",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-dl2q-instance-for-cost-efficient-high-performance-ai-inference-is-now-generally-available/"
+    },
+    {
+        "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/"
+    },
+    {
+        "title": "Build a contextual chatbot for financial services using Amazon SageMaker JumpStart, Llama 2 and Amazon OpenSearch Serverless with Vector Engine",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-for-financial-services-using-amazon-sagemaker-jumpstart-llama-2-and-amazon-opensearch-serverless-with-vector-engine/"
+    },
+    {
+        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 1: Operational excellence",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-1-operational-excellence/"
+    },
+    {
+        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 2: Security",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/"
+    },
+    {
+        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 3: Reliability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-3-reliability/"
+    },
+    {
+        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 4: Performance efficiency",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-4-performance-efficiency/"
+    },
+    {
+        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 5: Cost optimization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-5-cost-optimization/"
+    },
+    {
+        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 6: Sustainability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-6-sustainability/"
+    },
+    {
+        "title": "How Amazon Search M5 saved 30% for LLM training cost by using AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/"
+    },
+    {
+        "title": "Geospatial generative AI with Amazon Bedrock and Amazon Location Service",
+        "link": "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
+    },
+    {
         "title": "How Amazon Music uses SageMaker with NVIDIA to optimize ML training and inference performance and cost",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-music-uses-sagemaker-with-nvidia-to-optimize-ml-training-and-inference-performance-and-cost/"
     },
@@ -34,49 +78,5 @@
     {
         "title": "Build a foundation model (FM) powered customer service bot with agents for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-foundation-model-fm-powered-customer-service-bot-with-agents-for-amazon-bedrock/"
-    },
-    {
-        "title": "Philips accelerates development of AI-enabled healthcare solutions with an MLOps platform built on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/philips-accelerates-development-of-ai-enabled-healthcare-solutions-with-an-mlops-platform-built-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Fine-tune Whisper models on Amazon SageMaker with LoRA",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-whisper-models-on-amazon-sagemaker-with-lora/"
-    },
-    {
-        "title": "Use foundation models to improve model accuracy with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-foundation-models-to-improve-model-accuracy-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Implement a custom AutoML job using pre-selected algorithms in Amazon SageMaker Automatic Model Tuning",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-custom-automl-job-using-pre-selected-algorithms-in-amazon-sagemaker-automatic-model-tuning/"
-    },
-    {
-        "title": "Best prompting practices for using the Llama 2 Chat LLM through Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-prompting-practices-for-using-the-llama-2-chat-llm-through-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Principal Financial Group uses AWS Post Call Analytics solution to extract omnichannel customer insights",
-        "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-uses-aws-post-call-analytics-solution-to-extract-omnichannel-customer-insights/"
-    },
-    {
-        "title": "Foundational vision models and visual prompt engineering for autonomous driving applications",
-        "link": "https://aws.amazon.com/blogs/machine-learning/foundational-vision-models-and-visual-prompt-engineering-for-autonomous-driving-applications/"
-    },
-    {
-        "title": "Flag harmful content using Amazon Comprehend toxicity detection",
-        "link": "https://aws.amazon.com/blogs/machine-learning/flag-harmful-content-using-amazon-comprehend-toxicity-detection/"
-    },
-    {
-        "title": "Fine-tune and Deploy Mistral 7B with Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-mistral-7b-with-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Harness large language models in fake news detection",
-        "link": "https://aws.amazon.com/blogs/machine-learning/harness-large-language-models-in-fake-news-detection/"
-    },
-    {
-        "title": "Model management for LoRA fine-tuned models using Llama2 and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/model-management-for-lora-fine-tuned-models-using-llama2-and-amazon-sagemaker/"
     }
 ]
