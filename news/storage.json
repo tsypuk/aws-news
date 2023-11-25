@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplify querying your archive data in Amazon S3 with Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/storage/simplify-querying-your-archive-data-in-amazon-s3-with-amazon-athena/"
+    },
+    {
+        "title": "Use Amazon FSx for Lustre to share Amazon S3 data across accounts",
+        "link": "https://aws.amazon.com/blogs/storage/using-amazon-fsx-for-lustre-to-share-amazon-s3-data-across-accounts/"
+    },
+    {
         "title": "Migrating Wasabi Object Storage to Amazon S3 using AWS DataSync",
         "link": "https://aws.amazon.com/blogs/storage/migrating-wasabi-object-storage-to-amazon-s3-using-aws-datasync/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Orca Security efficiently shares encrypted Amazon EBS Snapshots",
         "link": "https://aws.amazon.com/blogs/storage/how-orca-security-efficiently-shared-encrypted-amazon-ebs-snapshots/"
-    },
-    {
-        "title": "Derive insights from AWS DataSync task reports using AWS Glue, Amazon Athena, and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/storage/derive-insights-from-aws-datasync-task-reports-using-aws-glue-amazon-athena-and-amazon-quicksight/"
-    },
-    {
-        "title": "How Continental uses Mountpoint for Amazon S3 in autonomous driving development \u2013 accelerating simulation performance by 20%",
-        "link": "https://aws.amazon.com/blogs/storage/how-continental-uses-mountpoint-for-amazon-s3-in-autonomous-driving-development-accelerating-simulation-performance-by-20/"
     }
 ]

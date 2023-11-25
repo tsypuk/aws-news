@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining migration of virtual desktop infrastructure to AWS End User Computing",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/streamlining-migration-of-virtual-desktop-infrastructure-to-aws-end-user-computing/"
+    },
+    {
         "title": "Convert desktop apps to SaaS without refactoring using Amazon AppStream 2.0",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/convert-desktop-apps-to-saas-without-refactoring-using-amazon-appstream-2-0/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Intuit uses Amazon AppStream 2.0 to migrate QuickBooks Desktop users to QuickBooks Online",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/how-intuit-uses-amazon-appstream-2-0-to-migrate-quickbooks-desktop-users-to-quickbooks-online/"
-    },
-    {
-        "title": "Secure browser access with Amazon WorkSpaces Web",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/secure-browser-access-with-amazon-workspaces-web/"
     }
 ]
