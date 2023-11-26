@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting the most out of VMware Horizon 8 with Amazon WorkSpaces Core",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-the-most-out-of-vmware-horizon-8-with-amazon-workspaces-core/"
+    },
+    {
         "title": "Streamlining migration of virtual desktop infrastructure to AWS End User Computing",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/streamlining-migration-of-virtual-desktop-infrastructure-to-aws-end-user-computing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Generate custom usage reports for Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/generate-custom-usage-reports-for-amazon-workspaces/"
-    },
-    {
-        "title": "How Intuit uses Amazon AppStream 2.0 to migrate QuickBooks Desktop users to QuickBooks Online",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/how-intuit-uses-amazon-appstream-2-0-to-migrate-quickbooks-desktop-users-to-quickbooks-online/"
     }
 ]
