@@ -1,5 +1,9 @@
 [
     {
+        "title": "Seamless and secure end-user computing at Intuit with Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/seamless-and-secure-end-user-computing-at-intuit-with-amazon-workspaces/"
+    },
+    {
         "title": "Getting the most out of VMware Horizon 8 with Amazon WorkSpaces Core",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-the-most-out-of-vmware-horizon-8-with-amazon-workspaces-core/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Persistent storage for Amazon AppStream 2.0 Linux Fleets on Amazon Elastic File System",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/persistent-storage-for-amazon-appstream-2-0-linux-fleets-on-amazon-elastic-file-system/"
-    },
-    {
-        "title": "Generate custom usage reports for Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/generate-custom-usage-reports-for-amazon-workspaces/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling data access with Amazon S3 Access Grants",
+        "link": "https://aws.amazon.com/blogs/storage/scaling-data-access-with-amazon-s3-access-grants/"
+    },
+    {
         "title": "Simplify querying your archive data in Amazon S3 with Amazon Athena",
         "link": "https://aws.amazon.com/blogs/storage/simplify-querying-your-archive-data-in-amazon-s3-with-amazon-athena/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identify cold objects for archiving to Amazon S3 Glacier storage classes",
         "link": "https://aws.amazon.com/blogs/storage/identify-cold-objects-for-archiving-to-amazon-s3-glacier-storage-classes/"
-    },
-    {
-        "title": "How Orca Security efficiently shares encrypted Amazon EBS Snapshots",
-        "link": "https://aws.amazon.com/blogs/storage/how-orca-security-efficiently-shared-encrypted-amazon-ebs-snapshots/"
     }
 ]
