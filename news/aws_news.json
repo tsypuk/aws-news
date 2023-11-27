@@ -1,5 +1,61 @@
 [
     {
+        "title": "Use natural language to query Amazon CloudWatch logs and metrics (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/use-natural-language-to-query-amazon-cloudwatch-logs-and-metrics-preview/"
+    },
+    {
+        "title": "Increase collaboration and securely share cloud knowledge with AWS re:Post Private",
+        "link": "https://aws.amazon.com/blogs/aws/increase-collaboration-and-securely-share-cloud-knowledge-with-aws-repost-private/"
+    },
+    {
+        "title": "Use anomaly detection with AWS Glue to improve data quality (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/use-anomaly-detection-with-aws-glue-to-improve-data-quality-preview/"
+    },
+    {
+        "title": "Mutual authentication for Application Load Balancer reliably verifies certificate-based client identities",
+        "link": "https://aws.amazon.com/blogs/aws/mutual-authentication-for-application-load-balancer-to-reliably-verify-certificate-based-client-identities/"
+    },
+    {
+        "title": "Check your AWS Free Tier usage programmatically with a new API",
+        "link": "https://aws.amazon.com/blogs/aws/check-your-aws-free-tier-usage-programmatically-with-a-new-api/"
+    },
+    {
+        "title": "Use Amazon CloudWatch to consolidate hybrid, multicloud, and on-premises metrics",
+        "link": "https://aws.amazon.com/blogs/aws/new-use-amazon-cloudwatch-to-consolidate-hybrid-multi-cloud-and-on-premises-metrics/"
+    },
+    {
+        "title": "Announcing cross-region data replication for Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/aws/cross-region-data-replication-for-amazon-workspaces/"
+    },
+    {
+        "title": "Amazon Transcribe Call Analytics adds new generative AI-powered call summaries (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-transcribe-call-analytics-adds-new-generative-ai-powered-call-summaries-preview/"
+    },
+    {
+        "title": "Build generative AI apps using AWS Step Functions and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/build-generative-ai-apps-using-aws-step-functions-and-amazon-bedrock/"
+    },
+    {
+        "title": "New Cost Optimization Hub centralizes recommended actions to save you money",
+        "link": "https://aws.amazon.com/blogs/aws/new-cost-optimization-hub-to-find-all-recommended-actions-in-one-place-for-saving-you-money/"
+    },
+    {
+        "title": "Amazon CloudWatch Logs now offers automated pattern analytics and anomaly detection",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-logs-now-offers-automated-pattern-analytics-and-anomaly-detection/"
+    },
+    {
+        "title": "Amazon Managed Service for Prometheus collector provides agentless metric collection for Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-managed-service-for-prometheus-collector-provides-agentless-metric-collection-for-amazon-eks/"
+    },
+    {
+        "title": "Optimize your storage costs for rarely-accessed files with Amazon EFS Archive",
+        "link": "https://aws.amazon.com/blogs/aws/optimize-your-storage-costs-for-rarely-accessed-files-with-amazon-efs-archive/"
+    },
+    {
+        "title": "New Amazon CloudWatch log class for infrequent access logs at a reduced price",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/"
+    },
+    {
         "title": "Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/"
     },
@@ -22,61 +78,5 @@
     {
         "title": "New \u2013 Amazon EBS Snapshot Lock",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshot-lock/"
-    },
-    {
-        "title": "New \u2013 Multi-account search in AWS Resource Explorer",
-        "link": "https://aws.amazon.com/blogs/aws/new-multi-account-search-in-aws-resource-explorer/"
-    },
-    {
-        "title": "New \u2013 AWS Audit Manager now supports first third-party GRC integration",
-        "link": "https://aws.amazon.com/blogs/aws/new-aws-audit-manager-now-supports-first-third-party-grc-integration/"
-    },
-    {
-        "title": "AWS Glue Data Catalog now supports automatic compaction of Apache Iceberg tables",
-        "link": "https://aws.amazon.com/blogs/aws/aws-glue-data-catalog-now-supports-automatic-compaction-of-apache-iceberg-tables/"
-    },
-    {
-        "title": "Meet the final cohort of AWS Heroes this year \u2013 November 2023",
-        "link": "https://aws.amazon.com/blogs/aws/meet-the-final-cohort-of-aws-heroes-this-year-november-2023/"
-    },
-    {
-        "title": "Amazon Bedrock now provides access to Meta\u2019s Llama 2 Chat 13B model",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/"
-    },
-    {
-        "title": "Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2013 CloudFront security dashboard, EBS snapshots improvements, and more \u2013 November 13, 2023",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-cloudfront-security-dashboard-ebs-snapshots-improvements-and-more-november-13-2023/"
-    },
-    {
-        "title": "New for Amazon SQS \u2013\u00a0Update the AWS SDK to reduce latency",
-        "link": "https://aws.amazon.com/blogs/aws/new-for-amazon-sqs-update-the-aws-sdk-to-reduce-latency/"
-    },
-    {
-        "title": "New \u2013 Block Public Sharing of Amazon EBS Snapshots",
-        "link": "https://aws.amazon.com/blogs/aws/new-block-public-sharing-of-amazon-ebs-snapshots/"
-    },
-    {
-        "title": "New for Amazon Comprehend \u2013 Toxicity Detection",
-        "link": "https://aws.amazon.com/blogs/aws/new-for-amazon-comprehend-toxicity-detection/"
-    },
-    {
-        "title": "New \u2013 Manage Planned Lifecycle Events on AWS Health",
-        "link": "https://aws.amazon.com/blogs/aws/new-manage-planned-lifecycle-events-on-aws-health/"
-    },
-    {
-        "title": "Amazon Aurora MySQL zero-ETL integration with Amazon Redshift is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift-is-now-generally-available/"
-    },
-    {
-        "title": "New \u2013 Create application-consistent snapshots using Amazon Data Lifecycle Manager and custom scripts",
-        "link": "https://aws.amazon.com/blogs/aws/new-create-application-consistent-snapshots-using-amazon-data-lifecycle-manager-and-custom-scripts/"
-    },
-    {
-        "title": "AWS Weekly Roundup\u2014Reserve GPU capacity for short ML workloads, Finch is GA, and more\u2014November 6, 2023",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reserve-gpu-capacity-for-short-ml-workloads-finch-is-ga-and-more-november-6-2023/"
     }
 ]

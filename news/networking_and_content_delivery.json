@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using ENA Express to improve workload performance on AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-ena-express-to-improve-workload-performance-on-aws/"
+    },
+    {
+        "title": "Improving availability with Application Load Balancer automatic target weights",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/improving-availability-with-application-load-balancer-automatic-target-weights/"
+    },
+    {
         "title": "Introducing configurable Idle timeout for Connection tracking",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-configurable-idle-timeout-for-connection-tracking/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Prepare and run performance tests for Amazon Cloudfront with Real User Monitoring",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/prepare-and-run-performance-tests-for-amazon-cloudfront-with-real-user-monitoring/"
-    },
-    {
-        "title": "How to boost the performance and security of your dynamic websites with AWS edge services in a few steps",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-boost-the-performance-and-security-of-your-dynamic-websites-with-aws-edge-services-in-a-few-steps/"
-    },
-    {
-        "title": "Introducing dual-stack and IPv6-only support for Amazon Route 53 Resolver Endpoints",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-dual-stack-and-ipv6-only-support-for-amazon-route-53-resolver-endpoints/"
     }
 ]

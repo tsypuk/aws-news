@@ -1,5 +1,9 @@
 [
     {
+        "title": "Large Language Models for sentiment analysis with Amazon Redshift ML (Preview)",
+        "link": "https://aws.amazon.com/blogs/big-data/large-language-models-for-sentiment-analysis-with-amazon-redshift-ml-preview/"
+    },
+    {
         "title": "Enhance query performance using AWS Glue Data Catalog column-level statistics",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-query-performance-using-aws-glue-data-catalog-column-level-statistics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement Apache Flink real-time data enrichment patterns",
         "link": "https://aws.amazon.com/blogs/big-data/implement-apache-flink-real-time-data-enrichment-patterns/"
-    },
-    {
-        "title": "Clean up your Excel and CSV files without writing code using AWS Glue DataBrew",
-        "link": "https://aws.amazon.com/blogs/big-data/clean-up-your-excel-and-csv-files-without-writing-code-using-aws-glue-databrew/"
     }
 ]
