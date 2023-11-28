@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon MSK now provides up to 29% more throughput and up to 24% lower costs with AWS Graviton3 support",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-now-provides-up-to-29-more-throughput-and-up-to-24-lower-costs-with-aws-graviton3-support/"
+    },
+    {
+        "title": "Use Amazon EMR with S3 Access Grants to scale Spark access to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-emr-with-s3-access-grants-to-scale-spark-access-to-amazon-s3/"
+    },
+    {
         "title": "Large Language Models for sentiment analysis with Amazon Redshift ML (Preview)",
         "link": "https://aws.amazon.com/blogs/big-data/large-language-models-for-sentiment-analysis-with-amazon-redshift-ml-preview/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "What\u2019s cooking with Amazon Redshift at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/big-data/whats-cooking-with-amazon-redshift-at-aws-reinvent-2023/"
-    },
-    {
-        "title": "BMW Cloud Efficiency Analytics powered by Amazon QuickSight and Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/bmw-cloud-efficiency-analytics-powered-by-amazon-quicksight-and-amazon-athena/"
-    },
-    {
-        "title": "Implement Apache Flink real-time data enrichment patterns",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-apache-flink-real-time-data-enrichment-patterns/"
     }
 ]

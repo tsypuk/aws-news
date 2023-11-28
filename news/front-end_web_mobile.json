@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a GraphQL API for your Amazon Aurora MySQL database using AWS AppSync and the RDS Data API",
+        "link": "https://aws.amazon.com/blogs/mobile/build-a-graphql-api-for-your-amazon-aurora-mysql-database-using-aws-appsync-and-the-rds-data-api/"
+    },
+    {
+        "title": "Create a GraphQL API for any existing MySQL and PostgreSQL database",
+        "link": "https://aws.amazon.com/blogs/mobile/create-a-graphql-api-for-any-existing-mysql-and-postgresql-database/"
+    },
+    {
         "title": "Introducing the Next Generation of AWS Amplify\u2019s Fullstack Development Experience",
         "link": "https://aws.amazon.com/blogs/mobile/introducing-amplify-gen2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS AppSync WebSockets-based subscriptions for real-time updates now support nested filtering",
         "link": "https://aws.amazon.com/blogs/mobile/aws-appsync-websockets-based-subscriptions-for-real-time-updates-now-support-nested-filtering/"
-    },
-    {
-        "title": "AWS Amplify Studio now offers direct support for GraphQL APIs",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-studio-now-offers-direct-support-for-graphql-apis/"
-    },
-    {
-        "title": "AWS AppSync Merged APIs Best Practices: Part 3 \u2013 Security",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-appsync-merged-apis-best-practices-part-3-security/"
     }
 ]

@@ -1,82 +1,82 @@
 [
     {
-        "title": "Use natural language to query Amazon CloudWatch logs and metrics (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/use-natural-language-to-query-amazon-cloudwatch-logs-and-metrics-preview/"
+        "title": "Getting started with new Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/aws/getting-started-with-new-amazon-rds-for-db2/"
     },
     {
-        "title": "Increase collaboration and securely share cloud knowledge with AWS re:Post Private",
-        "link": "https://aws.amazon.com/blogs/aws/increase-collaboration-and-securely-share-cloud-knowledge-with-aws-repost-private/"
+        "title": "Announcing throughput increase and dead letter queue redrive support for Amazon SQS FIFO queues",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/"
     },
     {
-        "title": "Use anomaly detection with AWS Glue to improve data quality (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/use-anomaly-detection-with-aws-glue-to-improve-data-quality-preview/"
+        "title": "Amazon EBS Snapshots Archive is now available with AWS Backup",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ebs-snapshots-archive-is-now-available-with-aws-backup/"
     },
     {
-        "title": "Mutual authentication for Application Load Balancer reliably verifies certificate-based client identities",
-        "link": "https://aws.amazon.com/blogs/aws/mutual-authentication-for-application-load-balancer-to-reliably-verify-certificate-based-client-identities/"
+        "title": "Replication failback and increased IOPS are new for Amazon EFS",
+        "link": "https://aws.amazon.com/blogs/aws/replication-failback-and-increased-iops-are-new-for-amazon-efs/"
     },
     {
-        "title": "Check your AWS Free Tier usage programmatically with a new API",
-        "link": "https://aws.amazon.com/blogs/aws/check-your-aws-free-tier-usage-programmatically-with-a-new-api/"
+        "title": "AWS Control Tower adds new controls to help customers meet digital sovereignty requirements",
+        "link": "https://aws.amazon.com/blogs/aws/aws-control-tower-helps-customers-meet-digital-sovereignty-requirements/"
     },
     {
-        "title": "Use Amazon CloudWatch to consolidate hybrid, multicloud, and on-premises metrics",
-        "link": "https://aws.amazon.com/blogs/aws/new-use-amazon-cloudwatch-to-consolidate-hybrid-multi-cloud-and-on-premises-metrics/"
+        "title": "Announcing new diagnostic tools for AWS Partner-Led Support (PLS) participants",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-new-diagnostic-tools-for-aws-partner-led-support-pls-participants/"
     },
     {
-        "title": "Announcing cross-region data replication for Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/aws/cross-region-data-replication-for-amazon-workspaces/"
+        "title": "Manage EDI at scale with new AWS B2B Data Interchange",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-b2b-data-interchange-simplified-connections-with-your-trading-partners/"
     },
     {
-        "title": "Amazon Transcribe Call Analytics adds new generative AI-powered call summaries (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-transcribe-call-analytics-adds-new-generative-ai-powered-call-summaries-preview/"
+        "title": "Automatic restore testing and validation now available in AWS Backup",
+        "link": "https://aws.amazon.com/blogs/aws/automatic-restore-testing-and-validation-is-now-available-in-aws-backup/"
     },
     {
-        "title": "Build generative AI apps using AWS Step Functions and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/build-generative-ai-apps-using-aws-step-functions-and-amazon-bedrock/"
+        "title": "Amazon CodeWhisperer offers new AI-powered code remediation, IaC support, and integration with Visual Studio",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-codewhisperer-offers-new-ai-powered-code-remediation-iac-support-and-integration-with-visual-studio/"
     },
     {
-        "title": "New Cost Optimization Hub centralizes recommended actions to save you money",
-        "link": "https://aws.amazon.com/blogs/aws/new-cost-optimization-hub-to-find-all-recommended-actions-in-one-place-for-saving-you-money/"
+        "title": "FlexGroup Volume Management for Amazon FSx for NetApp ONTAP is now available",
+        "link": "https://aws.amazon.com/blogs/aws/flexgroup-volume-management-for-amazon-fsx-for-netapp-ontap-is-now-available/"
     },
     {
-        "title": "Amazon CloudWatch Logs now offers automated pattern analytics and anomaly detection",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-logs-now-offers-automated-pattern-analytics-and-anomaly-detection/"
+        "title": "New \u2013 Scale-out file systems for Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/aws/new-scale-out-file-systems-for-amazon-fsx-for-netapp-ontap/"
     },
     {
-        "title": "Amazon Managed Service for Prometheus collector provides agentless metric collection for Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-managed-service-for-prometheus-collector-provides-agentless-metric-collection-for-amazon-eks/"
+        "title": "Introducing shared VPC support for Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-shared-vpc-support-for-amazon-fsx-for-netapp-ontap/"
     },
     {
-        "title": "Optimize your storage costs for rarely-accessed files with Amazon EFS Archive",
-        "link": "https://aws.amazon.com/blogs/aws/optimize-your-storage-costs-for-rarely-accessed-files-with-amazon-efs-archive/"
+        "title": "Announcing on-demand data replication for Amazon FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/aws/on-demand-data-replication-for-amazon-fsx-for-openzfs/"
     },
     {
-        "title": "New Amazon CloudWatch log class for infrequent access logs at a reduced price",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/"
+        "title": "AWS Lambda functions now scale 12 times faster when handling high-volume requests",
+        "link": "https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/"
     },
     {
-        "title": "Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/"
+        "title": "IAM Access Analyzer updates: Find unused access, check policies before deployment",
+        "link": "https://aws.amazon.com/blogs/aws/iam-access-analyzer-updates-find-unused-access-check-policies-before-deployment/"
     },
     {
-        "title": "AWS Weekly Roundup \u2013 EC2 DL2q instances, PartyRock, Amplify\u2019s 6th birthday, and more \u2013 November 20, 2023",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-dl2q-instances-partyrock-amplifys-6th-birthday-and-more-november-20-2023/"
+        "title": "External endpoints and testing of task states now available in AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/"
     },
     {
-        "title": "Happy anniversary, Amazon CloudFront: 15 years of evolution and internet advancements",
-        "link": "https://aws.amazon.com/blogs/aws/happy-anniversary-amazon-cloudfront-15-years-of-evolution-and-internet-advancements/"
+        "title": "Amazon EKS Pod Identity simplifies IAM permissions for applications on Amazon EKS clusters",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/"
     },
     {
-        "title": "New \u2013 Long-Form voices for Amazon Polly",
-        "link": "https://aws.amazon.com/blogs/aws/new-long-form-voices-for-amazon-polly/"
+        "title": "New Amazon WorkSpaces Thin Client provides cost-effective, secure access to virtual desktops",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/"
     },
     {
-        "title": "Build AI apps with PartyRock and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock/"
+        "title": "Detect runtime security threats in Amazon ECS and AWS Fargate, new in Amazon GuardDuty",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-ecs-runtime-monitoring-including-aws-fargate/"
     },
     {
-        "title": "New \u2013 Amazon EBS Snapshot Lock",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshot-lock/"
+        "title": "Introducing Amazon EC2 high memory U7i Instances for large in-memory databases (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases-preview/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS and Webex collaborate to improve worker experience",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-and-webex-collaborate-to-improve-worker-experience/"
+    },
+    {
+        "title": "Exploring Amazon WorkSpaces Thin Client",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/exploring-amazon-workspaces-thin-client/"
+    },
+    {
+        "title": "Overspending on laptops? Introducing Amazon WorkSpaces Thin Client",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/overspending-on-laptops-introducing-amazon-workspaces-thin-client/"
+    },
+    {
         "title": "Seamless and secure end-user computing at Intuit with Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/seamless-and-secure-end-user-computing-at-intuit-with-amazon-workspaces/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Next-level SaaS security with Amazon WorkSpaces Web",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/next-level-saas-security-with-amazon-workspaces-web/"
-    },
-    {
-        "title": "Automate management of Amazon WorkSpaces and Amazon AppStream 2.0",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automate-management-of-amazon-workspaces-and-amazon-appstream-2-0/"
-    },
-    {
-        "title": "AWS End User Computing at re:Invent 2023: A sneak peek!",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-end-user-computing-at-reinvent-2023-a-sneak-peek/"
-    },
-    {
-        "title": "Persistent storage for Amazon AppStream 2.0 Linux Fleets on Amazon Elastic File System",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/persistent-storage-for-amazon-appstream-2-0-linux-fleets-on-amazon-elastic-file-system/"
     }
 ]

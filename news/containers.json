@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use SMB storage with Windows containers on AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/containers/use-smb-storage-with-windows-containers-on-aws-fargate/"
+    },
+    {
         "title": "Cognitive Systems Corp.\u2019s Amazon EKS journey: Wi-Fi Sensing technology",
         "link": "https://aws.amazon.com/blogs/containers/cognitive-systems-corp-s-amazon-eks-journey-wi-fi-sensing-technology/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Deliver Namespace as a Service multi tenancy for Amazon EKS using Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/deliver-namespace-as-a-service-multi-tenancy-for-amazon-eks-using-karpenter/"
-    },
-    {
-        "title": "Migration considerations \u2013 Cloud Foundry to Amazon ECS with AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/containers/migration-considerations-cloud-foundry-to-amazon-ecs-with-aws-fargate/"
     }
 ]
