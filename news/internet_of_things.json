@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building an AI Assistant for Smart Manufacturing with AWS IoT TwinMaker and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/iot/building-an-ai-assistant-for-smart-manufacturing-with-aws-iot-twinmaker-and-amazon-bedrock/"
+    },
+    {
+        "title": "The Blueprint for Industrial Transformation: Building a Strong Data Foundation with AWS IoT SiteWise",
+        "link": "https://aws.amazon.com/blogs/iot/the-blueprint-for-industrial-transformation-building-a-strong-data-foundation-with-aws-iot-sitewise/"
+    },
+    {
+        "title": "Announcing AWS IoT FleetWise vision system data (Preview)",
+        "link": "https://aws.amazon.com/blogs/iot/announcing-aws-iot-fleetwise-vision-system-data-preview/"
+    },
+    {
         "title": "Streamlining agriculture operations with serverless anomaly detection using AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/serverless-iot-anomaly-detection/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Protecting renewable energy systems using AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/protecting-renewable-energy-systems-using-aws-iot/"
-    },
-    {
-        "title": "Best practices for ingesting data from devices using AWS IoT Core and/or Amazon Kinesis",
-        "link": "https://aws.amazon.com/blogs/iot/best-practices-for-ingesting-data-from-devices-using-aws-iot-core-and-or-amazon-kinesis/"
-    },
-    {
-        "title": "How to update changing certificate requirements with AWS IoT Core",
-        "link": "https://aws.amazon.com/blogs/iot/how-to-update-changing-certificate-requirements-with-aws-iot-core/"
-    },
-    {
-        "title": "How to improve device discoverability by unlocking 50 AWS IoT thing type attributes",
-        "link": "https://aws.amazon.com/blogs/iot/how-to-improve-device-discoverability-by-unlocking-50-aws-iot-thing-type-attributes/"
     }
 ]

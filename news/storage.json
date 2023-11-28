@@ -1,5 +1,21 @@
 [
     {
+        "title": "How to develop a user-facing data application with IAM Identity Center and S3 Access Grants (Part 2)",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-develop-a-user-facing-data-application-with-iam-identity-center-and-s3-access-grants-part-2/"
+    },
+    {
+        "title": "How to develop a user-facing data application with IAM Identity Center and S3 Access Grants (Part 1)",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-develop-a-user-facing-data-application-with-iam-identity-center-and-s3-access-grants/"
+    },
+    {
+        "title": "Accelerate Amazon S3 throughput with the AWS Common Runtime",
+        "link": "https://aws.amazon.com/blogs/storage/improving-amazon-s3-throughput-for-the-aws-cli-and-boto3-with-the-aws-common-runtime/"
+    },
+    {
+        "title": "How to enforce Amazon S3 Access Grants with Immuta",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-enforce-amazon-s3-access-grants-with-immuta/"
+    },
+    {
         "title": "Scaling data access with Amazon S3 Access Grants",
         "link": "https://aws.amazon.com/blogs/storage/scaling-data-access-with-amazon-s3-access-grants/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Getting visibility into storage usage in multi-tenant Amazon S3 buckets",
         "link": "https://aws.amazon.com/blogs/storage/getting-visibility-into-storage-usage-in-multi-tenant-amazon-s3-buckets/"
-    },
-    {
-        "title": "Consolidate and query Amazon S3 Inventory reports for Region-wide object-level visibility",
-        "link": "https://aws.amazon.com/blogs/storage/consolidate-and-query-amazon-s3-inventory-reports-for-region-wide-object-level-visibility/"
-    },
-    {
-        "title": "Migrate from Google Cloud Platform (GCP) to AWS using AWS Application Migration Service",
-        "link": "https://aws.amazon.com/blogs/storage/migrate-from-google-cloud-platform-gcp-to-aws-using-aws-application-migration-service/"
-    },
-    {
-        "title": "Cross-region disaster recovery with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/cross-region-disaster-recovery-with-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Identify cold objects for archiving to Amazon S3 Glacier storage classes",
-        "link": "https://aws.amazon.com/blogs/storage/identify-cold-objects-for-archiving-to-amazon-s3-glacier-storage-classes/"
     }
 ]

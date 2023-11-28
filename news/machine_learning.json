@@ -1,5 +1,29 @@
 [
     {
+        "title": "Introducing three new NVIDIA GPU-based Amazon EC2 instances",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/"
+    },
+    {
+        "title": "Boost inference performance for LLMs with new Amazon SageMaker containers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-llms-with-new-amazon-sagemaker-containers/"
+    },
+    {
+        "title": "Simplify data prep for generative AI with Amazon SageMaker Data Wrangler",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-data-prep-for-gen-ai-with-amazon-sagemaker-data-wrangler/"
+    },
+    {
+        "title": "Democratize ML on Salesforce Data Cloud with no-code Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/democratize-ml-on-salesforce-data-cloud-with-no-code-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "AWS AI services enhanced with FM-powered capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/"
+    },
+    {
+        "title": "Elevate your self-service assistants with new generative AI features in Amazon Lex",
+        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex/"
+    },
+    {
         "title": "Amazon Transcribe announces a new speech foundation model-powered ASR system that expands support to over 100 languages",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-announces-a-new-speech-foundation-model-powered-asr-system-that-expands-support-to-over-100-languages/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 4: Performance efficiency",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-4-performance-efficiency/"
-    },
-    {
-        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 5: Cost optimization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-5-cost-optimization/"
-    },
-    {
-        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 6: Sustainability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-6-sustainability/"
-    },
-    {
-        "title": "How Amazon Search M5 saved 30% for LLM training cost by using AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/"
-    },
-    {
-        "title": "Geospatial generative AI with Amazon Bedrock and Amazon Location Service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/geospatial-generative-ai-with-amazon-bedrock-and-amazon-location-service/"
-    },
-    {
-        "title": "How Amazon Music uses SageMaker with NVIDIA to optimize ML training and inference performance and cost",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-music-uses-sagemaker-with-nvidia-to-optimize-ml-training-and-inference-performance-and-cost/"
-    },
-    {
-        "title": "Machine Learning with MATLAB and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/machine-learning-with-matlab-and-amazon-sagemaker/"
     }
 ]

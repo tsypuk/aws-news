@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify AWS Marketplace activity visualization with a single pane of glass",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/simplify-aws-marketplace-activity-visualization-with-a-single-pane-of-glass/"
+    },
+    {
         "title": "Building a real-time recommendation engine with Amazon MSK and Rockset",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/building-real-time-recommendation-engine-amazon-msk-rockset/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for receiving, accepting, and distributing Private Offers in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/best-practices-receiving-accepting-distributing-private-offers-aws-marketplace/"
-    },
-    {
-        "title": "How to improve the security of your product catalog in AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-improve-security-your-product-catalog-aws-marketplace/"
     }
 ]
