@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Smartsheet optimized cost and performance with AWS Graviton and AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/containers/how-smartsheet-optimized-cost-and-performance-with-aws-graviton-and-aws-fargate/"
+    },
+    {
         "title": "Use SMB storage with Windows containers on AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/use-smb-storage-with-windows-containers-on-aws-fargate/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How HPE Aruba Networking modernized on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/how-hpe-aruba-networking-modernized-on-amazon-eks/"
-    },
-    {
-        "title": "Deliver Namespace as a Service multi tenancy for Amazon EKS using Karpenter",
-        "link": "https://aws.amazon.com/blogs/containers/deliver-namespace-as-a-service-multi-tenancy-for-amazon-eks-using-karpenter/"
     }
 ]

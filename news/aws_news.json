@@ -1,82 +1,82 @@
 [
     {
+        "title": "New generative AI capabilities for Amazon DataZone to further simplify data cataloging and discovery (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/new-generative-ai-capabilities-for-amazon-datazone-to-further-simplify-data-cataloging-and-discovery-preview/"
+    },
+    {
+        "title": "Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service is now available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-zero-etl-integration-with-amazon-opensearch-service-is-now-generally-available/"
+    },
+    {
+        "title": "New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service",
+        "link": "https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/"
+    },
+    {
+        "title": "New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/"
+    },
+    {
+        "title": "Introducing Amazon Q, a new generative AI-powered assistant (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/"
+    },
+    {
+        "title": "Upgrade your Java applications with Amazon Q Code Transformation (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/"
+    },
+    {
+        "title": "Improve developer productivity with generative-AI powered Amazon Q in Amazon CodeCatalyst (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/improve-developer-productivity-with-generative-ai-powered-amazon-q-in-amazon-codecatalyst-preview/"
+    },
+    {
+        "title": "Amazon Q brings generative AI-powered assistance to IT pros and developers (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-q-brings-generative-ai-powered-assistance-to-it-pros-and-developers-preview/"
+    },
+    {
+        "title": "Guardrails for Amazon Bedrock helps implement safeguards customized to your use cases and responsible AI policies (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/"
+    },
+    {
+        "title": "Agents for Amazon Bedrock is now available with improved control of orchestration and visibility into reasoning",
+        "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-is-now-available-with-improved-control-of-orchestration-and-visibility-into-reasoning/"
+    },
+    {
+        "title": "Customize models in Amazon Bedrock with your own data using fine-tuning and continued pre-training",
+        "link": "https://aws.amazon.com/blogs/aws/customize-models-in-amazon-bedrock-with-your-own-data-using-fine-tuning-and-continued-pre-training/"
+    },
+    {
+        "title": "Knowledge Bases now delivers fully managed RAG experience in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/"
+    },
+    {
+        "title": "Join the preview for new memory-optimized, AWS Graviton4-powered Amazon EC2 instances (R8g)",
+        "link": "https://aws.amazon.com/blogs/aws/join-the-preview-for-new-memory-optimized-aws-graviton4-powered-amazon-ec2-instances-r8g/"
+    },
+    {
+        "title": "Announcing the new Amazon S3 Express One Zone high performance storage class",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/"
+    },
+    {
+        "title": "Reserve quantum computers, get guidance and cutting-edge capabilities with Amazon Braket Direct",
+        "link": "https://aws.amazon.com/blogs/aws/reserve-quantum-computers-get-expertise-and-cutting-edge-capabilities-with-amazon-braket-direct/"
+    },
+    {
+        "title": "AWS Step Functions Workflow Studio is now available in AWS Application Composer",
+        "link": "https://aws.amazon.com/blogs/aws/aws-step-functions-workflow-studio-is-now-available-in-aws-application-composer/"
+    },
+    {
+        "title": "Amazon CodeCatalyst introduces custom blueprints and a new enterprise tier",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/"
+    },
+    {
+        "title": "Amazon ElastiCache Serverless for Redis and Memcached is now available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-elasticache-serverless-for-redis-and-memcached-now-generally-available/"
+    },
+    {
+        "title": "Join the preview of Amazon Aurora Limitless Database",
+        "link": "https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/"
+    },
+    {
         "title": "Getting started with new Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/aws/getting-started-with-new-amazon-rds-for-db2/"
-    },
-    {
-        "title": "Announcing throughput increase and dead letter queue redrive support for Amazon SQS FIFO queues",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/"
-    },
-    {
-        "title": "Amazon EBS Snapshots Archive is now available with AWS Backup",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-ebs-snapshots-archive-is-now-available-with-aws-backup/"
-    },
-    {
-        "title": "Replication failback and increased IOPS are new for Amazon EFS",
-        "link": "https://aws.amazon.com/blogs/aws/replication-failback-and-increased-iops-are-new-for-amazon-efs/"
-    },
-    {
-        "title": "AWS Control Tower adds new controls to help customers meet digital sovereignty requirements",
-        "link": "https://aws.amazon.com/blogs/aws/aws-control-tower-helps-customers-meet-digital-sovereignty-requirements/"
-    },
-    {
-        "title": "Announcing new diagnostic tools for AWS Partner-Led Support (PLS) participants",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-new-diagnostic-tools-for-aws-partner-led-support-pls-participants/"
-    },
-    {
-        "title": "Manage EDI at scale with new AWS B2B Data Interchange",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-b2b-data-interchange-simplified-connections-with-your-trading-partners/"
-    },
-    {
-        "title": "Automatic restore testing and validation now available in AWS Backup",
-        "link": "https://aws.amazon.com/blogs/aws/automatic-restore-testing-and-validation-is-now-available-in-aws-backup/"
-    },
-    {
-        "title": "Amazon CodeWhisperer offers new AI-powered code remediation, IaC support, and integration with Visual Studio",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-codewhisperer-offers-new-ai-powered-code-remediation-iac-support-and-integration-with-visual-studio/"
-    },
-    {
-        "title": "FlexGroup Volume Management for Amazon FSx for NetApp ONTAP is now available",
-        "link": "https://aws.amazon.com/blogs/aws/flexgroup-volume-management-for-amazon-fsx-for-netapp-ontap-is-now-available/"
-    },
-    {
-        "title": "New \u2013 Scale-out file systems for Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/aws/new-scale-out-file-systems-for-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Introducing shared VPC support for Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-shared-vpc-support-for-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Announcing on-demand data replication for Amazon FSx for OpenZFS",
-        "link": "https://aws.amazon.com/blogs/aws/on-demand-data-replication-for-amazon-fsx-for-openzfs/"
-    },
-    {
-        "title": "AWS Lambda functions now scale 12 times faster when handling high-volume requests",
-        "link": "https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/"
-    },
-    {
-        "title": "IAM Access Analyzer updates: Find unused access, check policies before deployment",
-        "link": "https://aws.amazon.com/blogs/aws/iam-access-analyzer-updates-find-unused-access-check-policies-before-deployment/"
-    },
-    {
-        "title": "External endpoints and testing of task states now available in AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/"
-    },
-    {
-        "title": "Amazon EKS Pod Identity simplifies IAM permissions for applications on Amazon EKS clusters",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/"
-    },
-    {
-        "title": "New Amazon WorkSpaces Thin Client provides cost-effective, secure access to virtual desktops",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/"
-    },
-    {
-        "title": "Detect runtime security threats in Amazon ECS and AWS Fargate, new in Amazon GuardDuty",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-ecs-runtime-monitoring-including-aws-fargate/"
-    },
-    {
-        "title": "Introducing Amazon EC2 high memory U7i Instances for large in-memory databases (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases-preview/"
     }
 ]

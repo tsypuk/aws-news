@@ -1,5 +1,9 @@
 [
     {
+        "title": "Security at multiple layers for web-administered apps",
+        "link": "https://aws.amazon.com/blogs/security/security-at-multiple-layers-for-web-administered-apps/"
+    },
+    {
         "title": "Introducing new central configuration capabilities in AWS Security Hub",
         "link": "https://aws.amazon.com/blogs/security/introducing-new-central-configuration-capabilities-in-aws-security-hub/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Writing IAM Policies: Grant Access to User-Specific Folders in an Amazon S3 Bucket",
         "link": "https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an-amazon-s3-bucket/"
-    },
-    {
-        "title": "Use private key JWT authentication between Amazon Cognito user pools and an OIDC IdP",
-        "link": "https://aws.amazon.com/blogs/security/use-private-key-jwt-authentication-between-amazon-cognito-user-pools-and-an-oidc-idp/"
     }
 ]

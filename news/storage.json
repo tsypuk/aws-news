@@ -1,5 +1,25 @@
 [
     {
+        "title": "Amazon S3 Express One Zone delivers cost and performance gains for ChaosSearch customers",
+        "link": "https://aws.amazon.com/blogs/storage/amazon-s3-express-one-zone-delivers-cost-and-performance-gains-for-chaossearch-customers/"
+    },
+    {
+        "title": "Akridata accelerates processing of unstructured data with Amazon S3 Express One Zone",
+        "link": "https://aws.amazon.com/blogs/storage/akridata-accelerates-processing-of-unstructured-data-with-amazon-s3-express-one-zone/"
+    },
+    {
+        "title": "lakeFS and Amazon S3 Express One Zone: Highly performant data version control for ML/AI",
+        "link": "https://aws.amazon.com/blogs/storage/lakefs-and-amazon-s3-express-one-zone-highly-performant-data-version-control-for-ml-ai/"
+    },
+    {
+        "title": "ClickHouse Cloud & Amazon S3 Express One Zone: Making a blazing fast analytical database even faster",
+        "link": "https://aws.amazon.com/blogs/storage/clickhouse-cloud-amazon-s3-express-one-zone-making-a-blazing-fast-analytical-database-even-faster/"
+    },
+    {
+        "title": "Streamline data sharing and access control with Informatica Cloud Data Marketplace and Amazon S3 Access Grants",
+        "link": "https://aws.amazon.com/blogs/storage/streamline-data-sharing-and-access-control-with-informatica-cloud-data-marketplace-and-amazon-s3-access-grants/"
+    },
+    {
         "title": "How to develop a user-facing data application with IAM Identity Center and S3 Access Grants (Part 2)",
         "link": "https://aws.amazon.com/blogs/storage/how-to-develop-a-user-facing-data-application-with-iam-identity-center-and-s3-access-grants-part-2/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How to monitor Amazon Elastic File System (EFS) storage costs",
         "link": "https://aws.amazon.com/blogs/storage/monitor-amazon-elastic-file-system-amazon-efs-storage-costs/"
-    },
-    {
-        "title": "Manage event ordering and duplicate events with Amazon S3 Event Notifications",
-        "link": "https://aws.amazon.com/blogs/storage/manage-event-ordering-and-duplicate-events-with-amazon-s3-event-notifications/"
-    },
-    {
-        "title": "Automate Amazon S3 File Gateway on Amazon EC2 with Terraform by HashiCorp",
-        "link": "https://aws.amazon.com/blogs/storage/automate-amazon-s3-file-gateway-on-amazon-ec2-with-terraform-by-hashicorp/"
-    },
-    {
-        "title": "Transferring data from Google Cloud Filestore to Amazon EFS using AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/transferring-data-from-google-cloud-filestore-to-amazon-efs-using-aws-datasync/"
-    },
-    {
-        "title": "Retaining Amazon EC2 AMI snapshots for compliance using Amazon EBS Snapshots Archive",
-        "link": "https://aws.amazon.com/blogs/storage/retaining-amazon-ec2-ami-snapshots-for-compliance-using-amazon-ebs-snapshots-archive/"
-    },
-    {
-        "title": "Getting visibility into storage usage in multi-tenant Amazon S3 buckets",
-        "link": "https://aws.amazon.com/blogs/storage/getting-visibility-into-storage-usage-in-multi-tenant-amazon-s3-buckets/"
     }
 ]
