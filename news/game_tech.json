@@ -1,5 +1,9 @@
 [
     {
+        "title": "Riot Games prepares to close its last data center as it completes global migration to AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/riot-games-prepares-to-close-its-last-data-center-as-it-completes-global-migration-to-aws/"
+    },
+    {
         "title": "How Milestone turbocharged the \u2018Hot Wheels Unleashed\u2019 franchise with Amazon GameLift",
         "link": "https://aws.amazon.com/blogs/gametech/how-milestone-turbocharged-the-hot-wheels-unleashed-franchise-with-amazon-gamelift/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Fire up your Unreal Engine-based game on all Graviton cores",
         "link": "https://aws.amazon.com/blogs/gametech/fire-up-your-unreal-engine-based-game-on-all-graviton-cores/"
-    },
-    {
-        "title": "Compiling Unreal Engine 5 Dedicated Servers for AWS Graviton EC2 Instances",
-        "link": "https://aws.amazon.com/blogs/gametech/compiling-unreal-engine-5-dedicated-servers-for-aws-graviton-ec2-instances/"
     }
 ]
