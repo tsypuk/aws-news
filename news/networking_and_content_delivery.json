@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon Q support for network troubleshooting (preview)",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-q-support-for-network-troubleshooting/"
+    },
+    {
         "title": "Automating large scale deployments with tags for Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-large-scale-deployments-with-tags-for-amazon-vpc-lattice/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A Continuous Improvement Model for Interconnects within AWS Data Centers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/a-continuous-improvement-model-for-interconnects-within-aws-data-centers/"
-    },
-    {
-        "title": "Achieve optimal routing with AWS Cloud WAN for multi-Region networks",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/achieve-optimal-routing-with-aws-cloud-wan-for-multi-region-networks/"
     }
 ]

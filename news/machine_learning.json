@@ -1,5 +1,21 @@
 [
     {
+        "title": "Accelerate deep learning model training up to 35% with Amazon SageMaker smart sifting",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-deep-learning-model-training-up-to-35-with-amazon-sagemaker-smart-sifting/"
+    },
+    {
+        "title": "Schedule Amazon SageMaker notebook jobs and manage multi-step notebook workflows using APIs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/schedule-amazon-sagemaker-notebook-jobs-and-manage-multi-step-notebook-workflows-using-apis/"
+    },
+    {
+        "title": "Announcing new tools and capabilities to enable responsible AI innovation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-and-capabilities-to-enable-responsible-ai-innovation/"
+    },
+    {
+        "title": "Introducing the AWS Generative AI Innovation Center\u2019s Custom Model Program for Anthropic Claude",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-aws-generative-ai-innovation-centers-custom-model-program-for-anthropic-claude/"
+    },
+    {
         "title": "Learn how to assess the risk of AI systems",
         "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-to-assess-risk-of-ai-systems/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/"
-    },
-    {
-        "title": "Build a contextual chatbot for financial services using Amazon SageMaker JumpStart, Llama 2 and Amazon OpenSearch Serverless with Vector Engine",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-for-financial-services-using-amazon-sagemaker-jumpstart-llama-2-and-amazon-opensearch-serverless-with-vector-engine/"
-    },
-    {
-        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 1: Operational excellence",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-1-operational-excellence/"
-    },
-    {
-        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 2: Security",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/"
-    },
-    {
-        "title": "Build well-architected IDP solutions with a custom lens \u2013 Part 3: Reliability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-3-reliability/"
     }
 ]

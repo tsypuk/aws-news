@@ -1,5 +1,21 @@
 [
     {
+        "title": "How Eightfold AI implemented metadata security in a multi-tenant data analytics environment with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/how-eightfold-ai-implemented-metadata-security-in-a-multi-tenant-data-analytics-environment-with-amazon-redshift/"
+    },
+    {
+        "title": "Build and manage your modern data stack using dbt and AWS Glue through dbt-glue, the new \u201ctrusted\u201d dbt adapter",
+        "link": "https://aws.amazon.com/blogs/big-data/build-and-manage-your-modern-data-stack-using-dbt-and-aws-glue-through-dbt-glue-the-new-trusted-dbt-adapter/"
+    },
+    {
+        "title": "Amazon Redshift announcements at AWS re:Invent 2023 to enable analytics on all your data",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-announcements-at-aws-reinvent-2023-to-enable-analytics-on-all-your-data/"
+    },
+    {
+        "title": "Unlocking the value of data as your differentiator",
+        "link": "https://aws.amazon.com/blogs/big-data/unlocking-the-value-of-data-as-your-differentiator/"
+    },
+    {
         "title": "Announcing zero-ETL integrations with AWS Databases and Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/announcing-zero-etl-integrations-with-aws-databases-and-amazon-redshift/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Power enterprise-grade Data Vaults with Amazon Redshift \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/big-data/power-enterprise-grade-data-vaults-with-amazon-redshift-part-1/"
-    },
-    {
-        "title": "Power enterprise-grade Data Vaults with Amazon Redshift \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/power-enterprise-grade-data-vaults-with-amazon-redshift-part-2/"
-    },
-    {
-        "title": "Decentralize LF-tag management with AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/decentralize-lf-tag-management-with-aws-lake-formation/"
-    },
-    {
-        "title": "Use generative AI with Amazon EMR, Amazon Bedrock, and English SDK for Apache Spark to unlock insights",
-        "link": "https://aws.amazon.com/blogs/big-data/use-generative-ai-with-amazon-emr-amazon-bedrock-and-english-sdk-for-apache-spark-to-unlock-insights/"
-    },
-    {
-        "title": "Introducing shared VPC support on Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-shared-vpc-support-on-amazon-mwaa/"
     }
 ]
