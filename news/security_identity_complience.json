@@ -1,5 +1,17 @@
 [
     {
+        "title": "Fall 2023 SOC reports now available with 171 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/fall-2023-soc-reports-now-available-with-171-services-in-scope/"
+    },
+    {
+        "title": "Optimize AWS administration with IAM paths",
+        "link": "https://aws.amazon.com/blogs/security/optimize-aws-administration-with-iam-paths/"
+    },
+    {
+        "title": "Use IAM Roles Anywhere to help you improve security in on-premises container workloads",
+        "link": "https://aws.amazon.com/blogs/security/use-iam-roles-anywhere-to-help-you-improve-security-in-on-premises-container-workloads/"
+    },
+    {
         "title": "Security at multiple layers for web-administered apps",
         "link": "https://aws.amazon.com/blogs/security/security-at-multiple-layers-for-web-administered-apps/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Building sensitive data remediation workflows in multi-account AWS environments",
         "link": "https://aws.amazon.com/blogs/security/building-sensitive-data-remediation-workflows-in-multi-account-aws-environments/"
-    },
-    {
-        "title": "AWS Speaker Profile: Zach Miller, Senior Worldwide Security Specialist Solutions Architect",
-        "link": "https://aws.amazon.com/blogs/security/aws-speaker-profile-zach-miller-senior-worldwide-security-specialist-solutions-architect/"
-    },
-    {
-        "title": "AWS Security Profile: Tom Scholl, VP and Distinguished Engineer, AWS",
-        "link": "https://aws.amazon.com/blogs/security/aws-security-profile-tom-scholl-vp-and-distinguished-engineer-aws/"
-    },
-    {
-        "title": "Writing IAM Policies: Grant Access to User-Specific Folders in an Amazon S3 Bucket",
-        "link": "https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an-amazon-s3-bucket/"
     }
 ]

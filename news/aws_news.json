@@ -1,82 +1,82 @@
 [
     {
-        "title": "New generative AI capabilities for Amazon DataZone to further simplify data cataloging and discovery (preview)",
+        "title": "Easily deploy SaaS products with new Quick Launch in AWS Marketplace",
+        "link": "https://aws.amazon.com/blogs/aws/easily-deploy-saas-products-with-new-quick-launch-in-aws-marketplace/"
+    },
+    {
+        "title": "Package and deploy models faster with new tools and guided workflows in Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/aws/package-and-deploy-models-faster-with-new-tools-and-guided-workflows-in-amazon-sagemaker/"
+    },
+    {
+        "title": "Use natural language to explore and prepare data with a new capability of Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/aws/use-natural-language-to-explore-and-prepare-data-with-a-new-capability-of-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Amazon SageMaker adds new inference capabilities to help reduce foundation model deployment costs and latency",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/"
+    },
+    {
+        "title": "Leverage foundation models for business analysis at scale with Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/aws/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Introducing highly durable Amazon OpenSearch Service clusters with 30% price/performance improvement",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-highly-durable-amazon-opensearch-service-clusters-with-30-price-performance-improvement/"
+    },
+    {
+        "title": "Amazon SageMaker Clarify makes it easier to evaluate and select foundation models (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/"
+    },
+    {
+        "title": "Evaluate, compare, and select the best foundation models for your use case in Amazon Bedrock (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/"
+    },
+    {
+        "title": "Amazon Redshift adds new AI capabilities, including Amazon Q, to boost efficiency and productivity",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/"
+    },
+    {
+        "title": "AWS Clean Rooms Differential Privacy enhances privacy protection of your users\u2019 data (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-differential-privacy-enhances-privacy-protection-of-your-users-data-preview/"
+    },
+    {
+        "title": "AWS Clean Rooms ML helps customers and partners apply ML models without sharing raw data (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-ml-helps-customers-and-partners-apply-ml-models-without-sharing-raw-data-preview/"
+    },
+    {
+        "title": "Announcing Amazon OpenSearch Service zero-ETL integration with Amazon S3 (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-opensearch-service-zero-etl-integration-with-amazon-s3-preview/"
+    },
+    {
+        "title": "Analyze large amounts of graph data to get insights and find trends with Amazon Neptune Analytics",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-neptune-analytics-a-high-performance-graph-analytics/"
+    },
+    {
+        "title": "Vector search for Amazon DocumentDB (with MongoDB compatibility) is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/vector-search-for-amazon-documentdb-with-mongodb-compatibility-is-now-generally-available/"
+    },
+    {
+        "title": "Vector engine for Amazon OpenSearch Serverless is now available",
+        "link": "https://aws.amazon.com/blogs/aws/vector-engine-for-amazon-opensearch-serverless-is-now-generally-available/"
+    },
+    {
+        "title": "Introducing Amazon SageMaker HyperPod, a purpose-built infrastructure for distributed training at scale",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/"
+    },
+    {
+        "title": "Amazon Titan Image Generator, Multimodal Embeddings, and Text models are now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "Amazon Bedrock now provides access to Anthropic\u2019s latest model, Claude 2.1",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-anthropics-latest-model-claude-2-1/"
+    },
+    {
+        "title": "New generative AI capabilities for Amazon DataZone further simplify data cataloging and discovery (preview)",
         "link": "https://aws.amazon.com/blogs/aws/new-generative-ai-capabilities-for-amazon-datazone-to-further-simplify-data-cataloging-and-discovery-preview/"
     },
     {
         "title": "Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service is now available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-zero-etl-integration-with-amazon-opensearch-service-is-now-generally-available/"
-    },
-    {
-        "title": "New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service",
-        "link": "https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/"
-    },
-    {
-        "title": "New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/"
-    },
-    {
-        "title": "Introducing Amazon Q, a new generative AI-powered assistant (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/"
-    },
-    {
-        "title": "Upgrade your Java applications with Amazon Q Code Transformation (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/"
-    },
-    {
-        "title": "Improve developer productivity with generative-AI powered Amazon Q in Amazon CodeCatalyst (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/improve-developer-productivity-with-generative-ai-powered-amazon-q-in-amazon-codecatalyst-preview/"
-    },
-    {
-        "title": "Amazon Q brings generative AI-powered assistance to IT pros and developers (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-q-brings-generative-ai-powered-assistance-to-it-pros-and-developers-preview/"
-    },
-    {
-        "title": "Guardrails for Amazon Bedrock helps implement safeguards customized to your use cases and responsible AI policies (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/"
-    },
-    {
-        "title": "Agents for Amazon Bedrock is now available with improved control of orchestration and visibility into reasoning",
-        "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-is-now-available-with-improved-control-of-orchestration-and-visibility-into-reasoning/"
-    },
-    {
-        "title": "Customize models in Amazon Bedrock with your own data using fine-tuning and continued pre-training",
-        "link": "https://aws.amazon.com/blogs/aws/customize-models-in-amazon-bedrock-with-your-own-data-using-fine-tuning-and-continued-pre-training/"
-    },
-    {
-        "title": "Knowledge Bases now delivers fully managed RAG experience in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/"
-    },
-    {
-        "title": "Join the preview for new memory-optimized, AWS Graviton4-powered Amazon EC2 instances (R8g)",
-        "link": "https://aws.amazon.com/blogs/aws/join-the-preview-for-new-memory-optimized-aws-graviton4-powered-amazon-ec2-instances-r8g/"
-    },
-    {
-        "title": "Announcing the new Amazon S3 Express One Zone high performance storage class",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/"
-    },
-    {
-        "title": "Reserve quantum computers, get guidance and cutting-edge capabilities with Amazon Braket Direct",
-        "link": "https://aws.amazon.com/blogs/aws/reserve-quantum-computers-get-expertise-and-cutting-edge-capabilities-with-amazon-braket-direct/"
-    },
-    {
-        "title": "AWS Step Functions Workflow Studio is now available in AWS Application Composer",
-        "link": "https://aws.amazon.com/blogs/aws/aws-step-functions-workflow-studio-is-now-available-in-aws-application-composer/"
-    },
-    {
-        "title": "Amazon CodeCatalyst introduces custom blueprints and a new enterprise tier",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/"
-    },
-    {
-        "title": "Amazon ElastiCache Serverless for Redis and Memcached is now available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-elasticache-serverless-for-redis-and-memcached-now-generally-available/"
-    },
-    {
-        "title": "Join the preview of Amazon Aurora Limitless Database",
-        "link": "https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/"
-    },
-    {
-        "title": "Getting started with new Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/aws/getting-started-with-new-amazon-rds-for-db2/"
     }
 ]
