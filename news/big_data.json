@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrate Okta with Amazon Redshift Query Editor V2 using AWS IAM Identity Center for seamless Single Sign-On",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-okta-with-amazon-redshift-query-editor-v2-using-aws-iam-identity-center-for-seamless-single-sign-on/"
+    },
+    {
+        "title": "Prepare and load Amazon S3 data into Teradata using AWS Glue through its native connector for Teradata Vantage",
+        "link": "https://aws.amazon.com/blogs/big-data/prepare-and-load-amazon-s3-data-into-teradata-using-aws-glue-through-its-native-connector-for-teradata-vantage/"
+    },
+    {
         "title": "How Eightfold AI implemented metadata security in a multi-tenant data analytics environment with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/how-eightfold-ai-implemented-metadata-security-in-a-multi-tenant-data-analytics-environment-with-amazon-redshift/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Visualize Amazon DynamoDB insights in Amazon QuickSight using the Amazon Athena DynamoDB connector and AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/visualize-amazon-dynamodb-insights-in-amazon-quicksight-using-the-amazon-athena-dynamodb-connector-and-aws-glue/"
-    },
-    {
-        "title": "Implement data warehousing solution using dbt on Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-data-warehousing-solution-using-dbt-on-amazon-redshift/"
-    },
-    {
-        "title": "Power enterprise-grade Data Vaults with Amazon Redshift \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/power-enterprise-grade-data-vaults-with-amazon-redshift-part-1/"
     }
 ]

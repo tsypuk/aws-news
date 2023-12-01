@@ -1,5 +1,57 @@
 [
     {
+        "title": "Welcome to a New Era of Building in the Cloud with Generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/welcome-to-a-new-era-of-building-in-the-cloud-with-generative-ai-on-aws/"
+    },
+    {
+        "title": "Package and deploy classical ML and LLMs easily with Amazon SageMaker, part 2: Interactive User Experiences in SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/package-and-deploy-classical-ml-and-llms-easily-with-amazon-sagemaker-part-2-interactive-user-experiences-in-sagemaker-studio/"
+    },
+    {
+        "title": "Package and deploy classical ML and LLMs easily with Amazon SageMaker, part 1: PySDK Improvements",
+        "link": "https://aws.amazon.com/blogs/machine-learning/package-and-deploy-classical-ml-and-llms-easily-with-amazon-sagemaker-part-1-pysdk-improvements/"
+    },
+    {
+        "title": "New \u2013 Code Editor, based on Code-OSS VS Code Open Source now available in Amazon SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-code-editor-based-on-code-oss-vs-code-open-source-now-available-in-amazon-sagemaker-studio/"
+    },
+    {
+        "title": "Scale foundation model inference to hundreds of models with Amazon SageMaker \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-foundation-model-inference-to-hundreds-of-models-with-amazon-sagemaker-part-1/"
+    },
+    {
+        "title": "Reduce model deployment costs by 50% on average using the latest features of Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-model-deployment-costs-by-50-on-average-using-sagemakers-latest-features/"
+    },
+    {
+        "title": "Minimize real-time inference latency by using Amazon SageMaker routing strategies",
+        "link": "https://aws.amazon.com/blogs/machine-learning/minimize-real-time-inference-latency-by-using-amazon-sagemaker-routing-strategies/"
+    },
+    {
+        "title": "Build and evaluate machine learning models with advanced configurations using the SageMaker Canvas model leaderboard",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-evaluate-machine-learning-models-with-advanced-configurations-using-the-sagemaker-canvas-model-leaderboard/"
+    },
+    {
+        "title": "Introducing Amazon SageMaker HyperPod to train foundation models at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-to-train-foundation-models-at-scale/"
+    },
+    {
+        "title": "Easily build semantic image search using Amazon Titan",
+        "link": "https://aws.amazon.com/blogs/machine-learning/easily-build-semantic-image-search-using-amazon-titan/"
+    },
+    {
+        "title": "Evaluate large language models for quality and responsibility",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-large-language-models-for-quality-and-responsibility/"
+    },
+    {
+        "title": "Accelerate data preparation for ML in Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-data-preparation-for-ml-with-comprehensive-data-preparation-capabilities-and-a-natural-language-interface-in-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Operationalize LLM Evaluation at Scale using Amazon SageMaker Clarify and MLOps services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/operationalize-llm-evaluation-at-scale-using-amazon-sagemaker-clarify-and-mlops-services/"
+    },
+    {
         "title": "Accelerate deep learning model training up to 35% with Amazon SageMaker smart sifting",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-deep-learning-model-training-up-to-35-with-amazon-sagemaker-smart-sifting/"
     },
@@ -26,57 +78,5 @@
     {
         "title": "Boost inference performance for LLMs with new Amazon SageMaker containers",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-llms-with-new-amazon-sagemaker-containers/"
-    },
-    {
-        "title": "Simplify data prep for generative AI with Amazon SageMaker Data Wrangler",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-data-prep-for-gen-ai-with-amazon-sagemaker-data-wrangler/"
-    },
-    {
-        "title": "Democratize ML on Salesforce Data Cloud with no-code Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/democratize-ml-on-salesforce-data-cloud-with-no-code-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "AWS AI services enhanced with FM-powered capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-services-enhanced-with-fm-powered-capabilities/"
-    },
-    {
-        "title": "Elevate your self-service assistants with new generative AI features in Amazon Lex",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-your-self-service-assistants-with-new-generative-ai-features-in-amazon-lex/"
-    },
-    {
-        "title": "Amazon Transcribe announces a new speech foundation model-powered ASR system that expands support to over 100 languages",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-transcribe-announces-a-new-speech-foundation-model-powered-asr-system-that-expands-support-to-over-100-languages/"
-    },
-    {
-        "title": "Drive hyper-personalized customer experiences with Amazon Personalize and generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/"
-    },
-    {
-        "title": "Build brand loyalty by recommending actions to your users with Amazon Personalize Next Best Action",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-brand-loyalty-by-recommending-actions-to-your-users-with-amazon-personalize-next-best-action/"
-    },
-    {
-        "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/"
-    },
-    {
-        "title": "Automating product description generation with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automating-product-description-generation-with-amazon-bedrock/"
-    },
-    {
-        "title": "Optimizing costs for Amazon SageMaker Canvas with automatic shutdown of idle apps",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-amazon-sagemaker-canvas-with-automatic-shutdown-of-idle-apps/"
-    },
-    {
-        "title": "How SnapLogic built a text-to-pipeline application with Amazon Bedrock to translate business intent into action",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-snaplogic-built-a-text-to-pipeline-application-with-amazon-bedrock-to-translate-business-intent-into-action/"
-    },
-    {
-        "title": "Amazon EC2 DL2q instance for cost-efficient, high-performance AI inference is now generally available",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-dl2q-instance-for-cost-efficient-high-performance-ai-inference-is-now-generally-available/"
-    },
-    {
-        "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
-        "link": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/"
     }
 ]
