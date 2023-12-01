@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use CodeWhisperer to identify issues and use suggestions to improve code security in your IDE",
+        "link": "https://aws.amazon.com/blogs/security/use-codewhisperer-to-identify-issues-and-use-suggestions-to-improve-code-security-in-your-ide/"
+    },
+    {
+        "title": "How to improve cross-account access for SaaS applications accessing customer accounts",
+        "link": "https://aws.amazon.com/blogs/security/how-to-improve-cross-account-access-for-saas-applications-accessing-customer-accounts/"
+    },
+    {
         "title": "Fall 2023 SOC reports now available with 171 services in scope",
         "link": "https://aws.amazon.com/blogs/security/fall-2023-soc-reports-now-available-with-171-services-in-scope/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use scalable controls for AWS services accessing your resources",
         "link": "https://aws.amazon.com/blogs/security/use-scalable-controls-for-aws-services-accessing-your-resources/"
-    },
-    {
-        "title": "Automate and enhance your code security with AI-powered services",
-        "link": "https://aws.amazon.com/blogs/security/automate-and-enhance-your-code-security-with-ai-powered-services/"
-    },
-    {
-        "title": "Building sensitive data remediation workflows in multi-account AWS environments",
-        "link": "https://aws.amazon.com/blogs/security/building-sensitive-data-remediation-workflows-in-multi-account-aws-environments/"
     }
 ]

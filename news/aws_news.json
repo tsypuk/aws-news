@@ -1,5 +1,33 @@
 [
     {
+        "title": "Use AWS Fault Injection Service to demonstrate multi-region and multi-AZ application resilience",
+        "link": "https://aws.amazon.com/blogs/aws/use-aws-fault-injection-service-to-demonstrate-multi-region-and-multi-az-application-resilience/"
+    },
+    {
+        "title": "Zonal autoshift \u2013 Automatically shift your traffic away from Availability Zones when we detect potential issues",
+        "link": "https://aws.amazon.com/blogs/aws/zonal-autoshift-automatically-shift-your-traffic-away-from-availability-zones-when-we-detect-potential-issues/"
+    },
+    {
+        "title": "IDE extension for AWS Application Composer enhances visual modern applications development with AI-generated IaC",
+        "link": "https://aws.amazon.com/blogs/aws/ide-extension-for-aws-application-composer-enhances-visual-modern-applications-development-with-ai-generated-iac/"
+    },
+    {
+        "title": "Amazon SageMaker Studio adds web-based interface, Code Editor, flexible workspaces, and streamlines user onboarding",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-adds-web-based-interface-code-editor-flexible-workspaces-and-streamlines-user-onboarding/"
+    },
+    {
+        "title": "Three new capabilities for Amazon Inspector broaden the realm of vulnerability scanning for workloads",
+        "link": "https://aws.amazon.com/blogs/aws/three-new-capabilities-for-amazon-inspector-broaden-the-realm-of-vulnerability-scanning-for-workloads/"
+    },
+    {
+        "title": "Amazon CloudWatch Application Signals for automatic instrumentation of your applications (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-application-signals-for-automatic-instrumentation-of-your-applications-preview/"
+    },
+    {
+        "title": "New myApplications in the AWS Management Console simplifies managing your application resources",
+        "link": "https://aws.amazon.com/blogs/aws/new-myapplications-in-the-aws-management-console-simplifies-managing-your-application-resources/"
+    },
+    {
         "title": "Easily deploy SaaS products with new Quick Launch in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/aws/easily-deploy-saas-products-with-new-quick-launch-in-aws-marketplace/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Analyze large amounts of graph data to get insights and find trends with Amazon Neptune Analytics",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-neptune-analytics-a-high-performance-graph-analytics/"
-    },
-    {
-        "title": "Vector search for Amazon DocumentDB (with MongoDB compatibility) is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/vector-search-for-amazon-documentdb-with-mongodb-compatibility-is-now-generally-available/"
-    },
-    {
-        "title": "Vector engine for Amazon OpenSearch Serverless is now available",
-        "link": "https://aws.amazon.com/blogs/aws/vector-engine-for-amazon-opensearch-serverless-is-now-generally-available/"
-    },
-    {
-        "title": "Introducing Amazon SageMaker HyperPod, a purpose-built infrastructure for distributed training at scale",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/"
-    },
-    {
-        "title": "Amazon Titan Image Generator, Multimodal Embeddings, and Text models are now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "Amazon Bedrock now provides access to Anthropic\u2019s latest model, Claude 2.1",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-anthropics-latest-model-claude-2-1/"
-    },
-    {
-        "title": "New generative AI capabilities for Amazon DataZone further simplify data cataloging and discovery (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/new-generative-ai-capabilities-for-amazon-datazone-to-further-simplify-data-cataloging-and-discovery-preview/"
-    },
-    {
-        "title": "Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service is now available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-zero-etl-integration-with-amazon-opensearch-service-is-now-generally-available/"
     }
 ]
