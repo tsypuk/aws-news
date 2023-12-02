@@ -1,5 +1,9 @@
 [
     {
+        "title": "Four APM features to elevate your observability experience",
+        "link": "https://aws.amazon.com/blogs/mt/four-apm-features-to-elevate-your-observability-experience/"
+    },
+    {
         "title": "AWS Audit Manager launches AWS Best Practices Framework for Generative AI",
         "link": "https://aws.amazon.com/blogs/mt/aws-audit-manager-launches-aws-best-practices-framework-for-generative-ai/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Extend your Amazon Managed Grafana experience with Grafana community plugins",
         "link": "https://aws.amazon.com/blogs/mt/extend-your-amazon-managed-grafana-experience-with-grafana-community-plugins/"
-    },
-    {
-        "title": "Use AWS Config inventory and compliance dashboards for a unified view of resource inventory and compliance",
-        "link": "https://aws.amazon.com/blogs/mt/use-aws-config-inventory-and-compliance-dashboards-for-a-unified-view-of-resource-inventory-and-compliance/"
     }
 ]

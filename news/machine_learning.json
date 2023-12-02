@@ -1,5 +1,17 @@
 [
     {
+        "title": "Boosting developer productivity: How Deloitte uses Amazon SageMaker Canvas for no-code/low-code machine learning",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-developer-productivity-how-deloitte-uses-amazon-sagemaker-canvas-for-no-code-low-code-machine-learning/"
+    },
+    {
+        "title": "Experience the new and improved Amazon SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/experience-the-new-and-improved-amazon-sagemaker-studio/"
+    },
+    {
+        "title": "Amazon SageMaker simplifies setting up SageMaker domain for enterprises to onboard their users to SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-simplifies-setting-up-sagemaker-domain-for-enterprises-to-onboard-their-users-to-sagemaker/"
+    },
+    {
         "title": "Welcome to a New Era of Building in the Cloud with Generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/welcome-to-a-new-era-of-building-in-the-cloud-with-generative-ai-on-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing the AWS Generative AI Innovation Center\u2019s Custom Model Program for Anthropic Claude",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-aws-generative-ai-innovation-centers-custom-model-program-for-anthropic-claude/"
-    },
-    {
-        "title": "Learn how to assess the risk of AI systems",
-        "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-to-assess-risk-of-ai-systems/"
-    },
-    {
-        "title": "Introducing three new NVIDIA GPU-based Amazon EC2 instances",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-three-new-nvidia-gpu-based-amazon-ec2-instances/"
-    },
-    {
-        "title": "Boost inference performance for LLMs with new Amazon SageMaker containers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-llms-with-new-amazon-sagemaker-containers/"
     }
 ]
