@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use custom attributes for Attribute-Based Access Control (ABAC) with Microsoft Entra ID and AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-custom-attributes-for-attribute-based-access-control-abac-with-microsoft-entra-id-and-aws-iam-identity-center/"
+    },
+    {
         "title": "How to deploy Extended Security Updates for Windows Server 2012 on Amazon EC2 with AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-extended-security-updates-for-windows-server-2012-on-amazon-ec2-with-aws-systems-manager/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Exporting the Windows Failover Cluster log to CloudWatch",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/exporting-the-windows-failover-cluster-log-to-cloudwatch/"
-    },
-    {
-        "title": "Integrate multiple Microsoft Entra ID tenants with AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-multiple-microsoft-entra-id-tenants-with-aws-iam-identity-center/"
     }
 ]
