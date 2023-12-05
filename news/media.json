@@ -1,5 +1,13 @@
 [
     {
+        "title": "Visualize AWS Health events using Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/visualize-aws-health-events-using-amazon-managed-grafana/"
+    },
+    {
+        "title": "Modernizing WebLogic application to Cloud Native on AWS (Part 1)",
+        "link": "https://aws.amazon.com/blogs/mt/modernizing-weblogic-monolith-to-cloud-native-on-aws/"
+    },
+    {
         "title": "Four APM features to elevate your observability experience",
         "link": "https://aws.amazon.com/blogs/mt/four-apm-features-to-elevate-your-observability-experience/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing AWS CloudTrail Lake one-year extendable retention pricing option",
         "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-lake-one-year-extendable-retention-pricing-option/"
-    },
-    {
-        "title": "Monitoring MongoDB Atlas with AWS Managed Grafana and Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/monitoring-mongodb-atlas-with-aws-managed-grafana-and-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "Extend your Amazon Managed Grafana experience with Grafana community plugins",
-        "link": "https://aws.amazon.com/blogs/mt/extend-your-amazon-managed-grafana-experience-with-grafana-community-plugins/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build Better Engagement Using the AWS Community Engagement Flywheel: Part 2 of 3",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-better-engagement-using-the-aws-community-engagement-flywheel-part-2-of-3/"
+    },
+    {
+        "title": "Build Better Engagement using the AWS Community Engagement Flywheel: Part 1 of 3",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-better-engagement-using-the-aws-community-engagement-flywheel-part-1-of-3/"
+    },
+    {
         "title": "Simplify your SMS setup with the new Amazon Pinpoint SMS console",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/send-sms-using-the-new-amazon-pinpoint-sms-console/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to Grant Another SES Account or User Permission To Send Emails",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-grant-another-ses-account-or-user-permission-to-send-emails/"
-    },
-    {
-        "title": "How To Build an Email Service on SES",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-build-an-email-service-on-ses/"
-    },
-    {
-        "title": "How to list over 1000 email addresses from account-level suppression list",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-list-over-1000-email-addresses-from-account-level-suppression-list/"
     }
 ]

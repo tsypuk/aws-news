@@ -1,5 +1,13 @@
 [
     {
+        "title": "Architectures for managing array data in PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/architectures-for-managing-array-data-in-postgresql/"
+    },
+    {
+        "title": "Automate the schema validation process for multiple databases like SQL Server, Oracle, PostgreSQL, and MySQL databases using Python",
+        "link": "https://aws.amazon.com/blogs/database/automate-the-schema-validation-process-for-multiple-databases-like-sql-server-oracle-postgresql-and-mysql-databases-using-python/"
+    },
+    {
         "title": "Solutions for building modern applications with Amazon ElastiCache and Amazon MemoryDB for Redis",
         "link": "https://aws.amazon.com/blogs/database/solutions-for-building-modern-applications-with-amazon-elasticache-and-amazon-memorydb-for-redis/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon RDS for SQL Server now supports SQL Server 2022",
         "link": "https://aws.amazon.com/blogs/database/amazon-rds-for-sql-server-now-supports-sql-server-2022/"
-    },
-    {
-        "title": "Announcing frozen collections for Amazon Keyspaces",
-        "link": "https://aws.amazon.com/blogs/database/announcing-frozen-collections-in-amazon-keyspaces/"
-    },
-    {
-        "title": "Achieve over 500 million requests per second per cluster with Amazon ElastiCache for Redis 7.1",
-        "link": "https://aws.amazon.com/blogs/database/achieve-over-500-million-requests-per-second-per-cluster-with-amazon-elasticache-for-redis-7-1/"
     }
 ]
