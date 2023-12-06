@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying AWS Load Balancer Controller on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/deploying-aws-load-balancer-controller-on-amazon-eks/"
+    },
+    {
         "title": "How to migrate your VPC endpoint service backend targets",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-migrate-your-vpc-endpoint-service-backend-targets/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build Global SD-WANs with AWS Cloud WAN Tunnel-less Connect",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-global-sd-wans-with-aws-cloud-wan-tunnel-less-connect/"
-    },
-    {
-        "title": "AWS Verified Access Integration with AWS IAM Identity Center and SAML 2.0 Identity Providers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-verified-access-integration-with-aws-iam-identity-center-and-saml-2-0-identity-providers/"
     }
 ]

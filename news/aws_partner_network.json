@@ -1,5 +1,13 @@
 [
     {
+        "title": "Federate Single Sign-On Access to Amazon Athena Query Editor with OneLogin",
+        "link": "https://aws.amazon.com/blogs/apn/federate-single-sign-on-access-to-amazon-athena-query-editor-with-onelogin/"
+    },
+    {
+        "title": "CallRail Paves the Way for Further Cloud Modernization by Migrating to Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/apn/callrail-paves-the-way-for-further-cloud-modernization-by-migrating-to-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "How MYCOM OSI Optimized SaaS Storage with Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/apn/how-mycom-osi-optimized-saas-storage-with-amazon-fsx-for-netapp-ontap/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How CubeAngle Built a Serverless File Ingestion and Processing Framework Powered by AWS",
         "link": "https://aws.amazon.com/blogs/apn/how-cubeangle-built-a-serverless-file-ingestion-and-processing-framework-powered-by-aws/"
-    },
-    {
-        "title": "How to Streamline API Development on Amazon API Gateway Using SmartBear\u2019s SwaggerHub",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-streamline-api-development-on-amazon-api-gateway-using-smartbear-swaggerhub/"
-    },
-    {
-        "title": "The Future of Search: Exploring Generative AI Chat-Based Solutions with AWS and Slalom",
-        "link": "https://aws.amazon.com/blogs/apn/the-future-of-search-exploring-generative-ai-chat-based-solutions-with-aws-and-slalom/"
     }
 ]

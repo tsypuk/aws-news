@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify Modernization of your monolithic application using Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/mt/simplify-modernization-of-your-monolithic-application-using-amazon-vpc-lattice/"
+    },
+    {
         "title": "Visualize AWS Health events using Amazon Managed Grafana",
         "link": "https://aws.amazon.com/blogs/mt/visualize-aws-health-events-using-amazon-managed-grafana/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The Mergers & Acquisitions Cloud Center of Excellence (M&A CCoE) \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/mt/the-mergers-acquisitions-cloud-center-of-excellence-ma-ccoe-part-1/"
-    },
-    {
-        "title": "Announcing AWS CloudTrail Lake one-year extendable retention pricing option",
-        "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-lake-one-year-extendable-retention-pricing-option/"
     }
 ]

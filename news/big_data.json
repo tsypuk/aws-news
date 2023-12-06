@@ -1,5 +1,9 @@
 [
     {
+        "title": "How HR&A uses Amazon Redshift spatial analytics on Amazon Redshift Serverless to measure digital equity in states across the US",
+        "link": "https://aws.amazon.com/blogs/big-data/how-hra-uses-amazon-redshift-spatial-analytics-on-amazon-redshift-serverless-to-measure-digital-equity-in-states-across-the-us/"
+    },
+    {
         "title": "Integrate Okta with Amazon Redshift Query Editor V2 using AWS IAM Identity Center for seamless Single Sign-On",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-okta-with-amazon-redshift-query-editor-v2-using-aws-iam-identity-center-for-seamless-single-sign-on/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Speed up queries with the cost-based optimizer in Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/speed-up-queries-with-cost-based-optimizer-in-amazon-athena/"
-    },
-    {
-        "title": "Visualize Amazon DynamoDB insights in Amazon QuickSight using the Amazon Athena DynamoDB connector and AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/visualize-amazon-dynamodb-insights-in-amazon-quicksight-using-the-amazon-athena-dynamodb-connector-and-aws-glue/"
     }
 ]
