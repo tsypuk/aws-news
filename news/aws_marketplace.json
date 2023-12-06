@@ -1,5 +1,9 @@
 [
     {
+        "title": "Updating pricing in your AMI products in AWS Marketplace using Catalog APIs",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/updating-pricing-in-your-ami-products-in-aws-marketplace-using-catalog-apis/"
+    },
+    {
         "title": "Automate private offers using AWS Marketplace Catalog API",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/automate-private-offers-using-aws-marketplace-catalog-api/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using HiPaaS to convert your data to FHIR to use with AWS HealthLake",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/using-hipaas-convert-data-fhir-integrate-aws-healthlake/"
-    },
-    {
-        "title": "Speed product provisioning with customized SaaS landing page fields",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/speed-product-provisioning-customized-saas-landing-page-fields/"
     }
 ]

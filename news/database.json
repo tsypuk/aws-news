@@ -1,5 +1,9 @@
 [
     {
+        "title": "Convert Oracle DBMS_LOB and collections to Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL using AWS SCT extension packs",
+        "link": "https://aws.amazon.com/blogs/database/convert-oracle-dbms_lob-and-collections-to-amazon-rds-for-postgresql-or-amazon-aurora-postgresql-using-aws-sct-extension-packs/"
+    },
+    {
         "title": "Architectures for managing array data in PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/architectures-for-managing-array-data-in-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Perform minor version upgrades with a downtime of 1 second or less with Amazon RDS Proxy and Amazon RDS Multi-AZ deployments with two readable standbys",
         "link": "https://aws.amazon.com/blogs/database/perform-minor-version-upgrades-with-a-downtime-of-1-second-or-less-with-amazon-rds-proxy-and-amazon-rds-multi-az-deployments-with-two-readable-standbys/"
-    },
-    {
-        "title": "Amazon RDS for SQL Server now supports SQL Server 2022",
-        "link": "https://aws.amazon.com/blogs/database/amazon-rds-for-sql-server-now-supports-sql-server-2022/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Enable faster training with Amazon SageMaker data parallel library",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enable-faster-training-with-amazon-sagemaker-data-parallel-library/"
+    },
+    {
+        "title": "Use custom metadata created by Amazon Comprehend to intelligently process insurance claims using Amazon Kendra",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-custom-metadata-created-by-amazon-comprehend-to-intelligently-process-insurance-claims-using-amazon-kendra/"
+    },
+    {
+        "title": "Foundational data protection for enterprise LLM acceleration with Protopia AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/foundational-data-protection-for-enterprise-llm-acceleration-with-protopia-ai/"
+    },
+    {
         "title": "How Getir reduced model training durations by 90% with Amazon SageMaker and AWS Batch",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-getir-reduced-model-training-durations-by-90-with-amazon-sagemaker-and-aws-batch/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Operationalize LLM Evaluation at Scale using Amazon SageMaker Clarify and MLOps services",
         "link": "https://aws.amazon.com/blogs/machine-learning/operationalize-llm-evaluation-at-scale-using-amazon-sagemaker-clarify-and-mlops-services/"
-    },
-    {
-        "title": "Accelerate deep learning model training up to 35% with Amazon SageMaker smart sifting",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-deep-learning-model-training-up-to-35-with-amazon-sagemaker-smart-sifting/"
-    },
-    {
-        "title": "Schedule Amazon SageMaker notebook jobs and manage multi-step notebook workflows using APIs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/schedule-amazon-sagemaker-notebook-jobs-and-manage-multi-step-notebook-workflows-using-apis/"
-    },
-    {
-        "title": "Announcing new tools and capabilities to enable responsible AI innovation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-and-capabilities-to-enable-responsible-ai-innovation/"
     }
 ]
