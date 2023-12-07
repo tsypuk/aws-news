@@ -1,5 +1,21 @@
 [
     {
+        "title": "Mitigate hallucinations through Retrieval Augmented Generation using Pinecone vector database & Llama-2 from Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mitigate-hallucinations-through-retrieval-augmented-generation-using-pinecone-vector-database-llama-2-from-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Techniques for automatic summarization of documents using language models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/techniques-for-automatic-summarization-of-documents-using-language-models/"
+    },
+    {
+        "title": "Boosting RAG-based intelligent document assistants using entity extraction, SQL querying, and agents with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-rag-based-intelligent-document-assistants-using-entity-extraction-sql-querying-and-agents-with-amazon-bedrock/"
+    },
+    {
+        "title": "How Q4 Inc. used Amazon Bedrock, RAG, and SQLDatabaseChain to address numerical and structured dataset challenges building their Q&A chatbot",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-q4-inc-used-amazon-bedrock-rag-and-sqldatabasechain-to-address-numerical-and-structured-dataset-challenges-building-their-qa-chatbot/"
+    },
+    {
         "title": "Enable faster training with Amazon SageMaker data parallel library",
         "link": "https://aws.amazon.com/blogs/machine-learning/enable-faster-training-with-amazon-sagemaker-data-parallel-library/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Introducing Amazon SageMaker HyperPod to train foundation models at scale",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-to-train-foundation-models-at-scale/"
-    },
-    {
-        "title": "Easily build semantic image search using Amazon Titan",
-        "link": "https://aws.amazon.com/blogs/machine-learning/easily-build-semantic-image-search-using-amazon-titan/"
-    },
-    {
-        "title": "Evaluate large language models for quality and responsibility",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-large-language-models-for-quality-and-responsibility/"
-    },
-    {
-        "title": "Accelerate data preparation for ML in Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-data-preparation-for-ml-with-comprehensive-data-preparation-capabilities-and-a-natural-language-interface-in-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Operationalize LLM Evaluation at Scale using Amazon SageMaker Clarify and MLOps services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/operationalize-llm-evaluation-at-scale-using-amazon-sagemaker-clarify-and-mlops-services/"
     }
 ]

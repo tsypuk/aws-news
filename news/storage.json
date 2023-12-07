@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve compute utilization with more Amazon EBS volume attachments on 7th generation Amazon EC2 instances",
+        "link": "https://aws.amazon.com/blogs/storage/improve-compute-utilization-with-more-amazon-ebs-volume-attachments-on-7th-generation-amazon-ec2-instances/"
+    },
+    {
         "title": "Amazon S3 Express One Zone delivers cost and performance gains for ChaosSearch customers",
         "link": "https://aws.amazon.com/blogs/storage/amazon-s3-express-one-zone-delivers-cost-and-performance-gains-for-chaossearch-customers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing electronic health care records at scale with Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/optimizing-electronic-health-care-records-at-scale-with-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "How to monitor Amazon Elastic File System (EFS) storage costs",
-        "link": "https://aws.amazon.com/blogs/storage/monitor-amazon-elastic-file-system-amazon-efs-storage-costs/"
     }
 ]

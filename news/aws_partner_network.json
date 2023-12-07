@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building Reliable and Scalable Generative AI Infrastructure on AWS with Ray and Anyscale",
+        "link": "https://aws.amazon.com/blogs/apn/building-reliable-and-scalable-generative-ai-infrastructure-on-aws-with-ray-and-anyscale/"
+    },
+    {
+        "title": "Leveraging SingleStoreDB Cloud Private Connectivity Using AWS PrivateLink",
+        "link": "https://aws.amazon.com/blogs/apn/leveraging-singlestoredb-cloud-private-connectivity-using-aws-privatelink/"
+    },
+    {
         "title": "Federate Single Sign-On Access to Amazon Athena Query Editor with OneLogin",
         "link": "https://aws.amazon.com/blogs/apn/federate-single-sign-on-access-to-amazon-athena-query-editor-with-onelogin/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Capgemini\u2019s Lifecycle Optimization for Aerospace: Extending Component Lifespan Using AWS",
         "link": "https://aws.amazon.com/blogs/apn/capgemini-lifecycle-optimization-for-aerospace-extending-component-lifespan-using-aws/"
-    },
-    {
-        "title": "Automatically Resize Amazon EBS Capacity with Zesty Disk for Cost Efficiency and Consistent Performance",
-        "link": "https://aws.amazon.com/blogs/apn/automatically-resize-amazon-ebs-capacity-with-zesty-disk-for-cost-efficiency-and-consistent-performance/"
-    },
-    {
-        "title": "How CubeAngle Built a Serverless File Ingestion and Processing Framework Powered by AWS",
-        "link": "https://aws.amazon.com/blogs/apn/how-cubeangle-built-a-serverless-file-ingestion-and-processing-framework-powered-by-aws/"
     }
 ]
