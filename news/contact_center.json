@@ -1,5 +1,9 @@
 [
     {
+        "title": "Personalized voicemails using Amazon Lex and Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/personalized-voicemails-using-amazon-lex-and-amazon-connect/"
+    },
+    {
         "title": "Automatically evaluate agent interactions using Amazon Connect APIs",
         "link": "https://aws.amazon.com/blogs/contact-center/automatically-evaluate-agent-interactions-using-amazon-connect-apis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with step-by-step guides for the Amazon Connect agent workspace",
         "link": "https://aws.amazon.com/blogs/contact-center/getting-started-with-step-by-step-guides-for-the-amazon-connect-agent-workspace/"
-    },
-    {
-        "title": "Routing contacts based on performance objectives in Amazon Connect: Agent Occupancy (part 2)",
-        "link": "https://aws.amazon.com/blogs/contact-center/routing-contacts-based-on-performance-objectives-in-amazon-connect-agent-occupancy-part-2/"
     }
 ]

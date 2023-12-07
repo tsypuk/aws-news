@@ -1,5 +1,9 @@
 [
     {
+        "title": "Slurm REST API in AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/hpc/slurm-rest-api-in-aws-parallelcluster/"
+    },
+    {
         "title": "New: Research and Engineering Studio on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/new-research-and-engineering-studio-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The plumbing: best-practice infrastructure to facilitate HPC on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/the-plumbing-best-practice-infrastructure-to-facilitate-hpc-on-aws/"
-    },
-    {
-        "title": "Deep-dive into Hpc7a, the newest AMD-powered member of the HPC instance family",
-        "link": "https://aws.amazon.com/blogs/hpc/deep-dive-into-hpc7a-the-newest-amd-powered-member-of-the-hpc-instance-family/"
     }
 ]
