@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getir end-to-end workforce management: Amazon Forecast and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/getir-end-to-end-workforce-management-amazon-forecast-and-aws-step-functions/"
+    },
+    {
         "title": "Mitigate hallucinations through Retrieval Augmented Generation using Pinecone vector database & Llama-2 from Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/mitigate-hallucinations-through-retrieval-augmented-generation-using-pinecone-vector-database-llama-2-from-amazon-sagemaker-jumpstart/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build and evaluate machine learning models with advanced configurations using the SageMaker Canvas model leaderboard",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-and-evaluate-machine-learning-models-with-advanced-configurations-using-the-sagemaker-canvas-model-leaderboard/"
-    },
-    {
-        "title": "Introducing Amazon SageMaker HyperPod to train foundation models at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-to-train-foundation-models-at-scale/"
     }
 ]

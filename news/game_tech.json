@@ -1,5 +1,9 @@
 [
     {
+        "title": "Setting up a Minecraft Java server on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/gametech/setting-up-a-minecraft-java-server-on-amazon-ec2/"
+    },
+    {
         "title": "How thatgamecompany Fosters Human Connections Through Innovative Technology & Developer Mindset",
         "link": "https://aws.amazon.com/blogs/gametech/how-thatgamecompany-fosters-human-connections-through-innovative-technology-developer-mindset/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Meta\u2019s Oculus Studios Division reduces game development time and costs with Amazon GameLift",
         "link": "https://aws.amazon.com/blogs/gametech/how-metas-oculus-studios-division-reduces-game-development-time-and-costs-with-amazon-gamelift/"
-    },
-    {
-        "title": "Getting Started with Unreal Engine Development on AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/getting-started-with-unreal-engine-development-on-aws/"
     }
 ]

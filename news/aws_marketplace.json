@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating Channel Partner Resale Authorization using Amazon Web Services (AWS) Marketplace Catalog API",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/automating-channel-partner-resale-authorization-using-amazon-web-services-aws-marketplace-catalog-api/"
+    },
+    {
         "title": "Updating pricing in your AMI products in AWS Marketplace using Catalog APIs",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/updating-pricing-in-your-ami-products-in-aws-marketplace-using-catalog-apis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Setting up fine-grained permission access for AWS Marketplace sellers",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/setting-up-fine-grained-permission-access-aws-marketplace-sellers/"
-    },
-    {
-        "title": "Using HiPaaS to convert your data to FHIR to use with AWS HealthLake",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/using-hipaas-convert-data-fhir-integrate-aws-healthlake/"
     }
 ]
