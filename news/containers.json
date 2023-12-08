@@ -1,11 +1,15 @@
 [
     {
-        "title": "How Smartsheet optimized cost and performance with AWS Graviton and AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/containers/how-smartsheet-optimized-cost-and-performance-with-aws-graviton-and-aws-fargate/"
-    },
-    {
         "title": "Use SMB storage with Windows containers on AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/use-smb-storage-with-windows-containers-on-aws-fargate/"
+    },
+    {
+        "title": "AWS App Runner improves performance for image-based deployments",
+        "link": "https://aws.amazon.com/blogs/containers/aws-app-runner-improves-performance-for-image-based-deployments/"
+    },
+    {
+        "title": "How Smartsheet optimized cost and performance with AWS Graviton and AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/containers/how-smartsheet-optimized-cost-and-performance-with-aws-graviton-and-aws-fargate/"
     },
     {
         "title": "Cognitive Systems Corp.\u2019s Amazon EKS journey: Wi-Fi Sensing technology",
@@ -34,9 +38,5 @@
     {
         "title": "Amazon EKS and Kubernetes sessions at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/"
-    },
-    {
-        "title": "How HPE Aruba Networking modernized on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/how-hpe-aruba-networking-modernized-on-amazon-eks/"
     }
 ]

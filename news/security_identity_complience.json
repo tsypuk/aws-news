@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify workforce identity management using IAM Identity Center and trusted token issuers",
+        "link": "https://aws.amazon.com/blogs/security/simplify-workforce-identity-management-using-iam-identity-center-and-trusted-token-issuers/"
+    },
+    {
         "title": "IAM Access Analyzer simplifies inspection of unused access in your organization",
         "link": "https://aws.amazon.com/blogs/security/iam-access-analyzer-simplifies-inspection-of-unused-access-in-your-organization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "2023 Canadian Centre for Cyber Security Assessment Summary report available with 20 additional services",
         "link": "https://aws.amazon.com/blogs/security/2023-canadian-centre-for-cyber-security-assessment-summary-report-available-with-20-additional-services/"
-    },
-    {
-        "title": "Implement an early feedback loop with AWS developer tools to shift security left",
-        "link": "https://aws.amazon.com/blogs/security/implement-an-early-feedback-loop-with-aws-developer-tools-to-shift-security-left/"
     }
 ]

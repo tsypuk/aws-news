@@ -1,5 +1,9 @@
 [
     {
+        "title": "The CTO\u2019s Guide to building fullstack applications with AWS Amplify",
+        "link": "https://aws.amazon.com/blogs/mobile/the-ctos-guide-to-building-fullstack-applications-with-aws-amplify/"
+    },
+    {
         "title": "Build a GraphQL API for your Amazon Aurora MySQL database using AWS AppSync and the RDS Data API",
         "link": "https://aws.amazon.com/blogs/mobile/build-a-graphql-api-for-your-amazon-aurora-mysql-database-using-aws-appsync-and-the-rds-data-api/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Amplify JavaScript\u2019s NEW developer preview with reduced bundle size, improved TypeScript and Next.js support",
         "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-javascripts-new-developer-preview-with-reduced-bundle-sizes-improved-typescript-and-next-js-support/"
-    },
-    {
-        "title": "AWS AppSync WebSockets-based subscriptions for real-time updates now support nested filtering",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-appsync-websockets-based-subscriptions-for-real-time-updates-now-support-nested-filtering/"
     }
 ]
