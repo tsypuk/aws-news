@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify integration of your Amazon EKS cluster with Amazon EKS Blueprints for CDK",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/simplify-integration-of-your-amazon-eks-cluster-with-amazon-eks-blueprints-for-cdk/"
+    },
+    {
         "title": "Create AMIs with AWS CodePipeline",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/create-amis-with-aws-codepipeline/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Emulate your test environment using a service virtualization on AWS",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/emulate-test-environment-using-service-virtualization/"
-    },
-    {
-        "title": "Top 5 posts published in 2021 on the AWS Infrastructure & Automation Blog",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/top-5-posts-2021-aws-ia-blog/"
     }
 ]
