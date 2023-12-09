@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understand your network traffic trends using AWS Transit Gateway Flow Logs",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/understand-your-network-traffic-trends-using-aws-transit-gateway-flow-logs/"
+    },
+    {
         "title": "Deploying AWS Load Balancer Controller on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/deploying-aws-load-balancer-controller-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Elastic Load Balancer: Maximizing Benefits and Keeping Costs Low",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/elb-maximizing-benefits-and-keeping-costs-low/"
-    },
-    {
-        "title": "Build Global SD-WANs with AWS Cloud WAN Tunnel-less Connect",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-global-sd-wans-with-aws-cloud-wan-tunnel-less-connect/"
     }
 ]

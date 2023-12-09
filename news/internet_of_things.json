@@ -1,5 +1,13 @@
 [
     {
+        "title": "Securely sending industrial data to AWS IoT services using unidirectional gateways",
+        "link": "https://aws.amazon.com/blogs/iot/securely-sending-industrial-data-to-aws-iot-services-using-unidirectional-gateways/"
+    },
+    {
+        "title": "Common architecture patterns to securely connect IoT devices to AWS using private networks",
+        "link": "https://aws.amazon.com/blogs/iot/common-architecture-patterns-to-securely-connect-iot-devices-to-aws-using-private-networks/"
+    },
+    {
         "title": "Building an AI Assistant for Smart Manufacturing with AWS IoT TwinMaker and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/iot/building-an-ai-assistant-for-smart-manufacturing-with-aws-iot-twinmaker-and-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Patterns for rapid IoT solution prototyping using AWS IoT Greengrass and Docker",
         "link": "https://aws.amazon.com/blogs/iot/patterns-for-rapid-iot-solution-prototyping-using-aws-iot-greengrass-and-docker/"
-    },
-    {
-        "title": "Organize your IoT software packages and versions using AWS IoT Software Package Catalog",
-        "link": "https://aws.amazon.com/blogs/iot/organize-your-iot-software-packages-and-versions-using-aws-iot-software-package-catalog/"
-    },
-    {
-        "title": "Protecting renewable energy systems using AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/protecting-renewable-energy-systems-using-aws-iot/"
     }
 ]
