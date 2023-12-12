@@ -1,5 +1,9 @@
 [
     {
+        "title": "Backup SQL Server databases to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/backup-sql-server-to-amazon-s3/"
+    },
+    {
         "title": "Use custom attributes for Attribute-Based Access Control (ABAC) with Microsoft Entra ID and AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-custom-attributes-for-attribute-based-access-control-abac-with-microsoft-entra-id-and-aws-iam-identity-center/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerate Amazon EC2 Windows container host launch time with Fast Launch",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-amazon-ec2-windows-container-host-launch-time-with-fast-launch/"
-    },
-    {
-        "title": "Exporting the Windows Failover Cluster log to CloudWatch",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/exporting-the-windows-failover-cluster-log-to-cloudwatch/"
     }
 ]

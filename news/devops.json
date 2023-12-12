@@ -1,5 +1,9 @@
 [
     {
+        "title": "Blue/Green\u00a0Deployments with Amazon ECS using Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-with-amazon-ecs-using-amazon-codecatalyst/"
+    },
+    {
         "title": "Automate safe AWS CloudFormation deployments from GitHub",
         "link": "https://aws.amazon.com/blogs/devops/automate-safe-aws-cloudformation-deployments-from-github/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing GitFlow with Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/implementing-gitflow-with-amazon-codecatalyst/"
-    },
-    {
-        "title": "Manage roles and entitlements with PBAC using Amazon Verified Permissions",
-        "link": "https://aws.amazon.com/blogs/devops/manage-roles-and-entitlements-with-pbac-using-amazon-verified-permissions/"
     }
 ]
