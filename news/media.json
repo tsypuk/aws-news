@@ -1,5 +1,21 @@
 [
     {
+        "title": "Cost saving strategies for large enterprise cloud migrations",
+        "link": "https://aws.amazon.com/blogs/mt/cost-saving-strategies-for-large-enterprise-cloud-migrations/"
+    },
+    {
+        "title": "Validate your Migration cutovers using predefined post-launch actions",
+        "link": "https://aws.amazon.com/blogs/mt/validate-your-migration-cutovers-using-predefined-post-launch-actions/"
+    },
+    {
+        "title": "Automate the creation of AWS Support cases using Amazon CloudWatch alarms and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/mt/automate-the-creation-of-aws-support-cases-using-amazon-cloudwatch-alarms-and-amazon-bedrock/"
+    },
+    {
+        "title": "Observe your Azure and AWS workloads simultaneously with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/mt/observe-your-azure-and-aws-workloads-simultaneously-with-amazon-cloudwatch/"
+    },
+    {
         "title": "What\u2019s new in AWS Observability at re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/mt/whats-new-in-aws-observability-at-reinvent-2023/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Monitoring and Visualizing Amazon EKS signals with Kiali and AWS managed open-source services",
         "link": "https://aws.amazon.com/blogs/mt/monitoring-and-visualizing-amazon-eks-signals-with-kiali-and-aws-managed-open-source-services/"
-    },
-    {
-        "title": "Achieve domain consistency in event-driven architectures",
-        "link": "https://aws.amazon.com/blogs/mt/achieve-domain-consistency-in-event-driven-architectures/"
-    },
-    {
-        "title": "Accelerate Modernization outcomes with Automation",
-        "link": "https://aws.amazon.com/blogs/mt/accelerate-modernization-outcomes-with-automation/"
-    },
-    {
-        "title": "Using Puppet to automate AWS Elastic Disaster Recovery for Amazon EC2 instances at scale",
-        "link": "https://aws.amazon.com/blogs/mt/using-puppet-to-automate-aws-elastic-disaster-recovery-for-amazon-ec2-instances-at-scale/"
-    },
-    {
-        "title": "The Mergers & Acquisitions Cloud Center of Excellence (M&A CCoE) \u2013 Part 2: Roles and Responsibilities",
-        "link": "https://aws.amazon.com/blogs/mt/the-mergers-acquisitions-cloud-center-of-excellence-ma-ccoe-part-2-roles-and-responsibilities/"
     }
 ]
