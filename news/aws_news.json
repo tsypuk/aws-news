@@ -1,5 +1,9 @@
 [
     {
+        "title": "New for AWS Amplify \u2013 Query MySQL and PostgreSQL database for AWS CDK",
+        "link": "https://aws.amazon.com/blogs/aws/new-for-aws-amplify-query-mysql-and-postgresql-database-for-aws-cdk/"
+    },
+    {
         "title": "Use AWS Fault Injection Service to demonstrate multi-region and multi-AZ application resilience",
         "link": "https://aws.amazon.com/blogs/aws/use-aws-fault-injection-service-to-demonstrate-multi-region-and-multi-az-application-resilience/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Amazon OpenSearch Service zero-ETL integration with Amazon S3 (preview)",
         "link": "https://aws.amazon.com/blogs/aws/amazon-opensearch-service-zero-etl-integration-with-amazon-s3-preview/"
-    },
-    {
-        "title": "Analyze large amounts of graph data to get insights and find trends with Amazon Neptune Analytics",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-neptune-analytics-a-high-performance-graph-analytics/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protecting data with AWS Backup Vault Lock",
+        "link": "https://aws.amazon.com/blogs/storage/protecting-data-with-aws-backup-vault-lock/"
+    },
+    {
         "title": "Improve compute utilization with more Amazon EBS volume attachments on 7th generation Amazon EC2 instances",
         "link": "https://aws.amazon.com/blogs/storage/improve-compute-utilization-with-more-amazon-ebs-volume-attachments-on-7th-generation-amazon-ec2-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating application-consistent Amazon EBS Snapshots for Windows applications",
         "link": "https://aws.amazon.com/blogs/storage/automating-application-consistent-amazon-ebs-snapshots-for-windows-applications/"
-    },
-    {
-        "title": "Optimizing electronic health care records at scale with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/optimizing-electronic-health-care-records-at-scale-with-amazon-fsx-for-netapp-ontap/"
     }
 ]

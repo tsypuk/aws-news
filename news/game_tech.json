@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS for Games updates from re:Invent 2023",
+        "link": "https://aws.amazon.com/blogs/gametech/aws-for-games-updates-from-reinvent-2023/"
+    },
+    {
         "title": "Setting up a Minecraft Java server on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/gametech/setting-up-a-minecraft-java-server-on-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New Solution Guidance for building scalable cross-platform game backends on AWS",
         "link": "https://aws.amazon.com/blogs/gametech/new-solution-guidance-for-building-scalable-cross-platform-game-backends-on-aws/"
-    },
-    {
-        "title": "How Meta\u2019s Oculus Studios Division reduces game development time and costs with Amazon GameLift",
-        "link": "https://aws.amazon.com/blogs/gametech/how-metas-oculus-studios-division-reduces-game-development-time-and-costs-with-amazon-gamelift/"
     }
 ]
