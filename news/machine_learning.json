@@ -1,5 +1,17 @@
 [
     {
+        "title": "Create a web UI to interact with LLMs using Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-web-ui-to-interact-with-llms-using-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Frugality meets Accuracy: Cost-efficient training of GPT NeoX and Pythia models with AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/frugality-meets-accuracy-cost-efficient-training-of-gpt-neox-and-pythia-models-with-aws-trainium/"
+    },
+    {
+        "title": "Vodafone advances its machine learning skills with AWS DeepRacer and Accenture",
+        "link": "https://aws.amazon.com/blogs/machine-learning/vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture/"
+    },
+    {
         "title": "Getir end-to-end workforce management: Amazon Forecast and AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/machine-learning/getir-end-to-end-workforce-management-amazon-forecast-and-aws-step-functions/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Scale foundation model inference to hundreds of models with Amazon SageMaker \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/machine-learning/scale-foundation-model-inference-to-hundreds-of-models-with-amazon-sagemaker-part-1/"
-    },
-    {
-        "title": "Reduce model deployment costs by 50% on average using the latest features of Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-model-deployment-costs-by-50-on-average-using-sagemakers-latest-features/"
-    },
-    {
-        "title": "Minimize real-time inference latency by using Amazon SageMaker routing strategies",
-        "link": "https://aws.amazon.com/blogs/machine-learning/minimize-real-time-inference-latency-by-using-amazon-sagemaker-routing-strategies/"
-    },
-    {
-        "title": "Build and evaluate machine learning models with advanced configurations using the SageMaker Canvas model leaderboard",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-evaluate-machine-learning-models-with-advanced-configurations-using-the-sagemaker-canvas-model-leaderboard/"
     }
 ]

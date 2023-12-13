@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using a Level 4 Digital Twin for scenario analysis and risk assessment of manufacturing production on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/using-a-level-4-digital-twin-for-scenario-analysis-and-risk-assessment-of-manufacturing-production-on-aws/"
+    },
+    {
         "title": "Slurm REST API in AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/slurm-rest-api-in-aws-parallelcluster/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Bursting your HPC applications to AWS is now easier with Amazon File Cache and AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/bursting-your-hpc-applications-to-aws-is-now-easier-with-amazon-file-cache-and-aws-parallelcluster/"
-    },
-    {
-        "title": "The plumbing: best-practice infrastructure to facilitate HPC on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/the-plumbing-best-practice-infrastructure-to-facilitate-hpc-on-aws/"
     }
 ]
