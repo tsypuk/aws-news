@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create a Fullstack, Sample Web App powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/mobile/create-a-fullstack-sample-web-app-powered-by-amazon-bedrock/"
+    },
+    {
         "title": "Accessing resources in a Amazon Virtual Private Cloud (Amazon VPC) from Next.js API Routes",
         "link": "https://aws.amazon.com/blogs/mobile/accessing-resources-in-a-amazon-virtual-private-cloud-amazon-vpc-from-next-js-api-routes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a Geospatial Application with Amazon Location Service API Keys",
         "link": "https://aws.amazon.com/blogs/mobile/build-a-geospatial-application-with-amazon-location-service-api-keys/"
-    },
-    {
-        "title": "Connect a React app to GraphQL and DynamoDB with AWS CDK and Amplify",
-        "link": "https://aws.amazon.com/blogs/mobile/announcing-aws-amplifys-graphql-api-cdk-construct-deploy-real-time-graphql-api-and-data-stack-on-aws/"
     }
 ]

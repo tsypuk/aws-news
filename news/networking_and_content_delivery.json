@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using ENA Express to improve workload performance on AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-ena-express-to-improve-workload-performance-on-aws/"
+    },
+    {
+        "title": "Managing global AWS Local Zones applications with Amazon Route53 Geoproximity routing",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/managing-global-aws-local-zones-applications-with-amazon-route53-geoproximity-routing/"
+    },
+    {
         "title": "Understand your network traffic trends using AWS Transit Gateway Flow Logs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/understand-your-network-traffic-trends-using-aws-transit-gateway-flow-logs/"
     },
@@ -18,10 +26,6 @@
     {
         "title": "Automating large scale deployments with tags for Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-large-scale-deployments-with-tags-for-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Using ENA Express to improve workload performance on AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-ena-express-to-improve-workload-performance-on-aws/"
     },
     {
         "title": "Improving availability with Application Load Balancer automatic target weights",
@@ -74,9 +78,5 @@
     {
         "title": "Bose: Building a scalable, more secure global cloud network with AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/bose-building-a-scalable-more-secure-global-cloud-network-with-aws-cloud-wan/"
-    },
-    {
-        "title": "Elastic Load Balancer: Maximizing Benefits and Keeping Costs Low",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/elb-maximizing-benefits-and-keeping-costs-low/"
     }
 ]

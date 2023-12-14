@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build Account Abstraction wallets with AWS and Alchemy",
+        "link": "https://aws.amazon.com/blogs/database/build-account-abstraction-wallets-with-aws-and-alchemy/"
+    },
+    {
         "title": "Encrypt an unencrypted Amazon Aurora MySQL cluster with minimal downtime using AWS DMS homogeneous data migrations",
         "link": "https://aws.amazon.com/blogs/database/encrypt-an-unencrypted-amazon-aurora-mysql-cluster-with-minimal-downtime-using-aws-dms-homogeneous-data-migrations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Know before you go: Amazon DynamoDB sessions at AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/database/know-before-you-go-amazon-dynamodb-sessions-at-aws-reinvent-2023/"
-    },
-    {
-        "title": "Achieve one second or less of downtime with ProxySQL when upgrading Amazon RDS Multi-AZ deployments with two readable standbys",
-        "link": "https://aws.amazon.com/blogs/database/achieve-one-second-or-less-of-downtime-with-proxysql-when-upgrading-amazon-rds-multi-az-deployments-with-two-readable-standbys/"
     }
 ]
