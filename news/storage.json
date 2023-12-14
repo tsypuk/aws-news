@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automatically modify data you are querying with Amazon Athena using Amazon S3 Object Lambda",
+        "link": "https://aws.amazon.com/blogs/storage/automatically-modify-data-you-are-querying-with-amazon-athena-using-amazon-s3-object-lambda/"
+    },
+    {
         "title": "Protecting data with AWS Backup Vault Lock",
         "link": "https://aws.amazon.com/blogs/storage/protecting-data-with-aws-backup-vault-lock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating application-consistent Amazon EBS Snapshots for MySQL and PostgreSQL",
         "link": "https://aws.amazon.com/blogs/storage/automating-application-consistent-amazon-ebs-snapshots-for-mysql-and-postgresql/"
-    },
-    {
-        "title": "Automating application-consistent Amazon EBS Snapshots for Windows applications",
-        "link": "https://aws.amazon.com/blogs/storage/automating-application-consistent-amazon-ebs-snapshots-for-windows-applications/"
     }
 ]
