@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy Unreal Engines Pixel Streaming at scale on AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/deploy-unreal-engines-pixel-streaming-at-scale-on-aws/"
+    },
+    {
         "title": "Game Developer\u2019s Guide to Amazon DocumentDB (with MongoDB compatibility) Part Two: Design and Development Best Practices",
         "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-documentdb-with-mongodb-compatibility-part-two-design-and-development-best-practices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Pixel Federation goes all-in on AWS with help from Labyrinth Labs",
         "link": "https://aws.amazon.com/blogs/gametech/pixel-federation-goes-all-in-on-aws-with-help-from-labyrinth-labs/"
-    },
-    {
-        "title": "AWS for Games at Gamescom 2023",
-        "link": "https://aws.amazon.com/blogs/gametech/aws-for-games-at-gamescom-2023/"
     }
 ]

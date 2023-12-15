@@ -1,5 +1,25 @@
 [
     {
+        "title": "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/"
+    },
+    {
+        "title": "How AWS Prototyping enabled ICL-Group to build computer vision models on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Automate PDF pre-labeling for Amazon Comprehend",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-pdf-pre-labeling-for-amazon-comprehend/"
+    },
+    {
+        "title": "Improve your Stable Diffusion prompts with Retrieval Augmented Generation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation/"
+    },
+    {
+        "title": "Streamlining ETL data processing at Talent.com with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-etl-data-processing-at-talent-com-with-amazon-sagemaker/"
+    },
+    {
         "title": "Create summaries of recordings using generative AI with Amazon Bedrock and Amazon Transcribe",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Getir reduced model training durations by 90% with Amazon SageMaker and AWS Batch",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-getir-reduced-model-training-durations-by-90-with-amazon-sagemaker-and-aws-batch/"
-    },
-    {
-        "title": "Boosting developer productivity: How Deloitte uses Amazon SageMaker Canvas for no-code/low-code machine learning",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-developer-productivity-how-deloitte-uses-amazon-sagemaker-canvas-for-no-code-low-code-machine-learning/"
-    },
-    {
-        "title": "Experience the new and improved Amazon SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/experience-the-new-and-improved-amazon-sagemaker-studio/"
-    },
-    {
-        "title": "Amazon SageMaker simplifies setting up SageMaker domain for enterprises to onboard their users to SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-simplifies-setting-up-sagemaker-domain-for-enterprises-to-onboard-their-users-to-sagemaker/"
-    },
-    {
-        "title": "Welcome to a New Era of Building in the Cloud with Generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/welcome-to-a-new-era-of-building-in-the-cloud-with-generative-ai-on-aws/"
-    },
-    {
-        "title": "Package and deploy classical ML and LLMs easily with Amazon SageMaker, part 2: Interactive User Experiences in SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/package-and-deploy-classical-ml-and-llms-easily-with-amazon-sagemaker-part-2-interactive-user-experiences-in-sagemaker-studio/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to centralize CloudWatch Alarms with Amazon EventBridge and AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-centralize-cloudwatch-alarms-with-amazon-eventbridge-and-aws-cloudformation/"
+    },
+    {
         "title": "Cost saving strategies for large enterprise cloud migrations",
         "link": "https://aws.amazon.com/blogs/mt/cost-saving-strategies-for-large-enterprise-cloud-migrations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving Mergers & Acquisitions Due Diligence with AWS Audit Manager",
         "link": "https://aws.amazon.com/blogs/mt/improving-mergers-acquisitions-due-diligence-with-aws-audit-manager/"
-    },
-    {
-        "title": "Monitoring and Visualizing Amazon EKS signals with Kiali and AWS managed open-source services",
-        "link": "https://aws.amazon.com/blogs/mt/monitoring-and-visualizing-amazon-eks-signals-with-kiali-and-aws-managed-open-source-services/"
     }
 ]

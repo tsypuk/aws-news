@@ -1,5 +1,9 @@
 [
     {
+        "title": "New report released \u2013 Centralized Trust for Decentralized Uses: Revisiting Private Certificate Authorities",
+        "link": "https://aws.amazon.com/blogs/security/new_report_released_centralized_trust_for_decentralized_uses/"
+    },
+    {
         "title": "Governance at scale: Enforce permissions and compliance by using policy as code",
         "link": "https://aws.amazon.com/blogs/security/governance-at-scale-enforce-permissions-and-compliance-by-using-policy-as-code/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use multiple instances of AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-multiple-instances-of-aws-iam-identity-center/"
-    },
-    {
-        "title": "AWS achieves SNI 27001 certification for the AWS Asia Pacific (Jakarta) Region",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27001-certification-for-the-aws-asia-pacific-jakarta-region/"
     }
 ]
