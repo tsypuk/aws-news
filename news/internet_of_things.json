@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS IoT Core now supports private certificate authorities with fleet provisioning",
+        "link": "https://aws.amazon.com/blogs/iot/aws-iot-core-private-certificate-authorities-with-fleet-provisioning/"
+    },
+    {
         "title": "Device onboarding to AWS IoT using Virtual Private Cloud endpoints",
         "link": "https://aws.amazon.com/blogs/iot/device-onboarding-to-aws-iot-using-virtual-private-cloud-endpoints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Navigating IoT Product Lifecycle Management with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/navigating-iot-product-lifecycle-management-with-aws-iot/"
-    },
-    {
-        "title": "Efficiently managing millions of Tamagotchi devices with AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/efficiently-managing-millions-of-tamagotchi-devices-with-aws-iot/"
     }
 ]

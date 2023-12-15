@@ -1,5 +1,9 @@
 [
     {
+        "title": "Empowering Kubernetes Observability with eBPF on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/empowering-kubernetes-observability-with-ebpf-on-amazon-eks/"
+    },
+    {
         "title": "Discover application refactoring with the EKS Developers Workshop",
         "link": "https://aws.amazon.com/blogs/containers/discover-application-refactoring-with-the-eks-developers-workshop/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Enhanced VPC flexibility: modify subnets and security groups in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/enhanced-vpc-flexibility-modify-subnets-and-security-groups-in-amazon-eks/"
-    },
-    {
-        "title": "Optimize AZ traffic costs using Amazon EKS, Karpenter, and Istio",
-        "link": "https://aws.amazon.com/blogs/containers/optimize-az-traffic-costs-using-amazon-eks-karpenter-and-istio/"
     }
 ]

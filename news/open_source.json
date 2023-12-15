@@ -1,5 +1,9 @@
 [
     {
+        "title": "Two New Open Source Rust Crates Create Easier Cedar Policy Management",
+        "link": "https://aws.amazon.com/blogs/opensource/easier-cedar-policy-management/"
+    },
+    {
         "title": "Getting Started with Istio on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/opensource/getting-started-with-istio-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Kubernetes Multi-Cluster Service Discovery using Open Source AWS Cloud Map MCS Controller",
         "link": "https://aws.amazon.com/blogs/opensource/kubernetes-multi-cluster-service-discovery-using-open-source-aws-cloud-map-mcs-controller/"
-    },
-    {
-        "title": "Simplify Amazon EKS Multi-Cluster Authentication with Open Source Pinniped",
-        "link": "https://aws.amazon.com/blogs/opensource/simplify-amazon-eks-multi-cluster-authentication-with-open-source-pinniped/"
     }
 ]
