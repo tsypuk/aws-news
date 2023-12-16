@@ -1,5 +1,13 @@
 [
     {
+        "title": "Four use cases for GuardDuty Malware Protection On-demand malware scan",
+        "link": "https://aws.amazon.com/blogs/security/four-use-cases-for-guardduty-malware-protection-on-demand-malware-scan/"
+    },
+    {
+        "title": "AWS Security Profile: Arynn Crow, Sr. Manager for AWS User AuthN",
+        "link": "https://aws.amazon.com/blogs/security/aws-security-profile-arynn-crow-sr-manager-for-aws-user-authn/"
+    },
+    {
         "title": "New report released \u2013 Centralized Trust for Decentralized Uses: Revisiting Private Certificate Authorities",
         "link": "https://aws.amazon.com/blogs/security/new_report_released_centralized_trust_for_decentralized_uses/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Upcoming improvements to your AWS sign-in experience",
         "link": "https://aws.amazon.com/blogs/security/upcoming-improvements-to-your-aws-sign-in-experience/"
-    },
-    {
-        "title": "AWS Security Profile: Chris Betz, CISO of AWS",
-        "link": "https://aws.amazon.com/blogs/security/aws-security-profile-chris-betz-ciso-of-aws/"
-    },
-    {
-        "title": "How to use multiple instances of AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-multiple-instances-of-aws-iam-identity-center/"
     }
 ]

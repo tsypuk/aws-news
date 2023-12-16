@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting started with Projen and AWS CDK",
+        "link": "https://aws.amazon.com/blogs/devops/getting-started-with-projen-and-aws-cdk/"
+    },
+    {
         "title": "Blue/Green\u00a0Deployments with Amazon ECS using Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-with-amazon-ecs-using-amazon-codecatalyst/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to import existing resources into AWS CDK Stacks",
         "link": "https://aws.amazon.com/blogs/devops/how-to-import-existing-resources-into-aws-cdk-stacks/"
-    },
-    {
-        "title": "Implementing GitFlow with Amazon CodeCatalyst",
-        "link": "https://aws.amazon.com/blogs/devops/implementing-gitflow-with-amazon-codecatalyst/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automatically detect Personally Identifiable Information in Amazon Redshift using AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/automatically-detect-personally-identifiable-information-in-amazon-redshift-using-aws-glue/"
+    },
+    {
         "title": "Break data silos and stream your CDC data with Amazon Redshift streaming and Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/break-data-silos-and-stream-your-cdc-data-with-amazon-redshift-streaming-and-amazon-msk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Apache Hudi support with AWS Glue crawlers",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-hudi-support-with-aws-glue-crawlers/"
-    },
-    {
-        "title": "Introducing persistent buffering for Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-persistent-buffering-for-amazon-opensearch-ingestion/"
     }
 ]

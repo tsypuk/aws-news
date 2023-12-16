@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy an Amazon EKS cluster across AWS Outposts with Intra-VPC communication",
+        "link": "https://aws.amazon.com/blogs/containers/deploy-an-amazon-eks-cluster-across-aws-outposts-with-intra-vpc-communication/"
+    },
+    {
         "title": "Empowering Kubernetes Observability with eBPF on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/empowering-kubernetes-observability-with-ebpf-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Build Generative AI apps on Amazon ECS for SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/containers/build-generative-ai-apps-on-amazon-ecs-for-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Enhanced VPC flexibility: modify subnets and security groups in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/enhanced-vpc-flexibility-modify-subnets-and-security-groups-in-amazon-eks/"
     }
 ]
