@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Foundational data protection for enterprise LLM acceleration with Protopia AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/foundational-data-protection-for-enterprise-llm-acceleration-with-protopia-ai/"
-    },
-    {
-        "title": "How Getir reduced model training durations by 90% with Amazon SageMaker and AWS Batch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-getir-reduced-model-training-durations-by-90-with-amazon-sagemaker-and-aws-batch/"
     }
 ]

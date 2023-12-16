@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to monitor application health using SLOs with Amazon CloudWatch Application Signals",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-monitor-application-health-using-slos-with-amazon-cloudwatch-application-signals/"
+    },
+    {
         "title": "How to centralize CloudWatch Alarms with Amazon EventBridge and AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/mt/how-to-centralize-cloudwatch-alarms-with-amazon-eventbridge-and-aws-cloudformation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leverage generative AI to create custom dashboard widgets in Amazon CloudWatch using Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/mt/leverage-generative-ai-to-create-custom-dashboard-widgets-in-amazon-cloudwatch-using-amazon-codewhisperer/"
-    },
-    {
-        "title": "Improving Mergers & Acquisitions Due Diligence with AWS Audit Manager",
-        "link": "https://aws.amazon.com/blogs/mt/improving-mergers-acquisitions-due-diligence-with-aws-audit-manager/"
     }
 ]

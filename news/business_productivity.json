@@ -1,5 +1,13 @@
 [
     {
+        "title": "Add voice bots to your existing telephony services to using Amazon Chime SDK",
+        "link": "https://aws.amazon.com/blogs/business-productivity/add-voice-bots-to-your-existing-telephony-services-to-using-amazon-chime-sdk/"
+    },
+    {
+        "title": "How Amazon Healthcare secures SaaS applications with AWS AppFabric",
+        "link": "https://aws.amazon.com/blogs/business-productivity/how-amazon-healthcare-secures-saas-applications-with-aws-appfabric/"
+    },
+    {
         "title": "AWS AppFabric helps application developers personalize their generative AI assistant with context from multiple applications",
         "link": "https://aws.amazon.com/blogs/business-productivity/aws-appfabric-helps-application-developers-personalize-their-generative-ai-assistant-with-context-from-multiple-applications/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Effortlessly Summarize Phone Conversations with Amazon Chime SDK Call Analytics: Step-by-Step Guide",
         "link": "https://aws.amazon.com/blogs/business-productivity/effortlessly-summarize-phone-conversations-with-amazon-chime-sdk-call-analytics-step-by-step-guide/"
-    },
-    {
-        "title": "Optimizing Communication Infrastructure by Analyzing CDRs (Call Detail Records)",
-        "link": "https://aws.amazon.com/blogs/business-productivity/optimizing-communication-infrastructure-by-analyzing-cdrs-call-detail-records/"
-    },
-    {
-        "title": "Add real-time call analytics to voice calls with hands-on workshop",
-        "link": "https://aws.amazon.com/blogs/business-productivity/amazon-chime-sdk-launches-hands-on-workshop-for-real-time-call-analytics/"
     }
 ]
