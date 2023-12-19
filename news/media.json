@@ -1,5 +1,13 @@
 [
     {
+        "title": "Navigating Windows Workload Modernization without Active Directory",
+        "link": "https://aws.amazon.com/blogs/mt/navigating-windows-workload-modernization-without-active-directory/"
+    },
+    {
+        "title": "Considerations for migrating workloads between AWS Regions",
+        "link": "https://aws.amazon.com/blogs/mt/considerations-for-migrating-workloads-between-aws-regions/"
+    },
+    {
         "title": "How to monitor application health using SLOs with Amazon CloudWatch Application Signals",
         "link": "https://aws.amazon.com/blogs/mt/how-to-monitor-application-health-using-slos-with-amazon-cloudwatch-application-signals/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to drive the discussions around carbon footprint reduction to support modernization and migration to the Cloud?",
         "link": "https://aws.amazon.com/blogs/mt/how-to-drive-the-discussions-around-carbon-footprint-reduction-to-support-modernization-and-migration-to-the-cloud/"
-    },
-    {
-        "title": "Manage your AWS multi-account environment with Account Factory for Terraform (AFT)",
-        "link": "https://aws.amazon.com/blogs/mt/manage-your-aws-multi-account-environment-with-account-factory-for-terraform-aft/"
-    },
-    {
-        "title": "Leverage generative AI to create custom dashboard widgets in Amazon CloudWatch using Amazon CodeWhisperer",
-        "link": "https://aws.amazon.com/blogs/mt/leverage-generative-ai-to-create-custom-dashboard-widgets-in-amazon-cloudwatch-using-amazon-codewhisperer/"
     }
 ]

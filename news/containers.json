@@ -1,5 +1,9 @@
 [
     {
+        "title": "A deep dive into simplified Amazon EKS access management controls",
+        "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-simplified-amazon-eks-access-management-controls/"
+    },
+    {
         "title": "Deploy an Amazon EKS cluster across AWS Outposts with Intra-VPC communication",
         "link": "https://aws.amazon.com/blogs/containers/deploy-an-amazon-eks-cluster-across-aws-outposts-with-intra-vpc-communication/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Cognitive Systems Corp.\u2019s Amazon EKS journey: Wi-Fi Sensing technology",
         "link": "https://aws.amazon.com/blogs/containers/cognitive-systems-corp-s-amazon-eks-journey-wi-fi-sensing-technology/"
-    },
-    {
-        "title": "Build Generative AI apps on Amazon ECS for SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/containers/build-generative-ai-apps-on-amazon-ecs-for-sagemaker-jumpstart/"
     }
 ]

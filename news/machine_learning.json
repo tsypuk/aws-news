@@ -1,5 +1,13 @@
 [
     {
+        "title": "ISO 42001: A new foundational global standard to advance responsible AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/"
+    },
+    {
+        "title": "Accelerating time-to-insight with MongoDB time series collections and Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-time-to-insight-with-mongodb-time-series-collections-and-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enable faster training with Amazon SageMaker data parallel library",
         "link": "https://aws.amazon.com/blogs/machine-learning/enable-faster-training-with-amazon-sagemaker-data-parallel-library/"
-    },
-    {
-        "title": "Use custom metadata created by Amazon Comprehend to intelligently process insurance claims using Amazon Kendra",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-custom-metadata-created-by-amazon-comprehend-to-intelligently-process-insurance-claims-using-amazon-kendra/"
-    },
-    {
-        "title": "Foundational data protection for enterprise LLM acceleration with Protopia AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/foundational-data-protection-for-enterprise-llm-acceleration-with-protopia-ai/"
     }
 ]

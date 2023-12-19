@@ -1,5 +1,13 @@
 [
     {
+        "title": "Trellix vIPS and AWS Gateway Load Balancer Integrate for a Next-Gen Intrusion Prevention System",
+        "link": "https://aws.amazon.com/blogs/apn/trellix-vips-and-aws-gateway-load-balancer-integrate-for-a-next-gen-intrusion-prevention-system/"
+    },
+    {
+        "title": "How a Global Technology Firm Realized Up to 25% Cost Savings on Amazon EMR with Pepperdata",
+        "link": "https://aws.amazon.com/blogs/apn/how-a-global-technology-firm-realized-up-to-25-percent-cost-savings-on-amazon-emr-with-pepperdata/"
+    },
+    {
         "title": "Building a No-Code Business Intelligence Platform for Custom Data Analytics at Scale with Shipsy",
         "link": "https://aws.amazon.com/blogs/apn/building-a-no-code-business-intelligence-platform-for-custom-data-analytics-at-scale-with-shipsy/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "CallRail Paves the Way for Further Cloud Modernization by Migrating to Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/apn/callrail-paves-the-way-for-further-cloud-modernization-by-migrating-to-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "How MYCOM OSI Optimized SaaS Storage with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/apn/how-mycom-osi-optimized-saas-storage-with-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Accelerating Enterprise Simulations on AWS with Fastone Compute Cloud-Enterprise Edition",
-        "link": "https://aws.amazon.com/blogs/apn/accelerating-enterprise-simulations-on-aws-with-fastone-compute-cloud-enterprise-edition/"
     }
 ]
