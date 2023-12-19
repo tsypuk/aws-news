@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup \u2014 AWS Lambda, AWS Amplify, Amazon OpenSearch Service, Amazon Rekognition, and more \u2014 December 18, 2023",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-aws-amplify-amazon-opensearch-service-amazon-rekognition-and-more-december-18-2023/"
+    },
+    {
         "title": "New for AWS Amplify \u2013 Query MySQL and PostgreSQL database for AWS CDK",
         "link": "https://aws.amazon.com/blogs/aws/new-for-aws-amplify-query-mysql-and-postgresql-database-for-aws-cdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Clean Rooms ML helps customers and partners apply ML models without sharing raw data (preview)",
         "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-ml-helps-customers-and-partners-apply-ml-models-without-sharing-raw-data-preview/"
-    },
-    {
-        "title": "Announcing Amazon OpenSearch Service zero-ETL integration with Amazon S3 (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-opensearch-service-zero-etl-integration-with-amazon-s3-preview/"
     }
 ]

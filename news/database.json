@@ -1,5 +1,9 @@
 [
     {
+        "title": "Increase visibility of performance and events on Amazon RDS and Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/increase-visibility-of-performance-and-events-on-amazon-rds-and-amazon-aurora/"
+    },
+    {
         "title": "Insights into AWS DMS resiliency and recovery scenarios with mitigations \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/database/insights-into-aws-dms-resiliency-and-recovery-scenarios-with-mitigations-part-1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Configure reverse replication using AWS DMS to migrate an Oracle database to Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/configure-reverse-replication-using-aws-dms-to-migrate-an-oracle-database-to-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Introducing Group Replication plugin for active/active replication on Amazon RDS for MySQL",
-        "link": "https://aws.amazon.com/blogs/database/introducing-group-replication-plugin-for-active-active-replication-on-amazon-rds-for-mysql/"
     }
 ]

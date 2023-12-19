@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating retrievals from the Amazon S3 Glacier storage classes",
+        "link": "https://aws.amazon.com/blogs/storage/automating-retrievals-from-the-amazon-s3-glacier-storage-classes/"
+    },
+    {
         "title": "Automatically modify data you are querying with Amazon Athena using Amazon S3 Object Lambda",
         "link": "https://aws.amazon.com/blogs/storage/automatically-modify-data-you-are-querying-with-amazon-athena-using-amazon-s3-object-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How PingCAP transformed TiDB into a serverless DBaaS using Amazon S3 and Amazon EBS",
         "link": "https://aws.amazon.com/blogs/storage/how-pingcap-transformed-tidb-into-a-serverless-dbaas-using-amazon-s3-and-amazon-ebs/"
-    },
-    {
-        "title": "Automating application-consistent Amazon EBS Snapshots for MySQL and PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/storage/automating-application-consistent-amazon-ebs-snapshots-for-mysql-and-postgresql/"
     }
 ]
