@@ -1,5 +1,21 @@
 [
     {
+        "title": "Minimize ETL and Accelerate Analytics with Denodo and Data Virtualization on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/minimize-etl-and-accelerate-analytics-with-denodo-and-data-virtualization-on-aws/"
+    },
+    {
+        "title": "AWS Partner Generative AI Playbook, Partner Marketing Kits, Customer Journey Insights, and Market Data",
+        "link": "https://aws.amazon.com/blogs/apn/aws-partner-generative-ai-playbook-partner-marketing-kits-customer-journey-insights-and-market-data/"
+    },
+    {
+        "title": "Say Hello to 198 AWS Specialization Partners Added or Renewed in November",
+        "link": "https://aws.amazon.com/blogs/apn/say-hello-to-198-aws-specialization-partners-added-or-renewed-in-november/"
+    },
+    {
+        "title": "Validating Cost Data for Amazon EKS with Kubecost and AWS Cost Explorer",
+        "link": "https://aws.amazon.com/blogs/apn/validating-cost-data-for-amazon-eks-with-kubecost-and-aws-cost-explorer/"
+    },
+    {
         "title": "Trellix vIPS and AWS Gateway Load Balancer Integrate for a Next-Gen Intrusion Prevention System",
         "link": "https://aws.amazon.com/blogs/apn/trellix-vips-and-aws-gateway-load-balancer-integrate-for-a-next-gen-intrusion-prevention-system/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Knowlarity\u2019s Cloud Communications Platform Provides Customer Conversation Analytics Built on AWS",
         "link": "https://aws.amazon.com/blogs/apn/knowlarity-cloud-communications-platform-provides-customer-conversation-analytics-built-on-aws/"
-    },
-    {
-        "title": "Building Reliable and Scalable Generative AI Infrastructure on AWS with Ray and Anyscale",
-        "link": "https://aws.amazon.com/blogs/apn/building-reliable-and-scalable-generative-ai-infrastructure-on-aws-with-ray-and-anyscale/"
-    },
-    {
-        "title": "Leveraging SingleStoreDB Cloud Private Connectivity Using AWS PrivateLink",
-        "link": "https://aws.amazon.com/blogs/apn/leveraging-singlestoredb-cloud-private-connectivity-using-aws-privatelink/"
-    },
-    {
-        "title": "Federate Single Sign-On Access to Amazon Athena Query Editor with OneLogin",
-        "link": "https://aws.amazon.com/blogs/apn/federate-single-sign-on-access-to-amazon-athena-query-editor-with-onelogin/"
-    },
-    {
-        "title": "CallRail Paves the Way for Further Cloud Modernization by Migrating to Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/apn/callrail-paves-the-way-for-further-cloud-modernization-by-migrating-to-amazon-rds-for-postgresql/"
     }
 ]
