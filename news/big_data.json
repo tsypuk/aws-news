@@ -1,5 +1,9 @@
 [
     {
+        "title": "Sun King uses Amazon Redshift data sharing to accelerate data analytics and improve user experience",
+        "link": "https://aws.amazon.com/blogs/big-data/sun-king-uses-amazon-redshift-data-sharing-to-accelerate-data-analytics-and-improve-user-experience/"
+    },
+    {
         "title": "AWS re:Invent 2023 Amazon Redshift Sessions Recap",
         "link": "https://aws.amazon.com/blogs/big-data/aws-reinvent-2023-amazon-redshift-sessions-recap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Amazon EMR with S3 Access Grants to scale Spark access to Amazon S3",
         "link": "https://aws.amazon.com/blogs/big-data/use-amazon-emr-with-s3-access-grants-to-scale-spark-access-to-amazon-s3/"
-    },
-    {
-        "title": "Large Language Models for sentiment analysis with Amazon Redshift ML (Preview)",
-        "link": "https://aws.amazon.com/blogs/big-data/large-language-models-for-sentiment-analysis-with-amazon-redshift-ml-preview/"
     }
 ]
