@@ -1,5 +1,9 @@
 [
     {
+        "title": "New Amazon CloudWatch log class to cost-effectively scale your AWS Glue workloads",
+        "link": "https://aws.amazon.com/blogs/big-data/new-amazon-cloudwatch-log-class-to-cost-effectively-scale-your-aws-glue-workloads/"
+    },
+    {
         "title": "Sun King uses Amazon Redshift data sharing to accelerate data analytics and improve user experience",
         "link": "https://aws.amazon.com/blogs/big-data/sun-king-uses-amazon-redshift-data-sharing-to-accelerate-data-analytics-and-improve-user-experience/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon MSK now provides up to 29% more throughput and up to 24% lower costs with AWS Graviton3 support",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-now-provides-up-to-29-more-throughput-and-up-to-24-lower-costs-with-aws-graviton3-support/"
-    },
-    {
-        "title": "Use Amazon EMR with S3 Access Grants to scale Spark access to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-emr-with-s3-access-grants-to-scale-spark-access-to-amazon-s3/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate the testing and verification of Amazon EKS upgrades with upgrade insights",
+        "link": "https://aws.amazon.com/blogs/containers/accelerate-the-testing-and-verification-of-amazon-eks-upgrades-with-upgrade-insights/"
+    },
+    {
         "title": "A deep dive into simplified Amazon EKS access management controls",
         "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-simplified-amazon-eks-access-management-controls/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Smartsheet optimized cost and performance with AWS Graviton and AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/how-smartsheet-optimized-cost-and-performance-with-aws-graviton-and-aws-fargate/"
-    },
-    {
-        "title": "Cognitive Systems Corp.\u2019s Amazon EKS journey: Wi-Fi Sensing technology",
-        "link": "https://aws.amazon.com/blogs/containers/cognitive-systems-corp-s-amazon-eks-journey-wi-fi-sensing-technology/"
     }
 ]

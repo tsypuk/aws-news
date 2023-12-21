@@ -1,5 +1,9 @@
 [
     {
+        "title": "macOS support policy updates for the AWS CLI v2",
+        "link": "https://aws.amazon.com/blogs/developer/macos-support-policy-updates-for-the-aws-cli-v2/"
+    },
+    {
         "title": "Announcing general availability of the AWS SDK for Rust",
         "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Configuring .NET Garbage Collection for Amazon ECS and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/developer/configuring-net-garbage-collection-for-amazon-ecs-and-aws-lambda/"
-    },
-    {
-        "title": "Introducing a new client in the AWS SDK for Java 2.x for retrieving EC2 Instance Metadata",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-a-new-client-in-the-aws-sdk-for-java-2-x-for-retrieving-ec2-instance-metadata/"
     }
 ]
