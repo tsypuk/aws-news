@@ -1,5 +1,9 @@
 [
     {
+        "title": "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "Llama Guard is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Mitigate hallucinations through Retrieval Augmented Generation using Pinecone vector database & Llama-2 from Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/mitigate-hallucinations-through-retrieval-augmented-generation-using-pinecone-vector-database-llama-2-from-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Techniques for automatic summarization of documents using language models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/techniques-for-automatic-summarization-of-documents-using-language-models/"
     }
 ]

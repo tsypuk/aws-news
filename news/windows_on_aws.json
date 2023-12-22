@@ -1,5 +1,13 @@
 [
     {
+        "title": "Caylent: Helping customers modernize Microsoft SQL Server with purpose-built databases on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/caylent-modernize-microsoft-sql-server-with-purpose-built-databases-on-aws/"
+    },
+    {
+        "title": "Automate rotating IAM credentials for SQL Server backups to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-rotating-iam-credentials-for-sql-server-backups-to-amazon-s3/"
+    },
+    {
         "title": "Year in review 2023: AWS for Microsoft workloads",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/year-in-review-2023-aws-for-microsoft-workloads/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Refactor to Modern .NET and Move to Linux",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/refactor-to-modern-net-and-move-to-linux/"
-    },
-    {
-        "title": "Reserve your seat: Microsoft workloads on AWS sessions at re:Invent 2023",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reserve-your-seat-microsoft-workloads-on-aws-sessions-at-reinvent-2023/"
-    },
-    {
-        "title": "Comparing performance of new releases of Babelfish and comparing Babelfish performance with SQL Server",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/comparing-performance-of-new-releases-of-babelfish-and-comparing-babelfish-performance-with-sql-server/"
     }
 ]
