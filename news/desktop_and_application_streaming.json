@@ -1,5 +1,9 @@
 [
     {
+        "title": "Creating custom Amazon CloudWatch dashboards and widgets for Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/creating-custom-amazon-cloudwatch-dashboards-and-widgets-for-amazon-workspaces/"
+    },
+    {
         "title": "Collaborative Neuron Tracing on AWS",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/collaborative-neuron-tracing-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize Amazon WorkSpaces performance with the EUC Metrics Portal",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-amazon-workspaces-performance-with-the-euc-metrics-portal/"
-    },
-    {
-        "title": "From traditional to transformational: Converting applications to SaaS with Amazon AppStream 2.0",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/from-traditional-to-transformational-converting-applications-to-saas-with-amazon-appstream-2-0/"
     }
 ]

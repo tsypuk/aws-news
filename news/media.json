@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing Elastic IP addresses from accidental release",
+        "link": "https://aws.amazon.com/blogs/mt/securing-elastic-ip-addresses-from-accidental-release/"
+    },
+    {
         "title": "Manage EC2 Launch Templates at scale during rehost migrations with AWS MGN",
         "link": "https://aws.amazon.com/blogs/mt/manage-ec2-launch-templates-at-scale-during-rehost-migrations-with-aws-mgn/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to record resource configuration changes periodically with AWS Config",
         "link": "https://aws.amazon.com/blogs/mt/how-to-record-resource-configuration-changes-periodically-with-aws-config/"
-    },
-    {
-        "title": "Audit and visualize ephemeral EC2 instances using AWS CloudTrail Lake as a zero-ETL data source in Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/mt/audit-and-visualize-ephemeral-ec2-instances-using-aws-cloudtrail-lake-as-a-zero-etl-data-source-in-amazon-athena/"
     }
 ]
