@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize end user experience for Zoom\u00ae on Amazon AppStream 2.0",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-end-user-experience-for-zoom-on-amazon-appstream-2-0/"
+    },
+    {
+        "title": "Getting Started with Amazon WorkSpaces Thin Client",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/7941-2/"
+    },
+    {
         "title": "Creating custom Amazon CloudWatch dashboards and widgets for Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/creating-custom-amazon-cloudwatch-dashboards-and-widgets-for-amazon-workspaces/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Securely stream AWS workloads to your remote workers",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/securely-stream-aws-workloads-to-your-remote-workers/"
-    },
-    {
-        "title": "Deploying and managing Amazon WorkSpaces applications with Ansible",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/deploying-and-managing-amazon-workspaces-applications-with-ansible/"
-    },
-    {
-        "title": "Optimize Amazon WorkSpaces performance with the EUC Metrics Portal",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-amazon-workspaces-performance-with-the-euc-metrics-portal/"
     }
 ]

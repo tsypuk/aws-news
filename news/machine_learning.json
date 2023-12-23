@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon SageMaker model parallel library now accelerates PyTorch FSDP workloads by up to 20%",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-model-parallel-library-now-accelerates-pytorch-fsdp-workloads-by-up-to-20/"
+    },
+    {
+        "title": "Mixtral-8x7B is now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Deploy foundation models with Amazon SageMaker, iterate and monitor with TruEra",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/"
+    },
+    {
+        "title": "Build generative AI agents with Amazon Bedrock, Amazon DynamoDB, Amazon Kendra, Amazon Lex, and LangChain",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-agents-with-amazon-bedrock-amazon-dynamodb-amazon-kendra-amazon-lex-and-langchain/"
+    },
+    {
         "title": "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Create a web UI to interact with LLMs using Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-web-ui-to-interact-with-llms-using-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Frugality meets Accuracy: Cost-efficient training of GPT NeoX and Pythia models with AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/frugality-meets-accuracy-cost-efficient-training-of-gpt-neox-and-pythia-models-with-aws-trainium/"
-    },
-    {
-        "title": "Vodafone advances its machine learning skills with AWS DeepRacer and Accenture",
-        "link": "https://aws.amazon.com/blogs/machine-learning/vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture/"
-    },
-    {
-        "title": "Getir end-to-end workforce management: Amazon Forecast and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/getir-end-to-end-workforce-management-amazon-forecast-and-aws-step-functions/"
-    },
-    {
-        "title": "Mitigate hallucinations through Retrieval Augmented Generation using Pinecone vector database & Llama-2 from Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mitigate-hallucinations-through-retrieval-augmented-generation-using-pinecone-vector-database-llama-2-from-amazon-sagemaker-jumpstart/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Effective use: Amazon ECS lifecycle events with Amazon CloudWatch logs insights",
+        "link": "https://aws.amazon.com/blogs/containers/effective-use-amazon-ecs-lifecycle-events-with-amazon-cloudwatch-logs-insights/"
+    },
+    {
+        "title": "Run Monte Carlo simulations at scale with AWS Step Functions and AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/containers/run-monte-carlo-simulations-at-scale-with-aws-step-functions-and-aws-fargate/"
+    },
+    {
         "title": "Accelerate the testing and verification of Amazon EKS upgrades with upgrade insights",
         "link": "https://aws.amazon.com/blogs/containers/accelerate-the-testing-and-verification-of-amazon-eks-upgrades-with-upgrade-insights/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Use SMB storage with Windows containers on AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/use-smb-storage-with-windows-containers-on-aws-fargate/"
-    },
-    {
-        "title": "AWS App Runner improves performance for image-based deployments",
-        "link": "https://aws.amazon.com/blogs/containers/aws-app-runner-improves-performance-for-image-based-deployments/"
-    },
-    {
-        "title": "How Smartsheet optimized cost and performance with AWS Graviton and AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/containers/how-smartsheet-optimized-cost-and-performance-with-aws-graviton-and-aws-fargate/"
     }
 ]
