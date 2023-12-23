@@ -1,5 +1,13 @@
 [
     {
+        "title": "Best Practices to help secure your container image build pipeline by using AWS Signer",
+        "link": "https://aws.amazon.com/blogs/security/best-practices-to-help-secure-your-container-image-build-pipeline-by-using-aws-signer/"
+    },
+    {
+        "title": "Access AWS using a Google Cloud Platform native workload identity",
+        "link": "https://aws.amazon.com/blogs/security/access-aws-using-a-google-cloud-platform-native-workload-identity/"
+    },
+    {
         "title": "How to implement client certificate revocation list checks at scale with API Gateway",
         "link": "https://aws.amazon.com/blogs/security/how-to-implement-client-certificate-revocation-list-checks-at-scale-with-api-gateway/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing IAM Access Analyzer custom policy checks",
         "link": "https://aws.amazon.com/blogs/security/introducing-iam-access-analyzer-custom-policy-checks/"
-    },
-    {
-        "title": "How to use the BatchGetSecretValue API to improve your client-side applications with AWS Secrets Manager",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-batchgetsecretsvalue-api-to-improve-your-client-side-applications-with-aws-secrets-manager/"
-    },
-    {
-        "title": "How to use the PassRole permission with IAM roles",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-passrole-permission-with-iam-roles/"
     }
 ]

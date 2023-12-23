@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify Operations for AWS Launch Wizard for SAP deployments using AWS Systems Manager for SAP",
+        "link": "https://aws.amazon.com/blogs/awsforsap/simplify-operations-for-aws-launch-wizard-for-sap-deployments-using-aws-systems-manager-for-sap/"
+    },
+    {
         "title": "Automate SAP Deployments with AWS Launch Wizard for SAP APIs",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-sap-deployments-with-aws-launch-wizard-for-sap-apis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate and Simplify SAP HANA Backups with AWS Backup",
         "link": "https://aws.amazon.com/blogs/awsforsap/general-availability-announcement-aws-backup-for-sap-hana-database/"
-    },
-    {
-        "title": "Monitor SAP Applications using Amazon CloudWatch Application Insights",
-        "link": "https://aws.amazon.com/blogs/awsforsap/monitor-sap-amazon-cloudwatch-application-insights/"
     }
 ]

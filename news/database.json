@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlocking performance, scalability, and cost-efficiency of Zomato\u2019s Billing Platform by switching from TiDB to DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/unlocking-performance-scalability-and-cost-efficiency-of-zomatos-billing-platform-by-switching-from-tidb-to-dynamodb/"
+    },
+    {
+        "title": "Securely connect to Amazon RDS for PostgreSQL with AWS Session Manager and IAM authentication",
+        "link": "https://aws.amazon.com/blogs/database/securely-connect-to-amazon-rds-for-postgresql-with-aws-session-manager-and-iam-authentication/"
+    },
+    {
         "title": "Introducing the Data API for Amazon Aurora Serverless v2 and Amazon Aurora provisioned clusters",
         "link": "https://aws.amazon.com/blogs/database/introducing-the-data-api-for-amazon-aurora-serverless-v2-and-amazon-aurora-provisioned-clusters/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New features in AWS DMS 3.5.1",
         "link": "https://aws.amazon.com/blogs/database/new-features-in-aws-dms-3-5-1/"
-    },
-    {
-        "title": "Migrate from Teradata to Amazon Aurora PostgreSQL with Ispirer\u2019s SQLWays migration tool",
-        "link": "https://aws.amazon.com/blogs/database/migrate-from-teradata-to-amazon-aurora-postgresql-with-ispirers-sqlways-migration-tool/"
-    },
-    {
-        "title": "Using write forwarding with Amazon Aurora Global Database for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/using-write-forwarding-with-amazon-aurora-global-database-for-postgresql/"
     }
 ]
