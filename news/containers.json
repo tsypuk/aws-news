@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EKS Pod Identity: a new way for applications on EKS to obtain IAM credentials",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/"
+    },
+    {
         "title": "Effective use: Amazon ECS lifecycle events with Amazon CloudWatch logs insights",
         "link": "https://aws.amazon.com/blogs/containers/effective-use-amazon-ecs-lifecycle-events-with-amazon-cloudwatch-logs-insights/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "A deep dive into resilience and availability on Amazon Elastic Container Service",
         "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-resilience-and-availability-on-amazon-elastic-container-service/"
-    },
-    {
-        "title": "Use SMB storage with Windows containers on AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/containers/use-smb-storage-with-windows-containers-on-aws-fargate/"
     }
 ]
