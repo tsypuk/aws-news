@@ -1,5 +1,9 @@
 [
     {
+        "title": "Schema and code validator for Oracle to Oracle post-migration",
+        "link": "https://aws.amazon.com/blogs/database/schema-and-code-validator-for-oracle-to-oracle-post-migration/"
+    },
+    {
         "title": "Unlocking performance, scalability, and cost-efficiency of Zomato\u2019s Billing Platform by switching from TiDB to DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/unlocking-performance-scalability-and-cost-efficiency-of-zomatos-billing-platform-by-switching-from-tidb-to-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Solutions for building modern applications with Amazon ElastiCache and Amazon MemoryDB for Redis",
         "link": "https://aws.amazon.com/blogs/database/solutions-for-building-modern-applications-with-amazon-elasticache-and-amazon-memorydb-for-redis/"
-    },
-    {
-        "title": "New features in AWS DMS 3.5.1",
-        "link": "https://aws.amazon.com/blogs/database/new-features-in-aws-dms-3-5-1/"
     }
 ]
