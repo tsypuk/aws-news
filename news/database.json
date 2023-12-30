@@ -1,5 +1,13 @@
 [
     {
+        "title": "Convert JSON SQL queries from an Oracle database to a PostgreSQL database",
+        "link": "https://aws.amazon.com/blogs/database/convert-json-sql-queries-from-an-oracle-database-to-a-postgresql-database/"
+    },
+    {
+        "title": "Migrate from SQL Server to Amazon DynamoDB with data transformation using a staging table",
+        "link": "https://aws.amazon.com/blogs/database/migrate-from-sql-server-to-amazon-dynamodb-with-data-transformation-using-a-staging-table/"
+    },
+    {
         "title": "Schema and code validator for Oracle to Oracle post-migration",
         "link": "https://aws.amazon.com/blogs/database/schema-and-code-validator-for-oracle-to-oracle-post-migration/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Architectures for managing array data in PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/architectures-for-managing-array-data-in-postgresql/"
-    },
-    {
-        "title": "Automate the schema validation process for multiple databases like SQL Server, Oracle, PostgreSQL, and MySQL databases using Python",
-        "link": "https://aws.amazon.com/blogs/database/automate-the-schema-validation-process-for-multiple-databases-like-sql-server-oracle-postgresql-and-mysql-databases-using-python/"
-    },
-    {
-        "title": "Solutions for building modern applications with Amazon ElastiCache and Amazon MemoryDB for Redis",
-        "link": "https://aws.amazon.com/blogs/database/solutions-for-building-modern-applications-with-amazon-elasticache-and-amazon-memorydb-for-redis/"
     }
 ]

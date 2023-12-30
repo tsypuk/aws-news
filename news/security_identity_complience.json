@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS successfully renews GSMA security certification for US East (Ohio) and Europe (Paris) Regions",
+        "link": "https://aws.amazon.com/blogs/security/aws-successfully-renews-gsma-security-certification-for-us-east-ohio-and-europe-paris-regions-2/"
+    },
+    {
         "title": "Using Amazon GuardDuty ECS runtime monitoring with Fargate and Amazon EC2",
         "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-ecs-runtime-monitoring-with-fargate-and-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Security at multiple layers for web-administered apps",
         "link": "https://aws.amazon.com/blogs/security/security-at-multiple-layers-for-web-administered-apps/"
-    },
-    {
-        "title": "Introducing new central configuration capabilities in AWS Security Hub",
-        "link": "https://aws.amazon.com/blogs/security/introducing-new-central-configuration-capabilities-in-aws-security-hub/"
     }
 ]
