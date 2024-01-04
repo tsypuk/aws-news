@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining Point-in-Time Recovery (PITR) for Amazon Aurora with AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/streamlining-point-in-time-recovery-pitr-for-amazon-aurora-with-aws-backup/"
+    },
+    {
         "title": "Automating retrievals from the Amazon S3 Glacier storage classes",
         "link": "https://aws.amazon.com/blogs/storage/automating-retrievals-from-the-amazon-s3-glacier-storage-classes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS file storage at re:Invent 2023 in 3 easy steps",
         "link": "https://aws.amazon.com/blogs/storage/aws-file-storage-at-reinvent-2023-in-3-easy-steps/"
-    },
-    {
-        "title": "How PingCAP transformed TiDB into a serverless DBaaS using Amazon S3 and Amazon EBS",
-        "link": "https://aws.amazon.com/blogs/storage/how-pingcap-transformed-tidb-into-a-serverless-dbaas-using-amazon-s3-and-amazon-ebs/"
     }
 ]

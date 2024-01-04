@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate SQL Server databases to AWS with minimal downtime using AWS Migration Hub Orchestrator",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrate-sql-server-databases-to-aws-with-minimal-downtime-using-aws-migration-hub-orchestrator/"
+    },
+    {
         "title": "How to migrate a large-scale SQL Server database over low bandwidth using AWS Application Migration Service",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-migrate-a-large-scale-sql-server-database-over-low-bandwidth-using-aws-application-migration-service/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Configure Microsoft Active Directory to use Amazon Time Sync",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/configure-microsoft-active-directory-to-use-amazon-time-sync/"
-    },
-    {
-        "title": "Optimizing protocol selection when using Amazon FSx for NetApp ONTAP for Microsoft SQL Server",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimizing-protocol-selection-when-using-amazon-fsx-for-netapp-ontap-for-microsoft-sql-server/"
     }
 ]

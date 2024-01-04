@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch Serverless now supports\u00a0automated time-based data deletion",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-now-supports-automated-time-based-data-deletion/"
+    },
+    {
         "title": "Run Kinesis Agent on Amazon ECS",
         "link": "https://aws.amazon.com/blogs/big-data/run-kinesis-agent-on-amazon-ecs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Redshift announcements at AWS re:Invent 2023 to enable analytics on all your data",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-announcements-at-aws-reinvent-2023-to-enable-analytics-on-all-your-data/"
-    },
-    {
-        "title": "Unlocking the value of data as your differentiator",
-        "link": "https://aws.amazon.com/blogs/big-data/unlocking-the-value-of-data-as-your-differentiator/"
     }
 ]
