@@ -1,5 +1,13 @@
 [
     {
+        "title": "re:Invent 2023 DevOps and Developer Productivity Playlist",
+        "link": "https://aws.amazon.com/blogs/devops/reinvent-2023-devops-and-developer-productivity-playlist/"
+    },
+    {
+        "title": "The most visited AWS DevOps blog posts in 2023",
+        "link": "https://aws.amazon.com/blogs/devops/the-most-visited-aws-devops-blogs-in-2023/"
+    },
+    {
         "title": "Best Practices for Prompt Engineering with Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-for-prompt-engineering-with-amazon-codewhisperer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build and deploy to Amazon EKS with Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/build-and-deploy-to-amazon-eks-with-amazon-codecatalyst/"
-    },
-    {
-        "title": "Automate Lambda code signing with Amazon CodeCatalyst and AWS Signer",
-        "link": "https://aws.amazon.com/blogs/devops/automate-lambda-code-signing-with-amazon-codecatalyst-and-aws-signer/"
-    },
-    {
-        "title": "Using Amazon CodeCatalyst Blueprints to Build and Deploy a Video-On-Demand Application to AWS",
-        "link": "https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-blueprints-to-build-and-deploy-a-video-on-demand-application-to-aws/"
     }
 ]

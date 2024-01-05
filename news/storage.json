@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement multi-factor authentication based managed file transfer using AWS Transfer Family and AWS Secrets Manager",
+        "link": "https://aws.amazon.com/blogs/storage/implement-multi-factor-authentication-based-managed-file-transfer-using-aws-transfer-family-and-aws-secrets-manager/"
+    },
+    {
+        "title": "Automatic monitoring of actions taken on objects in Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/automatic-monitoring-of-actions-taken-on-objects-in-amazon-s3/"
+    },
+    {
         "title": "Streamlining Point-in-Time Recovery (PITR) for Amazon Aurora with AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/streamlining-point-in-time-recovery-pitr-for-amazon-aurora-with-aws-backup/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrating Wasabi Object Storage to Amazon S3 using AWS DataSync",
         "link": "https://aws.amazon.com/blogs/storage/migrating-wasabi-object-storage-to-amazon-s3-using-aws-datasync/"
-    },
-    {
-        "title": "Simple and comprehensive data protection with Amazon Data Lifecycle Manager",
-        "link": "https://aws.amazon.com/blogs/storage/simple-and-comprehensive-data-protection-with-amazon-data-lifecycle-manager/"
-    },
-    {
-        "title": "AWS file storage at re:Invent 2023 in 3 easy steps",
-        "link": "https://aws.amazon.com/blogs/storage/aws-file-storage-at-reinvent-2023-in-3-easy-steps/"
     }
 ]
