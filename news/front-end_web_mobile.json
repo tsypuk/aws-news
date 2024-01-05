@@ -1,5 +1,13 @@
 [
     {
+        "title": "The most visited front-end web and mobile blog posts in 2023",
+        "link": "https://aws.amazon.com/blogs/mobile/the-most-visited-front-end-web-and-mobile-blog-posts-in-2023/"
+    },
+    {
+        "title": "re:Invent 2023 Front-end Web and Mobile Productivity Playlist",
+        "link": "https://aws.amazon.com/blogs/mobile/reinvent-2023-front-end-web-and-mobile-productivity-playlist/"
+    },
+    {
         "title": "Create a Fullstack, Sample Web App powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mobile/create-a-fullstack-sample-web-app-powered-by-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "GraphQL Gateway Based Federation with AWS AppSync and GraphQL Fusion",
         "link": "https://aws.amazon.com/blogs/mobile/graphql-gateway-based-federation-with-aws-appsync-and-graphql-fusion/"
-    },
-    {
-        "title": "AWS Amplify UI: 10 new and updated components",
-        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-ui-10-new-and-updated-components/"
-    },
-    {
-        "title": "Build a Geospatial Application with Amazon Location Service API Keys",
-        "link": "https://aws.amazon.com/blogs/mobile/build-a-geospatial-application-with-amazon-location-service-api-keys/"
     }
 ]

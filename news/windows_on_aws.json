@@ -1,5 +1,9 @@
 [
     {
+        "title": "Driving cost optimization and modernization of Microsoft workloads on AWS with SoftServe\u2019s application modernization platform",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/driving-cost-optimization-and-modernization-of-microsoft-workloads-with-softserve/"
+    },
+    {
         "title": "Migrate SQL Server databases to AWS with minimal downtime using AWS Migration Hub Orchestrator",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrate-sql-server-databases-to-aws-with-minimal-downtime-using-aws-migration-hub-orchestrator/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to deploy Extended Security Updates for Windows Server 2012 on Amazon EC2 with AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-extended-security-updates-for-windows-server-2012-on-amazon-ec2-with-aws-systems-manager/"
-    },
-    {
-        "title": "Configure Microsoft Active Directory to use Amazon Time Sync",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/configure-microsoft-active-directory-to-use-amazon-time-sync/"
     }
 ]

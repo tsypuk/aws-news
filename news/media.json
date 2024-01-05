@@ -1,5 +1,17 @@
 [
     {
+        "title": "Custom Post-launch actions and Deployment scripting using AWS Systems Manager and Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/mt/custom-post-launch-actions-and-deployment-scripting-using-aws-systems-manager-and-amazon-codewhisperer/"
+    },
+    {
+        "title": "Accelerating Blue/Green Deployments with AWS MGN Post-Launch Actions",
+        "link": "https://aws.amazon.com/blogs/mt/mgn-pla-1/"
+    },
+    {
+        "title": "How to use AWS Config proactive rules and AWS CloudFormation Hooks to prevent creation of non-complaint cloud resources",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-use-aws-config-proactive-rules-and-aws-cloudformation-hooks-to-prevent-creation-of-non-complaint-cloud-resources/"
+    },
+    {
         "title": "Securing Elastic IP addresses from accidental release",
         "link": "https://aws.amazon.com/blogs/mt/securing-elastic-ip-addresses-from-accidental-release/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Four APM features to elevate your observability experience",
         "link": "https://aws.amazon.com/blogs/mt/four-apm-features-to-elevate-your-observability-experience/"
-    },
-    {
-        "title": "AWS Audit Manager launches AWS Best Practices Framework for Generative AI",
-        "link": "https://aws.amazon.com/blogs/mt/aws-audit-manager-launches-aws-best-practices-framework-for-generative-ai/"
-    },
-    {
-        "title": "Expand the depth of Well-Architected Reviews with the new Lens Catalog Feature",
-        "link": "https://aws.amazon.com/blogs/mt/expand-the-depth-of-well-architected-reviews-with-the-new-lens-catalog-feature/"
-    },
-    {
-        "title": "How to record resource configuration changes periodically with AWS Config",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-record-resource-configuration-changes-periodically-with-aws-config/"
     }
 ]
