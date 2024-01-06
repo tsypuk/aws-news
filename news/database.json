@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate SQL Server indexed views to materialized views in Amazon Aurora PostgreSQL or Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-indexed-views-to-materialized-views-in-amazon-aurora-postgresql-or-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Migrate date functions from Oracle to Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/migrate-date-functions-from-oracle-to-amazon-rds-for-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Set up SSL/TLS client connections to Amazon RDS for SQL Server and Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/set-up-ssl-tls-client-connections-to-amazon-rds-for-sql-server-and-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Convert Oracle DBMS_LOB and collections to Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL using AWS SCT extension packs",
-        "link": "https://aws.amazon.com/blogs/database/convert-oracle-dbms_lob-and-collections-to-amazon-rds-for-postgresql-or-amazon-aurora-postgresql-using-aws-sct-extension-packs/"
     }
 ]
