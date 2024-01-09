@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create a document lake using large-scale text extraction from documents with Amazon Textract",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-document-lake-using-large-scale-text-extraction-from-documents-with-amazon-textract/"
+    },
+    {
         "title": "Modernizing data science lifecycle management with AWS and Wipro",
         "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-data-science-lifecycle-management-with-aws-and-wipro/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Create summaries of recordings using generative AI with Amazon Bedrock and Amazon Transcribe",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/"
-    },
-    {
-        "title": "Fine-tune Llama 2 using QLoRA and Deploy it on Amazon SageMaker with AWS Inferentia2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-using-qlora-and-deploy-it-on-amazon-sagemaker-with-aws-inferentia2/"
     }
 ]
