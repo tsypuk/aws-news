@@ -1,5 +1,13 @@
 [
     {
+        "title": "Inference Llama 2 models with real-time response streaming using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/inference-llama-2-models-with-real-time-response-streaming-using-amazon-sagemaker/"
+    },
+    {
+        "title": "Deploy a Slack gateway for Amazon Q, your business expert",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-slack-gateway-for-amazon-q-your-business-expert/"
+    },
+    {
         "title": "Create a document lake using large-scale text extraction from documents with Amazon Textract",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-document-lake-using-large-scale-text-extraction-from-documents-with-amazon-textract/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Improve your Stable Diffusion prompts with Retrieval Augmented Generation",
         "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-stable-diffusion-prompts-with-retrieval-augmented-generation/"
-    },
-    {
-        "title": "Streamlining ETL data processing at Talent.com with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-etl-data-processing-at-talent-com-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Create summaries of recordings using generative AI with Amazon Bedrock and Amazon Transcribe",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-summaries-of-recordings-using-generative-ai-with-amazon-bedrock-and-amazon-transcribe/"
     }
 ]

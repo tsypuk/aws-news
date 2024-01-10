@@ -1,5 +1,17 @@
 [
     {
+        "title": "The top 5 challenges of public service transformation",
+        "link": "https://aws.amazon.com/blogs/publicsector/the-top-5-challenges-of-public-service-transformation/"
+    },
+    {
+        "title": "Building hybrid satellite imagery processing pipelines in AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-hybrid-satellite-imagery-processing-pipelines-aws/"
+    },
+    {
+        "title": "15 startups selected for the inaugural AWS Education Accelerator",
+        "link": "https://aws.amazon.com/blogs/publicsector/15-startups-selected-for-the-inaugural-aws-education-accelerator/"
+    },
+    {
         "title": "Kyndryl helps Arizona MVD transform customer experience with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/publicsector/kyndryl-helps-arizona-mvd-transform-customer-experience-with-amazon-connect/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "SeloVerde uses geospatial big data and AI/ML to monitor deforestation in supply chains, powered by AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/seloverde-uses-geospatial-big-data-and-ai-ml-to-monitor-deforestation-in-supply-chains-powered-by-aws/"
-    },
-    {
-        "title": "Covered California provides affordable healthcare access, powered by AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/covered-california-provides-affordable-healthcare-access-powered-by-aws/"
-    },
-    {
-        "title": "Icometrix helps to detect and treat neurological diseases with AI imaging, powered by AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/icometrix-helps-to-detect-and-treat-neurological-diseases-with-ai-imaging-powered-by-aws/"
-    },
-    {
-        "title": "Nebraska Judicial Branch modernizes its Electronic Exhibits System using AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/nebraska-judicial-branch-modernizes-its-electronic-exhibits-system-using-aws/"
     }
 ]
