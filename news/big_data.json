@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch Service search enhancements: 2023 roundup",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-search-enhancements-2023-roundup/"
+    },
+    {
         "title": "Architectural patterns for real-time analytics using Amazon Kinesis Data Streams, part 1",
         "link": "https://aws.amazon.com/blogs/big-data/architectural-patterns-for-real-time-analytics-using-amazon-kinesis-data-streams-part-1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Eightfold AI implemented metadata security in a multi-tenant data analytics environment with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/how-eightfold-ai-implemented-metadata-security-in-a-multi-tenant-data-analytics-environment-with-amazon-redshift/"
-    },
-    {
-        "title": "Build and manage your modern data stack using dbt and AWS Glue through dbt-glue, the new \u201ctrusted\u201d dbt adapter",
-        "link": "https://aws.amazon.com/blogs/big-data/build-and-manage-your-modern-data-stack-using-dbt-and-aws-glue-through-dbt-glue-the-new-trusted-dbt-adapter/"
     }
 ]
