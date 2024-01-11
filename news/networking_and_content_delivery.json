@@ -1,5 +1,13 @@
 [
     {
+        "title": "Learn how LambdaTest transformed its global hybrid network using AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/learn-how-lambdatest-transformed-its-global-hybrid-network-using-aws/"
+    },
+    {
+        "title": "Using VPC Reachability Analyzer to discover network paths across multiple AWS Regions",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-reachability-analyzer-to-discover-network-paths-across-multiple-aws-regions/"
+    },
+    {
         "title": "Automating CloudFront Continuous Deployment with a CI/CD Pipeline",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-cloudfront-continuous-deployment-with-a-ci-cd-pipeline/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Tracking pixel driven web analytics with Amazon CloudFront: Part 2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/tracking-pixel-driven-web-analytics-with-aws-edge-services-part-2/"
-    },
-    {
-        "title": "Announcing cross-account support for AWS Global Accelerator",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/announcing-cross-account-support-for-aws-global-accelerator/"
-    },
-    {
-        "title": "Experian: Centralized internet ingress using AWS Gateway Load Balancer and AWS Transit Gateway",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/experian-centralized-internet-ingress-using-aws-gateway-load-balancer-and-aws-transit-gateway/"
     }
 ]
