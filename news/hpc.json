@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create a Slurm cluster for semiconductor design with AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/hpc/create-a-slurm-cluster-for-semiconductor-design-with-aws-parallelcluster/"
+    },
+    {
         "title": "Using a Level 4 Digital Twin for scenario analysis and risk assessment of manufacturing production on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/using-a-level-4-digital-twin-for-scenario-analysis-and-risk-assessment-of-manufacturing-production-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Amazon\u2019s Search M5 team optimizes compute resources and cost with fair-share scheduling on AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/how-amazons-search-m5-team-optimizes-compute-resources-and-cost-with-fair-share-scheduling-on-aws-batch/"
-    },
-    {
-        "title": "Bursting your HPC applications to AWS is now easier with Amazon File Cache and AWS ParallelCluster",
-        "link": "https://aws.amazon.com/blogs/hpc/bursting-your-hpc-applications-to-aws-is-now-easier-with-amazon-file-cache-and-aws-parallelcluster/"
     }
 ]

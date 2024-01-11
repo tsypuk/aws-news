@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enable metric-based and scheduled scaling for Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/enable-metric-based-and-scheduled-scaling-for-amazon-managed-service-for-apache-flink/"
+    },
+    {
+        "title": "Achieve high availability in Amazon OpenSearch Multi-AZ with Standby enabled domains: A deep dive into failovers",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-high-availability-in-amazon-opensearch-multi-az-with-standby-enabled-domains-a-deep-dive-into-failovers/"
+    },
+    {
         "title": "Amazon OpenSearch Service search enhancements: 2023 roundup",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-search-enhancements-2023-roundup/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Integrate Okta with Amazon Redshift Query Editor V2 using AWS IAM Identity Center for seamless Single Sign-On",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-okta-with-amazon-redshift-query-editor-v2-using-aws-iam-identity-center-for-seamless-single-sign-on/"
-    },
-    {
-        "title": "Prepare and load Amazon S3 data into Teradata using AWS Glue through its native connector for Teradata Vantage",
-        "link": "https://aws.amazon.com/blogs/big-data/prepare-and-load-amazon-s3-data-into-teradata-using-aws-glue-through-its-native-connector-for-teradata-vantage/"
-    },
-    {
-        "title": "How Eightfold AI implemented metadata security in a multi-tenant data analytics environment with Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/how-eightfold-ai-implemented-metadata-security-in-a-multi-tenant-data-analytics-environment-with-amazon-redshift/"
     }
 ]

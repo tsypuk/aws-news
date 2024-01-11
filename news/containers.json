@@ -1,5 +1,13 @@
 [
     {
+        "title": "Spark on Amazon EKS networking \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/containers/spark-on-amazon-eks-networking-part-2/"
+    },
+    {
+        "title": "Spark on Amazon EKS networking \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/containers/spark-on-amazon-eks-networking-part-1/"
+    },
+    {
         "title": "Amazon EKS Pod Identity: a new way for applications on EKS to obtain IAM credentials",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Discover application refactoring with the EKS Developers Workshop",
         "link": "https://aws.amazon.com/blogs/containers/discover-application-refactoring-with-the-eks-developers-workshop/"
-    },
-    {
-        "title": "Use private certificates to enable a container repository in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/use-private-certificates-to-enable-a-container-repository-in-amazon-eks/"
-    },
-    {
-        "title": "A deep dive into resilience and availability on Amazon Elastic Container Service",
-        "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-resilience-and-availability-on-amazon-elastic-container-service/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a Cloud Gateway to Ingest RTSP video to Amazon Kinesis Video Streams",
+        "link": "https://aws.amazon.com/blogs/iot/build-a-cloud-gateway-to-ingest-rtsp-video-to-amazon-kinesis-video-streams/"
+    },
+    {
         "title": "AWS IoT Core now supports private certificate authorities with fleet provisioning",
         "link": "https://aws.amazon.com/blogs/iot/aws-iot-core-private-certificate-authorities-with-fleet-provisioning/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor edge application performance using AWS IoT Greengrass and AWS Distro for OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/iot/monitor-edge-application-performance-using-aws-iot-greengrass-and-aws-distro-for-opentelemetry/"
-    },
-    {
-        "title": "Navigating IoT Product Lifecycle Management with AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/navigating-iot-product-lifecycle-management-with-aws-iot/"
     }
 ]

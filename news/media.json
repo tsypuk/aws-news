@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Unitary achieved automatic metric collection with Amazon Managed Service for Prometheus collector",
+        "link": "https://aws.amazon.com/blogs/mt/how-unitary-achieved-automatic-metric-collection-with-amazon-managed-service-for-prometheus-collector/"
+    },
+    {
+        "title": "Multi-tenant monitoring across accounts and regions using Amazon Managed Service for Prometheus",
+        "link": "https://aws.amazon.com/blogs/mt/multi-tenant-monitoring-across-accounts-and-regions-using-amazon-managed-for-prometheus/"
+    },
+    {
         "title": "Custom Post-launch actions and Deployment scripting using AWS Systems Manager and Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/mt/custom-post-launch-actions-and-deployment-scripting-using-aws-systems-manager-and-amazon-codewhisperer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify Modernization of your monolithic application using Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/mt/simplify-modernization-of-your-monolithic-application-using-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Visualize AWS Health events using Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/mt/visualize-aws-health-events-using-amazon-managed-grafana/"
-    },
-    {
-        "title": "Four APM features to elevate your observability experience",
-        "link": "https://aws.amazon.com/blogs/mt/four-apm-features-to-elevate-your-observability-experience/"
     }
 ]
