@@ -1,5 +1,9 @@
 [
     {
+        "title": "Level-Up Player Retention with No-Code Machine Learning Using Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/gametech/level-up-player-retention-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "Deploy Unreal Engines Pixel Streaming at scale on AWS",
         "link": "https://aws.amazon.com/blogs/gametech/deploy-unreal-engines-pixel-streaming-at-scale-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Combining content moderation services with graph databases & analytics to reduce community toxicity",
         "link": "https://aws.amazon.com/blogs/gametech/combining-content-moderation-services-with-graph-databases-analytics-to-reduce-community-toxicity/"
-    },
-    {
-        "title": "Pixel Federation goes all-in on AWS with help from Labyrinth Labs",
-        "link": "https://aws.amazon.com/blogs/gametech/pixel-federation-goes-all-in-on-aws-with-help-from-labyrinth-labs/"
     }
 ]
