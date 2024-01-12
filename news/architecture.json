@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Zurich Insurance Group built their Scalable Account Vending process using AWS Account Factory for Terraform",
+        "link": "https://aws.amazon.com/blogs/architecture/how-zurich-insurance-group-built-their-scalable-account-vending-process-using-aws-account-factory-for-terraform/"
+    },
+    {
         "title": "How Sonar built a unified API on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a serverless retail solution for endless aisle on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/building-serverless-endless-aisle-retail-architectures-on-aws/"
-    },
-    {
-        "title": "AWS Cloud service considerations when modernizing account-per-tenant solutions",
-        "link": "https://aws.amazon.com/blogs/architecture/aws-cloud-service-considerations-for-designing-multi-tenant-saas-solutions/"
     }
 ]

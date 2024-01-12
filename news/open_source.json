@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Istio Traffic Management on Amazon EKS to Enhance User Experience",
+        "link": "https://aws.amazon.com/blogs/opensource/using-istio-traffic-management-to-enhance-user-experience/"
+    },
+    {
         "title": "Two New Open Source Rust Crates Create Easier Cedar Policy Management",
         "link": "https://aws.amazon.com/blogs/opensource/easier-cedar-policy-management/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Steampipe Relationship Graphs to Navigate Cloud Resources on AWS",
         "link": "https://aws.amazon.com/blogs/opensource/using-the-new-relationship-graph-capabilities-in-open-source-steampipe-on-aws/"
-    },
-    {
-        "title": "Kubernetes Multi-Cluster Service Discovery using Open Source AWS Cloud Map MCS Controller",
-        "link": "https://aws.amazon.com/blogs/opensource/kubernetes-multi-cluster-service-discovery-using-open-source-aws-cloud-map-mcs-controller/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon ECS supports a native integration with Amazon EBS volumes for data-intensive workloads",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-supports-a-native-integration-with-amazon-ebs-volumes-for-data-intensive-workloads/"
+    },
+    {
         "title": "Happy New Year! AWS Weekly Roundup \u2013 January 8, 2024",
         "link": "https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-january-8-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leverage foundation models for business analysis at scale with Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/aws/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Introducing highly durable Amazon OpenSearch Service clusters with 30% price/performance improvement",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-highly-durable-amazon-opensearch-service-clusters-with-30-price-performance-improvement/"
     }
 ]
