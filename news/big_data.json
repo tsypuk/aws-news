@@ -1,5 +1,9 @@
 [
     {
+        "title": "Detect, mask, and redact PII data using AWS Glue before loading into Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/detect-mask-and-redact-pii-data-using-aws-glue-before-loading-into-amazon-opensearch-service/"
+    },
+    {
         "title": "Enable metric-based and scheduled scaling for Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/enable-metric-based-and-scheduled-scaling-for-amazon-managed-service-for-apache-flink/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How HR&A uses Amazon Redshift spatial analytics on Amazon Redshift Serverless to measure digital equity in states across the US",
         "link": "https://aws.amazon.com/blogs/big-data/how-hra-uses-amazon-redshift-spatial-analytics-on-amazon-redshift-serverless-to-measure-digital-equity-in-states-across-the-us/"
-    },
-    {
-        "title": "Integrate Okta with Amazon Redshift Query Editor V2 using AWS IAM Identity Center for seamless Single Sign-On",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-okta-with-amazon-redshift-query-editor-v2-using-aws-iam-identity-center-for-seamless-single-sign-on/"
     }
 ]

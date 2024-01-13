@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build financial search applications using the Amazon Bedrock Cohere multilingual embedding model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-search-applications-using-the-amazon-bedrock-cohere-multilingual-embedding-model/"
+    },
+    {
         "title": "Ball position tracking in the cloud with the PGA TOUR",
         "link": "https://aws.amazon.com/blogs/machine-learning/ball-position-tracking-in-the-cloud-with-the-pga-tour/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/"
-    },
-    {
-        "title": "How AWS Prototyping enabled ICL-Group to build computer vision models on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-prototyping-enabled-icl-group-to-build-computer-vision-models-on-amazon-sagemaker/"
     }
 ]

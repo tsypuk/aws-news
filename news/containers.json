@@ -1,5 +1,21 @@
 [
     {
+        "title": "Deploying and scaling Apache Kafka on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/deploying-and-scaling-apache-kafka-on-amazon-eks/"
+    },
+    {
+        "title": "How to leverage Application Load Balancer\u2019s advanced request routing to route application traffic across multiple Amazon EKS clusters",
+        "link": "https://aws.amazon.com/blogs/containers/how-to-leverage-application-load-balancers-advanced-request-routing-to-route-application-traffic-across-multiple-amazon-eks-clusters/"
+    },
+    {
+        "title": "Signing and Validating OCI Artifacts with AWS Signer",
+        "link": "https://aws.amazon.com/blogs/containers/signing-and-validating-oci-artifacts-with-aws-signer/"
+    },
+    {
+        "title": "Accelerating feature delivery and improving reliability for a semi-stateful, memory-bound workload",
+        "link": "https://aws.amazon.com/blogs/containers/accelerating-feature-delivery-and-improving-reliability-for-a-semi-stateful-memory-bound-workload/"
+    },
+    {
         "title": "Spark on Amazon EKS networking \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/containers/spark-on-amazon-eks-networking-part-2/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Accelerate the testing and verification of Amazon EKS upgrades with upgrade insights",
         "link": "https://aws.amazon.com/blogs/containers/accelerate-the-testing-and-verification-of-amazon-eks-upgrades-with-upgrade-insights/"
-    },
-    {
-        "title": "A deep dive into simplified Amazon EKS access management controls",
-        "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-simplified-amazon-eks-access-management-controls/"
-    },
-    {
-        "title": "Deploy an Amazon EKS cluster across AWS Outposts with Intra-VPC communication",
-        "link": "https://aws.amazon.com/blogs/containers/deploy-an-amazon-eks-cluster-across-aws-outposts-with-intra-vpc-communication/"
-    },
-    {
-        "title": "Empowering Kubernetes Observability with eBPF on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/empowering-kubernetes-observability-with-ebpf-on-amazon-eks/"
-    },
-    {
-        "title": "Discover application refactoring with the EKS Developers Workshop",
-        "link": "https://aws.amazon.com/blogs/containers/discover-application-refactoring-with-the-eks-developers-workshop/"
     }
 ]

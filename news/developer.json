@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing end-of-support for AWS SDK for Java v1.x effective December 31, 2025",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-java-v1-x-on-december-31-2025/"
+    },
+    {
+        "title": "Announcing end-of-support for AWS SDK for Go (v1) effective July 31, 2025",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-go-v1-on-july-31-2025/"
+    },
+    {
         "title": "macOS support policy updates for the AWS CLI v2",
         "link": "https://aws.amazon.com/blogs/developer/macos-support-policy-updates-for-the-aws-cli-v2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS SDK for Go Aligns with Go Release Policy on Supported Runtimes",
         "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-go-aligns-with-go-release-policy-on-supported-runtimes/"
-    },
-    {
-        "title": "Introducing the Smithy CLI",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-the-smithy-cli/"
-    },
-    {
-        "title": "Configuring .NET Garbage Collection for Amazon ECS and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/developer/configuring-net-garbage-collection-for-amazon-ecs-and-aws-lambda/"
     }
 ]
