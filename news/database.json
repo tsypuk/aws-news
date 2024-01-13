@@ -1,5 +1,9 @@
 [
     {
+        "title": "How a small DevOps team at Deutsche Bahn unlocked analytics for their SaaS product",
+        "link": "https://aws.amazon.com/blogs/database/how-a-small-devops-team-at-deutsche-bahn-unlocked-analytics-for-their-saas-product/"
+    },
+    {
         "title": "Effective data sorting with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/effective-data-sorting-with-amazon-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate time-series data from Amazon RDS for PostgreSQL to Amazon Timestream using batch load",
         "link": "https://aws.amazon.com/blogs/database/migrate-time-series-data-from-amazon-rds-for-postgresql-to-amazon-timestream-using-batch-load/"
-    },
-    {
-        "title": "Build Account Abstraction wallets with AWS and Alchemy",
-        "link": "https://aws.amazon.com/blogs/database/build-account-abstraction-wallets-with-aws-and-alchemy/"
     }
 ]

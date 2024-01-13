@@ -1,5 +1,9 @@
 [
     {
+        "title": "Genpact\u2019s AI-Powered Solution Helps Amazon Outsource its Device Repair Service in Europe",
+        "link": "https://aws.amazon.com/blogs/apn/genpact-ai-powered-solution-helps-amazon-outsource-its-device-repair-service-in-europe/"
+    },
+    {
         "title": "Reducing Inference Times by 87% for Darwinbox\u2019s Talent Search Engine Using AWS Inferentia",
         "link": "https://aws.amazon.com/blogs/apn/reducing-inference-times-by-87-percent-for-darwinbox-talent-search-engine-using-aws-inferentia/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Cloudanix Secures Containerized Applications Running on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/apn/how-cloudanix-secures-containerized-applications-running-on-amazon-eks/"
-    },
-    {
-        "title": "Migrating the SQL Server Reporting Services Platform to Amazon QuickSight for Cloud-Native Business Intelligence",
-        "link": "https://aws.amazon.com/blogs/apn/migrating-the-sql-server-reporting-services-platform-to-amazon-quicksight-for-cloud-native-business-intelligence/"
     }
 ]
