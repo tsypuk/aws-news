@@ -1,5 +1,9 @@
 [
     {
+        "title": "Load testing the Pragma backend game engine to 1 million concurrent users on AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/load-testing-the-pragma-backend-game-engine-to-1-million-concurrent-users-on-aws/"
+    },
+    {
         "title": "Level-Up Player Retention with No-Code Machine Learning Using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/gametech/level-up-player-retention-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Dream11 uses an in-house scaling platform to scale resources on AWS for efficiency and reliability",
         "link": "https://aws.amazon.com/blogs/gametech/how-dream11-uses-an-in-house-scaling-platform/"
-    },
-    {
-        "title": "Combining content moderation services with graph databases & analytics to reduce community toxicity",
-        "link": "https://aws.amazon.com/blogs/gametech/combining-content-moderation-services-with-graph-databases-analytics-to-reduce-community-toxicity/"
     }
 ]

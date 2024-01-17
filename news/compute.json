@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using generative infrastructure as code with Application Composer",
+        "link": "https://aws.amazon.com/blogs/compute/using-generative-infrastructure-as-code-with-application-composer/"
+    },
+    {
         "title": "Serverless ICYMI Q4 2023",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2023/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The serverless attendee\u2019s guide to AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/compute/the-serverless-attendees-guide-to-aws-reinvent-2023/"
-    },
-    {
-        "title": "Enhanced Amazon CloudWatch metrics for Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/compute/enhanced-amazon-cloudwatch-metrics-for-amazon-eventbridge/"
     }
 ]

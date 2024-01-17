@@ -1,5 +1,9 @@
 [
     {
+        "title": "Host the Whisper Model on Amazon SageMaker: exploring inference options",
+        "link": "https://aws.amazon.com/blogs/machine-learning/host-the-whisper-model-on-amazon-sagemaker-exploring-inference-options/"
+    },
+    {
         "title": "Build financial search applications using the Amazon Bedrock Cohere multilingual embedding model",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-search-applications-using-the-amazon-bedrock-cohere-multilingual-embedding-model/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/"
     }
 ]

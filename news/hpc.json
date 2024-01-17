@@ -1,5 +1,9 @@
 [
     {
+        "title": "Save up to 90% using EC2 Spot, even for long-running HPC jobs",
+        "link": "https://aws.amazon.com/blogs/hpc/save-up-to-90-using-ec2-spot-even-for-long-running-hpc-jobs/"
+    },
+    {
         "title": "Enhancing ML workflows with AWS ParallelCluster and Amazon EC2 Capacity Blocks for ML",
         "link": "https://aws.amazon.com/blogs/hpc/enhancing-ml-workflows-with-aws-parallelcluster-and-amazon-ec2-capacity-blocks-for-ml/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Real-time quant trading on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/real-time-quant-trading-on-aws/"
-    },
-    {
-        "title": "How Maxar builds short duration \u2018bursty\u2019 HPC workloads on AWS at scale",
-        "link": "https://aws.amazon.com/blogs/hpc/how-maxar-builds-short-duration-bursty-hpc-workloads-on-aws-at-scale/"
     }
 ]
