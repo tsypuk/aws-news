@@ -1,5 +1,9 @@
 [
     {
+        "title": "Real-time serverless data ingestion from your Kafka clusters into Amazon Timestream using Kafka Connect",
+        "link": "https://aws.amazon.com/blogs/database/real-time-serverless-data-ingestion-from-your-kafka-clusters-into-amazon-timestream-using-kafka-connect/"
+    },
+    {
         "title": "Intuit\u2019s implementation of Amazon Aurora mixed-configuration cluster: Achieving high availability, disaster recovery, and up to 55% cost savings",
         "link": "https://aws.amazon.com/blogs/database/intuits-implementation-of-amazon-aurora-mixed-configuration-cluster-achieving-high-availability-disaster-recovery-and-up-to-55-cost-savings/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Insights into AWS DMS resiliency and recovery scenarios with mitigations \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/database/insights-into-aws-dms-resiliency-and-recovery-scenarios-with-mitigations-part-1/"
-    },
-    {
-        "title": "Insights into AWS DMS resiliency and recovery scenarios with mitigations \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/database/insights-into-aws-dms-resiliency-and-recovery-scenarios-with-mitigations-part-2/"
     }
 ]

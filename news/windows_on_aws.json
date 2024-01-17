@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate Amazon EC2 Auto Scaling for Microsoft Windows workloads",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-amazon-ec2-auto-scaling-for-microsoft-windows-workloads/"
+    },
+    {
         "title": "How to deploy a SQL Server failover cluster with Amazon EBS Multi-Attach on Windows Server",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-a-sql-server-failover-cluster-with-amazon-ebs-multi-attach-on-windows-server/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to manually downgrade SQL Server Enterprise edition to Developer edition on AWS and save on licensing costs",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-manually-downgrade-sql-server-enterprise-edition-to-developer-edition-on-aws-and-save-on-licensing-costs/"
-    },
-    {
-        "title": "Containerize your legacy ASP.NET application in a few clicks using AWS Migration Hub Orchestrator",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-asp-net-application-using-aws-migration-hub-orchestrator/"
     }
 ]

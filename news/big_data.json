@@ -1,5 +1,9 @@
 [
     {
+        "title": "Disaster recovery strategies for Amazon MWAA \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/big-data/disaster-recovery-strategies-for-amazon-mwaa-part-1/"
+    },
+    {
         "title": "Detect, mask, and redact PII data using AWS Glue before loading into Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/detect-mask-and-redact-pii-data-using-aws-glue-before-loading-into-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Clean Rooms proof of concept scoping part 1: media measurement",
         "link": "https://aws.amazon.com/blogs/big-data/aws-clean-rooms-proof-of-concept-scoping-part-1-media-measurement/"
-    },
-    {
-        "title": "How HR&A uses Amazon Redshift spatial analytics on Amazon Redshift Serverless to measure digital equity in states across the US",
-        "link": "https://aws.amazon.com/blogs/big-data/how-hra-uses-amazon-redshift-spatial-analytics-on-amazon-redshift-serverless-to-measure-digital-equity-in-states-across-the-us/"
     }
 ]
