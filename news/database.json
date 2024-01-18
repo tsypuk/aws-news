@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate from self-managed Db2 to Amazon RDS for Db2 using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/migrate-from-self-managed-db2-to-amazon-rds-for-db2-using-aws-dms/"
+    },
+    {
+        "title": "Migrate JSON data from Oracle\u2019s CLOB to Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrate-json-data-from-oracles-clob-to-amazon-aurora-postgresql-and-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Real-time serverless data ingestion from your Kafka clusters into Amazon Timestream using Kafka Connect",
         "link": "https://aws.amazon.com/blogs/database/real-time-serverless-data-ingestion-from-your-kafka-clusters-into-amazon-timestream-using-kafka-connect/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Supercharge your MySQL database on AWS",
         "link": "https://aws.amazon.com/blogs/database/supercharge-your-mysql-database-on-aws/"
-    },
-    {
-        "title": "Increase visibility of performance and events on Amazon RDS and Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/increase-visibility-of-performance-and-events-on-amazon-rds-and-amazon-aurora/"
-    },
-    {
-        "title": "Insights into AWS DMS resiliency and recovery scenarios with mitigations \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/database/insights-into-aws-dms-resiliency-and-recovery-scenarios-with-mitigations-part-1/"
     }
 ]

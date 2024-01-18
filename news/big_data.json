@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enforce fine-grained access control on Open Table Formats via Amazon EMR integrated with AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/enforce-fine-grained-access-control-on-open-table-formats-via-amazon-emr-integrated-with-aws-lake-formation/"
+    },
+    {
+        "title": "Power neural search with AI/ML connectors in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/power-neural-search-with-ai-ml-connectors-in-amazon-opensearch-service/"
+    },
+    {
         "title": "Disaster recovery strategies for Amazon MWAA \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/big-data/disaster-recovery-strategies-for-amazon-mwaa-part-1/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Orchestrate Amazon EMR Serverless Spark jobs with Amazon MWAA, and data validation using Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/orchestrate-amazon-emr-serverless-spark-jobs-with-amazon-mwaa-and-data-validation-using-amazon-athena/"
-    },
-    {
-        "title": "How FanDuel adopted a modern Amazon Redshift architecture to serve critical business workloads",
-        "link": "https://aws.amazon.com/blogs/big-data/how-fanduel-adopted-a-modern-amazon-redshift-architecture-to-serve-critical-business-workloads/"
-    },
-    {
-        "title": "AWS Clean Rooms proof of concept scoping part 1: media measurement",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-clean-rooms-proof-of-concept-scoping-part-1-media-measurement/"
     }
 ]

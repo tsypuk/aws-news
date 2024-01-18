@@ -1,5 +1,13 @@
 [
     {
+        "title": "From Planning to Execution \u2013 Harnessing AWS Migration Hub Journeys to Accelerate Migrations and Modernization",
+        "link": "https://aws.amazon.com/blogs/mt/from-planning-to-execution-harnessing-aws-migration-hub-journeys-mhj-to-accelerate-migrations-and-modernization/"
+    },
+    {
+        "title": "Monitoring Windows services with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/mt/monitoring-windows-services-with-amazon-cloudwatch-2/"
+    },
+    {
         "title": "How Unitary achieved automatic metric collection with Amazon Managed Service for Prometheus collector",
         "link": "https://aws.amazon.com/blogs/mt/how-unitary-achieved-automatic-metric-collection-with-amazon-managed-service-for-prometheus-collector/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "What\u2019s new in AWS Observability at re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/mt/whats-new-in-aws-observability-at-reinvent-2023/"
-    },
-    {
-        "title": "Modernizing WebLogic application to Cloud Native on AWS (Part 1)",
-        "link": "https://aws.amazon.com/blogs/mt/modernizing-weblogic-monolith-to-cloud-native-on-aws/"
-    },
-    {
-        "title": "Simplify Modernization of your monolithic application using Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/mt/simplify-modernization-of-your-monolithic-application-using-amazon-vpc-lattice/"
     }
 ]
