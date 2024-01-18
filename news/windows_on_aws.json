@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate .NET and SQL development with Amazon CodeWhisperer as your AI coding companion",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/net-and-sql-development-with-amazon-codewhisperer/"
+    },
+    {
         "title": "Accelerate Amazon EC2 Auto Scaling for Microsoft Windows workloads",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-amazon-ec2-auto-scaling-for-microsoft-windows-workloads/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Year in review 2023: AWS for Microsoft workloads",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/year-in-review-2023-aws-for-microsoft-workloads/"
-    },
-    {
-        "title": "How to manually downgrade SQL Server Enterprise edition to Developer edition on AWS and save on licensing costs",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-manually-downgrade-sql-server-enterprise-edition-to-developer-edition-on-aws-and-save-on-licensing-costs/"
     }
 ]

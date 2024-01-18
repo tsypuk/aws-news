@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EKS extended support for Kubernetes versions pricing",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/"
+    },
+    {
         "title": "Deploying and scaling Apache Kafka on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/deploying-and-scaling-apache-kafka-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Run Monte Carlo simulations at scale with AWS Step Functions and AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/run-monte-carlo-simulations-at-scale-with-aws-step-functions-and-aws-fargate/"
-    },
-    {
-        "title": "Accelerate the testing and verification of Amazon EKS upgrades with upgrade insights",
-        "link": "https://aws.amazon.com/blogs/containers/accelerate-the-testing-and-verification-of-amazon-eks-upgrades-with-upgrade-insights/"
     }
 ]
