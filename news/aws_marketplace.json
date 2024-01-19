@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Marketplace features to accelerate your renewals strategy",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/aws-marketplace-features-to-accelerate-your-renewals-strategy/"
+    },
+    {
         "title": "API monetization with Stripe, Amazon API Gateway, and Moesif",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/api-monetization-with-stripe-amazon-api-gateway-and-moesif/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Join third-party data in Amazon Redshift with Snowflake using Amazon Athena",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/join-third-party-data-in-amazon-redshift-with-snowflake-using-amazon-athena/"
-    },
-    {
-        "title": "Quant research at scale using AWS and Refinitiv data",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/quant-research-scale-aws-refinitiv-data/"
     }
 ]

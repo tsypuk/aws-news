@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy CloudFormation Hooks to an Organization with service-managed StackSets",
+        "link": "https://aws.amazon.com/blogs/devops/deploy-cloudformation-hooks-to-an-organization-with-service-managed-stacksets/"
+    },
+    {
         "title": "Looking beyond code coverage with Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/devops/looking-beyond-code-coverage-with-amazon-codewhisperer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Blue/Green deployments using AWS CDK Pipelines and AWS CodeDeploy",
         "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-using-aws-cdk-pipelines-and-aws-codedeploy/"
-    },
-    {
-        "title": "Enhancing Resource Isolation in AWS CDK with the App Staging Synthesizer",
-        "link": "https://aws.amazon.com/blogs/devops/enhancing-resource-isolation-in-aws-cdk-with-the-app-staging-synthesizer/"
     }
 ]

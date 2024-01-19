@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing automated and centralized tagging controls with AWS Config and AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/mt/implementing-automated-and-centralized-tagging-controls-with-aws-config-and-aws-organizations/"
+    },
+    {
         "title": "From Planning to Execution \u2013 Harnessing AWS Migration Hub Journeys to Accelerate Migrations and Modernization",
         "link": "https://aws.amazon.com/blogs/mt/from-planning-to-execution-harnessing-aws-migration-hub-journeys-mhj-to-accelerate-migrations-and-modernization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Observe your Azure and AWS workloads simultaneously with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/observe-your-azure-and-aws-workloads-simultaneously-with-amazon-cloudwatch/"
-    },
-    {
-        "title": "What\u2019s new in AWS Observability at re:Invent 2023",
-        "link": "https://aws.amazon.com/blogs/mt/whats-new-in-aws-observability-at-reinvent-2023/"
     }
 ]

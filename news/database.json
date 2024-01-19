@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a mortgage-backed securities data model using Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/build-a-mortgage-backed-securities-data-model-using-amazon-neptune/"
+    },
+    {
         "title": "Migrate from self-managed Db2 to Amazon RDS for Db2 using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/migrate-from-self-managed-db2-to-amazon-rds-for-db2-using-aws-dms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Connect to MySQL and MariaDB from Amazon Aurora and Amazon RDS for PostgreSQL using the mysql_fdw extension",
         "link": "https://aws.amazon.com/blogs/database/connect-to-mysql-and-mariadb-from-amazon-aurora-and-amazon-rds-for-postgresql-using-the-mysql_fdw-extension/"
-    },
-    {
-        "title": "Supercharge your MySQL database on AWS",
-        "link": "https://aws.amazon.com/blogs/database/supercharge-your-mysql-database-on-aws/"
     }
 ]

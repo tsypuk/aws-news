@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to use AWS Database Encryption SDK for client-side encryption and perform searches on encrypted attributes in DynamoDB tables",
+        "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-database-encryption-sdk-for-client-side-encryption-and-perform-searches-on-encrypted-attributes-in-dynamodb-tables/"
+    },
+    {
+        "title": "OT/IT convergence security maturity model",
+        "link": "https://aws.amazon.com/blogs/security/ot-it-convergence-security-maturity-model/"
+    },
+    {
         "title": "Building a security-first mindset: three key themes from AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/security/building-a-security-first-mindset-three-key-themes-from-aws-reinvent-2023/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New report released \u2013 Centralized Trust for Decentralized Uses: Revisiting Private Certificate Authorities",
         "link": "https://aws.amazon.com/blogs/security/new_report_released_centralized_trust_for_decentralized_uses/"
-    },
-    {
-        "title": "Governance at scale: Enforce permissions and compliance by using policy as code",
-        "link": "https://aws.amazon.com/blogs/security/governance-at-scale-enforce-permissions-and-compliance-by-using-policy-as-code/"
-    },
-    {
-        "title": "Strengthening customer third-party due diligence with renewed AWS CyberGRX assessment",
-        "link": "https://aws.amazon.com/blogs/security/strengthening-customer-third-party-due-diligence-with-renewed-aws-cybergrx-assessment/"
     }
 ]
