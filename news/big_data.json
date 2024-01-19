@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Lake Formation 2023 year in review",
+        "link": "https://aws.amazon.com/blogs/big-data/aws-lake-formation-2023-year-in-review/"
+    },
+    {
         "title": "Enforce fine-grained access control on Open Table Formats via Amazon EMR integrated with AWS Lake Formation",
         "link": "https://aws.amazon.com/blogs/big-data/enforce-fine-grained-access-control-on-open-table-formats-via-amazon-emr-integrated-with-aws-lake-formation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Federate IAM-based single sign-on to Amazon Redshift role-based access control with Okta",
         "link": "https://aws.amazon.com/blogs/big-data/federate-iam-based-single-sign-on-to-amazon-redshift-role-based-access-control-with-okta/"
-    },
-    {
-        "title": "Orchestrate Amazon EMR Serverless Spark jobs with Amazon MWAA, and data validation using Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-amazon-emr-serverless-spark-jobs-with-amazon-mwaa-and-data-validation-using-amazon-athena/"
     }
 ]
