@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon ECS enables easier EC2 capacity management, with managed instance draining",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-enables-easier-ec2-capacity-management-with-managed-instance-draining/"
+    },
+    {
+        "title": "The journey to IPv6 on Amazon EKS: Interoperability scenarios (Part 3)",
+        "link": "https://aws.amazon.com/blogs/containers/the-journey-to-ipv6-on-amazon-eks-interoperability-scenarios-part-3/"
+    },
+    {
+        "title": "The journey to IPv6 on Amazon EKS: Implementation patterns (Part 2)",
+        "link": "https://aws.amazon.com/blogs/containers/the-journey-to-ipv6-on-amazon-eks-implementation-patterns-part-2/"
+    },
+    {
+        "title": "The Journey to IPv6 on Amazon EKS: Foundation (Part 1)",
+        "link": "https://aws.amazon.com/blogs/containers/the-journey-to-ipv6-on-amazon-eks-foundation-part-1/"
+    },
+    {
         "title": "Amazon EKS extended support for Kubernetes versions pricing",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Spark on Amazon EKS networking \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/containers/spark-on-amazon-eks-networking-part-2/"
-    },
-    {
-        "title": "Spark on Amazon EKS networking \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/containers/spark-on-amazon-eks-networking-part-1/"
-    },
-    {
-        "title": "Amazon EKS Pod Identity: a new way for applications on EKS to obtain IAM credentials",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/"
-    },
-    {
-        "title": "Effective use: Amazon ECS lifecycle events with Amazon CloudWatch logs insights",
-        "link": "https://aws.amazon.com/blogs/containers/effective-use-amazon-ecs-lifecycle-events-with-amazon-cloudwatch-logs-insights/"
-    },
-    {
-        "title": "Run Monte Carlo simulations at scale with AWS Step Functions and AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/containers/run-monte-carlo-simulations-at-scale-with-aws-step-functions-and-aws-fargate/"
     }
 ]

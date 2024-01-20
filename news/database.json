@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon RDS Multi-AZ with two readable standbys: Under the hood",
+        "link": "https://aws.amazon.com/blogs/database/amazon-rds-multi-az-with-two-readable-standbys-under-the-hood/"
+    },
+    {
         "title": "Build a mortgage-backed securities data model using Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/build-a-mortgage-backed-securities-data-model-using-amazon-neptune/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Join SQL Server on AWS to Microsoft Entra Domain Services",
         "link": "https://aws.amazon.com/blogs/database/join-sql-server-on-aws-to-microsoft-entra-domain-services/"
-    },
-    {
-        "title": "Connect to MySQL and MariaDB from Amazon Aurora and Amazon RDS for PostgreSQL using the mysql_fdw extension",
-        "link": "https://aws.amazon.com/blogs/database/connect-to-mysql-and-mariadb-from-amazon-aurora-and-amazon-rds-for-postgresql-using-the-mysql_fdw-extension/"
     }
 ]

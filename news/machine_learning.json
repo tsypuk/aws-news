@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/"
+    },
+    {
         "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC\u2019s Machine Learning Ops Accelerator",
         "link": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/"
-    },
-    {
-        "title": "ISO 42001: A new foundational global standard to advance responsible AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/"
     }
 ]
