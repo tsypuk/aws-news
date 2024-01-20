@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlocking the Value of Customer Data with Amazon Redshift and RudderStack",
+        "link": "https://aws.amazon.com/blogs/apn/unlocking-the-value-of-customer-data-with-amazon-redshift-and-rudderstack/"
+    },
+    {
+        "title": "How JBS Dev Leveraged AWS Lambda to Modernize a National Pet Retailer\u2019s Mobile App Backend",
+        "link": "https://aws.amazon.com/blogs/apn/how-jbs-dev-leveraged-aws-lambda-to-modernize-a-national-pet-retailers-mobile-app-backend/"
+    },
+    {
         "title": "Building End-to-End Visibility with NETSCOUT APM Using Traffic Mirroring and Gateway Load Balancer",
         "link": "https://aws.amazon.com/blogs/apn/building-end-to-end-visibility-with-netscout-apm-using-traffic-mirroring-and-gateway-load-balancer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Cognizant Customer Concierge Solution Connects Amazon\u2019s Just Walk Out Technology to Any Retail System",
         "link": "https://aws.amazon.com/blogs/apn/cognizant-customer-concierge-solution-connects-amazon-just-walk-out-technology-to-any-retail-system/"
-    },
-    {
-        "title": "Creating a Secure Data Catalog with Alation Cloud Services and AWS PrivateLink",
-        "link": "https://aws.amazon.com/blogs/apn/creating-a-secure-data-catalog-with-alation-cloud-services-and-aws-privatelink/"
-    },
-    {
-        "title": "Accelerate Migration and Modernization with a Reusable Solution to Deploy Container Applications on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/accelerate-migration-and-modernization-with-a-reusable-solution-to-deploy-container-applications-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Latest PCI DSS v4.0 compliance package available in AWS Artifact",
+        "link": "https://aws.amazon.com/blogs/security/latest-pci-dss-v4-0-compliance-package-available-in-aws-artifact/"
+    },
+    {
         "title": "How to use AWS Database Encryption SDK for client-side encryption and perform searches on encrypted attributes in DynamoDB tables",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-database-encryption-sdk-for-client-side-encryption-and-perform-searches-on-encrypted-attributes-in-dynamodb-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Security Profile: Arynn Crow, Sr. Manager for AWS User AuthN",
         "link": "https://aws.amazon.com/blogs/security/aws-security-profile-arynn-crow-sr-manager-for-aws-user-authn/"
-    },
-    {
-        "title": "New report released \u2013 Centralized Trust for Decentralized Uses: Revisiting Private Certificate Authorities",
-        "link": "https://aws.amazon.com/blogs/security/new_report_released_centralized_trust_for_decentralized_uses/"
     }
 ]
