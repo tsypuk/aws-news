@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify SAP Management and Operations with AWS Systems Manager for SAP",
+        "link": "https://aws.amazon.com/blogs/awsforsap/simplify-sap-management-and-operations-with-aws-systems-manager-for-sap/"
+    },
+    {
         "title": "Simplify Operations for AWS Launch Wizard for SAP deployments using AWS Systems Manager for SAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/simplify-operations-for-aws-launch-wizard-for-sap-deployments-using-aws-systems-manager-for-sap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Application Load Balancer for SAP Enterprise Portal",
         "link": "https://aws.amazon.com/blogs/awsforsap/elb-application-load-balancer-sap-portal/"
-    },
-    {
-        "title": "Automate and Simplify SAP HANA Backups with AWS Backup",
-        "link": "https://aws.amazon.com/blogs/awsforsap/general-availability-announcement-aws-backup-for-sap-hana-database/"
     }
 ]

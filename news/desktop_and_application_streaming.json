@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a serverless session resolver for your NICE DCV Connection Gateway",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/build-a-serverless-session-resolver-for-your-nice-dcv-connection-gateway/"
+    },
+    {
         "title": "Automation of infrastructure and application deployment for Amazon AppStream 2.0 with Terraform",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automation-of-infrastructure-and-application-deployment-for-amazon-appstream-2-0-with-terraform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-started-with-amazon-workspaces/"
-    },
-    {
-        "title": "Genomics England improves its researcher experience with Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/genomics-england-improves-its-researcher-experience-with-amazon-workspaces/"
     }
 ]
