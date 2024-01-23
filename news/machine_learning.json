@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/"
+    },
+    {
         "title": "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning",
         "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identify cybersecurity anomalies in your Amazon Security Lake data using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC\u2019s Machine Learning Ops Accelerator",
-        "link": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Design a data mesh on AWS that reflects the envisioned organization",
+        "link": "https://aws.amazon.com/blogs/big-data/design-a-data-mesh-on-aws-that-reflects-the-envisioned-organization/"
+    },
+    {
         "title": "AWS Lake Formation 2023 year in review",
         "link": "https://aws.amazon.com/blogs/big-data/aws-lake-formation-2023-year-in-review/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Break data silos and stream your CDC data with Amazon Redshift streaming and Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/break-data-silos-and-stream-your-cdc-data-with-amazon-redshift-streaming-and-amazon-msk/"
-    },
-    {
-        "title": "Federate IAM-based single sign-on to Amazon Redshift role-based access control with Okta",
-        "link": "https://aws.amazon.com/blogs/big-data/federate-iam-based-single-sign-on-to-amazon-redshift-role-based-access-control-with-okta/"
     }
 ]

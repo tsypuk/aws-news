@@ -1,5 +1,9 @@
 [
     {
+        "title": "The future of web development: AWS Amplify\u2019s Code First Approach",
+        "link": "https://aws.amazon.com/blogs/mobile/the-future-of-web-development-aws-amplifys-code-first-approach/"
+    },
+    {
         "title": "Real-time data distribution with Amazon MSK and AWS AppSync",
         "link": "https://aws.amazon.com/blogs/mobile/real-time-data-distribution-with-amazon-msk-and-aws-appsync/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Architecture Patterns for AWS AppSync Private APIs",
         "link": "https://aws.amazon.com/blogs/mobile/architecture-patterns-for-aws-appsync-private-apis/"
-    },
-    {
-        "title": "Query Heterogeneous Data Sources through AWS AppSync GraphQL APIs",
-        "link": "https://aws.amazon.com/blogs/mobile/query-heterogeneous-data-sources-through-aws-appsync-graphql-apis/"
     }
 ]

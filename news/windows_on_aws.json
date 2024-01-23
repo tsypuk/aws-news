@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deciding where to host .NET applications on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deciding-where-to-host-net-applications-on-aws/"
+    },
+    {
         "title": "Accelerate .NET and SQL development with Amazon CodeWhisperer as your AI coding companion",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/net-and-sql-development-with-amazon-codewhisperer/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automate rotating IAM credentials for SQL Server backups to Amazon S3",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-rotating-iam-credentials-for-sql-server-backups-to-amazon-s3/"
-    },
-    {
-        "title": "Year in review 2023: AWS for Microsoft workloads",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/year-in-review-2023-aws-for-microsoft-workloads/"
     }
 ]

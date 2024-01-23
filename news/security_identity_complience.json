@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to build a unified authorization layer for identity providers with Amazon Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/security/how-to-build-a-unified-authorization-layer-for-identity-providers-with-amazon-verified-permissions/"
+    },
+    {
+        "title": "AWS completes the first cloud audit by the Ingelheim Kreis Initiative Joint Audits group for the pharmaceutical and life sciences sector",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-first-cloud-audit-by-the-ingelheim-kreis-initiative-joint-audits-group-for-the-pharmaceutical-and-life-sciences-sector/"
+    },
+    {
         "title": "Latest PCI DSS v4.0 compliance package available in AWS Artifact",
         "link": "https://aws.amazon.com/blogs/security/latest-pci-dss-v4-0-compliance-package-available-in-aws-artifact/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to implement client certificate revocation list checks at scale with API Gateway",
         "link": "https://aws.amazon.com/blogs/security/how-to-implement-client-certificate-revocation-list-checks-at-scale-with-api-gateway/"
-    },
-    {
-        "title": "Four use cases for GuardDuty Malware Protection On-demand malware scan",
-        "link": "https://aws.amazon.com/blogs/security/four-use-cases-for-guardduty-malware-protection-on-demand-malware-scan/"
-    },
-    {
-        "title": "AWS Security Profile: Arynn Crow, Sr. Manager for AWS User AuthN",
-        "link": "https://aws.amazon.com/blogs/security/aws-security-profile-arynn-crow-sr-manager-for-aws-user-authn/"
     }
 ]
