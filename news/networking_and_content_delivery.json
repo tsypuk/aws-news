@@ -1,5 +1,9 @@
 [
     {
+        "title": "How ZS used Network Orchestration for AWS Transit Gateway to optimize costs and scale up",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-zs-used-network-orchestration-for-aws-transit-gateway-to-optimize-costs-and-scale-up/"
+    },
+    {
         "title": "Using AWS Network Manager Events to manage and monitor your global network",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-network-manager-events-to-manage-and-monitor-your-global-network/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Exploring Data Transfer Costs for Classic and Application Load Balancers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-data-transfer-costs-for-classic-and-application-load-balancers/"
-    },
-    {
-        "title": "Announcing AWS Global Accelerator IPv6 support for Network Load Balancer (NLB) endpoints",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/global-accelerator-ipv6-nlb/"
     }
 ]
