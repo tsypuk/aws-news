@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
+    },
+    {
         "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Llama Guard is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Identify cybersecurity anomalies in your Amazon Security Lake data using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/"
     }
 ]

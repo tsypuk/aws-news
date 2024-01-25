@@ -8,6 +8,10 @@
         "link": "https://aws.amazon.com/blogs/containers/diving-into-red-hat-openshift-service-on-aws-rosa-with-hosted-control-planes-hcp/"
     },
     {
+        "title": "Amazon ECS enables easier EC2 capacity management, with managed instance draining",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-enables-easier-ec2-capacity-management-with-managed-instance-draining/"
+    },
+    {
         "title": "The journey to IPv6 on Amazon EKS: Interoperability scenarios (Part 3)",
         "link": "https://aws.amazon.com/blogs/containers/the-journey-to-ipv6-on-amazon-eks-interoperability-scenarios-part-3/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Signing and Validating OCI Artifacts with AWS Signer",
         "link": "https://aws.amazon.com/blogs/containers/signing-and-validating-oci-artifacts-with-aws-signer/"
-    },
-    {
-        "title": "Accelerating feature delivery and improving reliability for a semi-stateful, memory-bound workload",
-        "link": "https://aws.amazon.com/blogs/containers/accelerating-feature-delivery-and-improving-reliability-for-a-semi-stateful-memory-bound-workload/"
     }
 ]
