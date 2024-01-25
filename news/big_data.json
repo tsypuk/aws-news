@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Amazon Athena with Spark SQL for your open-source transactional table formats",
+        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-athena-with-spark-sql-for-your-open-source-transactional-table-formats/"
+    },
+    {
         "title": "Design a data mesh on AWS that reflects the envisioned organization",
         "link": "https://aws.amazon.com/blogs/big-data/design-a-data-mesh-on-aws-that-reflects-the-envisioned-organization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automatically detect Personally Identifiable Information in Amazon Redshift using AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/automatically-detect-personally-identifiable-information-in-amazon-redshift-using-aws-glue/"
-    },
-    {
-        "title": "Break data silos and stream your CDC data with Amazon Redshift streaming and Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/break-data-silos-and-stream-your-cdc-data-with-amazon-redshift-streaming-and-amazon-msk/"
     }
 ]
