@@ -1,5 +1,17 @@
 [
     {
+        "title": "Container Threat Detection and Response for AWS Fargate with Sysdig",
+        "link": "https://aws.amazon.com/blogs/apn/container-threat-detection-and-response-for-aws-fargate-with-sysdig/"
+    },
+    {
+        "title": "Using IAM Roles Anywhere to Help Secure VMware Cloud on AWS Workloads",
+        "link": "https://aws.amazon.com/blogs/apn/using-iam-roles-anywhere-to-help-secure-vmware-cloud-on-aws-workloads/"
+    },
+    {
+        "title": "Drive Innovation and Growth for SMBs with AWS Small and Medium Business Competency Partners",
+        "link": "https://aws.amazon.com/blogs/apn/drive-innovation-and-growth-for-smbs-with-aws-small-and-medium-business-competency-partners/"
+    },
+    {
         "title": "Optimize Spatial Data Management and Analytics with Ellipsis Drive and Amazon S3",
         "link": "https://aws.amazon.com/blogs/apn/optimize-spatial-data-management-and-analytics-with-ellipsis-drive-and-amazon-s3/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Genpact\u2019s AI-Powered Solution Helps Amazon Outsource its Device Repair Service in Europe",
         "link": "https://aws.amazon.com/blogs/apn/genpact-ai-powered-solution-helps-amazon-outsource-its-device-repair-service-in-europe/"
-    },
-    {
-        "title": "Reducing Inference Times by 87% for Darwinbox\u2019s Talent Search Engine Using AWS Inferentia",
-        "link": "https://aws.amazon.com/blogs/apn/reducing-inference-times-by-87-percent-for-darwinbox-talent-search-engine-using-aws-inferentia/"
-    },
-    {
-        "title": "Managing ESG for Private Equities and Their Portfolio Companies with Gardenia Technologies on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/managing-esg-for-private-equities-and-their-portfolio-companies-with-gardenia-technologies-on-aws/"
-    },
-    {
-        "title": "AWS AI Backend Developed by Avahi Enables WittGen Biotechnology to Help Fight Cancer",
-        "link": "https://aws.amazon.com/blogs/apn/aws-ai-backend-developed-by-avahi-enables-wittgen-biotechnology-to-help-fight-cancer/"
     }
 ]

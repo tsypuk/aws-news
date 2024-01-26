@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure API authorization in Amazon API Gateway using Microsoft Entra ID",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/secure-api-authorization-in-amazon-api-gateway-using-microsoft-entra-id/"
+    },
+    {
         "title": "Deciding where to host .NET applications on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deciding-where-to-host-net-applications-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Caylent: Helping customers modernize Microsoft SQL Server with purpose-built databases on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/caylent-modernize-microsoft-sql-server-with-purpose-built-databases-on-aws/"
-    },
-    {
-        "title": "Automate rotating IAM credentials for SQL Server backups to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-rotating-iam-credentials-for-sql-server-backups-to-amazon-s3/"
     }
 ]

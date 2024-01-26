@@ -1,5 +1,9 @@
 [
     {
+        "title": "Game Developer\u2019s Guide to Amazon DocumentDB (with MongoDB compatibility) Part Three: Operation Best Practices",
+        "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-documentdb-with-mongodb-compatibility-part-three-operation-best-practices/"
+    },
+    {
         "title": "From Challenge to Triumph: Gaggle\u2019s Journey in Overcoming DDoS Attacks with AWS Shield Advanced",
         "link": "https://aws.amazon.com/blogs/gametech/from-challenge-to-triumph-gaggles-journey-in-overcoming-ddos-attacks-with-aws-shield-advanced/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Authentication for Mobile Games",
         "link": "https://aws.amazon.com/blogs/gametech/authentication-for-mobile-games/"
-    },
-    {
-        "title": "AWS for Games at Unreal Fest 2023",
-        "link": "https://aws.amazon.com/blogs/gametech/aws-for-games-at-unreal-fest-2023/"
     }
 ]
