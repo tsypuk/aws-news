@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS positioned highest in execution in the 2023 Gartner Magic Quadrant for Cloud Database Management Systems",
+        "link": "https://aws.amazon.com/blogs/database/aws-positioned-highest-in-execution-in-the-2023-gartner-magic-quadrant-for-cloud-database-management-systems/"
+    },
+    {
+        "title": "Upgrade to Amazon Aurora MySQL version 3 (with MySQL 8.0 compatibility)",
+        "link": "https://aws.amazon.com/blogs/database/upgrade-to-amazon-aurora-mysql-version-3-with-mysql-8-0-compatibility/"
+    },
+    {
         "title": "PostgreSQL 11 upgrade strategies for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/postgresql-11-upgrade-strategies-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate date functions from Oracle to Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/migrate-date-functions-from-oracle-to-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "Convert JSON SQL queries from an Oracle database to a PostgreSQL database",
-        "link": "https://aws.amazon.com/blogs/database/convert-json-sql-queries-from-an-oracle-database-to-a-postgresql-database/"
-    },
-    {
-        "title": "Migrate from SQL Server to Amazon DynamoDB with data transformation using a staging table",
-        "link": "https://aws.amazon.com/blogs/database/migrate-from-sql-server-to-amazon-dynamodb-with-data-transformation-using-a-staging-table/"
     }
 ]
