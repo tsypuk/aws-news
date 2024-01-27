@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architect defense-in-depth security for generative AI applications using the OWASP Top 10 for LLMs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
+    },
+    {
         "title": "Deploy a Microsoft Teams gateway for Amazon Q, your business expert",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build generative AI agents with Amazon Bedrock, Amazon DynamoDB, Amazon Kendra, Amazon Lex, and LangChain",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-agents-with-amazon-bedrock-amazon-dynamodb-amazon-kendra-amazon-lex-and-langchain/"
-    },
-    {
-        "title": "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/"
     }
 ]
