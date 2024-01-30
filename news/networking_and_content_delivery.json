@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use VPC IP Address Manager to manage subnet CIDRs",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-vpc-ip-address-manager-to-manage-subnet-cidrs/"
+    },
+    {
         "title": "How ZS used Network Orchestration for AWS Transit Gateway to optimize costs and scale up",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-zs-used-network-orchestration-for-aws-transit-gateway-to-optimize-costs-and-scale-up/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing CloudFront Security Dashboard, a Unified CDN and Security Experience",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-security-dashboard-a-unified-cdn-and-security-experience/"
-    },
-    {
-        "title": "Exploring Data Transfer Costs for Classic and Application Load Balancers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-data-transfer-costs-for-classic-and-application-load-balancers/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Leveraging custom AWS Config rules to optimize cost saving on AWS",
+        "link": "https://aws.amazon.com/blogs/mt/leveraging-custom-aws-config-rules-to-optimize-cost-saving-on-aws/"
+    },
+    {
+        "title": "Demystifying mainframe technical debt and unlocking value of core application modernization",
+        "link": "https://aws.amazon.com/blogs/mt/demystifying-mainframe-technical-debt-and-value-of-core-modernization/"
+    },
+    {
         "title": "Tag your AWS Resources consistently with AWS Resource Explorer and AWS CloudTrail",
         "link": "https://aws.amazon.com/blogs/mt/tag-your-aws-resources-consistently-with-aws-resource-explorer-and-aws-cloudtrail/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to monitor application health using SLOs with Amazon CloudWatch Application Signals",
         "link": "https://aws.amazon.com/blogs/mt/how-to-monitor-application-health-using-slos-with-amazon-cloudwatch-application-signals/"
-    },
-    {
-        "title": "How to centralize CloudWatch Alarms with Amazon EventBridge and AWS CloudFormation",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-centralize-cloudwatch-alarms-with-amazon-eventbridge-and-aws-cloudformation/"
-    },
-    {
-        "title": "Cost saving strategies for large enterprise cloud migrations",
-        "link": "https://aws.amazon.com/blogs/mt/cost-saving-strategies-for-large-enterprise-cloud-migrations/"
     }
 ]

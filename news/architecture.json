@@ -1,5 +1,9 @@
 [
     {
+        "title": "Behavior Driven Chaos with AWS Fault Injection Simulator",
+        "link": "https://aws.amazon.com/blogs/architecture/behavior-driven-chaos-with-aws-fault-injection-simulator/"
+    },
+    {
         "title": "How Zurich Insurance Group built their Scalable Account Vending process using AWS Account Factory for Terraform",
         "link": "https://aws.amazon.com/blogs/architecture/how-zurich-insurance-group-built-their-scalable-account-vending-process-using-aws-account-factory-for-terraform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Thomson Reuters monitors and tracks AWS Health alerts at scale",
         "link": "https://aws.amazon.com/blogs/architecture/how-thomson-reuters-monitors-and-tracks-aws-health-alerts-at-scale/"
-    },
-    {
-        "title": "Build a serverless retail solution for endless aisle on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/building-serverless-endless-aisle-retail-architectures-on-aws/"
     }
 ]

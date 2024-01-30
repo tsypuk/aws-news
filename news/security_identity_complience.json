@@ -1,5 +1,9 @@
 [
     {
+        "title": "Data masking and granular access control using Amazon Macie and AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/security/data-masking-and-granular-access-control-using-amazon-macie-and-aws-lake-formation/"
+    },
+    {
         "title": "Export a Software Bill of Materials using Amazon Inspector",
         "link": "https://aws.amazon.com/blogs/security/export-a-software-bill-of-materials-using-amazon-inspector/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Amazon GuardDuty ECS runtime monitoring with Fargate and Amazon EC2",
         "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-ecs-runtime-monitoring-with-fargate-and-amazon-ec2/"
-    },
-    {
-        "title": "Fall 2023 SOC reports now available in Spanish",
-        "link": "https://aws.amazon.com/blogs/security/fall-2023-soc-reports-now-available-in-spanish/"
     }
 ]

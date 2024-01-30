@@ -1,5 +1,9 @@
 [
     {
+        "title": "Connect Amazon FSx for NetApp ONTAP to Amazon AppStream 2.0 Linux instances",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/connect-amazon-fsx-for-netapp-ontap-to-amazon-appstream-2-0-linux-instances/"
+    },
+    {
         "title": "Build a serverless session resolver for your NICE DCV Connection Gateway",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/build-a-serverless-session-resolver-for-your-nice-dcv-connection-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve security and efficiency managing developer desktops with Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/improve-security-and-efficiency-managing-developer-desktops-with-amazon-workspaces/"
-    },
-    {
-        "title": "Getting started with Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-started-with-amazon-workspaces/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup \u2014  Amazon API Gateway, AWS Step Functions, Amazon ECS, Amazon EKS, Amazon LightSail, Amazon VPC, and more \u2014 January 29, 2024",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-api-gateway-aws-step-functions-amazon-ecs-amazon-eks-amazon-lightsail-amazon-vpc-and-more-january-29-2024/"
+    },
+    {
         "title": "AWS Weekly Roundup \u2014 Amazon ECS, RDS for MySQL, EMR Studio, AWS Community, and more \u2014 January 22, 2024",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ecs-rds-for-mysql-emr-studio-aws-community-and-more-january-22-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Easily deploy SaaS products with new Quick Launch in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/aws/easily-deploy-saas-products-with-new-quick-launch-in-aws-marketplace/"
-    },
-    {
-        "title": "Package and deploy models faster with new tools and guided workflows in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/aws/package-and-deploy-models-faster-with-new-tools-and-guided-workflows-in-amazon-sagemaker/"
     }
 ]
