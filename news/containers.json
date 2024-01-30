@@ -1,5 +1,9 @@
 [
     {
+        "title": "Train Llama2 with AWS Trainium on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/train-llama2-with-aws-trainium-on-amazon-eks/"
+    },
+    {
         "title": "Amazon EKS now supports Kubernetes version 1.29",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-29/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to leverage Application Load Balancer\u2019s advanced request routing to route application traffic across multiple Amazon EKS clusters",
         "link": "https://aws.amazon.com/blogs/containers/how-to-leverage-application-load-balancers-advanced-request-routing-to-route-application-traffic-across-multiple-amazon-eks-clusters/"
-    },
-    {
-        "title": "Signing and Validating OCI Artifacts with AWS Signer",
-        "link": "https://aws.amazon.com/blogs/containers/signing-and-validating-oci-artifacts-with-aws-signer/"
     }
 ]
