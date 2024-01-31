@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing RBS support for AWS SDK for Ruby V3",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-rbs-support-for-aws-sdk-for-ruby-v3/"
+    },
+    {
         "title": "Announcing end-of-support for AWS SDK for Java v1.x effective December 31, 2025",
         "link": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-java-v1-x-on-december-31-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Amazon S3 checksums support in the AWS SDK for Kotlin",
         "link": "https://aws.amazon.com/blogs/developer/announcing-amazon-s3-checksums-support-in-the-aws-sdk-for-kotlin/"
-    },
-    {
-        "title": "AWS SDK for Go Aligns with Go Release Policy on Supported Runtimes",
-        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-go-aligns-with-go-release-policy-on-supported-runtimes/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Choose Wisely and Quickly: A Rapid, Data-Driven Approach to Prioritize Applications for Modernization",
+        "link": "https://aws.amazon.com/blogs/mt/choose-wisely-and-quickly-a-rapid-data-driven-approach-to-prioritize-applications-for-modernization/"
+    },
+    {
         "title": "Leveraging custom AWS Config rules to optimize cost saving on AWS",
         "link": "https://aws.amazon.com/blogs/mt/leveraging-custom-aws-config-rules-to-optimize-cost-saving-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Considerations for migrating workloads between AWS Regions",
         "link": "https://aws.amazon.com/blogs/mt/considerations-for-migrating-workloads-between-aws-regions/"
-    },
-    {
-        "title": "How to monitor application health using SLOs with Amazon CloudWatch Application Signals",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-monitor-application-health-using-slos-with-amazon-cloudwatch-application-signals/"
     }
 ]

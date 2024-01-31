@@ -1,5 +1,9 @@
 [
     {
+        "title": "Talk to your slide deck using multimodal foundation models hosted on Amazon Bedrock and Amazon SageMaker \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/talk-to-your-slide-deck-using-multimodal-foundation-models-hosted-on-amazon-bedrock-and-amazon-sagemaker-part-1/"
+    },
+    {
         "title": "Benchmark and optimize endpoint deployment in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Mixtral-8x7B is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Deploy foundation models with Amazon SageMaker, iterate and monitor with TruEra",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/"
     }
 ]

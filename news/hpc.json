@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating molecule discovery with computational chemistry and Promethium on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/accelerating-molecule-discovery-with-computational-chemistry-and-promethium-on-aws/"
+    },
+    {
         "title": "Leveraging Seqera Platform on AWS Batch for machine learning workflows \u2013 Part 2 of 2",
         "link": "https://aws.amazon.com/blogs/hpc/leveraging-seqera-platform-on-aws-batch-for-machine-learning-workflows-part-2-of-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Conceptual design using generative AI and CFD simulations on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/conceptual-design-using-generative-ai-and-cfd-simulations-on-aws/"
-    },
-    {
-        "title": "Implementing AWS ParallelCluster in a Shared VPC",
-        "link": "https://aws.amazon.com/blogs/hpc/implementing-aws-parallelcluster-in-a-shared-vpc/"
     }
 ]

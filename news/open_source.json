@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying to Amazon Managed Workflows for Apache Airflow with CI/CD tools",
+        "link": "https://aws.amazon.com/blogs/opensource/deploying-to-amazon-managed-workflows-for-apache-airflow-with-ci-cd-tools/"
+    },
+    {
         "title": "Integrating the AWS Lambda Telemetry API with Prometheus and OpenSearch",
         "link": "https://aws.amazon.com/blogs/opensource/integrating-the-aws-lambda-telemetry-api-with-prometheus-and-opensearch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Configure Keycloak on Amazon Elastic Kubernetes Service (Amazon EKS) using Terraform",
         "link": "https://aws.amazon.com/blogs/opensource/configure-keycloak-on-amazon-elastic-kubernetes-service-amazon-eks-using-terraform/"
-    },
-    {
-        "title": "Weaveworks and AWS Joining Forces to Maintain Open Source eksctl",
-        "link": "https://aws.amazon.com/blogs/opensource/weaveworks-and-aws-joining-forces-to-maintain-open-source-eksctl/"
     }
 ]
