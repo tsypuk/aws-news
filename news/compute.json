@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build real-time applications with Amazon EventBridge and AWS AppSync",
+        "link": "https://aws.amazon.com/blogs/compute/build-real-time-applications-with-amazon-eventbridge-and-aws-appsync/"
+    },
+    {
+        "title": "Invoking on-premises resources interactively using AWS Step Functions and MQTT",
+        "link": "https://aws.amazon.com/blogs/compute/invoking-on-premises-resources-interactively-using-aws-step-functions-and-mqtt/"
+    },
+    {
         "title": "Announcing IPv6 instance bundles and pricing update on Amazon Lightsail",
         "link": "https://aws.amazon.com/blogs/compute/announcing-ipv6-instance-bundles-and-pricing-update-on-amazon-lightsail/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Node.js 20.x runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/node-js-20-x-runtime-now-available-in-aws-lambda/"
-    },
-    {
-        "title": "Converting Apache Kafka events from Avro to JSON using EventBridge Pipes",
-        "link": "https://aws.amazon.com/blogs/compute/converting-apache-kafka-events-from-avro-to-json-using-eventbridge-pipes/"
-    },
-    {
-        "title": "Introducing logging support for Amazon EventBridge Pipes",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-logging-support-for-amazon-eventbridge-pipes/"
     }
 ]

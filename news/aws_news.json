@@ -1,6 +1,10 @@
 [
     {
-        "title": "AWS Weekly Roundup \u2014  Amazon API Gateway, AWS Step Functions, Amazon ECS, Amazon EKS, Amazon LightSail, Amazon VPC, and more \u2014 January 29, 2024",
+        "title": "New chat experience for AWS Glue using natural language \u2013 Amazon Q data integration in AWS Glue (Preview)",
+        "link": "https://aws.amazon.com/blogs/aws/new-chat-experience-for-aws-glue-using-natural-language-amazon-q-data-integration-in-aws-glue-preview/"
+    },
+    {
+        "title": "AWS Weekly Roundup \u2014  AWS Step Functions, Amazon ECS, Amazon EKS, Amazon LightSail, Amazon VPC, and more \u2014 January 29, 2024",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-api-gateway-aws-step-functions-amazon-ecs-amazon-eks-amazon-lightsail-amazon-vpc-and-more-january-29-2024/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "New myApplications in the AWS Management Console simplifies managing your application resources",
         "link": "https://aws.amazon.com/blogs/aws/new-myapplications-in-the-aws-management-console-simplifies-managing-your-application-resources/"
-    },
-    {
-        "title": "Easily deploy SaaS products with new Quick Launch in AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/aws/easily-deploy-saas-products-with-new-quick-launch-in-aws-marketplace/"
     }
 ]

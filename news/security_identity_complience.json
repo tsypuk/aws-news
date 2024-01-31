@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS completes CCAG 2023 community audit for financial services customers in Europe",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-ccag-2023-community-audit-for-financial-services-customers-in-europe/"
+    },
+    {
         "title": "Data masking and granular access control using Amazon Macie and AWS Lake Formation",
         "link": "https://aws.amazon.com/blogs/security/data-masking-and-granular-access-control-using-amazon-macie-and-aws-lake-formation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS successfully renews GSMA security certification for US East (Ohio) and Europe (Paris) Regions",
         "link": "https://aws.amazon.com/blogs/security/aws-successfully-renews-gsma-security-certification-for-us-east-ohio-and-europe-paris-regions-2/"
-    },
-    {
-        "title": "Using Amazon GuardDuty ECS runtime monitoring with Fargate and Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-ecs-runtime-monitoring-with-fargate-and-amazon-ec2/"
     }
 ]

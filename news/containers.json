@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build preview environments for Amazon ECS applications with AWS Copilot",
+        "link": "https://aws.amazon.com/blogs/containers/build-preview-environments-for-amazon-ecs-applications-with-aws-copilot/"
+    },
+    {
+        "title": "Secure Amazon Elastic Container Service workloads with Amazon ECS Service Connect",
+        "link": "https://aws.amazon.com/blogs/containers/secure-amazon-elastic-container-service-workloads-with-amazon-ecs-service-connect/"
+    },
+    {
         "title": "Train Llama2 with AWS Trainium on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/train-llama2-with-aws-trainium-on-amazon-eks/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Amazon EKS extended support for Kubernetes versions pricing",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/"
-    },
-    {
-        "title": "Deploying and scaling Apache Kafka on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/deploying-and-scaling-apache-kafka-on-amazon-eks/"
-    },
-    {
-        "title": "How to leverage Application Load Balancer\u2019s advanced request routing to route application traffic across multiple Amazon EKS clusters",
-        "link": "https://aws.amazon.com/blogs/containers/how-to-leverage-application-load-balancers-advanced-request-routing-to-route-application-traffic-across-multiple-amazon-eks-clusters/"
     }
 ]
