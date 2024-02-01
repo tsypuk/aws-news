@@ -1,5 +1,13 @@
 [
     {
+        "title": "A new and improved AWS CDK construct for Amazon DynamoDB tables",
+        "link": "https://aws.amazon.com/blogs/devops/a-new-and-improved-aws-cdk-construct-for-amazon-dynamodb-tables/"
+    },
+    {
+        "title": "Announcing Generative AI CDK Constructs",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-generative-ai-cdk-constructs/"
+    },
+    {
         "title": "Deploy CloudFormation Hooks to an Organization with service-managed StackSets",
         "link": "https://aws.amazon.com/blogs/devops/deploy-cloudformation-hooks-to-an-organization-with-service-managed-stacksets/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing the AWS Well-Architected Framework DevOps Guidance",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-aws-well-architected-framework-devops-guidance/"
-    },
-    {
-        "title": "Using Generative AI, Amazon Bedrock and Amazon CodeGuru to Improve Code Quality and Security",
-        "link": "https://aws.amazon.com/blogs/devops/using-generative-ai-amazon-bedrock-and-amazon-codeguru-to-improve-code-quality-and-security/"
-    },
-    {
-        "title": "Blue/Green deployments using AWS CDK Pipelines and AWS CodeDeploy",
-        "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-using-aws-cdk-pipelines-and-aws-codedeploy/"
     }
 ]
