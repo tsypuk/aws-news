@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building a Complete Customer 360 in Amazon Redshift with RudderStack",
+        "link": "https://aws.amazon.com/blogs/apn/building-a-complete-customer-360-in-amazon-redshift-with-rudderstack/"
+    },
+    {
+        "title": "Establishing a Continuous Data Pipeline with Vcinity on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/establishing-a-continuous-data-pipeline-with-vcinity-on-aws/"
+    },
+    {
         "title": "Automated and Consistent Security Coverage for Amazon EC2 Workloads with Uptycs and AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/apn/automated-and-consistent-security-coverage-for-amazon-ec2-workloads-with-uptycs-and-aws-systems-manager/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How JBS Dev Leveraged AWS Lambda to Modernize a National Pet Retailer\u2019s Mobile App Backend",
         "link": "https://aws.amazon.com/blogs/apn/how-jbs-dev-leveraged-aws-lambda-to-modernize-a-national-pet-retailers-mobile-app-backend/"
-    },
-    {
-        "title": "Building End-to-End Visibility with NETSCOUT APM Using Traffic Mirroring and Gateway Load Balancer",
-        "link": "https://aws.amazon.com/blogs/apn/building-end-to-end-visibility-with-netscout-apm-using-traffic-mirroring-and-gateway-load-balancer/"
-    },
-    {
-        "title": "Unlocking Efficiency: Best Practices for AWS Partners Applying for an AWS Competency",
-        "link": "https://aws.amazon.com/blogs/apn/unlocking-efficiency-best-practices-for-aws-partners-applying-for-an-aws-competency/"
     }
 ]
