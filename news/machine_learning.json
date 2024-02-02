@@ -1,5 +1,13 @@
 [
     {
+        "title": "Designing generative AI workloads for resilience",
+        "link": "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/"
+    },
+    {
+        "title": "Analyze security findings faster with no-code data preparation using generative AI and Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/analyze-security-findings-faster-with-no-code-data-preparation-using-generative-ai-and-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "Getting started with Amazon Titan Text Embeddings",
         "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Inference Llama 2 models with real-time response streaming using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/inference-llama-2-models-with-real-time-response-streaming-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Deploy a Slack gateway for Amazon Q, your business expert",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-slack-gateway-for-amazon-q-your-business-expert/"
-    },
-    {
-        "title": "Create a document lake using large-scale text extraction from documents with Amazon Textract",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-document-lake-using-large-scale-text-extraction-from-documents-with-amazon-textract/"
     }
 ]

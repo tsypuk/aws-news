@@ -1,5 +1,9 @@
 [
     {
+        "title": "Finch Container Development Tool: Now for Windows",
+        "link": "https://aws.amazon.com/blogs/opensource/finch-container-development-tool-now-for-windows/"
+    },
+    {
         "title": "Deploying to Amazon Managed Workflows for Apache Airflow with CI/CD tools",
         "link": "https://aws.amazon.com/blogs/opensource/deploying-to-amazon-managed-workflows-for-apache-airflow-with-ci-cd-tools/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Celebrating One Year of OCSF: Simplifying Security Telemetry for a Stronger Defense",
         "link": "https://aws.amazon.com/blogs/opensource/celebrating-one-year-of-ocsf-simplifying-security-telemetry-for-a-stronger-defense/"
-    },
-    {
-        "title": "Configure Keycloak on Amazon Elastic Kubernetes Service (Amazon EKS) using Terraform",
-        "link": "https://aws.amazon.com/blogs/opensource/configure-keycloak-on-amazon-elastic-kubernetes-service-amazon-eks-using-terraform/"
     }
 ]

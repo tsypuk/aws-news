@@ -1,5 +1,9 @@
 [
     {
+        "title": "Boosting Unreal Engine Performance with Amazon FSx for OpenZFS as a Shared Derived Data Cache",
+        "link": "https://aws.amazon.com/blogs/gametech/boosting-unreal-engine-performance-with-amazon-fsx-for-openzfs-as-a-shared-derived-data-cache/"
+    },
+    {
         "title": "Game Developer\u2019s Guide to Amazon DocumentDB (with MongoDB compatibility) Part Three: Operation Best Practices",
         "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-documentdb-with-mongodb-compatibility-part-three-operation-best-practices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to make the jump from developing a game to running a game platform",
         "link": "https://aws.amazon.com/blogs/gametech/how-to-make-the-jump-from-developing-a-game-to-running-a-game-platform/"
-    },
-    {
-        "title": "Authentication for Mobile Games",
-        "link": "https://aws.amazon.com/blogs/gametech/authentication-for-mobile-games/"
     }
 ]

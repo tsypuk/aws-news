@@ -1,5 +1,13 @@
 [
     {
+        "title": "Combine transactional, streaming, and third-party data on Amazon Redshift for financial services",
+        "link": "https://aws.amazon.com/blogs/big-data/combine-transactional-streaming-and-third-party-data-on-amazon-redshift-for-financial-services/"
+    },
+    {
+        "title": "Preprocess and fine-tune LLMs quickly and cost-effectively using Amazon EMR Serverless and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/preprocess-and-fine-tune-llms-quickly-and-cost-effectively-using-amazon-emr-serverless-and-amazon-sagemaker/"
+    },
+    {
         "title": "Mastering market dynamics: Transforming transaction cost analytics with ultra-precise Tick History \u2013 PCAP and Amazon Athena for Apache Spark",
         "link": "https://aws.amazon.com/blogs/big-data/mastering-market-dynamics-transforming-transaction-cost-analytics-with-ultra-precise-tick-history-pcap-and-amazon-athena-for-apache-spark/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Sun King uses Amazon Redshift data sharing to accelerate data analytics and improve user experience",
         "link": "https://aws.amazon.com/blogs/big-data/sun-king-uses-amazon-redshift-data-sharing-to-accelerate-data-analytics-and-improve-user-experience/"
-    },
-    {
-        "title": "AWS re:Invent 2023 Amazon Redshift Sessions Recap",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-reinvent-2023-amazon-redshift-sessions-recap/"
-    },
-    {
-        "title": "Build efficient ETL pipelines with AWS Step Functions distributed map and redrive feature",
-        "link": "https://aws.amazon.com/blogs/big-data/build-efficient-etl-pipelines-with-aws-step-functions-distributed-map-and-redrive-feature/"
     }
 ]
