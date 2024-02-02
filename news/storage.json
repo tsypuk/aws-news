@@ -1,5 +1,13 @@
 [
     {
+        "title": "Dialog Axiata saves significantly on storage using Amazon S3 Intelligent-Tiering and S3 Storage Lens",
+        "link": "https://aws.amazon.com/blogs/storage/dialog-axiata-saves-significantly-on-storage-using-amazon-s3-intelligent-tiering-and-s3-storage-lens/"
+    },
+    {
+        "title": "How Visual Layer builds high quality datasets on Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/how-visual-layer-builds-high-quality-datasets-on-amazon-s3/"
+    },
+    {
         "title": "Automate data synchronization between AWS Outposts racks and Amazon S3 with AWS DataSync",
         "link": "https://aws.amazon.com/blogs/storage/automate-data-synchronization-between-aws-outposts-racks-and-amazon-s3-with-aws-datasync/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamline data sharing and access control with Informatica Cloud Data Marketplace and Amazon S3 Access Grants",
         "link": "https://aws.amazon.com/blogs/storage/streamline-data-sharing-and-access-control-with-informatica-cloud-data-marketplace-and-amazon-s3-access-grants/"
-    },
-    {
-        "title": "How to develop a user-facing data application with IAM Identity Center and S3 Access Grants (Part 2)",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-develop-a-user-facing-data-application-with-iam-identity-center-and-s3-access-grants-part-2/"
-    },
-    {
-        "title": "How to develop a user-facing data application with IAM Identity Center and S3 Access Grants (Part 1)",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-develop-a-user-facing-data-application-with-iam-identity-center-and-s3-access-grants/"
     }
 ]

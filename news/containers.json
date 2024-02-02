@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enabling mTLS with ALB in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/enabling-mtls-with-alb-in-amazon-eks/"
+    },
+    {
+        "title": "Deep dive into Amazon EKS scalability testing",
+        "link": "https://aws.amazon.com/blogs/containers/how-amazon-eks-approaches-scalability/"
+    },
+    {
         "title": "Build preview environments for Amazon ECS applications with AWS Copilot",
         "link": "https://aws.amazon.com/blogs/containers/build-preview-environments-for-amazon-ecs-applications-with-aws-copilot/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "The journey to IPv6 on Amazon EKS: Implementation patterns (Part 2)",
         "link": "https://aws.amazon.com/blogs/containers/the-journey-to-ipv6-on-amazon-eks-implementation-patterns-part-2/"
-    },
-    {
-        "title": "The Journey to IPv6 on Amazon EKS: Foundation (Part 1)",
-        "link": "https://aws.amazon.com/blogs/containers/the-journey-to-ipv6-on-amazon-eks-foundation-part-1/"
-    },
-    {
-        "title": "Amazon EKS extended support for Kubernetes versions pricing",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/"
     }
 ]
