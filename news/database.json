@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build generative AI applications with Amazon Aurora and Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/build-generative-ai-applications-with-amazon-aurora-and-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
+        "title": "Unlock on-demand, cost-optimized performance with Amazon ElastiCache Serverless",
+        "link": "https://aws.amazon.com/blogs/database/unlock-on-demand-cost-optimized-performance-with-amazon-elasticache-serverless/"
+    },
+    {
         "title": "Build a real-time, low-code anomaly detection pipeline for time series data using Amazon Aurora, Amazon Redshift ML, and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/database/build-a-real-time-low-code-anomaly-detection-pipeline-for-time-series-data-using-amazon-aurora-amazon-redshift-ml-and-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Real-time serverless data ingestion from your Kafka clusters into Amazon Timestream using Kafka Connect",
         "link": "https://aws.amazon.com/blogs/database/real-time-serverless-data-ingestion-from-your-kafka-clusters-into-amazon-timestream-using-kafka-connect/"
-    },
-    {
-        "title": "Intuit\u2019s implementation of Amazon Aurora mixed-configuration cluster: Achieving high availability, disaster recovery, and up to 55% cost savings",
-        "link": "https://aws.amazon.com/blogs/database/intuits-implementation-of-amazon-aurora-mixed-configuration-cluster-achieving-high-availability-disaster-recovery-and-up-to-55-cost-savings/"
-    },
-    {
-        "title": "How a small DevOps team at Deutsche Bahn unlocked analytics for their SaaS product",
-        "link": "https://aws.amazon.com/blogs/database/how-a-small-devops-team-at-deutsche-bahn-unlocked-analytics-for-their-saas-product/"
     }
 ]
