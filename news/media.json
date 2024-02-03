@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Skip Testing and Finalize Cutover in the AWS Application Migration Service",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-skip-testing-and-finalize-cutover-in-the-aws-application-migration-service/"
+    },
+    {
+        "title": "Measure Transformation through the Cloud Adoption lens",
+        "link": "https://aws.amazon.com/blogs/mt/measure-transformation-through-the-cloud-adoption-lens/"
+    },
+    {
         "title": "Why a Cloud Operating Model?",
         "link": "https://aws.amazon.com/blogs/mt/why-a-cloud-operating-model/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Integrate AWS Support with Amazon Connect to receive critical outbound voice notifications",
         "link": "https://aws.amazon.com/blogs/mt/integrate-aws-support-with-amazon-connect-to-receive-critical-outbound-voice-notifications/"
-    },
-    {
-        "title": "Introducing Amazon CloudWatch Alarm Recommendations",
-        "link": "https://aws.amazon.com/blogs/mt/introducing-amazon-cloudwatch-alarm-recommendations/"
-    },
-    {
-        "title": "Navigating Windows Workload Modernization without Active Directory",
-        "link": "https://aws.amazon.com/blogs/mt/navigating-windows-workload-modernization-without-active-directory/"
     }
 ]

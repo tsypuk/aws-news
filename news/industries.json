@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cut time to results without changing your EDA flows",
+        "link": "https://aws.amazon.com/blogs/industries/cut-time-to-results/"
+    },
+    {
         "title": "Train responsible gaming inference models for sports betting with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/industries/train-responsible-gaming-inference-models-for-sports-betting-with-amazon-sagemaker/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Vertex Pharmaceuticals: Accelerating image segmentation for drug discovery imaging using serverless technologies on AWS",
         "link": "https://aws.amazon.com/blogs/industries/vertex-pharmaceuticals-accelerating-image-segmentation-for-drug-discovery-imaging-using-serverless-technologies-on-aws/"
-    },
-    {
-        "title": "How anti-fraud systems use explainable AI to protect the betting and gaming industry",
-        "link": "https://aws.amazon.com/blogs/industries/how-anti-fraud-systems-use-explainable-ai-to-protect-the-betting-and-gaming-industry/"
     }
 ]

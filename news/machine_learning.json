@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor embedding drift for LLMs deployed from Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-embedding-drift-for-llms-deployed-from-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Designing generative AI workloads for resilience",
         "link": "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build an Amazon SageMaker Model Registry approval and promotion workflow with human intervention",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-amazon-sagemaker-model-registry-approval-and-promotion-workflow-with-human-intervention/"
-    },
-    {
-        "title": "Inference Llama 2 models with real-time response streaming using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/inference-llama-2-models-with-real-time-response-streaming-using-amazon-sagemaker/"
     }
 ]
