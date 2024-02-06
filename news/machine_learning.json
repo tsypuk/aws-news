@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing support for Llama 2 and Mistral models and streaming responses in Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-support-for-llama-2-models-and-streaming-responses-in-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "How HSR.health is limiting risks of disease spillover from animals to humans using Amazon SageMaker geospatial capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-hsr-health-is-limiting-risks-of-disease-spillover-from-animals-to-humans-using-amazon-sagemaker-geospatial-capabilities/"
+    },
+    {
         "title": "Monitor embedding drift for LLMs deployed from Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/monitor-embedding-drift-for-llms-deployed-from-amazon-sagemaker-jumpstart/"
     },
@@ -12,7 +20,7 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/analyze-security-findings-faster-with-no-code-data-preparation-using-generative-ai-and-amazon-sagemaker-canvas/"
     },
     {
-        "title": "Getting started with Amazon Titan Text Embeddings",
+        "title": "Getting started with Amazon Titan Text Embeddings in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/"
     },
     {
@@ -70,13 +78,5 @@
     {
         "title": "Build financial search applications using the Amazon Bedrock Cohere multilingual embedding model",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-search-applications-using-the-amazon-bedrock-cohere-multilingual-embedding-model/"
-    },
-    {
-        "title": "Ball position tracking in the cloud with the PGA TOUR",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ball-position-tracking-in-the-cloud-with-the-pga-tour/"
-    },
-    {
-        "title": "Build an Amazon SageMaker Model Registry approval and promotion workflow with human intervention",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-amazon-sagemaker-model-registry-approval-and-promotion-workflow-with-human-intervention/"
     }
 ]

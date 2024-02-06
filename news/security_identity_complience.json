@@ -1,5 +1,9 @@
 [
     {
+        "title": "2023 C5 Type 2 attestation report available, including two new Regions and 170 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/2023-c5-type-2-attestation-report-available-including-two-new-regions-and-170-services-in-scope/"
+    },
+    {
         "title": "How to migrate your on-premises domain to AWS Managed Microsoft AD using ADMT",
         "link": "https://aws.amazon.com/blogs/security/how-to-migrate-your-on-premises-domain-to-aws-managed-microsoft-ad-using-admt/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use AWS Secrets Manager and ABAC for enhanced secrets management in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-manager-and-abac-for-enhanced-secrets-management-in-amazon-eks/"
-    },
-    {
-        "title": "How Transfer Family can help you build a secure, compliant managed file transfer solution",
-        "link": "https://aws.amazon.com/blogs/security/how-transfer-family-can-help-you-build-a-secure-compliant-managed-file-transfer-solution/"
     }
 ]

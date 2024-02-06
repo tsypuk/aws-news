@@ -1,5 +1,9 @@
 [
     {
+        "title": "Generative AI Meets AWS Security",
+        "link": "https://aws.amazon.com/blogs/devops/generative-ai-meets-aws-security/"
+    },
+    {
         "title": "Import entire applications into AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/devops/import-entire-applications-into-aws-cloudformation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon CodeWhisperer Dashboard and CloudWatch Metrics",
         "link": "https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/"
-    },
-    {
-        "title": "Why AWS is the Best Place to Run Rust",
-        "link": "https://aws.amazon.com/blogs/devops/why-aws-is-the-best-place-to-run-rust/"
     }
 ]
