@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimization Techniques for Running SAP workloads on AWS: A Cost-Savings Guide",
+        "link": "https://aws.amazon.com/blogs/awsforsap/optimization-techniques-for-running-sap-workloads-on-aws-a-cost-savings-guide/"
+    },
+    {
         "title": "Simplify SAP Management and Operations with AWS Systems Manager for SAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/simplify-sap-management-and-operations-with-aws-systems-manager-for-sap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrating SAP HANA-based systems using AWS Migration Hub Orchestrator",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-on-hana-migration-using-aws-migration-hub-orchestrator/"
-    },
-    {
-        "title": "Application Load Balancer for SAP Enterprise Portal",
-        "link": "https://aws.amazon.com/blogs/awsforsap/elb-application-load-balancer-sap-portal/"
     }
 ]

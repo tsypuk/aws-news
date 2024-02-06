@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve application resiliency and performance with Multi-AZ Amazon FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/storage/improve-application-resiliency-and-performance-with-multi-az-amazon-fsx-for-openzfs/"
+    },
+    {
         "title": "Dialog Axiata saves significantly on storage using Amazon S3 Intelligent-Tiering and S3 Storage Lens",
         "link": "https://aws.amazon.com/blogs/storage/dialog-axiata-saves-significantly-on-storage-using-amazon-s3-intelligent-tiering-and-s3-storage-lens/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "ClickHouse Cloud & Amazon S3 Express One Zone: Making a blazing fast analytical database even faster",
         "link": "https://aws.amazon.com/blogs/storage/clickhouse-cloud-amazon-s3-express-one-zone-making-a-blazing-fast-analytical-database-even-faster/"
-    },
-    {
-        "title": "Streamline data sharing and access control with Informatica Cloud Data Marketplace and Amazon S3 Access Grants",
-        "link": "https://aws.amazon.com/blogs/storage/streamline-data-sharing-and-access-control-with-informatica-cloud-data-marketplace-and-amazon-s3-access-grants/"
     }
 ]
