@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Accelerate Interface Development with Skuid\u2019s No-Code Studio on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-accelerate-interface-development-with-skuid-no-code-studio-on-aws/"
+    },
+    {
+        "title": "Next-Generation Service Assurance with NeSA Powered by AWS",
+        "link": "https://aws.amazon.com/blogs/apn/next-generation-service-assurance-with-nesa-powered-by-aws/"
+    },
+    {
         "title": "How Shellkode Uses Amazon Bedrock to Convert Natural Language Queries to NoSQL Statements",
         "link": "https://aws.amazon.com/blogs/apn/how-shellkode-uses-amazon-bedrock-to-convert-natural-language-queries-to-nosql-statements/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How CyberCX Leverages AWS to Enable Data Masking for Non-Production Environments",
         "link": "https://aws.amazon.com/blogs/apn/how-cybercx-leverages-aws-to-enable-data-masking-for-non-production-environments/"
-    },
-    {
-        "title": "Automating OpenID Connect-Based AWS IAM Web Identity Roles with Microsoft Entra ID",
-        "link": "https://aws.amazon.com/blogs/apn/automating-openid-connect-based-aws-iam-web-identity-roles-with-microsoft-entra-id/"
-    },
-    {
-        "title": "Enhanced Threat Detection with AWS Security Hub and Red Hat Advanced Cluster Security for Kubernetes",
-        "link": "https://aws.amazon.com/blogs/apn/enhanced-threat-detection-with-aws-security-hub-and-red-hat-advanced-cluster-security-for-kubernetes/"
     }
 ]

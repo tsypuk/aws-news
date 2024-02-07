@@ -1,5 +1,9 @@
 [
     {
+        "title": "Re-platforming Java applications using the updated AWS Serverless Java Container",
+        "link": "https://aws.amazon.com/blogs/compute/re-platforming-java-applications-using-the-updated-aws-serverless-java-container/"
+    },
+    {
         "title": "Generative AI Infrastructure at AWS",
         "link": "https://aws.amazon.com/blogs/compute/generative-ai-infrastructure-at-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS Step Functions redrive to recover from failures more easily",
         "link": "https://aws.amazon.com/blogs/compute/introducing-aws-step-functions-redrive-a-new-way-to-restart-workflows/"
-    },
-    {
-        "title": "Managing AWS Lambda runtime upgrades",
-        "link": "https://aws.amazon.com/blogs/compute/managing-aws-lambda-runtime-upgrades/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Accenture creates a regulatory document authoring solution using AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accenture-creates-a-regulatory-document-authoring-solution-using-aws-generative-ai-services/"
+    },
+    {
+        "title": "Integrate QnABot on AWS with ServiceNow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-qnabot-on-aws-with-servicenow/"
+    },
+    {
+        "title": "Deploy large language models for a healthtech use case on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-large-language-models-for-a-healthtech-use-case-on-amazon-sagemaker/"
+    },
+    {
         "title": "Announcing support for Llama 2 and Mistral models and streaming responses in Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/announcing-support-for-llama-2-models-and-streaming-responses-in-amazon-sagemaker-canvas/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
-    },
-    {
-        "title": "Use mobility data to derive insights using Amazon SageMaker geospatial capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/"
-    },
-    {
-        "title": "Host the Whisper Model on Amazon SageMaker: exploring inference options",
-        "link": "https://aws.amazon.com/blogs/machine-learning/host-the-whisper-model-on-amazon-sagemaker-exploring-inference-options/"
-    },
-    {
-        "title": "Build financial search applications using the Amazon Bedrock Cohere multilingual embedding model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-search-applications-using-the-amazon-bedrock-cohere-multilingual-embedding-model/"
     }
 ]
