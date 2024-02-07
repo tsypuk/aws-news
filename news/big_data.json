@@ -1,5 +1,9 @@
 [
     {
+        "title": "Track Amazon OpenSearch Service configuration changes more easily with new visibility improvements",
+        "link": "https://aws.amazon.com/blogs/big-data/track-amazon-opensearch-service-configuration-with-improved-visibility/"
+    },
+    {
         "title": "Combine transactional, streaming, and third-party data on Amazon Redshift for financial services",
         "link": "https://aws.amazon.com/blogs/big-data/combine-transactional-streaming-and-third-party-data-on-amazon-redshift-for-financial-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New Amazon CloudWatch log class to cost-effectively scale your AWS Glue workloads",
         "link": "https://aws.amazon.com/blogs/big-data/new-amazon-cloudwatch-log-class-to-cost-effectively-scale-your-aws-glue-workloads/"
-    },
-    {
-        "title": "Sun King uses Amazon Redshift data sharing to accelerate data analytics and improve user experience",
-        "link": "https://aws.amazon.com/blogs/big-data/sun-king-uses-amazon-redshift-data-sharing-to-accelerate-data-analytics-and-improve-user-experience/"
     }
 ]
