@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate mortgage document fraud detection using an ML model and business-defined rules with Amazon Fraud Detector: Part 3",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-mortgage-document-fraud-detection-using-an-ml-model-and-business-defined-rules-with-amazon-fraud-detector-part-3/"
+    },
+    {
         "title": "Accenture creates a regulatory document authoring solution using AWS generative AI services",
         "link": "https://aws.amazon.com/blogs/machine-learning/accenture-creates-a-regulatory-document-authoring-solution-using-aws-generative-ai-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning",
         "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/"
-    },
-    {
-        "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
     }
 ]

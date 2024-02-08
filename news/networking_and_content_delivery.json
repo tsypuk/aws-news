@@ -1,5 +1,9 @@
 [
     {
+        "title": "Gain secure access to on-premises applications with AWS Verified Access",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/gain-secure-access-to-on-premises-applications-with-aws-verified-access/"
+    },
+    {
         "title": "How to interconnect AWS Cloud WAN core networks",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-interconnect-aws-cloud-wan-core-networks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing configurable Idle timeout for Connection tracking",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-configurable-idle-timeout-for-connection-tracking/"
-    },
-    {
-        "title": "Cross-account support in Amazon Route 53 Application Recovery Controller",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cross-account-support-in-amazon-route-53-application-recovery-controller/"
     }
 ]

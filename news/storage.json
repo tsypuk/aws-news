@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing AWS DataSync with hundreds of millions of objects",
+        "link": "https://aws.amazon.com/blogs/storage/implementing-aws-datasync-with-hundreds-of-millions-of-objects/"
+    },
+    {
         "title": "Automating application-consistent Amazon EBS Snapshots for SAP HANA databases",
         "link": "https://aws.amazon.com/blogs/storage/automating-application-consistent-ebs-snapshots-for-sap-hana-databases/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Akridata accelerates processing of unstructured data with Amazon S3 Express One Zone",
         "link": "https://aws.amazon.com/blogs/storage/akridata-accelerates-processing-of-unstructured-data-with-amazon-s3-express-one-zone/"
-    },
-    {
-        "title": "lakeFS and Amazon S3 Express One Zone: Highly performant data version control for ML/AI",
-        "link": "https://aws.amazon.com/blogs/storage/lakefs-and-amazon-s3-express-one-zone-highly-performant-data-version-control-for-ml-ai/"
     }
 ]

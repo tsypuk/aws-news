@@ -1,5 +1,9 @@
 [
     {
+        "title": "End-to-End Observability for SAP on AWS : Part 1 Overview",
+        "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-1-overview/"
+    },
+    {
         "title": "Optimization Techniques for Running SAP workloads on AWS: A Cost-Savings Guide",
         "link": "https://aws.amazon.com/blogs/awsforsap/optimization-techniques-for-running-sap-workloads-on-aws-a-cost-savings-guide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate High Availability Tests for SAP HANA",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-high-availability-tests-for-sap-hana/"
-    },
-    {
-        "title": "Migrating SAP HANA-based systems using AWS Migration Hub Orchestrator",
-        "link": "https://aws.amazon.com/blogs/awsforsap/sap-on-hana-migration-using-aws-migration-hub-orchestrator/"
     }
 ]
