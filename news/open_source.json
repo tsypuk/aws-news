@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Developer Portals with Backstage and Amazon EKS Blueprints",
+        "link": "https://aws.amazon.com/blogs/opensource/building-developer-portals-with-backstage-and-amazon-eks-blueprints/"
+    },
+    {
         "title": "Finch Container Development Tool: Now for Windows",
         "link": "https://aws.amazon.com/blogs/opensource/finch-container-development-tool-now-for-windows/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How MongoDB and AWS Collaborated to Enable Running the Open Source MongoDB Kafka Connector in Managed Environments",
         "link": "https://aws.amazon.com/blogs/opensource/how-mongodb-and-aws-collaborated-to-enable-running-the-open-source-mongodb-kafka-connector-in-managed-environments/"
-    },
-    {
-        "title": "Celebrating One Year of OCSF: Simplifying Security Telemetry for a Stronger Defense",
-        "link": "https://aws.amazon.com/blogs/opensource/celebrating-one-year-of-ocsf-simplifying-security-telemetry-for-a-stronger-defense/"
     }
 ]

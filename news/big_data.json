@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build SAML identity federation for Amazon OpenSearch Service domains within a VPC",
+        "link": "https://aws.amazon.com/blogs/big-data/build-saml-identity-federation-for-amazon-opensearch-service-domains-within-a-vpc/"
+    },
+    {
         "title": "Track Amazon OpenSearch Service configuration changes more easily with new visibility improvements",
         "link": "https://aws.amazon.com/blogs/big-data/track-amazon-opensearch-service-configuration-with-improved-visibility/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate analytics on Amazon OpenSearch Service with AWS Glue through its native connector",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-analytics-on-amazon-opensearch-service-with-aws-glue-through-its-native-connector/"
-    },
-    {
-        "title": "New Amazon CloudWatch log class to cost-effectively scale your AWS Glue workloads",
-        "link": "https://aws.amazon.com/blogs/big-data/new-amazon-cloudwatch-log-class-to-cost-effectively-scale-your-aws-glue-workloads/"
     }
 ]

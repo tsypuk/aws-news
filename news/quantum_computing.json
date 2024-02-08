@@ -1,5 +1,9 @@
 [
     {
+        "title": "Citi and Classiq advance quantum solutions for portfolio optimization using Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/citi-and-classiq-advance-quantum-solutions-for-portfolio-optimization/"
+    },
+    {
         "title": "Exploring industrial use cases in the Airbus-BMW Group Quantum Computing Challenge",
         "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-industrial-use-cases-in-the-airbus-bmw-group-quantum-computing-challenge/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Constructing an \u201cend-to-end\u201d quantum algorithm: a comprehensive technical resource for algorithms designers",
         "link": "https://aws.amazon.com/blogs/quantum-computing/constructing-end-to-end-quantum-algorithm/"
-    },
-    {
-        "title": "Designing hybrid algorithms for neutral-atom quantum hardware using Bayesian optimization",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/designing-hybrid-algorithms-for-neutral-atom-quantum-hardware-using-bayesian-optimization/"
     }
 ]
