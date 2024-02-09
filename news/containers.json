@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Perry Street Software Implemented Resilient Deployment Strategies with Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/containers/how-perry-street-software-implemented-resilient-deployment-strategies-with-amazon-ecs/"
+    },
+    {
         "title": "Configure Amazon EKS for environmental sustainability",
         "link": "https://aws.amazon.com/blogs/containers/configure-amazon-eks-for-environmental-sustainability/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon ECS enables easier EC2 capacity management, with managed instance draining",
         "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-enables-easier-ec2-capacity-management-with-managed-instance-draining/"
-    },
-    {
-        "title": "The journey to IPv6 on Amazon EKS: Interoperability scenarios (Part 3)",
-        "link": "https://aws.amazon.com/blogs/containers/the-journey-to-ipv6-on-amazon-eks-interoperability-scenarios-part-3/"
     }
 ]

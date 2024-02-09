@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use multiple bookmark keys in AWS Glue JDBC jobs",
+        "link": "https://aws.amazon.com/blogs/big-data/use-multiple-bookmark-keys-in-aws-glue-jdbc-jobs/"
+    },
+    {
         "title": "Build SAML identity federation for Amazon OpenSearch Service domains within a VPC",
         "link": "https://aws.amazon.com/blogs/big-data/build-saml-identity-federation-for-amazon-opensearch-service-domains-within-a-vpc/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How smava makes loans transparent and affordable using Amazon Redshift Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/how-smava-makes-loans-transparent-and-affordable-using-amazon-redshift-serverless/"
-    },
-    {
-        "title": "Accelerate analytics on Amazon OpenSearch Service with AWS Glue through its native connector",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-analytics-on-amazon-opensearch-service-with-aws-glue-through-its-native-connector/"
     }
 ]
