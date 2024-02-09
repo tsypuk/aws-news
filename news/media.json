@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate Cloud Transformation: Migrate workloads in Weeks with our EBA Migration Parties",
+        "link": "https://aws.amazon.com/blogs/mt/accelerate-cloud-transformation-migrate-workloads-in-weeks-with-our-eba-migration-parties/"
+    },
+    {
+        "title": "Observing Kubernetes workloads on AWS Fargate with AWS managed open-source services",
+        "link": "https://aws.amazon.com/blogs/mt/observability-on-eks-fargate-cluster-with-amazon-managed-service-for-prometheus-and-amazon-managed-grafana/"
+    },
+    {
         "title": "How to Skip Testing and Finalize Cutover in the AWS Application Migration Service",
         "link": "https://aws.amazon.com/blogs/mt/how-to-skip-testing-and-finalize-cutover-in-the-aws-application-migration-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Securing Elastic IP addresses from accidental release",
         "link": "https://aws.amazon.com/blogs/mt/securing-elastic-ip-addresses-from-accidental-release/"
-    },
-    {
-        "title": "Manage EC2 Launch Templates at scale during rehost migrations with AWS MGN",
-        "link": "https://aws.amazon.com/blogs/mt/manage-ec2-launch-templates-at-scale-during-rehost-migrations-with-aws-mgn/"
-    },
-    {
-        "title": "Integrate AWS Support with Amazon Connect to receive critical outbound voice notifications",
-        "link": "https://aws.amazon.com/blogs/mt/integrate-aws-support-with-amazon-connect-to-receive-critical-outbound-voice-notifications/"
     }
 ]
