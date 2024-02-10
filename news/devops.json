@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS CodePipeline adds support for Branch-based development and Monorepos",
+        "link": "https://aws.amazon.com/blogs/devops/aws-codepipeline-adds-support-for-branch-based-development-and-monorepos/"
+    },
+    {
         "title": "Generative AI Meets AWS Security",
         "link": "https://aws.amazon.com/blogs/devops/generative-ai-meets-aws-security/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use Amazon CodeWhisperer using Okta as an external IdP",
         "link": "https://aws.amazon.com/blogs/devops/how-to-use-amazon-codewhisperer-using-okta-as-an-external-idp/"
-    },
-    {
-        "title": "Introducing Amazon CodeWhisperer Dashboard and CloudWatch Metrics",
-        "link": "https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/"
     }
 ]
