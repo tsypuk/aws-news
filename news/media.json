@@ -1,5 +1,13 @@
 [
     {
+        "title": "Easily set up Amazon CloudWatch Internet Monitor",
+        "link": "https://aws.amazon.com/blogs/mt/easily-set-up-amazon-cloudwatch-internet-monitor/"
+    },
+    {
+        "title": "Accelerated Transformation: Streamline Application Modernization During Migration",
+        "link": "https://aws.amazon.com/blogs/mt/accelerated-transformation-streamline-application-modernization-during-migration/"
+    },
+    {
         "title": "Accelerate Cloud Transformation: Migrate workloads in Weeks with our EBA Migration Parties",
         "link": "https://aws.amazon.com/blogs/mt/accelerate-cloud-transformation-migrate-workloads-in-weeks-with-our-eba-migration-parties/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerating Blue/Green Deployments with AWS MGN Post-Launch Actions",
         "link": "https://aws.amazon.com/blogs/mt/mgn-pla-1/"
-    },
-    {
-        "title": "How to use AWS Config proactive rules and AWS CloudFormation Hooks to prevent creation of noncompliant cloud resources",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-use-aws-config-proactive-rules-and-aws-cloudformation-hooks-to-prevent-creation-of-non-complaint-cloud-resources/"
-    },
-    {
-        "title": "Securing Elastic IP addresses from accidental release",
-        "link": "https://aws.amazon.com/blogs/mt/securing-elastic-ip-addresses-from-accidental-release/"
     }
 ]

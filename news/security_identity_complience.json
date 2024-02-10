@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to enforce creation of roles in a specific path: Use IAM role naming in hierarchy models",
+        "link": "https://aws.amazon.com/blogs/security/how-to-enforce-creation-of-roles-in-a-specific-path-use-iam-role-naming-in-hierarchy-models/"
+    },
+    {
         "title": "How AWS can help you navigate the complexity of digital sovereignty",
         "link": "https://aws.amazon.com/blogs/security/how-aws-can-help-you-navigate-the-complexity-of-digital-sovereignty/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to customize access tokens in Amazon Cognito user pools",
         "link": "https://aws.amazon.com/blogs/security/how-to-customize-access-tokens-in-amazon-cognito-user-pools/"
-    },
-    {
-        "title": "Strengthen the DevOps pipeline and protect data with AWS Secrets Manager, AWS KMS, and AWS Certificate Manager",
-        "link": "https://aws.amazon.com/blogs/security/strengthen-the-devops-pipeline-and-protect-data-with-aws-secrets-manager-aws-kms-and-aws-certificate-manager/"
     }
 ]

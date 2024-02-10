@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling file system sharing on Amazon FSx for NetApp ONTAP across multiple AWS accounts",
+        "link": "https://aws.amazon.com/blogs/storage/enabling-file-system-sharing-on-fsx-for-netapp-ontap-across-multiple-aws-accounts/"
+    },
+    {
         "title": "Implementing AWS DataSync with hundreds of millions of objects",
         "link": "https://aws.amazon.com/blogs/storage/implementing-aws-datasync-with-hundreds-of-millions-of-objects/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon S3 Express One Zone delivers cost and performance gains for ChaosSearch customers",
         "link": "https://aws.amazon.com/blogs/storage/amazon-s3-express-one-zone-delivers-cost-and-performance-gains-for-chaossearch-customers/"
-    },
-    {
-        "title": "Akridata accelerates processing of unstructured data with Amazon S3 Express One Zone",
-        "link": "https://aws.amazon.com/blogs/storage/akridata-accelerates-processing-of-unstructured-data-with-amazon-s3-express-one-zone/"
     }
 ]
