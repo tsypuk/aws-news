@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ingest and analyze equipment data in the cloud",
+        "link": "https://aws.amazon.com/blogs/industries/ingest-and-analyze-equipment-data-in-the-cloud/"
+    },
+    {
         "title": "AWS and Safran Passenger Innovations bring together a SmartPipe platform for updates between aircraft and the cloud",
         "link": "https://aws.amazon.com/blogs/industries/aws-and-safran-passenger-innovations/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Cut time to results without changing your EDA flows",
         "link": "https://aws.amazon.com/blogs/industries/cut-time-to-results/"
-    },
-    {
-        "title": "Train responsible gaming inference models for sports betting with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/industries/train-responsible-gaming-inference-models-for-sports-betting-with-amazon-sagemaker/"
     }
 ]

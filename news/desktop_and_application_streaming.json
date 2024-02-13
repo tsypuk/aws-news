@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon WorkSpaces Multi-Region Resilience with ProfileUnity and PeerGFS",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-multi-region-resilience-with-profileunity-and-peergfs/"
+    },
+    {
         "title": "Amazon WorkSpaces SAML 2.0 Federation with Keycloak",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-saml-2-0-federation-with-keycloak/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrating to Microsoft 365 Apps for enterprise at scale on Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/preparing-to-migrate-to-microsoft-365-apps-at-scale-on-amazon-workspaces/"
-    },
-    {
-        "title": "Disrupting your thinking on end-user computing",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/disrupting-your-thinking-on-end-user-computing/"
     }
 ]

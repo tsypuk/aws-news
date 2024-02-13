@@ -1,5 +1,13 @@
 [
     {
+        "title": "Query transaction finality information from public blockchains using Amazon Managed Blockchain Query",
+        "link": "https://aws.amazon.com/blogs/database/query-transaction-finality-information-from-public-blockchains-using-amazon-managed-blockchain-query/"
+    },
+    {
+        "title": "Make EOA private keys compatible with AWS KMS",
+        "link": "https://aws.amazon.com/blogs/database/make-eoa-private-keys-compatible-with-aws-kms/"
+    },
+    {
         "title": "Accelerate generative AI workloads on Amazon Aurora with Optimized Reads and pgvector",
         "link": "https://aws.amazon.com/blogs/database/accelerate-generative-ai-workloads-on-amazon-aurora-with-optimized-reads-and-pgvector/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "PostgreSQL 11 upgrade strategies for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/postgresql-11-upgrade-strategies-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "Back up and restore transparent data encrypted databases across accounts in Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/back-up-and-restore-transparent-data-encrypted-databases-across-accounts-in-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Migrate rows with unique constraints to Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrate-rows-with-unique-constraints-to-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/"
     }
 ]
