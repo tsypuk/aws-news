@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Amazon ECS with AWS Fargate to automate Azure DevOps Hosted Agents",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ecs-with-aws-fargate-for-azure-devops-hosted-agents/"
+    },
+    {
         "title": "Secure API authorization in Amazon API Gateway using Microsoft Entra ID",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/secure-api-authorization-in-amazon-api-gateway-using-microsoft-entra-id/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to migrate a large-scale SQL Server database over low bandwidth using AWS Application Migration Service",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-migrate-a-large-scale-sql-server-database-over-low-bandwidth-using-aws-application-migration-service/"
-    },
-    {
-        "title": "Caylent: Helping customers modernize Microsoft SQL Server with purpose-built databases on AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/caylent-modernize-microsoft-sql-server-with-purpose-built-databases-on-aws/"
     }
 ]

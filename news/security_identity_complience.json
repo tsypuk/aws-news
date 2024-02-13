@@ -1,5 +1,9 @@
 [
     {
+        "title": "Identify Java nested dependencies with Amazon Inspector SBOM Generator",
+        "link": "https://aws.amazon.com/blogs/security/identify-java-nested-dependencies-with-amazon-inspector-sbom-generator/"
+    },
+    {
         "title": "How to enforce creation of roles in a specific path: Use IAM role naming in hierarchy models",
         "link": "https://aws.amazon.com/blogs/security/how-to-enforce-creation-of-roles-in-a-specific-path-use-iam-role-naming-in-hierarchy-models/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Generate AI powered insights for Amazon Security Lake using Amazon SageMaker Studio and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/security/generate-ai-powered-insights-for-amazon-security-lake-using-amazon-sagemaker-studio-and-amazon-bedrock/"
-    },
-    {
-        "title": "How to customize access tokens in Amazon Cognito user pools",
-        "link": "https://aws.amazon.com/blogs/security/how-to-customize-access-tokens-in-amazon-cognito-user-pools/"
     }
 ]

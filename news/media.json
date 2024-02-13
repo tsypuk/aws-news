@@ -1,5 +1,9 @@
 [
     {
+        "title": "How EverQuote Underwent a Serverless Transformation using AWS",
+        "link": "https://aws.amazon.com/blogs/mt/how-everquote-underwent-a-serverless-transformation-using-aws/"
+    },
+    {
         "title": "Optimize AWS Resource Management with Tag Inventory Reports leveraging AWS Resource Explorer",
         "link": "https://aws.amazon.com/blogs/mt/optimize-aws-resource-management-with-tag-inventory-reports-leveraging-aws-resource-explorer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Multi-tenant monitoring across accounts and regions using Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/multi-tenant-monitoring-across-accounts-and-regions-using-amazon-managed-for-prometheus/"
-    },
-    {
-        "title": "Custom Post-launch actions and Deployment scripting using AWS Systems Manager and Amazon CodeWhisperer",
-        "link": "https://aws.amazon.com/blogs/mt/custom-post-launch-actions-and-deployment-scripting-using-aws-systems-manager-and-amazon-codewhisperer/"
     }
 ]

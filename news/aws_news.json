@@ -1,5 +1,13 @@
 [
     {
+        "title": "Knowledge Bases for Amazon Bedrock now supports Amazon Aurora PostgreSQL and Cohere embedding models",
+        "link": "https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-amazon-aurora-postgresql-and-cohere-embedding-models/"
+    },
+    {
+        "title": "AWS Weekly Roundup \u2014 Happy Lunar New Year, IaC generator, NFL\u2019s digital athlete, AWS Cloud Clubs, and more \u2014 February 12, 2024",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-happy-lunar-new-year-iac-generator-nfls-digital-athlete-aws-cloud-clubs-and-more-february-12-2024/"
+    },
+    {
         "title": "AWS Weekly Roundup \u2014 Amazon Q in AWS Glue, Amazon PartyRock Hackathon, CDK Migrate, and more \u2014 February 5, 2024",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-in-aws-glue-amazon-partyrock-hackathon-cdk-migrate-and-more-february-5-2024/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "IDE extension for AWS Application Composer enhances visual modern applications development with AI-generated IaC",
         "link": "https://aws.amazon.com/blogs/aws/ide-extension-for-aws-application-composer-enhances-visual-modern-applications-development-with-ai-generated-iac/"
-    },
-    {
-        "title": "Amazon SageMaker Studio adds web-based interface, Code Editor, flexible workspaces, and streamlines user onboarding",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-adds-web-based-interface-code-editor-flexible-workspaces-and-streamlines-user-onboarding/"
-    },
-    {
-        "title": "Three new capabilities for Amazon Inspector broaden the realm of vulnerability scanning for workloads",
-        "link": "https://aws.amazon.com/blogs/aws/three-new-capabilities-for-amazon-inspector-broaden-the-realm-of-vulnerability-scanning-for-workloads/"
     }
 ]

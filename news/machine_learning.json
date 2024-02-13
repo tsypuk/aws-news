@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Booking.com modernized its ML experimentation framework with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/"
+    },
+    {
         "title": "Build an internal SaaS service with cost and usage tracking for foundation models on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-internal-saas-service-with-cost-and-usage-tracking-for-foundation-models-on-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy a Microsoft Teams gateway for Amazon Q, your business expert",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/"
-    },
-    {
-        "title": "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
     }
 ]
