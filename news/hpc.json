@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon\u2019s renewable energy forecasting: continuous delivery with Jupyter Notebooks",
+        "link": "https://aws.amazon.com/blogs/hpc/amazons-renewable-energy-forecasting-continuous-delivery-with-jupyter-notebooks/"
+    },
+    {
         "title": "Dynamic HPC budget control using a core-limit approach with AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/dynamic-hpc-budget-control-using-a-core-limit-approach-with-aws-parallelcluster/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing login nodes in AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/introducing-login-nodes-in-aws-parallelcluster/"
-    },
-    {
-        "title": "Financial services industry HPC migrations using AWS ParallelCluster with Slurm",
-        "link": "https://aws.amazon.com/blogs/hpc/financial-services-industry-hpc-migrations-using-aws-parallelcluster-with-slurm/"
     }
 ]

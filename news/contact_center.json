@@ -1,5 +1,9 @@
 [
     {
+        "title": "Real-time data export of Amazon Connect Customer Profiles to Salesforce using Amazon Kinesis",
+        "link": "https://aws.amazon.com/blogs/contact-center/real-time-data-export-of-amazon-connect-customer-profiles-to-salesforce-using-amazon-kinesis/"
+    },
+    {
         "title": "Deter spam callers using Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/deter-spam-callers-using-amazon-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyze customer satisfaction scores with post-contact surveys using Amazon Connect Tasks",
         "link": "https://aws.amazon.com/blogs/contact-center/analyze-customer-satisfaction-scores-with-post-contact-surveys-using-amazon-connect-tasks/"
-    },
-    {
-        "title": "Exploring use cases for Amazon Connect step-by-step guides",
-        "link": "https://aws.amazon.com/blogs/contact-center/exploring-use-cases-for-amazon-connect-step-by-step-guides/"
     }
 ]
