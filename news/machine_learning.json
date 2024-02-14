@@ -1,5 +1,13 @@
 [
     {
+        "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/"
+    },
+    {
+        "title": "Amazon SageMaker Feature Store now supports cross-account sharing, discovery, and access",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-now-supports-cross-account-sharing-discovery-and-access/"
+    },
+    {
         "title": "How Booking.com modernized its ML experimentation framework with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Benchmark and optimize endpoint deployment in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Architect defense-in-depth security for generative AI applications using the OWASP Top 10 for LLMs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
-    },
-    {
-        "title": "Deploy a Microsoft Teams gateway for Amazon Q, your business expert",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How BMW Group optimizes software builds using AWS VM Import/Export and Amazon EBS Snapshot Copy",
+        "link": "https://aws.amazon.com/blogs/storage/how-bmw-group-optimizes-software-builds-using-aws-vm-import-export-and-ebs-snapshot-copy/"
+    },
+    {
         "title": "Marqeta supercharges MySQL workloads using Amazon EBS io2 Block Express",
         "link": "https://aws.amazon.com/blogs/storage/marqeta-supercharges-mysql-workloads-using-amazon-ebs-io2-block-express/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Protecting data with AWS Backup Vault Lock",
         "link": "https://aws.amazon.com/blogs/storage/protecting-data-with-aws-backup-vault-lock/"
-    },
-    {
-        "title": "Improve compute utilization with more Amazon EBS volume attachments on 7th generation Amazon EC2 instances",
-        "link": "https://aws.amazon.com/blogs/storage/improve-compute-utilization-with-more-amazon-ebs-volume-attachments-on-7th-generation-amazon-ec2-instances/"
     }
 ]

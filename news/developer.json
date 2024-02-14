@@ -1,5 +1,9 @@
 [
     {
+        "title": "New: Default Payload Compression for Amazon CloudWatch PutMetricData with the AWS SDKs",
+        "link": "https://aws.amazon.com/blogs/developer/new-default-payload-compression-for-amazon-cloudwatch-putmetricdata-with-the-aws-sdks/"
+    },
+    {
         "title": "Announcing RBS support for AWS SDK for Ruby V3",
         "link": "https://aws.amazon.com/blogs/developer/announcing-rbs-support-for-aws-sdk-for-ruby-v3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the AWS .NET Distributed Cache Provider for DynamoDB (Preview)",
         "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-net-distributed-cache-provider-for-dynamodb-preview/"
-    },
-    {
-        "title": "Announcing Amazon S3 checksums support in the AWS SDK for Kotlin",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-amazon-s3-checksums-support-in-the-aws-sdk-for-kotlin/"
     }
 ]
