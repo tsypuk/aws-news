@@ -1,5 +1,13 @@
 [
     {
+        "title": "Adopting Multi-Region Architecture to Support ADP\u2019s High Availability Requirements",
+        "link": "https://aws.amazon.com/blogs/apn/adopting-multi-region-architecture-to-support-adp-high-availability-requirements/"
+    },
+    {
+        "title": "Cloud-Native Data Security Posture Management Deployments on AWS with Symmetry Systems",
+        "link": "https://aws.amazon.com/blogs/apn/cloud-native-data-security-posture-management-deployments-on-aws-with-symmetry-systems/"
+    },
+    {
         "title": "Identity-as-a-Service Using Amazon Managed Blockchain for Invisible and Embedded Banking",
         "link": "https://aws.amazon.com/blogs/apn/identity-as-a-service-using-amazon-managed-blockchain-for-invisible-and-embedded-banking/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Apps Associates Eliminates Silos to Maximize Data and Deliver Transformative Business Insights",
         "link": "https://aws.amazon.com/blogs/apn/how-apps-associates-eliminates-silos-to-maximize-data-and-deliver-transformative-business-insights/"
-    },
-    {
-        "title": "Building a Data Foundation for Healthcare Transformation with Redox, Cloudwick, ClearDATA, and AWS",
-        "link": "https://aws.amazon.com/blogs/apn/building-a-data-foundation-for-healthcare-transformation-with-redox-cloudwick-cleardata-and-aws/"
-    },
-    {
-        "title": "Building a Complete Customer 360 in Amazon Redshift with RudderStack",
-        "link": "https://aws.amazon.com/blogs/apn/building-a-complete-customer-360-in-amazon-redshift-with-rudderstack/"
     }
 ]

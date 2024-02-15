@@ -1,5 +1,9 @@
 [
     {
+        "title": "Data insights from SAP with Amazon SageMaker AutoML and QuickSight",
+        "link": "https://aws.amazon.com/blogs/awsforsap/data-insights-from-sap-with-amazon-sagemaker-automl-and-quicksight/"
+    },
+    {
         "title": "End-to-End Observability for SAP on AWS : Part 1 Overview",
         "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-1-overview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with the AWS SDK for SAP ABAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/getting-started-with-aws-sdk-for-sap-abap/"
-    },
-    {
-        "title": "Automate High Availability Tests for SAP HANA",
-        "link": "https://aws.amazon.com/blogs/awsforsap/automate-high-availability-tests-for-sap-hana/"
     }
 ]

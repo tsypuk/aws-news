@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline data management at scale by automating the creation of Amazon S3 Batch Operations jobs",
+        "link": "https://aws.amazon.com/blogs/storage/streamline-data-management-at-scale-by-automating-the-creation-of-amazon-s3-batch-operations-jobs/"
+    },
+    {
         "title": "How BMW Group optimizes software builds using AWS VM Import/Export and Amazon EBS Snapshot Copy",
         "link": "https://aws.amazon.com/blogs/storage/how-bmw-group-optimizes-software-builds-using-aws-vm-import-export-and-ebs-snapshot-copy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automatically modify data you are querying with Amazon Athena using Amazon S3 Object Lambda",
         "link": "https://aws.amazon.com/blogs/storage/automatically-modify-data-you-are-querying-with-amazon-athena-using-amazon-s3-object-lambda/"
-    },
-    {
-        "title": "Protecting data with AWS Backup Vault Lock",
-        "link": "https://aws.amazon.com/blogs/storage/protecting-data-with-aws-backup-vault-lock/"
     }
 ]

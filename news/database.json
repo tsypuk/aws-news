@@ -1,5 +1,9 @@
 [
     {
+        "title": "Perform near real time analytics using Amazon Redshift on data stored in Amazon DocumentDB",
+        "link": "https://aws.amazon.com/blogs/database/perform-near-real-time-analytics-using-amazon-redshift-on-data-stored-in-amazon-documentdb/"
+    },
+    {
         "title": "Connect external applications to an Amazon RDS instance using Amazon RDS Proxy",
         "link": "https://aws.amazon.com/blogs/database/connect-external-applications-to-an-amazon-rds-instance-using-amazon-rds-proxy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS positioned highest in execution in the 2023 Gartner Magic Quadrant for Cloud Database Management Systems",
         "link": "https://aws.amazon.com/blogs/database/aws-positioned-highest-in-execution-in-the-2023-gartner-magic-quadrant-for-cloud-database-management-systems/"
-    },
-    {
-        "title": "Upgrade to Amazon Aurora MySQL version 3 (with MySQL 8.0 compatibility)",
-        "link": "https://aws.amazon.com/blogs/database/upgrade-to-amazon-aurora-mysql-version-3-with-mysql-8-0-compatibility/"
     }
 ]

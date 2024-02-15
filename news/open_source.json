@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the Data Solutions Framework on AWS",
+        "link": "https://aws.amazon.com/blogs/opensource/announcing-the-data-solutions-framework-on-aws/"
+    },
+    {
         "title": "Building Developer Portals with Backstage and Amazon EKS Blueprints",
         "link": "https://aws.amazon.com/blogs/opensource/building-developer-portals-with-backstage-and-amazon-eks-blueprints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Argo CD Application Controller Scalability Testing on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/opensource/argo-cd-application-controller-scalability-testing-on-amazon-eks/"
-    },
-    {
-        "title": "How MongoDB and AWS Collaborated to Enable Running the Open Source MongoDB Kafka Connector in Managed Environments",
-        "link": "https://aws.amazon.com/blogs/opensource/how-mongodb-and-aws-collaborated-to-enable-running-the-open-source-mongodb-kafka-connector-in-managed-environments/"
     }
 ]
