@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using AWS Transit Gateway Flow Logs to chargeback data processing costs in a multi-account environment",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-transit-gateway-flow-logs-to-chargeback-data-processing-costs-in-a-multi-account-environment/"
+    },
+    {
         "title": "How Glovo migrated their self-managed VPN solution to AWS Client VPN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-glovo-migrated-their-self-managed-vpn-solution-to-aws-client-vpn/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating large scale deployments with tags for Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-large-scale-deployments-with-tags-for-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Improving availability with Application Load Balancer automatic target weights",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/improving-availability-with-application-load-balancer-automatic-target-weights/"
     }
 ]
