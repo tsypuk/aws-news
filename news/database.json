@@ -1,5 +1,13 @@
 [
     {
+        "title": "Monitor Amazon Aurora Global Database replication at scale using Amazon CloudWatch Metrics Insights",
+        "link": "https://aws.amazon.com/blogs/database/monitor-amazon-aurora-global-database-replication-at-scale-using-amazon-cloudwatch-metrics-insights/"
+    },
+    {
+        "title": "Use Amazon RDS Proxy and AWS PrivateLink to access Amazon RDS databases across AWS Organizations at American Family Insurance Group",
+        "link": "https://aws.amazon.com/blogs/database/use-amazon-rds-proxy-and-aws-privatelink-to-access-amazon-rds-databases-across-aws-organizations-at-american-family-insurance-group/"
+    },
+    {
         "title": "Perform near real time analytics using Amazon Redshift on data stored in Amazon DocumentDB",
         "link": "https://aws.amazon.com/blogs/database/perform-near-real-time-analytics-using-amazon-redshift-on-data-stored-in-amazon-documentdb/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use the tds_fdw extension to migrate data from SQL Server to PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/use-the-tds_fdw-extension-to-migrate-data-from-sql-server-to-postgresql/"
-    },
-    {
-        "title": "Automate CEV creation with AWS CloudFormation in Amazon RDS Custom for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/automate-cev-creation-with-aws-cloudformation-in-amazon-rds-custom-for-oracle/"
-    },
-    {
-        "title": "AWS positioned highest in execution in the 2023 Gartner Magic Quadrant for Cloud Database Management Systems",
-        "link": "https://aws.amazon.com/blogs/database/aws-positioned-highest-in-execution-in-the-2023-gartner-magic-quadrant-for-cloud-database-management-systems/"
     }
 ]

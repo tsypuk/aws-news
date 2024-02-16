@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyzing Amazon SES event data with AWS Analytics Services",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/analyzing-amazon-ses-event-data-with-aws-analytics-services/"
+    },
+    {
         "title": "Using one-click unsubscribe with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/using-one-click-unsubscribe-with-amazon-ses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to Send SMS Using Configuration Sets with Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-sms-using-configurations-sets-with-amazon-pinpoint/"
-    },
-    {
-        "title": "Amazon Simple Email Service adds email delivery features to revised free tier",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/amazon-simple-email-service-adds-email-delivery-analysis-features-to-revised-free-tier/"
     }
 ]
