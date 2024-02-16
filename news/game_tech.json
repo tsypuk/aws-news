@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing Game and Media Workflows with Global File Systems on AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/enhancing-game-and-media-workflows-with-global-file-systems-on-aws/"
+    },
+    {
         "title": "Boosting Unreal Engine Performance with Amazon FSx for OpenZFS as a Shared Derived Data Cache",
         "link": "https://aws.amazon.com/blogs/gametech/boosting-unreal-engine-performance-with-amazon-fsx-for-openzfs-as-a-shared-derived-data-cache/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Ryu Games builds Web3 video game marketplace on AWS",
         "link": "https://aws.amazon.com/blogs/gametech/ryu-games-builds-new-web3-video-game-marketplace-on-aws/"
-    },
-    {
-        "title": "How to make the jump from developing a game to running a game platform",
-        "link": "https://aws.amazon.com/blogs/gametech/how-to-make-the-jump-from-developing-a-game-to-running-a-game-platform/"
     }
 ]
