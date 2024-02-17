@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhance your AWS cloud infrastructure security with AWS Managed Services (AMS)",
+        "link": "https://aws.amazon.com/blogs/mt/enhance-your-aws-cloud-infrastructure-security-with-aws-managed-services-ams/"
+    },
+    {
+        "title": "Simplify query authoring in AWS Config advanced queries with natural language query generation",
+        "link": "https://aws.amazon.com/blogs/mt/simplify-query-authoring-in-aws-config-advanced-queries-with-natural-language-query-generation/"
+    },
+    {
         "title": "How EverQuote Underwent a Serverless Transformation using AWS",
         "link": "https://aws.amazon.com/blogs/mt/how-everquote-underwent-a-serverless-transformation-using-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Monitoring Windows services with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/monitoring-windows-services-with-amazon-cloudwatch-2/"
-    },
-    {
-        "title": "How Unitary achieved automatic metric collection with Amazon Managed Service for Prometheus collector",
-        "link": "https://aws.amazon.com/blogs/mt/how-unitary-achieved-automatic-metric-collection-with-amazon-managed-service-for-prometheus-collector/"
-    },
-    {
-        "title": "Multi-tenant monitoring across accounts and regions using Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/multi-tenant-monitoring-across-accounts-and-regions-using-amazon-managed-for-prometheus/"
     }
 ]
