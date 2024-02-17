@@ -1,5 +1,9 @@
 [
     {
+        "title": "Code Llama 70B is now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Detect anomalies in manufacturing data using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-in-manufacturing-data-using-amazon-sagemaker-canvas/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with Amazon Titan Text Embeddings in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/"
-    },
-    {
-        "title": "Build a movie chatbot for TV/OTT platforms using Retrieval Augmented Generation in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-movie-chatbot-for-tv-ott-platforms-using-retrieval-augmented-generation-in-amazon-bedrock/"
     }
 ]

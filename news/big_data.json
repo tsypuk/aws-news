@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance data security and governance for Amazon Redshift Spectrum with VPC endpoints",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-data-security-and-governance-for-amazon-redshift-spectrum-with-vpc-endpoints/"
+    },
+    {
         "title": "Simplify access management with Amazon Redshift and AWS Lake Formation for users in an External Identity Provider",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-access-management-with-amazon-redshift-and-aws-lake-formation-for-users-in-an-external-identity-provider/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable metric-based and scheduled scaling for Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/enable-metric-based-and-scheduled-scaling-for-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Achieve high availability in Amazon OpenSearch Multi-AZ with Standby enabled domains: A deep dive into failovers",
-        "link": "https://aws.amazon.com/blogs/big-data/achieve-high-availability-in-amazon-opensearch-multi-az-with-standby-enabled-domains-a-deep-dive-into-failovers/"
     }
 ]
