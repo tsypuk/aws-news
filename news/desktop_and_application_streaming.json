@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying Amazon WorkSpaces access with JumpCloud Go: a secure, passwordless approach",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplifying-amazon-workspaces-access-with-jumpcloud-go-a-secure-passwordless-approach/"
+    },
+    {
         "title": "Amazon WorkSpaces Multi-Region Resilience with ProfileUnity and PeerGFS",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-multi-region-resilience-with-profileunity-and-peergfs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Understand user access patterns and optimize Amazon WorkSpaces with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/understand-user-access-patterns-and-optimize-amazon-workspaces-with-amazon-cloudwatch/"
-    },
-    {
-        "title": "Migrating to Microsoft 365 Apps for enterprise at scale on Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/preparing-to-migrate-to-microsoft-365-apps-at-scale-on-amazon-workspaces/"
     }
 ]

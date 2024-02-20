@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate tables from Microsoft Access to Amazon RDS for MySQL",
+        "link": "https://aws.amazon.com/blogs/database/migrate-tables-from-microsoft-access-to-amazon-rds-for-mysql/"
+    },
+    {
         "title": "Predictive Analytics with Time-series Machine Learning on Amazon Timestream",
         "link": "https://aws.amazon.com/blogs/database/predictive-analytics-with-time-series-machine-learning-on-amazon-timestream/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Filter transactions from users with AWS DMS from an Oracle database",
         "link": "https://aws.amazon.com/blogs/database/filter-transactions-from-users-with-aws-dms-from-an-oracle-database/"
-    },
-    {
-        "title": "How ktown4u built a custom auto scaling architecture using an Amazon Aurora mixed-configuration cluster to respond to sudden traffic spikes",
-        "link": "https://aws.amazon.com/blogs/database/how-ktown4u-built-a-custom-auto-scaling-architecture-using-an-amazon-aurora-mixed-configuration-cluster-to-respond-to-sudden-traffic-spikes/"
     }
 ]
