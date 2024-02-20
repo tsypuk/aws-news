@@ -1,5 +1,13 @@
 [
     {
+        "title": "Monitoring Windows pods with Prometheus and Grafana",
+        "link": "https://aws.amazon.com/blogs/containers/monitoring-windows-pods-with-prometheus-and-grafana/"
+    },
+    {
+        "title": "How VMware Tanzu CloudHealth modernized container workloads from self-managed Kubernetes to Amazon Elastic Kubernetes Service",
+        "link": "https://aws.amazon.com/blogs/containers/how-vmware-tanzu-cloudhealth-modernized-container-workloads-from-self-managed-kubernetes-to-amazon-elastic-kubernetes-service/"
+    },
+    {
         "title": "How Perry Street Software Implemented Resilient Deployment Strategies with Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/how-perry-street-software-implemented-resilient-deployment-strategies-with-amazon-ecs/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Amazon EKS now supports Kubernetes version 1.29",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-29/"
-    },
-    {
-        "title": "Diving into Red Hat OpenShift Service on AWS (ROSA) with Hosted Control Planes (HCP)",
-        "link": "https://aws.amazon.com/blogs/containers/diving-into-red-hat-openshift-service-on-aws-rosa-with-hosted-control-planes-hcp/"
-    },
-    {
-        "title": "Amazon ECS enables easier EC2 capacity management, with managed instance draining",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-enables-easier-ec2-capacity-management-with-managed-instance-draining/"
     }
 ]

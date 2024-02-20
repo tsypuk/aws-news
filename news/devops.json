@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for managing Terraform State files in AWS CI/CD Pipeline",
+        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-managing-terraform-state-files-in-aws-ci-cd-pipeline/"
+    },
+    {
         "title": "AWS CodePipeline adds support for Branch-based development and Monorepos",
         "link": "https://aws.amazon.com/blogs/devops/aws-codepipeline-adds-support-for-branch-based-development-and-monorepos/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS CodeBuild adds support for AWS Lambda compute mode",
         "link": "https://aws.amazon.com/blogs/devops/aws-codebuild-adds-support-for-aws-lambda-compute-mode/"
-    },
-    {
-        "title": "How to use Amazon CodeWhisperer using Okta as an external IdP",
-        "link": "https://aws.amazon.com/blogs/devops/how-to-use-amazon-codewhisperer-using-okta-as-an-external-idp/"
     }
 ]
