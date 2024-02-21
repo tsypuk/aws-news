@@ -1,6 +1,18 @@
 [
     {
-        "title": "Improve your ETL performance using multiple Redshift warehouses for writes",
+        "title": "Build an analytics pipeline that is resilient to schema changes using Amazon Redshift Spectrum",
+        "link": "https://aws.amazon.com/blogs/big-data/build-an-analytics-pipeline-that-is-resilient-to-schema-changes-using-amazon-redshift-spectrum/"
+    },
+    {
+        "title": "Simplify authentication with native LDAP integration on Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-authentication-with-native-ldap-integration-on-amazon-emr/"
+    },
+    {
+        "title": "Reference guide to analyze transactional data in near-real time on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/reference-guide-to-analyze-transactional-data-in-near-real-time-on-aws/"
+    },
+    {
+        "title": "Improve your ETL performance using multiple Redshift warehouses for writes (Preview)",
         "link": "https://aws.amazon.com/blogs/big-data/improve-your-etl-performance-using-multiple-redshift-warehouses-for-writes/"
     },
     {
@@ -66,17 +78,5 @@
     {
         "title": "Enforce fine-grained access control on Open Table Formats via Amazon EMR integrated with AWS Lake Formation",
         "link": "https://aws.amazon.com/blogs/big-data/enforce-fine-grained-access-control-on-open-table-formats-via-amazon-emr-integrated-with-aws-lake-formation/"
-    },
-    {
-        "title": "Power neural search with AI/ML connectors in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/power-neural-search-with-ai-ml-connectors-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "Disaster recovery strategies for Amazon MWAA \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/disaster-recovery-strategies-for-amazon-mwaa-part-1/"
-    },
-    {
-        "title": "Detect, mask, and redact PII data using AWS Glue before loading into Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/detect-mask-and-redact-pii-data-using-aws-glue-before-loading-into-amazon-opensearch-service/"
     }
 ]

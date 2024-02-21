@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline diarization using AI as an assistive technology: ZOO Digital\u2019s story",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/"
+    },
+    {
         "title": "Run ML inference on unplanned and spiky traffic using Amazon SageMaker multi-model endpoints",
         "link": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How HSR.health is limiting risks of disease spillover from animals to humans using Amazon SageMaker geospatial capabilities",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-hsr-health-is-limiting-risks-of-disease-spillover-from-animals-to-humans-using-amazon-sagemaker-geospatial-capabilities/"
-    },
-    {
-        "title": "Monitor embedding drift for LLMs deployed from Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-embedding-drift-for-llms-deployed-from-amazon-sagemaker-jumpstart/"
     }
 ]

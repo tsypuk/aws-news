@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understand and optimize replication for Amazon Redshift with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/understand-and-optimize-replication-for-amazon-redshift-with-aws-dms/"
+    },
+    {
         "title": "Migrate tables from Microsoft Access to Amazon RDS for MySQL",
         "link": "https://aws.amazon.com/blogs/database/migrate-tables-from-microsoft-access-to-amazon-rds-for-mysql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a real-time, low-code anomaly detection pipeline for time series data using Amazon Aurora, Amazon Redshift ML, and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/database/build-a-real-time-low-code-anomaly-detection-pipeline-for-time-series-data-using-amazon-aurora-amazon-redshift-ml-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Filter transactions from users with AWS DMS from an Oracle database",
-        "link": "https://aws.amazon.com/blogs/database/filter-transactions-from-users-with-aws-dms-from-an-oracle-database/"
     }
 ]

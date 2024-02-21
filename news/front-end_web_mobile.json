@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bring your own SSL certificate to AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/custom-ssl-amplify-hosting/"
+    },
+    {
         "title": "The future of web development: AWS Amplify\u2019s Code First Approach",
         "link": "https://aws.amazon.com/blogs/mobile/the-future-of-web-development-aws-amplifys-code-first-approach/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modern Tooling for Your Website using AWS, Contentful, and Next.js",
         "link": "https://aws.amazon.com/blogs/mobile/modern-tooling-for-your-website-using-aws-contentful-and-next-js/"
-    },
-    {
-        "title": "Architecture Patterns for AWS AppSync Private APIs",
-        "link": "https://aws.amazon.com/blogs/mobile/architecture-patterns-for-aws-appsync-private-apis/"
     }
 ]
