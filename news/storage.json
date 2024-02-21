@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing MMAP workloads on Amazon FSx for Lustre file systems",
+        "link": "https://aws.amazon.com/blogs/storage/optimizing-mmap-workloads-on-amazon-fsx-for-lustre-file-systems/"
+    },
+    {
         "title": "Streamline data management at scale by automating the creation of Amazon S3 Batch Operations jobs",
         "link": "https://aws.amazon.com/blogs/storage/streamline-data-management-at-scale-by-automating-the-creation-of-amazon-s3-batch-operations-jobs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating retrievals from the Amazon S3 Glacier storage classes",
         "link": "https://aws.amazon.com/blogs/storage/automating-retrievals-from-the-amazon-s3-glacier-storage-classes/"
-    },
-    {
-        "title": "Automatically modify data you are querying with Amazon Athena using Amazon S3 Object Lambda",
-        "link": "https://aws.amazon.com/blogs/storage/automatically-modify-data-you-are-querying-with-amazon-athena-using-amazon-s3-object-lambda/"
     }
 ]
