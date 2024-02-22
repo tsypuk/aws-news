@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a Multicloud Resource Data Lake Using CloudQuery",
+        "link": "https://aws.amazon.com/blogs/opensource/building-a-multicloud-resource-data-lake-using-cloudquery/"
+    },
+    {
         "title": "Announcing the Data Solutions Framework on AWS",
         "link": "https://aws.amazon.com/blogs/opensource/announcing-the-data-solutions-framework-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Ray Integration for AWS Trainium and AWS Inferentia is Now Available",
         "link": "https://aws.amazon.com/blogs/opensource/ray-integration-for-aws-trainium-aws-inferentia-is-now-available/"
-    },
-    {
-        "title": "Argo CD Application Controller Scalability Testing on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/opensource/argo-cd-application-controller-scalability-testing-on-amazon-eks/"
     }
 ]

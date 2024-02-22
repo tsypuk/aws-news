@@ -1,5 +1,9 @@
 [
     {
+        "title": "Explainable AI using expressive Boolean formulas",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/"
+    },
+    {
         "title": "Citi and Classiq advance quantum solutions for portfolio optimization using Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/citi-and-classiq-advance-quantum-solutions-for-portfolio-optimization/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Speeding up hybrid quantum algorithms with parametric circuits on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/speeding-up-hybrid-quantum-algorithms-with-parametric-circuits-on-amazon-braket/"
-    },
-    {
-        "title": "Constructing an \u201cend-to-end\u201d quantum algorithm: a comprehensive technical resource for algorithms designers",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/constructing-end-to-end-quantum-algorithm/"
     }
 ]
