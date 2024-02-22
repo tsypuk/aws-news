@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create a Virtual Knowledge Graph with Amazon Neptune and an Amazon S3 data lake",
+        "link": "https://aws.amazon.com/blogs/database/create-a-virtual-knowledge-graph-with-amazon-neptune-and-an-amazon-s3-data-lake/"
+    },
+    {
         "title": "Understand and optimize replication for Amazon Redshift with AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/understand-and-optimize-replication-for-amazon-redshift-with-aws-dms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlock on-demand, cost-optimized performance with Amazon ElastiCache Serverless",
         "link": "https://aws.amazon.com/blogs/database/unlock-on-demand-cost-optimized-performance-with-amazon-elasticache-serverless/"
-    },
-    {
-        "title": "Build a real-time, low-code anomaly detection pipeline for time series data using Amazon Aurora, Amazon Redshift ML, and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/database/build-a-real-time-low-code-anomaly-detection-pipeline-for-time-series-data-using-amazon-aurora-amazon-redshift-ml-and-amazon-sagemaker/"
     }
 ]

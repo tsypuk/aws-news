@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying an EMR cluster on AWS Outposts to process data from an on-premises database",
+        "link": "https://aws.amazon.com/blogs/compute/deploying-an-emr-cluster-on-aws-outposts-to-process-data-from-an-on-premises-database/"
+    },
+    {
         "title": "Re-platforming Java applications using the updated AWS Serverless Java Container",
         "link": "https://aws.amazon.com/blogs/compute/re-platforming-java-applications-using-the-updated-aws-serverless-java-container/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing instance maintenance policy for Amazon EC2 Auto Scaling",
         "link": "https://aws.amazon.com/blogs/compute/introducing-instance-maintenance-policy-for-amazon-ec2-auto-scaling/"
-    },
-    {
-        "title": "Introducing AWS Step Functions redrive to recover from failures more easily",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-aws-step-functions-redrive-a-new-way-to-restart-workflows/"
     }
 ]

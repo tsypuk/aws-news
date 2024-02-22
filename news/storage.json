@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understand Amazon S3 data transfer costs by classifying requests with Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/storage/understand-amazon-s3-data-transfer-costs-by-classifying-requests-with-amazon-athena/"
+    },
+    {
         "title": "Optimizing MMAP workloads on Amazon FSx for Lustre file systems",
         "link": "https://aws.amazon.com/blogs/storage/optimizing-mmap-workloads-on-amazon-fsx-for-lustre-file-systems/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining Point-in-Time Recovery (PITR) for Amazon Aurora with AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/streamlining-point-in-time-recovery-pitr-for-amazon-aurora-with-aws-backup/"
-    },
-    {
-        "title": "Automating retrievals from the Amazon S3 Glacier storage classes",
-        "link": "https://aws.amazon.com/blogs/storage/automating-retrievals-from-the-amazon-s3-glacier-storage-classes/"
     }
 ]
