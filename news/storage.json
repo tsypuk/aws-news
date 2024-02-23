@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating Oracle Cloud Infrastructure Object Storage to Amazon S3 using AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/migrating-oracle-cloud-infrastructure-object-storage-to-amazon-s3-using-aws-datasync/"
+    },
+    {
         "title": "Understand Amazon S3 data transfer costs by classifying requests with Amazon Athena",
         "link": "https://aws.amazon.com/blogs/storage/understand-amazon-s3-data-transfer-costs-by-classifying-requests-with-amazon-athena/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automatic monitoring of actions taken on objects in Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/automatic-monitoring-of-actions-taken-on-objects-in-amazon-s3/"
-    },
-    {
-        "title": "Streamlining Point-in-Time Recovery (PITR) for Amazon Aurora with AWS Backup",
-        "link": "https://aws.amazon.com/blogs/storage/streamlining-point-in-time-recovery-pitr-for-amazon-aurora-with-aws-backup/"
     }
 ]
