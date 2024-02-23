@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to generate TLS certificates for a highly available Remote Desktop Gateway Farm",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-generate-tls-certificates-for-a-highly-available-remote-desktop-gateway-farm/"
+    },
+    {
+        "title": "Accelerate Remote Desktop Gateway deployments with AWS Launch Wizard",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-remote-desktop-gateway-deployments-with-aws-launch-wizard/"
+    },
+    {
         "title": "Using Amazon ECS with AWS Fargate to automate Azure DevOps Hosted Agents",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ecs-with-aws-fargate-for-azure-devops-hosted-agents/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Driving cost optimization and modernization of Microsoft workloads on AWS with SoftServe\u2019s application modernization platform",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/driving-cost-optimization-and-modernization-of-microsoft-workloads-with-softserve/"
-    },
-    {
-        "title": "Migrate SQL Server databases to AWS with minimal downtime using AWS Migration Hub Orchestrator",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrate-sql-server-databases-to-aws-with-minimal-downtime-using-aws-migration-hub-orchestrator/"
-    },
-    {
-        "title": "How to migrate a large-scale SQL Server database over low bandwidth using AWS Application Migration Service",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-migrate-a-large-scale-sql-server-database-over-low-bandwidth-using-aws-application-migration-service/"
     }
 ]
