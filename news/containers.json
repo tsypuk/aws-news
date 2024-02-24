@@ -1,5 +1,13 @@
 [
     {
+        "title": "Distributed machine learning with Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/containers/distributed-machine-learning-with-amazon-ecs/"
+    },
+    {
+        "title": "How Grover saves costs with 80% Spot in production using Karpenter with Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/how-grover-saves-costs-with-80-spot-in-production-using-karpenter-with-amazon-eks/"
+    },
+    {
         "title": "Monitoring Windows pods with Prometheus and Grafana",
         "link": "https://aws.amazon.com/blogs/containers/monitoring-windows-pods-with-prometheus-and-grafana/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Secure Amazon Elastic Container Service workloads with Amazon ECS Service Connect",
         "link": "https://aws.amazon.com/blogs/containers/secure-amazon-elastic-container-service-workloads-with-amazon-ecs-service-connect/"
-    },
-    {
-        "title": "Train Llama2 with AWS Trainium on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/train-llama2-with-aws-trainium-on-amazon-eks/"
-    },
-    {
-        "title": "Amazon EKS now supports Kubernetes version 1.29",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-29/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modern web application authentication and authorization with Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/security/modern-web-application-authentication-and-authorization-with-amazon-vpc-lattice/"
+    },
+    {
         "title": "AWS HITRUST Shared Responsibility Matrix for HITRUST CSF v11.2 now available",
         "link": "https://aws.amazon.com/blogs/security/aws-hitrust-shared-responsibility-matrix-for-hitrust-csf-v11-2-now-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to build a unified authorization layer for identity providers with Amazon Verified Permissions",
         "link": "https://aws.amazon.com/blogs/security/how-to-build-a-unified-authorization-layer-for-identity-providers-with-amazon-verified-permissions/"
-    },
-    {
-        "title": "AWS completes the first cloud audit by the Ingelheim Kreis Initiative Joint Audits group for the pharmaceutical and life sciences sector",
-        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-first-cloud-audit-by-the-ingelheim-kreis-initiative-joint-audits-group-for-the-pharmaceutical-and-life-sciences-sector/"
     }
 ]

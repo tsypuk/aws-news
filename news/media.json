@@ -1,5 +1,17 @@
 [
     {
+        "title": "Streamline Platform Engineering using AWS CodeStar Connections with AWS Service Catalog",
+        "link": "https://aws.amazon.com/blogs/mt/streamline-platform-engineering-using-aws-codestar-connections-with-aws-service-catalog/"
+    },
+    {
+        "title": "Accelerate troubleshooting with structured logs in Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/mt/accelerate-troubleshooting-with-structured-logs-in-amazon-cloudwatch/"
+    },
+    {
+        "title": "Enhance Kubernetes Operational Visibility with AWS Chatbot",
+        "link": "https://aws.amazon.com/blogs/mt/enhance-kubernetes-operational-visibility-with-aws-chatbot/"
+    },
+    {
         "title": "Anonymizing Sensitive Data of the Migration Evaluator\u2019s Export File",
         "link": "https://aws.amazon.com/blogs/mt/anonymizing-sensitive-data-of-the-migration-evaluators-export-file/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Announcing The AWS Well-Architected Migration Lens",
         "link": "https://aws.amazon.com/blogs/mt/announcing-aws-well-architected-migration-lens/"
-    },
-    {
-        "title": "VMware\u2019s Cloud Journey: AWS Account Management at Scale",
-        "link": "https://aws.amazon.com/blogs/mt/vmwares-cloud-journey-aws-account-management-at-scale/"
-    },
-    {
-        "title": "Implementing automated and centralized tagging controls with AWS Config and AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/mt/implementing-automated-and-centralized-tagging-controls-with-aws-config-and-aws-organizations/"
-    },
-    {
-        "title": "From Planning to Execution \u2013 Harnessing AWS Migration Hub Journeys to Accelerate Migrations and Modernization",
-        "link": "https://aws.amazon.com/blogs/mt/from-planning-to-execution-harnessing-aws-migration-hub-journeys-mhj-to-accelerate-migrations-and-modernization/"
     }
 ]
