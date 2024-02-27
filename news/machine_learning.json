@@ -1,5 +1,9 @@
 [
     {
+        "title": "Techniques and approaches for monitoring large language models on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/"
+    },
+    {
         "title": "Streamline diarization using AI as an assistive technology: ZOO Digital\u2019s story",
         "link": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing support for Llama 2 and Mistral models and streaming responses in Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/announcing-support-for-llama-2-models-and-streaming-responses-in-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "How HSR.health is limiting risks of disease spillover from animals to humans using Amazon SageMaker geospatial capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-hsr-health-is-limiting-risks-of-disease-spillover-from-animals-to-humans-using-amazon-sagemaker-geospatial-capabilities/"
     }
 ]

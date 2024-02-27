@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating agent-based simulation for autonomous driving",
+        "link": "https://aws.amazon.com/blogs/hpc/accelerating-agent-based-simulation-for-autonomous-driving-with-hpc/"
+    },
+    {
         "title": "How agent-based models powered by HPC are enabling large scale economic simulations",
         "link": "https://aws.amazon.com/blogs/hpc/how-agent-based-models-powered-by-hpc-are-enabling-large-scale-economic-simulations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unpacking the power of agent-based models for environmental and socio-economic impact",
         "link": "https://aws.amazon.com/blogs/hpc/unpacking-the-power-of-agent-based-models-for-environmental-and-socio-economic-impact/"
-    },
-    {
-        "title": "Why you should use Fargate with AWS Batch for your serverless batch architectures",
-        "link": "https://aws.amazon.com/blogs/hpc/why-use-fargate-with-aws-batch-for-serverless-batch-compute/"
     }
 ]
