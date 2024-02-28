@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve the speed and cost of HPC deployment with Mountpoint for Amazon S3",
+        "link": "https://aws.amazon.com/blogs/hpc/improve-the-speed-and-cost-of-hpc-deployment-with-mountpoint-for-amazon-s3/"
+    },
+    {
         "title": "Accelerating agent-based simulation for autonomous driving",
         "link": "https://aws.amazon.com/blogs/hpc/accelerating-agent-based-simulation-for-autonomous-driving-with-hpc/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "EFA: how fixing one thing, led to an improvement for \u2026 everyone",
         "link": "https://aws.amazon.com/blogs/hpc/efa-how-fixing-one-thing-lead-to-an-improvement-for-everyone/"
-    },
-    {
-        "title": "Unpacking the power of agent-based models for environmental and socio-economic impact",
-        "link": "https://aws.amazon.com/blogs/hpc/unpacking-the-power-of-agent-based-models-for-environmental-and-socio-economic-impact/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Amazon OpenSearch Ingestion to migrate to Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-opensearch-ingestion-to-migrate-to-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "Empowering data-driven excellence: How the Bluestone Data Platform embraced data mesh for success",
+        "link": "https://aws.amazon.com/blogs/big-data/empowering-data-driven-excellence-how-the-bluestone-data-platform-embraced-data-mesh-for-success/"
+    },
+    {
         "title": "Enable advanced search capabilities for Amazon Keyspaces data by integrating with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/enable-advanced-search-capabilities-for-amazon-keyspaces-data-by-integrating-with-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Preprocess and fine-tune LLMs quickly and cost-effectively using Amazon EMR Serverless and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/preprocess-and-fine-tune-llms-quickly-and-cost-effectively-using-amazon-emr-serverless-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Mastering market dynamics: Transforming transaction cost analytics with ultra-precise Tick History \u2013 PCAP and Amazon Athena for Apache Spark",
-        "link": "https://aws.amazon.com/blogs/big-data/mastering-market-dynamics-transforming-transaction-cost-analytics-with-ultra-precise-tick-history-pcap-and-amazon-athena-for-apache-spark/"
-    },
-    {
-        "title": "Use Amazon Athena with Spark SQL for your open-source transactional table formats",
-        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-athena-with-spark-sql-for-your-open-source-transactional-table-formats/"
     }
 ]

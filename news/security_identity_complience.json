@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS Payment Cryptography is PCI PIN and P2PE certified",
+        "link": "https://aws.amazon.com/blogs/security/aws-payment-cryptography-is-pci-pin-and-p2pe-certified/"
+    },
+    {
+        "title": "2023 H2 IRAP report is now available on AWS Artifact for Australian customers",
+        "link": "https://aws.amazon.com/blogs/security/2023-h2-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
+    },
+    {
+        "title": "AWS recognized as an Overall Leader in 2024 KuppingerCole Leadership Compass for Policy Based Access Management",
+        "link": "https://aws.amazon.com/blogs/security/aws-recognized-as-overall-leader-in-2023kuppingercole-leadership-compass/"
+    },
+    {
         "title": "Enable multi-admin support to manage security policies at scale with AWS Firewall Manager",
         "link": "https://aws.amazon.com/blogs/security/enable-multi-admin-support-to-manage-security-policies-at-scale-with-aws-firewall-manager/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How to migrate your on-premises domain to AWS Managed Microsoft AD using ADMT",
         "link": "https://aws.amazon.com/blogs/security/how-to-migrate-your-on-premises-domain-to-aws-managed-microsoft-ad-using-admt/"
-    },
-    {
-        "title": "AWS completes CCAG 2023 community audit for financial services customers in Europe",
-        "link": "https://aws.amazon.com/blogs/security/aws-completes-ccag-2023-community-audit-for-financial-services-customers-in-europe/"
-    },
-    {
-        "title": "Data masking and granular access control using Amazon Macie and AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/security/data-masking-and-granular-access-control-using-amazon-macie-and-aws-lake-formation/"
-    },
-    {
-        "title": "Export a Software Bill of Materials using Amazon Inspector",
-        "link": "https://aws.amazon.com/blogs/security/export-a-software-bill-of-materials-using-amazon-inspector/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Trigger an AWS Lambda function from Amazon RDS for MySQL or Amazon RDS for MariaDB using audit logs and Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/database/trigger-an-aws-lambda-function-from-amazon-rds-for-mysql-or-amazon-rds-for-mariadb-using-audit-logs-and-amazon-cloudwatch/"
+    },
+    {
         "title": "How Ita\u00fa Bank simplified cryptocurrency custody with Amazon Managed Blockchain Access and Query",
         "link": "https://aws.amazon.com/blogs/database/how-itau-bank-simplified-cryptocurrency-custody-with-amazon-managed-blockchain-access-and-query/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing multi-source replication on Amazon RDS for MySQL",
         "link": "https://aws.amazon.com/blogs/database/introducing-multi-source-replication-on-amazon-rds-for-mysql/"
-    },
-    {
-        "title": "Use AWS CloudFormation for Amazon RDS for SQL Server deployments",
-        "link": "https://aws.amazon.com/blogs/database/use-aws-cloudformation-for-amazon-rds-for-sql-server-deployments/"
     }
 ]
