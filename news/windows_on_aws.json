@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automatically create self-managed licenses in multiple accounts using tags",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automatically-create-self-managed-licenses-in-multiple-accounts-using-tags/"
+    },
+    {
         "title": "How to generate TLS certificates for a highly available Remote Desktop Gateway Farm",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-generate-tls-certificates-for-a-highly-available-remote-desktop-gateway-farm/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Designing private network connectivity between AWS and Microsoft Azure",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/designing-private-network-connectivity-aws-azure/"
-    },
-    {
-        "title": "Driving cost optimization and modernization of Microsoft workloads on AWS with SoftServe\u2019s application modernization platform",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/driving-cost-optimization-and-modernization-of-microsoft-workloads-with-softserve/"
     }
 ]

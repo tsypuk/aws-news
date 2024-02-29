@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize AWS KMS decryption costs for Database Activity Streams",
+        "link": "https://aws.amazon.com/blogs/database/optimize-aws-kms-decryption-costs-for-database-activity-streams/"
+    },
+    {
+        "title": "Perform cross-account major version upgrades from Amazon RDS for MySQL 5.7 to Amazon Aurora 3.04.x with minimum downtime",
+        "link": "https://aws.amazon.com/blogs/database/perform-cross-account-major-version-upgrades-from-amazon-rds-for-mysql-5-7-to-amazon-aurora-3-04-x-with-minimum-downtime/"
+    },
+    {
         "title": "Trigger an AWS Lambda function from Amazon RDS for MySQL or Amazon RDS for MariaDB using audit logs and Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/database/trigger-an-aws-lambda-function-from-amazon-rds-for-mysql-or-amazon-rds-for-mariadb-using-audit-logs-and-amazon-cloudwatch/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Cost optimize database migrations with AWS DMS: Part 2",
         "link": "https://aws.amazon.com/blogs/database/cost-optimize-database-migrations-with-aws-dms-part-2/"
-    },
-    {
-        "title": "Cost optimize database migrations with AWS DMS: Part 1",
-        "link": "https://aws.amazon.com/blogs/database/cost-optimize-database-migrations-with-aws-dms-part-1/"
-    },
-    {
-        "title": "Introducing multi-source replication on Amazon RDS for MySQL",
-        "link": "https://aws.amazon.com/blogs/database/introducing-multi-source-replication-on-amazon-rds-for-mysql/"
     }
 ]

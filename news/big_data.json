@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing Terraform support for Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-terraform-support-for-amazon-opensearch-ingestion/"
+    },
+    {
+        "title": "Introducing Amazon MWAA support for Apache Airflow version 2.8.1",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-8-1/"
+    },
+    {
         "title": "Use Amazon OpenSearch Ingestion to migrate to Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/use-amazon-opensearch-ingestion-to-migrate-to-amazon-opensearch-serverless/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Track Amazon OpenSearch Service configuration changes more easily with new visibility improvements",
         "link": "https://aws.amazon.com/blogs/big-data/track-amazon-opensearch-service-configuration-with-improved-visibility/"
-    },
-    {
-        "title": "Combine transactional, streaming, and third-party data on Amazon Redshift for financial services",
-        "link": "https://aws.amazon.com/blogs/big-data/combine-transactional-streaming-and-third-party-data-on-amazon-redshift-for-financial-services/"
-    },
-    {
-        "title": "Preprocess and fine-tune LLMs quickly and cost-effectively using Amazon EMR Serverless and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/preprocess-and-fine-tune-llms-quickly-and-cost-effectively-using-amazon-emr-serverless-and-amazon-sagemaker/"
     }
 ]
