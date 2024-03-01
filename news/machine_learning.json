@@ -1,5 +1,25 @@
 [
     {
+        "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
+        "title": "Unlock personalized experiences powered by AI using Amazon Personalize and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/"
+    },
+    {
+        "title": "Automate Amazon SageMaker Pipelines DAG creation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/"
+    },
+    {
+        "title": "Accelerating large-scale neural network training on CPUs with ThirdAI and AWS Graviton",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/"
+    },
+    {
+        "title": "Supercharge your AI team with Amazon SageMaker Studio: A comprehensive view of Deutsche Bahn\u2019s AI platform transformation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/"
+    },
+    {
         "title": "Build a robust text-to-SQL solution generating complex queries, self-correcting, and querying diverse data sources",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-robust-text-to-sql-solution-generating-complex-queries-self-correcting-and-querying-diverse-data-sources/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Booking.com modernized its ML experimentation framework with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Build an internal SaaS service with cost and usage tracking for foundation models on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-internal-saas-service-with-cost-and-usage-tracking-for-foundation-models-on-amazon-bedrock/"
-    },
-    {
-        "title": "Automate the insurance claim lifecycle using Agents and Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Automate mortgage document fraud detection using an ML model and business-defined rules with Amazon Fraud Detector: Part 3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-mortgage-document-fraud-detection-using-an-ml-model-and-business-defined-rules-with-amazon-fraud-detector-part-3/"
-    },
-    {
-        "title": "Accenture creates a regulatory document authoring solution using AWS generative AI services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accenture-creates-a-regulatory-document-authoring-solution-using-aws-generative-ai-services/"
-    },
-    {
-        "title": "Integrate QnABot on AWS with ServiceNow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-qnabot-on-aws-with-servicenow/"
     }
 ]
