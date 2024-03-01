@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor your AWS resources on your mobile device with AWS Console Mobile Application",
+        "link": "https://aws.amazon.com/blogs/mt/monitor-your-aws-resources-on-your-mobile-device-with-aws-console-mobile-application/"
+    },
+    {
         "title": "Delivering Business Value with Cloud Platform Teams",
         "link": "https://aws.amazon.com/blogs/mt/delivering-business-value-with-cloud-platform-teams/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Demystifying mainframe technical debt and unlocking value of core application modernization",
         "link": "https://aws.amazon.com/blogs/mt/demystifying-mainframe-technical-debt-and-value-of-core-modernization/"
-    },
-    {
-        "title": "Tag your AWS Resources consistently with AWS Resource Explorer and AWS CloudTrail",
-        "link": "https://aws.amazon.com/blogs/mt/tag-your-aws-resources-consistently-with-aws-resource-explorer-and-aws-cloudtrail/"
     }
 ]

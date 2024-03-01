@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unified access to AWS End User Computing services",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/unified-access-to-aws-end-user-computing-services/"
+    },
+    {
         "title": "Citrix announces public tech preview of Citrix DaaS on Amazon WorkSpaces Core",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-public-tech-preview-of-citrix-daas-on-amazon-workspaces-core/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting the most out of VMware Horizon 8 with Amazon WorkSpaces Core",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-the-most-out-of-vmware-horizon-8-with-amazon-workspaces-core/"
-    },
-    {
-        "title": "Streamlining migration of virtual desktop infrastructure to AWS End User Computing",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/streamlining-migration-of-virtual-desktop-infrastructure-to-aws-end-user-computing/"
     }
 ]

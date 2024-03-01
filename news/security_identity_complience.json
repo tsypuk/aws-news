@@ -1,5 +1,9 @@
 [
     {
+        "title": "New AWS whitepaper: AWS User Guide for Federally Regulated Financial Institutions in Canada",
+        "link": "https://aws.amazon.com/blogs/security/new-aws-whitepaper-aws-user-guide-for-federally-regulated-financial-institutions-in-canada/"
+    },
+    {
         "title": "Enhance container software supply chain visibility through SBOM export with Amazon Inspector and QuickSight",
         "link": "https://aws.amazon.com/blogs/security/enhance-container-software-supply-chain-visibility-through-sbom-export-with-amazon-inspector-and-quicksight/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS renews K-ISMS certificate for the AWS Asia Pacific (Seoul) Region",
         "link": "https://aws.amazon.com/blogs/security/aws-renews-k-isms-certificate-for-the-asia-pacific/"
-    },
-    {
-        "title": "How to migrate asymmetric keys from CloudHSM to AWS KMS",
-        "link": "https://aws.amazon.com/blogs/security/how-to-migrate-asymmetric-keys-from-cloudhsm-to-aws-kms/"
     }
 ]
