@@ -1,5 +1,13 @@
 [
     {
+        "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
+        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/"
+    },
+    {
+        "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
+        "link": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/"
+    },
+    {
         "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Amazon SageMaker Feature Store now supports cross-account sharing, discovery, and access",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-now-supports-cross-account-sharing-discovery-and-access/"
-    },
-    {
-        "title": "How Booking.com modernized its ML experimentation framework with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/"
     }
 ]
