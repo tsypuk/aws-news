@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce project delays with a docs-as-code solution",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-project-delays-with-docs-as-code-solution/"
+    },
+    {
         "title": "Simplify integration of your Amazon EKS cluster with Amazon EKS Blueprints for CDK",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/simplify-integration-of-your-amazon-eks-cluster-with-amazon-eks-blueprints-for-cdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Prepare for faster disaster recovery: Deploy an Amazon Aurora global database with Terraform (Part 1)",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/disaster-recovery-deploy-amazon-aurora-global-database-with-terraform/"
-    },
-    {
-        "title": "Emulate your test environment using a service virtualization on AWS",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/emulate-test-environment-using-service-virtualization/"
     }
 ]

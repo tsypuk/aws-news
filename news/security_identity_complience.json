@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the AWS WAF traffic overview dashboard",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-waf-traffic-overview-dashboard/"
+    },
+    {
         "title": "New AWS whitepaper: AWS User Guide for Federally Regulated Financial Institutions in Canada",
         "link": "https://aws.amazon.com/blogs/security/new-aws-whitepaper-aws-user-guide-for-federally-regulated-financial-institutions-in-canada/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS completes the 2023 South Korea CSP Safety Assessment Program",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2023-south-korea-csp-safety-assessment-program/"
-    },
-    {
-        "title": "AWS renews K-ISMS certificate for the AWS Asia Pacific (Seoul) Region",
-        "link": "https://aws.amazon.com/blogs/security/aws-renews-k-isms-certificate-for-the-asia-pacific/"
     }
 ]
