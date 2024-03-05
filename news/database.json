@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize TempDB performance in Amazon RDS Custom for SQL Server using local instance storage",
+        "link": "https://aws.amazon.com/blogs/database/optimize-tempdb-performance-in-amazon-rds-custom-for-sql-server-using-local-instance-storage/"
+    },
+    {
+        "title": "How the Amazon Timehub team built a data replication framework using AWS DMS: Part 1",
+        "link": "https://aws.amazon.com/blogs/database/how-the-amazon-timehub-team-built-a-data-replication-framework-using-aws-dms-part-1/"
+    },
+    {
         "title": "Implement advanced replication features with Amazon RDS for MySQL and Amazon Aurora MySQL using intermediate replication servers",
         "link": "https://aws.amazon.com/blogs/database/implement-advanced-replication-features-with-amazon-rds-for-mysql-and-amazon-aurora-mysql-using-intermediate-replication-servers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Make EOA private keys compatible with AWS KMS",
         "link": "https://aws.amazon.com/blogs/database/make-eoa-private-keys-compatible-with-aws-kms/"
-    },
-    {
-        "title": "Improve the performance of generative AI workloads on Amazon Aurora with Optimized Reads and pgvector",
-        "link": "https://aws.amazon.com/blogs/database/accelerate-generative-ai-workloads-on-amazon-aurora-with-optimized-reads-and-pgvector/"
-    },
-    {
-        "title": "Migrate Oracle collections to Amazon Aurora PostgreSQL-Compatible Edition or Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrate-oracle-collections-to-amazon-aurora-postgresql-compatible-edition-or-amazon-rds-for-postgresql/"
     }
 ]

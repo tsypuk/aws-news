@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS CloudHSM architectural considerations for crypto user credential rotation",
+        "link": "https://aws.amazon.com/blogs/security/aws-cloudhsm-architectural-considerations-for-crypto-user-credential-rotation/"
+    },
+    {
         "title": "Introducing the AWS WAF traffic overview dashboard",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-waf-traffic-overview-dashboard/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How AWS can help you navigate the complexity of digital sovereignty",
         "link": "https://aws.amazon.com/blogs/security/how-aws-can-help-you-navigate-the-complexity-of-digital-sovereignty/"
-    },
-    {
-        "title": "AWS completes the 2023 South Korea CSP Safety Assessment Program",
-        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2023-south-korea-csp-safety-assessment-program/"
     }
 ]
