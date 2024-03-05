@@ -1,5 +1,9 @@
 [
     {
+        "title": "Comparing design approaches for building serverless microservices",
+        "link": "https://aws.amazon.com/blogs/compute/comparing-design-approaches-for-building-serverless-microservices/"
+    },
+    {
         "title": "Introducing the .NET 8 runtime for AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/introducing-the-net-8-runtime-for-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the AWS Integrated Application Test Kit (IATK)",
         "link": "https://aws.amazon.com/blogs/compute/aws-integrated-application-test-kit/"
-    },
-    {
-        "title": "Triggering AWS Lambda function from a cross-account Amazon Managed Streaming for Apache Kafka",
-        "link": "https://aws.amazon.com/blogs/compute/triggering-aws-lambda-function-from-a-cross-account-amazon-managed-streaming-for-apache-kafka/"
     }
 ]

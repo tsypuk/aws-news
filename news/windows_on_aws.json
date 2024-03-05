@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automated user creation and provisioning in Active Directory and Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-user-creation-and-provisioning-in-active-directory-and-amazon-workspaces/"
+    },
+    {
+        "title": "Optimizing large-scale migration of SQL Server databases to Amazon EC2 using backup metadata",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimizing-large-scale-migration-of-sql-server-databases-to-amazon-ec2-using-backup-metadata/"
+    },
+    {
         "title": "Automatically create self-managed licenses in multiple accounts using tags",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automatically-create-self-managed-licenses-in-multiple-accounts-using-tags/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Accelerate Amazon EC2 Auto Scaling for Microsoft Windows workloads",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-amazon-ec2-auto-scaling-for-microsoft-windows-workloads/"
-    },
-    {
-        "title": "How to deploy a SQL Server failover cluster with Amazon EBS Multi-Attach on Windows Server",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-a-sql-server-failover-cluster-with-amazon-ebs-multi-attach-on-windows-server/"
-    },
-    {
-        "title": "Designing private network connectivity between AWS and Microsoft Azure",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/designing-private-network-connectivity-aws-azure/"
     }
 ]

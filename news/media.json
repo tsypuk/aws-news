@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating Amazon EC2 Instances Monitoring with Prometheus EC2 Service Discovery and AWS Distro for OpenTelemetry",
+        "link": "https://aws.amazon.com/blogs/mt/automating-amazon-ec2-instance-monitoring-with-prometheus-ec2-service-discovery-and-aws-distro-for-opentelemetry/"
+    },
+    {
         "title": "Monitor your AWS resources on your mobile device with AWS Console Mobile Application",
         "link": "https://aws.amazon.com/blogs/mt/monitor-your-aws-resources-on-your-mobile-device-with-aws-console-mobile-application/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leveraging custom AWS Config rules to optimize cost saving on AWS",
         "link": "https://aws.amazon.com/blogs/mt/leveraging-custom-aws-config-rules-to-optimize-cost-saving-on-aws/"
-    },
-    {
-        "title": "Demystifying mainframe technical debt and unlocking value of core application modernization",
-        "link": "https://aws.amazon.com/blogs/mt/demystifying-mainframe-technical-debt-and-value-of-core-modernization/"
     }
 ]

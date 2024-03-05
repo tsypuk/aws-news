@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use AWS Glue ETL to perform merge, partition evolution, and schema evolution on Apache Iceberg",
+        "link": "https://aws.amazon.com/blogs/big-data/use-aws-glue-etl-to-perform-merge-partition-evolution-and-schema-evolution-on-apache-iceberg/"
+    },
+    {
         "title": "How BMO improved data security with Amazon Redshift and AWS Lake Formation",
         "link": "https://aws.amazon.com/blogs/big-data/how-bmo-improved-data-security-with-amazon-redshift-and-aws-lake-formation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate AWS Clean Rooms querying and dashboard publishing using AWS Step Functions and Amazon QuickSight \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/automate-aws-clean-rooms-querying-and-dashboard-publishing-using-aws-step-functions-and-amazon-quicksight-part-2/"
-    },
-    {
-        "title": "Use multiple bookmark keys in AWS Glue JDBC jobs",
-        "link": "https://aws.amazon.com/blogs/big-data/use-multiple-bookmark-keys-in-aws-glue-jdbc-jobs/"
     }
 ]

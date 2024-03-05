@@ -1,5 +1,13 @@
 [
     {
+        "title": "Alida gains deeper understanding of customer feedback with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/alida-gains-deeper-understanding-of-customer-feedback-with-amazon-bedrock/"
+    },
+    {
+        "title": "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
+    },
+    {
         "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
         "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Skeleton-based pose annotation labeling using Amazon SageMaker Ground Truth",
         "link": "https://aws.amazon.com/blogs/machine-learning/skeleton-based-pose-annotation-labeling-using-amazon-sagemaker-ground-truth/"
-    },
-    {
-        "title": "Build generative AI chatbots using prompt engineering with Amazon Redshift and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-chatbots-using-prompt-engineering-with-amazon-redshift-and-amazon-bedrock/"
-    },
-    {
-        "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/"
     }
 ]

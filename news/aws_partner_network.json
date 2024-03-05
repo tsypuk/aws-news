@@ -1,5 +1,13 @@
 [
     {
+        "title": "The Composable CDP: Activating Data from Amazon Redshift to 200+ Tools Using Hightouch",
+        "link": "https://aws.amazon.com/blogs/apn/the-composable-cdp-activating-data-from-amazon-redshift-to-tools-using-hightouch/"
+    },
+    {
+        "title": "Data Tokenization with Amazon Redshift Dynamic Data Masking and Protegrity",
+        "link": "https://aws.amazon.com/blogs/apn/data-tokenization-with-amazon-redshift-dynamic-data-masking-and-protegrity/"
+    },
+    {
         "title": "Simplifying Mobile Device Management for Apple Devices with Jamf Pro",
         "link": "https://aws.amazon.com/blogs/apn/simplifying-mobile-device-management-for-apple-devices-with-jamf-pro/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How AWS Partners Can Achieve Sustainability Goals with a Cloud Center of Excellence",
         "link": "https://aws.amazon.com/blogs/apn/how-aws-partners-can-achieve-sustainability-goals-with-a-cloud-center-of-excellence/"
-    },
-    {
-        "title": "Hootsuite on AWS Accelerates Social Media Management for Businesses and Brands",
-        "link": "https://aws.amazon.com/blogs/apn/hootsuite-on-aws-accelerates-social-media-management-for-businesses-and-brands/"
-    },
-    {
-        "title": "Achieve Complete Data Observability on AWS with TCS Approach to Observability Challenges",
-        "link": "https://aws.amazon.com/blogs/apn/achieve-complete-data-observability-on-aws-with-tcs-approach-to-observability-challenges/"
     }
 ]
