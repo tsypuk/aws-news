@@ -1,5 +1,9 @@
 [
     {
+        "title": "Windows authentication with gMSA on Linux containers on Amazon ECS with AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/containers/windows-authentication-with-gmsa-on-linux-containers-on-amazon-ecs-with-aws-fargate/"
+    },
+    {
         "title": "Distributed machine learning with Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/distributed-machine-learning-with-amazon-ecs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Build preview environments for Amazon ECS applications with AWS Copilot",
         "link": "https://aws.amazon.com/blogs/containers/build-preview-environments-for-amazon-ecs-applications-with-aws-copilot/"
-    },
-    {
-        "title": "Secure Amazon Elastic Container Service workloads with Amazon ECS Service Connect",
-        "link": "https://aws.amazon.com/blogs/containers/secure-amazon-elastic-container-service-workloads-with-amazon-ecs-service-connect/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Free data transfer out to internet when moving out of AWS",
+        "link": "https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/"
+    },
+    {
         "title": "AWS Weekly Roundup \u2014 New models for Amazon Bedrock, CloudFront embedded POPs, and more \u2014 March 4, 2024",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-models-for-amazon-bedrock-cloudfront-embedded-pops-and-more-march-4-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Your MySQL 5.7 and PostgreSQL 11 databases will be automatically enrolled into Amazon RDS Extended Support",
         "link": "https://aws.amazon.com/blogs/aws/your-mysql-5-7-and-postgresql-11-databases-will-be-automatically-enrolled-into-amazon-rds-extended-support/"
-    },
-    {
-        "title": "DNS over HTTPS is now available in Amazon Route 53 Resolver",
-        "link": "https://aws.amazon.com/blogs/aws/dns-over-https-is-now-available-in-amazon-route-53-resolver/"
     }
 ]
