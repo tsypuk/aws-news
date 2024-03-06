@@ -1,5 +1,9 @@
 [
     {
+        "title": "Promoting customer choice: AWS takes another step to lower costs for customers changing IT providers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/promoting-customer-choice-aws-takes-another-step-to-lower-costs-for-customers-changing-it-providers/"
+    },
+    {
         "title": "Using AWS Transit Gateway Flow Logs to chargeback data processing costs in a multi-account environment",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-transit-gateway-flow-logs-to-chargeback-data-processing-costs-in-a-multi-account-environment/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon Q support for network troubleshooting (preview)",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-q-support-for-network-troubleshooting/"
-    },
-    {
-        "title": "Automating large scale deployments with tags for Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-large-scale-deployments-with-tags-for-amazon-vpc-lattice/"
     }
 ]
