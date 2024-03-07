@@ -1,5 +1,9 @@
 [
     {
+        "title": "Effectively track AWS data transfer costs for cross-region Amazon EBS Snapshot Copy",
+        "link": "https://aws.amazon.com/blogs/storage/effectively-track-aws-data-transfer-costs-for-cross-region-amazon-ebs-snapshot-copy/"
+    },
+    {
         "title": "Managing storage on Windows servers with Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/managing-storage-on-windows-servers-with-amazon-fsx-for-netapp-ontap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automatic network replication with AWS Elastic Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/storage/automatic-network-replication-with-aws-elastic-disaster-recovery/"
-    },
-    {
-        "title": "Implement multi-factor authentication based managed file transfer using AWS Transfer Family and AWS Secrets Manager",
-        "link": "https://aws.amazon.com/blogs/storage/implement-multi-factor-authentication-based-managed-file-transfer-using-aws-transfer-family-and-aws-secrets-manager/"
     }
 ]

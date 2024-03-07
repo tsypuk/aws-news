@@ -1,9 +1,5 @@
 [
     {
-        "title": "Using large-language models for ESG sentiment analysis using Databricks on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/using-large-language-models-for-esg-sentiment-analysis-using-databricks-on-aws/"
-    },
-    {
         "title": "Improve the speed and cost of HPC deployment with Mountpoint for Amazon S3",
         "link": "https://aws.amazon.com/blogs/hpc/improve-the-speed-and-cost-of-hpc-deployment-with-mountpoint-for-amazon-s3/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Deploying Level 4 Digital Twin Self-Calibrating Virtual Sensors on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/deploying-level-4-digital-twin-self-calibrating-virtual-sensors-on-aws/"
+    },
+    {
+        "title": "EFA: how fixing one thing, led to an improvement for \u2026 everyone",
+        "link": "https://aws.amazon.com/blogs/hpc/efa-how-fixing-one-thing-lead-to-an-improvement-for-everyone/"
     }
 ]

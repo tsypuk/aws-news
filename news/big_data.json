@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a pseudonymization service on AWS to protect sensitive data: Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-pseudonymization-service-on-aws-to-protect-sensitive-data-part-2/"
+    },
+    {
         "title": "Bring your workforce identity to Amazon EMR Studio and Athena",
         "link": "https://aws.amazon.com/blogs/big-data/bring-your-workforce-identity-to-amazon-emr-studio-and-athena/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure connectivity patterns for Amazon MSK Serverless cross-account access",
         "link": "https://aws.amazon.com/blogs/big-data/secure-connectivity-patterns-for-amazon-msk-serverless-cross-account-access/"
-    },
-    {
-        "title": "How Gupshup built their multi-tenant messaging analytics platform on Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/how-gupshup-built-their-multi-tenant-messaging-analytics-platform-on-amazon-redshift/"
     }
 ]

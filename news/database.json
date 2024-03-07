@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Blocksee built a Web3 CRM with blockchain data from Amazon Managed Blockchain Query",
+        "link": "https://aws.amazon.com/blogs/database/how-blocksee-built-a-web3-crm-with-blockchain-data-from-amazon-managed-blockchain-query/"
+    },
+    {
         "title": "Unlock the power of Amazon DocumentDB text search with real-world use cases",
         "link": "https://aws.amazon.com/blogs/database/unlock-the-power-of-amazon-documentdb-text-search-with-real-world-use-cases/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Connect external applications to an Amazon RDS instance using Amazon RDS Proxy",
         "link": "https://aws.amazon.com/blogs/database/connect-external-applications-to-an-amazon-rds-instance-using-amazon-rds-proxy/"
-    },
-    {
-        "title": "Query transaction finality information from public blockchains using Amazon Managed Blockchain Query",
-        "link": "https://aws.amazon.com/blogs/database/query-transaction-finality-information-from-public-blockchains-using-amazon-managed-blockchain-query/"
     }
 ]
