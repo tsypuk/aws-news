@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a Serverless Streaming Pipeline to Deliver Reliable Messaging",
+        "link": "https://aws.amazon.com/blogs/compute/building-a-serverless-streaming-pipeline-to-deliver-reliable-messaging/"
+    },
+    {
         "title": "Comparing design approaches for building serverless microservices",
         "link": "https://aws.amazon.com/blogs/compute/comparing-design-approaches-for-building-serverless-microservices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "It\u2019s About Time: Microsecond-Accurate Clocks on Amazon EC2 Instances",
         "link": "https://aws.amazon.com/blogs/compute/its-about-time-microsecond-accurate-clocks-on-amazon-ec2-instances/"
-    },
-    {
-        "title": "Introducing the AWS Integrated Application Test Kit (IATK)",
-        "link": "https://aws.amazon.com/blogs/compute/aws-integrated-application-test-kit/"
     }
 ]

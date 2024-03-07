@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling state-of-the-art quantum algorithms with Qedma\u2019s error mitigation and IonQ, using Braket Direct",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/enabling-state-of-the-art-quantum-algorithms-with-qedmas-error-mitigation-and-ionq-using-braket-direct/"
+    },
+    {
         "title": "Explainable AI using expressive Boolean formulas",
         "link": "https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing a new temperature-resistant packaging technique for optical devices",
         "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-a-new-temperature-resistant-packaging-technique-for-optical-devices/"
-    },
-    {
-        "title": "Speeding up hybrid quantum algorithms with parametric circuits on Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/speeding-up-hybrid-quantum-algorithms-with-parametric-circuits-on-amazon-braket/"
     }
 ]

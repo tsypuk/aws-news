@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon RDS now supports io2 Block Express volumes for mission-critical database workloads",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-rds-now-supports-io2-block-express-volumes-for-mission-critical-database-workloads/"
+    },
+    {
+        "title": "Introducing the newest Heroes of the year \u2013 March 2024",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-the-newest-heroes-of-the-year-march-2024/"
+    },
+    {
         "title": "Free data transfer out to internet when moving out of AWS",
         "link": "https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon ECS supports a native integration with Amazon EBS volumes for data-intensive workloads",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-supports-a-native-integration-with-amazon-ebs-volumes-for-data-intensive-workloads/"
-    },
-    {
-        "title": "Happy New Year! AWS Weekly Roundup \u2013 January 8, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-january-8-2024/"
-    },
-    {
-        "title": "Your MySQL 5.7 and PostgreSQL 11 databases will be automatically enrolled into Amazon RDS Extended Support",
-        "link": "https://aws.amazon.com/blogs/aws/your-mysql-5-7-and-postgresql-11-databases-will-be-automatically-enrolled-into-amazon-rds-extended-support/"
     }
 ]
