@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/"
+    },
+    {
         "title": "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Detect anomalies in manufacturing data using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-in-manufacturing-data-using-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Enhance Amazon Connect and Lex with generative AI capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
     }
 ]

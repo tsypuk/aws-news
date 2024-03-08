@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using CRaC to reduce Java startup times on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/using-crac-to-reduce-java-startup-times-on-amazon-eks/"
+    },
+    {
         "title": "Windows authentication with gMSA on Linux containers on Amazon ECS with AWS Fargate",
         "link": "https://aws.amazon.com/blogs/containers/windows-authentication-with-gmsa-on-linux-containers-on-amazon-ecs-with-aws-fargate/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Deep dive into Amazon EKS scalability testing",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-scalability-testing/"
-    },
-    {
-        "title": "Build preview environments for Amazon ECS applications with AWS Copilot",
-        "link": "https://aws.amazon.com/blogs/containers/build-preview-environments-for-amazon-ecs-applications-with-aws-copilot/"
     }
 ]
