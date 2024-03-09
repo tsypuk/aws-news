@@ -1,5 +1,9 @@
 [
     {
+        "title": "In-stream anomaly detection with Amazon OpenSearch Ingestion and Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/in-stream-anomaly-detection-with-amazon-opensearch-ingestion-and-amazon-opensearch-serverless/"
+    },
+    {
         "title": "Petabyte-scale log analytics with Amazon S3, Amazon OpenSearch Service, and Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/petabyte-scale-log-analytics-with-amazon-s3-amazon-opensearch-service-and-amazon-opensearch-ingestion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify access management with Amazon Redshift and AWS Lake Formation for users in an External Identity Provider",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-access-management-with-amazon-redshift-and-aws-lake-formation-for-users-in-an-external-identity-provider/"
-    },
-    {
-        "title": "Enhance monitoring and debugging for AWS Glue jobs using new job observability metrics, Part 2: Real-time monitoring using Grafana",
-        "link": "https://aws.amazon.com/blogs/big-data/part-2-enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics/"
     }
 ]
