@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use headless clusters in Amazon DocumentDB for cost-effective multi-Region resiliency",
+        "link": "https://aws.amazon.com/blogs/database/use-headless-clusters-in-amazon-documentdb-for-cost-effective-multi-region-resiliency/"
+    },
+    {
         "title": "How Blocksee built a Web3 CRM with blockchain data from Amazon Managed Blockchain Query",
         "link": "https://aws.amazon.com/blogs/database/how-blocksee-built-a-web3-crm-with-blockchain-data-from-amazon-managed-blockchain-query/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Perform near real time analytics using Amazon Redshift on data stored in Amazon DocumentDB",
         "link": "https://aws.amazon.com/blogs/database/perform-near-real-time-analytics-using-amazon-redshift-on-data-stored-in-amazon-documentdb/"
-    },
-    {
-        "title": "Connect external applications to an Amazon RDS instance using Amazon RDS Proxy",
-        "link": "https://aws.amazon.com/blogs/database/connect-external-applications-to-an-amazon-rds-instance-using-amazon-rds-proxy/"
     }
 ]

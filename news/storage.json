@@ -1,5 +1,13 @@
 [
     {
+        "title": "Capture and transfer petabytes from disconnected environments with AWS Snowball",
+        "link": "https://aws.amazon.com/blogs/storage/capture-and-transfer-petabytes-from-disconnected-environments-with-aws-snowball/"
+    },
+    {
+        "title": "Enhance savings for read-heavy workloads with Amazon S3 Bucket Keys",
+        "link": "https://aws.amazon.com/blogs/storage/enhance-savings-for-read-heavy-workloads-with-amazon-s3-bucket-keys/"
+    },
+    {
         "title": "Effectively track AWS data transfer costs for cross-region Amazon EBS Snapshot Copy",
         "link": "https://aws.amazon.com/blogs/storage/effectively-track-aws-data-transfer-costs-for-cross-region-amazon-ebs-snapshot-copy/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Managing duplicate objects in Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/managing-duplicate-objects-in-amazon-s3/"
-    },
-    {
-        "title": "Automate the delivery of AWS Backup Audit Manager reports via email",
-        "link": "https://aws.amazon.com/blogs/storage/automate-the-delivery-of-aws-backup-audit-manager-report-via-email/"
-    },
-    {
-        "title": "Automatic network replication with AWS Elastic Disaster Recovery",
-        "link": "https://aws.amazon.com/blogs/storage/automatic-network-replication-with-aws-elastic-disaster-recovery/"
     }
 ]

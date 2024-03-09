@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Shift Left Security in Infrastructure as Code Using AWS CDK and Checkmarx KICS",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-shift-left-security-in-infrastructure-as-code-using-aws-cdk-and-checkmarx-kics/"
+    },
+    {
+        "title": "How Road Services Seamlessly Integrate with Transportation Management via Bosch L.OS on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/how-road-services-seamlessly-integrate-with-transportation-management-via-bosch-l-os-on-aws/"
+    },
+    {
         "title": "AWS Well-Architected Framework Reviews Powered by Tevico: Transforming Challenges into Engaging Adventures",
         "link": "https://aws.amazon.com/blogs/apn/aws-well-architected-framework-reviews-powered-by-tevico-transforming-challenges-into-engaging-adventures/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Intelligent ESG Carbon Management with eCloudvalley\u2019s Adonis Platform on AWS",
         "link": "https://aws.amazon.com/blogs/apn/intelligent-esg-carbon-management-platform-with-ecloudvalley-adonis-on-aws/"
-    },
-    {
-        "title": "How to Use Amazon SageMaker Pipelines MLOps with Gretel Synthetic Data",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-use-amazon-sagemaker-pipelines-mlops-with-gretel-synthetic-data/"
-    },
-    {
-        "title": "Managing an Enterprise Backup Strategy with AWS Backup and CloudQuery",
-        "link": "https://aws.amazon.com/blogs/apn/managing-an-enterprise-backup-strategy-with-aws-backup-and-cloudquery/"
     }
 ]
