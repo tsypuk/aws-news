@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling to 150 million metrics using Amazon Managed Service for Prometheus",
+        "link": "https://aws.amazon.com/blogs/mt/scaling-to-150-million-metrics-using-amazon-managed-service-for-prometheus/"
+    },
+    {
         "title": "Automating Amazon EC2 Instances Monitoring with Prometheus EC2 Service Discovery and AWS Distro for OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/mt/automating-amazon-ec2-instance-monitoring-with-prometheus-ec2-service-discovery-and-aws-distro-for-opentelemetry/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Choose Wisely and Quickly: A Rapid, Data-Driven Approach to Prioritize Applications for Modernization",
         "link": "https://aws.amazon.com/blogs/mt/choose-wisely-and-quickly-a-rapid-data-driven-approach-to-prioritize-applications-for-modernization/"
-    },
-    {
-        "title": "Leveraging custom AWS Config rules to optimize cost saving on AWS",
-        "link": "https://aws.amazon.com/blogs/mt/leveraging-custom-aws-config-rules-to-optimize-cost-saving-on-aws/"
     }
 ]
