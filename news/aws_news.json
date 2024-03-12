@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup \u2014 Claude 3 Sonnet support in Bedrock, new instances, and more \u2014 March 11, 2024",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-sonnet-support-in-bedrock-new-instances-and-more-march-11-2024/"
+    },
+    {
         "title": "Amazon RDS now supports io2 Block Express volumes for mission-critical database workloads",
         "link": "https://aws.amazon.com/blogs/aws/amazon-rds-now-supports-io2-block-express-volumes-for-mission-critical-database-workloads/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup\u2014Amazon Route53, Amazon EventBridge, Amazon SageMaker, and more \u2013 January 15, 2024",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-route53-amazon-eventbridge-amazon-sagemaker-and-more-january-15-2024/"
-    },
-    {
-        "title": "Amazon ECS supports a native integration with Amazon EBS volumes for data-intensive workloads",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-supports-a-native-integration-with-amazon-ebs-volumes-for-data-intensive-workloads/"
     }
 ]
