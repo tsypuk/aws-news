@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Wickr achieves FedRAMP High authorization",
+        "link": "https://aws.amazon.com/blogs/security/aws-wickr-achieves-fedramp-high-authorization/"
+    },
+    {
         "title": "How to access AWS resources from Microsoft Entra ID tenants using AWS Security Token Service",
         "link": "https://aws.amazon.com/blogs/security/how-to-access-aws-resources-from-microsoft-entra-id-tenants-using-aws-security-token-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identify Java nested dependencies with Amazon Inspector SBOM Generator",
         "link": "https://aws.amazon.com/blogs/security/identify-java-nested-dependencies-with-amazon-inspector-sbom-generator/"
-    },
-    {
-        "title": "How to enforce creation of roles in a specific path: Use IAM role naming in hierarchy models",
-        "link": "https://aws.amazon.com/blogs/security/how-to-enforce-creation-of-roles-in-a-specific-path-use-iam-role-naming-in-hierarchy-models/"
     }
 ]

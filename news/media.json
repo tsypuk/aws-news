@@ -1,5 +1,9 @@
 [
     {
+        "title": "Selecting your first workloads to migrate your organization to Amazon Web Services (AWS).",
+        "link": "https://aws.amazon.com/blogs/mt/selecting-your-first-workloads-to-migrate-your-organization-to-amazon-web-services-aws/"
+    },
+    {
         "title": "Scaling to 150 million metrics using Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/scaling-to-150-million-metrics-using-amazon-managed-service-for-prometheus/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Why a Cloud Operating Model?",
         "link": "https://aws.amazon.com/blogs/mt/why-a-cloud-operating-model/"
-    },
-    {
-        "title": "Choose Wisely and Quickly: A Rapid, Data-Driven Approach to Prioritize Applications for Modernization",
-        "link": "https://aws.amazon.com/blogs/mt/choose-wisely-and-quickly-a-rapid-data-driven-approach-to-prioritize-applications-for-modernization/"
     }
 ]
