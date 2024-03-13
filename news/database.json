@@ -1,5 +1,13 @@
 [
     {
+        "title": "Choose the right type of AWS KMS key to encrypt Amazon RDS and Aurora Global Database",
+        "link": "https://aws.amazon.com/blogs/database/choose-the-right-type-of-aws-kms-key-to-encrypt-amazon-rds-and-aurora-global-database/"
+    },
+    {
+        "title": "Configure an AWS DMS endpoint to access cross-account secrets from AWS Secrets Manager",
+        "link": "https://aws.amazon.com/blogs/database/configure-an-aws-dms-endpoint-to-access-cross-account-secrets-from-aws-secrets-manager/"
+    },
+    {
         "title": "Use headless clusters in Amazon DocumentDB for cost-effective multi-Region resiliency",
         "link": "https://aws.amazon.com/blogs/database/use-headless-clusters-in-amazon-documentdb-for-cost-effective-multi-region-resiliency/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Monitor Amazon Aurora Global Database replication at scale using Amazon CloudWatch Metrics Insights",
         "link": "https://aws.amazon.com/blogs/database/monitor-amazon-aurora-global-database-replication-at-scale-using-amazon-cloudwatch-metrics-insights/"
-    },
-    {
-        "title": "Use Amazon RDS Proxy and AWS PrivateLink to access Amazon RDS databases across AWS Organizations at American Family Insurance Group",
-        "link": "https://aws.amazon.com/blogs/database/use-amazon-rds-proxy-and-aws-privatelink-to-access-amazon-rds-databases-across-aws-organizations-at-american-family-insurance-group/"
-    },
-    {
-        "title": "Perform near real time analytics using Amazon Redshift on data stored in Amazon DocumentDB",
-        "link": "https://aws.amazon.com/blogs/database/perform-near-real-time-analytics-using-amazon-redshift-on-data-stored-in-amazon-documentdb/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Message delivery status tracking with Amazon Pinpoint",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/message-delivery-status-tracking-with-amazon-pinpoint/"
+    },
+    {
         "title": "Analyzing Amazon SES event data with AWS Analytics Services",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/analyzing-amazon-ses-event-data-with-aws-analytics-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Pinpoint 10DLC Campaign Types and Quotas for SMS",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/amazon-pinpoint-10dlc-campaign-types-and-quotas-for-sms/"
-    },
-    {
-        "title": "How to Send SMS Using Configuration Sets with Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-sms-using-configurations-sets-with-amazon-pinpoint/"
     }
 ]

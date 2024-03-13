@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run an audience overlap analysis in AWS Clean Rooms",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-an-audience-overlap-analysis-in-aws-clean-rooms/"
+    },
+    {
+        "title": "Large language model inference over confidential data using AWS Nitro Enclaves",
+        "link": "https://aws.amazon.com/blogs/machine-learning/large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves/"
+    },
+    {
         "title": "How VistaPrint delivers personalized product recommendations with Amazon Personalize",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use Amazon Titan models for image generation, editing, and searching",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/"
-    },
-    {
-        "title": "Build a contextual chatbot application using Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Code Llama 70B is now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/"
     }
 ]
