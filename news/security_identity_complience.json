@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS completes the annual Dubai Electronic Security Centre certification audit to operate as a Tier 1 cloud service provider in the Emirate of Dubai",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-dubai-electronic-security-centre-certification-audit-to-operate-as-a-tier-1-cloud-service-provider-in-the-emirate-of-dubai/"
+    },
+    {
+        "title": "AWS completes the annual UAE Information Assurance Regulation compliance assessment",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-uae-information-assurance-regulation-compliance-assessment/"
+    },
+    {
         "title": "AWS Wickr achieves FedRAMP High authorization",
         "link": "https://aws.amazon.com/blogs/security/aws-wickr-achieves-fedramp-high-authorization/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to automate rule management for AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/how-to-automate-rule-management-for-aws-network-firewall/"
-    },
-    {
-        "title": "SaaS access control using Amazon Verified Permissions with a per-tenant policy store",
-        "link": "https://aws.amazon.com/blogs/security/saas-access-control-using-amazon-verified-permissions-with-a-per-tenant-policy-store/"
-    },
-    {
-        "title": "Identify Java nested dependencies with Amazon Inspector SBOM Generator",
-        "link": "https://aws.amazon.com/blogs/security/identify-java-nested-dependencies-with-amazon-inspector-sbom-generator/"
     }
 ]

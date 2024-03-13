@@ -1,5 +1,9 @@
 [
     {
+        "title": "Infrastructure as Code development with Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/devops/infrastructure-as-code-development-with-amazon-codewhisperer/"
+    },
+    {
         "title": "How we sped up AWS CloudFormation deployments with optimistic stabilization",
         "link": "https://aws.amazon.com/blogs/devops/how-we-sped-up-aws-cloudformation-deployments-with-optimistic-stabilization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon CodeWhisperer for command line",
         "link": "https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-for-command-line/"
-    },
-    {
-        "title": "Using Amazon CodeCatalyst with Amazon Virtual Private Cloud",
-        "link": "https://aws.amazon.com/blogs/devops/using-amazon-codecatalyst-with-amazon-virtual-private-cloud/"
     }
 ]

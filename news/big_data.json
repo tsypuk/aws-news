@@ -1,5 +1,13 @@
 [
     {
+        "title": "Measure performance of AWS Glue Data Quality for ETL pipelines",
+        "link": "https://aws.amazon.com/blogs/big-data/measure-performance-of-aws-glue-data-quality-for-etl-pipelines/"
+    },
+    {
+        "title": "How the GoDaddy data platform achieved over 60% cost reduction and 50% performance boost by adopting Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/how-the-godaddy-data-platform-achieved-over-60-cost-reduction-and-50-performance-boost-by-adopting-amazon-emr-serverless/"
+    },
+    {
         "title": "Real-time cost savings for Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/real-time-cost-savings-for-amazon-managed-service-for-apache-flink/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify authentication with native LDAP integration on Amazon EMR",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-authentication-with-native-ldap-integration-on-amazon-emr/"
-    },
-    {
-        "title": "Reference guide to analyze transactional data in near-real time on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/reference-guide-to-analyze-transactional-data-in-near-real-time-on-aws/"
-    },
-    {
-        "title": "Improve your ETL performance using multiple Redshift warehouses for writes (Preview)",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-your-etl-performance-using-multiple-redshift-warehouses-for-writes/"
     }
 ]
