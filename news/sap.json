@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build Resilient Applications on SAP BTP with AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/build-resilient-applications-on-sap-btp-with-aws/"
+    },
+    {
         "title": "Data insights from SAP with Amazon SageMaker AutoML and QuickSight",
         "link": "https://aws.amazon.com/blogs/awsforsap/data-insights-from-sap-with-amazon-sagemaker-automl-and-quicksight/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate invoice processing with the AWS SDK for SAP ABAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-invoice-processing-with-the-aws-sdk-for-sap-abap/"
-    },
-    {
-        "title": "Getting started with the AWS SDK for SAP ABAP",
-        "link": "https://aws.amazon.com/blogs/awsforsap/getting-started-with-aws-sdk-for-sap-abap/"
     }
 ]

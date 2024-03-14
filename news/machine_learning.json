@@ -1,5 +1,17 @@
 [
     {
+        "title": "Gemma is now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Moderate audio and text chats using AWS AI services and LLMs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/moderate-audio-and-text-chats-using-aws-ai-services-and-llms/"
+    },
+    {
+        "title": "Set up cross-account Amazon S3 access for Amazon SageMaker notebooks in VPC-only mode using Amazon S3 Access Points",
+        "link": "https://aws.amazon.com/blogs/machine-learning/set-up-cross-account-amazon-s3-access-for-amazon-sagemaker-notebooks-in-vpc-only-mode-using-amazon-s3-access-points/"
+    },
+    {
         "title": "Run an audience overlap analysis in AWS Clean Rooms",
         "link": "https://aws.amazon.com/blogs/machine-learning/run-an-audience-overlap-analysis-in-aws-clean-rooms/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Techniques and approaches for monitoring large language models on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/techniques-and-approaches-for-monitoring-large-language-models-on-aws/"
-    },
-    {
-        "title": "Streamline diarization using AI as an assistive technology: ZOO Digital\u2019s story",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/"
-    },
-    {
-        "title": "Run ML inference on unplanned and spiky traffic using Amazon SageMaker multi-model endpoints",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/"
-    },
-    {
-        "title": "Use Amazon Titan models for image generation, editing, and searching",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/"
     }
 ]
