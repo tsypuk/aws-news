@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Azure DevOps to deploy AWS Glue jobs in CI/CD pipeline",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-azure-devops-to-deploy-aws-glue-jobs-in-ci-cd-pipeline/"
+    },
+    {
         "title": "Automated user creation and provisioning in Active Directory and Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-user-creation-and-provisioning-in-active-directory-and-amazon-workspaces/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerate .NET and SQL development with Amazon CodeWhisperer as your AI coding companion",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/net-and-sql-development-with-amazon-codewhisperer/"
-    },
-    {
-        "title": "Accelerate Amazon EC2 Auto Scaling for Microsoft Windows workloads",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-amazon-ec2-auto-scaling-for-microsoft-windows-workloads/"
     }
 ]
