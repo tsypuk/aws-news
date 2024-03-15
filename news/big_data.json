@@ -1,5 +1,9 @@
 [
     {
+        "title": "How VMware Tanzu CloudHealth migrated from self-managed Kafka to Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/how-vmware-tanzu-cloudhealth-migrated-from-self-managed-kafka-to-amazon-msk/"
+    },
+    {
         "title": "Gain insights from historical location data using Amazon Location Service and AWS analytics services",
         "link": "https://aws.amazon.com/blogs/big-data/gain-insights-from-historical-location-data-using-amazon-location-service-and-aws-analytics-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify data streaming ingestion for analytics using Amazon MSK and Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-data-streaming-ingestion-for-analytics-using-amazon-msk-and-amazon-redshift/"
-    },
-    {
-        "title": "Combine AWS Glue and Amazon MWAA to build advanced VPC selection and failover strategies",
-        "link": "https://aws.amazon.com/blogs/big-data/combine-aws-glue-and-amazon-mwaa-to-build-advanced-vpc-selection-and-failover-strategies/"
     }
 ]
