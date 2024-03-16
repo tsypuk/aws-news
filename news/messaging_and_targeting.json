@@ -1,5 +1,9 @@
 [
     {
+        "title": "Upgrade Your Email Tech Stack with Amazon SESv2 API",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/upgrade-your-email-tech-stack-with-amazon-sesv2-api/"
+    },
+    {
         "title": "Message delivery status tracking with Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/message-delivery-status-tracking-with-amazon-pinpoint/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "10DLC Registration Best Practices to Send SMS with Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/10dlc-registration-best-practices-to-send-sms-with-amazon-pinpoint/"
-    },
-    {
-        "title": "Amazon Pinpoint 10DLC Campaign Types and Quotas for SMS",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/amazon-pinpoint-10dlc-campaign-types-and-quotas-for-sms/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch H2 2023 in review",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-h2-2023-in-review/"
+    },
+    {
         "title": "How VMware Tanzu CloudHealth migrated from self-managed Kafka to Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/how-vmware-tanzu-cloudhealth-migrated-from-self-managed-kafka-to-amazon-msk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable advanced search capabilities for Amazon Keyspaces data by integrating with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/enable-advanced-search-capabilities-for-amazon-keyspaces-data-by-integrating-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Simplify data streaming ingestion for analytics using Amazon MSK and Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-streaming-ingestion-for-analytics-using-amazon-msk-and-amazon-redshift/"
     }
 ]
