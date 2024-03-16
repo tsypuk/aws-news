@@ -1,5 +1,17 @@
 [
     {
+        "title": "Transform one-on-one customer interactions: Build speech-capable order processing agents with AWS and generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/"
+    },
+    {
+        "title": "Federated learning on AWS using FedML, Amazon EKS, and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/federated-learning-on-aws-using-fedml-amazon-eks-and-amazon-sagemaker/"
+    },
+    {
+        "title": "Enable data sharing through federated learning: A policy approach for chief digital officers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enable-data-sharing-through-federated-learning-a-policy-approach-for-chief-digital-officers/"
+    },
+    {
         "title": "The journey of PGA TOUR\u2019s generative AI virtual assistant, from concept to development to prototype",
         "link": "https://aws.amazon.com/blogs/machine-learning/the-journey-of-pga-tours-generative-ai-virtual-assistant-from-concept-to-development-to-prototype/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Unlock personalized experiences powered by AI using Amazon Personalize and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Automate Amazon SageMaker Pipelines DAG creation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-pipelines-dag-creation/"
-    },
-    {
-        "title": "Accelerating large-scale neural network training on CPUs with ThirdAI and AWS Graviton",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-large-scale-neural-network-training-on-cpus-with-thirdai-and-aws-graviton/"
-    },
-    {
-        "title": "Supercharge your AI team with Amazon SageMaker Studio: A comprehensive view of Deutsche Bahn\u2019s AI platform transformation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-team-with-amazon-sagemaker-studio-a-comprehensive-view-of-deutsche-bahns-ai-platform-transformation/"
     }
 ]
