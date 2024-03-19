@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize price-performance of LLM inference on NVIDIA GPUs using the Amazon SageMaker integration with NVIDIA NIM Microservices",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-price-performance-of-llm-inference-on-nvidia-gpus-using-the-amazon-sagemaker-integration-with-nvidia-nim-microservices/"
+    },
+    {
+        "title": "Fine-tune Code Llama on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-code-llama-on-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Transform one-on-one customer interactions: Build speech-capable order processing agents with AWS and generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
         "link": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/"
-    },
-    {
-        "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Unlock personalized experiences powered by AI using Amazon Personalize and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-personalized-experiences-powered-by-ai-using-amazon-personalize-and-amazon-opensearch-service/"
     }
 ]
