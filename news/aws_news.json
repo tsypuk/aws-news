@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup \u2014 Claude 3 Haiku in Amazon Bedrock, AWS CloudFormation optimizations, and more \u2014 March 18, 2024",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-haiku-in-amazon-bedrock-aws-cloudformation-optimizations-and-more-march-18-2024/"
+    },
+    {
         "title": "Run and manage open source InfluxDB databases with Amazon Timestream",
         "link": "https://aws.amazon.com/blogs/aws/run-and-manage-open-source-influxdb-databases-with-amazon-timestream/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New chat experience for AWS Glue using natural language \u2013 Amazon Q data integration in AWS Glue (Preview)",
         "link": "https://aws.amazon.com/blogs/aws/new-chat-experience-for-aws-glue-using-natural-language-amazon-q-data-integration-in-aws-glue-preview/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2014  AWS Step Functions, Amazon ECS, Amazon EKS, Amazon LightSail, Amazon VPC, and more \u2014 January 29, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-api-gateway-aws-step-functions-amazon-ecs-amazon-eks-amazon-lightsail-amazon-vpc-and-more-january-29-2024/"
     }
 ]

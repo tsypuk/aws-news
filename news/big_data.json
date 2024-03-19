@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon Managed Service for Apache Flink now supports Apache Flink version 1.18",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-now-supports-apache-flink-version-1-18/"
+    },
+    {
+        "title": "Enrich your customer data with geospatial insights using Amazon Redshift, AWS Data Exchange, and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/big-data/enrich-your-customer-data-with-geospatial-insights-using-amazon-redshift-aws-data-exchange-and-amazon-quicksight/"
+    },
+    {
+        "title": "Multicloud data lake analytics with Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/multicloud-data-lake-analytics-with-amazon-athena/"
+    },
+    {
         "title": "Amazon OpenSearch H2 2023 in review",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-h2-2023-in-review/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing Amazon MWAA support for Apache Airflow version 2.8.1",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-8-1/"
-    },
-    {
-        "title": "Use Amazon OpenSearch Ingestion to migrate to Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-opensearch-ingestion-to-migrate-to-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Empowering data-driven excellence: How the Bluestone Data Platform embraced data mesh for success",
-        "link": "https://aws.amazon.com/blogs/big-data/empowering-data-driven-excellence-how-the-bluestone-data-platform-embraced-data-mesh-for-success/"
-    },
-    {
-        "title": "Enable advanced search capabilities for Amazon Keyspaces data by integrating with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-advanced-search-capabilities-for-amazon-keyspaces-data-by-integrating-with-amazon-opensearch-service/"
     }
 ]
