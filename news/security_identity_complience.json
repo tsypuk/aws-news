@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing generative AI: Applying relevant security controls",
+        "link": "https://aws.amazon.com/blogs/security/securing-generative-ai-applying-relevant-security-controls/"
+    },
+    {
         "title": "AWS completes the annual Dubai Electronic Security Centre certification audit to operate as a Tier 1 cloud service provider in the Emirate of Dubai",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-dubai-electronic-security-centre-certification-audit-to-operate-as-a-tier-1-cloud-service-provider-in-the-emirate-of-dubai/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Detect Stripe keys in S3 buckets with Amazon Macie",
         "link": "https://aws.amazon.com/blogs/security/detect-stripe-keys-in-s3-buckets-with-amazon-macie/"
-    },
-    {
-        "title": "How to automate rule management for AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/security/how-to-automate-rule-management-for-aws-network-firewall/"
     }
 ]

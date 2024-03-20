@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify private connectivity to Amazon DynamoDB with AWS PrivateLink",
+        "link": "https://aws.amazon.com/blogs/database/simplify-private-connectivity-to-amazon-dynamodb-with-aws-privatelink/"
+    },
+    {
         "title": "Amazon Aurora MySQL version 2 (with MySQL 5.7 compatibility) to version 3 (with MySQL 8.0 compatibility) upgrade checklist, Part 2",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-version-2-with-mysql-5-7-compatibility-to-version-3-with-mysql-8-0-compatibility-upgrade-checklist-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Ita\u00fa Bank simplified cryptocurrency custody with Amazon Managed Blockchain Access and Query",
         "link": "https://aws.amazon.com/blogs/database/how-itau-bank-simplified-cryptocurrency-custody-with-amazon-managed-blockchain-access-and-query/"
-    },
-    {
-        "title": "Accelerate application development with Morphia ODM and Amazon DocumentDB",
-        "link": "https://aws.amazon.com/blogs/database/accelerate-application-development-with-morphia-odm-and-amazon-documentdb/"
     }
 ]

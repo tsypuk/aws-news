@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlock the potential of generative AI in industrial operations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-the-potential-of-generative-ai-in-industrial-operations/"
+    },
+    {
+        "title": "Enhance performance of generative language models with self-consistency prompting on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-performance-of-generative-language-models-with-self-consistency-prompting-on-amazon-bedrock/"
+    },
+    {
         "title": "Optimize price-performance of LLM inference on NVIDIA GPUs using the Amazon SageMaker integration with NVIDIA NIM Microservices",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-price-performance-of-llm-inference-on-nvidia-gpus-using-the-amazon-sagemaker-integration-with-nvidia-nim-microservices/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/"
-    },
-    {
-        "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
-        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search/"
-    },
-    {
-        "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
-        "link": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/"
     }
 ]
