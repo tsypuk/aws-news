@@ -1,5 +1,13 @@
 [
     {
+        "title": "Hybrid Search with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/hybrid-search-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Scale AWS Glue jobs by optimizing IP address consumption and expanding network capacity using a private NAT gateway",
+        "link": "https://aws.amazon.com/blogs/big-data/scale-aws-glue-jobs-by-optimizing-ip-address-consumption-and-expanding-network-capacity-using-a-private-nat-gateway/"
+    },
+    {
         "title": "Amazon Managed Service for Apache Flink now supports Apache Flink version 1.18",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-now-supports-apache-flink-version-1-18/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Data governance in the age of generative AI",
         "link": "https://aws.amazon.com/blogs/big-data/data-governance-in-the-age-of-generative-ai/"
-    },
-    {
-        "title": "Introducing Terraform support for Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-terraform-support-for-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "Introducing Amazon MWAA support for Apache Airflow version 2.8.1",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-8-1/"
     }
 ]
