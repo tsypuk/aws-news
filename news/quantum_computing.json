@@ -1,5 +1,9 @@
 [
     {
+        "title": "A new building block for error-corrected quantum computers",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/a-new-building-block-for-error-corrected-quantum-computers/"
+    },
+    {
         "title": "Enabling state-of-the-art quantum algorithms with Qedma\u2019s error mitigation and IonQ, using Braket Direct",
         "link": "https://aws.amazon.com/blogs/quantum-computing/enabling-state-of-the-art-quantum-algorithms-with-qedmas-error-mitigation-and-ionq-using-braket-direct/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Explore quantum algorithms faster by running your local Python code as an Amazon Braket Hybrid Job with minimal code changes",
         "link": "https://aws.amazon.com/blogs/quantum-computing/explore-quantum-algorithms-faster-by-running-your-local-python-code-as-an-amazon-braket-hybrid-job-with-minimal-code-changes/"
-    },
-    {
-        "title": "Introducing a new temperature-resistant packaging technique for optical devices",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-a-new-temperature-resistant-packaging-technique-for-optical-devices/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Delivering video content with fractional GPUs in containers on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/delivering-video-content-with-fractional-gpus-in-containers-on-amazon-eks/"
+    },
+    {
         "title": "Scale your Amazon ECS using different AWS native services!",
         "link": "https://aws.amazon.com/blogs/containers/scale-your-amazon-ecs-using-different-aws-native-services/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Configure Amazon EKS for environmental sustainability",
         "link": "https://aws.amazon.com/blogs/containers/configure-amazon-eks-for-environmental-sustainability/"
-    },
-    {
-        "title": "Enabling mTLS with ALB in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/enabling-mtls-with-alb-in-amazon-eks/"
     }
 ]
