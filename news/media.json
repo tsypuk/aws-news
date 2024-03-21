@@ -1,5 +1,25 @@
 [
     {
+        "title": "Automating Alerts for AWS Global Network Performance",
+        "link": "https://aws.amazon.com/blogs/mt/automating-alerts-for-aws-global-network-performance/"
+    },
+    {
+        "title": "Analyze AWS Microservices architecture to identify and address performance issues",
+        "link": "https://aws.amazon.com/blogs/mt/analyze-aws-microservices-architecture-to-identify-and-address-performance-issues/"
+    },
+    {
+        "title": "How BMW Group uses automation to achieve end-to-end compliance at scale on AWS",
+        "link": "https://aws.amazon.com/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/"
+    },
+    {
+        "title": "Real User Monitoring with Amazon CloudWatch RUM and Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/real-user-monitoring-with-cloudwatch-rum-and-amazon-managed-grafana/"
+    },
+    {
+        "title": "Analyzing Amazon CloudWatch Internet Monitor measurement logs using Amazon Athena and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/mt/analyzing-amazon-cloudwatch-internet-monitor-measurement-logs-using-amazon-athena-amazon-quicksight/"
+    },
+    {
         "title": "Identifying resilience drift using AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/identifying-resilience-drift-using-aws-resilience-hub/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Easily set up Amazon CloudWatch Internet Monitor",
         "link": "https://aws.amazon.com/blogs/mt/easily-set-up-amazon-cloudwatch-internet-monitor/"
-    },
-    {
-        "title": "Accelerated Transformation: Streamline Application Modernization During Migration",
-        "link": "https://aws.amazon.com/blogs/mt/accelerated-transformation-streamline-application-modernization-during-migration/"
-    },
-    {
-        "title": "Accelerate Cloud Transformation: Migrate workloads in Weeks with our EBA Migration Parties",
-        "link": "https://aws.amazon.com/blogs/mt/accelerate-cloud-transformation-migrate-workloads-in-weeks-with-our-eba-migration-parties/"
-    },
-    {
-        "title": "Observing Kubernetes workloads on AWS Fargate with AWS managed open-source services",
-        "link": "https://aws.amazon.com/blogs/mt/observability-on-eks-fargate-cluster-with-amazon-managed-service-for-prometheus-and-amazon-managed-grafana/"
-    },
-    {
-        "title": "How to Skip Testing and Finalize Cutover in the AWS Application Migration Service",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-skip-testing-and-finalize-cutover-in-the-aws-application-migration-service/"
-    },
-    {
-        "title": "Measure Transformation through the Cloud Adoption lens",
-        "link": "https://aws.amazon.com/blogs/mt/measure-transformation-through-the-cloud-adoption-lens/"
     }
 ]

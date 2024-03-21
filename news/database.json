@@ -1,5 +1,17 @@
 [
     {
+        "title": "Simplify cross-account access control with Amazon DynamoDB using resource-based policies",
+        "link": "https://aws.amazon.com/blogs/database/simplify-cross-account-access-control-with-amazon-dynamodb-using-resource-based-policies/"
+    },
+    {
+        "title": "Unlocking efficiency: Integrate AWS Lambda with Amazon RDS for Oracle to automate custom script operations",
+        "link": "https://aws.amazon.com/blogs/database/unlocking-efficiency-integrate-aws-lambda-with-amazon-rds-for-oracle-to-automate-custom-script-operations/"
+    },
+    {
+        "title": "Bulk update Amazon DynamoDB tables with AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/database/bulk-update-amazon-dynamodb-tables-with-aws-step-functions/"
+    },
+    {
         "title": "Simplify private connectivity to Amazon DynamoDB with AWS PrivateLink",
         "link": "https://aws.amazon.com/blogs/database/simplify-private-connectivity-to-amazon-dynamodb-with-aws-privatelink/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize AWS KMS decryption costs for Database Activity Streams",
         "link": "https://aws.amazon.com/blogs/database/optimize-aws-kms-decryption-costs-for-database-activity-streams/"
-    },
-    {
-        "title": "Perform cross-account major version upgrades from Amazon RDS for MySQL 5.7 to Amazon Aurora 3.04.x with minimum downtime",
-        "link": "https://aws.amazon.com/blogs/database/perform-cross-account-major-version-upgrades-from-amazon-rds-for-mysql-5-7-to-amazon-aurora-3-04-x-with-minimum-downtime/"
-    },
-    {
-        "title": "Trigger an AWS Lambda function from Amazon RDS for MySQL or Amazon RDS for MariaDB using audit logs and Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/database/trigger-an-aws-lambda-function-from-amazon-rds-for-mysql-or-amazon-rds-for-mariadb-using-audit-logs-and-amazon-cloudwatch/"
-    },
-    {
-        "title": "How Ita\u00fa Bank simplified cryptocurrency custody with Amazon Managed Blockchain Access and Query",
-        "link": "https://aws.amazon.com/blogs/database/how-itau-bank-simplified-cryptocurrency-custody-with-amazon-managed-blockchain-access-and-query/"
     }
 ]
