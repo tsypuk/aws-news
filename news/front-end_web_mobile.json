@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Generative AI and Next.js with AWS Amplify to build a Fullstack Recipe Generator",
+        "link": "https://aws.amazon.com/blogs/mobile/use-generative-ai-and-next-js-with-aws-amplify-to-build-a-fullstack-recipe-generator/"
+    },
+    {
         "title": "Control GraphQL execution complexity, query depth, and introspection with AWS AppSync",
         "link": "https://aws.amazon.com/blogs/mobile/control-graphql-execution-complexity-query-depth-and-introspection-with-aws-appsync/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Join us for a week of AWS Amplify launches",
         "link": "https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/"
-    },
-    {
-        "title": "Build a Real-time, WebSockets API for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/mobile/connecting-applications-to-generative-ai-presents-new-challenges/"
     }
 ]

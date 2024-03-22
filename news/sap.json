@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate deployment of SAP systems on ASE database with AWS Launch Wizard",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automate-deployment-of-sap-systems-on-ase-database-with-aws-launch-wizard/"
+    },
+    {
         "title": "Build Resilient Applications on SAP BTP with AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/build-resilient-applications-on-sap-btp-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing SAP with AWS Network Firewall: Part 2 \u2013 Managed Rules",
         "link": "https://aws.amazon.com/blogs/awsforsap/securing-sap-with-aws-network-firewall-part-2-managed-rules/"
-    },
-    {
-        "title": "Automate invoice processing with the AWS SDK for SAP ABAP",
-        "link": "https://aws.amazon.com/blogs/awsforsap/automate-invoice-processing-with-the-aws-sdk-for-sap-abap/"
     }
 ]

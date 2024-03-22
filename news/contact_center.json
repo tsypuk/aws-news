@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securely pass the customer information to agent using Amazon Connect in-app, web, and video calling",
+        "link": "https://aws.amazon.com/blogs/contact-center/securely-pass-the-customer-information-to-agent-using-amazon-connect-in-app-web-and-video-calling/"
+    },
+    {
         "title": "Sneak peek: Upcoming AWS sessions on generative AI at Enterprise Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/upcoming-aws-sessions-on-generative-ai-at-enterprise-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Managing Agent Quality using Amazon Connect Contact Lens and Evaluation Capabilities",
         "link": "https://aws.amazon.com/blogs/contact-center/managing-agent-quality-using-amazon-connect-contact-lens-and-evaluation-forms/"
-    },
-    {
-        "title": "Investigate Amazon Connect API activity across your organization using AWS CloudTrail and Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/contact-center/investigate-amazon-connect-api-activity-across-your-organization-using-aws-cloudtrail-and-amazon-athena/"
     }
 ]

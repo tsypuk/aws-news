@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building a Scalable DICOM Ingestion Pipeline for AWS HealthImaging with CitiusTech",
+        "link": "https://aws.amazon.com/blogs/apn/building-a-scalable-dicom-ingestion-pipeline-for-aws-healthimaging-with-citiustech/"
+    },
+    {
+        "title": "Reduce SaaS Deployment Costs and Time to Market with Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/apn/reduce-saas-deployment-costs-and-time-to-market-with-amazon-fsx-for-netapp-ontap/"
+    },
+    {
+        "title": "Reimagining Vector Databases for the Generative AI Era with Pinecone Serverless on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/reimagining-vector-databases-for-the-generative-ai-era-with-pinecone-serverless-on-aws/"
+    },
+    {
         "title": "Accelerating Sustainability in Travel and Transport: Leveraging Data for a Greener Future",
         "link": "https://aws.amazon.com/blogs/apn/accelerating-sustainability-in-travel-and-transport-leveraging-data-for-a-greener-future/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Road Services Seamlessly Integrate with Transportation Management via Bosch L.OS on AWS",
         "link": "https://aws.amazon.com/blogs/apn/how-road-services-seamlessly-integrate-with-transportation-management-via-bosch-l-os-on-aws/"
-    },
-    {
-        "title": "AWS Well-Architected Framework Reviews Powered by Tevico: Transforming Challenges into Engaging Adventures",
-        "link": "https://aws.amazon.com/blogs/apn/aws-well-architected-framework-reviews-powered-by-tevico-transforming-challenges-into-engaging-adventures/"
-    },
-    {
-        "title": "Revolutionize Your Business with AWS Generative AI Competency Partners",
-        "link": "https://aws.amazon.com/blogs/apn/revolutionize-your-business-with-aws-generative-ai-competency-partners/"
-    },
-    {
-        "title": "Transforming Hybrid Mainframe Data Access with VirtualZ Lozen and AWS",
-        "link": "https://aws.amazon.com/blogs/apn/transforming-hybrid-mainframe-data-access-with-virtualz-lozen-and-aws/"
     }
 ]
