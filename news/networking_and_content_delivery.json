@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing mTLS for Application Load Balancer",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-mtls-for-application-load-balancer/"
+    },
+    {
         "title": "Programmatically deploying CloudFront distributions in AWS China Regions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/programmatically-deploying-cloudfront-distributions-in-aws-china-regions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Managing global AWS Local Zones applications with Amazon Route 53 Geoproximity routing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/managing-global-aws-local-zones-applications-with-amazon-route53-geoproximity-routing/"
-    },
-    {
-        "title": "Understand your network traffic trends using AWS Transit Gateway Flow Logs",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/understand-your-network-traffic-trends-using-aws-transit-gateway-flow-logs/"
     }
 ]

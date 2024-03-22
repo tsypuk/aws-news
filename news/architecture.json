@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify document search at scale with intelligent search bot on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/simplify-document-search-at-scale-with-intelligent-search-bot-on-aws/"
+    },
+    {
         "title": "Physics on AWS: Optimizing wind turbine performance using OpenFAST in a digital twin",
         "link": "https://aws.amazon.com/blogs/architecture/physics-on-aws-optimizing-wind-turbine-performance-using-openfast-in-a-digital-twin/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Let\u2019s Architect! Security in software architectures",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-security-in-software-architectures/"
-    },
-    {
-        "title": "How SeatGeek uses AWS Serverless to control authorization, authentication, and rate-limiting in a multi-tenant SaaS application",
-        "link": "https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/"
     }
 ]

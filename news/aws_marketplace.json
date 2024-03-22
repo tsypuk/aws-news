@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure payment processing with cloud innovation",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/secure-payment-processing-cloud-innovation/"
+    },
+    {
         "title": "Procure and deploy third-party EKS add-ons without leaving the EKS console",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/procure-deploy-third-party-eks-add-ons-eks-console/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Food supply chain optimization using PredictHQ intelligent event data from AWS Data Exchange for demand forecasting",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/food-supply-chain-optimization-using-predicthq-intelligent-event-data-from-aws-data-exchange-for-demand-forecasting/"
-    },
-    {
-        "title": "Streamline your AWS Marketplace experience using enterprise reporting",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/streamline-aws-marketplace-experience-using-enterprise-reporting/"
     }
 ]
