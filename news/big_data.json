@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run Trino queries 2.7 times faster with Amazon EMR 6.15.0",
+        "link": "https://aws.amazon.com/blogs/big-data/run-trino-queries-2-7-times-faster-with-amazon-emr-6-15-0/"
+    },
+    {
         "title": "Build an end-to-end serverless streaming pipeline with Apache Kafka on Amazon MSK using Python",
         "link": "https://aws.amazon.com/blogs/big-data/build-an-end-to-end-serverless-streaming-pipeline-with-apache-kafka-on-amazon-msk-using-python/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Petabyte-scale log analytics with Amazon S3, Amazon OpenSearch Service, and Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/petabyte-scale-log-analytics-with-amazon-s3-amazon-opensearch-service-and-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "Build a pseudonymization service on AWS to protect sensitive data: Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-pseudonymization-service-on-aws-to-protect-sensitive-data-part-2/"
     }
 ]

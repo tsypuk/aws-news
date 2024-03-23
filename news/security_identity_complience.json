@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate your Windows PKI from Microsoft Active Directory Certificate Services to AWS Private CA Connector for Active Directory",
+        "link": "https://aws.amazon.com/blogs/security/migrate-your-windows-pki-from-microsoft-active-directory-certificate-services-to-aws-private-ca-connector-for-active-directory/"
+    },
+    {
         "title": "Securing generative AI: Applying relevant security controls",
         "link": "https://aws.amazon.com/blogs/security/securing-generative-ai-applying-relevant-security-controls/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Customer Compliance Guides now publicly available",
         "link": "https://aws.amazon.com/blogs/security/aws-customer-compliance-guides-now-publicly-available/"
-    },
-    {
-        "title": "Detect Stripe keys in S3 buckets with Amazon Macie",
-        "link": "https://aws.amazon.com/blogs/security/detect-stripe-keys-in-s3-buckets-with-amazon-macie/"
     }
 ]
