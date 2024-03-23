@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating chaos experiments with AWS Fault Injection Service and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/"
+    },
+    {
         "title": "Sending and receiving CloudEvents with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/compute/sending-and-receiving-cloudevents-with-amazon-eventbridge/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The attendee\u2019s guide to the AWS re:Invent 2023 Compute track",
         "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2023-compute-track/"
-    },
-    {
-        "title": "Introducing advanced logging controls for AWS Lambda functions",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-advanced-logging-controls-for-aws-lambda-functions/"
     }
 ]

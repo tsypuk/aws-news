@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing least privilege access in an AWS Transfer Family workflow",
+        "link": "https://aws.amazon.com/blogs/storage/implementing-least-privilege-access-in-an-aws-transfer-family-workflow/"
+    },
+    {
         "title": "Trellix accelerates on-premises research data migration with AWS Snow Family",
         "link": "https://aws.amazon.com/blogs/storage/trellix-accelerates-on-premises-research-data-migration-with-aws-snow-family/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Dialog Axiata saves significantly on storage using Amazon S3 Intelligent-Tiering and S3 Storage Lens",
         "link": "https://aws.amazon.com/blogs/storage/dialog-axiata-saves-significantly-on-storage-using-amazon-s3-intelligent-tiering-and-s3-storage-lens/"
-    },
-    {
-        "title": "How Visual Layer builds high quality datasets on Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/how-visual-layer-builds-high-quality-datasets-on-amazon-s3/"
     }
 ]

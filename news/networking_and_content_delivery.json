@@ -16,6 +16,10 @@
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-access-to-most-used-aws-services-using-vpc-endpoints/"
     },
     {
+        "title": "Orchestrate disaster recovery automation using Amazon Route 53 ARC and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/orchestrate-disaster-recovery-automation-using-amazon-route-53-arc-and-aws-step-functions/"
+    },
+    {
         "title": "Promoting customer choice: AWS takes another step to lower costs for customers changing IT providers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/promoting-customer-choice-aws-takes-another-step-to-lower-costs-for-customers-changing-it-providers/"
     },
@@ -48,10 +52,6 @@
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-network-manager-events-to-manage-and-monitor-your-global-network/"
     },
     {
-        "title": "Learn how LambdaTest transformed its global hybrid network using AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/learn-how-lambdatest-transformed-its-global-hybrid-network-using-aws/"
-    },
-    {
         "title": "Using VPC Reachability Analyzer to discover network paths across multiple AWS Regions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-reachability-analyzer-to-discover-network-paths-across-multiple-aws-regions/"
     },
@@ -60,12 +60,12 @@
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-cloudfront-continuous-deployment-with-a-ci-cd-pipeline/"
     },
     {
-        "title": "AWS Verified Access introduces policy assistant to quickly see the impact of new access policies",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-verified-access-introduces-policy-assistant-to-quickly-see-the-impact-of-new-access-policies/"
-    },
-    {
         "title": "Capture packets with Amazon VPC Traffic Mirroring and Mountpoint for Amazon S3",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/capture-packets-with-amazon-vpc-traffic-mirroring-and-mountpoint-for-amazon-s3/"
+    },
+    {
+        "title": "AWS Verified Access introduces policy assistant to quickly see the impact of new access policies",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-verified-access-introduces-policy-assistant-to-quickly-see-the-impact-of-new-access-policies/"
     },
     {
         "title": "Monitor hybrid connectivity with Amazon CloudWatch Network Monitor",

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Performant, Fine Grained Authorization at scale powered by Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/performant-fine-grained-authorization-at-scale-powered-by-amazon-dynamodb/"
+    },
+    {
         "title": "Simplify cross-account access control with Amazon DynamoDB using resource-based policies",
         "link": "https://aws.amazon.com/blogs/database/simplify-cross-account-access-control-with-amazon-dynamodb-using-resource-based-policies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement advanced replication features with Amazon RDS for MySQL and Amazon Aurora MySQL using intermediate replication servers",
         "link": "https://aws.amazon.com/blogs/database/implement-advanced-replication-features-with-amazon-rds-for-mysql-and-amazon-aurora-mysql-using-intermediate-replication-servers/"
-    },
-    {
-        "title": "Optimize AWS KMS decryption costs for Database Activity Streams",
-        "link": "https://aws.amazon.com/blogs/database/optimize-aws-kms-decryption-costs-for-database-activity-streams/"
     }
 ]
