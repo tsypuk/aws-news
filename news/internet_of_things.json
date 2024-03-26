@@ -1,5 +1,17 @@
 [
     {
+        "title": "Early Fire Detection Design Model for Smart Cities: Using AWS IoT and ML Technologies",
+        "link": "https://aws.amazon.com/blogs/iot/early-fire-detection-design-model-for-smart-cities-using-aws-iot-and-ml-technologies/"
+    },
+    {
+        "title": "Use AWS IoT Device Defender and Splunk to  monitor the security posture of your IoT application",
+        "link": "https://aws.amazon.com/blogs/iot/use-aws-iot-device-defender-and-splunk-to-monitor-the-security-posture-of-your-iot-application/"
+    },
+    {
+        "title": "Use location data with AWS IoT Device Management to monitor and manage your IoT fleet",
+        "link": "https://aws.amazon.com/blogs/iot/aws-iot-device-management-location-indexing-geoquery/"
+    },
+    {
         "title": "Modernize your Enterprise Historian with AWS Cloud Services",
         "link": "https://aws.amazon.com/blogs/iot/modernize-your-enterprise-historian-with-aws-cloud-services/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "2023 year in review: digital twins on AWS for agile and resilient operations",
         "link": "https://aws.amazon.com/blogs/iot/2023-year-in-review-digital-twins-on-aws/"
-    },
-    {
-        "title": "Using NVIDIA Omniverse to prepare 3D assets from Building Information Models for AWS IoT TwinMaker",
-        "link": "https://aws.amazon.com/blogs/iot/using-nvidia-omniverse-to-prepare-3d-assets-from-building-information-models-for-aws-iot-twinmaker/"
-    },
-    {
-        "title": "Improving Sustainability in Manufacturing with Digital Twins",
-        "link": "https://aws.amazon.com/blogs/iot/sustainability-with-digital-twins/"
-    },
-    {
-        "title": "How to implement a disaster recovery solution for IoT platforms on AWS",
-        "link": "https://aws.amazon.com/blogs/iot/how-to-implement-a-disaster-recovery-solution-for-iot-platforms-on-aws/"
     }
 ]
