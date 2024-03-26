@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting started with third-party applications in the agent workspace",
+        "link": "https://aws.amazon.com/blogs/contact-center/getting-started-with-third-party-applications-in-the-agent-workspace/"
+    },
+    {
         "title": "Securely pass the customer information to agent using Amazon Connect in-app, web, and video calling",
         "link": "https://aws.amazon.com/blogs/contact-center/securely-pass-the-customer-information-to-agent-using-amazon-connect-in-app-web-and-video-calling/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor real-time metrics using granular access controls in Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/monitoring-real-time-metrics-using-granular-access-controls-in-amazon-connect/"
-    },
-    {
-        "title": "Managing Agent Quality using Amazon Connect Contact Lens and Evaluation Capabilities",
-        "link": "https://aws.amazon.com/blogs/contact-center/managing-agent-quality-using-amazon-connect-contact-lens-and-evaluation-forms/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run large-scale simulations with AWS Batch multi-container jobs",
+        "link": "https://aws.amazon.com/blogs/aws/run-large-scale-simulations-with-aws-batch-multi-container-jobs/"
+    },
+    {
+        "title": "AWS Weekly Roundup \u2014 Savings Plans, Amazon DynamoDB, AWS CodeArtifact, and more \u2014 March 25, 2024",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-savings-plans-amazon-dynamodb-aws-codeartifact-and-more-march-25-2024/"
+    },
+    {
         "title": "Improve the security of your software supply chain with Amazon CodeArtifact package group configuration",
         "link": "https://aws.amazon.com/blogs/aws/improve-the-security-of-your-software-supply-chain-with-amazon-codeartifact-package-group-configuration/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Weekly Roundup \u2014 Happy Lunar New Year, IaC generator, NFL\u2019s digital athlete, AWS Cloud Clubs, and more \u2014 February 12, 2024",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-happy-lunar-new-year-iac-generator-nfls-digital-athlete-aws-cloud-clubs-and-more-february-12-2024/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2014 Amazon Q in AWS Glue, Amazon PartyRock Hackathon, CDK Migrate, and more \u2014 February 5, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-in-aws-glue-amazon-partyrock-hackathon-cdk-migrate-and-more-february-5-2024/"
-    },
-    {
-        "title": "AWS named as a Leader in 2023 Gartner Magic Quadrant for Strategic Cloud Platform Services for thirteenth year in a row",
-        "link": "https://aws.amazon.com/blogs/aws/read-the-2023-gartner-magic-quadrant-for-strategic-cloud-platform-services/"
     }
 ]

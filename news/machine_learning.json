@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for building secure applications with Amazon Transcribe",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-secure-applications-with-amazon-transcribe/"
+    },
+    {
         "title": "Boost your content editing with Contentful and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-your-content-editing-with-contentful-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Alida gains deeper understanding of customer feedback with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/alida-gains-deeper-understanding-of-customer-feedback-with-amazon-bedrock/"
     }
 ]
