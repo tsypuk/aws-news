@@ -1,5 +1,9 @@
 [
     {
+        "title": "Renewable energy transition: examining the impacts of wind energy through simulation",
+        "link": "https://aws.amazon.com/blogs/hpc/renewable-energy-transition-examining-the-impacts-of-wind-energy-through-simulation/"
+    },
+    {
         "title": "Choosing the right compute orchestration tool for your research workload",
         "link": "https://aws.amazon.com/blogs/hpc/choosing-the-right-compute-orchestration-tool-for-your-research-workload/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deep-dive into Ansys Fluent performance on Ansys Gateway powered by AWS",
         "link": "https://aws.amazon.com/blogs/hpc/deep-dive-into-ansys-fluent-performance-on-ansys-gateway-powered-by-aws/"
-    },
-    {
-        "title": "Lattice Boltzmann simulation with Palabos on AWS using Graviton-based Amazon EC2 Hpc7g instances",
-        "link": "https://aws.amazon.com/blogs/hpc/lattice-boltzmann-simulation-with-palabos-on-aws-using-graviton-based-amazon-ec2-hpc7g-instances/"
     }
 ]

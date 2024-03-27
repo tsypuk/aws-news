@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a receipt and invoice processing pipeline with Amazon Textract",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-receipt-and-invoice-processing-pipeline-with-amazon-textract/"
+    },
+    {
         "title": "Best practices for building secure applications with Amazon Transcribe",
         "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-secure-applications-with-amazon-transcribe/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/"
-    },
-    {
-        "title": "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/"
     }
 ]
