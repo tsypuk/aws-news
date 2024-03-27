@@ -1,5 +1,9 @@
 [
     {
+        "title": "Exploring quantum-informed recursive optimization algorithms on Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-informed-recursive-optimization-algorithms-on-amazon-braket/"
+    },
+    {
         "title": "A new building block for error-corrected quantum computers",
         "link": "https://aws.amazon.com/blogs/quantum-computing/a-new-building-block-for-error-corrected-quantum-computers/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Analog Hamiltonian simulation with PennyLane",
         "link": "https://aws.amazon.com/blogs/quantum-computing/analog-hamiltonian-simulation-with-pennylane/"
-    },
-    {
-        "title": "Explore quantum algorithms faster by running your local Python code as an Amazon Braket Hybrid Job with minimal code changes",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/explore-quantum-algorithms-faster-by-running-your-local-python-code-as-an-amazon-braket-hybrid-job-with-minimal-code-changes/"
     }
 ]

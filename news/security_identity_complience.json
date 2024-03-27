@@ -1,5 +1,13 @@
 [
     {
+        "title": "How AWS is helping customers achieve their digital sovereignty and resilience goals",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-is-helping-customers-achieve-their-digital-sovereignty-and-resilience-goals/"
+    },
+    {
+        "title": "Use Amazon Verified Permissions for fine-grained authorization at scale",
+        "link": "https://aws.amazon.com/blogs/security/use-amazon-verified-permissions-for-fine-grained-authorization-at-scale/"
+    },
+    {
         "title": "Migrate your Windows PKI from Microsoft Active Directory Certificate Services to AWS Private CA Connector for Active Directory",
         "link": "https://aws.amazon.com/blogs/security/migrate-your-windows-pki-from-microsoft-active-directory-certificate-services-to-aws-private-ca-connector-for-active-directory/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Modern web application authentication and authorization with Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/security/modern-web-application-authentication-and-authorization-with-amazon-vpc-lattice/"
-    },
-    {
-        "title": "AWS HITRUST Shared Responsibility Matrix for HITRUST CSF v11.2 now available",
-        "link": "https://aws.amazon.com/blogs/security/aws-hitrust-shared-responsibility-matrix-for-hitrust-csf-v11-2-now-available/"
-    },
-    {
-        "title": "AWS Customer Compliance Guides now publicly available",
-        "link": "https://aws.amazon.com/blogs/security/aws-customer-compliance-guides-now-publicly-available/"
     }
 ]

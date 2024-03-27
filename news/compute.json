@@ -1,5 +1,9 @@
 [
     {
+        "title": "Applying Spot-to-Spot consolidation best practices with Karpenter",
+        "link": "https://aws.amazon.com/blogs/compute/applying-spot-to-spot-consolidation-best-practices-with-karpenter/"
+    },
+    {
         "title": "Automating chaos experiments with AWS Fault Injection Service and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing support for read-only management events in Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/compute/introducing-support-for-read-only-management-events-in-amazon-eventbridge/"
-    },
-    {
-        "title": "The attendee\u2019s guide to the AWS re:Invent 2023 Compute track",
-        "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2023-compute-track/"
     }
 ]
