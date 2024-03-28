@@ -1,5 +1,13 @@
 [
     {
+        "title": "Update AWS Tools for PowerShell at scale with AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/update-aws-tools-for-powershell-at-scale-with-aws-systems-manager/"
+    },
+    {
+        "title": "Convert licenses of SQL Servers migrated with AWS Application Migration Service",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/convert-licenses-of-sql-servers-migrated-with-aws-application-migration-service/"
+    },
+    {
         "title": "Use Azure DevOps to deploy AWS Glue jobs in CI/CD pipeline",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-azure-devops-to-deploy-aws-glue-jobs-in-ci-cd-pipeline/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Secure API authorization in Amazon API Gateway using Microsoft Entra ID",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/secure-api-authorization-in-amazon-api-gateway-using-microsoft-entra-id/"
-    },
-    {
-        "title": "Deciding where to host .NET applications on AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deciding-where-to-host-net-applications-on-aws/"
-    },
-    {
-        "title": "Accelerate .NET and SQL development with Amazon CodeWhisperer as your AI coding companion",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/net-and-sql-development-with-amazon-codewhisperer/"
     }
 ]

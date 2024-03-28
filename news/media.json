@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernizing Account Management with Amazon Bedrock and AWS Control Tower",
+        "link": "https://aws.amazon.com/blogs/mt/modernizing-account-management-with-amazon-bedrock-and-aws-control-tower/"
+    },
+    {
         "title": "The Migration Well-Architected Review \u2013 a Mechanism to validate your migration for AWS best practices.",
         "link": "https://aws.amazon.com/blogs/mt/the-migration-well-architected-review-a-mechanism-to-validate-your-migration-for-aws-best-practices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify query authoring in AWS Config advanced queries with natural language query generation",
         "link": "https://aws.amazon.com/blogs/mt/simplify-query-authoring-in-aws-config-advanced-queries-with-natural-language-query-generation/"
-    },
-    {
-        "title": "How EverQuote Underwent a Serverless Transformation using AWS",
-        "link": "https://aws.amazon.com/blogs/mt/how-everquote-underwent-a-serverless-transformation-using-aws/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Explore cloud security in the age of generative AI at AWS re:Inforce 2024",
+        "link": "https://aws.amazon.com/blogs/security/explore-cloud-security-in-the-age-of-generative-ai-at-aws-reinforce-2024/"
+    },
+    {
+        "title": "Securing generative AI: data, compliance, and privacy considerations",
+        "link": "https://aws.amazon.com/blogs/security/securing-generative-ai-data-compliance-and-privacy-considerations/"
+    },
+    {
+        "title": "How to use OAuth 2.0 in Amazon Cognito: Learn about the different OAuth 2.0 grants",
+        "link": "https://aws.amazon.com/blogs/security/how-to-use-oauth-2-0-in-amazon-cognito-learn-about-the-different-oauth-2-0-grants/"
+    },
+    {
         "title": "How AWS is helping customers achieve their digital sovereignty and resilience goals",
         "link": "https://aws.amazon.com/blogs/security/how-aws-is-helping-customers-achieve-their-digital-sovereignty-and-resilience-goals/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Enable multi-admin support to manage security policies at scale with AWS Firewall Manager",
         "link": "https://aws.amazon.com/blogs/security/enable-multi-admin-support-to-manage-security-policies-at-scale-with-aws-firewall-manager/"
-    },
-    {
-        "title": "How to use Regional AWS STS endpoints",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-regional-aws-sts-endpoints/"
-    },
-    {
-        "title": "Winter 2023 SOC 1 report now available for the first time",
-        "link": "https://aws.amazon.com/blogs/security/winter-2023-soc-1-report-now-available-for-the-first-time/"
-    },
-    {
-        "title": "Modern web application authentication and authorization with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/security/modern-web-application-authentication-and-authorization-with-amazon-vpc-lattice/"
     }
 ]
