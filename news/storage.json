@@ -1,5 +1,13 @@
 [
     {
+        "title": "Designing a resilient and cost-effective backup strategy for Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/designing-a-resilient-and-cost-effective-backup-strategy-for-amazon-s3/"
+    },
+    {
+        "title": "Maintaining object immutability by automatically extending Amazon S3 Object Lock retention periods",
+        "link": "https://aws.amazon.com/blogs/storage/maintaining-object-immutability-by-automatically-extending-amazon-s3-object-lock-retention-periods/"
+    },
+    {
         "title": "Creating a simple public file repository on Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/creating-a-simple-public-file-repository-on-amazon-s3/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implementing AWS DataSync with hundreds of millions of objects",
         "link": "https://aws.amazon.com/blogs/storage/implementing-aws-datasync-with-hundreds-of-millions-of-objects/"
-    },
-    {
-        "title": "Automating application-consistent Amazon EBS Snapshots for SAP HANA databases",
-        "link": "https://aws.amazon.com/blogs/storage/automating-application-consistent-ebs-snapshots-for-sap-hana-databases/"
-    },
-    {
-        "title": "Improve application resiliency and performance with Multi-AZ Amazon FSx for OpenZFS",
-        "link": "https://aws.amazon.com/blogs/storage/improve-application-resiliency-and-performance-with-multi-az-amazon-fsx-for-openzfs/"
     }
 ]

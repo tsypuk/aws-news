@@ -12,6 +12,10 @@
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-optimize-dns-for-dual-stack-networks/"
     },
     {
+        "title": "Orchestrate disaster recovery automation using Amazon Route 53 ARC and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/orchestrate-disaster-recovery-automation-using-amazon-route-53-arc-and-aws-step-functions/"
+    },
+    {
         "title": "Streamline access to most used AWS services using VPC Endpoints",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-access-to-most-used-aws-services-using-vpc-endpoints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Managing global AWS Local Zones applications with Amazon Route 53 Geoproximity routing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/managing-global-aws-local-zones-applications-with-amazon-route53-geoproximity-routing/"
-    },
-    {
-        "title": "Understand your network traffic trends using AWS Transit Gateway Flow Logs",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/understand-your-network-traffic-trends-using-aws-transit-gateway-flow-logs/"
     }
 ]

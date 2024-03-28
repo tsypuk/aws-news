@@ -1,5 +1,13 @@
 [
     {
+        "title": "Achieve DevOps maturity with BMC AMI zAdviser Enterprise and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-devops-maturity-with-bmc-ami-zadviser-enterprise-and-amazon-bedrock/"
+    },
+    {
+        "title": "Fine-tune your Amazon Titan Image Generator G1 model using Amazon Bedrock model customization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-your-amazon-titan-image-generator-g1-model-using-amazon-bedrock-model-customization/"
+    },
+    {
         "title": "Build a receipt and invoice processing pipeline with Amazon Textract",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-receipt-and-invoice-processing-pipeline-with-amazon-textract/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Large language model inference over confidential data using AWS Nitro Enclaves",
         "link": "https://aws.amazon.com/blogs/machine-learning/large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves/"
-    },
-    {
-        "title": "How VistaPrint delivers personalized product recommendations with Amazon Personalize",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/"
-    },
-    {
-        "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/"
     }
 ]
