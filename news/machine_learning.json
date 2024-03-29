@@ -1,5 +1,13 @@
 [
     {
+        "title": "Advanced RAG patterns on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/advanced-rag-patterns-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Efficient continual pre-training LLMs for financial domains",
+        "link": "https://aws.amazon.com/blogs/machine-learning/efficient-continual-pre-training-llms-for-financial-domains/"
+    },
+    {
         "title": "Achieve DevOps maturity with BMC AMI zAdviser Enterprise and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/achieve-devops-maturity-with-bmc-ami-zadviser-enterprise-and-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Set up cross-account Amazon S3 access for Amazon SageMaker notebooks in VPC-only mode using Amazon S3 Access Points",
         "link": "https://aws.amazon.com/blogs/machine-learning/set-up-cross-account-amazon-s3-access-for-amazon-sagemaker-notebooks-in-vpc-only-mode-using-amazon-s3-access-points/"
-    },
-    {
-        "title": "Run an audience overlap analysis in AWS Clean Rooms",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-an-audience-overlap-analysis-in-aws-clean-rooms/"
-    },
-    {
-        "title": "Large language model inference over confidential data using AWS Nitro Enclaves",
-        "link": "https://aws.amazon.com/blogs/machine-learning/large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves/"
     }
 ]

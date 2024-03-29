@@ -1,5 +1,13 @@
 [
     {
+        "title": "Update your Amazon DocumentDB TLS certificates: Expiring in 2024",
+        "link": "https://aws.amazon.com/blogs/database/update-your-amazon-documentdb-tls-certificates-expiring-in-2024/"
+    },
+    {
+        "title": "Amazon Robotics achieves worldwide scale and improves engineering efficiency by 35% with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/amazon-robotics-achieves-worldwide-scale-and-improves-engineering-efficiency-by-35-with-amazon-dynamodb/"
+    },
+    {
         "title": "Achieve continuous delivery with blue/green deployments using Amazon DocumentDB database cloning and AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/achieve-continuous-delivery-with-blue-green-deployments-using-amazon-documentdb-database-cloning-and-aws-dms/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build Account Abstraction Wallets with Alchemy and AWS: Part 2",
         "link": "https://aws.amazon.com/blogs/database/build-account-abstraction-wallets-with-alchemy-and-aws-part-2/"
-    },
-    {
-        "title": "Configure Kerberos authentication in Linux clients for Amazon RDS for SQL Server with AWS Managed Microsoft AD",
-        "link": "https://aws.amazon.com/blogs/database/configure-kerberos-authentication-in-linux-clients-for-amazon-rds-for-sql-server-with-aws-managed-microsoft-ad/"
-    },
-    {
-        "title": "Choose the right type of AWS KMS key to encrypt Amazon RDS and Aurora Global Database",
-        "link": "https://aws.amazon.com/blogs/database/choose-the-right-type-of-aws-kms-key-to-encrypt-amazon-rds-and-aurora-global-database/"
     }
 ]

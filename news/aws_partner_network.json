@@ -1,5 +1,17 @@
 [
     {
+        "title": "LenelS2, a Carrier Company, Migrates Desktop Software to SaaS with Amazon AppStream 2.0",
+        "link": "https://aws.amazon.com/blogs/apn/lenels2-a-carrier-company-migrates-desktop-software-to-saas-with-amazon-appstream-2-0/"
+    },
+    {
+        "title": "Transforming Cloud Operations, Security, and Cost Optimization on AWS with iCOPS from Tech Mahindra",
+        "link": "https://aws.amazon.com/blogs/apn/transforming-cloud-operations-security-and-cost-optimization-on-aws-with-icops-from-tech-mahindra/"
+    },
+    {
+        "title": "Securing Dynamic Workloads with Arista Network Detection and Response and AWS Traffic Mirroring",
+        "link": "https://aws.amazon.com/blogs/apn/securing-dynamic-workloads-with-arista-network-detection-and-response-and-aws-traffic-mirroring/"
+    },
+    {
         "title": "How Cornerstone Built a Full-Fledged Apache Kafka Replication Using Amazon MSK Connect",
         "link": "https://aws.amazon.com/blogs/apn/how-cornerstone-built-a-full-fledged-apache-kafka-replication-using-amazon-msk-connect/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Enhancing Workload Security on AWS with Zscaler Zero Trust Exchange",
         "link": "https://aws.amazon.com/blogs/apn/enhancing-workload-security-on-aws-with-zscaler-zero-trust-exchange/"
-    },
-    {
-        "title": "How Oncoshot Built a Federated Data Platform on AWS to Accelerate Clinical Trials",
-        "link": "https://aws.amazon.com/blogs/apn/how-oncoshot-built-a-federated-data-platform-on-aws-to-accelerate-clinical-trials/"
-    },
-    {
-        "title": "How Wavicle\u2019s QuickSight Migration Solution Accelerates Adoption of Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/apn/how-wavicle-quicksight-migration-solution-accelerates-adoption-of-amazon-quicksight/"
-    },
-    {
-        "title": "How to Analyze Fastly Content Delivery Network Logs with Amazon QuickSight Powered by Generative BI",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-analyze-fastly-content-delivery-network-logs-with-amazon-quicksight-powered-by-generative-bi/"
     }
 ]
