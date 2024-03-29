@@ -1,5 +1,13 @@
 [
     {
+        "title": "Krones real-time production line monitoring with Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/krones-real-time-production-line-monitoring-with-amazon-managed-service-for-apache-flink/"
+    },
+    {
+        "title": "How Amazon optimized its high-volume financial reconciliation process with Amazon EMR for higher scalability and performance",
+        "link": "https://aws.amazon.com/blogs/big-data/how-amazon-optimized-its-high-volume-financial-reconciliation-process-with-amazon-emr-for-higher-scalability-and-performance/"
+    },
+    {
         "title": "Improve healthcare services through patient 360: A zero-ETL approach to enable near real-time data analytics",
         "link": "https://aws.amazon.com/blogs/big-data/improve-healthcare-services-through-patient-360-a-zero-etl-approach-to-enable-near-real-time-data-analytics/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How VMware Tanzu CloudHealth migrated from self-managed Kafka to Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/how-vmware-tanzu-cloudhealth-migrated-from-self-managed-kafka-to-amazon-msk/"
-    },
-    {
-        "title": "Gain insights from historical location data using Amazon Location Service and AWS analytics services",
-        "link": "https://aws.amazon.com/blogs/big-data/gain-insights-from-historical-location-data-using-amazon-location-service-and-aws-analytics-services/"
-    },
-    {
-        "title": "Build a RAG data ingestion pipeline for large-scale ML workloads",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-rag-data-ingestion-pipeline-for-large-scale-ml-workloads/"
     }
 ]
