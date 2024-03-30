@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create AWS Config rules efficiently with Generative AI",
+        "link": "https://aws.amazon.com/blogs/mt/create-aws-config-rules-efficiently-with-generative-ai/"
+    },
+    {
         "title": "Modernizing Account Management with Amazon Bedrock and AWS Control Tower",
         "link": "https://aws.amazon.com/blogs/mt/modernizing-account-management-with-amazon-bedrock-and-aws-control-tower/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance your AWS cloud infrastructure security with AWS Managed Services (AMS)",
         "link": "https://aws.amazon.com/blogs/mt/enhance-your-aws-cloud-infrastructure-security-with-aws-managed-services-ams/"
-    },
-    {
-        "title": "Simplify query authoring in AWS Config advanced queries with natural language query generation",
-        "link": "https://aws.amazon.com/blogs/mt/simplify-query-authoring-in-aws-config-advanced-queries-with-natural-language-query-generation/"
     }
 ]

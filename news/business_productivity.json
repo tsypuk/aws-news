@@ -1,5 +1,9 @@
 [
     {
+        "title": "Combat password spraying with AWS AppFabric",
+        "link": "https://aws.amazon.com/blogs/business-productivity/combat-password-spraying-with-aws-appfabric/"
+    },
+    {
         "title": "How AWS AppFabric and Dynatrace work together to enhance your SaaS application security observability",
         "link": "https://aws.amazon.com/blogs/business-productivity/aws-appfabric-how-aws-appfabric-and-dynatrace-work-together-to-enhance-your-saas-application-security-observability/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "In the Realm of Artificial Intelligence and Machine Learning: Exploring Amazon Chime SDK\u2019s Audio Science Innovations",
         "link": "https://aws.amazon.com/blogs/business-productivity/in-the-realm-of-artificial-intelligence-machine-learning-exploring-amazon-chime-sdks-audio-science-innovations/"
-    },
-    {
-        "title": "Monitoring Voice Communications: Building a Dashboard for Amazon Chime SDK Voice Connectors using CloudWatch",
-        "link": "https://aws.amazon.com/blogs/business-productivity/monitoring-voice-communications-building-a-dashboard-for-amazon-chime-sdk-voice-connectors-using-cloudwatch/"
     }
 ]
