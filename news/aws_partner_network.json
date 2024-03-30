@@ -1,5 +1,13 @@
 [
     {
+        "title": "Comprinno Simplifies Customer Data Migration to AWS to Save Time and Reduce Cost",
+        "link": "https://aws.amazon.com/blogs/apn/comprinno-simplifies-customer-data-migration-to-aws-to-save-time-and-reduce-cost/"
+    },
+    {
+        "title": "How to Enable Secure Self-Service Amazon EKS Cluster Provisioning with ArgoCD, Kyverno, and Nirmata Policy Manager",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-enable-secure-self-service-amazon-eks-cluster-provisioning-with-argocd-kyverno-and-nirmata-policy-manager/"
+    },
+    {
         "title": "LenelS2, a Carrier Company, Migrates Desktop Software to SaaS with Amazon AppStream 2.0",
         "link": "https://aws.amazon.com/blogs/apn/lenels2-a-carrier-company-migrates-desktop-software-to-saas-with-amazon-appstream-2-0/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Boost Chip Design with AI: How Synopsys DSO.ai on AWS Delivers Lower Power and Faster Time-to-Market",
         "link": "https://aws.amazon.com/blogs/apn/boost-chip-design-with-ai-how-synopsys-dso-ai-on-aws-delivers-lower-power-and-faster-time-to-market/"
-    },
-    {
-        "title": "Achieving Resilient Cloud Broadcasting with Amagi CLOUDPORT on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/achieving-resilient-cloud-broadcasting-with-amagi-cloudport-on-aws/"
-    },
-    {
-        "title": "Enhancing Workload Security on AWS with Zscaler Zero Trust Exchange",
-        "link": "https://aws.amazon.com/blogs/apn/enhancing-workload-security-on-aws-with-zscaler-zero-trust-exchange/"
     }
 ]

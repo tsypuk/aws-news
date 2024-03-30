@@ -1,5 +1,13 @@
 [
     {
+        "title": "Nexthink scales to trillions of events per day with Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/nexthink-scales-to-trillions-of-events-per-day-with-amazon-msk/"
+    },
+    {
+        "title": "Enhance monitoring and debugging for AWS Glue jobs using new job observability metrics, Part 3: Visualization and trend analysis using Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics-part-3-visualization-and-trend-analysis-using-amazon-quicksight/"
+    },
+    {
         "title": "Krones real-time production line monitoring with Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/krones-real-time-production-line-monitoring-with-amazon-managed-service-for-apache-flink/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Multicloud data lake analytics with Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/multicloud-data-lake-analytics-with-amazon-athena/"
-    },
-    {
-        "title": "Amazon OpenSearch H2 2023 in review",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-h2-2023-in-review/"
-    },
-    {
-        "title": "How VMware Tanzu CloudHealth migrated from self-managed Kafka to Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/how-vmware-tanzu-cloudhealth-migrated-from-self-managed-kafka-to-amazon-msk/"
     }
 ]

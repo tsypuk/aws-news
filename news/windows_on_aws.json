@@ -1,5 +1,9 @@
 [
     {
+        "title": "Containerize SQL Server workloads with Amazon EKS and DH2i",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-workloads-with-amazon-eks-and-dh2i/"
+    },
+    {
         "title": "Update AWS Tools for PowerShell at scale with AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/update-aws-tools-for-powershell-at-scale-with-aws-systems-manager/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Using Amazon ECS with AWS Fargate to automate Azure DevOps Hosted Agents",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ecs-with-aws-fargate-for-azure-devops-hosted-agents/"
-    },
-    {
-        "title": "Secure API authorization in Amazon API Gateway using Microsoft Entra ID",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/secure-api-authorization-in-amazon-api-gateway-using-microsoft-entra-id/"
     }
 ]

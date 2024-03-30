@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon GuardDuty EC2 Runtime Monitoring is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-guardduty-ec2-runtime-monitoring-is-now-generally-available/"
+    },
+    {
         "title": "Run large-scale simulations with AWS Batch multi-container jobs",
         "link": "https://aws.amazon.com/blogs/aws/run-large-scale-simulations-with-aws-batch-multi-container-jobs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Knowledge Bases for Amazon Bedrock now supports Amazon Aurora PostgreSQL and Cohere embedding models",
         "link": "https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-amazon-aurora-postgresql-and-cohere-embedding-models/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2014 Happy Lunar New Year, IaC generator, NFL\u2019s digital athlete, AWS Cloud Clubs, and more \u2014 February 12, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-happy-lunar-new-year-iac-generator-nfls-digital-athlete-aws-cloud-clubs-and-more-february-12-2024/"
     }
 ]
