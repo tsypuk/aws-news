@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bringing delivery closer to end users with Amazon CloudFront Embedded POPs",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/bringing-delivery-closer-to-end-users-with-amazon-cloudfront-embedded-pops/"
+    },
+    {
         "title": "Introducing mTLS for Application Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-mtls-for-application-load-balancer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using ENA Express to improve workload performance on AWS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-ena-express-to-improve-workload-performance-on-aws/"
-    },
-    {
-        "title": "Managing global AWS Local Zones applications with Amazon Route 53 Geoproximity routing",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/managing-global-aws-local-zones-applications-with-amazon-route53-geoproximity-routing/"
     }
 ]
