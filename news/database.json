@@ -1,5 +1,13 @@
 [
     {
+        "title": "Replicate data between partitioned and non-partitioned tables using trigger functions in Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/replicate-data-between-partitioned-and-non-partitioned-tables-using-trigger-functions-in-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/"
+    },
+    {
+        "title": "Accelerate your database migration journey using AWS DMS Schema Conversion",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-using-aws-dms-schema-conversion/"
+    },
+    {
         "title": "Update your Amazon DocumentDB TLS certificates: Expiring in 2024",
         "link": "https://aws.amazon.com/blogs/database/update-your-amazon-documentdb-tls-certificates-expiring-in-2024/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use AWS Nitro Enclaves to build Cubist CubeSigner, a secure and highly reliable key management platform for Ethereum validators and beyond",
         "link": "https://aws.amazon.com/blogs/database/use-aws-nitro-enclaves-to-build-cubist-cubesigner-a-secure-and-highly-reliable-key-management-platform-for-ethereum-validators-and-beyond/"
-    },
-    {
-        "title": "Accelerate cross-account Amazon RDS refreshes with incremental snapshots",
-        "link": "https://aws.amazon.com/blogs/database/accelerate-cross-account-amazon-rds-refreshes-with-incremental-snapshots/"
-    },
-    {
-        "title": "Build Account Abstraction Wallets with Alchemy and AWS: Part 2",
-        "link": "https://aws.amazon.com/blogs/database/build-account-abstraction-wallets-with-alchemy-and-aws-part-2/"
     }
 ]

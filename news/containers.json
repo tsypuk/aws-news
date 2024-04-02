@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EKS-Optimized Amazon Linux 2023 AMIs Now Available",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-optimized-amazon-linux-2023-amis-now-available/"
+    },
+    {
         "title": "Protecting your Amazon EKS web apps with\u00a0AWS WAF",
         "link": "https://aws.amazon.com/blogs/containers/protecting-your-amazon-eks-web-apps-with-aws-waf/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How VMware Tanzu CloudHealth modernized container workloads from self-managed Kubernetes to Amazon Elastic Kubernetes Service",
         "link": "https://aws.amazon.com/blogs/containers/how-vmware-tanzu-cloudhealth-modernized-container-workloads-from-self-managed-kubernetes-to-amazon-elastic-kubernetes-service/"
-    },
-    {
-        "title": "How Perry Street Software Implemented Resilient Deployment Strategies with Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/containers/how-perry-street-software-implemented-resilient-deployment-strategies-with-amazon-ecs/"
     }
 ]

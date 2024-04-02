@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless ICYMI Q1 2024",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2024/"
+    },
+    {
         "title": "Applying Spot-to-Spot consolidation best practices with Karpenter",
         "link": "https://aws.amazon.com/blogs/compute/applying-spot-to-spot-consolidation-best-practices-with-karpenter/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Python 3.12 runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/python-3-12-runtime-now-available-in-aws-lambda/"
-    },
-    {
-        "title": "Introducing support for read-only management events in Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-support-for-read-only-management-events-in-amazon-eventbridge/"
     }
 ]

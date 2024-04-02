@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scale LLMs with PyTorch 2.0 FSDP on Amazon EKS \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-llms-with-pytorch-2-0-fsdp-on-amazon-eks-part-2/"
+    },
+    {
         "title": "Provide live agent assistance for your chatbot users with Amazon Lex and Talkdesk cloud contact center",
         "link": "https://aws.amazon.com/blogs/machine-learning/provide-live-agent-assistance-for-your-chatbot-users-with-amazon-lex-and-talkdesk-cloud-contact-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gemma is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Moderate audio and text chats using AWS AI services and LLMs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/moderate-audio-and-text-chats-using-aws-ai-services-and-llms/"
     }
 ]
