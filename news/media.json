@@ -1,5 +1,9 @@
 [
     {
+        "title": "Leverage AWS Resilience Lifecycle Framework to assess and improve the resilience of application using AWS Resilience Hub",
+        "link": "https://aws.amazon.com/blogs/mt/leverage-aws-resilience-lifecycle-framework-to-assess-and-improve-the-resilience-of-application-using-aws-resilience-hub/"
+    },
+    {
         "title": "Accelerate your cloud migration journey to unlock innovation, increase resiliency, and optimize cost",
         "link": "https://aws.amazon.com/blogs/mt/accelerate-your-cloud-migration-journey-to-unlock-innovation-increase-resiliency-and-optimize-cost/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance Kubernetes Operational Visibility with AWS Chatbot",
         "link": "https://aws.amazon.com/blogs/mt/enhance-kubernetes-operational-visibility-with-aws-chatbot/"
-    },
-    {
-        "title": "Anonymizing Sensitive Data of the Migration Evaluator\u2019s Export File",
-        "link": "https://aws.amazon.com/blogs/mt/anonymizing-sensitive-data-of-the-migration-evaluators-export-file/"
     }
 ]

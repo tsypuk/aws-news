@@ -1,5 +1,13 @@
 [
     {
+        "title": "AI recommendations for descriptions in Amazon DataZone for enhanced business data cataloging and discovery is now generally available",
+        "link": "https://aws.amazon.com/blogs/big-data/ai-recommendations-for-descriptions-in-amazon-datazone-for-enhanced-business-data-cataloging-and-discovery-is-now-generally-available/"
+    },
+    {
+        "title": "Deliver decompressed Amazon CloudWatch Logs to Amazon S3 and Splunk using Amazon Data Firehose",
+        "link": "https://aws.amazon.com/blogs/big-data/deliver-decompressed-amazon-cloudwatch-logs-to-amazon-s3-and-splunk-using-amazon-data-firehose/"
+    },
+    {
         "title": "Nexthink scales to trillions of events per day with Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/nexthink-scales-to-trillions-of-events-per-day-with-amazon-msk/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Managed Service for Apache Flink now supports Apache Flink version 1.18",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-now-supports-apache-flink-version-1-18/"
-    },
-    {
-        "title": "Enrich your customer data with geospatial insights using Amazon Redshift, AWS Data Exchange, and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/big-data/enrich-your-customer-data-with-geospatial-insights-using-amazon-redshift-aws-data-exchange-and-amazon-quicksight/"
-    },
-    {
-        "title": "Multicloud data lake analytics with Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/multicloud-data-lake-analytics-with-amazon-athena/"
     }
 ]
