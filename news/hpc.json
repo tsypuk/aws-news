@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using a digital twin for sensitivity analysis to determine sensor placement in a roll-to-roll manufacturing web-line",
+        "link": "https://aws.amazon.com/blogs/hpc/using-a-digital-twin-for-sensitivity-analysis-to-determine-sensor-placement-in-a-roll-to-roll-manufacturing-web-line/"
+    },
+    {
         "title": "Renewable energy transition: examining the impacts of wind energy through simulation",
         "link": "https://aws.amazon.com/blogs/hpc/renewable-energy-transition-examining-the-impacts-of-wind-energy-through-simulation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New: Research and Engineering Studio on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/new-research-and-engineering-studio-on-aws/"
-    },
-    {
-        "title": "Deep-dive into Ansys Fluent performance on Ansys Gateway powered by AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/deep-dive-into-ansys-fluent-performance-on-ansys-gateway-powered-by-aws/"
     }
 ]

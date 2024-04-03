@@ -1,5 +1,9 @@
 [
     {
+        "title": "Operationalize generative AI applications on AWS: Part I \u2013 Overview of LLMOps solution",
+        "link": "https://aws.amazon.com/blogs/gametech/operationalize-generative-ai-applications-on-aws-part-i-overview-of-llmops-solution/"
+    },
+    {
         "title": "How to use Amazon GameLift FlexMatch to implement block and avoid lists",
         "link": "https://aws.amazon.com/blogs/gametech/using-amazon-gamelift-flexmatch-block-avoid-lists/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Setting up a Minecraft Java server on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/gametech/setting-up-a-minecraft-java-server-on-amazon-ec2/"
-    },
-    {
-        "title": "How thatgamecompany Fosters Human Connections Through Innovative Technology & Developer Mindset",
-        "link": "https://aws.amazon.com/blogs/gametech/how-thatgamecompany-fosters-human-connections-through-innovative-technology-developer-mindset/"
     }
 ]
