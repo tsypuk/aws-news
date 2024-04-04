@@ -1,5 +1,17 @@
 [
     {
+        "title": "Seamlessly transition between no-code and code-first machine learning with Amazon SageMaker Canvas and Amazon SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/seamlessly-transition-between-no-code-and-code-first-machine-learning-with-amazon-sagemaker-canvas-and-amazon-sagemaker-studio/"
+    },
+    {
+        "title": "Build a contextual text and image search engine for product recommendations using Amazon Bedrock and Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-text-and-image-search-engine-for-product-recommendations-using-amazon-bedrock-and-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "AWS and Mistral AI commit to democratizing generative AI with a strengthened collaboration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-and-mistral-ai-commit-to-democratizing-generative-ai-with-a-strengthened-collaboration/"
+    },
+    {
         "title": "Generative AI roadshow in North America with AWS and Hugging Face",
         "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-roadshow-in-north-america-with-aws-and-hugging-face/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Fine-tune Code Llama on Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-code-llama-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Transform one-on-one customer interactions: Build speech-capable order processing agents with AWS and generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/"
-    },
-    {
-        "title": "Federated learning on AWS using FedML, Amazon EKS, and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/federated-learning-on-aws-using-fedml-amazon-eks-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Enable data sharing through federated learning: A policy approach for chief digital officers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enable-data-sharing-through-federated-learning-a-policy-approach-for-chief-digital-officers/"
     }
 ]

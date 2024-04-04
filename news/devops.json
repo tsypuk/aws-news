@@ -1,5 +1,9 @@
 [
     {
+        "title": "Creating a User Activity Dashboard for Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/"
+    },
+    {
         "title": "Terraform CI/CD and testing on AWS with the new Terraform Test Framework",
         "link": "https://aws.amazon.com/blogs/devops/terraform-ci-cd-and-testing-on-aws-with-the-new-terraform-test-framework/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Blue/Green\u00a0Deployments with Amazon ECS using Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-with-amazon-ecs-using-amazon-codecatalyst/"
-    },
-    {
-        "title": "Automate safe AWS CloudFormation deployments from GitHub",
-        "link": "https://aws.amazon.com/blogs/devops/automate-safe-aws-cloudformation-deployments-from-github/"
     }
 ]
