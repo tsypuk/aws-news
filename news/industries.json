@@ -1,17 +1,5 @@
 [
     {
-        "title": "Building a Scalable Loss Prevention and Video Intelligence Service using AI and AWS",
-        "link": "https://aws.amazon.com/blogs/industries/building-a-scalable-loss-prevention-and-video-intelligence-service-using-ai-and-aws/"
-    },
-    {
-        "title": "Seeq and AspenTech accelerate self-service industrial analytics on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/seeq-and-aspentech-accelerate-self-service-industrial-analytics-on-aws/"
-    },
-    {
-        "title": "FenixCommerce Builds a Multicarrier Shipping Solution using Predictive AI on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/fenixcommerce-builds-a-multicarrier-shipping-solution-using-predictive-ai-on-aws/"
-    },
-    {
         "title": "Protect 5G subscriber credentials in the Cloud with AWS Nitro Enclaves",
         "link": "https://aws.amazon.com/blogs/industries/protect-5g-subscriber-credentials-in-the-cloud-with-aws-nitro-enclaves/"
     },
@@ -38,5 +26,17 @@
     {
         "title": "Flexible EDA licensing in AWS with Synopsys Cloud BYOC with FlexEDA",
         "link": "https://aws.amazon.com/blogs/industries/flexible-eda-licensing-in-aws-with-synopsys-cloud-byoc-with-flexeda/"
+    },
+    {
+        "title": "Can AI Reason Like a Clinician? An Exploration with Arterial Blood Gas Analyses",
+        "link": "https://aws.amazon.com/blogs/industries/can-ai-reason-like-a-clinician-an-exploration-with-arterial-blood-gas-analyses/"
+    },
+    {
+        "title": "How contract manufacturers can increase efficiency with generative AI",
+        "link": "https://aws.amazon.com/blogs/industries/how-contract-manufacturers-can-increase-efficiency-with-generative-ai/"
+    },
+    {
+        "title": "Generative AI for Semiconductor Design and Verification",
+        "link": "https://aws.amazon.com/blogs/industries/generative-ai-for-semiconductor-design/"
     }
 ]

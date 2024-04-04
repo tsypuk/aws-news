@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate SQL Server discovery and assessment to accelerate migration to AWS",
+        "link": "https://aws.amazon.com/blogs/database/automate-sql-server-discovery-and-assessment-to-accelerate-migration-to-aws/"
+    },
+    {
         "title": "Common financial services use cases for Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/common-financial-services-use-cases-for-amazon-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify private connectivity to Amazon DynamoDB with AWS PrivateLink",
         "link": "https://aws.amazon.com/blogs/database/simplify-private-connectivity-to-amazon-dynamodb-with-aws-privatelink/"
-    },
-    {
-        "title": "Amazon Aurora MySQL version 2 (with MySQL 5.7 compatibility) to version 3 (with MySQL 8.0 compatibility) upgrade checklist, Part 2",
-        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-version-2-with-mysql-5-7-compatibility-to-version-3-with-mysql-8-0-compatibility-upgrade-checklist-part-2/"
     }
 ]

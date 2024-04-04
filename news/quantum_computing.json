@@ -1,5 +1,9 @@
 [
     {
+        "title": "Hyperparameter optimization for quantum machine learning with Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/hyperparameter-optimization-for-quantum-machine-learning-with-amazon-braket/"
+    },
+    {
         "title": "Accelerating simulated quantum annealing on AWS Graviton processors",
         "link": "https://aws.amazon.com/blogs/quantum-computing/accelerating-simulated-quantum-annealing-on-aws-graviton-processors/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "A detailed, end-to-end assessment of a quantum algorithm for portfolio optimization, released by Goldman Sachs and AWS",
         "link": "https://aws.amazon.com/blogs/quantum-computing/a-detailed-end-to-end-assessment-of-a-quantum-algorithm-for-portfolio-optimization-released-by-goldman-sachs-and-aws/"
-    },
-    {
-        "title": "Towards practical molecular electronic structure simulations on NISQ devices with Amazon Braket and Kvantify\u2019s FAST-VQE algorithm",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/towards-practical-molecular-electronic-structure-simulations-on-nisq-devices-with-amazon-braket-and-kvantifys-fast-vqe-algorithm/"
     }
 ]

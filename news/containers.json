@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlocking AWS Fargate feature for attaching Amazon EBS Volumes to ECS Tasks",
+        "link": "https://aws.amazon.com/blogs/containers/15770-2/"
+    },
+    {
         "title": "Amazon EKS-Optimized Amazon Linux 2023 AMIs Now Available",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-optimized-amazon-linux-2023-amis-now-available/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Monitoring Windows pods with Prometheus and Grafana",
         "link": "https://aws.amazon.com/blogs/containers/monitoring-windows-pods-with-prometheus-and-grafana/"
-    },
-    {
-        "title": "How VMware Tanzu CloudHealth modernized container workloads from self-managed Kubernetes to Amazon Elastic Kubernetes Service",
-        "link": "https://aws.amazon.com/blogs/containers/how-vmware-tanzu-cloudhealth-modernized-container-workloads-from-self-managed-kubernetes-to-amazon-elastic-kubernetes-service/"
     }
 ]
