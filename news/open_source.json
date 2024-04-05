@@ -1,5 +1,9 @@
 [
     {
+        "title": "Why AWS Supports Valkey",
+        "link": "https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/"
+    },
+    {
         "title": "Accelerate your Application Modernization to Amazon EKS with Konveyor",
         "link": "https://aws.amazon.com/blogs/opensource/accelerate-your-application-modernization-to-amazon-eks-with-konveyor/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Behind the Scenes on AWS Contributions to Open Source Databases",
         "link": "https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-open-source-databases/"
-    },
-    {
-        "title": "Cloud Native Operational Excellence (CNOE): A Joint Effort to Share Internal Developer Platform Tools and Best Practices",
-        "link": "https://aws.amazon.com/blogs/opensource/cloud-native-operational-excellence-cnoe-a-joint-effort-to-share-internal-developer-platform-tools-and-best-practices/"
     }
 ]

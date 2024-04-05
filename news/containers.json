@@ -1,7 +1,15 @@
 [
     {
+        "title": "Amazon VPC CNI introduces Enhanced Subnet Discovery",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-vpc-cni-introduces-enhanced-subnet-discovery/"
+    },
+    {
+        "title": "Quora achieved 3x lower latency and 25% lower Costs by modernizing model serving with Nvidia Triton on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/quora-3x-faster-machine-learning-25-lower-costs-with-nvidia-triton-on-amazon-eks/"
+    },
+    {
         "title": "Unlocking AWS Fargate feature for attaching Amazon EBS Volumes to ECS Tasks",
-        "link": "https://aws.amazon.com/blogs/containers/15770-2/"
+        "link": "https://aws.amazon.com/blogs/containers/unlocking-aws-fargate-feature-for-attaching-amazon-ebs-volumes-to-ecs-tasks/"
     },
     {
         "title": "Amazon EKS-Optimized Amazon Linux 2023 AMIs Now Available",
@@ -30,13 +38,5 @@
     {
         "title": "Distributed machine learning with Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/distributed-machine-learning-with-amazon-ecs/"
-    },
-    {
-        "title": "How Grover saves costs with 80% Spot in production using Karpenter with Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/how-grover-saves-costs-with-80-spot-in-production-using-karpenter-with-amazon-eks/"
-    },
-    {
-        "title": "Monitoring Windows pods with Prometheus and Grafana",
-        "link": "https://aws.amazon.com/blogs/containers/monitoring-windows-pods-with-prometheus-and-grafana/"
     }
 ]
