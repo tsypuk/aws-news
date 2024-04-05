@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Aura from Unity revolutionized their big data pipeline with Amazon Redshift Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/how-aura-from-unity-revolutionized-their-big-data-pipeline-with-amazon-redshift-serverless/"
+    },
+    {
+        "title": "Automate large-scale data validation using Amazon EMR and Apache Griffin",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-large-scale-data-validation-using-amazon-emr-and-apache-griffin/"
+    },
+    {
         "title": "Amazon DataZone now integrates with AWS Glue Data Quality and external data quality solutions",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-now-integrates-with-aws-glue-data-quality-and-external-data-quality-solutions/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Unlock insights on Amazon RDS for MySQL data with zero-ETL integration to Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-insights-on-amazon-rds-for-mysql-data-with-zero-etl-integration-to-amazon-redshift/"
-    },
-    {
-        "title": "Announcing data filtering for Amazon Aurora MySQL zero-ETL integration with Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/announcing-data-filtering-for-amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift/"
-    },
-    {
-        "title": "Invoke AWS Lambda functions from cross-account Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/big-data/invoke-aws-lambda-functions-from-cross-account-amazon-kinesis-data-streams/"
     }
 ]

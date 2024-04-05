@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a news recommender application with Amazon Personalize",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-news-recommender-application-with-amazon-personalize/"
+    },
+    {
+        "title": "Nielsen Sports sees 75% cost reduction in video analysis with Amazon SageMaker multi-model endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nielsen-sports-sees-75-cost-reduction-in-video-analysis-with-amazon-sagemaker-multi-model-endpoints/"
+    },
+    {
         "title": "Seamlessly transition between no-code and code-first machine learning with Amazon SageMaker Canvas and Amazon SageMaker Studio",
         "link": "https://aws.amazon.com/blogs/machine-learning/seamlessly-transition-between-no-code-and-code-first-machine-learning-with-amazon-sagemaker-canvas-and-amazon-sagemaker-studio/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhance performance of generative language models with self-consistency prompting on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-performance-of-generative-language-models-with-self-consistency-prompting-on-amazon-bedrock/"
-    },
-    {
-        "title": "Optimize price-performance of LLM inference on NVIDIA GPUs using the Amazon SageMaker integration with NVIDIA NIM Microservices",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-price-performance-of-llm-inference-on-nvidia-gpus-using-the-amazon-sagemaker-integration-with-nvidia-nim-microservices/"
-    },
-    {
-        "title": "Fine-tune Code Llama on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-code-llama-on-amazon-sagemaker-jumpstart/"
     }
 ]
