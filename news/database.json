@@ -1,5 +1,13 @@
 [
     {
+        "title": "Upgrade Amazon DocumentDB 3.6 to 5.0 with near-zero downtime",
+        "link": "https://aws.amazon.com/blogs/database/upgrade-amazon-documentdb-3-6-to-5-0-with-near-zero-downtime/"
+    },
+    {
+        "title": "Deploy Amazon ElastiCache for Redis clusters using AWS CDK and TypeScript",
+        "link": "https://aws.amazon.com/blogs/database/deploy-amazon-elasticache-for-redis-clusters-using-aws-cdk-and-typescript/"
+    },
+    {
         "title": "Automate SQL Server discovery and assessment to accelerate migration to AWS",
         "link": "https://aws.amazon.com/blogs/database/automate-sql-server-discovery-and-assessment-to-accelerate-migration-to-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Unlocking efficiency: Integrate AWS Lambda with Amazon RDS for Oracle to automate custom script operations",
         "link": "https://aws.amazon.com/blogs/database/unlocking-efficiency-integrate-aws-lambda-with-amazon-rds-for-oracle-to-automate-custom-script-operations/"
-    },
-    {
-        "title": "Bulk update Amazon DynamoDB tables with AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/database/bulk-update-amazon-dynamodb-tables-with-aws-step-functions/"
-    },
-    {
-        "title": "Simplify private connectivity to Amazon DynamoDB with AWS PrivateLink",
-        "link": "https://aws.amazon.com/blogs/database/simplify-private-connectivity-to-amazon-dynamodb-with-aws-privatelink/"
     }
 ]
