@@ -1,5 +1,13 @@
 [
     {
+        "title": "Improving Content Moderation with Amazon Rekognition Bulk Analysis and Custom Moderation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improving-content-moderation-with-amazon-rekognition-bulk-analysis-and-custom-moderation/"
+    },
+    {
+        "title": "Understanding and predicting urban heat islands at Gramener using Amazon SageMaker geospatial capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/understanding-and-predicting-urban-heat-islands-at-gramener-using-amazon-sagemaker-geospatial-capabilities/"
+    },
+    {
         "title": "Build a news recommender application with Amazon Personalize",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-news-recommender-application-with-amazon-personalize/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Boost your content editing with Contentful and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-your-content-editing-with-contentful-and-amazon-bedrock/"
-    },
-    {
-        "title": "Unlock the potential of generative AI in industrial operations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-the-potential-of-generative-ai-in-industrial-operations/"
-    },
-    {
-        "title": "Enhance performance of generative language models with self-consistency prompting on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-performance-of-generative-language-models-with-self-consistency-prompting-on-amazon-bedrock/"
     }
 ]

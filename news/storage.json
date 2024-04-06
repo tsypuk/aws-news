@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protect Hyper-V workloads with AWS Elastic Disaster Recovery",
+        "link": "https://aws.amazon.com/blogs/storage/protect-hyper-v-workloads-with-aws-elastic-disaster-recovery/"
+    },
+    {
         "title": "DoorDash saves millions annually using Amazon S3 Storage Lens",
         "link": "https://aws.amazon.com/blogs/storage/doordash-saves-millions-annually-using-amazon-s3-storage-lens/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Understand Amazon S3 data transfer costs by classifying requests with Amazon Athena",
         "link": "https://aws.amazon.com/blogs/storage/understand-amazon-s3-data-transfer-costs-by-classifying-requests-with-amazon-athena/"
-    },
-    {
-        "title": "Optimizing MMAP workloads on Amazon FSx for Lustre file systems",
-        "link": "https://aws.amazon.com/blogs/storage/optimizing-mmap-workloads-on-amazon-fsx-for-lustre-file-systems/"
     }
 ]
