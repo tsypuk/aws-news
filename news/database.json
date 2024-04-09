@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run Polygon nodes on AWS",
+        "link": "https://aws.amazon.com/blogs/database/run-polygon-nodes-on-aws/"
+    },
+    {
         "title": "Upgrade Amazon DocumentDB 3.6 to 5.0 with near-zero downtime",
         "link": "https://aws.amazon.com/blogs/database/upgrade-amazon-documentdb-3-6-to-5-0-with-near-zero-downtime/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify cross-account access control with Amazon DynamoDB using resource-based policies",
         "link": "https://aws.amazon.com/blogs/database/simplify-cross-account-access-control-with-amazon-dynamodb-using-resource-based-policies/"
-    },
-    {
-        "title": "Unlocking efficiency: Integrate AWS Lambda with Amazon RDS for Oracle to automate custom script operations",
-        "link": "https://aws.amazon.com/blogs/database/unlocking-efficiency-integrate-aws-lambda-with-amazon-rds-for-oracle-to-automate-custom-script-operations/"
     }
 ]

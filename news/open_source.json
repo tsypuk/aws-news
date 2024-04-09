@@ -1,5 +1,9 @@
 [
     {
+        "title": "Lean Into Verified Software Development",
+        "link": "https://aws.amazon.com/blogs/opensource/lean-into-verified-software-development/"
+    },
+    {
         "title": "Why AWS Supports Valkey",
         "link": "https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing an Internal Developer Platform (IDP) with Crossplane on EKS at SIXT",
         "link": "https://aws.amazon.com/blogs/opensource/enhancing-internal-developer-platform-idp-with-crossplane-on-eks-at-sixt/"
-    },
-    {
-        "title": "Behind the Scenes on AWS Contributions to Open Source Databases",
-        "link": "https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-open-source-databases/"
     }
 ]

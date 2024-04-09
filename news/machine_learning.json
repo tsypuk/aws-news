@@ -1,5 +1,21 @@
 [
     {
+        "title": "Knowledge Bases for Amazon Bedrock now supports metadata filtering to improve retrieval accuracy",
+        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-metadata-filtering-to-improve-retrieval-accuracy/"
+    },
+    {
+        "title": "Build knowledge-powered conversational applications using LlamaIndex and Llama 2-Chat",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-knowledge-powered-conversational-applications-using-llamaindex-and-llama-2-chat/"
+    },
+    {
+        "title": "Use everyday language to search and retrieve data with Mixtral 8x7B on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-everyday-language-to-search-and-retrieve-data-with-mixtral-8x7b-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Boost inference performance for Mixtral and Llama 2 models with new Amazon SageMaker containers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-inference-performance-for-mixtral-and-llama-2-models-with-new-amazon-sagemaker-containers/"
+    },
+    {
         "title": "Improving Content Moderation with Amazon Rekognition Bulk Analysis and Custom Moderation",
         "link": "https://aws.amazon.com/blogs/machine-learning/improving-content-moderation-with-amazon-rekognition-bulk-analysis-and-custom-moderation/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Achieve DevOps maturity with BMC AMI zAdviser Enterprise and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/achieve-devops-maturity-with-bmc-ami-zadviser-enterprise-and-amazon-bedrock/"
-    },
-    {
-        "title": "Fine-tune your Amazon Titan Image Generator G1 model using Amazon Bedrock model customization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-your-amazon-titan-image-generator-g1-model-using-amazon-bedrock-model-customization/"
-    },
-    {
-        "title": "Build a receipt and invoice processing pipeline with Amazon Textract",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-receipt-and-invoice-processing-pipeline-with-amazon-textract/"
-    },
-    {
-        "title": "Best practices for building secure applications with Amazon Transcribe",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-secure-applications-with-amazon-transcribe/"
-    },
-    {
-        "title": "Boost your content editing with Contentful and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boost-your-content-editing-with-contentful-and-amazon-bedrock/"
     }
 ]
