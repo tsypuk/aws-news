@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to Send SMS Using a Sender ID with Amazon Pinpoint",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-sms-using-a-sender-id-with-amazon-pinpoint/"
+    },
+    {
         "title": "How large senders can move from sandbox to production using Amazon SES?",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-large-senders-can-move-from-sandbox-to-production-using-amazon-ses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve email delivery rates with email delivery and engagement history for every email",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improve-email-delivery-rates-with-email-delivery-and-engagement-history-for-every-email/"
-    },
-    {
-        "title": "Migrating to a cloud ESP: How to onboard to Amazon SES",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/migrating-to-amazon-ses-a-comprehensive-guide/"
     }
 ]
