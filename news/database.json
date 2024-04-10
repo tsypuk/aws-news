@@ -1,5 +1,13 @@
 [
     {
+        "title": "Best practices for successful SSL connections to Amazon RDS for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/best-practices-for-successful-ssl-connections-to-amazon-rds-for-oracle/"
+    },
+    {
+        "title": "Accelerate database development in Amazon RDS and Amazon Aurora with Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-database-development-in-amazon-rds-and-amazon-aurora-with-amazon-codewhisperer/"
+    },
+    {
         "title": "Run Polygon nodes on AWS",
         "link": "https://aws.amazon.com/blogs/database/run-polygon-nodes-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Demystifying AWS Backup for Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/demystifying-aws-backup-for-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Performant, Fine Grained Authorization at scale powered by Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/performant-fine-grained-authorization-at-scale-powered-by-amazon-dynamodb/"
-    },
-    {
-        "title": "Simplify cross-account access control with Amazon DynamoDB using resource-based policies",
-        "link": "https://aws.amazon.com/blogs/database/simplify-cross-account-access-control-with-amazon-dynamodb-using-resource-based-policies/"
     }
 ]

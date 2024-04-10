@@ -1,5 +1,9 @@
 [
     {
+        "title": "Intel Open Omics Acceleration Framework on AWS: fast, cost-efficient, and seamless",
+        "link": "https://aws.amazon.com/blogs/hpc/intel-open-omics-acceleration-framework-on-aws-fast-cost-efficient-and-seamless/"
+    },
+    {
         "title": "Using a digital twin for sensitivity analysis to determine sensor placement in a roll-to-roll manufacturing web-line",
         "link": "https://aws.amazon.com/blogs/hpc/using-a-digital-twin-for-sensitivity-analysis-to-determine-sensor-placement-in-a-roll-to-roll-manufacturing-web-line/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Slurm REST API in AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/slurm-rest-api-in-aws-parallelcluster/"
-    },
-    {
-        "title": "New: Research and Engineering Studio on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/new-research-and-engineering-studio-on-aws/"
     }
 ]

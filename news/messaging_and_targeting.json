@@ -1,5 +1,9 @@
 [
     {
+        "title": "An Introduction to Amazon WorkMail Audit Logging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/an-introduction-to-amazon-workmail-audit-logging/"
+    },
+    {
         "title": "How to Send SMS Using a Sender ID with Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-sms-using-a-sender-id-with-amazon-pinpoint/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy Amazon QuickSight dashboard for Amazon Pinpoint engagement events.",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/deploy-amazon-quicksight-dashboard-for-amazon-pinpoint-engagement-events/"
-    },
-    {
-        "title": "Improve email delivery rates with email delivery and engagement history for every email",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improve-email-delivery-rates-with-email-delivery-and-engagement-history-for-every-email/"
     }
 ]

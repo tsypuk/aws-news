@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate Business Logic from Database to Application for Faster Innovation and Flexibility",
+        "link": "https://aws.amazon.com/blogs/mt/migrate-business-logic-from-database-to-application-for-faster-innovation-and-flexibility/"
+    },
+    {
         "title": "Leverage AWS Resilience Lifecycle Framework to assess and improve the resilience of application using AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/leverage-aws-resilience-lifecycle-framework-to-assess-and-improve-the-resilience-of-application-using-aws-resilience-hub/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate troubleshooting with structured logs in Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/accelerate-troubleshooting-with-structured-logs-in-amazon-cloudwatch/"
-    },
-    {
-        "title": "Enhance Kubernetes Operational Visibility with AWS Chatbot",
-        "link": "https://aws.amazon.com/blogs/mt/enhance-kubernetes-operational-visibility-with-aws-chatbot/"
     }
 ]
