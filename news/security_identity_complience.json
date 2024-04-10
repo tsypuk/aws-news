@@ -1,5 +1,9 @@
 [
     {
+        "title": "Detecting and remediating inactive user accounts with Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/security/detecting-and-remediating-inactive-user-accounts-with-amazon-cognito/"
+    },
+    {
         "title": "TLS inspection configuration for encrypted egress traffic and AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/tls-inspection-configuration-for-encrypted-egress-traffic-and-aws-network-firewall/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Payment Cryptography is PCI PIN and P2PE certified",
         "link": "https://aws.amazon.com/blogs/security/aws-payment-cryptography-is-pci-pin-and-p2pe-certified/"
-    },
-    {
-        "title": "2023 H2 IRAP report is now available on AWS Artifact for Australian customers",
-        "link": "https://aws.amazon.com/blogs/security/2023-h2-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
     }
 ]
