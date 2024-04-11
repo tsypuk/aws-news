@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Snap Inc. secures its services with Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/how-snap-inc-secures-its-services-with-amazon-eks/"
+    },
+    {
+        "title": "Adding Storage using OpenEBS on EKS Anywhere",
+        "link": "https://aws.amazon.com/blogs/containers/adding-storage-using-openebs-on-eks-anywhere/"
+    },
+    {
         "title": "Amazon VPC CNI introduces Enhanced Subnet Discovery",
         "link": "https://aws.amazon.com/blogs/containers/amazon-vpc-cni-introduces-enhanced-subnet-discovery/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Using CRaC to reduce Java startup times on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/using-crac-to-reduce-java-startup-times-on-amazon-eks/"
-    },
-    {
-        "title": "Windows authentication with gMSA on Linux containers on Amazon ECS with AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/containers/windows-authentication-with-gmsa-on-linux-containers-on-amazon-ecs-with-aws-fargate/"
-    },
-    {
-        "title": "Distributed machine learning with Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/containers/distributed-machine-learning-with-amazon-ecs/"
     }
 ]
