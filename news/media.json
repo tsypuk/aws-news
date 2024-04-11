@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing Amazon CloudWatch Container Insights for Amazon EKS Windows Workloads Monitoring",
+        "link": "https://aws.amazon.com/blogs/mt/announcing-amazon-cloudwatch-container-insights-for-amazon-eks-windows-workloads-monitoring/"
+    },
+    {
+        "title": "Reduce software licensing costs with an AWS Optimization and Licensing Assessment",
+        "link": "https://aws.amazon.com/blogs/mt/reduce-software-licensing-costs-with-an-aws-optimization-and-licensing-assessment/"
+    },
+    {
         "title": "Migrate Business Logic from Database to Application for Faster Innovation and Flexibility",
         "link": "https://aws.amazon.com/blogs/mt/migrate-business-logic-from-database-to-application-for-faster-innovation-and-flexibility/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Delivering Business Value with Cloud Platform Teams",
         "link": "https://aws.amazon.com/blogs/mt/delivering-business-value-with-cloud-platform-teams/"
-    },
-    {
-        "title": "Streamline Platform Engineering using AWS CodeStar Connections with AWS Service Catalog",
-        "link": "https://aws.amazon.com/blogs/mt/streamline-platform-engineering-using-aws-codestar-connections-with-aws-service-catalog/"
-    },
-    {
-        "title": "Accelerate troubleshooting with structured logs in Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/mt/accelerate-troubleshooting-with-structured-logs-in-amazon-cloudwatch/"
     }
 ]
