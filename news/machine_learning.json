@@ -1,5 +1,13 @@
 [
     {
+        "title": "Cost-effective document classification using the Amazon Titan Multimodal Embeddings Model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-document-classification-using-the-amazon-titan-multimodal-embeddings-model/"
+    },
+    {
+        "title": "AWS at NVIDIA GTC 2024: Accelerate innovation with generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/"
+    },
+    {
         "title": "Build an active learning pipeline for automatic annotation of images with AWS services",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-active-learning-pipeline-for-automatic-annotation-of-images-with-aws-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Scale LLMs with PyTorch 2.0 FSDP on Amazon EKS \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/machine-learning/scale-llms-with-pytorch-2-0-fsdp-on-amazon-eks-part-2/"
-    },
-    {
-        "title": "Provide live agent assistance for your chatbot users with Amazon Lex and Talkdesk cloud contact center",
-        "link": "https://aws.amazon.com/blogs/machine-learning/provide-live-agent-assistance-for-your-chatbot-users-with-amazon-lex-and-talkdesk-cloud-contact-center/"
-    },
-    {
-        "title": "Advanced RAG patterns on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/advanced-rag-patterns-on-amazon-sagemaker/"
     }
 ]

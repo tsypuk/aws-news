@@ -1,5 +1,13 @@
 [
     {
+        "title": "KPIs \u2013 Enterprise Journey from Technology to Business",
+        "link": "https://aws.amazon.com/blogs/mt/kpis-enterprise-journey-from-technology-to-business/"
+    },
+    {
+        "title": "Seamlessly off-board from AWS OpsWorks Stacks by detaching resources",
+        "link": "https://aws.amazon.com/blogs/mt/seamlessly-off-board-from-aws-opsworks-stacks-by-detaching-resources/"
+    },
+    {
         "title": "Announcing Amazon CloudWatch Container Insights for Amazon EKS Windows Workloads Monitoring",
         "link": "https://aws.amazon.com/blogs/mt/announcing-amazon-cloudwatch-container-insights-for-amazon-eks-windows-workloads-monitoring/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automating Amazon EC2 Instances Monitoring with Prometheus EC2 Service Discovery and AWS Distro for OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/mt/automating-amazon-ec2-instance-monitoring-with-prometheus-ec2-service-discovery-and-aws-distro-for-opentelemetry/"
-    },
-    {
-        "title": "Monitor your AWS resources on your mobile device with AWS Console Mobile Application",
-        "link": "https://aws.amazon.com/blogs/mt/monitor-your-aws-resources-on-your-mobile-device-with-aws-console-mobile-application/"
-    },
-    {
-        "title": "Delivering Business Value with Cloud Platform Teams",
-        "link": "https://aws.amazon.com/blogs/mt/delivering-business-value-with-cloud-platform-teams/"
     }
 ]
