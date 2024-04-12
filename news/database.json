@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate Microsoft Azure SQL Database to Amazon RDS for SQL Server using Smart Bulk Copy",
+        "link": "https://aws.amazon.com/blogs/database/migrate-microsoft-azure-sql-database-to-amazon-rds-for-sql-server-using-smart-bulk-copy/"
+    },
+    {
+        "title": "AWS tools to optimize your Amazon RDS costs",
+        "link": "https://aws.amazon.com/blogs/database/aws-tools-to-optimize-your-amazon-rds-costs/"
+    },
+    {
         "title": "Run complex queries on massive amounts of data stored on your Amazon DocumentDB clusters using Apache Spark running on Amazon EMR",
         "link": "https://aws.amazon.com/blogs/database/run-complex-queries-on-massive-amounts-of-data-stored-on-your-amazon-documentdb-clusters-using-apache-spark-running-on-amazon-emr/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Run a WAX Blockchain node using AWS CDK",
         "link": "https://aws.amazon.com/blogs/database/run-a-wax-blockchain-node-using-aws-cdk/"
-    },
-    {
-        "title": "Amazon RDS Multi-AZ DB Clusters support new storage configurations",
-        "link": "https://aws.amazon.com/blogs/database/amazon-rds-multi-az-db-clusters-support-new-storage-configurations/"
-    },
-    {
-        "title": "Run a serverless Arbitrum full node on AWS",
-        "link": "https://aws.amazon.com/blogs/database/run-a-serverless-arbitrum-full-node-on-aws/"
     }
 ]
