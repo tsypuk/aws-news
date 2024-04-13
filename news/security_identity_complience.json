@@ -1,5 +1,9 @@
 [
     {
+        "title": "The curious case of faster AWS KMS symmetric key rotation",
+        "link": "https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/"
+    },
+    {
         "title": "Detecting and remediating inactive user accounts with Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/security/detecting-and-remediating-inactive-user-accounts-with-amazon-cognito/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to develop an Amazon Security Lake POC",
         "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-amazon-security-lake-poc/"
-    },
-    {
-        "title": "AWS Payment Cryptography is PCI PIN and P2PE certified",
-        "link": "https://aws.amazon.com/blogs/security/aws-payment-cryptography-is-pci-pin-and-p2pe-certified/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Access Amazon RDS across AWS accounts using AWS PrivateLink, Network Load Balancer, and Amazon RDS Proxy",
+        "link": "https://aws.amazon.com/blogs/database/access-amazon-rds-across-aws-accounts-using-aws-privatelink-network-load-balancer-and-amazon-rds-proxy/"
+    },
+    {
         "title": "Migrate Microsoft Azure SQL Database to Amazon RDS for SQL Server using Smart Bulk Copy",
         "link": "https://aws.amazon.com/blogs/database/migrate-microsoft-azure-sql-database-to-amazon-rds-for-sql-server-using-smart-bulk-copy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identify PostgreSQL semantic issues with the plpgsql_check extension",
         "link": "https://aws.amazon.com/blogs/database/identify-postgresql-semantic-issues-with-the-plpgsql_check-extension/"
-    },
-    {
-        "title": "Run a WAX Blockchain node using AWS CDK",
-        "link": "https://aws.amazon.com/blogs/database/run-a-wax-blockchain-node-using-aws-cdk/"
     }
 ]
