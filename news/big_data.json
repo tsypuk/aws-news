@@ -1,5 +1,9 @@
 [
     {
+        "title": "Uplevel your data architecture with real- time streaming using Amazon Data Firehose and Snowflake",
+        "link": "https://aws.amazon.com/blogs/big-data/uplevel-your-data-architecture-with-real-time-streaming-using-amazon-data-firehose-and-snowflake/"
+    },
+    {
         "title": "Achieve near real time operational analytics using Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-near-real-time-operational-analytics-using-amazon-aurora-postgresql-zero-etl-integration-with-amazon-redshift/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing enhanced functionality for worker configuration management in Amazon MSK Connect",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-enhanced-functionality-for-worker-configuration-management-in-amazon-msk-connect/"
-    },
-    {
-        "title": "Run Trino queries 2.7 times faster with Amazon EMR 6.15.0",
-        "link": "https://aws.amazon.com/blogs/big-data/run-trino-queries-2-7-times-faster-with-amazon-emr-6-15-0/"
     }
 ]

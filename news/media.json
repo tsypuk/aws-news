@@ -1,5 +1,9 @@
 [
     {
+        "title": "How SMBs can deploy a multi-account environment quickly using AWS Organizations and AWS CloudFormation StackSets",
+        "link": "https://aws.amazon.com/blogs/mt/deploy-a-multi-account-environment-in-under-30-minutes-using-aws-cloudformation-stacksets/"
+    },
+    {
         "title": "KPIs \u2013 Enterprise Journey from Technology to Business",
         "link": "https://aws.amazon.com/blogs/mt/kpis-enterprise-journey-from-technology-to-business/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "VTEX scales to 150 million metrics using Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/scaling-to-150-million-metrics-using-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "Automating Amazon EC2 Instances Monitoring with Prometheus EC2 Service Discovery and AWS Distro for OpenTelemetry",
-        "link": "https://aws.amazon.com/blogs/mt/automating-amazon-ec2-instance-monitoring-with-prometheus-ec2-service-discovery-and-aws-distro-for-opentelemetry/"
     }
 ]
