@@ -1,5 +1,13 @@
 [
     {
+        "title": "Autoscaling Kubernetes workloads with KEDA using Amazon Managed Service for Prometheus metrics",
+        "link": "https://aws.amazon.com/blogs/mt/autoscaling-kubernetes-workloads-with-keda-using-amazon-managed-service-for-prometheus-metrics/"
+    },
+    {
+        "title": "Automate incident reports from AWS Systems Manager Incident Manager",
+        "link": "https://aws.amazon.com/blogs/mt/automate-incident-reports-from-aws-systems-manager-incident-manager/"
+    },
+    {
         "title": "How SMBs can deploy a multi-account environment quickly using AWS Organizations and AWS CloudFormation StackSets",
         "link": "https://aws.amazon.com/blogs/mt/deploy-a-multi-account-environment-in-under-30-minutes-using-aws-cloudformation-stacksets/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Identifying resilience drift using AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/identifying-resilience-drift-using-aws-resilience-hub/"
-    },
-    {
-        "title": "Selecting your first workloads to migrate your organization to Amazon Web Services (AWS).",
-        "link": "https://aws.amazon.com/blogs/mt/selecting-your-first-workloads-to-migrate-your-organization-to-amazon-web-services-aws/"
-    },
-    {
-        "title": "VTEX scales to 150 million metrics using Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/scaling-to-150-million-metrics-using-amazon-managed-service-for-prometheus/"
     }
 ]
