@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce cost and improve performance by migrating to Amazon DocumentDB 5.0",
+        "link": "https://aws.amazon.com/blogs/database/reduce-cost-and-improve-performance-by-migrating-to-amazon-documentdb-5-0/"
+    },
+    {
         "title": "Access Amazon RDS across AWS accounts using AWS PrivateLink, Network Load Balancer, and Amazon RDS Proxy",
         "link": "https://aws.amazon.com/blogs/database/access-amazon-rds-across-aws-accounts-using-aws-privatelink-network-load-balancer-and-amazon-rds-proxy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Orchestrate an AWS DMS Serverless replication task using AWS CLI",
         "link": "https://aws.amazon.com/blogs/database/orchestrate-an-aws-dms-serverless-replication-task-using-aws-cli/"
-    },
-    {
-        "title": "Identify PostgreSQL semantic issues with the plpgsql_check extension",
-        "link": "https://aws.amazon.com/blogs/database/identify-postgresql-semantic-issues-with-the-plpgsql_check-extension/"
     }
 ]

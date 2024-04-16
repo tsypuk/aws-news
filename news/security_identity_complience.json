@@ -1,5 +1,13 @@
 [
     {
+        "title": "Winter 2023 SOC 1 report now available in Japanese, Korean, and Spanish",
+        "link": "https://aws.amazon.com/blogs/security/winter-2023-soc-1-report-now-available-in-japanese-korean-and-spanish/"
+    },
+    {
+        "title": "Accelerate security automation using Amazon CodeWhisperer",
+        "link": "https://aws.amazon.com/blogs/security/accelerate-security-automation-using-amazon-codewhisperer/"
+    },
+    {
         "title": "The curious case of faster AWS KMS symmetric key rotation",
         "link": "https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New AWS whitepaper: AWS User Guide for Federally Regulated Financial Institutions in Canada",
         "link": "https://aws.amazon.com/blogs/security/new-aws-whitepaper-aws-user-guide-for-federally-regulated-financial-institutions-in-canada/"
-    },
-    {
-        "title": "Enhance container software supply chain visibility through SBOM export with Amazon Inspector and QuickSight",
-        "link": "https://aws.amazon.com/blogs/security/enhance-container-software-supply-chain-visibility-through-sbom-export-with-amazon-inspector-and-quicksight/"
-    },
-    {
-        "title": "How to develop an Amazon Security Lake POC",
-        "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-amazon-security-lake-poc/"
     }
 ]
