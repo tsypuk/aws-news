@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a Secure GraphQL API with AWS Amplify and AWS AppSync",
+        "link": "https://aws.amazon.com/blogs/mobile/building-a-secure-graphql-api-with-aws-amplify-and-aws-appsync/"
+    },
+    {
         "title": "Use Generative AI and Next.js with AWS Amplify to build a Fullstack Recipe Generator",
         "link": "https://aws.amazon.com/blogs/mobile/use-generative-ai-and-next-js-with-aws-amplify-to-build-a-fullstack-recipe-generator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building fast Next.js apps using TypeScript and AWS Amplify JavaScript v6",
         "link": "https://aws.amazon.com/blogs/mobile/amplify-javascript-v6/"
-    },
-    {
-        "title": "Join us for a week of AWS Amplify launches",
-        "link": "https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/"
     }
 ]

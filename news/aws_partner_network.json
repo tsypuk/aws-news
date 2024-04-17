@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Leverage the AWS Cloud Adoption Framework for VMware Cloud on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-leverage-the-aws-cloud-adoption-framework-for-vmware-cloud-on-aws/"
+    },
+    {
+        "title": "How to Enhance Your Zero-Trust Security Journey on AWS with Cisco Duo",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-enhance-your-zero-trust-security-journey-on-aws-with-cisco-duo/"
+    },
+    {
         "title": "Deloitte and AWS Strategic Collaboration to Accelerate Cloud Adoption in Growth Markets",
         "link": "https://aws.amazon.com/blogs/apn/deloitte-and-aws-strategic-collaboration-to-accelerate-cloud-adoption-in-growth-markets/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate Sensitive Digital Assets to AWS with Eviden Data Sovereignty Solutions",
         "link": "https://aws.amazon.com/blogs/apn/migrate-sensitive-digital-assets-to-aws-with-eviden-data-sovereignty-solutions/"
-    },
-    {
-        "title": "Using Amazon Security Lake with New Relic for Threat Detection and Incident Response",
-        "link": "https://aws.amazon.com/blogs/apn/using-amazon-security-lake-with-new-relic-for-threat-detection-and-incident-response/"
-    },
-    {
-        "title": "How to Use ThoughtSpot to Create Live Queries Against Amazon Athena Tables",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-use-thoughtspot-to-create-live-queries-against-amazon-athena-tables/"
     }
 ]

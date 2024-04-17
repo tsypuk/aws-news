@@ -1,5 +1,9 @@
 [
     {
+        "title": "Track your workload\u2019s risks with the new AWS Well-Architected Tool Connector for Jira",
+        "link": "https://aws.amazon.com/blogs/mt/track-your-workloads-risks-with-the-new-aws-well-architected-tool-connector-for-jira/"
+    },
+    {
         "title": "Autoscaling Kubernetes workloads with KEDA using Amazon Managed Service for Prometheus metrics",
         "link": "https://aws.amazon.com/blogs/mt/autoscaling-kubernetes-workloads-with-keda-using-amazon-managed-service-for-prometheus-metrics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyzing Amazon CloudWatch Internet Monitor measurement logs using Amazon Athena and Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/mt/analyzing-amazon-cloudwatch-internet-monitor-measurement-logs-using-amazon-athena-amazon-quicksight/"
-    },
-    {
-        "title": "Identifying resilience drift using AWS Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/mt/identifying-resilience-drift-using-aws-resilience-hub/"
     }
 ]
