@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon CloudWatch Internet Weather Map \u2013 View and analyze internet health",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-internet-weather-map-view-and-analyze-internet-health/"
+    },
+    {
+        "title": "Anthropic\u2019s Claude 3 Opus model is now available on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/anthropics-claude-3-opus-model-on-amazon-bedrock/"
+    },
+    {
         "title": "Congratulations to the PartyRock generative AI hackathon winners",
         "link": "https://aws.amazon.com/blogs/aws/congratulations-to-the-partyrock-generative-ai-hackathon-winners/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Free data transfer out to internet when moving out of AWS",
         "link": "https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2014 New models for Amazon Bedrock, CloudFront embedded POPs, and more \u2014 March 4, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-models-for-amazon-bedrock-cloudfront-embedded-pops-and-more-march-4-2024/"
-    },
-    {
-        "title": "Anthropic\u2019s Claude 3 Sonnet foundation model is now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/anthropics-claude-3-sonnet-foundation-model-is-now-available-in-amazon-bedrock/"
     }
 ]
