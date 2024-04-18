@@ -1,5 +1,9 @@
 [
     {
+        "title": "Local detuning now available on QuEra\u2019s Aquila device with Braket Direct",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/local-detuning-now-available-on-queras-aquila-device-with-braket-direct/"
+    },
+    {
         "title": "Hyperparameter optimization for quantum machine learning with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/hyperparameter-optimization-for-quantum-machine-learning-with-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing the Amazon Braket Learning Plan and Digital Badge",
         "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-the-amazon-braket-learning-plan-and-digital-badge/"
-    },
-    {
-        "title": "A detailed, end-to-end assessment of a quantum algorithm for portfolio optimization, released by Goldman Sachs and AWS",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/a-detailed-end-to-end-assessment-of-a-quantum-algorithm-for-portfolio-optimization-released-by-goldman-sachs-and-aws/"
     }
 ]

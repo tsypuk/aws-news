@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to Implement Self-Managed Opt-Outs for SMS with Amazon Pinpoint",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-implement-self-managed-opt-outs-for-sms-with-amazon-pinpoint/"
+    },
+    {
         "title": "An Introduction to Amazon WorkMail Audit Logging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/an-introduction-to-amazon-workmail-audit-logging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to secure your email account and improve email sender reputation",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-secure-your-email-account-and-improve-email-sender-reputation/"
-    },
-    {
-        "title": "Deploy Amazon QuickSight dashboard for Amazon Pinpoint engagement events.",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/deploy-amazon-quicksight-dashboard-for-amazon-pinpoint-engagement-events/"
     }
 ]

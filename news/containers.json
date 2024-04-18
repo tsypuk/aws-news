@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dynamically create repositories upon image push to Amazon ECR",
+        "link": "https://aws.amazon.com/blogs/containers/dynamically-create-repositories-upon-image-push-to-amazon-ecr/"
+    },
+    {
         "title": "Using OPA to validate Amazon EKS Blueprint Templates",
         "link": "https://aws.amazon.com/blogs/containers/using-opa-to-validate-amazon-eks-blueprint-templates/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Delivering video content with fractional GPUs in containers on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/delivering-video-content-with-fractional-gpus-in-containers-on-amazon-eks/"
-    },
-    {
-        "title": "Scale your Amazon ECS using different AWS native services!",
-        "link": "https://aws.amazon.com/blogs/containers/scale-your-amazon-ecs-using-different-aws-native-services/"
     }
 ]

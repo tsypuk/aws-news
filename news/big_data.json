@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon OpenSearch Service Under the Hood : OpenSearch Optimized Instances(OR1)",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-under-the-hood-opensearch-optimized-instancesor1/"
+    },
+    {
+        "title": "Power analytics as a service capabilities using Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/power-analytics-as-a-service-capabilities-using-amazon-redshift/"
+    },
+    {
         "title": "Introducing Amazon MWAA larger environment sizes",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-larger-environment-sizes/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Create an end-to-end data strategy for Customer 360 on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/create-an-end-to-end-data-strategy-for-customer-360-on-aws/"
-    },
-    {
-        "title": "Announcing the AWS Well-Architected Data Analytics Lens",
-        "link": "https://aws.amazon.com/blogs/big-data/announcing-the-aws-well-architected-data-analytics-lens/"
-    },
-    {
-        "title": "Exploring real-time streaming for generative AI Applications",
-        "link": "https://aws.amazon.com/blogs/big-data/exploring-real-time-streaming-for-generative-ai-applications/"
     }
 ]

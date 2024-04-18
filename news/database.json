@@ -1,5 +1,9 @@
 [
     {
+        "title": "Programmatic approach to optimize the cost of Amazon RDS snapshots",
+        "link": "https://aws.amazon.com/blogs/database/programmatic-approach-to-optimize-the-cost-of-amazon-rds-snapshots/"
+    },
+    {
         "title": "Mask sensitive Amazon DocumentDB log data with Amazon CloudWatch Logs data protection",
         "link": "https://aws.amazon.com/blogs/database/mask-sensitive-amazon-documentdb-log-data-with-amazon-cloudwatch-logs-data-protection/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Replicate data between partitioned and non-partitioned tables using trigger functions in Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/replicate-data-between-partitioned-and-non-partitioned-tables-using-trigger-functions-in-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Accelerate your database migration journey using AWS DMS Schema Conversion",
-        "link": "https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-using-aws-dms-schema-conversion/"
     }
 ]
