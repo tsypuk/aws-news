@@ -1,5 +1,13 @@
 [
     {
+        "title": "Distribute an Amazon Machine Image to another AWS Account using AWS Application Migration Service Post-launch automation",
+        "link": "https://aws.amazon.com/blogs/mt/distribute-an-amazon-machine-image-to-another-aws-account-using-aws-application-migration-service-post-launch-automation/"
+    },
+    {
+        "title": "Unlocking Insights:\u00a0Turning Application Logs into Actionable Metrics",
+        "link": "https://aws.amazon.com/blogs/mt/unlocking-insights-turning-application-logs-into-actionable-metrics/"
+    },
+    {
         "title": "Track your workload\u2019s risks with the new AWS Well-Architected Tool Connector for Jira",
         "link": "https://aws.amazon.com/blogs/mt/track-your-workloads-risks-with-the-new-aws-well-architected-tool-connector-for-jira/"
     },
@@ -13,7 +21,7 @@
     },
     {
         "title": "How SMBs can deploy a multi-account environment quickly using AWS Organizations and AWS CloudFormation StackSets",
-        "link": "https://aws.amazon.com/blogs/mt/deploy-a-multi-account-environment-in-under-30-minutes-using-aws-cloudformation-stacksets/"
+        "link": "https://aws.amazon.com/blogs/mt/how-smbs-can-deploy-a-multi-account-environment-quickly-using-aws-organizations-and-aws-cloudformation-stacksets/"
     },
     {
         "title": "KPIs \u2013 Enterprise Journey from Technology to Business",
@@ -70,13 +78,5 @@
     {
         "title": "How BMW Group uses automation to achieve end-to-end compliance at scale on AWS",
         "link": "https://aws.amazon.com/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/"
-    },
-    {
-        "title": "Real User Monitoring with Amazon CloudWatch RUM and Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/mt/real-user-monitoring-with-cloudwatch-rum-and-amazon-managed-grafana/"
-    },
-    {
-        "title": "Analyzing Amazon CloudWatch Internet Monitor measurement logs using Amazon Athena and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/mt/analyzing-amazon-cloudwatch-internet-monitor-measurement-logs-using-amazon-athena-amazon-quicksight/"
     }
 ]

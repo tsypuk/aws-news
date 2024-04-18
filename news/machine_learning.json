@@ -1,5 +1,13 @@
 [
     {
+        "title": "Uncover hidden connections in unstructured financial data with Amazon Bedrock and Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/machine-learning/uncover-hidden-connections-in-unstructured-financial-data-with-amazon-bedrock-and-amazon-neptune/"
+    },
+    {
+        "title": "Open source observability for AWS Inferentia nodes within Amazon EKS clusters",
+        "link": "https://aws.amazon.com/blogs/machine-learning/open-source-observability-for-aws-inferentia-nodes-within-amazon-eks-clusters/"
+    },
+    {
         "title": "Explore data with ease: Use SQL and Text-to-SQL in Amazon SageMaker Studio JupyterLab notebooks",
         "link": "https://aws.amazon.com/blogs/machine-learning/explore-data-with-ease-using-sql-and-text-to-sql-in-amazon-sagemaker-studio-jupyterlab-notebooks/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build a contextual text and image search engine for product recommendations using Amazon Bedrock and Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-contextual-text-and-image-search-engine-for-product-recommendations-using-amazon-bedrock-and-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "AWS and Mistral AI commit to democratizing generative AI with a strengthened collaboration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-and-mistral-ai-commit-to-democratizing-generative-ai-with-a-strengthened-collaboration/"
-    },
-    {
-        "title": "Generative AI roadshow in North America with AWS and Hugging Face",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-roadshow-in-north-america-with-aws-and-hugging-face/"
     }
 ]
