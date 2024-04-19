@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Import and Manage AWS Networking with Terraform and ControlMonkey",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-import-and-manage-aws-networking-with-terraform-and-controlmonkey/"
+    },
+    {
+        "title": "How Datasaur Reimagines Data Labeling Tasks Using Generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/how-datasaur-reimagines-data-labeling-tasks-using-generative-ai-on-aws/"
+    },
+    {
         "title": "Protecting and Managing Sensitive Customer Data with Skyflow and Cloud Storage Security",
         "link": "https://aws.amazon.com/blogs/apn/protecting-and-managing-sensitive-customer-data-with-skyflow-and-cloud-storage-security/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Transforming Cloud Operations, Security, and Cost Optimization on AWS with iCOPS from Tech Mahindra",
         "link": "https://aws.amazon.com/blogs/apn/transforming-cloud-operations-security-and-cost-optimization-on-aws-with-icops-from-tech-mahindra/"
-    },
-    {
-        "title": "Securing Dynamic Workloads with Arista Network Detection and Response and AWS Traffic Mirroring",
-        "link": "https://aws.amazon.com/blogs/apn/securing-dynamic-workloads-with-arista-network-detection-and-response-and-aws-traffic-mirroring/"
-    },
-    {
-        "title": "How Cornerstone Built a Full-Fledged Apache Kafka Replication Using Amazon MSK Connect",
-        "link": "https://aws.amazon.com/blogs/apn/how-cornerstone-built-a-full-fledged-apache-kafka-replication-using-amazon-msk-connect/"
     }
 ]
