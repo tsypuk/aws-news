@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enabling Business Partners to Access AWS Applications with Alkira\u2019s Extranet-as-a-Service",
+        "link": "https://aws.amazon.com/blogs/apn/enabling-business-partners-to-access-aws-applications-with-alkira-extranet-as-a-service/"
+    },
+    {
+        "title": "How Pariveda Enables Operational Data Observability Across Your AWS Data Lake at Scale",
+        "link": "https://aws.amazon.com/blogs/apn/how-pariveda-enables-operational-data-observability-across-your-aws-data-lake-at-scale/"
+    },
+    {
         "title": "How to Import and Manage AWS Networking with Terraform and ControlMonkey",
         "link": "https://aws.amazon.com/blogs/apn/how-to-import-and-manage-aws-networking-with-terraform-and-controlmonkey/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to Enable Secure Self-Service Amazon EKS Cluster Provisioning with ArgoCD, Kyverno, and Nirmata Policy Manager",
         "link": "https://aws.amazon.com/blogs/apn/how-to-enable-secure-self-service-amazon-eks-cluster-provisioning-with-argocd-kyverno-and-nirmata-policy-manager/"
-    },
-    {
-        "title": "LenelS2, a Carrier Company, Migrates Desktop Software to SaaS with Amazon AppStream 2.0",
-        "link": "https://aws.amazon.com/blogs/apn/lenels2-a-carrier-company-migrates-desktop-software-to-saas-with-amazon-appstream-2-0/"
-    },
-    {
-        "title": "Transforming Cloud Operations, Security, and Cost Optimization on AWS with iCOPS from Tech Mahindra",
-        "link": "https://aws.amazon.com/blogs/apn/transforming-cloud-operations-security-and-cost-optimization-on-aws-with-icops-from-tech-mahindra/"
     }
 ]

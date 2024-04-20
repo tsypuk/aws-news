@@ -1,9 +1,5 @@
 [
     {
-        "title": "How Salesforce optimized their detection and response platform using AWS managed services",
-        "link": "https://aws.amazon.com/blogs/big-data/how-salesforce-optimized-their-detection-and-response-platform-using-aws-managed-services/"
-    },
-    {
         "title": "Amazon OpenSearch Service Under the Hood : OpenSearch Optimized Instances(OR1)",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-under-the-hood-opensearch-optimized-instancesor1/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Successfully conduct a proof of concept in Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/successfully-conduct-a-proof-of-concept-in-amazon-redshift/"
+    },
+    {
+        "title": "Create an end-to-end data strategy for Customer 360 on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/create-an-end-to-end-data-strategy-for-customer-360-on-aws/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Applying Generative AI to CVE remediation \u2013 early vulnerability patching in Continuous Integration Pipelines",
+        "link": "https://aws.amazon.com/blogs/containers/applying-generative-ai-to-cve-remediation-early-vulnerability-patching-in-continuous-integration-pipelines/"
+    },
+    {
+        "title": "Rippling\u2019s journey migrating to the new VPC CNI Network Policy Engine",
+        "link": "https://aws.amazon.com/blogs/containers/ripplings-journey-migrating-to-the-new-vpc-cni-network-policy-engine/"
+    },
+    {
         "title": "Dynamically create repositories upon image push to Amazon ECR",
         "link": "https://aws.amazon.com/blogs/containers/dynamically-create-repositories-upon-image-push-to-amazon-ecr/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Amazon EKS-Optimized Amazon Linux 2023 AMIs Now Available",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-optimized-amazon-linux-2023-amis-now-available/"
-    },
-    {
-        "title": "Protecting your Amazon EKS web apps with\u00a0AWS WAF",
-        "link": "https://aws.amazon.com/blogs/containers/protecting-your-amazon-eks-web-apps-with-aws-waf/"
-    },
-    {
-        "title": "Delivering video content with fractional GPUs in containers on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/delivering-video-content-with-fractional-gpus-in-containers-on-amazon-eks/"
     }
 ]

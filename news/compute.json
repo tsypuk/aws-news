@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting for Disaster Recovery on AWS Outposts Racks with AWS Elastic Disaster Recovery",
+        "link": "https://aws.amazon.com/blogs/compute/architecting-for-disaster-recovery-on-aws-outposts-racks-with-aws-elastic-disaster-recovery/"
+    },
+    {
         "title": "Serverless ICYMI Q1 2024",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon MQ cross-Region data replication for ActiveMQ brokers",
         "link": "https://aws.amazon.com/blogs/compute/introducing-amazon-mq-cross-region-data-replication-for-activemq-brokers/"
-    },
-    {
-        "title": "Python 3.12 runtime now available in AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/python-3-12-runtime-now-available-in-aws-lambda/"
     }
 ]

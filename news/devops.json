@@ -1,5 +1,9 @@
 [
     {
+        "title": "Quickly go from Idea to PR with CodeCatalyst using Amazon Q",
+        "link": "https://aws.amazon.com/blogs/devops/quickly-go-from-idea-to-pr-with-codecatalyst-using-amazon-q/"
+    },
+    {
         "title": "Creating a User Activity Dashboard for Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with Projen and AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/getting-started-with-projen-and-aws-cdk/"
-    },
-    {
-        "title": "Blue/Green\u00a0Deployments with Amazon ECS using Amazon CodeCatalyst",
-        "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-with-amazon-ecs-using-amazon-codecatalyst/"
     }
 ]
