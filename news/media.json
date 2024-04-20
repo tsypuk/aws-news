@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to monitor AWS WAF logging centrally using Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-monitor-aws-waf-logging-centrally-using-amazon-managed-grafana/"
+    },
+    {
         "title": "Distribute an Amazon Machine Image to another AWS Account using AWS Application Migration Service Post-launch automation",
         "link": "https://aws.amazon.com/blogs/mt/distribute-an-amazon-machine-image-to-another-aws-account-using-aws-application-migration-service-post-launch-automation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyze AWS Microservices architecture to identify and address performance issues",
         "link": "https://aws.amazon.com/blogs/mt/analyze-aws-microservices-architecture-to-identify-and-address-performance-issues/"
-    },
-    {
-        "title": "How BMW Group uses automation to achieve end-to-end compliance at scale on AWS",
-        "link": "https://aws.amazon.com/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/"
     }
 ]
