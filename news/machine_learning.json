@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrate HyperPod clusters with Active Directory for seamless multi-user login",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-hyperpod-clusters-with-active-directory-for-seamless-multi-user-login/"
+    },
+    {
+        "title": "The executive\u2019s guide to generative AI for sustainability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/the-executives-guide-to-generative-ai-for-sustainability/"
+    },
+    {
         "title": "Introducing automatic training for solutions in Amazon Personalize",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-automatic-training-for-solutions-in-amazon-personalize/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Knowledge Bases for Amazon Bedrock now supports custom prompts for the RetrieveAndGenerate API and configuration of the maximum number of retrieved results",
         "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-custom-prompts-for-the-retrieveandgenerate-api-and-configuration-of-the-maximum-number-of-retrieved-results/"
-    },
-    {
-        "title": "Knowledge Bases for Amazon Bedrock now supports metadata filtering to improve retrieval accuracy",
-        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-metadata-filtering-to-improve-retrieval-accuracy/"
-    },
-    {
-        "title": "Build knowledge-powered conversational applications using LlamaIndex and Llama 2-Chat",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-knowledge-powered-conversational-applications-using-llamaindex-and-llama-2-chat/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unify DNS management using Amazon Route 53 Profiles with multiple VPCs and AWS accounts",
+        "link": "https://aws.amazon.com/blogs/aws/unify-dns-management-using-amazon-route-53-profiles-with-multiple-vpcs-and-aws-accounts/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Anthropic\u2019s Claude 3 Opus in Amazon Bedrock, Meta Llama 3 in Amazon SageMaker JumpStart, and more (April 22, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropics-claude-3-opus-in-amazon-bedrock-meta-llama-3-in-amazon-sagemaker-jumpstart-and-more-april-22-2024/"
+    },
+    {
         "title": "Amazon CloudWatch Internet Weather Map \u2013 View and analyze internet health",
         "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-internet-weather-map-view-and-analyze-internet-health/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon RDS now supports io2 Block Express volumes for mission-critical database workloads",
         "link": "https://aws.amazon.com/blogs/aws/amazon-rds-now-supports-io2-block-express-volumes-for-mission-critical-database-workloads/"
-    },
-    {
-        "title": "Introducing the newest Heroes of the year \u2013 March 2024",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-the-newest-heroes-of-the-year-march-2024/"
-    },
-    {
-        "title": "Free data transfer out to internet when moving out of AWS",
-        "link": "https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/"
     }
 ]

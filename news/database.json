@@ -1,5 +1,9 @@
 [
     {
+        "title": "Troubleshoot and minimize AWS DMS replication latency with Amazon S3 as a target",
+        "link": "https://aws.amazon.com/blogs/database/troubleshoot-and-minimize-aws-dms-replication-latency-with-amazon-s3-as-a-target/"
+    },
+    {
         "title": "Monitor query plans for Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/monitor-query-plans-for-amazon-aurora-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate SQL Server discovery and assessment to accelerate migration to AWS",
         "link": "https://aws.amazon.com/blogs/database/automate-sql-server-discovery-and-assessment-to-accelerate-migration-to-aws/"
-    },
-    {
-        "title": "Common financial services use cases for Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/common-financial-services-use-cases-for-amazon-dynamodb/"
     }
 ]
