@@ -1,5 +1,13 @@
 [
     {
+        "title": "Customized Mapping Performance Evaluation with Amazon SageMaker and NextBillion.AI\u2019s ENZYME System",
+        "link": "https://aws.amazon.com/blogs/apn/customized-mapping-performance-evaluation-with-amazon-sagemaker-and-nextbillion-ai-enzyme-system/"
+    },
+    {
+        "title": "Automating Cloud Cost Optimization on AWS with nOps Compute Copilot and Karpenter",
+        "link": "https://aws.amazon.com/blogs/apn/automating-cloud-cost-optimization-on-aws-with-nops-compute-copilot-and-karpenter/"
+    },
+    {
         "title": "Enabling Business Partners to Access AWS Applications with Alkira\u2019s Extranet-as-a-Service",
         "link": "https://aws.amazon.com/blogs/apn/enabling-business-partners-to-access-aws-applications-with-alkira-extranet-as-a-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Modernize Natural and Adabas Workloads on AWS with Advanced\u2019s Application Transparency Platform",
         "link": "https://aws.amazon.com/blogs/apn/modernize-natural-and-adabas-workloads-on-aws-with-advanced-application-transparency-platform/"
-    },
-    {
-        "title": "Comprinno Simplifies Customer Data Migration to AWS to Save Time and Reduce Cost",
-        "link": "https://aws.amazon.com/blogs/apn/comprinno-simplifies-customer-data-migration-to-aws-to-save-time-and-reduce-cost/"
-    },
-    {
-        "title": "How to Enable Secure Self-Service Amazon EKS Cluster Provisioning with ArgoCD, Kyverno, and Nirmata Policy Manager",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-enable-secure-self-service-amazon-eks-cluster-provisioning-with-argocd-kyverno-and-nirmata-policy-manager/"
     }
 ]

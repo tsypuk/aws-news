@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run simulations using multiple containers in a single AWS Batch job",
+        "link": "https://aws.amazon.com/blogs/hpc/run-simulations-using-multiple-containers-in-a-single-aws-batch-job/"
+    },
+    {
         "title": "Linter rules for Nextflow to improve the detection of errors before runtime",
         "link": "https://aws.amazon.com/blogs/hpc/linter-rules-for-nextflow-to-improve-the-detection-of-errors-before-runtime/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Create a Slurm cluster for semiconductor design with AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/create-a-slurm-cluster-for-semiconductor-design-with-aws-parallelcluster/"
-    },
-    {
-        "title": "Using a Level 4 Digital Twin for scenario analysis and risk assessment of manufacturing production on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/using-a-level-4-digital-twin-for-scenario-analysis-and-risk-assessment-of-manufacturing-production-on-aws/"
     }
 ]
