@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce Amazon Aurora MySQL backup costs using MySQL Shell and Amazon S3",
+        "link": "https://aws.amazon.com/blogs/database/reduce-amazon-aurora-mysql-backup-costs-using-mysql-shell-and-amazon-s3/"
+    },
+    {
         "title": "Troubleshoot and minimize AWS DMS replication latency with Amazon S3 as a target",
         "link": "https://aws.amazon.com/blogs/database/troubleshoot-and-minimize-aws-dms-replication-latency-with-amazon-s3-as-a-target/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy Amazon ElastiCache for Redis clusters using AWS CDK and TypeScript",
         "link": "https://aws.amazon.com/blogs/database/deploy-amazon-elasticache-for-redis-clusters-using-aws-cdk-and-typescript/"
-    },
-    {
-        "title": "Automate SQL Server discovery and assessment to accelerate migration to AWS",
-        "link": "https://aws.amazon.com/blogs/database/automate-sql-server-discovery-and-assessment-to-accelerate-migration-to-aws/"
     }
 ]

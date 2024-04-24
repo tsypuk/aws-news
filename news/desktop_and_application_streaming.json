@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing new larger instance types for Amazon WorkSpaces Web",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-new-larger-instance-types-for-amazon-workspaces-web/"
+    },
+    {
         "title": "Announcing the Amazon WorkSpaces dynamic inventory plugin for Ansible\u00ae",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-amazon-workspaces-dynamic-inventory-plugin-for-ansible/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate copy of Amazon WorkSpaces tags to hybrid activation resources in AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automate-copy-of-amazon-workspaces-tags-to-hybrid-activation-resources-in-aws-systems-manager/"
-    },
-    {
-        "title": "Considerations for a successful Amazon WorkSpaces migration to WorkSpaces Streaming Protocol",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/considerations-for-a-successful-amazon-workspaces-migration-to-workspaces-streaming-protocol/"
     }
 ]
