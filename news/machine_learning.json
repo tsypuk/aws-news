@@ -1,5 +1,17 @@
 [
     {
+        "title": "Accelerate ML workflows with Amazon SageMaker Studio Local Mode and Docker support",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-workflows-with-amazon-sagemaker-studio-local-mode-and-docker-support/"
+    },
+    {
+        "title": "Significant new capabilities make it easier to use Amazon Bedrock to build and scale generative AI applications \u2013 and achieve impressive results",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-capabilities-make-it-easier-to-use-amazon-bedrock-to-build-and-scale-generative-ai-applications-and-deliver-impact/"
+    },
+    {
+        "title": "Building scalable, secure, and reliable RAG applications using Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-scalable-secure-and-reliable-rag-applications-using-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
         "title": "Integrate HyperPod clusters with Active Directory for seamless multi-user login",
         "link": "https://aws.amazon.com/blogs/machine-learning/integrate-hyperpod-clusters-with-active-directory-for-seamless-multi-user-login/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Cost-effective document classification using the Amazon Titan Multimodal Embeddings Model",
         "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-document-classification-using-the-amazon-titan-multimodal-embeddings-model/"
-    },
-    {
-        "title": "AWS at NVIDIA GTC 2024: Accelerate innovation with generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/"
-    },
-    {
-        "title": "Build an active learning pipeline for automatic annotation of images with AWS services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-active-learning-pipeline-for-automatic-annotation-of-images-with-aws-services/"
-    },
-    {
-        "title": "Knowledge Bases for Amazon Bedrock now supports custom prompts for the RetrieveAndGenerate API and configuration of the maximum number of retrieved results",
-        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-custom-prompts-for-the-retrieveandgenerate-api-and-configuration-of-the-maximum-number-of-retrieved-results/"
     }
 ]

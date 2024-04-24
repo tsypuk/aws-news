@@ -1,5 +1,29 @@
 [
     {
+        "title": "Meta Llama 3 models are now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "Guardrails for Amazon Bedrock now available with new safety filters and privacy controls",
+        "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-now-available-with-new-safety-filters-and-privacy-controls/"
+    },
+    {
+        "title": "Agents for Amazon Bedrock: Introducing a simplified creation and configuration experience",
+        "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-introducing-a-simplified-creation-and-configuration-experience/"
+    },
+    {
+        "title": "Amazon Bedrock model evaluation is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-model-evaluation-is-now-generally-available/"
+    },
+    {
+        "title": "Import custom models in Amazon Bedrock (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/import-custom-models-in-amazon-bedrock-preview/"
+    },
+    {
+        "title": "Amazon Titan Image Generator and watermark detection API are now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-and-watermark-detection-api-are-now-available-in-amazon-bedrock/"
+    },
+    {
         "title": "Unify DNS management using Amazon Route 53 Profiles with multiple VPCs and AWS accounts",
         "link": "https://aws.amazon.com/blogs/aws/unify-dns-management-using-amazon-route-53-profiles-with-multiple-vpcs-and-aws-accounts/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Improve the security of your software supply chain with Amazon CodeArtifact package group configuration",
         "link": "https://aws.amazon.com/blogs/aws/improve-the-security-of-your-software-supply-chain-with-amazon-codeartifact-package-group-configuration/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2014 Claude 3 Haiku in Amazon Bedrock, AWS CloudFormation optimizations, and more \u2014 March 18, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-haiku-in-amazon-bedrock-aws-cloudformation-optimizations-and-more-march-18-2024/"
-    },
-    {
-        "title": "Run and manage open source InfluxDB databases with Amazon Timestream",
-        "link": "https://aws.amazon.com/blogs/aws/run-and-manage-open-source-influxdb-databases-with-amazon-timestream/"
-    },
-    {
-        "title": "AWS Pi Day 2024: Use your data to power generative AI",
-        "link": "https://aws.amazon.com/blogs/aws/aws-pi-day-2024-use-your-data-to-power-generative-ai/"
-    },
-    {
-        "title": "Anthropic\u2019s Claude 3 Haiku model is now available on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/anthropics-claude-3-haiku-model-is-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2014 Claude 3 Sonnet support in Bedrock, new instances, and more \u2014 March 11, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-sonnet-support-in-bedrock-new-instances-and-more-march-11-2024/"
-    },
-    {
-        "title": "Amazon RDS now supports io2 Block Express volumes for mission-critical database workloads",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-rds-now-supports-io2-block-express-volumes-for-mission-critical-database-workloads/"
     }
 ]
