@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing MPI application performance on hpc7a by effectively using both EFA devices",
+        "link": "https://aws.amazon.com/blogs/hpc/optimizing-mpi-application-performance-on-hpc7a-by-effectively-using-both-efa-devices/"
+    },
+    {
         "title": "Build and deploy a 1 TB/s file system in under an hour",
         "link": "https://aws.amazon.com/blogs/hpc/build-and-deploy-a-1-tb-s-file-system-in-under-an-hour/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Save up to 90% using EC2 Spot, even for long-running HPC jobs",
         "link": "https://aws.amazon.com/blogs/hpc/save-up-to-90-using-ec2-spot-even-for-long-running-hpc-jobs/"
-    },
-    {
-        "title": "Enhancing ML workflows with AWS ParallelCluster and Amazon EC2 Capacity Blocks for ML",
-        "link": "https://aws.amazon.com/blogs/hpc/enhancing-ml-workflows-with-aws-parallelcluster-and-amazon-ec2-capacity-blocks-for-ml/"
     }
 ]
