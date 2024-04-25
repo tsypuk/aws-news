@@ -1,5 +1,17 @@
 [
     {
+        "title": "Monitor query performance with Performance Insights on Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/monitor-query-performance-with-performance-insights-on-amazon-rds-for-sql-server/"
+    },
+    {
+        "title": "Performance optimization of full load and ongoing replication tasks from self-managed Db2 to Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/performance-optimization-of-full-load-and-ongoing-replication-tasks-from-self-managed-db2-to-amazon-rds-for-db2/"
+    },
+    {
+        "title": "How to build a crypto wallet application using Amazon Managed Blockchain Access and Query",
+        "link": "https://aws.amazon.com/blogs/database/how-to-build-a-crypto-wallet-application-using-amazon-managed-blockchain-access-and-query/"
+    },
+    {
         "title": "Reduce Amazon Aurora MySQL backup costs using MySQL Shell and Amazon S3",
         "link": "https://aws.amazon.com/blogs/database/reduce-amazon-aurora-mysql-backup-costs-using-mysql-shell-and-amazon-s3/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Accelerate database development in Amazon RDS and Amazon Aurora with Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/database/accelerate-database-development-in-amazon-rds-and-amazon-aurora-with-amazon-codewhisperer/"
-    },
-    {
-        "title": "Run Polygon nodes on AWS",
-        "link": "https://aws.amazon.com/blogs/database/run-polygon-nodes-on-aws/"
-    },
-    {
-        "title": "Upgrade Amazon DocumentDB 3.6 to 5.0 with near-zero downtime",
-        "link": "https://aws.amazon.com/blogs/database/upgrade-amazon-documentdb-3-6-to-5-0-with-near-zero-downtime/"
-    },
-    {
-        "title": "Deploy Amazon ElastiCache for Redis clusters using AWS CDK and TypeScript",
-        "link": "https://aws.amazon.com/blogs/database/deploy-amazon-elasticache-for-redis-clusters-using-aws-cdk-and-typescript/"
     }
 ]

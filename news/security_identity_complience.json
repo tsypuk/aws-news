@@ -1,5 +1,9 @@
 [
     {
+        "title": "Authorize API Gateway APIs using Amazon Verified Permissions and Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/security/authorize-api-gateway-apis-using-amazon-verified-permissions-and-amazon-cognito/"
+    },
+    {
         "title": "Using Amazon Verified Permissions to manage authorization for AWS IoT smart home applications",
         "link": "https://aws.amazon.com/blogs/security/using-amazon-verified-permissions-to-manage-authorization-for-aws-iot-smart-thermostat-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS completes the annual UAE Information Assurance Regulation compliance assessment",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-uae-information-assurance-regulation-compliance-assessment/"
-    },
-    {
-        "title": "AWS Wickr achieves FedRAMP High authorization",
-        "link": "https://aws.amazon.com/blogs/security/aws-wickr-achieves-fedramp-high-authorization/"
     }
 ]

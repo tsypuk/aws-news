@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build SAP Golden AMIs with EC2 Image Builder and Ansible",
+        "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-golden-amis-with-ec2-image-builder-and-ansible/"
+    },
+    {
         "title": "End-to-End Observability for SAP on AWS: Part 2 \u2013 SAP Network Latency Monitoring",
         "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-2-sap-network-latency-monitoring/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate incident management for SAP on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-incident-management-for-sap-on-aws/"
-    },
-    {
-        "title": "Simplify SAP Backups with AWS Services",
-        "link": "https://aws.amazon.com/blogs/awsforsap/simplify-sap-backups-with-aws-services/"
     }
 ]

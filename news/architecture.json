@@ -1,5 +1,13 @@
 [
     {
+        "title": "Let\u2019s Architect! Discovering Generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/"
+    },
+    {
+        "title": "Genomics workflows, Part 6: cost prediction",
+        "link": "https://aws.amazon.com/blogs/architecture/part-6-genomics-workflows-cost-prediction/"
+    },
+    {
         "title": "London Stock Exchange Group uses chaos engineering on AWS to improve resilience",
         "link": "https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Operating models for Web App Security Governance in AWS",
         "link": "https://aws.amazon.com/blogs/architecture/operating-models-for-web-app-security-governance-in-aws/"
-    },
-    {
-        "title": "Reduce costs and enable integrated SMS tracking with Braze URL shortening",
-        "link": "https://aws.amazon.com/blogs/architecture/reduce-costs-and-enable-integrated-sms-tracking-with-braze-url-shortening/"
-    },
-    {
-        "title": "Let\u2019s Architect! Cost-optimizing AWS workloads",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-cost-optimizing-aws-workloads/"
     }
 ]
