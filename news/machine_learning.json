@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deploy a Hugging Face (PyAnnote) speaker diarization model on Amazon SageMaker as an asynchronous endpoint",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-hugging-face-pyannote-speaker-diarization-model-on-amazon-sagemaker-as-an-asynchronous-endpoint/"
+    },
+    {
+        "title": "Evaluate the text summarization capabilities of LLMs for enhanced decision-making on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-the-text-summarization-capabilities-of-llms-for-enhanced-decision-making-on-aws/"
+    },
+    {
         "title": "Enhance conversational AI with advanced routing techniques with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-conversational-ai-with-advanced-routing-techniques-with-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Open source observability for AWS Inferentia nodes within Amazon EKS clusters",
         "link": "https://aws.amazon.com/blogs/machine-learning/open-source-observability-for-aws-inferentia-nodes-within-amazon-eks-clusters/"
-    },
-    {
-        "title": "Explore data with ease: Use SQL and Text-to-SQL in Amazon SageMaker Studio JupyterLab notebooks",
-        "link": "https://aws.amazon.com/blogs/machine-learning/explore-data-with-ease-using-sql-and-text-to-sql-in-amazon-sagemaker-studio-jupyterlab-notebooks/"
-    },
-    {
-        "title": "Distributed training and efficient scaling with the Amazon SageMaker Model Parallel and Data Parallel Libraries",
-        "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-and-efficient-scaling-with-the-amazon-sagemaker-model-parallel-and-data-parallel-libraries/"
     }
 ]

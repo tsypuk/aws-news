@@ -1,5 +1,13 @@
 [
     {
+        "title": "Orchestrate an end-to-end ETL pipeline using Amazon S3, AWS Glue, and Amazon Redshift Serverless with Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-an-end-to-end-etl-pipeline-using-amazon-s3-aws-glue-and-amazon-redshift-serverless-with-amazon-mwaa/"
+    },
+    {
+        "title": "Optimize data layout by bucketing with Amazon Athena and AWS Glue to accelerate downstream queries",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-data-layout-by-bucketing-with-amazon-athena-and-aws-glue-to-accelerate-downstream-queries/"
+    },
+    {
         "title": "Run interactive workloads on Amazon EMR Serverless from Amazon EMR Studio",
         "link": "https://aws.amazon.com/blogs/big-data/run-interactive-workloads-on-amazon-emr-serverless-from-amazon-emr-studio/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Krones real-time production line monitoring with Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/krones-real-time-production-line-monitoring-with-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "How Amazon optimized its high-volume financial reconciliation process with Amazon EMR for higher scalability and performance",
-        "link": "https://aws.amazon.com/blogs/big-data/how-amazon-optimized-its-high-volume-financial-reconciliation-process-with-amazon-emr-for-higher-scalability-and-performance/"
-    },
-    {
-        "title": "Improve healthcare services through patient 360: A zero-ETL approach to enable near real-time data analytics",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-healthcare-services-through-patient-360-a-zero-etl-approach-to-enable-near-real-time-data-analytics/"
     }
 ]
