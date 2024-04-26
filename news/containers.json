@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Amazon EC2 Spot Instances with Karpenter",
+        "link": "https://aws.amazon.com/blogs/containers/using-amazon-ec2-spot-instances-with-karpenter/"
+    },
+    {
         "title": "Applying Generative AI to CVE remediation \u2013 early vulnerability patching in Continuous Integration Pipelines",
         "link": "https://aws.amazon.com/blogs/containers/applying-generative-ai-to-cve-remediation-early-vulnerability-patching-in-continuous-integration-pipelines/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Unlocking AWS Fargate feature for attaching Amazon EBS Volumes to ECS Tasks",
         "link": "https://aws.amazon.com/blogs/containers/unlocking-aws-fargate-feature-for-attaching-amazon-ebs-volumes-to-ecs-tasks/"
-    },
-    {
-        "title": "Amazon EKS-Optimized Amazon Linux 2023 AMIs Now Available",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-optimized-amazon-linux-2023-amis-now-available/"
     }
 ]
