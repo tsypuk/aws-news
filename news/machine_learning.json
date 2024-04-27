@@ -1,5 +1,13 @@
 [
     {
+        "title": "Databricks DBRX is now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/databricks-dbrx-is-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Knowledge Bases in Amazon Bedrock now simplifies asking questions on a single document",
+        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-in-amazon-bedrock-now-simplifies-asking-questions-on-a-single-document/"
+    },
+    {
         "title": "Deploy a Hugging Face (PyAnnote) speaker diarization model on Amazon SageMaker as an asynchronous endpoint",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-hugging-face-pyannote-speaker-diarization-model-on-amazon-sagemaker-as-an-asynchronous-endpoint/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Slack delivers native and secure generative AI powered by Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/slack-delivers-native-and-secure-generative-ai-powered-by-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Uncover hidden connections in unstructured financial data with Amazon Bedrock and Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/machine-learning/uncover-hidden-connections-in-unstructured-financial-data-with-amazon-bedrock-and-amazon-neptune/"
-    },
-    {
-        "title": "Open source observability for AWS Inferentia nodes within Amazon EKS clusters",
-        "link": "https://aws.amazon.com/blogs/machine-learning/open-source-observability-for-aws-inferentia-nodes-within-amazon-eks-clusters/"
     }
 ]

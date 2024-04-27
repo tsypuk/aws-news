@@ -1,5 +1,17 @@
 [
     {
+        "title": "How StormForge reduces complexity and ensures scalability with Amazon Managed Service for Prometheus",
+        "link": "https://aws.amazon.com/blogs/mt/how-stormforge-reduces-complexity-and-ensures-scalability-with-amazon-managed-service-for-prometheus/"
+    },
+    {
+        "title": "Create a data-driven Migration Business Case using AWS Cloud Value Framework",
+        "link": "https://aws.amazon.com/blogs/mt/create-a-data-driven-migration-business-case-using-aws-cloud-value-framework/"
+    },
+    {
+        "title": "Using the unified CloudWatch Agent to send traces to AWS X-Ray",
+        "link": "https://aws.amazon.com/blogs/mt/using-the-unified-cloudwatch-agent-to-send-traces-to-aws-x-ray/"
+    },
+    {
         "title": "Unlock Faster Releases with AWS AppConfig: The Secret Weapon for Your CI/CD Strategy",
         "link": "https://aws.amazon.com/blogs/mt/unlock-faster-releases-with-aws-appconfig-the-secret-weapon-for-your-ci-cd-strategy/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Modernizing Account Management with Amazon Bedrock and AWS Control Tower",
         "link": "https://aws.amazon.com/blogs/mt/modernizing-account-management-with-amazon-bedrock-and-aws-control-tower/"
-    },
-    {
-        "title": "The Migration Well-Architected Review \u2013 a Mechanism to validate your migration for AWS best practices.",
-        "link": "https://aws.amazon.com/blogs/mt/the-migration-well-architected-review-a-mechanism-to-validate-your-migration-for-aws-best-practices/"
-    },
-    {
-        "title": "How to securely provide access to centralized AWS CloudTrail Lake logs across accounts in your organization",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-securely-provide-access-to-centralized-aws-cloudtrail-lake-logs-across-accounts-in-your-organization/"
-    },
-    {
-        "title": "Automating Alerts for AWS Global Network Performance",
-        "link": "https://aws.amazon.com/blogs/mt/automating-alerts-for-aws-global-network-performance/"
     }
 ]

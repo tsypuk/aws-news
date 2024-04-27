@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate comprehensive data protection using AWS CloudFormation StackSets",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-comprehensive-data-protection-using-aws-cloudformation-stacksets/"
+    },
+    {
         "title": "Save time converting Terraform templates to AWS using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-converting-terraform-templates-to-aws-using-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Collect custom metrics with Amazon CloudWatch strategic tagging",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/collect-custom-metrics-with-amazon-cloudwatch-strategic-tagging/"
-    },
-    {
-        "title": "Deploy bastion hosts into private subnets with AWS CDK",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/deploy-bastion-hosts-into-private-subnets-with-aws-cdk/"
     }
 ]
