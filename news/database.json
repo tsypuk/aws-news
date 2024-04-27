@@ -1,5 +1,13 @@
 [
     {
+        "title": "Manage AWS DMS with PowerShell",
+        "link": "https://aws.amazon.com/blogs/database/manage-aws-dms-with-powershell/"
+    },
+    {
+        "title": "Use Single-AZ read replicas in Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/use-single-az-read-replicas-in-amazon-rds-for-sql-server/"
+    },
+    {
         "title": "GQL: The ISO standard for graphs has arrived",
         "link": "https://aws.amazon.com/blogs/database/gql-the-iso-standard-for-graphs-has-arrived/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Access Amazon RDS across AWS accounts using AWS PrivateLink, Network Load Balancer, and Amazon RDS Proxy",
         "link": "https://aws.amazon.com/blogs/database/access-amazon-rds-across-aws-accounts-using-aws-privatelink-network-load-balancer-and-amazon-rds-proxy/"
-    },
-    {
-        "title": "Migrate Microsoft Azure SQL Database to Amazon RDS for SQL Server using Smart Bulk Copy",
-        "link": "https://aws.amazon.com/blogs/database/migrate-microsoft-azure-sql-database-to-amazon-rds-for-sql-server-using-smart-bulk-copy/"
-    },
-    {
-        "title": "AWS tools to optimize your Amazon RDS costs",
-        "link": "https://aws.amazon.com/blogs/database/aws-tools-to-optimize-your-amazon-rds-costs/"
     }
 ]

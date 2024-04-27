@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build APIs using OpenAPI, the AWS CDK and AWS Solutions Constructs",
+        "link": "https://aws.amazon.com/blogs/devops/build-apis-using-openapi-the-aws-cdk-and-aws-solutions-constructs/"
+    },
+    {
         "title": "Quickly go from Idea to PR with CodeCatalyst using Amazon Q",
         "link": "https://aws.amazon.com/blogs/devops/quickly-go-from-idea-to-pr-with-codecatalyst-using-amazon-q/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for scaling AWS CDK adoption within your organization",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-for-scaling-aws-cdk-adoption-within-your-organization/"
-    },
-    {
-        "title": "Getting started with Projen and AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/getting-started-with-projen-and-aws-cdk/"
     }
 ]

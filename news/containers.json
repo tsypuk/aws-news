@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enable Private Access to the Amazon EKS Kubernetes API with AWS PrivateLink",
+        "link": "https://aws.amazon.com/blogs/containers/enable-private-access-to-the-amazon-eks-kubernetes-api-with-aws-privatelink/"
+    },
+    {
         "title": "Using Amazon EC2 Spot Instances with Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/using-amazon-ec2-spot-instances-with-karpenter/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Quora achieved 3x lower latency and 25% lower Costs by modernizing model serving with Nvidia Triton on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/quora-3x-faster-machine-learning-25-lower-costs-with-nvidia-triton-on-amazon-eks/"
-    },
-    {
-        "title": "Unlocking AWS Fargate feature for attaching Amazon EBS Volumes to ECS Tasks",
-        "link": "https://aws.amazon.com/blogs/containers/unlocking-aws-fargate-feature-for-attaching-amazon-ebs-volumes-to-ecs-tasks/"
     }
 ]

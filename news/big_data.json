@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use your corporate identities for analytics with Amazon EMR and AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/big-data/use-your-corporate-identities-for-analytics-with-amazon-emr-and-aws-iam-identity-center/"
+    },
+    {
         "title": "Orchestrate an end-to-end ETL pipeline using Amazon S3, AWS Glue, and Amazon Redshift Serverless with Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/orchestrate-an-end-to-end-etl-pipeline-using-amazon-s3-aws-glue-and-amazon-redshift-serverless-with-amazon-mwaa/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance monitoring and debugging for AWS Glue jobs using new job observability metrics, Part 3: Visualization and trend analysis using Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics-part-3-visualization-and-trend-analysis-using-amazon-quicksight/"
-    },
-    {
-        "title": "Krones real-time production line monitoring with Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/krones-real-time-production-line-monitoring-with-amazon-managed-service-for-apache-flink/"
     }
 ]
