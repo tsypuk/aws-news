@@ -1,5 +1,9 @@
 [
     {
+        "title": "Hybrid Active Directory: Disaster recovery, cyber resiliency, and high availability solutions on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/hybrid-active-directory-disaster-recovery-cyber-resiliency-and-high-availability-solutions-on-aws/"
+    },
+    {
         "title": "Containerize SQL Server workloads with Amazon EKS and DH2i",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-workloads-with-amazon-eks-and-dh2i/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerate Remote Desktop Gateway deployments with AWS Launch Wizard",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-remote-desktop-gateway-deployments-with-aws-launch-wizard/"
-    },
-    {
-        "title": "Using Amazon ECS with AWS Fargate to automate Azure DevOps Hosted Agents",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ecs-with-aws-fargate-for-azure-devops-hosted-agents/"
     }
 ]
