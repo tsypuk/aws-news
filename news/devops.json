@@ -1,5 +1,9 @@
 [
     {
+        "title": "De-risk releases with AWS CodePipeline rollbacks",
+        "link": "https://aws.amazon.com/blogs/devops/de-risk-releases-with-aws-codepipeline-rollbacks/"
+    },
+    {
         "title": "Build APIs using OpenAPI, the AWS CDK and AWS Solutions Constructs",
         "link": "https://aws.amazon.com/blogs/devops/build-apis-using-openapi-the-aws-cdk-and-aws-solutions-constructs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best Practices for Prompt Engineering with Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-for-prompt-engineering-with-amazon-codewhisperer/"
-    },
-    {
-        "title": "Best practices for scaling AWS CDK adoption within your organization",
-        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-scaling-aws-cdk-adoption-within-your-organization/"
     }
 ]

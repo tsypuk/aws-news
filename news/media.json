@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate VMware virtual machines (VMs) to Amazon EC2 with the AWS Application Migration Service Replication Agent",
+        "link": "https://aws.amazon.com/blogs/mt/migrate-vmware-virtual-machines-to-amazon-ec2-with-the-aws-application-migration-service-replication-agent/"
+    },
+    {
+        "title": "Unlocking Mainframe Modernization for Success: Best practices to accelerate the mainframe to cloud journey",
+        "link": "https://aws.amazon.com/blogs/mt/unlocking-mainframe-modernization-for-success-best-practices-to-accelerate-the-mainframe-to-cloud-journey/"
+    },
+    {
         "title": "How StormForge reduces complexity and ensures scalability with Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/how-stormforge-reduces-complexity-and-ensures-scalability-with-amazon-managed-service-for-prometheus/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate your cloud migration journey to unlock innovation, increase resiliency, and optimize cost",
         "link": "https://aws.amazon.com/blogs/mt/accelerate-your-cloud-migration-journey-to-unlock-innovation-increase-resiliency-and-optimize-cost/"
-    },
-    {
-        "title": "Create AWS Config rules efficiently with Generative AI",
-        "link": "https://aws.amazon.com/blogs/mt/create-aws-config-rules-efficiently-with-generative-ai/"
-    },
-    {
-        "title": "Modernizing Account Management with Amazon Bedrock and AWS Control Tower",
-        "link": "https://aws.amazon.com/blogs/mt/modernizing-account-management-with-amazon-bedrock-and-aws-control-tower/"
     }
 ]
