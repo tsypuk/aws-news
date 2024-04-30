@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dive deep into security management: The Data on EKS Platform",
+        "link": "https://aws.amazon.com/blogs/big-data/dive-deep-into-security-management-the-data-on-eks-platform/"
+    },
+    {
         "title": "Use your corporate identities for analytics with Amazon EMR and AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/big-data/use-your-corporate-identities-for-analytics-with-amazon-emr-and-aws-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Nexthink scales to trillions of events per day with Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/nexthink-scales-to-trillions-of-events-per-day-with-amazon-msk/"
-    },
-    {
-        "title": "Enhance monitoring and debugging for AWS Glue jobs using new job observability metrics, Part 3: Visualization and trend analysis using Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-monitoring-and-debugging-for-aws-glue-jobs-using-new-job-observability-metrics-part-3-visualization-and-trend-analysis-using-amazon-quicksight/"
     }
 ]

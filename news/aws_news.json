@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run scalable, enterprise-grade generative AI workloads with Cohere Command R & R+, now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/run-scalable-enterprise-grade-generative-ai-workloads-with-cohere-r-r-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Amazon Bedrock, AWS CodeBuild, Amazon CodeCatalyst, and more (April 29, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-codebuild-amazon-codecatalyst-and-more-april-29-2024/"
+    },
+    {
         "title": "Meta Llama 3 models are now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Run large-scale simulations with AWS Batch multi-container jobs",
         "link": "https://aws.amazon.com/blogs/aws/run-large-scale-simulations-with-aws-batch-multi-container-jobs/"
-    },
-    {
-        "title": "AWS Weekly Roundup \u2014 Savings Plans, Amazon DynamoDB, AWS CodeArtifact, and more \u2014 March 25, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-savings-plans-amazon-dynamodb-aws-codeartifact-and-more-march-25-2024/"
-    },
-    {
-        "title": "Improve the security of your software supply chain with Amazon CodeArtifact package group configuration",
-        "link": "https://aws.amazon.com/blogs/aws/improve-the-security-of-your-software-supply-chain-with-amazon-codeartifact-package-group-configuration/"
     }
 ]

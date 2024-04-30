@@ -1,5 +1,13 @@
 [
     {
+        "title": "Blockchain node deployment on AWS: A comprehensive guide",
+        "link": "https://aws.amazon.com/blogs/database/blockchain-node-deployment-on-aws-a-comprehensive-guide/"
+    },
+    {
+        "title": "Monitor Amazon RDS for Oracle instances using Oracle Enterprise Manager",
+        "link": "https://aws.amazon.com/blogs/database/monitor-amazon-rds-for-oracle-instances-using-oracle-enterprise-manager/"
+    },
+    {
         "title": "Manage AWS DMS with PowerShell",
         "link": "https://aws.amazon.com/blogs/database/manage-aws-dms-with-powershell/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Scale write performance on Amazon DocumentDB elastic clusters",
         "link": "https://aws.amazon.com/blogs/database/scale-write-performance-on-amazon-documentdb-elastic-clusters/"
-    },
-    {
-        "title": "Reduce cost and improve performance by migrating to Amazon DocumentDB 5.0",
-        "link": "https://aws.amazon.com/blogs/database/reduce-cost-and-improve-performance-by-migrating-to-amazon-documentdb-5-0/"
-    },
-    {
-        "title": "Access Amazon RDS across AWS accounts using AWS PrivateLink, Network Load Balancer, and Amazon RDS Proxy",
-        "link": "https://aws.amazon.com/blogs/database/access-amazon-rds-across-aws-accounts-using-aws-privatelink-network-load-balancer-and-amazon-rds-proxy/"
     }
 ]

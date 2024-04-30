@@ -1,5 +1,17 @@
 [
     {
+        "title": "Develop and train large models cost-efficiently with Metaflow and AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/develop-and-train-large-models-cost-efficiently-with-metaflow-and-aws-trainium/"
+    },
+    {
+        "title": "Cohere Command R and R+ are now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-command-r-and-r-are-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Revolutionizing large language model training with Arcee and AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-large-language-model-training-with-arcee-and-aws-trainium/"
+    },
+    {
         "title": "Databricks DBRX is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/databricks-dbrx-is-now-available-in-amazon-sagemaker-jumpstart/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Generate customized, compliant application IaC scripts for AWS Landing Zone using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/generate-customized-compliant-application-iac-scripts-for-aws-landing-zone-using-amazon-bedrock/"
-    },
-    {
-        "title": "Live Meeting Assistant with Amazon Transcribe, Amazon Bedrock, and Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/live-meeting-assistant-with-amazon-transcribe-amazon-bedrock-and-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Meta Llama 3 models are now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/meta-llama-3-models-are-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Slack delivers native and secure generative AI powered by Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/slack-delivers-native-and-secure-generative-ai-powered-by-amazon-sagemaker-jumpstart/"
     }
 ]
