@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate deployment of SAP Web Dispatcher using AWS Launch Wizard for SAP",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automate-deployment-of-sap-web-dispatcher-using-aws-launch-wizard-for-sap/"
+    },
+    {
         "title": "Build SAP Golden AMIs with EC2 Image Builder and Ansible",
         "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-golden-amis-with-ec2-image-builder-and-ansible/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Event-Driven Architectures with the AWS SDK for SAP ABAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/event-driven-architecture-aws-abap-sdk/"
-    },
-    {
-        "title": "Automate incident management for SAP on AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/automate-incident-management-for-sap-on-aws/"
     }
 ]

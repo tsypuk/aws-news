@@ -1,5 +1,21 @@
 [
     {
+        "title": "Build private and secure enterprise generative AI apps with Amazon Q Business and AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-private-and-secure-enterprise-generative-ai-apps-with-amazon-q-business-and-aws-iam-identity-center/"
+    },
+    {
+        "title": "Enhance customer service efficiency with AI-powered summarization using Amazon Transcribe Call Analytics",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-customer-service-efficiency-with-ai-powered-summarization-using-amazon-transcribe-call-analytics/"
+    },
+    {
+        "title": "Accelerate software development and leverage your business data with generative AI assistance from Amazon Q",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/"
+    },
+    {
+        "title": "Amazon Q Business and Amazon Q in QuickSight empowers employees to be more data-driven and make better, faster decisions using company knowledge",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-business-and-amazon-q-in-quicksight-empowers-employees-to-be-more-data-driven-and-make-better-faster-decisions-using-company-knowledge/"
+    },
+    {
         "title": "Develop and train large models cost-efficiently with Metaflow and AWS Trainium",
         "link": "https://aws.amazon.com/blogs/machine-learning/develop-and-train-large-models-cost-efficiently-with-metaflow-and-aws-trainium/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Introducing automatic training for solutions in Amazon Personalize",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-automatic-training-for-solutions-in-amazon-personalize/"
-    },
-    {
-        "title": "Use Kubernetes Operators for new inference capabilities in Amazon SageMaker that reduce LLM deployment costs by 50% on average",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-kubernetes-operators-for-new-inference-capabilities-in-amazon-sagemaker-that-reduce-llm-deployment-costs-by-50-on-average/"
-    },
-    {
-        "title": "Talk to your slide deck using multimodal foundation models hosted on Amazon Bedrock \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/talk-to-your-slide-deck-using-multimodal-foundation-models-hosted-on-amazon-bedrock-and-amazon-sagemaker-part-2/"
-    },
-    {
-        "title": "Scale AI training and inference for drug discovery through Amazon EKS and Karpenter",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scale-ai-training-and-inference-for-drug-discovery-through-amazon-eks-and-karpenter/"
-    },
-    {
-        "title": "Generate customized, compliant application IaC scripts for AWS Landing Zone using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-customized-compliant-application-iac-scripts-for-aws-landing-zone-using-amazon-bedrock/"
     }
 ]

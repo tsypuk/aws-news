@@ -1,5 +1,21 @@
 [
     {
+        "title": "Scale your relational database for SaaS, Part 2: Sharding and routing",
+        "link": "https://aws.amazon.com/blogs/database/scale-your-relational-database-for-saas-part-2-sharding-and-routing/"
+    },
+    {
+        "title": "Scale your relational database for SaaS, Part 1: Common scaling patterns",
+        "link": "https://aws.amazon.com/blogs/database/scale-your-relational-database-for-saas-part-1-common-scaling-patterns/"
+    },
+    {
+        "title": "Perform a side-by-side upgrade in AWS DMS by moving tasks to minimize business impact",
+        "link": "https://aws.amazon.com/blogs/database/perform-a-side-by-side-upgrade-in-aws-dms-by-moving-tasks-to-minimize-business-impact/"
+    },
+    {
+        "title": "Improve query performance using partial indexes in Amazon DocumentDB",
+        "link": "https://aws.amazon.com/blogs/database/improve-query-performance-using-partial-indexes-in-amazon-documentdb/"
+    },
+    {
         "title": "Blockchain node deployment on AWS: A comprehensive guide",
         "link": "https://aws.amazon.com/blogs/database/blockchain-node-deployment-on-aws-a-comprehensive-guide/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Programmatic approach to optimize the cost of Amazon RDS snapshots",
         "link": "https://aws.amazon.com/blogs/database/programmatic-approach-to-optimize-the-cost-of-amazon-rds-snapshots/"
-    },
-    {
-        "title": "Mask sensitive Amazon DocumentDB log data with Amazon CloudWatch Logs data protection",
-        "link": "https://aws.amazon.com/blogs/database/mask-sensitive-amazon-documentdb-log-data-with-amazon-cloudwatch-logs-data-protection/"
-    },
-    {
-        "title": "How VTEX improved the shopper experience with Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/how-vtex-improved-the-shopper-experience-with-amazon-dynamodb/"
-    },
-    {
-        "title": "Achieve auditability with Amazon RDS IAM authentication using attribute-based access control",
-        "link": "https://aws.amazon.com/blogs/database/achieve-auditability-with-amazon-rds-iam-authentication-using-attribute-based-access-control/"
-    },
-    {
-        "title": "Scale write performance on Amazon DocumentDB elastic clusters",
-        "link": "https://aws.amazon.com/blogs/database/scale-write-performance-on-amazon-documentdb-elastic-clusters/"
     }
 ]
