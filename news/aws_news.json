@@ -1,5 +1,21 @@
 [
     {
+        "title": "Add your Ruby gems to AWS CodeArtifact",
+        "link": "https://aws.amazon.com/blogs/aws/add-your-ruby-gems-to-aws-codeartifact/"
+    },
+    {
+        "title": "Amazon Titan Text V2 now available in Amazon Bedrock, optimized for improving RAG",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-titan-text-v2-now-available-in-amazon-bedrock-optimized-for-improving-rag/"
+    },
+    {
+        "title": "Amazon Q Business, now generally available, helps boost workforce productivity with generative AI",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-q-business-now-generally-available-helps-boost-workforce-productivity-with-generative-ai/"
+    },
+    {
+        "title": "Amazon Q Developer, now generally available, includes previews of new capabilities to reimagine developer experience",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience/"
+    },
+    {
         "title": "Run scalable, enterprise-grade generative AI workloads with Cohere Command R & R+, now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/run-scalable-enterprise-grade-generative-ai-workloads-with-cohere-r-r-now-available-in-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Tackle complex reasoning tasks with Mistral Large, now available on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/tackle-complex-reasoning-tasks-with-mistral-large-now-available-on-amazon-bedrock/"
-    },
-    {
-        "title": "Introducing AWS Deadline Cloud: Set up a cloud-based render farm in minutes",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-deadline-cloud-set-up-a-cloud-based-render-farm-in-minutes/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Chips Taste Test, generative AI updates, Community Days, and more (April 1, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-chips-taste-test-generative-ai-updates-community-days-and-more-april-1-2024/"
-    },
-    {
-        "title": "Amazon GuardDuty EC2 Runtime Monitoring is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-guardduty-ec2-runtime-monitoring-is-now-generally-available/"
-    },
-    {
-        "title": "Run large-scale simulations with AWS Batch multi-container jobs",
-        "link": "https://aws.amazon.com/blogs/aws/run-large-scale-simulations-with-aws-batch-multi-container-jobs/"
     }
 ]

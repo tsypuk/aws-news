@@ -1,5 +1,17 @@
 [
     {
+        "title": "Strengthen Security Posture with AI-Enabled Insights Using Amazon Security Lake, Splunk, and Recorded Future",
+        "link": "https://aws.amazon.com/blogs/apn/strengthen-security-posture-with-ai-enabled-insights-using-amazon-security-lake-splunk-and-recorded-future/"
+    },
+    {
+        "title": "How Arcanum AI Migrated Models from OpenAI to AWS Using Amazon Bedrock and Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/apn/how-arcanum-ai-migrated-models-from-openai-to-aws-using-amazon-bedrock-and-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Tenant Switching and Custom Permissions in a Multi-Tenant Serverless Application",
+        "link": "https://aws.amazon.com/blogs/apn/tenant-switching-and-custom-permissions-in-a-multi-tenant-serverless-application/"
+    },
+    {
         "title": "How Exxeta Improves IT Planning with Use-Case Driven Architecture on AWS",
         "link": "https://aws.amazon.com/blogs/apn/how-exxeta-improves-it-planning-with-use-case-driven-architecture-on-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Datasaur Reimagines Data Labeling Tasks Using Generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/apn/how-datasaur-reimagines-data-labeling-tasks-using-generative-ai-on-aws/"
-    },
-    {
-        "title": "Protecting and Managing Sensitive Customer Data with Skyflow and Cloud Storage Security",
-        "link": "https://aws.amazon.com/blogs/apn/protecting-and-managing-sensitive-customer-data-with-skyflow-and-cloud-storage-security/"
-    },
-    {
-        "title": "Accelerating the Modern Manufacturing Transformation with LTIMindtree\u2019s Digital Command Center on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/accelerating-the-modern-manufacturing-transformation-with-ltimindtrees-digital-command-center-on-aws/"
-    },
-    {
-        "title": "How to Leverage the AWS Cloud Adoption Framework for VMware Cloud on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-leverage-the-aws-cloud-adoption-framework-for-vmware-cloud-on-aws/"
     }
 ]

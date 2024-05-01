@@ -1,5 +1,9 @@
 [
     {
+        "title": "Flowpipe: A Cloud Scripting Engine for DevOps Workflows",
+        "link": "https://aws.amazon.com/blogs/opensource/flowpipe-a-cloud-scripting-engine-for-devops-workflows/"
+    },
+    {
         "title": "Lean Into Verified Software Development",
         "link": "https://aws.amazon.com/blogs/opensource/lean-into-verified-software-development/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enabling Scientists to Collaborate with Amazon EKS and Open Science Studio",
         "link": "https://aws.amazon.com/blogs/opensource/enabling-scientists-to-collaborate-with-amazon-eks-and-open-science-studio/"
-    },
-    {
-        "title": "Enhancing an Internal Developer Platform (IDP) with Crossplane on EKS at SIXT",
-        "link": "https://aws.amazon.com/blogs/opensource/enhancing-internal-developer-platform-idp-with-crossplane-on-eks-at-sixt/"
     }
 ]

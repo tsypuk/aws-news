@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using Amazon Route 53 Profiles for scalable multi-account AWS environments",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-amazon-route-53-profiles-for-scalable-multi-account-aws-environments/"
+    },
+    {
+        "title": "Secure your Lambda function URLs using Amazon CloudFront origin access control",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-your-lambda-function-urls-using-amazon-cloudfront-origin-access-control/"
+    },
+    {
         "title": "Using latency-based routing with Amazon CloudFront for a multi-Region active-active architecture",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/latency-based-routing-leveraging-amazon-cloudfront-for-a-multi-region-active-active-architecture/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Using VPC Reachability Analyzer to discover network paths across multiple AWS Regions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-reachability-analyzer-to-discover-network-paths-across-multiple-aws-regions/"
-    },
-    {
-        "title": "Automating CloudFront Continuous Deployment with a CI/CD Pipeline",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-cloudfront-continuous-deployment-with-a-ci-cd-pipeline/"
-    },
-    {
-        "title": "Capture packets with Amazon VPC Traffic Mirroring and Mountpoint for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/capture-packets-with-amazon-vpc-traffic-mirroring-and-mountpoint-for-amazon-s3/"
     }
 ]
