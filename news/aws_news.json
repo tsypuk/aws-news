@@ -1,10 +1,14 @@
 [
     {
+        "title": "Stop the CNAME chain struggle: Simplified management with Route 53 Resolver DNS Firewall",
+        "link": "https://aws.amazon.com/blogs/aws/stop-the-cname-chain-struggle-simplified-management-with-route-53-resolver-dns-firewall/"
+    },
+    {
         "title": "Add your Ruby gems to AWS CodeArtifact",
         "link": "https://aws.amazon.com/blogs/aws/add-your-ruby-gems-to-aws-codeartifact/"
     },
     {
-        "title": "Amazon Titan Text V2 now available in Amazon Bedrock, optimized for improving RAG",
+        "title": "Amazon Titan Text Embeddings V2 now available in Amazon Bedrock, optimized for improving RAG",
         "link": "https://aws.amazon.com/blogs/aws/amazon-titan-text-v2-now-available-in-amazon-bedrock-optimized-for-improving-rag/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Amazon EC2 G6 instances, Mistral Large on Amazon Bedrock, AWS Deadline Cloud, and more (April 8, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mistral-large-aws-clean-rooms-ml-aws-deadline-cloud-and-more-april-8-2024/"
-    },
-    {
-        "title": "Tackle complex reasoning tasks with Mistral Large, now available on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/tackle-complex-reasoning-tasks-with-mistral-large-now-available-on-amazon-bedrock/"
     }
 ]

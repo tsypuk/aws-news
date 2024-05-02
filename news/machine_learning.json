@@ -1,5 +1,21 @@
 [
     {
+        "title": "Simple guide to training Llama 2 with AWS Trainium on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simple-guide-to-training-llama-2-with-aws-trainium-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Fine-tune and deploy language models with Amazon SageMaker Canvas and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-language-models-with-amazon-sagemaker-canvas-and-amazon-bedrock/"
+    },
+    {
+        "title": "Improving inclusion and accessibility through automated document translation with an open source app using Amazon Translate",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improving-inclusion-and-accessibility-through-automated-document-translation-with-an-open-source-app-using-amazon-translate/"
+    },
+    {
+        "title": "Automate chatbot for document and data retrieval using Agents and Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-chatbot-for-document-and-data-retrieval-using-agents-and-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
         "title": "Build private and secure enterprise generative AI apps with Amazon Q Business and AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-private-and-secure-enterprise-generative-ai-apps-with-amazon-q-business-and-aws-iam-identity-center/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Significant new capabilities make it easier to use Amazon Bedrock to build and scale generative AI applications \u2013 and achieve impressive results",
         "link": "https://aws.amazon.com/blogs/machine-learning/new-capabilities-make-it-easier-to-use-amazon-bedrock-to-build-and-scale-generative-ai-applications-and-deliver-impact/"
-    },
-    {
-        "title": "Building scalable, secure, and reliable RAG applications using Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-scalable-secure-and-reliable-rag-applications-using-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Integrate HyperPod clusters with Active Directory for seamless multi-user login",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-hyperpod-clusters-with-active-directory-for-seamless-multi-user-login/"
-    },
-    {
-        "title": "The executive\u2019s guide to generative AI for sustainability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-executives-guide-to-generative-ai-for-sustainability/"
-    },
-    {
-        "title": "Introducing automatic training for solutions in Amazon Personalize",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-automatic-training-for-solutions-in-amazon-personalize/"
     }
 ]

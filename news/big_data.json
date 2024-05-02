@@ -1,5 +1,17 @@
 [
     {
+        "title": "Analyze more demanding as well as larger time series workloads with Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/analyze-more-demanding-as-well-as-larger-time-series-workloads-with-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "Detect and handle data skew on AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/detect-and-handle-data-skew-on-aws-glue/"
+    },
+    {
+        "title": "How Fujitsu implemented a global data mesh architecture and democratized data",
+        "link": "https://aws.amazon.com/blogs/big-data/how-fujitsu-implemented-a-global-data-mesh-architecture-and-democratized-data/"
+    },
+    {
         "title": "Introducing Amazon Q data integration in AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-q-data-integration-in-aws-glue/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Use Apache Iceberg in your data lake with Amazon S3, AWS Glue, and Snowflake",
         "link": "https://aws.amazon.com/blogs/big-data/use-apache-iceberg-in-your-data-lake-with-amazon-s3-aws-glue-and-snowflake/"
-    },
-    {
-        "title": "Simplify your query management with search templates in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-your-query-management-with-search-templates-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "AI recommendations for descriptions in Amazon DataZone for enhanced business data cataloging and discovery is now generally available",
-        "link": "https://aws.amazon.com/blogs/big-data/ai-recommendations-for-descriptions-in-amazon-datazone-for-enhanced-business-data-cataloging-and-discovery-is-now-generally-available/"
-    },
-    {
-        "title": "Deliver decompressed Amazon CloudWatch Logs to Amazon S3 and Splunk using Amazon Data Firehose",
-        "link": "https://aws.amazon.com/blogs/big-data/deliver-decompressed-amazon-cloudwatch-logs-to-amazon-s3-and-splunk-using-amazon-data-firehose/"
     }
 ]

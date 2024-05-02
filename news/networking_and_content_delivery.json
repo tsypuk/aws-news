@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling strategies for Elastic Load Balancing",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-strategies-for-elastic-load-balancing/"
+    },
+    {
         "title": "Using Amazon Route 53 Profiles for scalable multi-account AWS environments",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-amazon-route-53-profiles-for-scalable-multi-account-aws-environments/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using AWS Network Manager Events to manage and monitor your global network",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-network-manager-events-to-manage-and-monitor-your-global-network/"
-    },
-    {
-        "title": "Using VPC Reachability Analyzer to discover network paths across multiple AWS Regions",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-vpc-reachability-analyzer-to-discover-network-paths-across-multiple-aws-regions/"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "title": "AWS Ops Automator v2 features vertical scaling (Preview)",
-        "link": "https://aws.amazon.com/blogs/architecture/aws-ops-automator-v2-features-vertical-scaling-preview/"
-    },
-    {
         "title": "Let\u2019s Architect! Discovering Generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Let\u2019s Architect! Leveraging in-memory databases",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-leveraging-in-memory-databases/"
+    },
+    {
+        "title": "Operating models for Web App Security Governance in AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/operating-models-for-web-app-security-governance-in-aws/"
     }
 ]
