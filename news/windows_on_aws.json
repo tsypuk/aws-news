@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernizing .NET Applications to Microservices using AWS Migration Hub Refactor Spaces",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernizing-net-applications-to-microservices-using-aws-migration-hub-refactor-spaces/"
+    },
+    {
         "title": "Hybrid Active Directory: Disaster recovery, cyber resiliency, and high availability solutions on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/hybrid-active-directory-disaster-recovery-cyber-resiliency-and-high-availability-solutions-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to generate TLS certificates for a highly available Remote Desktop Gateway Farm",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-generate-tls-certificates-for-a-highly-available-remote-desktop-gateway-farm/"
-    },
-    {
-        "title": "Accelerate Remote Desktop Gateway deployments with AWS Launch Wizard",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-remote-desktop-gateway-deployments-with-aws-launch-wizard/"
     }
 ]

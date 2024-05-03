@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build RAG applications with MongoDB Atlas, now available in Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/build-rag-applications-with-mongodb-atlas-now-available-in-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
         "title": "Stop the CNAME chain struggle: Simplified management with Route 53 Resolver DNS Firewall",
         "link": "https://aws.amazon.com/blogs/aws/stop-the-cname-chain-struggle-simplified-management-with-route-53-resolver-dns-firewall/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: New features on Knowledge Bases for Amazon Bedrock, OAC for Lambda function URL origins on Amazon CloudFront, and more (April 15, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-features-on-knowledge-bases-for-amazon-bedrock-oac-for-lambda-function-url-origins-on-amazon-cloudfront-and-more-april-15-2024/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon EC2 G6 instances, Mistral Large on Amazon Bedrock, AWS Deadline Cloud, and more (April 8, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mistral-large-aws-clean-rooms-ml-aws-deadline-cloud-and-more-april-8-2024/"
     }
 ]

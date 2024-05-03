@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating workflow development with the TestState API in AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/compute/accelerating-workflow-development-with-the-teststate-api-in-aws-step-functions/"
+    },
+    {
         "title": "Architecting for Disaster Recovery on AWS Outposts Racks with AWS Elastic Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/compute/architecting-for-disaster-recovery-on-aws-outposts-racks-with-aws-elastic-disaster-recovery/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Hibernating EC2 Instances in Response to a CloudWatch Alarm",
         "link": "https://aws.amazon.com/blogs/compute/hibernating-ec2-instances-in-response-to-a-cloudwatch-alarm/"
-    },
-    {
-        "title": "Introducing Amazon MQ cross-Region data replication for ActiveMQ brokers",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-amazon-mq-cross-region-data-replication-for-activemq-brokers/"
     }
 ]
