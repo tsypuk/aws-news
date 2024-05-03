@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor Python apps with Amazon CloudWatch Application Signals (Preview)",
+        "link": "https://aws.amazon.com/blogs/mt/monitoring-python-apps-using-amazon-cloudwatch-application-signals/"
+    },
+    {
         "title": "Migrate VMware virtual machines (VMs) to Amazon EC2 with the AWS Application Migration Service Replication Agent",
         "link": "https://aws.amazon.com/blogs/mt/migrate-vmware-virtual-machines-to-amazon-ec2-with-the-aws-application-migration-service-replication-agent/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leverage AWS Resilience Lifecycle Framework to assess and improve the resilience of application using AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/leverage-aws-resilience-lifecycle-framework-to-assess-and-improve-the-resilience-of-application-using-aws-resilience-hub/"
-    },
-    {
-        "title": "Accelerate your cloud migration journey to unlock innovation, increase resiliency, and optimize cost",
-        "link": "https://aws.amazon.com/blogs/mt/accelerate-your-cloud-migration-journey-to-unlock-innovation-increase-resiliency-and-optimize-cost/"
     }
 ]

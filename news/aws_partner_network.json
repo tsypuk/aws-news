@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlocking the Power of Customer Data: How Caylent and AWS Modernized an Analytics Pipeline",
+        "link": "https://aws.amazon.com/blogs/apn/unlocking-the-power-of-customer-data-how-caylent-and-aws-modernized-an-analytics-pipeline/"
+    },
+    {
         "title": "Strengthen Security Posture with AI-Enabled Insights Using Amazon Security Lake, Splunk, and Recorded Future",
         "link": "https://aws.amazon.com/blogs/apn/strengthen-security-posture-with-ai-enabled-insights-using-amazon-security-lake-splunk-and-recorded-future/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to Import and Manage AWS Networking with Terraform and ControlMonkey",
         "link": "https://aws.amazon.com/blogs/apn/how-to-import-and-manage-aws-networking-with-terraform-and-controlmonkey/"
-    },
-    {
-        "title": "How Datasaur Reimagines Data Labeling Tasks Using Generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/how-datasaur-reimagines-data-labeling-tasks-using-generative-ai-on-aws/"
     }
 ]
