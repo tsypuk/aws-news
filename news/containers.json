@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Slack adopted Karpenter to increase Operational and Cost Efficiency",
+        "link": "https://aws.amazon.com/blogs/containers/how-slack-adopted-karpenter-to-increase-operational-and-cost-efficiency/"
+    },
+    {
         "title": "How Upstox built NextGen trading platform using Amazon EKS, Karpenter, and spot instances",
         "link": "https://aws.amazon.com/blogs/containers/how-upstox-built-nextgen-trading-platform-using-amazon-eks-karpenter-and-spot-instances/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon VPC CNI introduces Enhanced Subnet Discovery",
         "link": "https://aws.amazon.com/blogs/containers/amazon-vpc-cni-introduces-enhanced-subnet-discovery/"
-    },
-    {
-        "title": "Quora achieved 3x lower latency and 25% lower Costs by modernizing model serving with Nvidia Triton on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/quora-3x-faster-machine-learning-25-lower-costs-with-nvidia-triton-on-amazon-eks/"
     }
 ]

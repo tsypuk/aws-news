@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reimagine customer experiences with AWS at Customer Contact Week 2024",
+        "link": "https://aws.amazon.com/blogs/contact-center/aws-at-customer-contact-week-2024/"
+    },
+    {
         "title": "Optimizing your knowledge base for Amazon Q in Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/optimizing-knowledge-base-amazon-q-in-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Manage prompts programmatically with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/programmatically-manage-prompts-using-apis-in-amazon-connect/"
-    },
-    {
-        "title": "Best practice: How to use Amazon Connect Contact Lens to improve agent performance",
-        "link": "https://aws.amazon.com/blogs/contact-center/easily-evaluate-agent-performance-using-contact-lens-evaluations-and-screen-recording/"
     }
 ]
