@@ -1,5 +1,9 @@
 [
     {
+        "title": "Faster restores on Veeam using Amazon S3 Glacier Flexible Retrieval and S3 Batch Operations",
+        "link": "https://aws.amazon.com/blogs/storage/faster-restores-on-veeam-using-amazon-s3-glacier-flexible-retrieval-and-s3-batch-operations/"
+    },
+    {
         "title": "Optimizing enterprise MLOps in the cloud with Domino Data Lab and Amazon Elastic File System",
         "link": "https://aws.amazon.com/blogs/storage/responsible-enterprise-ai-across-the-hybrid-cloud-with-domino-and-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Achieving consistent time to first byte latencies with Amazon S3 on Outposts",
         "link": "https://aws.amazon.com/blogs/storage/achieving-consistent-time-to-first-byte-latencies-with-amazon-s3-on-outposts/"
-    },
-    {
-        "title": "Replicate objects Using AWS DataSync with Amazon S3 compatible storage on Snowball Edge",
-        "link": "https://aws.amazon.com/blogs/storage/replicate-objects-using-aws-datasync-with-amazon-s3-compatible-storage-on-snowball-edge/"
     }
 ]
