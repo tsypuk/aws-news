@@ -1,5 +1,9 @@
 [
     {
+        "title": "Providing self-service multi-account access to AWS Managed Microsoft AD",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/providing-self-service-multi-account-access-to-aws-managed-microsoft-ad/"
+    },
+    {
         "title": "Modernizing .NET Applications to Microservices using AWS Migration Hub Refactor Spaces",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernizing-net-applications-to-microservices-using-aws-migration-hub-refactor-spaces/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automatically create self-managed licenses in multiple accounts using tags",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automatically-create-self-managed-licenses-in-multiple-accounts-using-tags/"
-    },
-    {
-        "title": "How to generate TLS certificates for a highly available Remote Desktop Gateway Farm",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-generate-tls-certificates-for-a-highly-available-remote-desktop-gateway-farm/"
     }
 ]
