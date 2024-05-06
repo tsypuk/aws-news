@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify Amazon EKS Deployments with GitHub Actions and AWS CodeBuild",
+        "link": "https://aws.amazon.com/blogs/devops/simplify-amazon-eks-deployments-with-github-actions-and-aws-codebuild/"
+    },
+    {
         "title": "Automate Terraform Deployments with Amazon CodeCatalyst and Terraform Community action",
         "link": "https://aws.amazon.com/blogs/devops/automate-terraform-deployments-with-amazon-codecatalyst-and-terraform-community-action/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "re:Invent 2023 DevOps and Developer Productivity Playlist",
         "link": "https://aws.amazon.com/blogs/devops/reinvent-2023-devops-and-developer-productivity-playlist/"
-    },
-    {
-        "title": "The most visited AWS DevOps blog posts in 2023",
-        "link": "https://aws.amazon.com/blogs/devops/the-most-visited-aws-devops-blogs-in-2023/"
     }
 ]
