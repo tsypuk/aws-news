@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing Network Resilience with Istio on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/opensource/enhancing-network-resilience-with-istio-on-amazon-eks/"
+    },
+    {
         "title": "Flowpipe: A Cloud Scripting Engine for DevOps Workflows",
         "link": "https://aws.amazon.com/blogs/opensource/flowpipe-a-cloud-scripting-engine-for-devops-workflows/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Ready for Flight: Announcing Finch 1.0 GA!",
         "link": "https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/"
-    },
-    {
-        "title": "Enabling Scientists to Collaborate with Amazon EKS and Open Science Studio",
-        "link": "https://aws.amazon.com/blogs/opensource/enabling-scientists-to-collaborate-with-amazon-eks-and-open-science-studio/"
     }
 ]

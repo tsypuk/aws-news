@@ -1,5 +1,13 @@
 [
     {
+        "title": "Fullstack TypeScript: Reintroducing AWS Amplify",
+        "link": "https://aws.amazon.com/blogs/mobile/amplify-gen2-ga/"
+    },
+    {
+        "title": "The evolution of full-stack development with AWS Amplify",
+        "link": "https://aws.amazon.com/blogs/mobile/evolution-of-full-stack-development-with-aws-amplify/"
+    },
+    {
         "title": "Join us for an AWS Amplify Launch Week May 6-10",
         "link": "https://aws.amazon.com/blogs/mobile/join-us-for-an-aws-amplify-launch-week-may-6-10/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "The frontend web and mobile app developer\u2019s guide to AWS re:Invent 2023",
         "link": "https://aws.amazon.com/blogs/mobile/the-frontend-developers-guide-to-aws-reinvent-2023/"
-    },
-    {
-        "title": "6 New AWS Amplify Launches for Frontend Developers",
-        "link": "https://aws.amazon.com/blogs/mobile/6-new-aws-amplify-launches-to-make-frontend-development-easier/"
-    },
-    {
-        "title": "Wildcard Subdomains for Multi-tenant Apps on AWS Amplify Hosting",
-        "link": "https://aws.amazon.com/blogs/mobile/wildcard-subdomains-for-multi-tenant-apps-on-aws-amplify-hosting/"
     }
 ]

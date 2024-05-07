@@ -1,5 +1,13 @@
 [
     {
+        "title": "Managing object dependencies in PostgreSQL: Removing dependent objects (Part2)",
+        "link": "https://aws.amazon.com/blogs/database/managing-object-dependencies-in-postgresql-removing-dependent-objects-part2/"
+    },
+    {
+        "title": "Managing object dependencies in PostgreSQL \u2013 Overview and helpful inspection queries (Part 1)",
+        "link": "https://aws.amazon.com/blogs/database/managing-object-dependencies-in-postgresql-overview-and-helpful-inspection-queries-part-1/"
+    },
+    {
         "title": "Introducing configurable maximum throughput for Amazon DynamoDB on-demand",
         "link": "https://aws.amazon.com/blogs/database/introducing-configurable-maximum-throughput-for-amazon-dynamodb-on-demand/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to build a crypto wallet application using Amazon Managed Blockchain Access and Query",
         "link": "https://aws.amazon.com/blogs/database/how-to-build-a-crypto-wallet-application-using-amazon-managed-blockchain-access-and-query/"
-    },
-    {
-        "title": "Reduce Amazon Aurora MySQL backup costs using MySQL Shell and Amazon S3",
-        "link": "https://aws.amazon.com/blogs/database/reduce-amazon-aurora-mysql-backup-costs-using-mysql-shell-and-amazon-s3/"
-    },
-    {
-        "title": "Troubleshoot and minimize AWS DMS replication latency with Amazon S3 as a target",
-        "link": "https://aws.amazon.com/blogs/database/troubleshoot-and-minimize-aws-dms-replication-latency-with-amazon-s3-as-a-target/"
     }
 ]
