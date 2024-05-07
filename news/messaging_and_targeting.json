@@ -1,9 +1,5 @@
 [
     {
-        "title": "How to Send MMS Using Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-mms-using-amazon-pinpoint/"
-    },
-    {
         "title": "Serverless IoT email capture, attachment processing, and distribution",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/serverless-iot-email-capture-attachment-processing-and-distribution/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Amazon SES: Email Authentication and Getting Value out of Your DMARC Policy",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/email-authenctication-dmarc-policy/"
+    },
+    {
+        "title": "Handling Bounces and Complaints",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/handling-bounces-and-complaints/"
     }
 ]

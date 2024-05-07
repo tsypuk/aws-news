@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating Your WebRTC Application from Twilio to AWS: A Developer\u2019s Guide",
+        "link": "https://aws.amazon.com/blogs/iot/migrating-your-webrtc-application-from-twilio-to-aws-a-developers-guide/"
+    },
+    {
         "title": "Building an IoT solution to securely transmit MQTT messages under private networks",
         "link": "https://aws.amazon.com/blogs/iot/building-an-iot-solution-to-securely-transmit-mqtt-messages-under-private-networks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use the new metric export capability of AWS IoT Device Defender",
         "link": "https://aws.amazon.com/blogs/iot/metric-export-aws-iot-device-defender/"
-    },
-    {
-        "title": "Get connected with AWS IoT at re:Invent 2023",
-        "link": "https://aws.amazon.com/blogs/iot/get-connected-with-aws-iot-at-reinvent-2023/"
     }
 ]
