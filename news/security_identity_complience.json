@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Amazon Security Lake is helping customers simplify security data management for proactive threat analysis",
+        "link": "https://aws.amazon.com/blogs/security/how-amazon-security-lake-is-helping-customers-simplify-security-data-management-for-proactive-threat-analysis/"
+    },
+    {
         "title": "AWS achieves Spain\u2019s ENS High 311/2022 certification across 172 services",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-spains-ens-high-311-2022-certification-across-172-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate your Windows PKI from Microsoft Active Directory Certificate Services to AWS Private CA Connector for Active Directory",
         "link": "https://aws.amazon.com/blogs/security/migrate-your-windows-pki-from-microsoft-active-directory-certificate-services-to-aws-private-ca-connector-for-active-directory/"
-    },
-    {
-        "title": "Securing generative AI: Applying relevant security controls",
-        "link": "https://aws.amazon.com/blogs/security/securing-generative-ai-applying-relevant-security-controls/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor Microsoft SharePoint Server using Amazon CloudWatch Application Insights",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/monitor-microsoft-sharepoint-server-using-amazon-cloudwatch-application-insights/"
+    },
+    {
         "title": "Providing self-service multi-account access to AWS Managed Microsoft AD",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/providing-self-service-multi-account-access-to-aws-managed-microsoft-ad/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Optimizing large-scale migration of SQL Server databases to Amazon EC2 using backup metadata",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimizing-large-scale-migration-of-sql-server-databases-to-amazon-ec2-using-backup-metadata/"
-    },
-    {
-        "title": "Automatically create self-managed licenses in multiple accounts using tags",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automatically-create-self-managed-licenses-in-multiple-accounts-using-tags/"
     }
 ]

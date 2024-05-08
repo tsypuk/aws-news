@@ -1,5 +1,17 @@
 [
     {
+        "title": "Find and link similar entities in a knowledge graph using Amazon Neptune, Part 2: Vector similarity search",
+        "link": "https://aws.amazon.com/blogs/database/find-and-link-similar-entities-in-a-knowledge-graph-using-amazon-neptune-part-2-vector-similarity-search/"
+    },
+    {
+        "title": "Find and link similar entities in a knowledge graph using Amazon Neptune, Part 1: Full-text search",
+        "link": "https://aws.amazon.com/blogs/database/find-and-link-similar-entities-in-a-knowledge-graph-using-amazon-neptune-part-1-full-text-search/"
+    },
+    {
+        "title": "Minimize downtime when migrating your Oracle database to Amazon RDS for Oracle with transportable tablespaces and AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/minimize-downtime-when-migrating-your-oracle-database-to-amazon-rds-for-oracle-with-transportable-tablespaces-and-aws-dms/"
+    },
+    {
         "title": "Managing object dependencies in PostgreSQL: Removing dependent objects (Part2)",
         "link": "https://aws.amazon.com/blogs/database/managing-object-dependencies-in-postgresql-removing-dependent-objects-part2/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Set up notifications for Amazon RDS pending maintenance actions",
         "link": "https://aws.amazon.com/blogs/database/set-up-notifications-for-amazon-rds-pending-maintenance-actions/"
-    },
-    {
-        "title": "Monitor query performance with Performance Insights on Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/monitor-query-performance-with-performance-insights-on-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Performance optimization of full load and ongoing replication tasks from self-managed Db2 to Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/performance-optimization-of-full-load-and-ongoing-replication-tasks-from-self-managed-db2-to-amazon-rds-for-db2/"
-    },
-    {
-        "title": "How to build a crypto wallet application using Amazon Managed Blockchain Access and Query",
-        "link": "https://aws.amazon.com/blogs/database/how-to-build-a-crypto-wallet-application-using-amazon-managed-blockchain-access-and-query/"
     }
 ]

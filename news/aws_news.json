@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build RAG and agent-based generative AI applications with new Amazon Titan Text Premier model, available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/build-rag-and-agent-based-generative-ai-applications-with-new-amazon-titan-text-premier-model-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "Build generative AI applications with Amazon Bedrock Studio (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/build-generative-ai-applications-with-amazon-bedrock-studio-preview/"
+    },
+    {
         "title": "AWS Weekly Roundup: Amazon Q, Amazon QuickSight, AWS CodeArtifact, Amazon Bedrock, and more (May 6, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-amazon-quicksight-aws-codeartifact-amazon-bedrock-and-more-may-6-2024/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon CloudWatch Internet Weather Map \u2013 View and analyze internet health",
         "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-internet-weather-map-view-and-analyze-internet-health/"
-    },
-    {
-        "title": "Anthropic\u2019s Claude 3 Opus model is now available on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/anthropics-claude-3-opus-model-on-amazon-bedrock/"
-    },
-    {
-        "title": "Congratulations to the PartyRock generative AI hackathon winners",
-        "link": "https://aws.amazon.com/blogs/aws/congratulations-to-the-partyrock-generative-ai-hackathon-winners/"
     }
 ]

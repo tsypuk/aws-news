@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for running molecular dynamics simulations on AWS Graviton3E",
+        "link": "https://aws.amazon.com/blogs/hpc/best-practices-for-running-molecular-dynamics-simulations-on-aws-graviton3e/"
+    },
+    {
         "title": "Accelerate drug discovery with NVIDIA BioNeMo Framework on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/hpc/accelerate-drug-discovery-with-nvidia-bionemo-framework-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerating molecule discovery with computational chemistry and Promethium on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/accelerating-molecule-discovery-with-computational-chemistry-and-promethium-on-aws/"
-    },
-    {
-        "title": "Leveraging Seqera Platform on AWS Batch for machine learning workflows \u2013 Part 2 of 2",
-        "link": "https://aws.amazon.com/blogs/hpc/leveraging-seqera-platform-on-aws-batch-for-machine-learning-workflows-part-2-of-2/"
     }
 ]

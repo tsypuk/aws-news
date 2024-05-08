@@ -1,5 +1,17 @@
 [
     {
+        "title": "Boost employee productivity with automated meeting summaries using Amazon Transcribe, Amazon SageMaker, and LLMs from Hugging Face",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-employee-productivity-with-automated-meeting-summaries-using-amazon-transcribe-amazon-sagemaker-and-llms-from-hugging-face/"
+    },
+    {
+        "title": "How Veritone uses Amazon Bedrock, Amazon Rekognition, Amazon Transcribe, and information retrieval to update their video search pipeline",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-veritone-uses-amazon-bedrock-amazon-rekognition-amazon-transcribe-and-information-retrieval-to-update-their-video-search-pipeline/"
+    },
+    {
+        "title": "Information extraction with LLMs using Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/information-extraction-with-llms-using-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "AWS Inferentia and AWS Trainium deliver lowest cost to deploy Llama 3 models in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-and-aws-trainium-deliver-lowest-cost-to-deploy-llama-3-models-in-amazon-sagemaker-jumpstart/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Knowledge Bases in Amazon Bedrock now simplifies asking questions on a single document",
         "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-in-amazon-bedrock-now-simplifies-asking-questions-on-a-single-document/"
-    },
-    {
-        "title": "Deploy a Hugging Face (PyAnnote) speaker diarization model on Amazon SageMaker as an asynchronous endpoint",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-hugging-face-pyannote-speaker-diarization-model-on-amazon-sagemaker-as-an-asynchronous-endpoint/"
-    },
-    {
-        "title": "Evaluate the text summarization capabilities of LLMs for enhanced decision-making on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-the-text-summarization-capabilities-of-llms-for-enhanced-decision-making-on-aws/"
-    },
-    {
-        "title": "Enhance conversational AI with advanced routing techniques with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-conversational-ai-with-advanced-routing-techniques-with-amazon-bedrock/"
     }
 ]

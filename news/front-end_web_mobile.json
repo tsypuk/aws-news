@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amplify Storage: Now with fullstack TypeScript, powered by Amazon S3",
+        "link": "https://aws.amazon.com/blogs/mobile/amplify-storage-now-with-fullstack-typescript-powered-by-amazon-s3/"
+    },
+    {
+        "title": "Deploy a Single-page Application in less than 10 minutes using Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/mobile/deploy-a-single-page-application-in-less-than-10-minutes-using-amazon-codecatalyst/"
+    },
+    {
         "title": "Fullstack TypeScript: Reintroducing AWS Amplify",
         "link": "https://aws.amazon.com/blogs/mobile/amplify-gen2-ga/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing the Next Generation of AWS Amplify\u2019s Fullstack Development Experience",
         "link": "https://aws.amazon.com/blogs/mobile/introducing-amplify-gen2/"
-    },
-    {
-        "title": "Introducing Support for Hosting Any SSR app on AWS Amplify Hosting",
-        "link": "https://aws.amazon.com/blogs/mobile/introducing-support-for-hosting-any-ssr-app-on-aws-amplify-hosting/"
-    },
-    {
-        "title": "The frontend web and mobile app developer\u2019s guide to AWS re:Invent 2023",
-        "link": "https://aws.amazon.com/blogs/mobile/the-frontend-developers-guide-to-aws-reinvent-2023/"
     }
 ]
