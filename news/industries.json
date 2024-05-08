@@ -1,5 +1,9 @@
 [
     {
+        "title": "Orchestrating Multiple AWS HealthOmics Workflows at Scale",
+        "link": "https://aws.amazon.com/blogs/industries/orchestrating-multiple-aws-healthomics-workflows-at-scale/"
+    },
+    {
         "title": "Achieving robust closed-loop control in remote locations with Kelvin\u2019s edge-cloud communication",
         "link": "https://aws.amazon.com/blogs/industries/achieving-robust-closed-loop-control-in-remote-locations-with-kelvins-edge-cloud-communication/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Relive the Innovation: AWS Next Level Demo Recordings from MWC24",
         "link": "https://aws.amazon.com/blogs/industries/relive-the-innovation-aws-next-level-demo-recordings-from-mwc24/"
-    },
-    {
-        "title": "Unleashing the power of Graphs: operating 5G networks with GNN and generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/transforming-network-management-graph-gnn-and-generative-ai-on-aws/"
     }
 ]

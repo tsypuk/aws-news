@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running code after returning a response from an AWS Lambda function",
+        "link": "https://aws.amazon.com/blogs/compute/running-code-after-returning-a-response-from-an-aws-lambda-function/"
+    },
+    {
         "title": "Accelerating workflow development with the TestState API in AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/accelerating-workflow-development-with-the-teststate-api-in-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing video encoding with FFmpeg using NVIDIA GPU-based Amazon EC2 instances",
         "link": "https://aws.amazon.com/blogs/compute/optimizing-video-encoding-with-ffmpeg-using-nvidia-gpu-based-amazon-ec2-instances/"
-    },
-    {
-        "title": "Hibernating EC2 Instances in Response to a CloudWatch Alarm",
-        "link": "https://aws.amazon.com/blogs/compute/hibernating-ec2-instances-in-response-to-a-cloudwatch-alarm/"
     }
 ]

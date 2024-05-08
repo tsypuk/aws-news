@@ -1,5 +1,9 @@
 [
     {
+        "title": "Governing data in relational databases using Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/governing-data-in-relational-databases-using-amazon-datazone/"
+    },
+    {
         "title": "Revolutionizing data querying: Amazon Redshift and Visual Studio Code integration",
         "link": "https://aws.amazon.com/blogs/big-data/revolutionizing-data-querying-amazon-redshift-and-visual-studio-code-integration/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate large-scale data validation using Amazon EMR and Apache Griffin",
         "link": "https://aws.amazon.com/blogs/big-data/automate-large-scale-data-validation-using-amazon-emr-and-apache-griffin/"
-    },
-    {
-        "title": "Amazon DataZone now integrates with AWS Glue Data Quality and external data quality solutions",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-now-integrates-with-aws-glue-data-quality-and-external-data-quality-solutions/"
     }
 ]

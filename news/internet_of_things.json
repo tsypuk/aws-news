@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS recognized as a Leader in 2024 Gartner Magic Quadrant for Global Industrial IoT Platforms",
+        "link": "https://aws.amazon.com/blogs/iot/aws-recognized-as-a-leader-in-2024-gartner-magic-quadrant-for-global-industrial-iot-platforms/"
+    },
+    {
         "title": "Migrating Your WebRTC Application from Twilio to AWS: A Developer\u2019s Guide",
         "link": "https://aws.amazon.com/blogs/iot/migrating-your-webrtc-application-from-twilio-to-aws-a-developers-guide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate Industry 4.0 Adoption using Containerized Gateway Services",
         "link": "https://aws.amazon.com/blogs/iot/accelerate-industry-4-0-adoption-using-containerized-gateway-services/"
-    },
-    {
-        "title": "How to use the new metric export capability of AWS IoT Device Defender",
-        "link": "https://aws.amazon.com/blogs/iot/metric-export-aws-iot-device-defender/"
     }
 ]
