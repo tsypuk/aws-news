@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline production grade clusters with Amazon AFT and Terraform EKS Blueprints",
+        "link": "https://aws.amazon.com/blogs/containers/streamline-production-grade-clusters-with-amazon-aft-and-terraform-eks-blueprints/"
+    },
+    {
         "title": "How Slack adopted Karpenter to increase Operational and Cost Efficiency",
         "link": "https://aws.amazon.com/blogs/containers/how-slack-adopted-karpenter-to-increase-operational-and-cost-efficiency/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Adding Storage using OpenEBS on EKS Anywhere",
         "link": "https://aws.amazon.com/blogs/containers/adding-storage-using-openebs-on-eks-anywhere/"
-    },
-    {
-        "title": "Amazon VPC CNI introduces Enhanced Subnet Discovery",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-vpc-cni-introduces-enhanced-subnet-discovery/"
     }
 ]
