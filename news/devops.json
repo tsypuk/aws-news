@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate your Software Development Lifecycle with Amazon Q",
+        "link": "https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/"
+    },
+    {
         "title": "Simplify Amazon EKS Deployments with GitHub Actions and AWS CodeBuild",
         "link": "https://aws.amazon.com/blogs/devops/simplify-amazon-eks-deployments-with-github-actions-and-aws-codebuild/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Looking beyond code coverage with Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/devops/looking-beyond-code-coverage-with-amazon-codewhisperer/"
-    },
-    {
-        "title": "re:Invent 2023 DevOps and Developer Productivity Playlist",
-        "link": "https://aws.amazon.com/blogs/devops/reinvent-2023-devops-and-developer-productivity-playlist/"
     }
 ]

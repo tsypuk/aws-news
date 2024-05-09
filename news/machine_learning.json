@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build a Hugging Face text classification model in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-hugging-face-text-classification-model-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "How Dialog Axiata used Amazon SageMaker to scale ML models in production with AI Factory and reduced customer churn within 3 months",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-dialog-axiata-used-amazon-sagemaker-to-scale-ml-models-in-production-with-ai-factory-and-reduced-customer-churn-within-3-months/"
+    },
+    {
+        "title": "Amazon SageMaker now integrates with Amazon DataZone to streamline machine learning governance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-now-integrates-with-amazon-datazone-to-streamline-machine-learning-governance/"
+    },
+    {
         "title": "Boost employee productivity with automated meeting summaries using Amazon Transcribe, Amazon SageMaker, and LLMs from Hugging Face",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-employee-productivity-with-automated-meeting-summaries-using-amazon-transcribe-amazon-sagemaker-and-llms-from-hugging-face/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Cohere Command R and R+ are now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/cohere-command-r-and-r-are-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Revolutionizing large language model training with Arcee and AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-large-language-model-training-with-arcee-and-aws-trainium/"
-    },
-    {
-        "title": "Databricks DBRX is now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/databricks-dbrx-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Knowledge Bases in Amazon Bedrock now simplifies asking questions on a single document",
-        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-in-amazon-bedrock-now-simplifies-asking-questions-on-a-single-document/"
     }
 ]
