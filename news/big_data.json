@@ -1,5 +1,13 @@
 [
     {
+        "title": "Achieve peak performance and boost scalability using multiple Amazon Redshift serverless workgroups and Network Load Balancer",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-peak-performance-and-boost-scalability-using-multiple-amazon-redshift-serverless-workgroups-and-network-load-balancer/"
+    },
+    {
+        "title": "Use AWS Glue Data Catalog views to analyze data",
+        "link": "https://aws.amazon.com/blogs/big-data/use-aws-glue-data-catalog-views-to-analyze-data/"
+    },
+    {
         "title": "Governing data in relational databases using Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/governing-data-in-relational-databases-using-amazon-datazone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon DataZone announces integration with AWS Lake Formation hybrid access mode for the AWS Glue Data Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-announces-integration-with-aws-lake-formation-hybrid-access-mode-for-the-aws-glue-data-catalog/"
-    },
-    {
-        "title": "How Aura from Unity revolutionized their big data pipeline with Amazon Redshift Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/how-aura-from-unity-revolutionized-their-big-data-pipeline-with-amazon-redshift-serverless/"
-    },
-    {
-        "title": "Automate large-scale data validation using Amazon EMR and Apache Griffin",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-large-scale-data-validation-using-amazon-emr-and-apache-griffin/"
     }
 ]

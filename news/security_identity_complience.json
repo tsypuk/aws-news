@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to enforce a security baseline for an AWS WAF ACL across your organization using AWS Firewall Manager",
+        "link": "https://aws.amazon.com/blogs/security/how-to-enforce-a-security-baseline-for-an-aws-waf-acl-across-your-organization-using-aws-firewall-manager/"
+    },
+    {
         "title": "How Amazon Security Lake is helping customers simplify security data management for proactive threat analysis",
         "link": "https://aws.amazon.com/blogs/security/how-amazon-security-lake-is-helping-customers-simplify-security-data-management-for-proactive-threat-analysis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Amazon Verified Permissions for fine-grained authorization at scale",
         "link": "https://aws.amazon.com/blogs/security/use-amazon-verified-permissions-for-fine-grained-authorization-at-scale/"
-    },
-    {
-        "title": "Migrate your Windows PKI from Microsoft Active Directory Certificate Services to AWS Private CA Connector for Active Directory",
-        "link": "https://aws.amazon.com/blogs/security/migrate-your-windows-pki-from-microsoft-active-directory-certificate-services-to-aws-private-ca-connector-for-active-directory/"
     }
 ]

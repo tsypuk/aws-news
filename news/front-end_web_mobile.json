@@ -1,5 +1,9 @@
 [
     {
+        "title": "New in AWS Amplify: Expanded Fullstack Deployment Capabilities for Teams of All Sizes",
+        "link": "https://aws.amazon.com/blogs/mobile/team-workflows-amplify/"
+    },
+    {
         "title": "Amplify Functions: Create serverless functions using TypeScript, powered by AWS Lambda",
         "link": "https://aws.amazon.com/blogs/mobile/amplify-functions-create-serverless-functions-using-typescript-powered-by-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a GraphQL API for your Amazon Aurora MySQL database using AWS AppSync and the RDS Data API",
         "link": "https://aws.amazon.com/blogs/mobile/build-a-graphql-api-for-your-amazon-aurora-mysql-database-using-aws-appsync-and-the-rds-data-api/"
-    },
-    {
-        "title": "Create a GraphQL API for any existing MySQL and PostgreSQL database",
-        "link": "https://aws.amazon.com/blogs/mobile/create-a-graphql-api-for-any-existing-mysql-and-postgresql-database/"
     }
 ]
