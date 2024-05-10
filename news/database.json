@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build with blockchain data using Amazon Managed Blockchain and ZettaBlock",
+        "link": "https://aws.amazon.com/blogs/database/build-with-blockchain-data-using-amazon-managed-blockchain-and-zettablock/"
+    },
+    {
+        "title": "How Heroku reduced their operational overhead by migrating their 30 TB self-managed database from Amazon EC2 to Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/how-heroku-reduced-their-operational-overhead-by-migrating-their-30-tb-self-managed-database-from-amazon-ec2-to-amazon-dynamodb/"
+    },
+    {
         "title": "Use Kerberos authentication with Amazon Aurora MySQL",
         "link": "https://aws.amazon.com/blogs/database/use-kerberos-authentication-with-amazon-aurora-mysql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Manage AWS DMS with PowerShell",
         "link": "https://aws.amazon.com/blogs/database/manage-aws-dms-with-powershell/"
-    },
-    {
-        "title": "Use Single-AZ read replicas in Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/use-single-az-read-replicas-in-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "GQL: The ISO standard for graphs has arrived",
-        "link": "https://aws.amazon.com/blogs/database/gql-the-iso-standard-for-graphs-has-arrived/"
     }
 ]

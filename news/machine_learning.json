@@ -1,5 +1,17 @@
 [
     {
+        "title": "How LotteON built dynamic A/B testing for their personalized recommendation system",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-lotteon-built-dynamic-a-b-testing-for-their-personalized-recommendation-system/"
+    },
+    {
+        "title": "Unleashing the power of generative AI: Verisk\u2019s journey to an Instant Insight Engine for enhanced customer support",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-the-power-of-generative-ai-verisks-journey-to-an-instant-insight-engine-for-enhanced-customer-support/"
+    },
+    {
+        "title": "Establishing an AI/ML center of excellence",
+        "link": "https://aws.amazon.com/blogs/machine-learning/establishing-an-ai-ml-center-of-excellence/"
+    },
+    {
         "title": "Build a Hugging Face text classification model in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-hugging-face-text-classification-model-in-amazon-sagemaker-jumpstart/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Accelerate software development and leverage your business data with generative AI assistance from Amazon Q",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/"
-    },
-    {
-        "title": "Amazon Q Business and Amazon Q in QuickSight empowers employees to be more data-driven and make better, faster decisions using company knowledge",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-business-and-amazon-q-in-quicksight-empowers-employees-to-be-more-data-driven-and-make-better-faster-decisions-using-company-knowledge/"
-    },
-    {
-        "title": "Develop and train large models cost-efficiently with Metaflow and AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/develop-and-train-large-models-cost-efficiently-with-metaflow-and-aws-trainium/"
-    },
-    {
-        "title": "Cohere Command R and R+ are now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-command-r-and-r-are-now-available-in-amazon-sagemaker-jumpstart/"
     }
 ]

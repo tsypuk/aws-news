@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Partner Showcase at GDC",
+        "link": "https://aws.amazon.com/blogs/gametech/aws-partner-showcase-at-gdc/"
+    },
+    {
         "title": "How Singularity 6\u2019s \u2018Palia\u2019 Conquered Cross-Regional Gaming with Amazon EKS and Karpenter",
         "link": "https://aws.amazon.com/blogs/gametech/how-singularity-6s-palia-conquered-cross-regional-gaming-with-amazon-eks-and-karpenter/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Level-Up Player Retention with No-Code Machine Learning Using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/gametech/level-up-player-retention-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Deploy Unreal Engines Pixel Streaming at scale on AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/deploy-unreal-engines-pixel-streaming-at-scale-on-aws/"
     }
 ]
