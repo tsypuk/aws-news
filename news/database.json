@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrate Amazon Aurora MySQL and Amazon Bedrock using SQL",
+        "link": "https://aws.amazon.com/blogs/database/integrate-amazon-aurora-mysql-and-amazon-bedrock-using-sql/"
+    },
+    {
         "title": "Build with blockchain data using Amazon Managed Blockchain and ZettaBlock",
         "link": "https://aws.amazon.com/blogs/database/build-with-blockchain-data-using-amazon-managed-blockchain-and-zettablock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor Amazon RDS for Oracle instances using Oracle Enterprise Manager",
         "link": "https://aws.amazon.com/blogs/database/monitor-amazon-rds-for-oracle-instances-using-oracle-enterprise-manager/"
-    },
-    {
-        "title": "Manage AWS DMS with PowerShell",
-        "link": "https://aws.amazon.com/blogs/database/manage-aws-dms-with-powershell/"
     }
 ]
