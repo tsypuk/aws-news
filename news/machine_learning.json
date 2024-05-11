@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS DeepRacer enables builders of all skill levels to upskill and get started with machine learning",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-enables-builders-of-all-skill-levels-to-upskill-and-get-started-with-machine-learning/"
+    },
+    {
+        "title": "Transform customer engagement with no-code LLM fine-tuning using Amazon SageMaker Canvas and SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transform-customer-engagement-with-no-code-llm-fine-tuning-using-amazon-sagemaker-canvas-and-sagemaker-jumpstart/"
+    },
+    {
         "title": "How LotteON built dynamic A/B testing for their personalized recommendation system",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-lotteon-built-dynamic-a-b-testing-for-their-personalized-recommendation-system/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build private and secure enterprise generative AI apps with Amazon Q Business and AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-private-and-secure-enterprise-generative-ai-apps-with-amazon-q-business-and-aws-iam-identity-center/"
-    },
-    {
-        "title": "Enhance customer service efficiency with AI-powered summarization using Amazon Transcribe Call Analytics",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-customer-service-efficiency-with-ai-powered-summarization-using-amazon-transcribe-call-analytics/"
-    },
-    {
-        "title": "Accelerate software development and leverage your business data with generative AI assistance from Amazon Q",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/"
     }
 ]

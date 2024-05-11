@@ -1,5 +1,9 @@
 [
     {
+        "title": "Multi-Region Disaster Recovery with Amazon EKS and Amazon EFS for Stateful workloads",
+        "link": "https://aws.amazon.com/blogs/containers/multi-region-disaster-recovery-with-amazon-eks-and-amazon-efs-for-stateful-workloads/"
+    },
+    {
         "title": "Streamline production grade clusters with Amazon AFT and Terraform EKS Blueprints",
         "link": "https://aws.amazon.com/blogs/containers/streamline-production-grade-clusters-with-amazon-aft-and-terraform-eks-blueprints/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Snap Inc. secures its services with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/how-snap-inc-secures-its-services-with-amazon-eks/"
-    },
-    {
-        "title": "Adding Storage using OpenEBS on EKS Anywhere",
-        "link": "https://aws.amazon.com/blogs/containers/adding-storage-using-openebs-on-eks-anywhere/"
     }
 ]

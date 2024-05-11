@@ -1,5 +1,9 @@
 [
     {
+        "title": "Restrict access to AWS Elemental MediaPackage v2 using origin access control",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/restrict-access-to-elemental-mediapackage-v2-using-origin-access-control/"
+    },
+    {
         "title": "How to share IP address ranges across accounts with AWS Global Accelerator",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-share-ip-address-ranges-across-accounts-with-aws-global-accelerator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use VPC IP Address Manager to manage subnet CIDRs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-vpc-ip-address-manager-to-manage-subnet-cidrs/"
-    },
-    {
-        "title": "How ZS used Network Orchestration for AWS Transit Gateway to optimize costs and scale up",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-zs-used-network-orchestration-for-aws-transit-gateway-to-optimize-costs-and-scale-up/"
     }
 ]

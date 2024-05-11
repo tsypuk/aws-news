@@ -1,5 +1,17 @@
 [
     {
+        "title": "Securely administer servers migrated with AWS Application Migration Service using AWS Systems Manager Session Manager",
+        "link": "https://aws.amazon.com/blogs/mt/securely-administer-servers-migrated-with-aws-application-migration-service-using-aws-systems-manager-session-manager/"
+    },
+    {
+        "title": "Troubleshooting AWS Glue ETL Jobs using Amazon CloudWatch Logs Insights enhanced queries",
+        "link": "https://aws.amazon.com/blogs/mt/troubleshooting-aws-glue-etl-jobs-using-amazon-cloudwatch-logs-insights-enhanced-queries/"
+    },
+    {
+        "title": "Testing and debugging Amazon CloudWatch Synthetics canary locally",
+        "link": "https://aws.amazon.com/blogs/mt/testing-and-debugging-amazon-cloudwatch-synthetics-canary-locally/"
+    },
+    {
         "title": "Gain Insights with Natural Language Query into your AWS environment using Amazon CloudTrail and Amazon Q in QuickSight",
         "link": "https://aws.amazon.com/blogs/mt/gain-insights-with-natural-language-query-into-your-aws-environment-using-amazon-cloudtrail-and-amazon-q-in-quicksight/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Seamlessly off-board from AWS OpsWorks Stacks by detaching resources",
         "link": "https://aws.amazon.com/blogs/mt/seamlessly-off-board-from-aws-opsworks-stacks-by-detaching-resources/"
-    },
-    {
-        "title": "Announcing Amazon CloudWatch Container Insights for Amazon EKS Windows Workloads Monitoring",
-        "link": "https://aws.amazon.com/blogs/mt/announcing-amazon-cloudwatch-container-insights-for-amazon-eks-windows-workloads-monitoring/"
-    },
-    {
-        "title": "Reduce software licensing costs with an AWS Optimization and Licensing Assessment",
-        "link": "https://aws.amazon.com/blogs/mt/reduce-software-licensing-costs-with-an-aws-optimization-and-licensing-assessment/"
-    },
-    {
-        "title": "Migrate Business Logic from Database to Application for Faster Innovation and Flexibility",
-        "link": "https://aws.amazon.com/blogs/mt/migrate-business-logic-from-database-to-application-for-faster-innovation-and-flexibility/"
     }
 ]
