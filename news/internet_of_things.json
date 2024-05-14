@@ -1,5 +1,9 @@
 [
     {
+        "title": "How MTData built a CVML vehicle telematics and driver monitoring solution with AWS IoT",
+        "link": "https://aws.amazon.com/blogs/iot/how-mtdata-built-a-cvml-vehicle-telematics-and-driver-monitoring-solution-with-aws-iot/"
+    },
+    {
         "title": "How to implement Zero Trust IoT solutions with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/how-to-implement-zero-trust-iot-solutions-with-aws-iot/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing AWS IoT FleetWise vision system data (Preview)",
         "link": "https://aws.amazon.com/blogs/iot/announcing-aws-iot-fleetwise-vision-system-data-preview/"
-    },
-    {
-        "title": "Streamlining agriculture operations with serverless anomaly detection using AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/serverless-iot-anomaly-detection/"
     }
 ]

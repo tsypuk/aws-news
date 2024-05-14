@@ -1,5 +1,13 @@
 [
     {
+        "title": "Perform maintenance tasks and schema modifications in Amazon RDS for PostgreSQL with minimal downtime",
+        "link": "https://aws.amazon.com/blogs/database/perform-maintenance-tasks-and-schema-modifications-in-amazon-rds-for-postgresql-with-minimal-downtime/"
+    },
+    {
+        "title": "AWS DMS best practices for moving large tables with table parallelism settings",
+        "link": "https://aws.amazon.com/blogs/database/aws-dms-best-practices-for-moving-large-tables-with-table-parallelism-settings/"
+    },
+    {
         "title": "Integrate Amazon Aurora MySQL and Amazon Bedrock using SQL",
         "link": "https://aws.amazon.com/blogs/database/integrate-amazon-aurora-mysql-and-amazon-bedrock-using-sql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Improve query performance using partial indexes in Amazon DocumentDB",
         "link": "https://aws.amazon.com/blogs/database/improve-query-performance-using-partial-indexes-in-amazon-documentdb/"
-    },
-    {
-        "title": "Blockchain node deployment on AWS: A comprehensive guide",
-        "link": "https://aws.amazon.com/blogs/database/blockchain-node-deployment-on-aws-a-comprehensive-guide/"
-    },
-    {
-        "title": "Monitor Amazon RDS for Oracle instances using Oracle Enterprise Manager",
-        "link": "https://aws.amazon.com/blogs/database/monitor-amazon-rds-for-oracle-instances-using-oracle-enterprise-manager/"
     }
 ]

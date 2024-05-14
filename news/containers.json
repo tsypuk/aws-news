@@ -1,5 +1,17 @@
 [
     {
+        "title": "Windows Containers on AWS Fargate: Launch time improvements",
+        "link": "https://aws.amazon.com/blogs/containers/windows-containers-on-aws-fargate-launch-time-improvements/"
+    },
+    {
+        "title": "Use Ansible to bootstrap external container instances with Amazon ECS Anywhere",
+        "link": "https://aws.amazon.com/blogs/containers/use-ansible-to-bootstrap-external-container-instances-with-amazon-ecs-anywhere/"
+    },
+    {
+        "title": "Disaster Recovery on AWS Outposts to AWS Local Zones with a GitOps approach for Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/disaster-recovery-on-aws-outposts-to-aws-local-zones-with-a-gitops-approach-for-amazon-eks/"
+    },
+    {
         "title": "Multi-Region Disaster Recovery with Amazon EKS and Amazon EFS for Stateful workloads",
         "link": "https://aws.amazon.com/blogs/containers/multi-region-disaster-recovery-with-amazon-eks-and-amazon-efs-for-stateful-workloads/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Rippling\u2019s journey migrating to the new VPC CNI Network Policy Engine",
         "link": "https://aws.amazon.com/blogs/containers/ripplings-journey-migrating-to-the-new-vpc-cni-network-policy-engine/"
-    },
-    {
-        "title": "Dynamically create repositories upon image push to Amazon ECR",
-        "link": "https://aws.amazon.com/blogs/containers/dynamically-create-repositories-upon-image-push-to-amazon-ecr/"
-    },
-    {
-        "title": "Using OPA to validate Amazon EKS Blueprint Templates",
-        "link": "https://aws.amazon.com/blogs/containers/using-opa-to-validate-amazon-eks-blueprint-templates/"
-    },
-    {
-        "title": "How Snap Inc. secures its services with Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/how-snap-inc-secures-its-services-with-amazon-eks/"
     }
 ]

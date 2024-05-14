@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor Java apps running on Tomcat server with Amazon CloudWatch Application Signals (Preview)",
+        "link": "https://aws.amazon.com/blogs/mt/monitor-java-apps-running-on-tomcat-server-with-amazon-cloudwatch-application-signals-preview/"
+    },
+    {
         "title": "Securely administer servers migrated with AWS Application Migration Service using AWS Systems Manager Session Manager",
         "link": "https://aws.amazon.com/blogs/mt/securely-administer-servers-migrated-with-aws-application-migration-service-using-aws-systems-manager-session-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "KPIs \u2013 Enterprise Journey from Technology to Business",
         "link": "https://aws.amazon.com/blogs/mt/kpis-enterprise-journey-from-technology-to-business/"
-    },
-    {
-        "title": "Seamlessly off-board from AWS OpsWorks Stacks by detaching resources",
-        "link": "https://aws.amazon.com/blogs/mt/seamlessly-off-board-from-aws-opsworks-stacks-by-detaching-resources/"
     }
 ]
