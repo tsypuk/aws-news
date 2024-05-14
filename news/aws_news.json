@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: New capabilities in Amazon Bedrock, AWS Amplify Gen 2, Amazon RDS and more (May 13, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-capabilities-in-amazon-bedrock-aws-amplify-gen-2-amazon-rds-and-more-may-13-2024/"
+    },
+    {
         "title": "A new generative engine and three voices are now generally available on Amazon Polly",
         "link": "https://aws.amazon.com/blogs/aws/a-new-generative-engine-and-three-voices-are-now-generally-available-on-amazon-polly/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unify DNS management using Amazon Route 53 Profiles with multiple VPCs and AWS accounts",
         "link": "https://aws.amazon.com/blogs/aws/unify-dns-management-using-amazon-route-53-profiles-with-multiple-vpcs-and-aws-accounts/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Anthropic\u2019s Claude 3 Opus in Amazon Bedrock, Meta Llama 3 in Amazon SageMaker JumpStart, and more (April 22, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropics-claude-3-opus-in-amazon-bedrock-meta-llama-3-in-amazon-sagemaker-jumpstart-and-more-april-22-2024/"
     }
 ]

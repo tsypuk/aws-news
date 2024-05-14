@@ -1,5 +1,9 @@
 [
     {
+        "title": "Evaluation of generative AI techniques for clinical report summarization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluation-of-generative-ai-techniques-for-clinical-report-summarization/"
+    },
+    {
         "title": "AWS DeepRacer enables builders of all skill levels to upskill and get started with machine learning",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-enables-builders-of-all-skill-levels-to-upskill-and-get-started-with-machine-learning/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate chatbot for document and data retrieval using Agents and Knowledge Bases for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-chatbot-for-document-and-data-retrieval-using-agents-and-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Build private and secure enterprise generative AI apps with Amazon Q Business and AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-private-and-secure-enterprise-generative-ai-apps-with-amazon-q-business-and-aws-iam-identity-center/"
     }
 ]

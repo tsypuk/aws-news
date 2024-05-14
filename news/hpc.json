@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using machine learning to drive faster automotive design cycles",
+        "link": "https://aws.amazon.com/blogs/hpc/using-machine-learning-to-drive-faster-automotive-design-cycles/"
+    },
+    {
+        "title": "Announcing the High Performance Software Foundation (HPSF)",
+        "link": "https://aws.amazon.com/blogs/hpc/announcing-the-high-performance-software-foundation/"
+    },
+    {
         "title": "Best practices for running molecular dynamics simulations on AWS Graviton3E",
         "link": "https://aws.amazon.com/blogs/hpc/best-practices-for-running-molecular-dynamics-simulations-on-aws-graviton3e/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon\u2019s renewable energy forecasting: continuous delivery with Jupyter Notebooks",
         "link": "https://aws.amazon.com/blogs/hpc/amazons-renewable-energy-forecasting-continuous-delivery-with-jupyter-notebooks/"
-    },
-    {
-        "title": "Dynamic HPC budget control using a core-limit approach with AWS ParallelCluster",
-        "link": "https://aws.amazon.com/blogs/hpc/dynamic-hpc-budget-control-using-a-core-limit-approach-with-aws-parallelcluster/"
-    },
-    {
-        "title": "Accelerating molecule discovery with computational chemistry and Promethium on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/accelerating-molecule-discovery-with-computational-chemistry-and-promethium-on-aws/"
     }
 ]
