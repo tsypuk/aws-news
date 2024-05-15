@@ -1,5 +1,9 @@
 [
     {
+        "title": "New compute-optimized (C7i-flex) Amazon EC2 Flex instances",
+        "link": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/"
+    },
+    {
         "title": "AWS Weekly Roundup: New capabilities in Amazon Bedrock, AWS Amplify Gen 2, Amazon RDS and more (May 13, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-capabilities-in-amazon-bedrock-aws-amplify-gen-2-amazon-rds-and-more-may-13-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Titan Image Generator and watermark detection API are now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-and-watermark-detection-api-are-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "Unify DNS management using Amazon Route 53 Profiles with multiple VPCs and AWS accounts",
-        "link": "https://aws.amazon.com/blogs/aws/unify-dns-management-using-amazon-route-53-profiles-with-multiple-vpcs-and-aws-accounts/"
     }
 ]
