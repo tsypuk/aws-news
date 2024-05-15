@@ -1,5 +1,17 @@
 [
     {
+        "title": "RAG architecture with Voyage AI embedding models on Amazon SageMaker JumpStart and Anthropic Claude 3 models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/rag-architecture-with-voyage-ai-embedding-models-on-amazon-sagemaker-jumpstart-and-anthropic-claude-3-models/"
+    },
+    {
+        "title": "Incorporate offline and online human \u2013 machine workflows into your generative AI applications on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/incorporate-offline-and-online-human-machine-workflows-into-your-generative-ai-applications-on-aws/"
+    },
+    {
+        "title": "Build generative AI applications with Amazon Titan Text Premier, Amazon Bedrock, and AWS CDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-with-amazon-titan-text-premier-amazon-bedrock-and-aws-cdk/"
+    },
+    {
         "title": "Evaluation of generative AI techniques for clinical report summarization",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluation-of-generative-ai-techniques-for-clinical-report-summarization/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Simple guide to training Llama 2 with AWS Trainium on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/simple-guide-to-training-llama-2-with-aws-trainium-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Fine-tune and deploy language models with Amazon SageMaker Canvas and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-language-models-with-amazon-sagemaker-canvas-and-amazon-bedrock/"
-    },
-    {
-        "title": "Improving inclusion and accessibility through automated document translation with an open source app using Amazon Translate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improving-inclusion-and-accessibility-through-automated-document-translation-with-an-open-source-app-using-amazon-translate/"
-    },
-    {
-        "title": "Automate chatbot for document and data retrieval using Agents and Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-chatbot-for-document-and-data-retrieval-using-agents-and-knowledge-bases-for-amazon-bedrock/"
     }
 ]

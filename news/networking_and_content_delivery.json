@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing VPC Flow Logs for Elastic Container Services",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-vpc-flow-logs-for-elastic-container-services/"
+    },
+    {
         "title": "Restrict access to AWS Elemental MediaPackage v2 using origin access control",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/restrict-access-to-elemental-mediapackage-v2-using-origin-access-control/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to interconnect AWS Cloud WAN core networks",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-interconnect-aws-cloud-wan-core-networks/"
-    },
-    {
-        "title": "Use VPC IP Address Manager to manage subnet CIDRs",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-vpc-ip-address-manager-to-manage-subnet-cidrs/"
     }
 ]

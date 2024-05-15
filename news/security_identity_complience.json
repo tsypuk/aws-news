@@ -1,5 +1,13 @@
 [
     {
+        "title": "Investigating lateral movements with Amazon Detective investigation and Security Lake integration",
+        "link": "https://aws.amazon.com/blogs/security/investigating-lateral-movements-with-amazon-detective-investigation-and-security-lake-integration/"
+    },
+    {
+        "title": "Governing and securing AWS PrivateLink service access at scale in multi-account environments",
+        "link": "https://aws.amazon.com/blogs/security/governing-and-securing-aws-privatelink-service-access-at-scale-in-multi-account-environments/"
+    },
+    {
         "title": "How to use AWS managed applications with IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-managed-applications-with-iam-identity-center/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Explore cloud security in the age of generative AI at AWS re:Inforce 2024",
         "link": "https://aws.amazon.com/blogs/security/explore-cloud-security-in-the-age-of-generative-ai-at-aws-reinforce-2024/"
-    },
-    {
-        "title": "Securing generative AI: data, compliance, and privacy considerations",
-        "link": "https://aws.amazon.com/blogs/security/securing-generative-ai-data-compliance-and-privacy-considerations/"
-    },
-    {
-        "title": "How to use OAuth 2.0 in Amazon Cognito: Learn about the different OAuth 2.0 grants",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-oauth-2-0-in-amazon-cognito-learn-about-the-different-oauth-2-0-grants/"
     }
 ]
