@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing the AWS Well-Architected Mergers and Acquisitions Lens",
+        "link": "https://aws.amazon.com/blogs/mt/announcing-the-aws-well-architected-mergers-and-acquisitions-lens/"
+    },
+    {
+        "title": "Amazon Managed Grafana announces support for Grafana version 10.4",
+        "link": "https://aws.amazon.com/blogs/mt/amazon-managed-grafana-announces-support-for-grafana-version-10-4/"
+    },
+    {
         "title": "Top Picks for Governance, Risk, and Compliance Sessions at re:Inforce 2024",
         "link": "https://aws.amazon.com/blogs/mt/top-picks-for-governance-risk-and-compliance-sessions-at-reinforce-2024/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Track your workload\u2019s risks with the new AWS Well-Architected Tool Connector for Jira",
         "link": "https://aws.amazon.com/blogs/mt/track-your-workloads-risks-with-the-new-aws-well-architected-tool-connector-for-jira/"
-    },
-    {
-        "title": "Autoscaling Kubernetes workloads with KEDA using Amazon Managed Service for Prometheus metrics",
-        "link": "https://aws.amazon.com/blogs/mt/autoscaling-kubernetes-workloads-with-keda-using-amazon-managed-service-for-prometheus-metrics/"
-    },
-    {
-        "title": "Automate incident reports from AWS Systems Manager Incident Manager",
-        "link": "https://aws.amazon.com/blogs/mt/automate-incident-reports-from-aws-systems-manager-incident-manager/"
     }
 ]

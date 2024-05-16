@@ -1,5 +1,9 @@
 [
     {
+        "title": "ACE mapping guide for AWS Partner CRM Connector Version 2.0",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/ace-mapping-guide-for-aws-partner-crm-connector-version-2-0/"
+    },
+    {
         "title": "Automate comprehensive data protection using AWS CloudFormation StackSets",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-comprehensive-data-protection-using-aws-cloudformation-stacksets/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Disaster recovery: 3 failover scenarios for your Amazon Aurora global database with Terraform (Part 2)",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/disaster-recovery-failover-scenarios-aurora-global-database-terraform/"
-    },
-    {
-        "title": "Collect custom metrics with Amazon CloudWatch strategic tagging",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/collect-custom-metrics-with-amazon-cloudwatch-strategic-tagging/"
     }
 ]

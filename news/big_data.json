@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyze Elastic IP usage history using Amazon Athena and AWS CloudTrail",
+        "link": "https://aws.amazon.com/blogs/big-data/analyze-elastic-ip-usage-history-using-amazon-athena-and-aws-cloudtrail/"
+    },
+    {
         "title": "Achieve peak performance and boost scalability using multiple Amazon Redshift serverless workgroups and Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-peak-performance-and-boost-scalability-using-multiple-amazon-redshift-serverless-workgroups-and-network-load-balancer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Achieve near real time operational analytics using Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-near-real-time-operational-analytics-using-amazon-aurora-postgresql-zero-etl-integration-with-amazon-redshift/"
-    },
-    {
-        "title": "Amazon DataZone announces integration with AWS Lake Formation hybrid access mode for the AWS Glue Data Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-announces-integration-with-aws-lake-formation-hybrid-access-mode-for-the-aws-glue-data-catalog/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Highly Resilient Affirm Checkout Architecture",
+        "link": "https://aws.amazon.com/blogs/industries/highly-resilient-affirm-checkout-architecture/"
+    },
+    {
+        "title": "Announcing the AWS Well-Architected Financial Services Industry Lens",
+        "link": "https://aws.amazon.com/blogs/industries/announcing-the-aws-well-architected-financial-service-industry-lens/"
+    },
+    {
         "title": "Addressing grid capacity constraints with GETs",
         "link": "https://aws.amazon.com/blogs/industries/addressing-grid-capacity-constraints-with-gets/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Using serverless architecture for efficient SMETS 2 data ingestion and processing",
         "link": "https://aws.amazon.com/blogs/industries/using-serverless-architecture-for-efficient-smets-2-data-ingestion-and-processing/"
-    },
-    {
-        "title": "Democratize Omics Data Analysis with Basepair on AWS HealthOmics",
-        "link": "https://aws.amazon.com/blogs/industries/democratize-omics-data-analysis-with-basepair-on-aws-healthomics/"
-    },
-    {
-        "title": "Intelligent rig operations classification with HITL on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/intelligent-rig-operations-classification-with-hitl-on-aws/"
     }
 ]
