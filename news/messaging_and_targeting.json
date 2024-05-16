@@ -1,5 +1,9 @@
 [
     {
+        "title": "The Four Pillars of Managing Email Reputation",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/the-four-pillars-of-email-reputation/"
+    },
+    {
         "title": "How to Send MMS Using Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-mms-using-amazon-pinpoint/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to implement multi-tenancy with Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-implement-multi-tenancy-with-amazon-pinpoint/"
-    },
-    {
-        "title": "Amazon SES: Email Authentication and Getting Value out of Your DMARC Policy",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/email-authenctication-dmarc-policy/"
     }
 ]

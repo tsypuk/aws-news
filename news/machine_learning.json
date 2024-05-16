@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build a serverless exam generator application from your own lecture content using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-exam-generator-application-from-your-own-lecture-content-using-amazon-bedrock/"
+    },
+    {
+        "title": "Accelerate NLP inference with ONNX Runtime on AWS Graviton processors",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-nlp-inference-with-onnx-runtime-on-aws-graviton-processors/"
+    },
+    {
+        "title": "Learn how Amazon Ads created a generative AI-powered image generation capability using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-ads-created-a-generative-ai-powered-image-generation-capability-using-amazon-sagemaker/"
+    },
+    {
         "title": "RAG architecture with Voyage AI embedding models on Amazon SageMaker JumpStart and Anthropic Claude 3 models",
         "link": "https://aws.amazon.com/blogs/machine-learning/rag-architecture-with-voyage-ai-embedding-models-on-amazon-sagemaker-jumpstart-and-anthropic-claude-3-models/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Revolutionize Customer Satisfaction with tailored reward models for your business on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/revolutionize-customer-satisfaction-with-tailored-reward-models-for-your-business-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Amazon Personalize launches new recipes supporting larger item catalogs with lower latency",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-launches-new-recipes-supporting-larger-item-catalogs-with-lower-latency/"
-    },
-    {
-        "title": "Get started with Amazon Titan Text Embeddings V2: A new state-of-the-art embeddings model on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-amazon-titan-text-embeddings-v2-a-new-state-of-the-art-embeddings-model-on-amazon-bedrock/"
-    },
-    {
-        "title": "Simple guide to training Llama 2 with AWS Trainium on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simple-guide-to-training-llama-2-with-aws-trainium-on-amazon-sagemaker/"
     }
 ]
