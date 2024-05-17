@@ -1,5 +1,9 @@
 [
     {
+        "title": "How LotteON built a personalized recommendation system using Amazon SageMaker and MLOps",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-lotteon-built-a-personalized-recommendation-system-using-amazon-sagemaker-and-mlops/"
+    },
+    {
         "title": "Build a serverless exam generator application from your own lecture content using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-exam-generator-application-from-your-own-lecture-content-using-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Inferentia and AWS Trainium deliver lowest cost to deploy Llama 3 models in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia-and-aws-trainium-deliver-lowest-cost-to-deploy-llama-3-models-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Revolutionize Customer Satisfaction with tailored reward models for your business on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionize-customer-satisfaction-with-tailored-reward-models-for-your-business-on-amazon-sagemaker/"
     }
 ]

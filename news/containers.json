@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhancing Kubernetes workload isolation and security using Kata Containers",
+        "link": "https://aws.amazon.com/blogs/containers/enhancing-kubernetes-workload-isolation-and-security-using-kata-containers/"
+    },
+    {
+        "title": "Mobileye: Revolutionizing HD map creation for autonomous vehicles with Spark on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/mobileye-revolutionizing-hd-map-creation-for-autonomous-vehicles-with-spark-on-amazon-eks/"
+    },
+    {
         "title": "Windows Containers on AWS Fargate: Launch time improvements",
         "link": "https://aws.amazon.com/blogs/containers/windows-containers-on-aws-fargate-launch-time-improvements/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Using Amazon EC2 Spot Instances with Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/using-amazon-ec2-spot-instances-with-karpenter/"
-    },
-    {
-        "title": "Applying Generative AI to CVE remediation \u2013 early vulnerability patching in Continuous Integration Pipelines",
-        "link": "https://aws.amazon.com/blogs/containers/applying-generative-ai-to-cve-remediation-early-vulnerability-patching-in-continuous-integration-pipelines/"
-    },
-    {
-        "title": "Rippling\u2019s journey migrating to the new VPC CNI Network Policy Engine",
-        "link": "https://aws.amazon.com/blogs/containers/ripplings-journey-migrating-to-the-new-vpc-cni-network-policy-engine/"
     }
 ]
