@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyzing Audit Logs from Cross Applications using AWS AppFabric",
+        "link": "https://aws.amazon.com/blogs/business-productivity/analyzing-audit-logs-from-cross-applications-using-aws-appfabric/"
+    },
+    {
         "title": "Navigating SaaS security and compliance with AWS AppFabric",
         "link": "https://aws.amazon.com/blogs/business-productivity/navigating-saas-security-and-compliance-with-aws-appfabric/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cross-application audit log analysis with AWS AppFabric",
         "link": "https://aws.amazon.com/blogs/business-productivity/cross-application-audit-log-analysis-with-aws-appfabric/"
-    },
-    {
-        "title": "Get higher quality call recordings using Amazon Chime SDK call analytics",
-        "link": "https://aws.amazon.com/blogs/business-productivity/get-higher-quality-call-recordings-using-amazon-chime-sdk-call-analytics/"
     }
 ]

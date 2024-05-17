@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy Stable Diffusion ComfyUI on AWS elastically and efficiently",
+        "link": "https://aws.amazon.com/blogs/architecture/deploy-stable-diffusion-comfyui-on-aws-elastically-and-efficiently/"
+    },
+    {
         "title": "Creating an organizational multi-Region failover strategy",
         "link": "https://aws.amazon.com/blogs/architecture/creating-an-organizational-multi-region-failover-strategy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating multi-AZ high availability for WebLogic administration server",
         "link": "https://aws.amazon.com/blogs/architecture/automating-multi-az-high-availability-for-weblogic-administration-server/"
-    },
-    {
-        "title": "Let\u2019s Architect! Leveraging in-memory databases",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-leveraging-in-memory-databases/"
     }
 ]

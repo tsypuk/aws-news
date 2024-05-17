@@ -1,5 +1,13 @@
 [
     {
+        "title": "A sneak peek at the data protection sessions for re:Inforce 2024",
+        "link": "https://aws.amazon.com/blogs/security/a-sneak-peek-at-the-data-protection-sessions-for-reinforce-2024/"
+    },
+    {
+        "title": "How to set up SAML federation in Amazon Cognito using IdP-initiated single sign-on, request signing, and encrypted assertions",
+        "link": "https://aws.amazon.com/blogs/security/how-to-set-up-saml-federation-in-amazon-cognito-using-idp-initiated-single-sign-on-request-signing-and-encrypted-assertions/"
+    },
+    {
         "title": "AWS plans to invest \u20ac7.8B into the AWS European Sovereign Cloud, set to launch by the end of 2025",
         "link": "https://aws.amazon.com/blogs/security/aws-plans-to-invest-e7-8b-into-the-aws-european-sovereign-cloud-set-to-launch-by-the-end-of-2025/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Detecting and remediating inactive user accounts with Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/security/detecting-and-remediating-inactive-user-accounts-with-amazon-cognito/"
-    },
-    {
-        "title": "TLS inspection configuration for encrypted egress traffic and AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/security/tls-inspection-configuration-for-encrypted-egress-traffic-and-aws-network-firewall/"
-    },
-    {
-        "title": "How to generate security findings to help your security team with incident response simulations",
-        "link": "https://aws.amazon.com/blogs/security/how-to-generate-security-findings-to-help-your-security-team-with-incident-response-simulations/"
     }
 ]
