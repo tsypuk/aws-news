@@ -1,5 +1,13 @@
 [
     {
+        "title": "Event Driven Architecture using Amazon EventBridge \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge/"
+    },
+    {
+        "title": "How to automate application log ingestion from Amazon EKS on Fargate into AWS CloudTrail Lake",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-automate-application-log-ingestion-from-amazon-eks-on-fargate-into-aws-cloudtrail-lake/"
+    },
+    {
         "title": "Announcing the AWS Well-Architected Mergers and Acquisitions Lens",
         "link": "https://aws.amazon.com/blogs/mt/announcing-the-aws-well-architected-mergers-and-acquisitions-lens/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to monitor AWS WAF logging centrally using Amazon Managed Grafana",
         "link": "https://aws.amazon.com/blogs/mt/how-to-monitor-aws-waf-logging-centrally-using-amazon-managed-grafana/"
-    },
-    {
-        "title": "Distribute an Amazon Machine Image to another AWS Account using AWS Application Migration Service Post-launch automation",
-        "link": "https://aws.amazon.com/blogs/mt/distribute-an-amazon-machine-image-to-another-aws-account-using-aws-application-migration-service-post-launch-automation/"
-    },
-    {
-        "title": "Unlocking Insights:\u00a0Turning Application Logs into Actionable Metrics",
-        "link": "https://aws.amazon.com/blogs/mt/unlocking-insights-turning-application-logs-into-actionable-metrics/"
     }
 ]

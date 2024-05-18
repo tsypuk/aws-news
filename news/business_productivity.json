@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing license usage with AWS AppFabric",
+        "link": "https://aws.amazon.com/blogs/business-productivity/optimizing-license-usage-with-aws-appfabric/"
+    },
+    {
         "title": "Analyzing Audit Logs from Cross Applications using AWS AppFabric",
         "link": "https://aws.amazon.com/blogs/business-productivity/analyzing-audit-logs-from-cross-applications-using-aws-appfabric/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Easily monitor for anomalous behavior across multiple SaaS applications with AWS AppFabric",
         "link": "https://aws.amazon.com/blogs/business-productivity/easily-monitor-for-anomalous-behavior-across-multiple-saas-applications-with-aws-appfabric/"
-    },
-    {
-        "title": "Cross-application audit log analysis with AWS AppFabric",
-        "link": "https://aws.amazon.com/blogs/business-productivity/cross-application-audit-log-analysis-with-aws-appfabric/"
     }
 ]

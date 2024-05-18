@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to monitor internet traffic to CloudFront edge in one click with Amazon CloudWatch Internet Monitor",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-monitor-internet-traffic-to-cloudfront-edge-in-one-click-with-amazon-cloudwatch-internet-monitor/"
+    },
+    {
         "title": "Introducing VPC Flow Logs for Elastic Container Services",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-vpc-flow-logs-for-elastic-container-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gain secure access to on-premises applications with AWS Verified Access",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/gain-secure-access-to-on-premises-applications-with-aws-verified-access/"
-    },
-    {
-        "title": "How to interconnect AWS Cloud WAN core networks",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-interconnect-aws-cloud-wan-core-networks/"
     }
 ]
