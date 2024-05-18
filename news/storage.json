@@ -1,11 +1,15 @@
 [
     {
+        "title": "Transfer customer managed SSE-KMS encrypted objects across AWS accounts and Regions using AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/transfer-customer-managed-sse-kms-encrypted-objects-across-aws-accounts-and-regions-using-aws-datasync/"
+    },
+    {
         "title": "Optimizing storage costs and query performance by compacting small objects",
         "link": "https://aws.amazon.com/blogs/storage/optimizing-storage-costs-and-query-performance-by-compacting-small-objects/"
     },
     {
         "title": "A Pilot Light disaster recovery strategy for WordPress",
-        "link": "https://aws.amazon.com/blogs/storage/pilot-light-warm-standby-disaster-recovery-strategy-for-wordpress/"
+        "link": "https://aws.amazon.com/blogs/storage/pilot-light-disaster-recovery-strategy-for-wordpress/"
     },
     {
         "title": "Architecting secure and compliant managed file transfers with AWS Transfer Family SFTP connectors and PGP encryption",
@@ -74,9 +78,5 @@
     {
         "title": "How to use NetApp ONTAP REST APIs with Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/how-to-use-netapp-ontap-rest-apis-with-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Designing a resilient and cost-effective backup strategy for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/designing-a-resilient-and-cost-effective-backup-strategy-for-amazon-s3/"
     }
 ]

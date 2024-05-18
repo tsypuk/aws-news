@@ -1,5 +1,9 @@
 [
     {
+        "title": "Binary logging optimizations in Amazon Aurora MySQL version 3",
+        "link": "https://aws.amazon.com/blogs/database/binary-logging-optimizations-in-amazon-aurora-mysql-version-3/"
+    },
+    {
         "title": "Discover and visualize graph schemas in Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/discover-and-visualize-graph-schemas-in-amazon-neptune/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing configurable maximum throughput for Amazon DynamoDB on-demand",
         "link": "https://aws.amazon.com/blogs/database/introducing-configurable-maximum-throughput-for-amazon-dynamodb-on-demand/"
-    },
-    {
-        "title": "Tune replication performance with AWS DMS for an Amazon Kinesis Data Streams target endpoint \u2013 Part 3",
-        "link": "https://aws.amazon.com/blogs/database/tune-replication-performance-with-aws-dms-for-an-amazon-kinesis-data-streams-target-endpoint-part-3/"
     }
 ]

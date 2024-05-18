@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize AWS event and log collection using common design patterns",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/optimize-aws-event-log-collection-using-common-design-patterns/"
+    },
+    {
         "title": "ACE mapping guide for AWS Partner CRM Connector Version 2.0",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/ace-mapping-guide-for-aws-partner-crm-connector-version-2-0/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reduce log-storage costs by automating retention settings in Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-log-storage-costs-by-automating-retention-settings-in-amazon-cloudwatch/"
-    },
-    {
-        "title": "Disaster recovery: 3 failover scenarios for your Amazon Aurora global database with Terraform (Part 2)",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/disaster-recovery-failover-scenarios-aurora-global-database-terraform/"
     }
 ]
