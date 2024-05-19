@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate Microsoft web application deployments with GitHub Actions and Terraform",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-microsoft-web-application-deployments-with-github-actions-and-terraform/"
+    },
+    {
         "title": "Monitor Microsoft SharePoint Server using Amazon CloudWatch Application Insights",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/monitor-microsoft-sharepoint-server-using-amazon-cloudwatch-application-insights/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automated user creation and provisioning in Active Directory and Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-user-creation-and-provisioning-in-active-directory-and-amazon-workspaces/"
-    },
-    {
-        "title": "Optimizing large-scale migration of SQL Server databases to Amazon EC2 using backup metadata",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimizing-large-scale-migration-of-sql-server-databases-to-amazon-ec2-using-backup-metadata/"
     }
 ]
