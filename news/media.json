@@ -1,5 +1,9 @@
 [
     {
+        "title": "Planning Migrations to successfully incorporate Generative AI",
+        "link": "https://aws.amazon.com/blogs/mt/planning-migrations-to-successfully-incorporate-generative-ai/"
+    },
+    {
         "title": "Event Driven Architecture using Amazon EventBridge \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlock Faster Releases with AWS AppConfig: The Secret Weapon for Your CI/CD Strategy",
         "link": "https://aws.amazon.com/blogs/mt/unlock-faster-releases-with-aws-appconfig-the-secret-weapon-for-your-ci-cd-strategy/"
-    },
-    {
-        "title": "How to monitor AWS WAF logging centrally using Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-monitor-aws-waf-logging-centrally-using-amazon-managed-grafana/"
     }
 ]
