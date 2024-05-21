@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup \u2013 Application Load Balancer IPv6, Amazon S3 pricing update, Amazon EC2 Flex instances, and more (May 20, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-application-load-balancer-ipv6-amazon-s3-pricing-update-amazon-ec2-flex-instances-and-more-may-20-2024/"
+    },
+    {
         "title": "New compute-optimized (C7i-flex) Amazon EC2 Flex instances",
         "link": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Import custom models in Amazon Bedrock (preview)",
         "link": "https://aws.amazon.com/blogs/aws/import-custom-models-in-amazon-bedrock-preview/"
-    },
-    {
-        "title": "Amazon Titan Image Generator and watermark detection API are now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-and-watermark-detection-api-are-now-available-in-amazon-bedrock/"
     }
 ]
