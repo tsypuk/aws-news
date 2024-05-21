@@ -1,5 +1,13 @@
 [
     {
+        "title": "2024 ISO and CSA STAR certificates now available with two additional AWS Regions and three additional services",
+        "link": "https://aws.amazon.com/blogs/security/2024-iso-and-csa-star-certificates-now-available-with-two-additional-aws-regions-and-three-additional-services/"
+    },
+    {
+        "title": "Integrating AWS Verified Access with Jamf as a device trust provider",
+        "link": "https://aws.amazon.com/blogs/security/integrating-aws-verified-access-with-jamf-as-a-device-trust-provider/"
+    },
+    {
         "title": "A sneak peek at the data protection sessions for re:Inforce 2024",
         "link": "https://aws.amazon.com/blogs/security/a-sneak-peek-at-the-data-protection-sessions-for-reinforce-2024/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate security automation using Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/security/accelerate-security-automation-using-amazon-codewhisperer/"
-    },
-    {
-        "title": "The curious case of faster AWS KMS symmetric key rotation",
-        "link": "https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/"
-    },
-    {
-        "title": "Detecting and remediating inactive user accounts with Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/security/detecting-and-remediating-inactive-user-accounts-with-amazon-cognito/"
     }
 ]

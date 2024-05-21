@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon Timestream for InfluxDB: A managed service for the popular open source time-series database",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-amazon-timestream-for-influxdb-a-managed-service-for-the-popular-open-source-time-series-database/"
+    },
+    {
         "title": "Enhancing Network Resilience with Istio on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/opensource/enhancing-network-resilience-with-istio-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Open Source Projects are Using Kani to Write Better Software in Rust",
         "link": "https://aws.amazon.com/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust/"
-    },
-    {
-        "title": "Ready for Flight: Announcing Finch 1.0 GA!",
-        "link": "https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/"
     }
 ]

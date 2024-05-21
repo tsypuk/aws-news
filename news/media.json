@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using Amazon Q Business to streamline your operations",
+        "link": "https://aws.amazon.com/blogs/mt/aws-operations-assistant-using-amazon-q-for-business/"
+    },
+    {
+        "title": "Augmenting mainframe data with IBM MQ and Amazon Managed Streaming for Apache Kafka",
+        "link": "https://aws.amazon.com/blogs/mt/augmenting-mainframe-data-with-ibm-mq-and-amazon-managed-streaming-for-apache-kafka/"
+    },
+    {
         "title": "Planning Migrations to successfully incorporate Generative AI",
         "link": "https://aws.amazon.com/blogs/mt/planning-migrations-to-successfully-incorporate-generative-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Create a data-driven Migration Business Case using AWS Cloud Value Framework",
         "link": "https://aws.amazon.com/blogs/mt/create-a-data-driven-migration-business-case-using-aws-cloud-value-framework/"
-    },
-    {
-        "title": "Using the unified CloudWatch Agent to send traces to AWS X-Ray",
-        "link": "https://aws.amazon.com/blogs/mt/using-the-unified-cloudwatch-agent-to-send-traces-to-aws-x-ray/"
-    },
-    {
-        "title": "Unlock Faster Releases with AWS AppConfig: The Secret Weapon for Your CI/CD Strategy",
-        "link": "https://aws.amazon.com/blogs/mt/unlock-faster-releases-with-aws-appconfig-the-secret-weapon-for-your-ci-cd-strategy/"
     }
 ]
