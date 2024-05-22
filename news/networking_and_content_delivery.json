@@ -1,5 +1,21 @@
 [
     {
+        "title": "Join us at the AWS World IPv6 Day Celebration",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/join-us-at-the-aws-world-ipv6-day-celebration/"
+    },
+    {
+        "title": "Using connection tracking improvements to increase network performance",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-connection-tracking-improvements-to-increase-network-performance/"
+    },
+    {
+        "title": "IPv6 deployment models for AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ipv6-deployment-models-for-aws-network-firewall/"
+    },
+    {
+        "title": "Connecting Saas services within a VPC Lattice service network",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/connecting-saas-services-within-a-vpc-lattice-service-network/"
+    },
+    {
         "title": "How to monitor internet traffic to CloudFront edge in one click with Amazon CloudWatch Internet Monitor",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-monitor-internet-traffic-to-cloudfront-edge-in-one-click-with-amazon-cloudwatch-internet-monitor/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Streamline access to most used AWS services using VPC Endpoints",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-access-to-most-used-aws-services-using-vpc-endpoints/"
-    },
-    {
-        "title": "Promoting customer choice: AWS takes another step to lower costs for customers changing IT providers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/promoting-customer-choice-aws-takes-another-step-to-lower-costs-for-customers-changing-it-providers/"
-    },
-    {
-        "title": "Using AWS Transit Gateway Flow Logs to chargeback data processing costs in a multi-account environment",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-transit-gateway-flow-logs-to-chargeback-data-processing-costs-in-a-multi-account-environment/"
-    },
-    {
-        "title": "How Glovo migrated their self-managed VPN solution to AWS Client VPN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-glovo-migrated-their-self-managed-vpn-solution-to-aws-client-vpn/"
-    },
-    {
-        "title": "Gain secure access to on-premises applications with AWS Verified Access",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/gain-secure-access-to-on-premises-applications-with-aws-verified-access/"
     }
 ]

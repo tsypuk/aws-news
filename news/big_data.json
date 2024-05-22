@@ -1,5 +1,9 @@
 [
     {
+        "title": "AVB accelerates search in LINQ with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/avb-accelerates-search-in-linq-with-amazon-opensearch-service/"
+    },
+    {
         "title": "Understanding Apache Iceberg on AWS with the new technical guide",
         "link": "https://aws.amazon.com/blogs/big-data/understanding-apache-iceberg-on-aws-with-the-new-technical-guide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Dynamic DAG generation with YAML and DAG Factory in Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/dynamic-dag-generation-with-yaml-and-dag-factory-in-amazon-mwaa/"
-    },
-    {
-        "title": "Amazon OpenSearch Service Under the Hood : OpenSearch Optimized Instances(OR1)",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-under-the-hood-opensearch-optimized-instancesor1/"
     }
 ]

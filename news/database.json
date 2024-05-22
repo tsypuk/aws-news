@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enable fine-grained access control and observability for API operations in Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/enable-fine-grained-access-control-and-observability-for-api-operations-in-amazon-dynamodb/"
+    },
+    {
+        "title": "Migrate a multi-TB SQL Server database to Amazon RDS Custom for SQL Server using Amazon FSx for Windows File Server",
+        "link": "https://aws.amazon.com/blogs/database/migrate-a-multi-tb-sql-server-database-to-amazon-rds-custom-for-sql-server-using-amazon-fsx-for-windows-file-server/"
+    },
+    {
         "title": "Freecharge lowered their identity management system cost and improved scaling by switching to Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/freecharge-lowered-their-identity-management-system-cost-and-improved-scaling-by-switching-to-amazon-dynamodb/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Find and link similar entities in a knowledge graph using Amazon Neptune, Part 1: Full-text search",
         "link": "https://aws.amazon.com/blogs/database/find-and-link-similar-entities-in-a-knowledge-graph-using-amazon-neptune-part-1-full-text-search/"
-    },
-    {
-        "title": "Minimize downtime when migrating your Oracle database to Amazon RDS for Oracle with transportable tablespaces and AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/minimize-downtime-when-migrating-your-oracle-database-to-amazon-rds-for-oracle-with-transportable-tablespaces-and-aws-dms/"
-    },
-    {
-        "title": "Managing object dependencies in PostgreSQL: Removing dependent objects (Part2)",
-        "link": "https://aws.amazon.com/blogs/database/managing-object-dependencies-in-postgresql-removing-dependent-objects-part2/"
     }
 ]

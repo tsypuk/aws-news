@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ensuring fair bandwidth allocation for Amazon EKS Workloads",
+        "link": "https://aws.amazon.com/blogs/containers/ensuring-fair-bandwidth-allocation-for-amazon-eks-workloads/"
+    },
+    {
         "title": "Enhancing Kubernetes workload isolation and security using Kata Containers",
         "link": "https://aws.amazon.com/blogs/containers/enhancing-kubernetes-workload-isolation-and-security-using-kata-containers/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Upstox built NextGen trading platform using Amazon EKS, Karpenter, and spot instances",
         "link": "https://aws.amazon.com/blogs/containers/how-upstox-built-nextgen-trading-platform-using-amazon-eks-karpenter-and-spot-instances/"
-    },
-    {
-        "title": "Using Amazon EC2 Spot Instances with Karpenter",
-        "link": "https://aws.amazon.com/blogs/containers/using-amazon-ec2-spot-instances-with-karpenter/"
     }
 ]

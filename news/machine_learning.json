@@ -1,5 +1,17 @@
 [
     {
+        "title": "Create a multimodal assistant with advanced RAG and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-multimodal-assistant-with-advanced-rag-and-amazon-bedrock/"
+    },
+    {
+        "title": "How 20 Minutes empowers journalists and boosts audience engagement with generative AI on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-20-minutes-empowers-journalists-and-boosts-audience-engagement-with-generative-ai-on-amazon-bedrock/"
+    },
+    {
+        "title": "Efficient and cost-effective multi-tenant LoRA serving with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/efficient-and-cost-effective-multi-tenant-lora-serving-with-amazon-sagemaker/"
+    },
+    {
         "title": "Mixtral 8x22B is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x22b-is-now-available-in-amazon-sagemaker-jumpstart/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Dialog Axiata used Amazon SageMaker to scale ML models in production with AI Factory and reduced customer churn within 3 months",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-dialog-axiata-used-amazon-sagemaker-to-scale-ml-models-in-production-with-ai-factory-and-reduced-customer-churn-within-3-months/"
-    },
-    {
-        "title": "Amazon SageMaker now integrates with Amazon DataZone to streamline machine learning governance",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-now-integrates-with-amazon-datazone-to-streamline-machine-learning-governance/"
-    },
-    {
-        "title": "Boost employee productivity with automated meeting summaries using Amazon Transcribe, Amazon SageMaker, and LLMs from Hugging Face",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boost-employee-productivity-with-automated-meeting-summaries-using-amazon-transcribe-amazon-sagemaker-and-llms-from-hugging-face/"
-    },
-    {
-        "title": "How Veritone uses Amazon Bedrock, Amazon Rekognition, Amazon Transcribe, and information retrieval to update their video search pipeline",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-veritone-uses-amazon-bedrock-amazon-rekognition-amazon-transcribe-and-information-retrieval-to-update-their-video-search-pipeline/"
     }
 ]
