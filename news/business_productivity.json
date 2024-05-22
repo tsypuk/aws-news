@@ -1,10 +1,14 @@
 [
     {
+        "title": "Mitigating risks of data exfiltration with AWS AppFabric",
+        "link": "https://aws.amazon.com/blogs/business-productivity/mitigating-risks-of-data-exfiltration-with-aws-appfabric/"
+    },
+    {
         "title": "Optimizing license usage with AWS AppFabric",
         "link": "https://aws.amazon.com/blogs/business-productivity/optimizing-license-usage-with-aws-appfabric/"
     },
     {
-        "title": "Analyzing Audit Logs from Cross Applications using AWS AppFabric",
+        "title": "Analyzing audit logs from cross applications using AWS AppFabric",
         "link": "https://aws.amazon.com/blogs/business-productivity/analyzing-audit-logs-from-cross-applications-using-aws-appfabric/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS AppFabric to simplify observability of SaaS app data",
         "link": "https://aws.amazon.com/blogs/business-productivity/use-aws-appfabric-to-simplify-observability-of-saas-app-data/"
-    },
-    {
-        "title": "Easily monitor for anomalous behavior across multiple SaaS applications with AWS AppFabric",
-        "link": "https://aws.amazon.com/blogs/business-productivity/easily-monitor-for-anomalous-behavior-across-multiple-saas-applications-with-aws-appfabric/"
     }
 ]
