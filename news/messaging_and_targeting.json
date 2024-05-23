@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mail Manager \u2013 Amazon SES introduces new email routing and archiving features",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/mail-manager-amazon-ses-introduces-new-email-routing-and-archiving-features/"
+    },
+    {
         "title": "The Four Pillars of Managing Email Reputation",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/the-four-pillars-of-email-reputation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate marketing campaigns with real-time customer data using Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-marketing-campaigns-with-real-time-customer-data-using-amazon-pinpoint/"
-    },
-    {
-        "title": "How to implement multi-tenancy with Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-implement-multi-tenancy-with-amazon-pinpoint/"
     }
 ]

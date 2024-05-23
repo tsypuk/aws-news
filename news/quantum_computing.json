@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Braket launches new superconducting quantum processor from IQM",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-new-superconducting-quantum-processor-from-iqm/"
+    },
+    {
         "title": "Delivering quantum information \u2013 a field-deployed quantum network",
         "link": "https://aws.amazon.com/blogs/quantum-computing/delivering-quantum-information-a-field-deployed-quantum-network/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Explainable AI using expressive Boolean formulas",
         "link": "https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/"
-    },
-    {
-        "title": "Citi and Classiq advance quantum solutions for portfolio optimization using Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/citi-and-classiq-advance-quantum-solutions-for-portfolio-optimization/"
     }
 ]
