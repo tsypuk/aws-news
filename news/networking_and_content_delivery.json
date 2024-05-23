@@ -1,15 +1,23 @@
 [
     {
+        "title": "How to use Amazon Athena queries to analyze AWS WAF logs and provide the visibility needed for threat detection",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-use-amazon-athena-queries-to-analyze-aws-waf-logs-and-provide-the-visibility-needed-for-threat-detection/"
+    },
+    {
+        "title": "IPv6 deployment models for AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ipv6-deployment-models-for-aws-network-firewall/"
+    },
+    {
+        "title": "How to seamlessly migrate traffic between Direct Connect gateways",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-seamlessly-migrate-traffic-between-direct-connect-gateways/"
+    },
+    {
         "title": "Join us at the AWS World IPv6 Day Celebration",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/join-us-at-the-aws-world-ipv6-day-celebration/"
     },
     {
         "title": "Using connection tracking improvements to increase network performance",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-connection-tracking-improvements-to-increase-network-performance/"
-    },
-    {
-        "title": "IPv6 deployment models for AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ipv6-deployment-models-for-aws-network-firewall/"
     },
     {
         "title": "Connecting Saas services within a VPC Lattice service network",
@@ -70,13 +78,5 @@
     {
         "title": "How to optimize DNS for dual-stack networks",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-optimize-dns-for-dual-stack-networks/"
-    },
-    {
-        "title": "Orchestrate disaster recovery automation using Amazon Route 53 ARC and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/orchestrate-disaster-recovery-automation-using-amazon-route-53-arc-and-aws-step-functions/"
-    },
-    {
-        "title": "Streamline access to most used AWS services using VPC Endpoints",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-access-to-most-used-aws-services-using-vpc-endpoints/"
     }
 ]
