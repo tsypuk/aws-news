@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate Mixtral 8x7B pre-training with expert parallelism on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-mixtral-8x7b-pre-training-with-expert-parallelism-on-amazon-sagemaker/"
+    },
+    {
         "title": "Generating fashion product descriptions by fine-tuning a vision-language model with SageMaker and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/generating-fashion-product-descriptions-by-fine-tuning-a-vision-language-model-with-sagemaker-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Establishing an AI/ML center of excellence",
         "link": "https://aws.amazon.com/blogs/machine-learning/establishing-an-ai-ml-center-of-excellence/"
-    },
-    {
-        "title": "Build a Hugging Face text classification model in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-hugging-face-text-classification-model-in-amazon-sagemaker-jumpstart/"
     }
 ]
