@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing: Seqera Containers for the bioinformatics community",
+        "link": "https://aws.amazon.com/blogs/hpc/announcing-seqera-containers-for-the-bioinformatics-community/"
+    },
+    {
         "title": "Using machine learning to drive faster automotive design cycles",
         "link": "https://aws.amazon.com/blogs/hpc/using-machine-learning-to-drive-faster-automotive-design-cycles/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How agent-based models powered by HPC are enabling large scale economic simulations",
         "link": "https://aws.amazon.com/blogs/hpc/how-agent-based-models-powered-by-hpc-are-enabling-large-scale-economic-simulations/"
-    },
-    {
-        "title": "Amazon\u2019s renewable energy forecasting: continuous delivery with Jupyter Notebooks",
-        "link": "https://aws.amazon.com/blogs/hpc/amazons-renewable-energy-forecasting-continuous-delivery-with-jupyter-notebooks/"
     }
 ]

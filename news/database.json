@@ -1,5 +1,9 @@
 [
     {
+        "title": "Provision and manage Amazon RDS for Oracle using Terraform",
+        "link": "https://aws.amazon.com/blogs/database/provision-and-manage-amazon-rds-for-oracle-using-terraform/"
+    },
+    {
         "title": "How Agnostic Engineering improved storage latency for running Polygon nodes on AWS",
         "link": "https://aws.amazon.com/blogs/database/how-agnostic-engineering-improved-storage-latency-for-running-polygon-nodes-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Kerberos authentication with Amazon Aurora MySQL",
         "link": "https://aws.amazon.com/blogs/database/use-kerberos-authentication-with-amazon-aurora-mysql/"
-    },
-    {
-        "title": "List unspent transaction outputs by address on Bitcoin with Amazon Managed Blockchain Query",
-        "link": "https://aws.amazon.com/blogs/database/list-unspent-transaction-outputs-by-address-on-bitcoin-with-amazon-managed-blockchain-query/"
     }
 ]

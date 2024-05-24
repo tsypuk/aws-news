@@ -1,5 +1,17 @@
 [
     {
+        "title": "In-place version upgrades for applications on Amazon Managed Service for Apache Flink now supported",
+        "link": "https://aws.amazon.com/blogs/big-data/in-place-version-upgrades-for-applications-on-amazon-managed-service-for-apache-flink-now-supported/"
+    },
+    {
+        "title": "Get started with AWS Glue Data Quality dynamic rules for ETL pipelines",
+        "link": "https://aws.amazon.com/blogs/big-data/get-started-with-aws-glue-data-quality-dynamic-rules-for-etl-pipelines/"
+    },
+    {
+        "title": "Entity resolution and fuzzy matches in AWS Glue using the Zingg open source library",
+        "link": "https://aws.amazon.com/blogs/big-data/entity-resolution-and-fuzzy-matches-in-aws-glue-using-the-zingg-open-source-library/"
+    },
+    {
         "title": "Introducing blueprint discovery and other UI enhancements for Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-blueprint-discovery-and-other-ui-enhancements-for-amazon-opensearch-ingestion/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Dive deep into security management: The Data on EKS Platform",
         "link": "https://aws.amazon.com/blogs/big-data/dive-deep-into-security-management-the-data-on-eks-platform/"
-    },
-    {
-        "title": "Use your corporate identities for analytics with Amazon EMR and AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/big-data/use-your-corporate-identities-for-analytics-with-amazon-emr-and-aws-iam-identity-center/"
-    },
-    {
-        "title": "Orchestrate an end-to-end ETL pipeline using Amazon S3, AWS Glue, and Amazon Redshift Serverless with Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-an-end-to-end-etl-pipeline-using-amazon-s3-aws-glue-and-amazon-redshift-serverless-with-amazon-mwaa/"
-    },
-    {
-        "title": "Optimize data layout by bucketing with Amazon Athena and AWS Glue to accelerate downstream queries",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-data-layout-by-bucketing-with-amazon-athena-and-aws-glue-to-accelerate-downstream-queries/"
     }
 ]
