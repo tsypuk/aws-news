@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build Spark Structured Streaming applications with the open source connector for Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/build-spark-structured-streaming-applications-with-the-open-source-connector-for-amazon-kinesis-data-streams/"
+    },
+    {
         "title": "In-place version upgrades for applications on Amazon Managed Service for Apache Flink now supported",
         "link": "https://aws.amazon.com/blogs/big-data/in-place-version-upgrades-for-applications-on-amazon-managed-service-for-apache-flink-now-supported/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon Q data integration in AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-q-data-integration-in-aws-glue/"
-    },
-    {
-        "title": "Dive deep into security management: The Data on EKS Platform",
-        "link": "https://aws.amazon.com/blogs/big-data/dive-deep-into-security-management-the-data-on-eks-platform/"
     }
 ]

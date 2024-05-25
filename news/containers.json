@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying Karpenter Nodes with Multus on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/deploying-karpenter-nodes-with-multus-on-amazon-eks/"
+    },
+    {
         "title": "Ensuring fair bandwidth allocation for Amazon EKS Workloads",
         "link": "https://aws.amazon.com/blogs/containers/ensuring-fair-bandwidth-allocation-for-amazon-eks-workloads/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Slack adopted Karpenter to increase Operational and Cost Efficiency",
         "link": "https://aws.amazon.com/blogs/containers/how-slack-adopted-karpenter-to-increase-operational-and-cost-efficiency/"
-    },
-    {
-        "title": "How Upstox built NextGen trading platform using Amazon EKS, Karpenter, and spot instances",
-        "link": "https://aws.amazon.com/blogs/containers/how-upstox-built-nextgen-trading-platform-using-amazon-eks-karpenter-and-spot-instances/"
     }
 ]
