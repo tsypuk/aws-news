@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate downgrading SQL Server to Developer edition on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-downgrading-sql-server-to-developer-edition-on-amazon-ec2/"
+    },
+    {
         "title": "Automate Microsoft web application deployments with GitHub Actions and Terraform",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-microsoft-web-application-deployments-with-github-actions-and-terraform/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Use Azure DevOps to deploy AWS Glue jobs in CI/CD pipeline",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-azure-devops-to-deploy-aws-glue-jobs-in-ci-cd-pipeline/"
-    },
-    {
-        "title": "Automated user creation and provisioning in Active Directory and Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-user-creation-and-provisioning-in-active-directory-and-amazon-workspaces/"
     }
 ]
