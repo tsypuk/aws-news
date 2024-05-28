@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup \u2013 LlamaIndex support for Amazon Neptune, force AWS CloudFormation stack deletion, and more (May 27, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llamaindex-support-for-amazon-neptune-force-aws-cloudformation-stack-deletion-and-more-may-27-2024/"
+    },
+    {
         "title": "Optimized for low-latency workloads, Mistral Small now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/optimized-for-low-latency-workloads-mistral-small-now-available-in-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Agents for Amazon Bedrock: Introducing a simplified creation and configuration experience",
         "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-introducing-a-simplified-creation-and-configuration-experience/"
-    },
-    {
-        "title": "Amazon Bedrock model evaluation is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-model-evaluation-is-now-generally-available/"
     }
 ]
