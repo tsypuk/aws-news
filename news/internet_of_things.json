@@ -1,5 +1,9 @@
 [
     {
+        "title": "Querying industrial assets using natural language with AWS IoT SiteWise and Agents for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/iot/querying-industrial-assets-using-natural-language-with-aws-iot-sitewise-and-agents-for-amazon-bedrock/"
+    },
+    {
         "title": "How MTData built a CVML vehicle telematics and driver monitoring solution with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/how-mtdata-built-a-cvml-vehicle-telematics-and-driver-monitoring-solution-with-aws-iot/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The Blueprint for Industrial Transformation: Building a Strong Data Foundation with AWS IoT SiteWise",
         "link": "https://aws.amazon.com/blogs/iot/the-blueprint-for-industrial-transformation-building-a-strong-data-foundation-with-aws-iot-sitewise/"
-    },
-    {
-        "title": "Announcing AWS IoT FleetWise vision system data (Preview)",
-        "link": "https://aws.amazon.com/blogs/iot/announcing-aws-iot-fleetwise-vision-system-data-preview/"
     }
 ]

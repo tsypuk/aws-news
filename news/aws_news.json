@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EC2 high memory U7i Instances for large in-memory databases",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/"
+    },
+    {
         "title": "AWS Weekly Roundup \u2013 LlamaIndex support for Amazon Neptune, force AWS CloudFormation stack deletion, and more (May 27, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llamaindex-support-for-amazon-neptune-force-aws-cloudformation-stack-deletion-and-more-may-27-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Guardrails for Amazon Bedrock now available with new safety filters and privacy controls",
         "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-now-available-with-new-safety-filters-and-privacy-controls/"
-    },
-    {
-        "title": "Agents for Amazon Bedrock: Introducing a simplified creation and configuration experience",
-        "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-introducing-a-simplified-creation-and-configuration-experience/"
     }
 ]

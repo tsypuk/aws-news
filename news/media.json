@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify compliance management of multicloud or hybrid resources with AWS Config",
+        "link": "https://aws.amazon.com/blogs/mt/simplify-compliance-management-of-multicloud-or-hybrid-resources-with-aws-config/"
+    },
+    {
         "title": "Using Amazon Q Business to streamline your operations",
         "link": "https://aws.amazon.com/blogs/mt/streamline-operations-using-amazon-q-for-business/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How StormForge reduces complexity and ensures scalability with Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/how-stormforge-reduces-complexity-and-ensures-scalability-with-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "Create a data-driven Migration Business Case using AWS Cloud Value Framework",
-        "link": "https://aws.amazon.com/blogs/mt/create-a-data-driven-migration-business-case-using-aws-cloud-value-framework/"
     }
 ]
