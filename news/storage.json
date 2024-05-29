@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Toyota Connected North America reduced storage costs by optimizing its growing data on Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/how-toyota-connected-north-america-reduced-storage-costs-by-optimizing-its-growing-data-on-amazon-s3/"
+    },
+    {
         "title": "Transfer customer managed SSE-KMS encrypted objects across AWS accounts and Regions using AWS DataSync",
         "link": "https://aws.amazon.com/blogs/storage/transfer-customer-managed-sse-kms-encrypted-objects-across-aws-accounts-and-regions-using-aws-datasync/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to manage Amazon FSx for NetApp ONTAP with Ansible",
         "link": "https://aws.amazon.com/blogs/storage/how-to-manage-amazon-fsx-for-netapp-ontap-with-ansible/"
-    },
-    {
-        "title": "How to use NetApp ONTAP REST APIs with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-use-netapp-ontap-rest-apis-with-amazon-fsx-for-netapp-ontap/"
     }
 ]

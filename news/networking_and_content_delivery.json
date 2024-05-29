@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor BGP status on AWS Direct Connect VIFs and track prefix count advertised over Transit VIF",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/monitor-bgp-status-on-aws-direct-connect-vifs-and-track-prefix-count-advertised-over-transit-vif/"
+    },
+    {
         "title": "How to use Amazon Athena queries to analyze AWS WAF logs and provide the visibility needed for threat detection",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-use-amazon-athena-queries-to-analyze-aws-waf-logs-and-provide-the-visibility-needed-for-threat-detection/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Programmatically deploying CloudFront distributions in AWS China Regions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/programmatically-deploying-cloudfront-distributions-in-aws-china-regions/"
-    },
-    {
-        "title": "How to optimize DNS for dual-stack networks",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-optimize-dns-for-dual-stack-networks/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing Amazon EMR on EKS with Apache Flink: A scalable, reliable, and efficient data processing platform",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-emr-on-eks-with-apache-flink-a-scalable-reliable-and-efficient-data-processing-platform/"
+    },
+    {
+        "title": "Build a decentralized semantic search engine on heterogeneous data stores using autonomous agents",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-decentralized-semantic-search-engine-on-heterogeneous-data-stores-using-autonomous-agents/"
+    },
+    {
+        "title": "Architectural Patterns for real-time analytics using Amazon Kinesis Data Streams, Part 2: AI Applications",
+        "link": "https://aws.amazon.com/blogs/big-data/architectural-patterns-for-real-time-analytics-using-amazon-kinesis-data-streams-part-2-ai-applications/"
+    },
+    {
         "title": "Build Spark Structured Streaming applications with the open source connector for Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/build-spark-structured-streaming-applications-with-the-open-source-connector-for-amazon-kinesis-data-streams/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Analyze more demanding as well as larger time series workloads with Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/analyze-more-demanding-as-well-as-larger-time-series-workloads-with-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Detect and handle data skew on AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/detect-and-handle-data-skew-on-aws-glue/"
-    },
-    {
-        "title": "How Fujitsu implemented a global data mesh architecture and democratized data",
-        "link": "https://aws.amazon.com/blogs/big-data/how-fujitsu-implemented-a-global-data-mesh-architecture-and-democratized-data/"
-    },
-    {
-        "title": "Introducing Amazon Q data integration in AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-q-data-integration-in-aws-glue/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to enable one-click unsubscribe email with Amazon Pinpoint",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-enable-one-click-unsubscribe-email-with-amazon-pinpoint/"
+    },
+    {
         "title": "Mail Manager \u2013 Amazon SES introduces new email routing and archiving features",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/mail-manager-amazon-ses-introduces-new-email-routing-and-archiving-features/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify your SMS setup with the new Amazon Pinpoint SMS console",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/send-sms-using-the-new-amazon-pinpoint-sms-console/"
-    },
-    {
-        "title": "Automate marketing campaigns with real-time customer data using Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-marketing-campaigns-with-real-time-customer-data-using-amazon-pinpoint/"
     }
 ]
