@@ -1,10 +1,14 @@
 [
     {
+        "title": "AWS analytics services streamline user access to data, permissions setting, and auditing",
+        "link": "https://aws.amazon.com/blogs/aws/aws-analytics-services-streamline-user-access-to-data-permissions-setting-and-auditing/"
+    },
+    {
         "title": "Amazon EC2 high memory U7i Instances for large in-memory databases",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/"
     },
     {
-        "title": "AWS Weekly Roundup \u2013 LlamaIndex support for Amazon Neptune, force AWS CloudFormation stack deletion, and more (May 27, 2024)",
+        "title": "AWS Weekly Roundup: LlamaIndex support for Amazon Neptune, force AWS CloudFormation stack deletion, and more (May 27, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llamaindex-support-for-amazon-neptune-force-aws-cloudformation-stack-deletion-and-more-may-27-2024/"
     },
     {
@@ -12,7 +16,7 @@
         "link": "https://aws.amazon.com/blogs/aws/optimized-for-low-latency-workloads-mistral-small-now-available-in-amazon-bedrock/"
     },
     {
-        "title": "AWS Weekly Roundup \u2013 Application Load Balancer IPv6, Amazon S3 pricing update, Amazon EC2 Flex instances, and more (May 20, 2024)",
+        "title": "AWS Weekly Roundup: Application Load Balancer IPv6, Amazon S3 pricing update, Amazon EC2 Flex instances, and more (May 20, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-application-load-balancer-ipv6-amazon-s3-pricing-update-amazon-ec2-flex-instances-and-more-may-20-2024/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Meta Llama 3 models are now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "Guardrails for Amazon Bedrock now available with new safety filters and privacy controls",
-        "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-now-available-with-new-safety-filters-and-privacy-controls/"
     }
 ]

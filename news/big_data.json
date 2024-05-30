@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing support for Apache Kafka on Raft mode (KRaft) with Amazon MSK clusters",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-support-for-apache-kafka-on-raft-mode-kraft-with-amazon-msk-clusters/"
+    },
+    {
+        "title": "Simplify data lake access control for your enterprise users with trusted identity propagation in AWS IAM Identity Center, AWS Lake Formation, and Amazon S3 Access Grants",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-lake-access-control-for-your-enterprise-users-with-trusted-identity-propagation-in-aws-iam-identity-center-aws-lake-formation-and-amazon-s3-access-grants/"
+    },
+    {
         "title": "Introducing Amazon EMR on EKS with Apache Flink: A scalable, reliable, and efficient data processing platform",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-emr-on-eks-with-apache-flink-a-scalable-reliable-and-efficient-data-processing-platform/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Governing data in relational databases using Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/governing-data-in-relational-databases-using-amazon-datazone/"
-    },
-    {
-        "title": "Revolutionizing data querying: Amazon Redshift and Visual Studio Code integration",
-        "link": "https://aws.amazon.com/blogs/big-data/revolutionizing-data-querying-amazon-redshift-and-visual-studio-code-integration/"
-    },
-    {
-        "title": "Analyze more demanding as well as larger time series workloads with Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/analyze-more-demanding-as-well-as-larger-time-series-workloads-with-amazon-opensearch-serverless/"
     }
 ]

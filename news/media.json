@@ -1,5 +1,9 @@
 [
     {
+        "title": "Identify AWS resources at risk across your multi-account environment with AWS Organizations integrations",
+        "link": "https://aws.amazon.com/blogs/mt/identify-aws-resources-at-risk-across-your-multi-account-environment-with-aws-organizations-integrations/"
+    },
+    {
         "title": "Simplify compliance management of multicloud or hybrid resources with AWS Config",
         "link": "https://aws.amazon.com/blogs/mt/simplify-compliance-management-of-multicloud-or-hybrid-resources-with-aws-config/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlocking Mainframe Modernization for Success: Best practices to accelerate the mainframe to cloud journey",
         "link": "https://aws.amazon.com/blogs/mt/unlocking-mainframe-modernization-for-success-best-practices-to-accelerate-the-mainframe-to-cloud-journey/"
-    },
-    {
-        "title": "How StormForge reduces complexity and ensures scalability with Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/how-stormforge-reduces-complexity-and-ensures-scalability-with-amazon-managed-service-for-prometheus/"
     }
 ]
