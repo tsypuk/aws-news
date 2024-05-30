@@ -1,5 +1,17 @@
 [
     {
+        "title": "Enhance image search experiences with Amazon Personalize, Amazon OpenSearch Service, and Amazon Titan Multimodal Embeddings in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-image-search-experiences-with-amazon-personalize-amazon-opensearch-service-and-amazon-titan-multimodal-embeddings-in-amazon-bedrock/"
+    },
+    {
+        "title": "End-to-end LLM training on instance clusters with over 100 nodes using AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-llm-training-on-instance-clusters-with-over-100-nodes-using-aws-trainium/"
+    },
+    {
+        "title": "Fine-tune large multimodal models using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-large-multimodal-models-using-amazon-sagemaker/"
+    },
+    {
         "title": "Accelerate Mixtral 8x7B pre-training with expert parallelism on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-mixtral-8x7b-pre-training-with-expert-parallelism-on-amazon-sagemaker/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Transform customer engagement with no-code LLM fine-tuning using Amazon SageMaker Canvas and SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/transform-customer-engagement-with-no-code-llm-fine-tuning-using-amazon-sagemaker-canvas-and-sagemaker-jumpstart/"
-    },
-    {
-        "title": "How LotteON built dynamic A/B testing for their personalized recommendation system",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-lotteon-built-dynamic-a-b-testing-for-their-personalized-recommendation-system/"
-    },
-    {
-        "title": "Unleashing the power of generative AI: Verisk\u2019s journey to an Instant Insight Engine for enhanced customer support",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-the-power-of-generative-ai-verisks-journey-to-an-instant-insight-engine-for-enhanced-customer-support/"
-    },
-    {
-        "title": "Establishing an AI/ML center of excellence",
-        "link": "https://aws.amazon.com/blogs/machine-learning/establishing-an-ai-ml-center-of-excellence/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Application-consistent backup for Windows application on Amazon EC2 with AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/application-consistent-backup-for-windows-application-on-amazon-ec2-with-aws-backup/"
+    },
+    {
         "title": "How Toyota Connected North America reduced storage costs by optimizing its growing data on Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/how-toyota-connected-north-america-reduced-storage-costs-by-optimizing-its-growing-data-on-amazon-s3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying Amazon FSx for NetApp ONTAP using HashiCorp Terraform",
         "link": "https://aws.amazon.com/blogs/storage/deploying-amazon-fsx-for-netapp-ontap-hashicorp-terraform/"
-    },
-    {
-        "title": "How to manage Amazon FSx for NetApp ONTAP with Ansible",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-manage-amazon-fsx-for-netapp-ontap-with-ansible/"
     }
 ]
