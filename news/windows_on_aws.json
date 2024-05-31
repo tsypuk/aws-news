@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize CPU best practices for SQL Server workloads",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimize-cpu-best-practices-for-sql-server-workloads/"
+    },
+    {
         "title": "Automate downgrading SQL Server to Developer edition on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-downgrading-sql-server-to-developer-edition-on-amazon-ec2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Convert licenses of SQL Servers migrated with AWS Application Migration Service",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/convert-licenses-of-sql-servers-migrated-with-aws-application-migration-service/"
-    },
-    {
-        "title": "Use Azure DevOps to deploy AWS Glue jobs in CI/CD pipeline",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-azure-devops-to-deploy-aws-glue-jobs-in-ci-cd-pipeline/"
     }
 ]

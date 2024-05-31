@@ -1,5 +1,9 @@
 [
     {
+        "title": "Quickly adopt new AWS features with the Terraform AWS Cloud Control provider",
+        "link": "https://aws.amazon.com/blogs/devops/quickly-adopt-new-aws-features-with-the-terraform-aws-cloud-control-provider/"
+    },
+    {
         "title": "Accelerate your Software Development Lifecycle with Amazon Q",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy CloudFormation Hooks to an Organization with service-managed StackSets",
         "link": "https://aws.amazon.com/blogs/devops/deploy-cloudformation-hooks-to-an-organization-with-service-managed-stacksets/"
-    },
-    {
-        "title": "Looking beyond code coverage with Amazon CodeWhisperer",
-        "link": "https://aws.amazon.com/blogs/devops/looking-beyond-code-coverage-with-amazon-codewhisperer/"
     }
 ]

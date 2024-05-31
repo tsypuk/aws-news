@@ -1,5 +1,17 @@
 [
     {
+        "title": "CBRE and AWS perform natural language queries of structured data using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cbre-and-aws-perform-natural-language-queries-of-structured-data-using-amazon-bedrock/"
+    },
+    {
+        "title": "Dynamic video content moderation and policy evaluation using AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-video-content-moderation-and-policy-evaluation-using-aws-generative-ai-services/"
+    },
+    {
+        "title": "Vitech uses Amazon Bedrock to revolutionize information access with AI-powered chatbot",
+        "link": "https://aws.amazon.com/blogs/machine-learning/vitech-uses-amazon-bedrock-to-revolutionize-information-access-with-ai-powered-chatbot/"
+    },
+    {
         "title": "Enhance image search experiences with Amazon Personalize, Amazon OpenSearch Service, and Amazon Titan Multimodal Embeddings in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-image-search-experiences-with-amazon-personalize-amazon-opensearch-service-and-amazon-titan-multimodal-embeddings-in-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build generative AI applications with Amazon Titan Text Premier, Amazon Bedrock, and AWS CDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-with-amazon-titan-text-premier-amazon-bedrock-and-aws-cdk/"
-    },
-    {
-        "title": "Evaluation of generative AI techniques for clinical report summarization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluation-of-generative-ai-techniques-for-clinical-report-summarization/"
-    },
-    {
-        "title": "AWS DeepRacer enables builders of all skill levels to upskill and get started with machine learning",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-enables-builders-of-all-skill-levels-to-upskill-and-get-started-with-machine-learning/"
-    },
-    {
-        "title": "Transform customer engagement with no-code LLM fine-tuning using Amazon SageMaker Canvas and SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transform-customer-engagement-with-no-code-llm-fine-tuning-using-amazon-sagemaker-canvas-and-sagemaker-jumpstart/"
     }
 ]
