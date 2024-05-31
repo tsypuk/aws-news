@@ -1,5 +1,9 @@
 [
     {
+        "title": "Let\u2019s Architect! Learn About Machine Learning on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/"
+    },
+    {
         "title": "Deploy Stable Diffusion ComfyUI on AWS elastically and efficiently",
         "link": "https://aws.amazon.com/blogs/architecture/deploy-stable-diffusion-comfyui-on-aws-elastically-and-efficiently/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Let\u2019s Architect! Leveraging SQL databases on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-leveraging-sql-databases-on-aws/"
-    },
-    {
-        "title": "Automating multi-AZ high availability for WebLogic administration server",
-        "link": "https://aws.amazon.com/blogs/architecture/automating-multi-az-high-availability-for-weblogic-administration-server/"
     }
 ]

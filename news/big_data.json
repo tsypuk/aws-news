@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate a petabyte-scale data warehouse from Actian Vectorwise to Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-a-petabyte-scale-data-warehouse-from-actian-vectorwise-to-amazon-redshift/"
+    },
+    {
         "title": "Introducing support for Apache Kafka on Raft mode (KRaft) with Amazon MSK clusters",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-support-for-apache-kafka-on-raft-mode-kraft-with-amazon-msk-clusters/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS Glue Data Catalog views to analyze data",
         "link": "https://aws.amazon.com/blogs/big-data/use-aws-glue-data-catalog-views-to-analyze-data/"
-    },
-    {
-        "title": "Governing data in relational databases using Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/governing-data-in-relational-databases-using-amazon-datazone/"
     }
 ]
