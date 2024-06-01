@@ -1,5 +1,17 @@
 [
     {
+        "title": "Pre-training genomic language models using AWS HealthOmics and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pre-training-genomic-language-models-using-aws-healthomics-and-amazon-sagemaker/"
+    },
+    {
+        "title": "Falcon 2 11B is now available on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/falcon-2-11b-is-now-available-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Implementing Knowledge Bases for Amazon Bedrock in support of GDPR (right to be forgotten) requests",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-knowledge-bases-for-amazon-bedrock-in-support-of-gdpr-right-to-be-forgotten-requests/"
+    },
+    {
         "title": "CBRE and AWS perform natural language queries of structured data using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/cbre-and-aws-perform-natural-language-queries-of-structured-data-using-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Learn how Amazon Ads created a generative AI-powered image generation capability using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-ads-created-a-generative-ai-powered-image-generation-capability-using-amazon-sagemaker/"
-    },
-    {
-        "title": "RAG architecture with Voyage AI embedding models on Amazon SageMaker JumpStart and Anthropic Claude 3 models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/rag-architecture-with-voyage-ai-embedding-models-on-amazon-sagemaker-jumpstart-and-anthropic-claude-3-models/"
-    },
-    {
-        "title": "Incorporate offline and online human \u2013 machine workflows into your generative AI applications on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/incorporate-offline-and-online-human-machine-workflows-into-your-generative-ai-applications-on-aws/"
-    },
-    {
-        "title": "Build generative AI applications with Amazon Titan Text Premier, Amazon Bedrock, and AWS CDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-with-amazon-titan-text-premier-amazon-bedrock-and-aws-cdk/"
     }
 ]

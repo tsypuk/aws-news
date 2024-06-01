@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement a full stack serverless search application using AWS Amplify, Amazon Cognito, Amazon API Gateway, AWS Lambda, and Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-a-full-stack-serverless-search-application-using-aws-amplify-amazon-cognito-amazon-api-gateway-aws-lambda-and-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "AWS named a Leader in IDC MarketScape: Worldwide Analytic Stream Processing Software 2024 Vendor Assessment",
+        "link": "https://aws.amazon.com/blogs/big-data/aws-named-a-leader-in-idc-marketscape-worldwide-analytic-stream-processing-software-2024-vendor-assessment/"
+    },
+    {
         "title": "Migrate a petabyte-scale data warehouse from Actian Vectorwise to Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-a-petabyte-scale-data-warehouse-from-actian-vectorwise-to-amazon-redshift/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Breaking barriers in geospatial: Amazon Redshift, CARTO, and H3",
         "link": "https://aws.amazon.com/blogs/big-data/breaking-barriers-in-geospatial-amazon-redshift-carto-and-h3/"
-    },
-    {
-        "title": "Achieve peak performance and boost scalability using multiple Amazon Redshift serverless workgroups and Network Load Balancer",
-        "link": "https://aws.amazon.com/blogs/big-data/achieve-peak-performance-and-boost-scalability-using-multiple-amazon-redshift-serverless-workgroups-and-network-load-balancer/"
-    },
-    {
-        "title": "Use AWS Glue Data Catalog views to analyze data",
-        "link": "https://aws.amazon.com/blogs/big-data/use-aws-glue-data-catalog-views-to-analyze-data/"
     }
 ]

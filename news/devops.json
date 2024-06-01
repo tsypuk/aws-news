@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Single Sign On (SSO) to manage project teams for Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/devops/using-single-sign-on-sso-to-manage-project-teams-for-amazon-codecatalyst/"
+    },
+    {
         "title": "Quickly adopt new AWS features with the Terraform AWS Cloud Control provider",
         "link": "https://aws.amazon.com/blogs/devops/quickly-adopt-new-aws-features-with-the-terraform-aws-cloud-control-provider/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Generative AI CDK Constructs",
         "link": "https://aws.amazon.com/blogs/devops/announcing-generative-ai-cdk-constructs/"
-    },
-    {
-        "title": "Deploy CloudFormation Hooks to an Organization with service-managed StackSets",
-        "link": "https://aws.amazon.com/blogs/devops/deploy-cloudformation-hooks-to-an-organization-with-service-managed-stacksets/"
     }
 ]
