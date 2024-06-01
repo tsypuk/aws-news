@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transferring data in Amazon S3 between AWS GovCloud (US) Regions and commercial AWS Regions using AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/transferring-data-in-amazon-s3-between-aws-govcloud-us-regions-and-commercial-aws-regions-using-aws-datasync/"
+    },
+    {
         "title": "Application-consistent backup for Windows application on Amazon EC2 with AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/application-consistent-backup-for-windows-application-on-amazon-ec2-with-aws-backup/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying Amazon FSx for NetApp ONTAP using AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/storage/deploying-amazon-fsx-for-netapp-ontap-with-aws-cloudformation/"
-    },
-    {
-        "title": "Deploying Amazon FSx for NetApp ONTAP using HashiCorp Terraform",
-        "link": "https://aws.amazon.com/blogs/storage/deploying-amazon-fsx-for-netapp-ontap-hashicorp-terraform/"
     }
 ]

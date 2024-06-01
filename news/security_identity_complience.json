@@ -1,5 +1,21 @@
 [
     {
+        "title": "How to issue use-case bound certificates with AWS Private CA",
+        "link": "https://aws.amazon.com/blogs/security/how-to-issue-use-case-bound-certificates-with-aws-private-ca/"
+    },
+    {
+        "title": "Establishing a data perimeter on AWS: Analyze your account activity to evaluate impact and refine controls",
+        "link": "https://aws.amazon.com/blogs/security/establishing-a-data-perimeter-on-aws-analyze-your-account-activity-to-evaluate-impact-and-refine-controls/"
+    },
+    {
+        "title": "AWS completes the 2024 Cyber Essentials Plus certification",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2024-cyber-essentials-plus-certification/"
+    },
+    {
+        "title": "The art of possible: Three themes from RSA Conference 2024",
+        "link": "https://aws.amazon.com/blogs/security/the-art-of-possible-three-themes-from-rsa-conference-2024/"
+    },
+    {
         "title": "Accelerate incident response with Amazon Security Lake",
         "link": "https://aws.amazon.com/blogs/security/accelerate-incident-response-with-amazon-security-lake/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "AWS achieves Spain\u2019s ENS High 311/2022 certification across 172 services",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-spains-ens-high-311-2022-certification-across-172-services/"
-    },
-    {
-        "title": "AWS is issued a renewed certificate for the BIO Thema-uitwerking Clouddiensten with increased scope",
-        "link": "https://aws.amazon.com/blogs/security/aws-is-issued-a-renewed-certificate-for-the-bio-thema-uitwerking-clouddiensten-with-increased-scope/"
-    },
-    {
-        "title": "Authorize API Gateway APIs using Amazon Verified Permissions and Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/security/authorize-api-gateway-apis-using-amazon-verified-permissions-and-amazon-cognito/"
-    },
-    {
-        "title": "Using Amazon Verified Permissions to manage authorization for AWS IoT smart home applications",
-        "link": "https://aws.amazon.com/blogs/security/using-amazon-verified-permissions-to-manage-authorization-for-aws-iot-smart-thermostat-applications/"
-    },
-    {
-        "title": "2023 ISO 27001 certificate available in Spanish and French, and 2023 ISO 22301 certificate available in Spanish",
-        "link": "https://aws.amazon.com/blogs/security/2023-iso-27001-certificate-available-in-spanish-and-french-and-2023-iso-22301-certificate-available-in-spanish/"
     }
 ]

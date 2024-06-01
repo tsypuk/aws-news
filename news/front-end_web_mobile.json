@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for AWS AppSync GraphQL APIs",
+        "link": "https://aws.amazon.com/blogs/mobile/best-practices-for-aws-appsync-graphql-apis/"
+    },
+    {
         "title": "New in AWS Amplify: Integrate with SQL databases, OIDC/SAML providers, and the AWS CDK",
         "link": "https://aws.amazon.com/blogs/mobile/new-in-aws-amplify-integrate-with-sql-databases-oidc-saml-providers-and-the-aws-cdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accessing resources in a Amazon Virtual Private Cloud (Amazon VPC) from Next.js API Routes",
         "link": "https://aws.amazon.com/blogs/mobile/accessing-resources-in-a-amazon-virtual-private-cloud-amazon-vpc-from-next-js-api-routes/"
-    },
-    {
-        "title": "The CTO\u2019s Guide to building fullstack applications with AWS Amplify",
-        "link": "https://aws.amazon.com/blogs/mobile/the-ctos-guide-to-building-fullstack-applications-with-aws-amplify/"
     }
 ]
