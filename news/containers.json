@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Freddie Mac used Amazon EKS to modernize their platform and migrate applications",
+        "link": "https://aws.amazon.com/blogs/containers/how-freddie-mac-used-amazon-eks-to-modernize-their-platform-and-migrate-applications/"
+    },
+    {
         "title": "Deploying Karpenter Nodes with Multus on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/deploying-karpenter-nodes-with-multus-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Streamline production grade clusters with Amazon AFT and Terraform EKS Blueprints",
         "link": "https://aws.amazon.com/blogs/containers/streamline-production-grade-clusters-with-amazon-aft-and-terraform-eks-blueprints/"
-    },
-    {
-        "title": "How Slack adopted Karpenter to increase Operational and Cost Efficiency",
-        "link": "https://aws.amazon.com/blogs/containers/how-slack-adopted-karpenter-to-increase-operational-and-cost-efficiency/"
     }
 ]

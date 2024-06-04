@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize write throughput for Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-write-throughput-for-amazon-kinesis-data-streams/"
+    },
+    {
+        "title": "Integrate Tableau and Okta with Amazon Redshift using AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-tableau-and-okta-with-amazon-redshift-using-aws-iam-identity-center/"
+    },
+    {
         "title": "Implement a full stack serverless search application using AWS Amplify, Amazon Cognito, Amazon API Gateway, AWS Lambda, and Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/implement-a-full-stack-serverless-search-application-using-aws-amplify-amazon-cognito-amazon-api-gateway-aws-lambda-and-amazon-opensearch-serverless/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Safely remove Kafka brokers from Amazon MSK provisioned clusters",
         "link": "https://aws.amazon.com/blogs/big-data/safely-remove-kafka-brokers-from-amazon-msk-provisioned-clusters/"
-    },
-    {
-        "title": "Introducing Amazon MWAA support for the Airflow REST API and web server auto scaling",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-the-airflow-rest-api-and-web-server-auto-scaling/"
-    },
-    {
-        "title": "Breaking barriers in geospatial: Amazon Redshift, CARTO, and H3",
-        "link": "https://aws.amazon.com/blogs/big-data/breaking-barriers-in-geospatial-amazon-redshift-carto-and-h3/"
     }
 ]

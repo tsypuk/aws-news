@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement serverless semantic search of image and live video with Amazon Titan Multimodal Embeddings",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-serverless-semantic-search-of-image-and-live-video-with-amazon-titan-multimodal-embeddings/"
+    },
+    {
+        "title": "Prioritizing employee well-being: An innovative approach with generative AI and Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/prioritizing-employee-well-being-an-innovative-approach-with-generative-ai-and-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "Pre-training genomic language models using AWS HealthOmics and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/pre-training-genomic-language-models-using-aws-healthomics-and-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build a serverless exam generator application from your own lecture content using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-exam-generator-application-from-your-own-lecture-content-using-amazon-bedrock/"
-    },
-    {
-        "title": "Accelerate NLP inference with ONNX Runtime on AWS Graviton processors",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-nlp-inference-with-onnx-runtime-on-aws-graviton-processors/"
-    },
-    {
-        "title": "Learn how Amazon Ads created a generative AI-powered image generation capability using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-ads-created-a-generative-ai-powered-image-generation-capability-using-amazon-sagemaker/"
     }
 ]
