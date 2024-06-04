@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Yaala Labs Built a Cloud Native Exchange Platform on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-yaala-labs-built-a-cloud-native-exchange-platform-on-aws/"
+    },
+    {
         "title": "Create Smarter, More Reliable Software-Defined Vehicles with Synopsys and AWS",
         "link": "https://aws.amazon.com/blogs/industries/create-smarter-more-reliable-software-defined-vehicles-with-synopsys-and-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Highly Resilient Affirm Checkout Architecture",
         "link": "https://aws.amazon.com/blogs/industries/highly-resilient-affirm-checkout-architecture/"
-    },
-    {
-        "title": "Announcing the AWS Well-Architected Financial Services Industry Lens",
-        "link": "https://aws.amazon.com/blogs/industries/announcing-the-aws-well-architected-financial-service-industry-lens/"
     }
 ]
