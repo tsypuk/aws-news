@@ -1,5 +1,21 @@
 [
     {
+        "title": "Build time-series applications faster with Amazon EventBridge Pipes and Timestream for LiveAnalytics",
+        "link": "https://aws.amazon.com/blogs/database/build-time-series-applications-faster-with-amazon-eventbridge-pipes-and-timestream-for-liveanalytics/"
+    },
+    {
+        "title": "Automate interval partitioning maintenance and monitoring in Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/database/automate-interval-partitioning-maintenance-and-monitoring-in-amazon-rds-for-postgresql-and-amazon-aurora-postgresql-part-2/"
+    },
+    {
+        "title": "A hybrid approach for homogeneous migration to an Amazon DocumentDB elastic cluster",
+        "link": "https://aws.amazon.com/blogs/database/a-hybrid-approach-for-homogeneous-migration-to-an-amazon-documentdb-elastic-cluster/"
+    },
+    {
+        "title": "Scale your connections with Amazon DocumentDB using mongobetween",
+        "link": "https://aws.amazon.com/blogs/database/scale-your-connections-with-amazon-documentdb-using-mongobetween/"
+    },
+    {
         "title": "Unit testing Apache TinkerPop transactions: From TinkerGraph to Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/unit-testing-apache-tinkerpop-transactions-from-tinkergraph-to-amazon-neptune/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Use LangChain and vector search on Amazon DocumentDB to build a generative AI chatbot",
         "link": "https://aws.amazon.com/blogs/database/use-langchain-and-vector-search-on-amazon-documentdb-to-build-a-generative-ai-chatbot/"
-    },
-    {
-        "title": "Binary logging optimizations in Amazon Aurora MySQL version 3",
-        "link": "https://aws.amazon.com/blogs/database/binary-logging-optimizations-in-amazon-aurora-mysql-version-3/"
-    },
-    {
-        "title": "Discover and visualize graph schemas in Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/discover-and-visualize-graph-schemas-in-amazon-neptune/"
-    },
-    {
-        "title": "Encrypt your database connection using SSL encryption to Amazon RDS Custom for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/encrypt-your-database-connection-using-ssl-encryption-to-amazon-rds-custom-for-sql-server/"
-    },
-    {
-        "title": "Data migration strategies to Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/data-migration-strategies-to-amazon-rds-for-db2/"
     }
 ]

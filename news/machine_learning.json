@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamline custom model creation and deployment for Amazon Bedrock with Provisioned Throughput using Terraform",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-custom-model-creation-and-deployment-for-amazon-bedrock-with-provisioned-throughput-using-terraform/"
+    },
+    {
+        "title": "Boost productivity with video conferencing transcripts and summaries with the Amazon Chime SDK Meeting Summarizer solution",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-with-video-conferencing-transcripts-and-summaries-with-the-amazon-chime-sdk-meeting-summarizer-solution/"
+    },
+    {
         "title": "Implement serverless semantic search of image and live video with Amazon Titan Multimodal Embeddings",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-serverless-semantic-search-of-image-and-live-video-with-amazon-titan-multimodal-embeddings/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building Generative AI prompt chaining workflows with human in the loop",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-generative-ai-prompt-chaining-workflows-with-human-in-the-loop/"
-    },
-    {
-        "title": "How LotteON built a personalized recommendation system using Amazon SageMaker and MLOps",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-lotteon-built-a-personalized-recommendation-system-using-amazon-sagemaker-and-mlops/"
-    },
-    {
-        "title": "Build a serverless exam generator application from your own lecture content using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-exam-generator-application-from-your-own-lecture-content-using-amazon-bedrock/"
     }
 ]

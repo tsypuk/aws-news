@@ -1,5 +1,9 @@
 [
     {
+        "title": "Application Security at re:Inforce 2024",
+        "link": "https://aws.amazon.com/blogs/security/application-security-at-reinforce-2024/"
+    },
+    {
         "title": "How to issue use-case bound certificates with AWS Private CA",
         "link": "https://aws.amazon.com/blogs/security/how-to-issue-use-case-bound-certificates-with-aws-private-ca/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Amazon Security Lake is helping customers simplify security data management for proactive threat analysis",
         "link": "https://aws.amazon.com/blogs/security/how-amazon-security-lake-is-helping-customers-simplify-security-data-management-for-proactive-threat-analysis/"
-    },
-    {
-        "title": "AWS achieves Spain\u2019s ENS High 311/2022 certification across 172 services",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-spains-ens-high-311-2022-certification-across-172-services/"
     }
 ]
