@@ -1,5 +1,13 @@
 [
     {
+        "title": "Detect email phishing attempts using Amazon Comprehend",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detect-email-phishing-attempts-using-amazon-comprehend/"
+    },
+    {
+        "title": "How Skyflow creates technical content in days using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-skyflow-creates-technical-content-in-days-using-amazon-bedrock/"
+    },
+    {
         "title": "Streamline custom model creation and deployment for Amazon Bedrock with Provisioned Throughput using Terraform",
         "link": "https://aws.amazon.com/blogs/machine-learning/streamline-custom-model-creation-and-deployment-for-amazon-bedrock-with-provisioned-throughput-using-terraform/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Efficient and cost-effective multi-tenant LoRA serving with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/efficient-and-cost-effective-multi-tenant-lora-serving-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Mixtral 8x22B is now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x22b-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Building Generative AI prompt chaining workflows with human in the loop",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-generative-ai-prompt-chaining-workflows-with-human-in-the-loop/"
     }
 ]

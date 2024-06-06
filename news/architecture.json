@@ -1,5 +1,9 @@
 [
     {
+        "title": "Genomics workflows, Part 7: analyze public RNA sequencing data using AWS HealthOmics",
+        "link": "https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/"
+    },
+    {
         "title": "Let\u2019s Architect! Learn About Machine Learning on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing updates to the AWS Well-Architected Framework guidance",
         "link": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance/"
-    },
-    {
-        "title": "Let\u2019s Architect! Leveraging SQL databases on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-leveraging-sql-databases-on-aws/"
     }
 ]
