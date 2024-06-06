@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to automate an in-place upgrade of SQL Server on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-an-in-place-upgrade-of-sql-server-on-amazon-ec2/"
+    },
+    {
+        "title": "How ABFL modernized Microsoft applications on AWS to drive efficiency and agility",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-abfl-modernized-microsoft-applications-on-aws-to-drive-efficiency-and-agility/"
+    },
+    {
         "title": "Optimize CPU best practices for SQL Server workloads",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimize-cpu-best-practices-for-sql-server-workloads/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Containerize SQL Server workloads with Amazon EKS and DH2i",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-workloads-with-amazon-eks-and-dh2i/"
-    },
-    {
-        "title": "Update AWS Tools for PowerShell at scale with AWS Systems Manager",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/update-aws-tools-for-powershell-at-scale-with-aws-systems-manager/"
-    },
-    {
-        "title": "Convert licenses of SQL Servers migrated with AWS Application Migration Service",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/convert-licenses-of-sql-servers-migrated-with-aws-application-migration-service/"
     }
 ]
