@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build RAG applications using Jina Embeddings v2 on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-rag-applications-using-jina-embeddings-v2-on-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Detect email phishing attempts using Amazon Comprehend",
         "link": "https://aws.amazon.com/blogs/machine-learning/detect-email-phishing-attempts-using-amazon-comprehend/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How 20 Minutes empowers journalists and boosts audience engagement with generative AI on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-20-minutes-empowers-journalists-and-boosts-audience-engagement-with-generative-ai-on-amazon-bedrock/"
-    },
-    {
-        "title": "Efficient and cost-effective multi-tenant LoRA serving with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/efficient-and-cost-effective-multi-tenant-lora-serving-with-amazon-sagemaker/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Operationalize generative AI applications on AWS: Part II \u2013 Architecture Deep Dive",
+        "link": "https://aws.amazon.com/blogs/gametech/operationalize-generative-ai-applications-on-aws-part-ii-architecture-deep-dive/"
+    },
+    {
         "title": "Omeda Studios swaps out \u2018Predecessor\u2019 backend in less than five months using Amazon GameLift and Pragma",
         "link": "https://aws.amazon.com/blogs/gametech/omeda-studios-swaps-out-predecessor-backend-in-less-than-five-months-using-amazon-gamelift-and-pragma/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Games24x7 delivers millions of push notification using AWS",
         "link": "https://aws.amazon.com/blogs/gametech/how-games24x7-delivers-millions-of-push-notification-using-aws/"
-    },
-    {
-        "title": "Load testing the Pragma backend game engine to 1 million concurrent users on AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/load-testing-the-pragma-backend-game-engine-to-1-million-concurrent-users-on-aws/"
     }
 ]
