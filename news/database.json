@@ -1,5 +1,9 @@
 [
     {
+        "title": "Import Amazon RDS Enhanced Monitoring metrics into Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/database/import-amazon-rds-enhanced-monitoring-metrics-into-amazon-cloudwatch/"
+    },
+    {
         "title": "Benchmark Amazon RDS for PostgreSQL Single-AZ DB instance, Multi-AZ DB instance, and Multi-AZ DB Cluster deployments",
         "link": "https://aws.amazon.com/blogs/database/benchmark-amazon-rds-for-postgresql-single-az-db-instance-multi-az-db-instance-and-multi-az-db-cluster-deployments/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate a multi-TB SQL Server database to Amazon RDS Custom for SQL Server using Amazon FSx for Windows File Server",
         "link": "https://aws.amazon.com/blogs/database/migrate-a-multi-tb-sql-server-database-to-amazon-rds-custom-for-sql-server-using-amazon-fsx-for-windows-file-server/"
-    },
-    {
-        "title": "Freecharge lowered their identity management system cost and improved scaling by switching to Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/freecharge-lowered-their-identity-management-system-cost-and-improved-scaling-by-switching-to-amazon-dynamodb/"
     }
 ]

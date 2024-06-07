@@ -1,5 +1,9 @@
 [
     {
+        "title": "How BioNTech modernized Galaxy server deployments at scale using Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/how-biontech-modernized-galaxy-server-deployments-at-scale-using-amazon-eks/"
+    },
+    {
         "title": "How Freddie Mac used Amazon EKS to modernize their platform and migrate applications",
         "link": "https://aws.amazon.com/blogs/containers/how-freddie-mac-used-amazon-eks-to-modernize-their-platform-and-migrate-applications/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Multi-Region Disaster Recovery with Amazon EKS and Amazon EFS for Stateful workloads",
         "link": "https://aws.amazon.com/blogs/containers/multi-region-disaster-recovery-with-amazon-eks-and-amazon-efs-for-stateful-workloads/"
-    },
-    {
-        "title": "Streamline production grade clusters with Amazon AFT and Terraform EKS Blueprints",
-        "link": "https://aws.amazon.com/blogs/containers/streamline-production-grade-clusters-with-amazon-aft-and-terraform-eks-blueprints/"
     }
 ]
