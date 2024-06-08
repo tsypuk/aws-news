@@ -1,5 +1,9 @@
 [
     {
+        "title": "Auditing generative AI workloads with AWS CloudTrail",
+        "link": "https://aws.amazon.com/blogs/mt/auditing-generative-ai-workloads-with-aws-cloudtrail/"
+    },
+    {
         "title": "Respond to CloudWatch Alarms with Amazon Bedrock Insights",
         "link": "https://aws.amazon.com/blogs/mt/alarm-context-tool/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor Python apps with Amazon CloudWatch Application Signals (Preview)",
         "link": "https://aws.amazon.com/blogs/mt/monitoring-python-apps-using-amazon-cloudwatch-application-signals/"
-    },
-    {
-        "title": "Migrate VMware virtual machines (VMs) to Amazon EC2 with the AWS Application Migration Service Replication Agent",
-        "link": "https://aws.amazon.com/blogs/mt/migrate-vmware-virtual-machines-to-amazon-ec2-with-the-aws-application-migration-service-replication-agent/"
     }
 ]
