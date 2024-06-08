@@ -1,5 +1,13 @@
 [
     {
+        "title": "Five troubleshooting examples with Amazon Q",
+        "link": "https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/"
+    },
+    {
+        "title": "AWS CodeBuild Managed Self-Hosted GitHub Action Runners",
+        "link": "https://aws.amazon.com/blogs/devops/aws-codebuild-managed-self-hosted-github-action-runners/"
+    },
+    {
         "title": "Using Single Sign On (SSO) to manage project teams for Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/using-single-sign-on-sso-to-manage-project-teams-for-amazon-codecatalyst/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing CDK Migrate: A single command to migrate to the AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/announcing-cdk-migrate-a-single-command-to-migrate-to-the-aws-cdk/"
-    },
-    {
-        "title": "A new and improved AWS CDK construct for Amazon DynamoDB tables",
-        "link": "https://aws.amazon.com/blogs/devops/a-new-and-improved-aws-cdk-construct-for-amazon-dynamodb-tables/"
-    },
-    {
-        "title": "Announcing Generative AI CDK Constructs",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-generative-ai-cdk-constructs/"
     }
 ]
