@@ -1,5 +1,13 @@
 [
     {
+        "title": "Solving License Management Challenges during Mergers & Acquisitions with AWS License Manager",
+        "link": "https://aws.amazon.com/blogs/mt/solving-license-management-challenges-during-mergers-acquisitions-with-aws-license-manager/"
+    },
+    {
+        "title": "Best practices to optimize costs after mergers and acquisitions with AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/mt/best-practices-to-optimize-costs-after-mergers-and-acquisitions-with-aws-organizations/"
+    },
+    {
         "title": "Auditing generative AI workloads with AWS CloudTrail",
         "link": "https://aws.amazon.com/blogs/mt/auditing-generative-ai-workloads-with-aws-cloudtrail/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Testing and debugging Amazon CloudWatch Synthetics canary locally",
         "link": "https://aws.amazon.com/blogs/mt/testing-and-debugging-amazon-cloudwatch-synthetics-canary-locally/"
-    },
-    {
-        "title": "Gain Insights with Natural Language Query into your AWS environment using Amazon CloudTrail and Amazon Q in QuickSight",
-        "link": "https://aws.amazon.com/blogs/mt/gain-insights-with-natural-language-query-into-your-aws-environment-using-amazon-cloudtrail-and-amazon-q-in-quicksight/"
-    },
-    {
-        "title": "Monitor Python apps with Amazon CloudWatch Application Signals (Preview)",
-        "link": "https://aws.amazon.com/blogs/mt/monitoring-python-apps-using-amazon-cloudwatch-application-signals/"
     }
 ]
