@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize storage costs in Amazon OpenSearch Service using Zstandard compression",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-storage-costs-in-amazon-opensearch-service-using-zstandard-compression/"
+    },
+    {
         "title": "How Cloudinary transformed their petabyte scale streaming data lake with Apache Iceberg and AWS Analytics",
         "link": "https://aws.amazon.com/blogs/big-data/how-cloudinary-transformed-their-petabyte-scale-streaming-data-lake-with-apache-iceberg-and-aws-analytics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS Data Exchange to seamlessly share Apache Hudi datasets",
         "link": "https://aws.amazon.com/blogs/big-data/use-aws-data-exchange-to-seamlessly-share-apache-hudi-datasets/"
-    },
-    {
-        "title": "AVB accelerates search in LINQ with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/avb-accelerates-search-in-linq-with-amazon-opensearch-service/"
     }
 ]
