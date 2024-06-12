@@ -1,5 +1,13 @@
 [
     {
+        "title": "Call for participation: HPC tutorial series from the HPCIC",
+        "link": "https://aws.amazon.com/blogs/hpc/call-for-participation-hpc-tutorial-series-from-the-hpcic/"
+    },
+    {
+        "title": "Integrating Research and Engineering Studio with AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/hpc/research-and-engineering-studio-integration-with-aws-parallelcluster/"
+    },
+    {
         "title": "Securing HPC on AWS: implementing STIGs in AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/securing-hpc-on-aws-implementing-stigs-in-aws-parallelcluster/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Protein language model training with NVIDIA BioNeMo framework on AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/protein-language-model-training-with-nvidia-bionemo-framework-on-aws-parallelcluster/"
-    },
-    {
-        "title": "Introducing new alerts to help users detect and react to blocked job queues in AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/introducing-new-alerts-to-help-users-detect-and-react-to-blocked-job-queues-in-aws-batch/"
-    },
-    {
-        "title": "Using large-language models for ESG sentiment analysis using Databricks on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/using-large-language-models-for-esg-sentiment-analysis-using-databricks-on-aws/"
     }
 ]

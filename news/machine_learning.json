@@ -1,5 +1,21 @@
 [
     {
+        "title": "Reimagining software development with the Amazon Q Developer Agent",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reimagining-software-development-with-the-amazon-q-developer-agent/"
+    },
+    {
+        "title": "Get started quickly with AWS Trainium and AWS Inferentia using AWS Neuron DLAMI and AWS Neuron DLC",
+        "link": "https://aws.amazon.com/blogs/machine-learning/get-started-quickly-with-aws-trainium-and-aws-inferentia-using-aws-neuron-dlami-and-aws-neuron-dlc/"
+    },
+    {
+        "title": "Sprinklr improves performance by 20% and reduces cost by 25% for machine learning inference on AWS Graviton3",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sprinklr-improves-performance-by-20-and-reduces-cost-by-25-for-machine-learning-inference-on-aws-graviton3/"
+    },
+    {
+        "title": "How Wiz is empowering organizations to remediate security risks faster with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-wiz-is-empowering-organizations-to-remediate-security-risks-faster-with-amazon-bedrock/"
+    },
+    {
         "title": "Code generation using Code Llama 70B and Mixtral 8x7B on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/code-generation-using-code-llama-70b-and-mixtral-8x7b-on-amazon-sagemaker/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "End-to-end LLM training on instance clusters with over 100 nodes using AWS Trainium",
         "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-llm-training-on-instance-clusters-with-over-100-nodes-using-aws-trainium/"
-    },
-    {
-        "title": "Fine-tune large multimodal models using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-large-multimodal-models-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Accelerate Mixtral 8x7B pre-training with expert parallelism on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-mixtral-8x7b-pre-training-with-expert-parallelism-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Generating fashion product descriptions by fine-tuning a vision-language model with SageMaker and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generating-fashion-product-descriptions-by-fine-tuning-a-vision-language-model-with-sagemaker-and-amazon-bedrock/"
-    },
-    {
-        "title": "Create a multimodal assistant with advanced RAG and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-multimodal-assistant-with-advanced-rag-and-amazon-bedrock/"
     }
 ]

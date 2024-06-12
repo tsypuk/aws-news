@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS completes Police-Assured Secure Facilities (PASF) audit in the Europe (London) Region",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-police-assured-secure-facilities-pasf-audit-in-the-europe-london-region/"
+    },
+    {
+        "title": "Implementing a compliance and reporting strategy for NIST SP 800-53 Rev. 5",
+        "link": "https://aws.amazon.com/blogs/security/implementing-a-compliance-and-reporting-strategy-for-nist-sp-800-53-rev-5/"
+    },
+    {
+        "title": "Passkeys enhance security and usability as AWS expands MFA requirements",
+        "link": "https://aws.amazon.com/blogs/security/passkeys-enhance-security-and-usability-as-aws-expands-mfa-requirements/"
+    },
+    {
         "title": "How to securely transfer files with presigned URLs",
         "link": "https://aws.amazon.com/blogs/security/how-to-securely-transfer-files-with-presigned-urls/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Governing and securing AWS PrivateLink service access at scale in multi-account environments",
         "link": "https://aws.amazon.com/blogs/security/governing-and-securing-aws-privatelink-service-access-at-scale-in-multi-account-environments/"
-    },
-    {
-        "title": "How to use AWS managed applications with IAM Identity Center: Enable Amazon Q without migrating existing IAM federation flows",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-managed-applications-with-iam-identity-center/"
-    },
-    {
-        "title": "How to use WhatsApp to send Amazon Cognito notification messages",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-whatsapp-to-send-amazon-cognito-notification-messages/"
-    },
-    {
-        "title": "How to enforce a security baseline for an AWS WAF ACL across your organization using AWS Firewall Manager",
-        "link": "https://aws.amazon.com/blogs/security/how-to-enforce-a-security-baseline-for-an-aws-waf-acl-across-your-organization-using-aws-firewall-manager/"
     }
 ]
