@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize user experience in Amazon WorkSpaces across AWS Regions",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-user-experience-in-amazon-workspaces-across-aws-regions/"
+    },
+    {
         "title": "Automatically create customized Amazon WorkSpaces Windows images",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automatically-create-customized-amazon-workspaces-windows-images/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting Started with Amazon WorkSpaces Thin Client",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-started-with-amazon-workspaces-thin-client/"
-    },
-    {
-        "title": "Creating custom Amazon CloudWatch dashboards and widgets for Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/creating-custom-amazon-cloudwatch-dashboards-and-widgets-for-amazon-workspaces/"
     }
 ]

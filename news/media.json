@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling Self Service for Cloud Custodian policies on AWS using AWS Service Catalog",
+        "link": "https://aws.amazon.com/blogs/mt/enabling-self-service-for-cloud-custodian-policies-on-aws-using-aws-service-catalog/"
+    },
+    {
         "title": "Enhancing observability with a managed monitoring solution for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/mt/enhancing-observability-with-a-managed-monitoring-solution-for-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Troubleshooting AWS Glue ETL Jobs using Amazon CloudWatch Logs Insights enhanced queries",
         "link": "https://aws.amazon.com/blogs/mt/troubleshooting-aws-glue-etl-jobs-using-amazon-cloudwatch-logs-insights-enhanced-queries/"
-    },
-    {
-        "title": "Testing and debugging Amazon CloudWatch Synthetics canary locally",
-        "link": "https://aws.amazon.com/blogs/mt/testing-and-debugging-amazon-cloudwatch-synthetics-canary-locally/"
     }
 ]
