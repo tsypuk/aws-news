@@ -1,5 +1,17 @@
 [
     {
+        "title": "Ingest and analyze your data using Amazon OpenSearch Service with Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/ingest-and-analyze-your-data-using-amazon-opensearch-service-with-amazon-opensearch-ingestion/"
+    },
+    {
+        "title": "How Swisscom automated Amazon Redshift as part of their One Data Platform solution using AWS CDK \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/how-swisscom-automated-amazon-redshift-as-part-of-their-one-data-platform-solution-using-aws-cdk-part-2/"
+    },
+    {
+        "title": "How Swisscom automated Amazon Redshift as part of their One Data Platform solution using AWS CDK \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/big-data/how-swisscom-automated-amazon-redshift-as-part-of-their-one-data-platform-solution-using-aws-cdk-part-1/"
+    },
+    {
         "title": "Optimize storage costs in Amazon OpenSearch Service using Zstandard compression",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-storage-costs-in-amazon-opensearch-service-using-zstandard-compression/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Get started with AWS Glue Data Quality dynamic rules for ETL pipelines",
         "link": "https://aws.amazon.com/blogs/big-data/get-started-with-aws-glue-data-quality-dynamic-rules-for-etl-pipelines/"
-    },
-    {
-        "title": "Entity resolution and fuzzy matches in AWS Glue using the Zingg open source library",
-        "link": "https://aws.amazon.com/blogs/big-data/entity-resolution-and-fuzzy-matches-in-aws-glue-using-the-zingg-open-source-library/"
-    },
-    {
-        "title": "Introducing blueprint discovery and other UI enhancements for Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-blueprint-discovery-and-other-ui-enhancements-for-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "Use AWS Data Exchange to seamlessly share Apache Hudi datasets",
-        "link": "https://aws.amazon.com/blogs/big-data/use-aws-data-exchange-to-seamlessly-share-apache-hudi-datasets/"
     }
 ]

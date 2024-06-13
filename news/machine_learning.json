@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build a custom UI for Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-ui-for-amazon-q-business/"
+    },
+    {
+        "title": "Scalable intelligent document processing using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scalable-intelligent-document-processing-using-amazon-bedrock/"
+    },
+    {
+        "title": "Use weather data to improve forecasts with Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-weather-data-to-improve-forecasts-with-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "Reimagining software development with the Amazon Q Developer Agent",
         "link": "https://aws.amazon.com/blogs/machine-learning/reimagining-software-development-with-the-amazon-q-developer-agent/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Dynamic video content moderation and policy evaluation using AWS generative AI services",
         "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-video-content-moderation-and-policy-evaluation-using-aws-generative-ai-services/"
-    },
-    {
-        "title": "Vitech uses Amazon Bedrock to revolutionize information access with AI-powered chatbot",
-        "link": "https://aws.amazon.com/blogs/machine-learning/vitech-uses-amazon-bedrock-to-revolutionize-information-access-with-ai-powered-chatbot/"
-    },
-    {
-        "title": "Enhance image search experiences with Amazon Personalize, Amazon OpenSearch Service, and Amazon Titan Multimodal Embeddings in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-image-search-experiences-with-amazon-personalize-amazon-opensearch-service-and-amazon-titan-multimodal-embeddings-in-amazon-bedrock/"
-    },
-    {
-        "title": "End-to-end LLM training on instance clusters with over 100 nodes using AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-llm-training-on-instance-clusters-with-over-100-nodes-using-aws-trainium/"
     }
 ]

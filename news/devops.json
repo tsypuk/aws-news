@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate your Automation for SAP on AWS Operations using Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/accelerate-your-automation-for-sap-on-aws-operations-using-amazon-q-developer/"
+    },
+    {
         "title": "Five troubleshooting examples with Amazon Q",
         "link": "https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Import entire applications into AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/devops/import-entire-applications-into-aws-cloudformation/"
-    },
-    {
-        "title": "Announcing CDK Migrate: A single command to migrate to the AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-cdk-migrate-a-single-command-to-migrate-to-the-aws-cdk/"
     }
 ]

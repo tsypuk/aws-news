@@ -1,5 +1,9 @@
 [
     {
+        "title": "In the Works \u2013 AWS Region in Taiwan",
+        "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-taiwan/"
+    },
+    {
         "title": "AWS Audit Manager extends generative AI best practices framework to Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/aws/aws-audit-manager-extends-generative-ai-best-practices-framework-to-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build RAG and agent-based generative AI applications with new Amazon Titan Text Premier model, available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/build-rag-and-agent-based-generative-ai-applications-with-new-amazon-titan-text-premier-model-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "Build generative AI applications with Amazon Bedrock Studio (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/build-generative-ai-applications-with-amazon-bedrock-studio-preview/"
     }
 ]

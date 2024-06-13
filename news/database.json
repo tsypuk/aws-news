@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Amazon DynamoDB incremental exports to drive continuous data retention",
+        "link": "https://aws.amazon.com/blogs/database/use-amazon-dynamodb-incremental-exports-to-drive-continuous-data-retention/"
+    },
+    {
+        "title": "Optimize costs with scheduled scaling of Amazon DocumentDB for read workloads",
+        "link": "https://aws.amazon.com/blogs/database/optimize-costs-with-scheduled-scaling-of-amazon-documentdb-for-read-workloads/"
+    },
+    {
         "title": "Introducing the Advanced Python Wrapper Driver for Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/introducing-the-advanced-python-wrapper-driver-for-amazon-aurora/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Executive Conversations: Putting generative AI to work in omnichannel customer service with Prashant Singh, Chief Operating Officer at LeadSquared",
         "link": "https://aws.amazon.com/blogs/database/executive-conversations-putting-generative-ai-to-work-in-omnichannel-customer-service-with-prashant-singh-chief-operating-officer-at-leadsquared/"
-    },
-    {
-        "title": "How LeadSquared accelerated chatbot deployments with generative AI using Amazon Bedrock and Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/how-leadsquared-accelerated-chatbot-deployments-with-generative-ai-using-amazon-bedrock-and-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Choose the right change data capture strategy for your Amazon DynamoDB applications",
-        "link": "https://aws.amazon.com/blogs/database/choose-the-right-change-data-capture-strategy-for-your-amazon-dynamodb-applications/"
     }
 ]

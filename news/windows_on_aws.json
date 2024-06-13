@@ -1,5 +1,9 @@
 [
     {
+        "title": "Make SQL Server end of support the start of your AWS cloud journey",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/make-sql-server-end-of-support-the-start-of-your-aws-cloud-journey/"
+    },
+    {
         "title": "How to automate an in-place upgrade of SQL Server on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-an-in-place-upgrade-of-sql-server-on-amazon-ec2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Hybrid Active Directory: Disaster recovery, cyber resiliency, and high availability solutions on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/hybrid-active-directory-disaster-recovery-cyber-resiliency-and-high-availability-solutions-on-aws/"
-    },
-    {
-        "title": "Containerize SQL Server workloads with Amazon EKS and DH2i",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-workloads-with-amazon-eks-and-dh2i/"
     }
 ]
