@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for successful BYOL image creation for Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/best-practices-for-successful-byol-image-creation-for-amazon-workspaces/"
+    },
+    {
         "title": "Optimize user experience in Amazon WorkSpaces across AWS Regions",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-user-experience-in-amazon-workspaces-across-aws-regions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize end user experience for Zoom\u00ae on Amazon AppStream 2.0",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-end-user-experience-for-zoom-on-amazon-appstream-2-0/"
-    },
-    {
-        "title": "Getting Started with Amazon WorkSpaces Thin Client",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/getting-started-with-amazon-workspaces-thin-client/"
     }
 ]
