@@ -1,5 +1,9 @@
 [
     {
+        "title": "Privileged Database User Activity Monitoring using Database Activity Streams(DAS) and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/database/privileged-database-user-activity-monitoring-using-database-activity-streamsdas-and-amazon-opensearch-service/"
+    },
+    {
         "title": "Use Amazon DynamoDB incremental exports to drive continuous data retention",
         "link": "https://aws.amazon.com/blogs/database/use-amazon-dynamodb-incremental-exports-to-drive-continuous-data-retention/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Create a fallback migration plan for your self-managed MySQL database to Amazon Aurora MySQL using native bi-directional binary log replication",
         "link": "https://aws.amazon.com/blogs/database/create-a-fallback-migration-plan-for-your-self-managed-mysql-database-to-amazon-aurora-mysql-using-native-bi-directional-binary-log-replication/"
-    },
-    {
-        "title": "Executive Conversations: Putting generative AI to work in omnichannel customer service with Prashant Singh, Chief Operating Officer at LeadSquared",
-        "link": "https://aws.amazon.com/blogs/database/executive-conversations-putting-generative-ai-to-work-in-omnichannel-customer-service-with-prashant-singh-chief-operating-officer-at-leadsquared/"
     }
 ]

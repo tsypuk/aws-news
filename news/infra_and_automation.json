@@ -1,5 +1,9 @@
 [
     {
+        "title": "IAM Roles Anywhere integration guide for installing AWS Partner CRM Connector",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/iam-roles-anywhere-integration-guide-for-installing-aws-partner-crm-connector/"
+    },
+    {
         "title": "Best practices for accelerating development with serverless blueprints",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/best-practices-for-accelerating-development-with-serverless-blueprints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Save time and reduce errors by automating AWS Lambda code updates",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-reduce-errors-automating-lambda-code-updates/"
-    },
-    {
-        "title": "Create a more secure LAMP stack with AWS WAF (web application firewall)",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/secure-lamp-stack-aws-waf-web-application-firewall/"
     }
 ]
