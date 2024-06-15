@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to create a pipeline for hardening Amazon EKS nodes and automate updates",
+        "link": "https://aws.amazon.com/blogs/security/how-to-create-a-pipeline-for-hardening-amazon-eks-nodes-and-automate-updates/"
+    },
+    {
         "title": "AWS completes Police-Assured Secure Facilities (PASF) audit in the Europe (London) Region",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-police-assured-secure-facilities-pasf-audit-in-the-europe-london-region/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Investigating lateral movements with Amazon Detective investigation and Security Lake integration",
         "link": "https://aws.amazon.com/blogs/security/investigating-lateral-movements-with-amazon-detective-investigation-and-security-lake-integration/"
-    },
-    {
-        "title": "Governing and securing AWS PrivateLink service access at scale in multi-account environments",
-        "link": "https://aws.amazon.com/blogs/security/governing-and-securing-aws-privatelink-service-access-at-scale-in-multi-account-environments/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring AWS Storage Gateway health and performance using Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/storage/monitoring-aws-storage-gateway-health-and-performance-using-amazon-cloudwatch/"
+    },
+    {
         "title": "Streamline and automate compliance monitoring and reporting with AWS Backup Audit Manager",
         "link": "https://aws.amazon.com/blogs/storage/streamline-and-automate-compliance-monitoring-and-reporting-with-aws-backup-audit-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Global fashion e-commerce retailer shortens SQL query time by 30% using Amazon EBS io2 Block Express",
         "link": "https://aws.amazon.com/blogs/storage/global-fashion-e-commerce-retailer-shortens-sql-query-time-by-30-using-amazon-ebs-io2-block-express/"
-    },
-    {
-        "title": "Snowflake streamlines data management and improves processing times using Amazon S3 Lifecycle",
-        "link": "https://aws.amazon.com/blogs/storage/snowflake-streamlines-data-management-and-improves-processing-times-using-amazon-s3-lifecycle/"
     }
 ]
