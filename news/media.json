@@ -1,5 +1,9 @@
 [
     {
+        "title": "Benchmarking Java applications using AWS Managed Open Source services",
+        "link": "https://aws.amazon.com/blogs/mt/benchmarking-java-applications-using-aws-managed-open-source-services/"
+    },
+    {
         "title": "How to engage application teams during a cloud migration",
         "link": "https://aws.amazon.com/blogs/mt/how-to-engage-application-teams-during-a-cloud-migration/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor Java apps running on Tomcat server with Amazon CloudWatch Application Signals (Preview)",
         "link": "https://aws.amazon.com/blogs/mt/monitor-java-apps-running-on-tomcat-server-with-amazon-cloudwatch-application-signals-preview/"
-    },
-    {
-        "title": "Securely administer servers migrated with AWS Application Migration Service using AWS Systems Manager Session Manager",
-        "link": "https://aws.amazon.com/blogs/mt/securely-administer-servers-migrated-with-aws-application-migration-service-using-aws-systems-manager-session-manager/"
     }
 ]

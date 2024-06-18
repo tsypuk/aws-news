@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Twilio used Amazon SageMaker MLOps pipelines with PrestoDB to enable frequent model retraining and optimized batch transform",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-twilio-used-amazon-sagemaker-mlops-pipelines-with-prestodb-to-enable-frequent-model-retraining-and-optimized-batch-transform/"
+    },
+    {
+        "title": "Accelerate deep learning training and simplify orchestration with AWS Trainium and AWS Batch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-deep-learning-training-and-simplify-orchestration-with-aws-trainium-and-aws-batch/"
+    },
+    {
         "title": "Build a custom UI for Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-ui-for-amazon-q-business/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implementing Knowledge Bases for Amazon Bedrock in support of GDPR (right to be forgotten) requests",
         "link": "https://aws.amazon.com/blogs/machine-learning/implementing-knowledge-bases-for-amazon-bedrock-in-support-of-gdpr-right-to-be-forgotten-requests/"
-    },
-    {
-        "title": "CBRE and AWS perform natural language queries of structured data using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cbre-and-aws-perform-natural-language-queries-of-structured-data-using-amazon-bedrock/"
-    },
-    {
-        "title": "Dynamic video content moderation and policy evaluation using AWS generative AI services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-video-content-moderation-and-policy-evaluation-using-aws-generative-ai-services/"
     }
 ]
