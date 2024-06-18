@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize Amazon RDS costs for predictable workloads with automated IOPS and throughput scaling",
+        "link": "https://aws.amazon.com/blogs/database/optimize-amazon-rds-costs-for-predictable-workloads-with-automated-iops-and-throughput-scaling/"
+    },
+    {
         "title": "Privileged Database User Activity Monitoring using Database Activity Streams(DAS) and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/database/privileged-database-user-activity-monitoring-using-database-activity-streamsdas-and-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS DMS to migrate data from IBM Db2 DPF to an AWS target",
         "link": "https://aws.amazon.com/blogs/database/use-aws-dms-to-migrate-data-from-ibm-db2-dpf-to-an-aws-target/"
-    },
-    {
-        "title": "Create a fallback migration plan for your self-managed MySQL database to Amazon Aurora MySQL using native bi-directional binary log replication",
-        "link": "https://aws.amazon.com/blogs/database/create-a-fallback-migration-plan-for-your-self-managed-mysql-database-to-amazon-aurora-mysql-using-native-bi-directional-binary-log-replication/"
     }
 ]

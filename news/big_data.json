@@ -1,5 +1,9 @@
 [
     {
+        "title": "Disaster recovery strategies for Amazon MWAA \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/disaster-recovery-strategies-for-amazon-mwaa-part-2/"
+    },
+    {
         "title": "Ingest and analyze your data using Amazon OpenSearch Service with Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/ingest-and-analyze-your-data-using-amazon-opensearch-service-with-amazon-opensearch-ingestion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "In-place version upgrades for applications on Amazon Managed Service for Apache Flink now supported",
         "link": "https://aws.amazon.com/blogs/big-data/in-place-version-upgrades-for-applications-on-amazon-managed-service-for-apache-flink-now-supported/"
-    },
-    {
-        "title": "Get started with AWS Glue Data Quality dynamic rules for ETL pipelines",
-        "link": "https://aws.amazon.com/blogs/big-data/get-started-with-aws-glue-data-quality-dynamic-rules-for-etl-pipelines/"
     }
 ]
