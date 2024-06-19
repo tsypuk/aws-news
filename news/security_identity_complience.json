@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS HITRUST Shared Responsibility Matrix v1.4.3 for HITRUST CSF v11.3 now available",
+        "link": "https://aws.amazon.com/blogs/security/aws-hitrust-shared-responsibility-matrix-v1-4-3-for-hitrust-csf-v11-3-now-available/"
+    },
+    {
         "title": "SaaS tenant isolation with ABAC using AWS STS support for tags in JWT",
         "link": "https://aws.amazon.com/blogs/security/saas-tenant-isolation-with-abac-using-aws-sts-support-for-tags-in-jwt/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to set up SAML federation in Amazon Cognito using IdP-initiated single sign-on, request signing, and encrypted assertions",
         "link": "https://aws.amazon.com/blogs/security/how-to-set-up-saml-federation-in-amazon-cognito-using-idp-initiated-single-sign-on-request-signing-and-encrypted-assertions/"
-    },
-    {
-        "title": "AWS plans to invest \u20ac7.8B into the AWS European Sovereign Cloud, set to launch by the end of 2025",
-        "link": "https://aws.amazon.com/blogs/security/aws-plans-to-invest-e7-8b-into-the-aws-european-sovereign-cloud-set-to-launch-by-the-end-of-2025/"
     }
 ]

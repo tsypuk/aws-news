@@ -1,5 +1,9 @@
 [
     {
+        "title": "Host the Whisper Model with Streaming Mode on Amazon EKS and Ray Serve",
+        "link": "https://aws.amazon.com/blogs/containers/host-the-whisper-model-with-streaming-mode-on-amazon-eks-and-ray-serve/"
+    },
+    {
         "title": "How Freddie Mac used Amazon EKS to modernize their platform and migrate applications",
         "link": "https://aws.amazon.com/blogs/containers/how-freddie-mac-used-amazon-eks-to-modernize-their-platform-and-migrate-applications/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Multi-Region Disaster Recovery with Amazon EKS and Amazon EFS for Stateful workloads",
         "link": "https://aws.amazon.com/blogs/containers/multi-region-disaster-recovery-with-amazon-eks-and-amazon-efs-for-stateful-workloads/"
-    },
-    {
-        "title": "Streamline production grade clusters with Amazon AFT and Terraform EKS Blueprints",
-        "link": "https://aws.amazon.com/blogs/containers/streamline-production-grade-clusters-with-amazon-aft-and-terraform-eks-blueprints/"
     }
 ]
