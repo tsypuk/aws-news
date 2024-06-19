@@ -1,5 +1,17 @@
 [
     {
+        "title": "Testing Amazon Cognito backed APIs using Amazon CloudWatch Synthetics",
+        "link": "https://aws.amazon.com/blogs/mt/testing-amazon-cognito-backed-apis-using-amazon-cloudwatch-synthetics/"
+    },
+    {
+        "title": "Automate CloudWatch Dashboard creation for your AWS Elemental Mediapackage and AWS Elemental Medialive",
+        "link": "https://aws.amazon.com/blogs/mt/automate-cloudwatch-dashboard-creation-for-your-aws-elemental-mediapackage-and-aws-elemental-medialive/"
+    },
+    {
+        "title": "Improve application reliability with effective SLOs",
+        "link": "https://aws.amazon.com/blogs/mt/improve-application-reliability-with-effective-slos/"
+    },
+    {
         "title": "Benchmarking Java applications using AWS Managed Open Source services",
         "link": "https://aws.amazon.com/blogs/mt/benchmarking-java-applications-using-aws-managed-open-source-services/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Three Easy Steps to Make Your Product More Accessible",
         "link": "https://aws.amazon.com/blogs/mt/three-easy-steps-to-make-your-product-more-accessible/"
-    },
-    {
-        "title": "Amazon Managed Grafana announces support for Grafana version 10.4",
-        "link": "https://aws.amazon.com/blogs/mt/amazon-managed-grafana-announces-support-for-grafana-version-10-4/"
-    },
-    {
-        "title": "Top Picks for Governance, Risk, and Compliance Sessions at re:Inforce 2024",
-        "link": "https://aws.amazon.com/blogs/mt/top-picks-for-governance-risk-and-compliance-sessions-at-reinforce-2024/"
-    },
-    {
-        "title": "Monitor Java apps running on Tomcat server with Amazon CloudWatch Application Signals (Preview)",
-        "link": "https://aws.amazon.com/blogs/mt/monitor-java-apps-running-on-tomcat-server-with-amazon-cloudwatch-application-signals-preview/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build multimodal search with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/build-multimodal-search-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Introducing AWS Glue usage profiles for flexible cost control",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-usage-profiles-for-flexible-cost-control/"
+    },
+    {
         "title": "Disaster recovery strategies for Amazon MWAA \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/disaster-recovery-strategies-for-amazon-mwaa-part-2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Architectural Patterns for real-time analytics using Amazon Kinesis Data Streams, Part 2: AI Applications",
         "link": "https://aws.amazon.com/blogs/big-data/architectural-patterns-for-real-time-analytics-using-amazon-kinesis-data-streams-part-2-ai-applications/"
-    },
-    {
-        "title": "Build Spark Structured Streaming applications with the open source connector for Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/big-data/build-spark-structured-streaming-applications-with-the-open-source-connector-for-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "In-place version upgrades for applications on Amazon Managed Service for Apache Flink now supported",
-        "link": "https://aws.amazon.com/blogs/big-data/in-place-version-upgrades-for-applications-on-amazon-managed-service-for-apache-flink-now-supported/"
     }
 ]

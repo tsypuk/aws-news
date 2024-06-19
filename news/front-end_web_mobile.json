@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying a web application using AWS Amplify Gen 2 with GitLab as the Repository on AWS",
+        "link": "https://aws.amazon.com/blogs/mobile/deploying-a-web-application-using-aws-amplify-gen-2-with-gitlab-as-the-repository-on-aws/"
+    },
+    {
         "title": "Best practices for AWS AppSync GraphQL APIs",
         "link": "https://aws.amazon.com/blogs/mobile/best-practices-for-aws-appsync-graphql-apis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Create a Fullstack, Sample Web App powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mobile/create-a-fullstack-sample-web-app-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Accessing resources in a Amazon Virtual Private Cloud (Amazon VPC) from Next.js API Routes",
-        "link": "https://aws.amazon.com/blogs/mobile/accessing-resources-in-a-amazon-virtual-private-cloud-amazon-vpc-from-next-js-api-routes/"
     }
 ]

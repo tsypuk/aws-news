@@ -1,5 +1,21 @@
 [
     {
+        "title": "Improving air quality with generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improving-air-quality-with-generative-ai/"
+    },
+    {
+        "title": "Use zero-shot large language models on Amazon Bedrock for custom named entity recognition",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-zero-shot-large-language-models-on-amazon-bedrock-for-custom-named-entity-recognition/"
+    },
+    {
+        "title": "Safeguard a generative AI travel agent with prompt engineering and Guardrails for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-a-generative-ai-travel-agent-with-prompt-engineering-and-guardrails-for-amazon-bedrock/"
+    },
+    {
+        "title": "Streamline financial workflows with generative AI for email automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-financial-workflows-with-generative-ai-for-email-automation/"
+    },
+    {
         "title": "How Twilio used Amazon SageMaker MLOps pipelines with PrestoDB to enable frequent model retraining and optimized batch transform",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-twilio-used-amazon-sagemaker-mlops-pipelines-with-prestodb-to-enable-frequent-model-retraining-and-optimized-batch-transform/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Implement serverless semantic search of image and live video with Amazon Titan Multimodal Embeddings",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-serverless-semantic-search-of-image-and-live-video-with-amazon-titan-multimodal-embeddings/"
-    },
-    {
-        "title": "Prioritizing employee well-being: An innovative approach with generative AI and Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prioritizing-employee-well-being-an-innovative-approach-with-generative-ai-and-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Pre-training genomic language models using AWS HealthOmics and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pre-training-genomic-language-models-using-aws-healthomics-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Falcon 2 11B is now available on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/falcon-2-11b-is-now-available-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Implementing Knowledge Bases for Amazon Bedrock in support of GDPR (right to be forgotten) requests",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-knowledge-bases-for-amazon-bedrock-in-support-of-gdpr-right-to-be-forgotten-requests/"
     }
 ]
