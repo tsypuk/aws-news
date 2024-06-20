@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlock the power of parallel indexing in Amazon DocumentDB",
+        "link": "https://aws.amazon.com/blogs/database/unlock-the-power-of-parallel-indexing-in-amazon-documentdb/"
+    },
+    {
         "title": "Optimize Amazon RDS costs for predictable workloads with automated IOPS and throughput scaling",
         "link": "https://aws.amazon.com/blogs/database/optimize-amazon-rds-costs-for-predictable-workloads-with-automated-iops-and-throughput-scaling/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Right-sizing Amazon RDS for Db2 by replaying the Db2 LUW workload",
         "link": "https://aws.amazon.com/blogs/database/right-sizing-amazon-rds-for-db2-by-replaying-the-db2-luw-workload/"
-    },
-    {
-        "title": "Use AWS DMS to migrate data from IBM Db2 DPF to an AWS target",
-        "link": "https://aws.amazon.com/blogs/database/use-aws-dms-to-migrate-data-from-ibm-db2-dpf-to-an-aws-target/"
     }
 ]

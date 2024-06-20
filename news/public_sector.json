@@ -1,5 +1,17 @@
 [
     {
+        "title": "Generative AI for public agencies: 5 best practices for secure implementation",
+        "link": "https://aws.amazon.com/blogs/publicsector/generative-ai-for-public-agencies-5-best-practices-for-secure-implementation/"
+    },
+    {
+        "title": "Improving customer experience for the public sector using AWS services",
+        "link": "https://aws.amazon.com/blogs/publicsector/improving-customer-experience-for-the-public-sector-using-aws-services/"
+    },
+    {
+        "title": "Fine-tuning an LLM using QLoRA in AWS GovCloud (US)",
+        "link": "https://aws.amazon.com/blogs/publicsector/fine-tuning-an-llm-using-qlora-in-aws-govcloud-us/"
+    },
+    {
         "title": "Reimagining customer experience with AI-powered conversational service discovery",
         "link": "https://aws.amazon.com/blogs/publicsector/reimagining-customer-experience-with-ai-powered-conversational-service-discovery/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Strengthening public safety collaboration with AWS Wickr and the Android Team Awareness Kit",
         "link": "https://aws.amazon.com/blogs/publicsector/strengthening-public-safety-collaboration-with-aws-wickr-and-the-android-team-awareness-kit/"
-    },
-    {
-        "title": "Automate cybersecurity analysis with MBSE workflows enabled by AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/automate-cybersecurity-analysis-with-mbse-workflows-enabled-by-aws/"
-    },
-    {
-        "title": "Manchester Airports Group looks to AWS to transform the passenger experience",
-        "link": "https://aws.amazon.com/blogs/publicsector/manchester-airports-group-looks-to-the-aws-cloud-to-transform-the-passenger-experience/"
-    },
-    {
-        "title": "AWS Partner Kokomo24/7 transforms Los Angeles Unified School District\u2019s health data system in one year",
-        "link": "https://aws.amazon.com/blogs/publicsector/aws-partner-kokomo24-7-transforms-los-angeles-unified-school-districts-health-data-system-in-one-year/"
     }
 ]

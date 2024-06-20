@@ -1,5 +1,9 @@
 [
     {
+        "title": "An agent-based simulation of Amazon\u2019s inbound supply chain",
+        "link": "https://aws.amazon.com/blogs/hpc/an-agent-based-simulation-of-amazons-inbound-supply-chain/"
+    },
+    {
         "title": "Call for participation: HPC tutorial series from the HPCIC",
         "link": "https://aws.amazon.com/blogs/hpc/call-for-participation-hpc-tutorial-series-from-the-hpcic/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Choosing the right compute orchestration tool for your research workload",
         "link": "https://aws.amazon.com/blogs/hpc/choosing-the-right-compute-orchestration-tool-for-your-research-workload/"
-    },
-    {
-        "title": "Protein language model training with NVIDIA BioNeMo framework on AWS ParallelCluster",
-        "link": "https://aws.amazon.com/blogs/hpc/protein-language-model-training-with-nvidia-bionemo-framework-on-aws-parallelcluster/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the general availability of fully managed MLflow on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/aws/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/"
+    },
+    {
         "title": "AWS Weekly Roundup: Passkey MFA, Malware Protection on Amazon S3, and more (June 17, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-passkey-mfa-malware-protection-on-amazon-s3-and-more-june-17-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: New capabilities in Amazon Bedrock, AWS Amplify Gen 2, Amazon RDS and more (May 13, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-capabilities-in-amazon-bedrock-aws-amplify-gen-2-amazon-rds-and-more-may-13-2024/"
-    },
-    {
-        "title": "A new generative engine and three voices are now generally available on Amazon Polly",
-        "link": "https://aws.amazon.com/blogs/aws/a-new-generative-engine-and-three-voices-are-now-generally-available-on-amazon-polly/"
     }
 ]
