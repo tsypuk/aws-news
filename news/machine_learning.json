@@ -1,5 +1,13 @@
 [
     {
+        "title": "Maximize your Amazon Translate architecture using strategic caching layers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/maximize-your-amazon-translate-architecture-using-strategic-caching-layers/"
+    },
+    {
+        "title": "Deploy a Slack gateway for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-slack-gateway-for-amazon-bedrock/"
+    },
+    {
         "title": "Improving air quality with generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/improving-air-quality-with-generative-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamline custom model creation and deployment for Amazon Bedrock with Provisioned Throughput using Terraform",
         "link": "https://aws.amazon.com/blogs/machine-learning/streamline-custom-model-creation-and-deployment-for-amazon-bedrock-with-provisioned-throughput-using-terraform/"
-    },
-    {
-        "title": "Boost productivity with video conferencing transcripts and summaries with the Amazon Chime SDK Meeting Summarizer solution",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-with-video-conferencing-transcripts-and-summaries-with-the-amazon-chime-sdk-meeting-summarizer-solution/"
-    },
-    {
-        "title": "Implement serverless semantic search of image and live video with Amazon Titan Multimodal Embeddings",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-serverless-semantic-search-of-image-and-live-video-with-amazon-titan-multimodal-embeddings/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Apply fine-grained access and transformation on the SUPER data type in Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/apply-fine-grained-access-and-transformation-on-the-super-data-type-in-amazon-redshift/"
+    },
+    {
         "title": "Build multimodal search with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/build-multimodal-search-with-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a decentralized semantic search engine on heterogeneous data stores using autonomous agents",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-decentralized-semantic-search-engine-on-heterogeneous-data-stores-using-autonomous-agents/"
-    },
-    {
-        "title": "Architectural Patterns for real-time analytics using Amazon Kinesis Data Streams, Part 2: AI Applications",
-        "link": "https://aws.amazon.com/blogs/big-data/architectural-patterns-for-real-time-analytics-using-amazon-kinesis-data-streams-part-2-ai-applications/"
     }
 ]

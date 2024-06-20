@@ -12,10 +12,6 @@
         "link": "https://aws.amazon.com/blogs/mt/improve-application-reliability-with-effective-slos/"
     },
     {
-        "title": "Benchmarking Java applications using AWS Managed Open Source services",
-        "link": "https://aws.amazon.com/blogs/mt/benchmarking-java-applications-using-aws-managed-open-source-services/"
-    },
-    {
         "title": "How to engage application teams during a cloud migration",
         "link": "https://aws.amazon.com/blogs/mt/how-to-engage-application-teams-during-a-cloud-migration/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Three Easy Steps to Make Your Product More Accessible",
         "link": "https://aws.amazon.com/blogs/mt/three-easy-steps-to-make-your-product-more-accessible/"
+    },
+    {
+        "title": "Amazon Managed Grafana announces support for Grafana version 10.4",
+        "link": "https://aws.amazon.com/blogs/mt/amazon-managed-grafana-announces-support-for-grafana-version-10-4/"
     }
 ]
