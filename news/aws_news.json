@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS CodeArtifact adds support for Rust packages with Cargo",
+        "link": "https://aws.amazon.com/blogs/aws/aws-codeartifact-adds-support-for-rust-packages-with-cargo/"
+    },
+    {
+        "title": "Anthropic\u2019s Claude 3.5 Sonnet model now available in Amazon Bedrock: Even more intelligence than Claude 3 Opus at one-fifth the cost",
+        "link": "https://aws.amazon.com/blogs/aws/anthropics-claude-3-5-sonnet-model-now-available-in-amazon-bedrock-the-most-intelligent-claude-model-yet/"
+    },
+    {
         "title": "Announcing the general availability of fully managed MLflow on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/aws/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Application Load Balancer IPv6, Amazon S3 pricing update, Amazon EC2 Flex instances, and more (May 20, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-application-load-balancer-ipv6-amazon-s3-pricing-update-amazon-ec2-flex-instances-and-more-may-20-2024/"
-    },
-    {
-        "title": "New compute-optimized (C7i-flex) Amazon EC2 Flex instances",
-        "link": "https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/"
-    },
-    {
-        "title": "AWS Weekly Roundup: New capabilities in Amazon Bedrock, AWS Amplify Gen 2, Amazon RDS and more (May 13, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-capabilities-in-amazon-bedrock-aws-amplify-gen-2-amazon-rds-and-more-may-13-2024/"
     }
 ]

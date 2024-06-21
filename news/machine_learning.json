@@ -1,5 +1,21 @@
 [
     {
+        "title": "Imperva optimizes SQL generation from natural language using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/imperva-optimizes-sql-generation-from-natural-language-using-amazon-bedrock/"
+    },
+    {
+        "title": "Create natural conversations with Amazon Lex QnAIntent and Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-natural-conversations-with-amazon-lex-qnaintent-and-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
+        "title": "Evaluate the reliability of Retrieval Augmented Generation applications using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-the-reliability-of-retrieval-augmented-generation-applications-using-amazon-bedrock/"
+    },
+    {
+        "title": "Connect to Amazon services using AWS PrivateLink in Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connect-to-amazon-services-using-aws-privatelink-in-amazon-sagemaker/"
+    },
+    {
         "title": "Maximize your Amazon Translate architecture using strategic caching layers",
         "link": "https://aws.amazon.com/blogs/machine-learning/maximize-your-amazon-translate-architecture-using-strategic-caching-layers/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Code generation using Code Llama 70B and Mixtral 8x7B on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/code-generation-using-code-llama-70b-and-mixtral-8x7b-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Build RAG applications using Jina Embeddings v2 on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-rag-applications-using-jina-embeddings-v2-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Detect email phishing attempts using Amazon Comprehend",
-        "link": "https://aws.amazon.com/blogs/machine-learning/detect-email-phishing-attempts-using-amazon-comprehend/"
-    },
-    {
-        "title": "How Skyflow creates technical content in days using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-skyflow-creates-technical-content-in-days-using-amazon-bedrock/"
-    },
-    {
-        "title": "Streamline custom model creation and deployment for Amazon Bedrock with Provisioned Throughput using Terraform",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-custom-model-creation-and-deployment-for-amazon-bedrock-with-provisioned-throughput-using-terraform/"
     }
 ]
