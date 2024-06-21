@@ -1,5 +1,9 @@
 [
     {
+        "title": "CISPE Data Protection Code of Conduct Public Register now has 113 compliant AWS services",
+        "link": "https://aws.amazon.com/blogs/security/cispe-data-protection-code-of-conduct-public-register-now-has-113-compliant-aws-services/"
+    },
+    {
         "title": "AWS HITRUST Shared Responsibility Matrix v1.4.3 for HITRUST CSF v11.3 now available",
         "link": "https://aws.amazon.com/blogs/security/aws-hitrust-shared-responsibility-matrix-v1-4-3-for-hitrust-csf-v11-3-now-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A sneak peek at the data protection sessions for re:Inforce 2024",
         "link": "https://aws.amazon.com/blogs/security/a-sneak-peek-at-the-data-protection-sessions-for-reinforce-2024/"
-    },
-    {
-        "title": "How to set up SAML federation in Amazon Cognito using IdP-initiated single sign-on, request signing, and encrypted assertions",
-        "link": "https://aws.amazon.com/blogs/security/how-to-set-up-saml-federation-in-amazon-cognito-using-idp-initiated-single-sign-on-request-signing-and-encrypted-assertions/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Job queue snapshots: see what\u2019s at the head of your queues in AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/job-queue-snapshots-see-whats-at-the-head-of-your-queues-in-aws-batch/"
+    },
+    {
         "title": "An agent-based simulation of Amazon\u2019s inbound supply chain",
         "link": "https://aws.amazon.com/blogs/hpc/an-agent-based-simulation-of-amazons-inbound-supply-chain/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Renewable energy transition: examining the impacts of wind energy through simulation",
         "link": "https://aws.amazon.com/blogs/hpc/renewable-energy-transition-examining-the-impacts-of-wind-energy-through-simulation/"
-    },
-    {
-        "title": "Choosing the right compute orchestration tool for your research workload",
-        "link": "https://aws.amazon.com/blogs/hpc/choosing-the-right-compute-orchestration-tool-for-your-research-workload/"
     }
 ]

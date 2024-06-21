@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to bring existing Windows Server and SQL Server licenses to Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-bring-existing-windows-server-and-sql-server-licenses-to-amazon-ec2/"
+    },
+    {
         "title": "Containerize SQL Server workloads with Amazon EKS and DxOperator for Kubernetes",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-workloads-with-amazon-eks-and-dxoperator-for-kubernetes/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Providing self-service multi-account access to AWS Managed Microsoft AD",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/providing-self-service-multi-account-access-to-aws-managed-microsoft-ad/"
-    },
-    {
-        "title": "Modernizing .NET Applications to Microservices using AWS Migration Hub Refactor Spaces",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernizing-net-applications-to-microservices-using-aws-migration-hub-refactor-spaces/"
     }
 ]
