@@ -1,5 +1,9 @@
 [
     {
+        "title": "Project management in a cloud first world",
+        "link": "https://aws.amazon.com/blogs/mt/project-management-in-a-cloud-first-world/"
+    },
+    {
         "title": "Testing Amazon Cognito backed APIs using Amazon CloudWatch Synthetics",
         "link": "https://aws.amazon.com/blogs/mt/testing-amazon-cognito-backed-apis-using-amazon-cloudwatch-synthetics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Managed Grafana announces support for Grafana version 10.4",
         "link": "https://aws.amazon.com/blogs/mt/amazon-managed-grafana-announces-support-for-grafana-version-10-4/"
-    },
-    {
-        "title": "Top Picks for Governance, Risk, and Compliance Sessions at re:Inforce 2024",
-        "link": "https://aws.amazon.com/blogs/mt/top-picks-for-governance-risk-and-compliance-sessions-at-reinforce-2024/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Manage Amazon SageMaker JumpStart foundation model access with private hubs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-jumpstart-foundation-model-access-with-private-hubs/"
+    },
+    {
+        "title": "eSentire delivers private and secure generative AI interactions to customers with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/esentire-delivers-private-and-secure-generative-ai-interactions-to-customers-with-amazon-sagemaker/"
+    },
+    {
         "title": "Imperva optimizes SQL generation from natural language using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/imperva-optimizes-sql-generation-from-natural-language-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Sprinklr improves performance by 20% and reduces cost by 25% for machine learning inference on AWS Graviton3",
         "link": "https://aws.amazon.com/blogs/machine-learning/sprinklr-improves-performance-by-20-and-reduces-cost-by-25-for-machine-learning-inference-on-aws-graviton3/"
-    },
-    {
-        "title": "How Wiz is empowering organizations to remediate security risks faster with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-wiz-is-empowering-organizations-to-remediate-security-risks-faster-with-amazon-bedrock/"
-    },
-    {
-        "title": "Code generation using Code Llama 70B and Mixtral 8x7B on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/code-generation-using-code-llama-70b-and-mixtral-8x7b-on-amazon-sagemaker/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Perform a two-step database migration from an on-premises Oracle database to Amazon RDS for Oracle using RMAN",
+        "link": "https://aws.amazon.com/blogs/database/perform-a-two-step-database-migration-from-an-on-premises-oracle-database-to-amazon-rds-for-oracle-using-rman/"
+    },
+    {
         "title": "How Scopely scaled \u201cMONOPOLY GO!\u201d for millions of players around the globe with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/how-scopely-scaled-monopoly-go-for-millions-of-players-around-the-globe-with-amazon-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A hybrid approach for homogeneous migration to an Amazon DocumentDB elastic cluster",
         "link": "https://aws.amazon.com/blogs/database/a-hybrid-approach-for-homogeneous-migration-to-an-amazon-documentdb-elastic-cluster/"
-    },
-    {
-        "title": "Scale your connections with Amazon DocumentDB using mongobetween",
-        "link": "https://aws.amazon.com/blogs/database/scale-your-connections-with-amazon-documentdb-using-mongobetween/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run Apache Spark 3.5.1 workloads 4.5 times faster with Amazon EMR runtime for Apache Spark",
+        "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-3-5-1-workloads-4-5-times-faster-with-amazon-emr-runtime-for-apache-spark/"
+    },
+    {
         "title": "Stream multi-tenant data with Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/stream-multi-tenant-data-with-amazon-msk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify data lake access control for your enterprise users with trusted identity propagation in AWS IAM Identity Center, AWS Lake Formation, and Amazon S3 Access Grants",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-data-lake-access-control-for-your-enterprise-users-with-trusted-identity-propagation-in-aws-iam-identity-center-aws-lake-formation-and-amazon-s3-access-grants/"
-    },
-    {
-        "title": "Introducing Amazon EMR on EKS with Apache Flink: A scalable, reliable, and efficient data processing platform",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-emr-on-eks-with-apache-flink-a-scalable-reliable-and-efficient-data-processing-platform/"
     }
 ]
