@@ -1,5 +1,13 @@
 [
     {
+        "title": "Fault-isolated, zonal deployments with AWS CodeDeploy",
+        "link": "https://aws.amazon.com/blogs/devops/fault-isolated-zonal-deployments-with-aws-codedeploy/"
+    },
+    {
+        "title": "Five ways Amazon Q simplifies AWS CloudFormation development",
+        "link": "https://aws.amazon.com/blogs/devops/five-ways-amazon-q-simplifies-aws-cloudformation-development/"
+    },
+    {
         "title": "Blue/Green Deployments to Amazon ECS using AWS CloudFormation and AWS CodeDeploy",
         "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-to-amazon-ecs-using-aws-cloudformation-and-aws-codedeploy/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Infrastructure as Code development with Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/devops/infrastructure-as-code-development-with-amazon-codewhisperer/"
-    },
-    {
-        "title": "How we sped up AWS CloudFormation deployments with optimistic stabilization",
-        "link": "https://aws.amazon.com/blogs/devops/how-we-sped-up-aws-cloudformation-deployments-with-optimistic-stabilization/"
-    },
-    {
-        "title": "Best practices for managing Terraform State files in AWS CI/CD Pipeline",
-        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-managing-terraform-state-files-in-aws-ci-cd-pipeline/"
     }
 ]
