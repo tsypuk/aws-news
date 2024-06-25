@@ -1,5 +1,17 @@
 [
     {
+        "title": "How to use Mail Manager to Archive Inbound Emails",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/archiving-and-sending-to-final-smtp-server/"
+    },
+    {
+        "title": "How to use SES Mail Manager SMTP Relay action to deliver inbound email to Google Workspace and Microsoft 365",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-use-ses-mail-manager-smtp-relay-action-to-deliver-inbound-email-to-google-workspace-and-microsoft-365/"
+    },
+    {
+        "title": "Email Archiving with Mail Manager: Why To Archive In Transit vs At The Mailbox",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/email-archiving-with-mail-manager-why-to-archive-in-transit-vs-at-the-mailbox/"
+    },
+    {
         "title": "How Amazon SES Mail Manager Elevates Email Security and Efficiency",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-amazon-ses-mail-manager-elevates-email-security-and-efficiency/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How to Build a Compliant SMS Opt-In Process With Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-build-a-compliant-sms-opt-in-process-with-amazon-pinpoint/"
-    },
-    {
-        "title": "An Overview of Bulk Sender Changes at Yahoo/Gmail",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/an-overview-of-bulk-sender-changes-at-yahoo-gmail/"
-    },
-    {
-        "title": "How to Migrate Your SMS Program to Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-migrate-your-sms-program-to-amazon-pinpoint/"
-    },
-    {
-        "title": "Building a generative AI marketing portal on AWS",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-a-generative-ai-marketing-portal-on-aws/"
     }
 ]

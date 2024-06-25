@@ -1,5 +1,9 @@
 [
     {
+        "title": "Proactive scaling of Amazon ECS services using Amazon ECS Service Connect Metrics",
+        "link": "https://aws.amazon.com/blogs/containers/proactive-scaling-of-amazon-ecs-services-using-amazon-ecs-service-connect-metrics/"
+    },
+    {
         "title": "Host the Whisper Model with Streaming Mode on Amazon EKS and Ray Serve",
         "link": "https://aws.amazon.com/blogs/containers/host-the-whisper-model-with-streaming-mode-on-amazon-eks-and-ray-serve/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Disaster Recovery on AWS Outposts to AWS Local Zones with a GitOps approach for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/disaster-recovery-on-aws-outposts-to-aws-local-zones-with-a-gitops-approach-for-amazon-eks/"
-    },
-    {
-        "title": "Multi-Region Disaster Recovery with Amazon EKS and Amazon EFS for Stateful workloads",
-        "link": "https://aws.amazon.com/blogs/containers/multi-region-disaster-recovery-with-amazon-eks-and-amazon-efs-for-stateful-workloads/"
     }
 ]

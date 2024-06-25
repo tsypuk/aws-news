@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement exact match with Amazon Lex QnAIntent",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-exact-match-with-amazon-lex-qnaintent/"
+    },
+    {
+        "title": "How Krikey AI harnessed the power of Amazon SageMaker Ground Truth to accelerate generative AI development",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-krikey-ai-harnessed-the-power-of-amazon-sagemaker-ground-truth-to-accelerate-generative-ai-development/"
+    },
+    {
         "title": "Manage Amazon SageMaker JumpStart foundation model access with private hubs",
         "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-jumpstart-foundation-model-access-with-private-hubs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Reimagining software development with the Amazon Q Developer Agent",
         "link": "https://aws.amazon.com/blogs/machine-learning/reimagining-software-development-with-the-amazon-q-developer-agent/"
-    },
-    {
-        "title": "Get started quickly with AWS Trainium and AWS Inferentia using AWS Neuron DLAMI and AWS Neuron DLC",
-        "link": "https://aws.amazon.com/blogs/machine-learning/get-started-quickly-with-aws-trainium-and-aws-inferentia-using-aws-neuron-dlami-and-aws-neuron-dlc/"
-    },
-    {
-        "title": "Sprinklr improves performance by 20% and reduces cost by 25% for machine learning inference on AWS Graviton3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/sprinklr-improves-performance-by-20-and-reduces-cost-by-25-for-machine-learning-inference-on-aws-graviton3/"
     }
 ]
