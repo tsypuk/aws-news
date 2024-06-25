@@ -1,5 +1,9 @@
 [
     {
+        "title": "A library of HPC Applications Best Practices on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/a-library-of-hpc-applications-best-practices-on-aws/"
+    },
+    {
         "title": "Job queue snapshots: see what\u2019s at the head of your queues in AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/job-queue-snapshots-see-whats-at-the-head-of-your-queues-in-aws-batch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using a digital twin for sensitivity analysis to determine sensor placement in a roll-to-roll manufacturing web-line",
         "link": "https://aws.amazon.com/blogs/hpc/using-a-digital-twin-for-sensitivity-analysis-to-determine-sensor-placement-in-a-roll-to-roll-manufacturing-web-line/"
-    },
-    {
-        "title": "Renewable energy transition: examining the impacts of wind energy through simulation",
-        "link": "https://aws.amazon.com/blogs/hpc/renewable-energy-transition-examining-the-impacts-of-wind-energy-through-simulation/"
     }
 ]

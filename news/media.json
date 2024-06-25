@@ -1,5 +1,21 @@
 [
     {
+        "title": "Resiliency Journey : exploring how AWS Resilience Hub and Migration Acceleration Program come together",
+        "link": "https://aws.amazon.com/blogs/mt/resiliency-journey-exploring-how-aws-resilience-hub-and-migration-acceleration-program-come-together/"
+    },
+    {
+        "title": "Accelerate VMware Migrations to AWS using AWS Migration Hub Journeys",
+        "link": "https://aws.amazon.com/blogs/mt/accelerate-vmware-migrations-to-aws-using-aws-migration-hub-journeys/"
+    },
+    {
+        "title": "Automate CloudWatch Dashboard creation for your AWS Elemental Mediapackage and AWS Elemental Medialive",
+        "link": "https://aws.amazon.com/blogs/mt/automate-cloudwatch-dashboard-creation-for-your-aws-elemental-mediapackage-and-aws-elemental-medialive/"
+    },
+    {
+        "title": "Ten Ways to Improve Your AWS Operations",
+        "link": "https://aws.amazon.com/blogs/mt/ten-ways-to-improve-your-aws-operations/"
+    },
+    {
         "title": "Project management in a cloud first world",
         "link": "https://aws.amazon.com/blogs/mt/project-management-in-a-cloud-first-world/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Event Driven Architecture using Amazon EventBridge \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge/"
-    },
-    {
-        "title": "How to automate application log ingestion from Amazon EKS on Fargate into AWS CloudTrail Lake",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-automate-application-log-ingestion-from-amazon-eks-on-fargate-into-aws-cloudtrail-lake/"
-    },
-    {
-        "title": "Announcing the AWS Well-Architected Mergers and Acquisitions Lens",
-        "link": "https://aws.amazon.com/blogs/mt/announcing-the-aws-well-architected-mergers-and-acquisitions-lens/"
-    },
-    {
-        "title": "Three Easy Steps to Make Your Product More Accessible",
-        "link": "https://aws.amazon.com/blogs/mt/three-easy-steps-to-make-your-product-more-accessible/"
-    },
-    {
-        "title": "Amazon Managed Grafana announces support for Grafana version 10.4",
-        "link": "https://aws.amazon.com/blogs/mt/amazon-managed-grafana-announces-support-for-grafana-version-10-4/"
     }
 ]

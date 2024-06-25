@@ -1,5 +1,9 @@
 [
     {
+        "title": "How PayU uses Amazon Keyspaces (for Apache Cassandra) as a feature store",
+        "link": "https://aws.amazon.com/blogs/database/how-payu-uses-amazon-keyspaces-for-apache-cassandra-as-a-feature-store/"
+    },
+    {
         "title": "Perform a two-step database migration from an on-premises Oracle database to Amazon RDS for Oracle using RMAN",
         "link": "https://aws.amazon.com/blogs/database/perform-a-two-step-database-migration-from-an-on-premises-oracle-database-to-amazon-rds-for-oracle-using-rman/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate interval partitioning maintenance and monitoring in Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/database/automate-interval-partitioning-maintenance-and-monitoring-in-amazon-rds-for-postgresql-and-amazon-aurora-postgresql-part-2/"
-    },
-    {
-        "title": "A hybrid approach for homogeneous migration to an Amazon DocumentDB elastic cluster",
-        "link": "https://aws.amazon.com/blogs/database/a-hybrid-approach-for-homogeneous-migration-to-an-amazon-documentdb-elastic-cluster/"
     }
 ]

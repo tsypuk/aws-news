@@ -1,5 +1,17 @@
 [
     {
+        "title": "How AWS helps agencies meet OMB AI governance requirements",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-aws-helps-agencies-meet-omb-ai-governance-requirements/"
+    },
+    {
+        "title": "Building the WIS 2.0 global weather cache on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-the-wis-2-0-global-weather-cache-on-aws/"
+    },
+    {
+        "title": "10 ways that governments incentivize cloud use to accelerate digital transformation",
+        "link": "https://aws.amazon.com/blogs/publicsector/10-ways-that-governments-incentivize-cloud-use-to-accelerate-digital-transformation/"
+    },
+    {
         "title": "Approaches for creating FedRAMP high/moderate impact workloads solutions OCONUS using AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/approaches-for-creating-fedramp-high-moderate-impact-workloads-solutions-outside-the-contiguous-united-states-oconus/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Use modular architecture for flexible and extensible RAG-based generative AI solutions",
         "link": "https://aws.amazon.com/blogs/publicsector/use-modular-architecture-for-flexible-and-extensible-rag-based-generative-ai-solutions/"
-    },
-    {
-        "title": "Use Landing Zone Accelerator on AWS customizations to deploy Cloud Intelligence Dashboards",
-        "link": "https://aws.amazon.com/blogs/publicsector/use-landing-zone-accelerator-on-aws-customizations-to-deploy-cloud-intelligence-dashboards/"
-    },
-    {
-        "title": "ICF helps FDA accelerate the drug labeling review process with AWS machine learning",
-        "link": "https://aws.amazon.com/blogs/publicsector/icf-helps-fda-accelerate-the-drug-labeling-review-process-with-aws-machine-learning/"
-    },
-    {
-        "title": "Track application resiliency in public sector organizations using AWS Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/publicsector/track-application-resiliency-in-public-sector-organizations-using-aws-resilience-hub/"
     }
 ]

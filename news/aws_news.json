@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Claude 3.5 Sonnet in Amazon Bedrock, CodeCatalyst updates, SageMaker with MLflow, and more (June 24, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-5-sonnet-in-amazon-bedrock-codecatalyst-updates-sagemaker-with-mlflow-and-more-june-24-2024/"
+    },
+    {
         "title": "AWS CodeArtifact adds support for Rust packages with Cargo",
         "link": "https://aws.amazon.com/blogs/aws/aws-codeartifact-adds-support-for-rust-packages-with-cargo/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimized for low-latency workloads, Mistral Small now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/optimized-for-low-latency-workloads-mistral-small-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Application Load Balancer IPv6, Amazon S3 pricing update, Amazon EC2 Flex instances, and more (May 20, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-application-load-balancer-ipv6-amazon-s3-pricing-update-amazon-ec2-flex-instances-and-more-may-20-2024/"
     }
 ]
