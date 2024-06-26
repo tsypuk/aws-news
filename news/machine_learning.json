@@ -1,5 +1,25 @@
 [
     {
+        "title": "AI21 Labs Jamba-Instruct model is now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai21-labs-jamba-instruct-model-is-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "Scale and simplify ML workload monitoring on Amazon EKS with AWS Neuron Monitor container",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-and-simplify-ml-workload-monitoring-on-amazon-eks-with-aws-neuron-monitor-container/"
+    },
+    {
+        "title": "Build an automated insight extraction framework for customer feedback analysis with Amazon Bedrock and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-automated-insight-extraction-framework-for-customer-feedback-analysis-with-amazon-bedrock-and-amazon-quicksight/"
+    },
+    {
+        "title": "Build safe and responsible generative AI applications with guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-and-responsible-generative-ai-applications-with-guardrails/"
+    },
+    {
+        "title": "Improve visibility into Amazon Bedrock usage and performance with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-visibility-into-amazon-bedrock-usage-and-performance-with-amazon-cloudwatch/"
+    },
+    {
         "title": "Implement exact match with Amazon Lex QnAIntent",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-exact-match-with-amazon-lex-qnaintent/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Twilio used Amazon SageMaker MLOps pipelines with PrestoDB to enable frequent model retraining and optimized batch transform",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-twilio-used-amazon-sagemaker-mlops-pipelines-with-prestodb-to-enable-frequent-model-retraining-and-optimized-batch-transform/"
-    },
-    {
-        "title": "Accelerate deep learning training and simplify orchestration with AWS Trainium and AWS Batch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-deep-learning-training-and-simplify-orchestration-with-aws-trainium-and-aws-batch/"
-    },
-    {
-        "title": "Build a custom UI for Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-ui-for-amazon-q-business/"
-    },
-    {
-        "title": "Scalable intelligent document processing using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scalable-intelligent-document-processing-using-amazon-bedrock/"
-    },
-    {
-        "title": "Use weather data to improve forecasts with Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-weather-data-to-improve-forecasts-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Reimagining software development with the Amazon Q Developer Agent",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reimagining-software-development-with-the-amazon-q-developer-agent/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Access Amazon Redshift data from Salesforce Data Cloud with Zero Copy Data Federation",
+        "link": "https://aws.amazon.com/blogs/big-data/access-amazon-redshift-data-from-salesforce-data-cloud-with-zero-copy-data-federation/"
+    },
+    {
+        "title": "Perform reindexing in Amazon OpenSearch Serverless using Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/perform-reindexing-in-amazon-opensearch-serverless-using-amazon-opensearch-ingestion/"
+    },
+    {
+        "title": "Uncover social media insights in real time using Amazon Managed Service for Apache Flink and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/big-data/uncover-social-media-insights-in-real-time-using-amazon-managed-service-for-apache-flink-and-amazon-bedrock/"
+    },
+    {
         "title": "Configure a custom domain name for your Amazon MSK cluster",
         "link": "https://aws.amazon.com/blogs/big-data/configure-a-custom-domain-name-for-your-amazon-msk-cluster/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implement a full stack serverless search application using AWS Amplify, Amazon Cognito, Amazon API Gateway, AWS Lambda, and Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/implement-a-full-stack-serverless-search-application-using-aws-amplify-amazon-cognito-amazon-api-gateway-aws-lambda-and-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "AWS named a Leader in IDC MarketScape: Worldwide Analytic Stream Processing Software 2024 Vendor Assessment",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-named-a-leader-in-idc-marketscape-worldwide-analytic-stream-processing-software-2024-vendor-assessment/"
-    },
-    {
-        "title": "Migrate a petabyte-scale data warehouse from Actian Vectorwise to Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-a-petabyte-scale-data-warehouse-from-actian-vectorwise-to-amazon-redshift/"
-    },
-    {
-        "title": "Introducing support for Apache Kafka on Raft mode (KRaft) with Amazon MSK clusters",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-support-for-apache-kafka-on-raft-mode-kraft-with-amazon-msk-clusters/"
     }
 ]
