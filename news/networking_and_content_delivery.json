@@ -1,5 +1,9 @@
 [
     {
+        "title": "Tenant routing strategies for SaaS applications on AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/tenant-routing-strategies-for-saas-applications-on-aws/"
+    },
+    {
         "title": "Simplify global security inspection with AWS Cloud WAN Service Insertion",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-global-security-inspection-with-aws-cloud-wan-service-insertion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Advanced hybrid routing scenarios with AWS Cloud WAN and AWS Direct Connect",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/advanced-hybrid-routing-scenarios-with-aws-cloud-wan-and-aws-direct-connect/"
-    },
-    {
-        "title": "Bringing delivery closer to end users with Amazon CloudFront Embedded POPs",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/bringing-delivery-closer-to-end-users-with-amazon-cloudfront-embedded-pops/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harnessing the scale of AWS for financial simulations",
+        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-scale-of-aws-for-financial-simulations/"
+    },
+    {
         "title": "A library of HPC Applications Best Practices on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/a-library-of-hpc-applications-best-practices-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Intel Open Omics Acceleration Framework on AWS: fast, cost-efficient, and seamless",
         "link": "https://aws.amazon.com/blogs/hpc/intel-open-omics-acceleration-framework-on-aws-fast-cost-efficient-and-seamless/"
-    },
-    {
-        "title": "Using a digital twin for sensitivity analysis to determine sensor placement in a roll-to-roll manufacturing web-line",
-        "link": "https://aws.amazon.com/blogs/hpc/using-a-digital-twin-for-sensitivity-analysis-to-determine-sensor-placement-in-a-roll-to-roll-manufacturing-web-line/"
     }
 ]
