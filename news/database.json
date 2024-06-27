@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon DynamoDB use cases for media and entertainment customers",
+        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-use-cases-for-media-and-entertainment-customers/"
+    },
+    {
+        "title": "Adding real-time ML predictions for your Amazon Aurora database: Part 2",
+        "link": "https://aws.amazon.com/blogs/database/adding-real-time-ml-predictions-for-your-amazon-aurora-database-part-2/"
+    },
+    {
         "title": "Automate cross-account backup of Amazon RDS for Oracle including database parameter groups, option groups and security groups",
         "link": "https://aws.amazon.com/blogs/database/automate-cross-account-backup-of-amazon-rds-for-oracle-including-database-parameter-groups-option-groups-and-security-groups/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Import Amazon RDS Enhanced Monitoring metrics into Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/database/import-amazon-rds-enhanced-monitoring-metrics-into-amazon-cloudwatch/"
-    },
-    {
-        "title": "Benchmark Amazon RDS for PostgreSQL Single-AZ DB instance, Multi-AZ DB instance, and Multi-AZ DB Cluster deployments",
-        "link": "https://aws.amazon.com/blogs/database/benchmark-amazon-rds-for-postgresql-single-az-db-instance-multi-az-db-instance-and-multi-az-db-cluster-deployments/"
-    },
-    {
-        "title": "Build time-series applications faster with Amazon EventBridge Pipes and Timestream for LiveAnalytics",
-        "link": "https://aws.amazon.com/blogs/database/build-time-series-applications-faster-with-amazon-eventbridge-pipes-and-timestream-for-liveanalytics/"
     }
 ]

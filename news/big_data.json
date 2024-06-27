@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon DataZone announces custom blueprints for AWS services",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-announces-custom-blueprints-for-aws-services/"
+    },
+    {
         "title": "Access Amazon Redshift data from Salesforce Data Cloud with Zero Copy Data Federation",
         "link": "https://aws.amazon.com/blogs/big-data/access-amazon-redshift-data-from-salesforce-data-cloud-with-zero-copy-data-federation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrate Tableau and Okta with Amazon Redshift using AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-tableau-and-okta-with-amazon-redshift-using-aws-iam-identity-center/"
-    },
-    {
-        "title": "Implement a full stack serverless search application using AWS Amplify, Amazon Cognito, Amazon API Gateway, AWS Lambda, and Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-a-full-stack-serverless-search-application-using-aws-amplify-amazon-cognito-amazon-api-gateway-aws-lambda-and-amazon-opensearch-serverless/"
     }
 ]

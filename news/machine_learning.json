@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automate derivative confirms processing using AWS AI services for the capital markets industry",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-derivative-confirms-processing-using-aws-ai-services-for-the-capital-markets-industry/"
+    },
+    {
+        "title": "AI-powered assistants for investment research with multi-modal data: An application of Agents for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-assistants-for-investment-research-with-multi-modal-data-an-application-of-agents-for-amazon-bedrock/"
+    },
+    {
         "title": "AI21 Labs Jamba-Instruct model is now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/ai21-labs-jamba-instruct-model-is-now-available-in-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Safeguard a generative AI travel agent with prompt engineering and Guardrails for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-a-generative-ai-travel-agent-with-prompt-engineering-and-guardrails-for-amazon-bedrock/"
-    },
-    {
-        "title": "Streamline financial workflows with generative AI for email automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-financial-workflows-with-generative-ai-for-email-automation/"
-    },
-    {
-        "title": "How Twilio used Amazon SageMaker MLOps pipelines with PrestoDB to enable frequent model retraining and optimized batch transform",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-twilio-used-amazon-sagemaker-mlops-pipelines-with-prestodb-to-enable-frequent-model-retraining-and-optimized-batch-transform/"
     }
 ]

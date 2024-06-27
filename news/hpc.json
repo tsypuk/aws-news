@@ -1,5 +1,9 @@
 [
     {
+        "title": "How vertical scaling and GPUs can accelerate mixed media modelling for marketing analytics",
+        "link": "https://aws.amazon.com/blogs/hpc/how-vertical-scaling-and-gpus-can-accelerate-mixed-media-modelling-for-marketing-analytics/"
+    },
+    {
         "title": "Harnessing the scale of AWS for financial simulations",
         "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-scale-of-aws-for-financial-simulations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Linter rules for Nextflow to improve the detection of errors before runtime",
         "link": "https://aws.amazon.com/blogs/hpc/linter-rules-for-nextflow-to-improve-the-detection-of-errors-before-runtime/"
-    },
-    {
-        "title": "Intel Open Omics Acceleration Framework on AWS: fast, cost-efficient, and seamless",
-        "link": "https://aws.amazon.com/blogs/hpc/intel-open-omics-acceleration-framework-on-aws-fast-cost-efficient-and-seamless/"
     }
 ]
