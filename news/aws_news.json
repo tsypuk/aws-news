@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing Amazon Simple Queue Service (SQS) for speed and scale",
+        "link": "https://aws.amazon.com/blogs/aws/optimizing-amazon-simple-queue-service-sqs-for-speed-and-scale/"
+    },
+    {
         "title": "AWS Weekly Roundup: Claude 3.5 Sonnet in Amazon Bedrock, CodeCatalyst updates, SageMaker with MLflow, and more (June 24, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-5-sonnet-in-amazon-bedrock-codecatalyst-updates-sagemaker-with-mlflow-and-more-june-24-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: LlamaIndex support for Amazon Neptune, force AWS CloudFormation stack deletion, and more (May 27, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llamaindex-support-for-amazon-neptune-force-aws-cloudformation-stack-deletion-and-more-may-27-2024/"
-    },
-    {
-        "title": "Optimized for low-latency workloads, Mistral Small now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/optimized-for-low-latency-workloads-mistral-small-now-available-in-amazon-bedrock/"
     }
 ]
