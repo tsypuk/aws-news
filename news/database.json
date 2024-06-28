@@ -1,5 +1,9 @@
 [
     {
+        "title": "Configure SSL encryption on an SAP ASE source endpoint in AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/configure-ssl-encryption-on-an-sap-ase-source-endpoint-in-aws-dms/"
+    },
+    {
         "title": "Amazon DynamoDB use cases for media and entertainment customers",
         "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-use-cases-for-media-and-entertainment-customers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Turn petabytes of relational database records into a cost-efficient audit trail using Amazon Athena, AWS DMS, Amazon RDS, and Amazon S3",
         "link": "https://aws.amazon.com/blogs/database/turn-petabytes-of-relational-database-records-into-a-cost-efficient-audit-trail-using-amazon-athena-aws-dms-amazon-rds-and-amazon-s3/"
-    },
-    {
-        "title": "Import Amazon RDS Enhanced Monitoring metrics into Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/database/import-amazon-rds-enhanced-monitoring-metrics-into-amazon-cloudwatch/"
     }
 ]

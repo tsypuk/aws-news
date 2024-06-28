@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing updates to the AWS Well-Architected Framework guidance",
+        "link": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-2/"
+    },
+    {
         "title": "Let\u2019s Architect! Migrating to the cloud with AWS",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-migrating-to-the-cloud-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Let\u2019s Architect! Designing systems for batch data processing",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-designing-systems-for-batch-data-processing/"
-    },
-    {
-        "title": "ITS adopts microservices architecture for improved air travel search engine",
-        "link": "https://aws.amazon.com/blogs/architecture/its-adopts-microservices-architecture-for-improved-air-travel-search-engine/"
     }
 ]
