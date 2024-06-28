@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement disaster recovery with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-disaster-recovery-with-amazon-redshift/"
+    },
+    {
+        "title": "Build a real-time streaming generative AI application using Amazon Bedrock, Amazon Managed Service for Apache Flink, and Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-streaming-generative-ai-application-using-amazon-bedrock-amazon-managed-service-for-apache-flink-and-amazon-kinesis-data-streams/"
+    },
+    {
         "title": "Amazon DataZone announces custom blueprints for AWS services",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-announces-custom-blueprints-for-aws-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Modernize your data observability with Amazon OpenSearch Service zero-ETL integration with Amazon S3",
         "link": "https://aws.amazon.com/blogs/big-data/modernize-your-data-observability-with-amazon-opensearch-service-zero-etl-integration-with-amazon-s3/"
-    },
-    {
-        "title": "Optimize write throughput for Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-write-throughput-for-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "Integrate Tableau and Okta with Amazon Redshift using AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-tableau-and-okta-with-amazon-redshift-using-aws-iam-identity-center/"
     }
 ]
