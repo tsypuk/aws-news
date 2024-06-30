@@ -1,5 +1,9 @@
 [
     {
+        "title": "Patterns for TargetGroupBinding with AWS Load Balancer Controller",
+        "link": "https://aws.amazon.com/blogs/containers/patterns-for-targetgroupbinding-with-aws-load-balancer-controller/"
+    },
+    {
         "title": "Proactive scaling of Amazon ECS services using Amazon ECS Service Connect Metrics",
         "link": "https://aws.amazon.com/blogs/containers/proactive-scaling-of-amazon-ecs-services-using-amazon-ecs-service-connect-metrics/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Use Ansible to bootstrap external container instances with Amazon ECS Anywhere",
         "link": "https://aws.amazon.com/blogs/containers/use-ansible-to-bootstrap-external-container-instances-with-amazon-ecs-anywhere/"
-    },
-    {
-        "title": "Disaster Recovery on AWS Outposts to AWS Local Zones with a GitOps approach for Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/disaster-recovery-on-aws-outposts-to-aws-local-zones-with-a-gitops-approach-for-amazon-eks/"
     }
 ]
