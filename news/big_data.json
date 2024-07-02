@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing self-managed data sources for Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-self-managed-data-sources-for-amazon-opensearch-ingestion/"
+    },
+    {
+        "title": "Amazon MWAA best practices for managing Python dependencies",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-mwaa-best-practices-for-managing-python-dependencies/"
+    },
+    {
+        "title": "Amazon DataZone enhances data discovery with advanced search filtering",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-enhances-data-discovery-with-advanced-search-filtering/"
+    },
+    {
         "title": "Implement disaster recovery with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/implement-disaster-recovery-with-amazon-redshift/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize storage costs in Amazon OpenSearch Service using Zstandard compression",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-storage-costs-in-amazon-opensearch-service-using-zstandard-compression/"
-    },
-    {
-        "title": "How Cloudinary transformed their petabyte scale streaming data lake with Apache Iceberg and AWS Analytics",
-        "link": "https://aws.amazon.com/blogs/big-data/how-cloudinary-transformed-their-petabyte-scale-streaming-data-lake-with-apache-iceberg-and-aws-analytics/"
-    },
-    {
-        "title": "Design a data mesh pattern for Amazon EMR-based data lakes using AWS Lake Formation with Hive metastore federation",
-        "link": "https://aws.amazon.com/blogs/big-data/design-a-data-mesh-pattern-for-amazon-emr-based-data-lakes-using-aws-lake-formation-with-hive-metastore-federation/"
-    },
-    {
-        "title": "Modernize your data observability with Amazon OpenSearch Service zero-ETL integration with Amazon S3",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-your-data-observability-with-amazon-opensearch-service-zero-etl-integration-with-amazon-s3/"
     }
 ]
