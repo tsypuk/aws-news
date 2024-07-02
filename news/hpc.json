@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simulating autonomous mining operations using Robotec.ai on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/simulating-autonomous-mining-operations-using-robotec-ai-on-aws/"
+    },
+    {
         "title": "How vertical scaling and GPUs can accelerate mixed media modelling for marketing analytics",
         "link": "https://aws.amazon.com/blogs/hpc/how-vertical-scaling-and-gpus-can-accelerate-mixed-media-modelling-for-marketing-analytics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Run simulations using multiple containers in a single AWS Batch job",
         "link": "https://aws.amazon.com/blogs/hpc/run-simulations-using-multiple-containers-in-a-single-aws-batch-job/"
-    },
-    {
-        "title": "Linter rules for Nextflow to improve the detection of errors before runtime",
-        "link": "https://aws.amazon.com/blogs/hpc/linter-rules-for-nextflow-to-improve-the-detection-of-errors-before-runtime/"
     }
 ]

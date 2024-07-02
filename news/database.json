@@ -1,5 +1,17 @@
 [
     {
+        "title": "How London Stock Exchange Group optimised blue/green deployments for Amazon Aurora PostgreSQL Global Database",
+        "link": "https://aws.amazon.com/blogs/database/how-london-stock-exchange-group-optimised-blue-green-deployments-for-amazon-aurora-postgresql-global-database/"
+    },
+    {
+        "title": "Use Amazon Aurora Global Database to build resilient multi-Region applications",
+        "link": "https://aws.amazon.com/blogs/database/use-amazon-aurora-global-database-to-build-resilient-multi-region-applications/"
+    },
+    {
+        "title": "AWS DMS homogenous migration from PostgreSQL to Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/aws-dms-homogenous-migration-from-postgresql-to-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Create a Knowledge Graph application with metaphactory and Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/create-a-knowledge-graph-application-with-metaphactory-and-amazon-neptune/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing the Advanced Python Wrapper Driver for Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/introducing-the-advanced-python-wrapper-driver-for-amazon-aurora/"
-    },
-    {
-        "title": "Upgrade Amazon RDS for SQL Server 2014 to a newer supported version using the AWS CLI",
-        "link": "https://aws.amazon.com/blogs/database/upgrade-amazon-rds-for-sql-server-2014-to-a-newer-supported-version-using-the-aws-cli/"
-    },
-    {
-        "title": "Near zero-downtime migrations from self-managed Db2 on AIX or Windows to Amazon RDS for Db2 using IBM Q Replication",
-        "link": "https://aws.amazon.com/blogs/database/near-zero-downtime-migrations-from-self-managed-db2-on-aix-or-windows-to-amazon-rds-for-db2-using-ibm-q-replication/"
-    },
-    {
-        "title": "Build a FedRAMP compliant generative AI-powered chatbot using Amazon Aurora Machine Learning and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/build-a-fedramp-compliant-generative-ai-powered-chatbot-using-amazon-aurora-machine-learning-and-amazon-bedrock/"
     }
 ]
