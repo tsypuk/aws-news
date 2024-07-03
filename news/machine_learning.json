@@ -1,5 +1,25 @@
 [
     {
+        "title": "Improve productivity when processing scanned PDFs using Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-productivity-when-processing-scanned-pdfs-using-amazon-q-business/"
+    },
+    {
+        "title": "Accelerated PyTorch inference with torch.compile on AWS Graviton processors",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerated-pytorch-inference-with-torch-compile-on-aws-graviton-processors/"
+    },
+    {
+        "title": "Access control for vector stores using metadata filtering with Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/access-control-for-vector-stores-using-metadata-filtering-with-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
+        "title": "Accenture creates a custom memory-persistent conversational user experience using Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accenture-creates-a-custom-memory-persistent-conversational-user-experience-using-amazon-q-business/"
+    },
+    {
+        "title": "Create an end-to-end serverless digital assistant for semantic search with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-an-end-to-end-serverless-digital-assistant-for-semantic-search-with-amazon-bedrock/"
+    },
+    {
         "title": "Build a self-service digital assistant using Amazon Lex and Knowledge Bases for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-self-service-digital-assistant-using-amazon-lex-and-knowledge-bases-for-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Krikey AI harnessed the power of Amazon SageMaker Ground Truth to accelerate generative AI development",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-krikey-ai-harnessed-the-power-of-amazon-sagemaker-ground-truth-to-accelerate-generative-ai-development/"
-    },
-    {
-        "title": "Manage Amazon SageMaker JumpStart foundation model access with private hubs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-jumpstart-foundation-model-access-with-private-hubs/"
-    },
-    {
-        "title": "eSentire delivers private and secure generative AI interactions to customers with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/esentire-delivers-private-and-secure-generative-ai-interactions-to-customers-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Imperva optimizes SQL generation from natural language using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/imperva-optimizes-sql-generation-from-natural-language-using-amazon-bedrock/"
-    },
-    {
-        "title": "Create natural conversations with Amazon Lex QnAIntent and Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-natural-conversations-with-amazon-lex-qnaintent-and-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Evaluate the reliability of Retrieval Augmented Generation applications using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-the-reliability-of-retrieval-augmented-generation-applications-using-amazon-bedrock/"
     }
 ]

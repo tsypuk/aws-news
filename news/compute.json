@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless ICYMI Q2 2024",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2024/"
+    },
+    {
         "title": "Securing Amazon ECS workloads on AWS Fargate with customer managed keys",
         "link": "https://aws.amazon.com/blogs/compute/securing-amazon-ecs-workloads-on-aws-fargate-with-customer-managed-keys/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing IPv6 instance bundles and pricing update on Amazon Lightsail",
         "link": "https://aws.amazon.com/blogs/compute/announcing-ipv6-instance-bundles-and-pricing-update-on-amazon-lightsail/"
-    },
-    {
-        "title": "Consuming private Amazon API Gateway APIs using mutual TLS",
-        "link": "https://aws.amazon.com/blogs/compute/consuming-private-amazon-api-gateway-apis-using-mutual-tls/"
     }
 ]

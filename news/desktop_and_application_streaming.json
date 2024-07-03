@@ -1,5 +1,9 @@
 [
     {
+        "title": "Key considerations for single versus multi-session fleets on Amazon AppStream 2.0",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/key-considerations-for-single-versus-multi-session-fleets-on-amazon-appstream-2-0/"
+    },
+    {
         "title": "AWS End User Computing (EUC) at Washington DC Summit",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-end-user-computing-euc-at-washington-dc-summit/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a serverless session resolver for your NICE DCV Connection Gateway",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/build-a-serverless-session-resolver-for-your-nice-dcv-connection-gateway/"
-    },
-    {
-        "title": "Automation of infrastructure and application deployment for Amazon AppStream 2.0 with Terraform",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automation-of-infrastructure-and-application-deployment-for-amazon-appstream-2-0-with-terraform/"
     }
 ]

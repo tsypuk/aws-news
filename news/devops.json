@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernize your Java application with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/modernize-your-java-application-with-amazon-q-developer/"
+    },
+    {
         "title": "Best practices working with self-hosted GitHub Action runners at scale on AWS",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-working-with-self-hosted-github-action-runners-at-scale-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Terraform CI/CD and testing on AWS with the new Terraform Test Framework",
         "link": "https://aws.amazon.com/blogs/devops/terraform-ci-cd-and-testing-on-aws-with-the-new-terraform-test-framework/"
-    },
-    {
-        "title": "Driving Development Forward: How the PGA TOUR speeds up Development with the AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/driving-development-forward-how-the-pga-tour-speeds-up-development-with-the-aws-cdk/"
     }
 ]

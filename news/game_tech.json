@@ -1,5 +1,9 @@
 [
     {
+        "title": "Gamer Arena minimizes DevOps demands, unlocks generative AI potential with AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/gamer-arena-minimizes-devops-demands-unlocks-generative-ai-potential-with-aws/"
+    },
+    {
         "title": "Speed up game server development with Amazon GameLift Anywhere and the Amazon GameLift Agent",
         "link": "https://aws.amazon.com/blogs/gametech/speed-up-game-server-development-with-amazon-gamelift-anywhere-and-the-amazon-gamelift-agent/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing Game and Media Workflows with Global File Systems on AWS",
         "link": "https://aws.amazon.com/blogs/gametech/enhancing-game-and-media-workflows-with-global-file-systems-on-aws/"
-    },
-    {
-        "title": "Boosting Unreal Engine Performance with Amazon FSx for OpenZFS as a Shared Derived Data Cache",
-        "link": "https://aws.amazon.com/blogs/gametech/boosting-unreal-engine-performance-with-amazon-fsx-for-openzfs-as-a-shared-derived-data-cache/"
     }
 ]

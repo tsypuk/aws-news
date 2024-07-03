@@ -1,5 +1,21 @@
 [
     {
+        "title": "Accelerate testing with AWS Mainframe Modernization Application Testing",
+        "link": "https://aws.amazon.com/blogs/mt/accelerate-testing-with-aws-mainframe-modernization-application-testing/"
+    },
+    {
+        "title": "Optimize your cloud deployments with Prioritized Trusted Advisor recommendations in your operational workflows",
+        "link": "https://aws.amazon.com/blogs/mt/optimize-your-cloud-deployments-with-prioritized-trusted-advisor-recommendations-in-your-operational-workflows/"
+    },
+    {
+        "title": "Reduce code duplication in load testing and synthetic monitoring using Amazon CloudWatch Synthetics",
+        "link": "https://aws.amazon.com/blogs/mt/reduce-code-duplication-in-load-testing-and-synthetic-monitoring-using-amazon-cloudwatch-synthetics/"
+    },
+    {
+        "title": "Use Amazon CloudWatch Contributor Insights for general analysis of Apache logs",
+        "link": "https://aws.amazon.com/blogs/mt/use-amazon-cloudwatch-contributor-insights-for-general-analysis-of-apache-logs/"
+    },
+    {
         "title": "Gain operational insights for NVIDIA GPU workloads using Amazon CloudWatch Container Insights",
         "link": "https://aws.amazon.com/blogs/mt/gain-operational-insights-for-nvidia-gpu-workloads-using-amazon-cloudwatch-container-insights/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Respond to CloudWatch Alarms with Amazon Bedrock Insights",
         "link": "https://aws.amazon.com/blogs/mt/alarm-context-tool/"
-    },
-    {
-        "title": "Identify AWS resources at risk across your multi-account environment with AWS Organizations integrations",
-        "link": "https://aws.amazon.com/blogs/mt/identify-aws-resources-at-risk-across-your-multi-account-environment-with-aws-organizations-integrations/"
-    },
-    {
-        "title": "Simplify compliance management of multicloud or hybrid resources with AWS Config",
-        "link": "https://aws.amazon.com/blogs/mt/simplify-compliance-management-of-multicloud-or-hybrid-resources-with-aws-config/"
-    },
-    {
-        "title": "Using Amazon Q Business to streamline your operations",
-        "link": "https://aws.amazon.com/blogs/mt/streamline-operations-using-amazon-q-for-business/"
-    },
-    {
-        "title": "Augmenting mainframe data with IBM MQ and Amazon Managed Streaming for Apache Kafka",
-        "link": "https://aws.amazon.com/blogs/mt/augmenting-mainframe-data-with-ibm-mq-and-amazon-managed-streaming-for-apache-kafka/"
     }
 ]

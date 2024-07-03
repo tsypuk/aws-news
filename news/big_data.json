@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhance data security with fine-grained access controls in Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-data-security-with-fine-grained-access-controls-in-amazon-datazone/"
+    },
+    {
+        "title": "Automate data loading from your database into Amazon Redshift using AWS Database Migration Service (DMS), AWS Step Functions, and the Redshift Data API",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-data-loading-from-your-database-into-amazon-redshift-using-aws-database-migration-service-dms-aws-step-functions-and-the-redshift-data-api/"
+    },
+    {
         "title": "Introducing self-managed data sources for Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-self-managed-data-sources-for-amazon-opensearch-ingestion/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Swisscom automated Amazon Redshift as part of their One Data Platform solution using AWS CDK \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/how-swisscom-automated-amazon-redshift-as-part-of-their-one-data-platform-solution-using-aws-cdk-part-2/"
-    },
-    {
-        "title": "How Swisscom automated Amazon Redshift as part of their One Data Platform solution using AWS CDK \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/how-swisscom-automated-amazon-redshift-as-part-of-their-one-data-platform-solution-using-aws-cdk-part-1/"
-    },
-    {
-        "title": "Optimize storage costs in Amazon OpenSearch Service using Zstandard compression",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-storage-costs-in-amazon-opensearch-service-using-zstandard-compression/"
     }
 ]

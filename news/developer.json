@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the end of support for Node.js 16.x in the AWS SDK for JavaScript (v3)",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-node-js-16-x-in-the-aws-sdk-for-javascript-v3/"
+    },
+    {
         "title": "Introducing the AWS Message Processing Framework for .NET (Preview)",
         "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-message-processing-framework-for-net-preview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing S3 cross-region support in the AWS SDK for Java 2.x",
         "link": "https://aws.amazon.com/blogs/developer/introducing-s3-cross-region-support-in-the-aws-sdk-for-java-2-x/"
-    },
-    {
-        "title": "Introducing Smithy for Python",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-smithy-for-python/"
     }
 ]
