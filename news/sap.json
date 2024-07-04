@@ -1,5 +1,13 @@
 [
     {
+        "title": "Improve supply chain resiliency and optimize costs using AWS Supply Chain with SAP S/4HANA",
+        "link": "https://aws.amazon.com/blogs/awsforsap/improve-supply-chain-resiliency-and-optimize-costs-using-aws-supply-chain-with-sap-s-4hana/"
+    },
+    {
+        "title": "Improve your productivity with Amazon Q and Bedrock for SAP use cases",
+        "link": "https://aws.amazon.com/blogs/awsforsap/improve-your-productivity-with-amazon-q-and-bedrock-for-sap-use-cases/"
+    },
+    {
         "title": "Increase Availability of SAP Convergent Mediation using AWS Auto Scaling",
         "link": "https://aws.amazon.com/blogs/awsforsap/increase-availability-of-sap-convergent-mediation-using-aws-auto-scaling/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "The Safe SUSE Upgrade: Avoiding Pitfalls When Upgrading AWS Instances",
         "link": "https://aws.amazon.com/blogs/awsforsap/the-safe-suse-upgrade-avoiding-pitfalls-when-upgrading-aws-instances/"
-    },
-    {
-        "title": "Updated Guidance for SAP Pacemaker configuration \u2013 ABAP SAP Central Services (ASCS)",
-        "link": "https://aws.amazon.com/blogs/awsforsap/updated-guidance-for-sap-pacemaker-configuration-abap-sap-central-services-ascs/"
-    },
-    {
-        "title": "Secure File Transfer with the AWS SDK for SAP ABAP",
-        "link": "https://aws.amazon.com/blogs/awsforsap/secure-file-transfer-with-the-aws-sdk-for-sap-abap/"
     }
 ]

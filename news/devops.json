@@ -1,5 +1,9 @@
 [
     {
+        "title": "Refactoring to Serverless: From Application to Automation",
+        "link": "https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/"
+    },
+    {
         "title": "Modernize your Java application with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/modernize-your-java-application-with-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Creating a User Activity Dashboard for Amazon CodeWhisperer",
         "link": "https://aws.amazon.com/blogs/devops/creating-a-user-activity-dashboard-for-amazon-codewhisperer/"
-    },
-    {
-        "title": "Terraform CI/CD and testing on AWS with the new Terraform Test Framework",
-        "link": "https://aws.amazon.com/blogs/devops/terraform-ci-cd-and-testing-on-aws-with-the-new-terraform-test-framework/"
     }
 ]
