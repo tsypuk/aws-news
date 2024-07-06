@@ -1,5 +1,9 @@
 [
     {
+        "title": "Empowering Manufacturing Innovation: How AI & GenAI Centers of Excellence can drive Modernization",
+        "link": "https://aws.amazon.com/blogs/mt/empowering-manufacturing-innovation-how-ai-genai-centers-of-excellence-can-drive-modernization/"
+    },
+    {
         "title": "Accelerate testing with AWS Mainframe Modernization Application Testing",
         "link": "https://aws.amazon.com/blogs/mt/accelerate-testing-with-aws-mainframe-modernization-application-testing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Auditing generative AI workloads with AWS CloudTrail",
         "link": "https://aws.amazon.com/blogs/mt/auditing-generative-ai-workloads-with-aws-cloudtrail/"
-    },
-    {
-        "title": "Respond to CloudWatch Alarms with Amazon Bedrock Insights",
-        "link": "https://aws.amazon.com/blogs/mt/alarm-context-tool/"
     }
 ]

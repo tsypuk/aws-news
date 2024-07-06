@@ -1,5 +1,9 @@
 [
     {
+        "title": "Aerospike Cloud: Scalable Real-time Database-as-a-Service with AWS SaaS Factory Support",
+        "link": "https://aws.amazon.com/blogs/apn/aerospike-cloud-scalable-real-time-database-as-a-service-with-aws-saas-factory-support/"
+    },
+    {
         "title": "Real-time data monitoring with AWS IoT Core and Imply Data",
         "link": "https://aws.amazon.com/blogs/apn/real-time-data-monitoring-with-aws-iot-core-and-imply-data/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Relay42 Unlocks Customer Intelligence With a New Insights And Reporting Module Powered By Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/apn/relay42-unlocks-customer-intelligence-with-a-new-insights-and-reporting-module-powered-by-amazon-quicksight/"
-    },
-    {
-        "title": "Building a data foundation for AI using Snowflake and AWS",
-        "link": "https://aws.amazon.com/blogs/apn/building-a-data-foundation-for-ai-using-snowflake-and-aws/"
     }
 ]
