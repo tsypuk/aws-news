@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing multi-Region failover for Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-multi-region-failover-for-amazon-api-gateway/"
+    },
+    {
         "title": "Serverless ICYMI Q2 2024",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Invoking on-premises resources interactively using AWS Step Functions and MQTT",
         "link": "https://aws.amazon.com/blogs/compute/invoking-on-premises-resources-interactively-using-aws-step-functions-and-mqtt/"
-    },
-    {
-        "title": "Announcing IPv6 instance bundles and pricing update on Amazon Lightsail",
-        "link": "https://aws.amazon.com/blogs/compute/announcing-ipv6-instance-bundles-and-pricing-update-on-amazon-lightsail/"
     }
 ]

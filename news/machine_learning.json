@@ -1,5 +1,17 @@
 [
     {
+        "title": "The Weather Company enhances MLOps with Amazon SageMaker, AWS CloudFormation, and Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/the-weather-company-enhances-mlops-with-amazon-sagemaker-aws-cloudformation-and-amazon-cloudwatch/"
+    },
+    {
+        "title": "Eviden scales AWS DeepRacer Global League using AWS DeepRacer Event Manager",
+        "link": "https://aws.amazon.com/blogs/machine-learning/eviden-scales-aws-deepracer-global-league-using-aws-deepracer-event-manager/"
+    },
+    {
+        "title": "Generate unique images by fine-tuning Stable Diffusion XL with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-unique-images-by-fine-tuning-stable-diffusion-xl-with-amazon-sagemaker/"
+    },
+    {
         "title": "Build your multilingual personal calendar assistant with Amazon Bedrock and AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-your-multilingual-personal-calendar-assistant-with-amazon-bedrock-and-aws-step-functions/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AI-powered assistants for investment research with multi-modal data: An application of Agents for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-assistants-for-investment-research-with-multi-modal-data-an-application-of-agents-for-amazon-bedrock/"
-    },
-    {
-        "title": "AI21 Labs Jamba-Instruct model is now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai21-labs-jamba-instruct-model-is-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "Scale and simplify ML workload monitoring on Amazon EKS with AWS Neuron Monitor container",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scale-and-simplify-ml-workload-monitoring-on-amazon-eks-with-aws-neuron-monitor-container/"
-    },
-    {
-        "title": "Build an automated insight extraction framework for customer feedback analysis with Amazon Bedrock and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-automated-insight-extraction-framework-for-customer-feedback-analysis-with-amazon-bedrock-and-amazon-quicksight/"
     }
 ]

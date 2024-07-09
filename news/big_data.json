@@ -1,5 +1,17 @@
 [
     {
+        "title": "How EchoStar ingests terabytes of data daily across its 5G Open RAN network in near real-time using Amazon Redshift Serverless Streaming Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/how-echostar-ingests-terabytes-of-data-daily-across-its-5g-open-ran-network-in-near-real-time-using-amazon-redshift-serverless-streaming-ingestion/"
+    },
+    {
+        "title": "Amazon DataZone introduces OpenLineage-compatible data lineage visualization in preview",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-introduces-openlineage-compatible-data-lineage-visualization-in-preview/"
+    },
+    {
+        "title": "Amazon Managed Service for Apache Flink now supports Apache Flink version 1.19",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-now-supports-apache-flink-version-1-19/"
+    },
+    {
         "title": "Enhance data security with fine-grained access controls in Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-data-security-with-fine-grained-access-controls-in-amazon-datazone/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing AWS Glue usage profiles for flexible cost control",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-usage-profiles-for-flexible-cost-control/"
-    },
-    {
-        "title": "Disaster recovery strategies for Amazon MWAA \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/disaster-recovery-strategies-for-amazon-mwaa-part-2/"
-    },
-    {
-        "title": "Ingest and analyze your data using Amazon OpenSearch Service with Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/ingest-and-analyze-your-data-using-amazon-opensearch-service-with-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "How Swisscom automated Amazon Redshift as part of their One Data Platform solution using AWS CDK \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/how-swisscom-automated-amazon-redshift-as-part-of-their-one-data-platform-solution-using-aws-cdk-part-2/"
     }
 ]

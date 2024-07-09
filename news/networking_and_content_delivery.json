@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for deployment with AWS Global Accelerator",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-for-deployment-with-aws-global-accelerator/"
+    },
+    {
         "title": "Introducing dual-stack without public IPv4 Application Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-dual-stack-without-public-ipv4-application-load-balancer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using latency-based routing with Amazon CloudFront for a multi-Region active-active architecture",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/latency-based-routing-leveraging-amazon-cloudfront-for-a-multi-region-active-active-architecture/"
-    },
-    {
-        "title": "AWS Client VPN and AWS Verified Access migration and interoperability patterns",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-client-vpn-and-aws-verified-access-migration-and-interoperability-patterns/"
     }
 ]

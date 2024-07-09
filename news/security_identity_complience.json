@@ -1,5 +1,13 @@
 [
     {
+        "title": "Context window overflow: Breaking the barrier",
+        "link": "https://aws.amazon.com/blogs/security/context-window-overflow-breaking-the-barrier/"
+    },
+    {
+        "title": "Centrally manage VPC network ACL rules to block unwanted traffic using AWS Firewall Manager",
+        "link": "https://aws.amazon.com/blogs/security/centrally-manage-vpc-network-acl-rules-to-block-unwanted-traffic-using-aws-firewall-manager/"
+    },
+    {
         "title": "Announcing initial services available in the AWS European Sovereign Cloud, backed by the full power of AWS",
         "link": "https://aws.amazon.com/blogs/security/announcing-initial-services-available-in-the-aws-european-sovereign-cloud-backed-by-the-full-power-of-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Navigating the threat detection and incident response track at re:Inforce 2024",
         "link": "https://aws.amazon.com/blogs/security/navigating-the-threat-detection-and-incident-response-track-at-reinforce-2024/"
-    },
-    {
-        "title": "Spring 2024 SOC reports now available with 177 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/spring-2024-soc-reports-now-available-with-177-services-in-scope/"
-    },
-    {
-        "title": "How to implement single-user secret rotation using Amazon RDS admin credentials",
-        "link": "https://aws.amazon.com/blogs/security/how-to-implement-single-user-secret-rotation-using-amazon-rds-admin-credentials/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bring Amazon S3 closer to the edge with Nasuni",
+        "link": "https://aws.amazon.com/blogs/storage/bring-amazon-s3-closer-to-the-edge-with-nasuni/"
+    },
+    {
         "title": "How London Stock Exchange Group migrated 30 PB of market data using AWS DataSync",
         "link": "https://aws.amazon.com/blogs/storage/how-london-stock-exchange-group-migrated-30-pb-of-market-data-using-aws-datasync/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Common Securitization Solutions built resiliency while optimizing costs with AWS PrivateLink and Amazon S3 Replication",
         "link": "https://aws.amazon.com/blogs/storage/how-common-securitization-solutions-built-resiliency-while-optimizing-costs-with-aws-privatelink-and-amazon-s3-same-region-replication/"
-    },
-    {
-        "title": "Evaluating public and cross account access at scale with IAM Access Analyzer for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/evaluating-public-and-cross-account-access-at-scale-with-iam-access-analyzer-for-amazon-s3/"
     }
 ]

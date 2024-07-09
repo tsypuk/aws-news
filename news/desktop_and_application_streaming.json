@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure access to Amazon QuickSight with Amazon WorkSpaces Secure Browser",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/secure-access-to-amazon-quicksight-with-amazon-workspaces-secure-browser/"
+    },
+    {
         "title": "Key considerations for single versus multi-session fleets on Amazon AppStream 2.0",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/key-considerations-for-single-versus-multi-session-fleets-on-amazon-appstream-2-0/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Connect Amazon FSx for NetApp ONTAP to Amazon AppStream 2.0 Linux instances",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/connect-amazon-fsx-for-netapp-ontap-to-amazon-appstream-2-0-linux-instances/"
-    },
-    {
-        "title": "Build a serverless session resolver for your NICE DCV Connection Gateway",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/build-a-serverless-session-resolver-for-your-nice-dcv-connection-gateway/"
     }
 ]
