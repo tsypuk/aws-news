@@ -1,5 +1,17 @@
 [
     {
+        "title": "Achieve up to ~2x higher throughput while reducing costs by up to ~50% for generative AI inference on Amazon SageMaker with the new inference optimization toolkit \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-up-to-2x-higher-throughput-while-reducing-costs-by-up-to-50-for-generative-ai-inference-on-amazon-sagemaker-with-the-new-inference-optimization-toolkit-part-2/"
+    },
+    {
+        "title": "Achieve up to ~2x higher throughput while reducing costs by ~50% for generative AI inference on Amazon SageMaker with the new inference optimization toolkit \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-up-to-2x-higher-throughput-while-reducing-costs-by-50-for-generative-ai-inference-on-amazon-sagemaker-with-the-new-inference-optimization-toolkit-part-1/"
+    },
+    {
+        "title": "Anthropic Claude 3.5 Sonnet ranks number 1 for business and finance in S&P AI Benchmarks by Kensho",
+        "link": "https://aws.amazon.com/blogs/machine-learning/anthropic-claude-3-5-sonnet-ranks-number-1-for-business-and-finance-in-sp-ai-benchmarks-by-kensho/"
+    },
+    {
         "title": "The Weather Company enhances MLOps with Amazon SageMaker, AWS CloudFormation, and Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/machine-learning/the-weather-company-enhances-mlops-with-amazon-sagemaker-aws-cloudformation-and-amazon-cloudwatch/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build generative AI applications on Amazon Bedrock \u2014 the secure, compliant, and responsible foundation",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-on-amazon-bedrock-the-secure-compliant-and-responsible-foundation/"
-    },
-    {
-        "title": "Build a conversational chatbot using different LLMs within single interface \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-chatbot-using-different-llms-within-single-interface-part-1/"
-    },
-    {
-        "title": "Automate derivative confirms processing using AWS AI services for the capital markets industry",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-derivative-confirms-processing-using-aws-ai-services-for-the-capital-markets-industry/"
-    },
-    {
-        "title": "AI-powered assistants for investment research with multi-modal data: An application of Agents for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-assistants-for-investment-research-with-multi-modal-data-an-application-of-agents-for-amazon-bedrock/"
     }
 ]

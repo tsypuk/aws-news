@@ -1,5 +1,21 @@
 [
     {
+        "title": "Using Permissions to Unlock Resilience with AWS Resilience Hub",
+        "link": "https://aws.amazon.com/blogs/mt/using-permissions-to-unlock-resilience-with-aws-resilience-hub/"
+    },
+    {
+        "title": "Understanding AWS High Availability and Replication for vSphere Administrators",
+        "link": "https://aws.amazon.com/blogs/mt/understanding-aws-high-availability-and-replication-for-vsphere-administrators/"
+    },
+    {
+        "title": "Configuring machine to machine Authentication with Amazon Cognito and Amazon API Gateway \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/mt/configuring-machine-to-machine-authentication-with-amazon-cognito-and-amazon-api-gateway-part-2/"
+    },
+    {
+        "title": "Configuring machine to machine Authentication with Amazon Cognito and Amazon API Gateway \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/mt/configuring-machine-to-machine-authentication-with-amazon-cognito-and-amazon-api-gateway-part-1/"
+    },
+    {
         "title": "Empowering Manufacturing Innovation: How AI & GenAI Centers of Excellence can drive Modernization",
         "link": "https://aws.amazon.com/blogs/mt/empowering-manufacturing-innovation-how-ai-genai-centers-of-excellence-can-drive-modernization/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Enabling Self Service for Cloud Custodian policies on AWS using AWS Service Catalog",
         "link": "https://aws.amazon.com/blogs/mt/enabling-self-service-for-cloud-custodian-policies-on-aws-using-aws-service-catalog/"
-    },
-    {
-        "title": "Enhancing observability with a managed monitoring solution for Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/mt/enhancing-observability-with-a-managed-monitoring-solution-for-amazon-eks/"
-    },
-    {
-        "title": "Solving License Management Challenges during Mergers & Acquisitions with AWS License Manager",
-        "link": "https://aws.amazon.com/blogs/mt/solving-license-management-challenges-during-mergers-acquisitions-with-aws-license-manager/"
-    },
-    {
-        "title": "Best practices to optimize costs after mergers and acquisitions with AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/mt/best-practices-to-optimize-costs-after-mergers-and-acquisitions-with-aws-organizations/"
-    },
-    {
-        "title": "Auditing generative AI workloads with AWS CloudTrail",
-        "link": "https://aws.amazon.com/blogs/mt/auditing-generative-ai-workloads-with-aws-cloudtrail/"
     }
 ]

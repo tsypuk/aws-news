@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate file workload performance with second-generation Amazon FSx for NetApp ONTAP file systems",
+        "link": "https://aws.amazon.com/blogs/storage/accelerate-file-workload-performance-with-second-generation-amazon-fsx-for-netapp-ontap-file-systems/"
+    },
+    {
+        "title": "Back up your Microsoft 365 estate with Veeam and Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/back-up-your-microsoft-365-estate-with-veeam-and-amazon-s3/"
+    },
+    {
         "title": "Bring Amazon S3 closer to the edge with Nasuni",
         "link": "https://aws.amazon.com/blogs/storage/bring-amazon-s3-closer-to-the-edge-with-nasuni/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Faster restores on Veeam using Amazon S3 Glacier Flexible Retrieval and S3 Batch Operations",
         "link": "https://aws.amazon.com/blogs/storage/faster-restores-on-veeam-using-amazon-s3-glacier-flexible-retrieval-and-s3-batch-operations/"
-    },
-    {
-        "title": "Optimizing enterprise MLOps in the cloud with Domino Data Lab and Amazon Elastic File System",
-        "link": "https://aws.amazon.com/blogs/storage/responsible-enterprise-ai-across-the-hybrid-cloud-with-domino-and-aws/"
-    },
-    {
-        "title": "How Common Securitization Solutions built resiliency while optimizing costs with AWS PrivateLink and Amazon S3 Replication",
-        "link": "https://aws.amazon.com/blogs/storage/how-common-securitization-solutions-built-resiliency-while-optimizing-costs-with-aws-privatelink-and-amazon-s3-same-region-replication/"
     }
 ]
