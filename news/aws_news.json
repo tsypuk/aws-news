@@ -1,5 +1,37 @@
 [
     {
+        "title": "Vector search for Amazon MemoryDB is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/vector-search-for-amazon-memorydb-is-now-generally-available/"
+    },
+    {
+        "title": "Build enterprise-grade applications with natural language using AWS App Studio (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/"
+    },
+    {
+        "title": "Amazon Q Apps, now generally available, enables users to build their own generative AI apps",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-q-apps-now-generally-available-enables-users-to-build-their-own-generative-ai-apps/"
+    },
+    {
+        "title": "Customize Amazon Q Developer (in your IDE) with your private code base",
+        "link": "https://aws.amazon.com/blogs/aws/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/"
+    },
+    {
+        "title": "Agents for Amazon Bedrock now support memory retention and code interpretation (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-now-support-memory-retention-and-code-interpretation-preview/"
+    },
+    {
+        "title": "Guardrails for Amazon Bedrock can now detect hallucinations and safeguard apps built using custom or third-party FMs",
+        "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-can-now-detect-hallucinations-and-safeguard-apps-built-using-custom-or-third-party-fms/"
+    },
+    {
+        "title": "Knowledge Bases for Amazon Bedrock now supports additional data connectors (in preview)",
+        "link": "https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-additional-data-connectors-in-preview/"
+    },
+    {
+        "title": "Introducing Amazon Q Developer in SageMaker Studio to streamline ML workflows",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-q-developer-in-sagemaker-studio-to-streamline-ml-workflows/"
+    },
+    {
         "title": "Monitor data events in Amazon S3 Express One Zone with AWS CloudTrail",
         "link": "https://aws.amazon.com/blogs/aws/monitor-data-events-in-amazon-s3-express-one-zone-with-aws-cloudtrail/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "AWS CodeArtifact adds support for Rust packages with Cargo",
         "link": "https://aws.amazon.com/blogs/aws/aws-codeartifact-adds-support-for-rust-packages-with-cargo/"
-    },
-    {
-        "title": "Anthropic\u2019s Claude 3.5 Sonnet model now available in Amazon Bedrock: Even more intelligence than Claude 3 Opus at one-fifth the cost",
-        "link": "https://aws.amazon.com/blogs/aws/anthropics-claude-3-5-sonnet-model-now-available-in-amazon-bedrock-the-most-intelligent-claude-model-yet/"
-    },
-    {
-        "title": "Announcing the general availability of fully managed MLflow on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/aws/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Passkey MFA, Malware Protection on Amazon S3, and more (June 17, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-passkey-mfa-malware-protection-on-amazon-s3-and-more-june-17-2024/"
-    },
-    {
-        "title": "In the Works \u2013 AWS Region in Taiwan",
-        "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-taiwan/"
-    },
-    {
-        "title": "AWS Audit Manager extends generative AI best practices framework to Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/aws/aws-audit-manager-extends-generative-ai-best-practices-framework-to-amazon-sagemaker/"
-    },
-    {
-        "title": "Simplify AWS CloudTrail log analysis with natural language query generation in CloudTrail Lake (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/simplify-aws-cloudtrail-log-analysis-with-natural-language-query-generation-in-cloudtrail-lake-preview/"
-    },
-    {
-        "title": "Introducing Amazon GuardDuty Malware Protection for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-malware-protection-for-amazon-s3/"
-    },
-    {
-        "title": "IAM Access Analyzer Update: Extending custom policy checks & guided revocation",
-        "link": "https://aws.amazon.com/blogs/aws/iam-access-analyzer-update-extending-custom-policy-checks-guided-revocation/"
     }
 ]

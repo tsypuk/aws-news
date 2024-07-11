@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS achieves third-party attestation of conformance with the Secure Software Development Framework (SSDF)",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-third-party-attestation-of-conformance-with-the-secure-software-development-framework-ssdf/"
+    },
+    {
         "title": "Strategies for achieving least privilege at scale \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/security/strategies-for-achieving-least-privilege-at-scale-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Establishing a data perimeter on AWS: Analyze your account activity to evaluate impact and refine controls",
         "link": "https://aws.amazon.com/blogs/security/establishing-a-data-perimeter-on-aws-analyze-your-account-activity-to-evaluate-impact-and-refine-controls/"
-    },
-    {
-        "title": "AWS completes the 2024 Cyber Essentials Plus certification",
-        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2024-cyber-essentials-plus-certification/"
     }
 ]

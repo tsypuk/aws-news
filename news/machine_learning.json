@@ -1,5 +1,25 @@
 [
     {
+        "title": "Knowledge Bases for Amazon Bedrock now supports advanced parsing, chunking, and query reformulation giving greater control of accuracy in RAG based applications",
+        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/"
+    },
+    {
+        "title": "Streamline generative AI development in Amazon Bedrock with Prompt Management and Prompt Flows (preview)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-generative-ai-development-in-amazon-bedrock-with-prompt-management-and-prompt-flows-preview/"
+    },
+    {
+        "title": "Empowering everyone with GenAI to rapidly build, customize, and deploy apps securely: Highlights from the AWS New York Summit",
+        "link": "https://aws.amazon.com/blogs/machine-learning/empowering-everyone-with-genai-to-rapidly-build-customize-and-deploy-apps-securely-highlights-from-the-aws-new-york-summit/"
+    },
+    {
+        "title": "A progress update on our commitment to safe, responsible generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/a-progress-update-on-our-commitment-to-safe-responsible-generative-ai/"
+    },
+    {
+        "title": "Fine-tune Anthropic\u2019s Claude 3 Haiku in Amazon Bedrock to boost model accuracy and quality",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-anthropics-claude-3-haiku-in-amazon-bedrock-to-boost-model-accuracy-and-quality/"
+    },
+    {
         "title": "Achieve up to ~2x higher throughput while reducing costs by up to ~50% for generative AI inference on Amazon SageMaker with the new inference optimization toolkit \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/machine-learning/achieve-up-to-2x-higher-throughput-while-reducing-costs-by-up-to-50-for-generative-ai-inference-on-amazon-sagemaker-with-the-new-inference-optimization-toolkit-part-2/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Create an end-to-end serverless digital assistant for semantic search with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-an-end-to-end-serverless-digital-assistant-for-semantic-search-with-amazon-bedrock/"
-    },
-    {
-        "title": "Build a self-service digital assistant using Amazon Lex and Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-self-service-digital-assistant-using-amazon-lex-and-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Identify idle endpoints in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/identify-idle-endpoints-in-amazon-sagemaker/"
-    },
-    {
-        "title": "Indian language RAG with Cohere multilingual embeddings and Anthropic Claude 3 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/indian-language-rag-with-cohere-multilingual-embeddings-and-anthropic-claude-3-on-amazon-bedrock/"
-    },
-    {
-        "title": "The future of productivity agents with NinjaTech AI and AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-productivity-agents-with-ninjatech-ai-and-aws-trainium/"
-    },
-    {
-        "title": "Build generative AI applications on Amazon Bedrock \u2014 the secure, compliant, and responsible foundation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-on-amazon-bedrock-the-secure-compliant-and-responsible-foundation/"
     }
 ]

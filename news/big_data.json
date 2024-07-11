@@ -1,5 +1,9 @@
 [
     {
+        "title": "Author data integration jobs with an interactive data preparation experience with AWS Glue visual ETL",
+        "link": "https://aws.amazon.com/blogs/big-data/author-data-integration-jobs-with-an-interactive-data-preparation-experience-with-aws-glue-visual-etl/"
+    },
+    {
         "title": "Accelerate query performance with Apache Iceberg statistics on the AWS Glue Data Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-query-performance-with-apache-iceberg-statistics-on-the-aws-glue-data-catalog/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Run Apache Spark 3.5.1 workloads 4.5 times faster with Amazon EMR runtime for Apache Spark",
         "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-3-5-1-workloads-4-5-times-faster-with-amazon-emr-runtime-for-apache-spark/"
-    },
-    {
-        "title": "Stream multi-tenant data with Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/stream-multi-tenant-data-with-amazon-msk/"
     }
 ]

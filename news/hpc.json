@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running FSI workloads on AWS with YellowDog",
+        "link": "https://aws.amazon.com/blogs/hpc/running-fsi-workloads-on-aws-with-yellowdog/"
+    },
+    {
         "title": "Improve HPC workloads on AWS for environmental sustainability",
         "link": "https://aws.amazon.com/blogs/hpc/improve-hpc-workloads-on-aws-for-environmental-sustainability/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing MPI application performance on hpc7a by effectively using both EFA devices",
         "link": "https://aws.amazon.com/blogs/hpc/optimizing-mpi-application-performance-on-hpc7a-by-effectively-using-both-efa-devices/"
-    },
-    {
-        "title": "Build and deploy a 1 TB/s file system in under an hour",
-        "link": "https://aws.amazon.com/blogs/hpc/build-and-deploy-a-1-tb-s-file-system-in-under-an-hour/"
     }
 ]
