@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize data validation using AWS DMS validation-only tasks",
+        "link": "https://aws.amazon.com/blogs/database/optimize-data-validation-using-aws-dms-validation-only-tasks/"
+    },
+    {
+        "title": "Build secure multi-party computation (MPC) wallets using AWS Nitro Enclaves",
+        "link": "https://aws.amazon.com/blogs/database/build-secure-multi-party-computation-mpc-wallets-using-aws-nitro-enclaves/"
+    },
+    {
         "title": "Migrate from SAP ASE to SAP ASE on Amazon EC2 using AWS DMS and SAP ASE native methods",
         "link": "https://aws.amazon.com/blogs/database/migrate-from-sap-ase-to-sap-ase-on-amazon-ec2-using-aws-dms-and-sap-ase-native-methods/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Perform a two-step database migration from an on-premises Oracle database to Amazon RDS for Oracle using RMAN",
         "link": "https://aws.amazon.com/blogs/database/perform-a-two-step-database-migration-from-an-on-premises-oracle-database-to-amazon-rds-for-oracle-using-rman/"
-    },
-    {
-        "title": "How Scopely scaled \u201cMONOPOLY GO!\u201d for millions of players around the globe with Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/how-scopely-scaled-monopoly-go-for-millions-of-players-around-the-globe-with-amazon-dynamodb/"
-    },
-    {
-        "title": "Use Spring Cloud to capture Amazon DynamoDB changes through Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/database/use-spring-cloud-to-capture-amazon-dynamodb-changes-through-amazon-kinesis-data-streams/"
     }
 ]

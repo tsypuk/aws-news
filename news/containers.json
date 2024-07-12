@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing software version consistency for Amazon ECS services",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-software-version-consistency-for-amazon-ecs-services/"
+    },
+    {
         "title": "Patterns for TargetGroupBinding with AWS Load Balancer Controller",
         "link": "https://aws.amazon.com/blogs/containers/patterns-for-targetgroupbinding-with-aws-load-balancer-controller/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Windows Containers on AWS Fargate: Launch time improvements",
         "link": "https://aws.amazon.com/blogs/containers/windows-containers-on-aws-fargate-launch-time-improvements/"
-    },
-    {
-        "title": "Use Ansible to bootstrap external container instances with Amazon ECS Anywhere",
-        "link": "https://aws.amazon.com/blogs/containers/use-ansible-to-bootstrap-external-container-instances-with-amazon-ecs-anywhere/"
     }
 ]

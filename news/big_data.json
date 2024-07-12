@@ -1,5 +1,13 @@
 [
     {
+        "title": "Protein similarity search using ProtT5-XL-UniRef50 and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/protein-similarity-search-using-prott5-xl-uniref50-and-amazon-opensearch-service/"
+    },
+    {
+        "title": "Improve your Amazon OpenSearch Service performance with OpenSearch Optimized Instances",
+        "link": "https://aws.amazon.com/blogs/big-data/improve-your-amazon-opensearch-service-performance-with-opensearch-optimized-instances/"
+    },
+    {
         "title": "Author data integration jobs with an interactive data preparation experience with AWS Glue visual ETL",
         "link": "https://aws.amazon.com/blogs/big-data/author-data-integration-jobs-with-an-interactive-data-preparation-experience-with-aws-glue-visual-etl/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Uncover social media insights in real time using Amazon Managed Service for Apache Flink and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/big-data/uncover-social-media-insights-in-real-time-using-amazon-managed-service-for-apache-flink-and-amazon-bedrock/"
-    },
-    {
-        "title": "Configure a custom domain name for your Amazon MSK cluster",
-        "link": "https://aws.amazon.com/blogs/big-data/configure-a-custom-domain-name-for-your-amazon-msk-cluster/"
-    },
-    {
-        "title": "Run Apache Spark 3.5.1 workloads 4.5 times faster with Amazon EMR runtime for Apache Spark",
-        "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-3-5-1-workloads-4-5-times-faster-with-amazon-emr-runtime-for-apache-spark/"
     }
 ]

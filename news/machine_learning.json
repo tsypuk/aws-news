@@ -1,5 +1,25 @@
 [
     {
+        "title": "Using Agents for Amazon Bedrock to interactively generate infrastructure as code",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-agents-for-amazon-bedrock-to-interactively-generate-infrastructure-as-code/"
+    },
+    {
+        "title": "Improve RAG accuracy with fine-tuned embedding models on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-rag-accuracy-with-fine-tuned-embedding-models-on-amazon-sagemaker/"
+    },
+    {
+        "title": "How BRIA AI used distributed training in Amazon SageMaker to train latent diffusion foundation models for commercial use",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-bria-ai-used-distributed-training-in-amazon-sagemaker-to-train-latent-diffusion-foundation-models-for-commercial-use/"
+    },
+    {
+        "title": "Create custom images for geospatial analysis with Amazon SageMaker Distribution in Amazon SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-custom-images-for-geospatial-analysis-with-amazon-sagemaker-distribution-in-amazon-sagemaker-studio/"
+    },
+    {
+        "title": "Automating model customization in Amazon Bedrock with AWS Step Functions workflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automating-model-customization-in-amazon-bedrock-with-aws-step-functions-workflow/"
+    },
+    {
         "title": "Knowledge Bases for Amazon Bedrock now supports advanced parsing, chunking, and query reformulation giving greater control of accuracy in RAG based applications",
         "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Prompt engineering techniques and best practices: Learn by doing with Anthropic\u2019s Claude 3 on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-techniques-and-best-practices-learn-by-doing-with-anthropics-claude-3-on-amazon-bedrock/"
-    },
-    {
-        "title": "Improve productivity when processing scanned PDFs using Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-productivity-when-processing-scanned-pdfs-using-amazon-q-business/"
-    },
-    {
-        "title": "Accelerated PyTorch inference with torch.compile on AWS Graviton processors",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerated-pytorch-inference-with-torch-compile-on-aws-graviton-processors/"
-    },
-    {
-        "title": "Access control for vector stores using metadata filtering with Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/access-control-for-vector-stores-using-metadata-filtering-with-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Accenture creates a custom memory-persistent conversational user experience using Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accenture-creates-a-custom-memory-persistent-conversational-user-experience-using-amazon-q-business/"
-    },
-    {
-        "title": "Create an end-to-end serverless digital assistant for semantic search with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-an-end-to-end-serverless-digital-assistant-for-semantic-search-with-amazon-bedrock/"
     }
 ]
