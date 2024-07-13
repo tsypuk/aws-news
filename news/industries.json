@@ -1,5 +1,13 @@
 [
     {
+        "title": "Bayer Improves Patient Safety through an AI-Powered Adverse Event Detection System Using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/industries/bayer-improves-patient-safety-through-an-ai-powered-adverse-event-detection-system-using-amazon-sagemaker/"
+    },
+    {
+        "title": "Applying the Well-Architected Financial Services Industry Lens",
+        "link": "https://aws.amazon.com/blogs/industries/applying-the-well-architected-financial-services-industry-lens/"
+    },
+    {
         "title": "Empowering analysts to perform financial statement analysis, hypothesis testing, and cause-effect analysis with Amazon Bedrock and prompt engineering",
         "link": "https://aws.amazon.com/blogs/industries/empowering-analysts-to-perform-financial-statement-analysis-hypothesis-testing-and-cause-effect-analysis-with-amazon-bedrock-and-prompt-engineering/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Reducing manufacturing machine downtime using intelligent document processing on AWS",
         "link": "https://aws.amazon.com/blogs/industries/reducing-manufacturing-machine-downtime-using-intelligent-document-processing-on-aws/"
-    },
-    {
-        "title": "Real-time Analytics on Patient Bedside Medical Devices",
-        "link": "https://aws.amazon.com/blogs/industries/real-time-analytics-on-patient-bedside-medical-devices/"
-    },
-    {
-        "title": "Rapidly experimenting with Catena-X data space technology on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/rapidly-experimenting-with-catena-x-data-space-technology-on-aws/"
     }
 ]

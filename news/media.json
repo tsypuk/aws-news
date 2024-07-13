@@ -1,5 +1,9 @@
 [
     {
+        "title": "Assess secure Windows Servers for TCO analysis using Migration Evaluator",
+        "link": "https://aws.amazon.com/blogs/mt/assess-secure-windows-servers-for-tco-analysis-using-migration-evaluator/"
+    },
+    {
         "title": "Centralize observability with Amazon Managed Grafana Enterprise plugins",
         "link": "https://aws.amazon.com/blogs/mt/centralize-observability-with-amazon-managed-grafana-enterprise-plugins/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve application reliability with effective SLOs",
         "link": "https://aws.amazon.com/blogs/mt/improve-application-reliability-with-effective-slos/"
-    },
-    {
-        "title": "How to engage application teams during a cloud migration",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-engage-application-teams-during-a-cloud-migration/"
     }
 ]

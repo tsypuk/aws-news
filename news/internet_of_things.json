@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlocking Scalable IoT Analytics on AWS",
+        "link": "https://aws.amazon.com/blogs/iot/unlocking-scalable-iot-analytics-on-aws/"
+    },
+    {
         "title": "Building Track and Trace applications using AWS IoT Core for Amazon Sidewalk",
         "link": "https://aws.amazon.com/blogs/iot/building-track-and-trace-applications-using-aws-iot-core-for-amazon-sidewalk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securely sending industrial data to AWS IoT services using unidirectional gateways",
         "link": "https://aws.amazon.com/blogs/iot/securely-sending-industrial-data-to-aws-iot-services-using-unidirectional-gateways/"
-    },
-    {
-        "title": "Common architecture patterns to securely connect IoT devices to AWS using private networks",
-        "link": "https://aws.amazon.com/blogs/iot/common-architecture-patterns-to-securely-connect-iot-devices-to-aws-using-private-networks/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Synopsis of several compelling features in PostgreSQL 16",
+        "link": "https://aws.amazon.com/blogs/database/synopsis-of-several-compelling-features-in-postgresql-16/"
+    },
+    {
         "title": "Optimize data validation using AWS DMS validation-only tasks",
         "link": "https://aws.amazon.com/blogs/database/optimize-data-validation-using-aws-dms-validation-only-tasks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How PayU uses Amazon Keyspaces (for Apache Cassandra) as a feature store",
         "link": "https://aws.amazon.com/blogs/database/how-payu-uses-amazon-keyspaces-for-apache-cassandra-as-a-feature-store/"
-    },
-    {
-        "title": "Perform a two-step database migration from an on-premises Oracle database to Amazon RDS for Oracle using RMAN",
-        "link": "https://aws.amazon.com/blogs/database/perform-a-two-step-database-migration-from-an-on-premises-oracle-database-to-amazon-rds-for-oracle-using-rman/"
     }
 ]
