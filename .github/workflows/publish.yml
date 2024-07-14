@@ -2,7 +2,7 @@ name: Nightly Job
 
 on:
   schedule:
-    - cron: '0 * * * *' # This will run every night at midnight UTC
+    - cron: '0 0 * * *' # This will run every night at midnight UTC
 #    - cron: '*/10 * * * *' # testing schedule
 
 jobs:
@@ -28,5 +28,6 @@ jobs:
           git config user.name Roman Tsypuk
           git config user.email tsypuk.conf@gmail.com
           git add .
-          git commit -m "chore(rss): crawl and add new content"
+          DATE=$(date +'%Y-%m-%d')
+          git commit -m "chore(rss): updated AWS news - $DATE"
           git push
