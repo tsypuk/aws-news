@@ -1,5 +1,9 @@
 [
     {
+        "title": "Event Driven Architecture using Amazon EventBridge \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/mt/event-driven-architecture-using-amazon-eventbridge-part-2/"
+    },
+    {
         "title": "Assess secure Windows Servers for TCO analysis using Migration Evaluator",
         "link": "https://aws.amazon.com/blogs/mt/assess-secure-windows-servers-for-tco-analysis-using-migration-evaluator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Testing Amazon Cognito backed APIs using Amazon CloudWatch Synthetics",
         "link": "https://aws.amazon.com/blogs/mt/testing-amazon-cognito-backed-apis-using-amazon-cloudwatch-synthetics/"
-    },
-    {
-        "title": "Improve application reliability with effective SLOs",
-        "link": "https://aws.amazon.com/blogs/mt/improve-application-reliability-with-effective-slos/"
     }
 ]

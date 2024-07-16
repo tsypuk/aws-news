@@ -1,5 +1,9 @@
 [
     {
+        "title": "Key considerations when choosing a database for your generative AI applications",
+        "link": "https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/"
+    },
+    {
         "title": "Synopsis of several compelling features in PostgreSQL 16",
         "link": "https://aws.amazon.com/blogs/database/synopsis-of-several-compelling-features-in-postgresql-16/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate cross-account backup of Amazon RDS for Oracle including database parameter groups, option groups and security groups",
         "link": "https://aws.amazon.com/blogs/database/automate-cross-account-backup-of-amazon-rds-for-oracle-including-database-parameter-groups-option-groups-and-security-groups/"
-    },
-    {
-        "title": "How PayU uses Amazon Keyspaces (for Apache Cassandra) as a feature store",
-        "link": "https://aws.amazon.com/blogs/database/how-payu-uses-amazon-keyspaces-for-apache-cassandra-as-a-feature-store/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Patterns for consuming custom log sources in Amazon Security Lake",
+        "link": "https://aws.amazon.com/blogs/security/patterns-for-consuming-custom-log-sources-in-amazon-security-lake/"
+    },
+    {
+        "title": "AWS renews TISAX certification (Information with Very High Protection Needs (AL3)) across 19 regions",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-tisax-certification-information-with-very-high-protection-needs-al3-2/"
+    },
+    {
         "title": "AWS achieves third-party attestation of conformance with the Secure Software Development Framework (SSDF)",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-third-party-attestation-of-conformance-with-the-secure-software-development-framework-ssdf/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Application Security at re:Inforce 2024",
         "link": "https://aws.amazon.com/blogs/security/application-security-at-reinforce-2024/"
-    },
-    {
-        "title": "How to issue use-case bound certificates with AWS Private CA",
-        "link": "https://aws.amazon.com/blogs/security/how-to-issue-use-case-bound-certificates-with-aws-private-ca/"
-    },
-    {
-        "title": "Establishing a data perimeter on AWS: Analyze your account activity to evaluate impact and refine controls",
-        "link": "https://aws.amazon.com/blogs/security/establishing-a-data-perimeter-on-aws-analyze-your-account-activity-to-evaluate-impact-and-refine-controls/"
     }
 ]
