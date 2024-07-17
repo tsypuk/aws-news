@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Zurich Insurance Group built a log management solution on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/how-zurich-insurance-group-built-a-log-management-solution-on-aws/"
+    },
+    {
         "title": "How PostNL processes billions of IoT events with Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/how-postnl-processes-billions-of-iot-events-with-amazon-managed-service-for-apache-flink/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Access Amazon Redshift data from Salesforce Data Cloud with Zero Copy Data Federation",
         "link": "https://aws.amazon.com/blogs/big-data/access-amazon-redshift-data-from-salesforce-data-cloud-with-zero-copy-data-federation/"
-    },
-    {
-        "title": "Perform reindexing in Amazon OpenSearch Serverless using Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/perform-reindexing-in-amazon-opensearch-serverless-using-amazon-opensearch-ingestion/"
     }
 ]

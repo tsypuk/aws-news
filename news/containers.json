@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating development feedback loops with AWS CDK hotswap deployments for Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/containers/accelerating-development-feedback-loops-with-aws-cdk-hotswap-deployments-for-amazon-ecs/"
+    },
+    {
         "title": "Announcing software version consistency for Amazon ECS services",
         "link": "https://aws.amazon.com/blogs/containers/announcing-software-version-consistency-for-amazon-ecs-services/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Mobileye: Revolutionizing HD map creation for autonomous vehicles with Spark on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/mobileye-revolutionizing-hd-map-creation-for-autonomous-vehicles-with-spark-on-amazon-eks/"
-    },
-    {
-        "title": "Windows Containers on AWS Fargate: Launch time improvements",
-        "link": "https://aws.amazon.com/blogs/containers/windows-containers-on-aws-fargate-launch-time-improvements/"
     }
 ]

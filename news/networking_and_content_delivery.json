@@ -1,5 +1,13 @@
 [
     {
+        "title": "Preserving client IP address with Proxy protocol v2 and Network Load Balancer",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/preserving-client-ip-address-with-proxy-protocol-v2-and-network-load-balancer/"
+    },
+    {
+        "title": "Private network for data movement in generative AI",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/private-network-for-data-movement-in-generative-ai/"
+    },
+    {
         "title": "How to identify website performance bottlenecks by measuring time to first byte latency and using Server-Timing header",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-identify-website-performance-bottlenecks-by-measuring-time-to-first-byte-latency-and-using-server-timing-header/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to share IP address ranges across accounts with AWS Global Accelerator",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-share-ip-address-ranges-across-accounts-with-aws-global-accelerator/"
-    },
-    {
-        "title": "Scaling strategies for Elastic Load Balancing",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-strategies-for-elastic-load-balancing/"
-    },
-    {
-        "title": "Using Amazon Route 53 Profiles for scalable multi-account AWS environments",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-amazon-route-53-profiles-for-scalable-multi-account-aws-environments/"
     }
 ]

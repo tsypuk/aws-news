@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to synchronize AWS IoT SiteWise assets and data across AWS accounts",
+        "link": "https://aws.amazon.com/blogs/iot/how-to-synchronize-aws-iot-sitewise-assets-and-data-across-aws-accounts/"
+    },
+    {
+        "title": "Delivering an integrated approach to safety: How AWS workforce safety solutions make work safer",
+        "link": "https://aws.amazon.com/blogs/iot/delivering-an-integrated-approach-to-safety-how-aws-workforce-safety-solutions-make-work-safer/"
+    },
+    {
         "title": "How Volta Trucks built a connected vehicle platform using AWS IoT FleetWise",
         "link": "https://aws.amazon.com/blogs/iot/how-volta-trucks-built-a-connected-vehicle-platform-using-aws-iot-fleetwise/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build a Cloud Gateway to Ingest RTSP video to Amazon Kinesis Video Streams",
         "link": "https://aws.amazon.com/blogs/iot/build-a-cloud-gateway-to-ingest-rtsp-video-to-amazon-kinesis-video-streams/"
-    },
-    {
-        "title": "AWS IoT Core now supports private certificate authorities with fleet provisioning",
-        "link": "https://aws.amazon.com/blogs/iot/aws-iot-core-private-certificate-authorities-with-fleet-provisioning/"
-    },
-    {
-        "title": "Device onboarding to AWS IoT using Virtual Private Cloud endpoints",
-        "link": "https://aws.amazon.com/blogs/iot/device-onboarding-to-aws-iot-using-virtual-private-cloud-endpoints/"
     }
 ]

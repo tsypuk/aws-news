@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating Amazon FSx for NetApp ONTAP password rotation with AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/storage/automating-amazon-fsx-for-netapp-ontap-password-rotation-with-aws-lambda/"
+    },
+    {
         "title": "Accelerate file workload performance with second-generation Amazon FSx for NetApp ONTAP file systems",
         "link": "https://aws.amazon.com/blogs/storage/accelerate-file-workload-performance-with-second-generation-amazon-fsx-for-netapp-ontap-file-systems/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Achieve zero RPO for your SAP ASE (Sybase) databases with Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/achieve-zero-rpo-for-your-sap-ase-sybase-databases-with-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Faster restores on Veeam using Amazon S3 Glacier Flexible Retrieval and S3 Batch Operations",
-        "link": "https://aws.amazon.com/blogs/storage/faster-restores-on-veeam-using-amazon-s3-glacier-flexible-retrieval-and-s3-batch-operations/"
     }
 ]

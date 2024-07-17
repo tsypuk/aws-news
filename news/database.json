@@ -1,5 +1,9 @@
 [
     {
+        "title": "How MoneyLion achieved price predictability and 55% cost-savings using Amazon Aurora I/O-Optimized and optimized RI purchases",
+        "link": "https://aws.amazon.com/blogs/database/how-moneylion-achieved-price-predictability-and-55-cost-savings-using-amazon-aurora-i-o-optimized-and-optimized-ri-purchases/"
+    },
+    {
         "title": "Key considerations when choosing a database for your generative AI applications",
         "link": "https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adding real-time ML predictions for your Amazon Aurora database: Part 2",
         "link": "https://aws.amazon.com/blogs/database/adding-real-time-ml-predictions-for-your-amazon-aurora-database-part-2/"
-    },
-    {
-        "title": "Automate cross-account backup of Amazon RDS for Oracle including database parameter groups, option groups and security groups",
-        "link": "https://aws.amazon.com/blogs/database/automate-cross-account-backup-of-amazon-rds-for-oracle-including-database-parameter-groups-option-groups-and-security-groups/"
     }
 ]

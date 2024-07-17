@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the NICE DCV Access Console",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-nice-dcv-access-console/"
+    },
+    {
         "title": "Secure access to Amazon QuickSight with Amazon WorkSpaces Secure Browser",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/secure-access-to-amazon-quicksight-with-amazon-workspaces-secure-browser/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon WorkSpaces SAML 2.0 Federation with Keycloak",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-saml-2-0-federation-with-keycloak/"
-    },
-    {
-        "title": "Connect Amazon FSx for NetApp ONTAP to Amazon AppStream 2.0 Linux instances",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/connect-amazon-fsx-for-netapp-ontap-to-amazon-appstream-2-0-linux-instances/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Strategies for distributing executable binaries across grids in financial services",
+        "link": "https://aws.amazon.com/blogs/hpc/strategies-for-distributing-executable-binaries-grids-financial-services/"
+    },
+    {
         "title": "Running FSI workloads on AWS with YellowDog",
         "link": "https://aws.amazon.com/blogs/hpc/running-fsi-workloads-on-aws-with-yellowdog/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Data, emerging technologies, and the circular economy: how Accenture and AWS are unlocking environmental and business impact",
         "link": "https://aws.amazon.com/blogs/hpc/data-emerging-technologies-and-the-circular-economy-how-accenture-and-aws-are-unlocking-environmental-and-business-impact/"
-    },
-    {
-        "title": "Optimizing MPI application performance on hpc7a by effectively using both EFA devices",
-        "link": "https://aws.amazon.com/blogs/hpc/optimizing-mpi-application-performance-on-hpc7a-by-effectively-using-both-efa-devices/"
     }
 ]
