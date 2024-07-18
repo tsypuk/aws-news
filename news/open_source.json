@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting Started with Cilium Service Mesh on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/opensource/getting-started-with-cilium-service-mesh-on-amazon-eks/"
+    },
+    {
         "title": "Build More Sustainable AWS Workloads with the Sustainability Scanner",
         "link": "https://aws.amazon.com/blogs/opensource/build-more-sustainable-aws-workloads-with-the-sustainability-scanner/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Get Your Questions Answered at re:Invent 2023 in the AWS Modern Applications and Open Source Zone",
         "link": "https://aws.amazon.com/blogs/opensource/get-your-questions-answered-at-reinvent-2023-in-the-aws-modern-applications-and-open-source-zone/"
-    },
-    {
-        "title": "Deploy Large Language Models Easily with the New ezsmdeploy Python SDK",
-        "link": "https://aws.amazon.com/blogs/opensource/deploy-large-language-models-easily-with-the-new-ezsmdeploy-python-sdk/"
     }
 ]

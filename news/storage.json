@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use generative AI to query your Amazon S3 data lake for insights",
+        "link": "https://aws.amazon.com/blogs/storage/use-generative-ai-to-query-your-amazon-s3-data-lake-for-insights/"
+    },
+    {
         "title": "Automating Amazon FSx for NetApp ONTAP password rotation with AWS Lambda",
         "link": "https://aws.amazon.com/blogs/storage/automating-amazon-fsx-for-netapp-ontap-password-rotation-with-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Amazon Cognito as an identity provider with AWS Transfer Family and Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/using-amazon-cognito-as-an-identity-provider-with-aws-transfer-family-and-amazon-s3/"
-    },
-    {
-        "title": "Achieve zero RPO for your SAP ASE (Sybase) databases with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/achieve-zero-rpo-for-your-sap-ase-sybase-databases-with-amazon-fsx-for-netapp-ontap/"
     }
 ]

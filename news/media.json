@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing AWS Audit Manager Common Controls Library",
+        "link": "https://aws.amazon.com/blogs/mt/introducing-aws-audit-manager-common-controls-library/"
+    },
+    {
         "title": "Getting started with myApplications for Terraform-managed applications",
         "link": "https://aws.amazon.com/blogs/mt/getting-started-with-myapplications-for-terraform-managed-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Ten Ways to Improve Your AWS Operations",
         "link": "https://aws.amazon.com/blogs/mt/ten-ways-to-improve-your-aws-operations/"
-    },
-    {
-        "title": "Project management in a cloud first world",
-        "link": "https://aws.amazon.com/blogs/mt/project-management-in-a-cloud-first-world/"
     }
 ]

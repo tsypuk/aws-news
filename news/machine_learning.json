@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Deloitte Italy built a digital payments fraud detection solution using quantum machine learning and Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/"
+    },
+    {
+        "title": "Amazon SageMaker unveils the Cohere Command R fine-tuning model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-unveils-the-cohere-command-r-fine-tuning-model/"
+    },
+    {
+        "title": "Derive meaningful and actionable operational insights from AWS Using Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/derive-meaningful-and-actionable-operational-insights-from-aws-using-amazon-q-business/"
+    },
+    {
         "title": "Accelerate your generative AI distributed training workloads with the NVIDIA NeMo Framework on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-ai-distributed-training-workloads-with-the-nvidia-nemo-framework-on-amazon-eks/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Anthropic\u2019s Claude 3.5 Sonnet ranks number 1 for business and finance in S&P AI Benchmarks by Kensho",
         "link": "https://aws.amazon.com/blogs/machine-learning/anthropic-claude-3-5-sonnet-ranks-number-1-for-business-and-finance-in-sp-ai-benchmarks-by-kensho/"
-    },
-    {
-        "title": "The Weather Company enhances MLOps with Amazon SageMaker, AWS CloudFormation, and Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-weather-company-enhances-mlops-with-amazon-sagemaker-aws-cloudformation-and-amazon-cloudwatch/"
-    },
-    {
-        "title": "Eviden scales AWS DeepRacer Global League using AWS DeepRacer Event Manager",
-        "link": "https://aws.amazon.com/blogs/machine-learning/eviden-scales-aws-deepracer-global-league-using-aws-deepracer-event-manager/"
-    },
-    {
-        "title": "Generate unique images by fine-tuning Stable Diffusion XL with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-unique-images-by-fine-tuning-stable-diffusion-xl-with-amazon-sagemaker/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building a scalable streaming data platform that enables real-time and batch analytics of electric vehicles on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/building-a-scalable-streaming-data-platform-that-enables-real-time-and-batch-analytics-of-electric-vehicles-on-aws/"
+    },
+    {
+        "title": "Migrate data from an on-premises Hadoop environment to Amazon S3 using S3DistCp with AWS Direct Connect",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-data-from-an-on-premises-hadoop-environment-to-amazon-s3-using-s3distcp-with-aws-direct-connect/"
+    },
+    {
         "title": "How Zurich Insurance Group built a log management solution on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/how-zurich-insurance-group-built-a-log-management-solution-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build a real-time streaming generative AI application using Amazon Bedrock, Amazon Managed Service for Apache Flink, and Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-streaming-generative-ai-application-using-amazon-bedrock-amazon-managed-service-for-apache-flink-and-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "Amazon DataZone announces custom blueprints for AWS services",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-announces-custom-blueprints-for-aws-services/"
-    },
-    {
-        "title": "Access Amazon Redshift data from Salesforce Data Cloud with Zero Copy Data Federation",
-        "link": "https://aws.amazon.com/blogs/big-data/access-amazon-redshift-data-from-salesforce-data-cloud-with-zero-copy-data-federation/"
     }
 ]

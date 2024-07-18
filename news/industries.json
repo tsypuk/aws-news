@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy Android Automotive on AWS Graviton Using AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/industries/deploy-android-automotive-on-aws-graviton-using-aws-cloudformation/"
+    },
+    {
         "title": "Building a generative AI reservoir simulation assistant with Stone Ridge Technology",
         "link": "https://aws.amazon.com/blogs/industries/building-a-generative-ai-reservoir-simulation-assistant-with-stone-ridge-technology/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How The New York Stock Exchange built its real-time market data platform on AWS",
         "link": "https://aws.amazon.com/blogs/industries/how-the-new-york-stock-exchange-built-its-real-time-market-data-platform-on-aws/"
-    },
-    {
-        "title": "Analyzing Remote Communications Infrastructure with Computer Vision",
-        "link": "https://aws.amazon.com/blogs/industries/analyzing-remote-communications-infrastructure-with-computer-vision/"
     }
 ]

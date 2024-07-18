@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using agent workspace guides to handle sensitive information",
+        "link": "https://aws.amazon.com/blogs/contact-center/using-agent-workspace-guides-to-handle-sensitive-information/"
+    },
+    {
         "title": "Optimize routing using queues and proficiencies in Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/optimize-routing-using-queues-and-proficiencies-in-amazon-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing more granular billing for Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/announcing-more-granular-billing-for-amazon-connect/"
-    },
-    {
-        "title": "CSC Generation transforms customer support with Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/csc-generation-transforms-customer-support-with-amazon-connect/"
     }
 ]

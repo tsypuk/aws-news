@@ -1,5 +1,13 @@
 [
     {
+        "title": "Harnessing Karpenter: Transitioning Kafka to Amazon EKS with AWS solutions",
+        "link": "https://aws.amazon.com/blogs/containers/harnessing-karpenter-transitioning-kafka-to-amazon-eks-with-aws-solutions/"
+    },
+    {
+        "title": "How Thomson Reuters achieved 5X operational efficiency and 30% cost optimization with Plexus on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/how-thomson-reuters-achieved-5x-operational-efficiency-and-30-cost-optimization-with-plexus-on-amazon-eks/"
+    },
+    {
         "title": "Accelerating development feedback loops with AWS CDK hotswap deployments for Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/accelerating-development-feedback-loops-with-aws-cdk-hotswap-deployments-for-amazon-ecs/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Ensuring fair bandwidth allocation for Amazon EKS Workloads",
         "link": "https://aws.amazon.com/blogs/containers/ensuring-fair-bandwidth-allocation-for-amazon-eks-workloads/"
-    },
-    {
-        "title": "Enhancing Kubernetes workload isolation and security using Kata Containers",
-        "link": "https://aws.amazon.com/blogs/containers/enhancing-kubernetes-workload-isolation-and-security-using-kata-containers/"
-    },
-    {
-        "title": "Mobileye: Revolutionizing HD map creation for autonomous vehicles with Spark on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/mobileye-revolutionizing-hd-map-creation-for-autonomous-vehicles-with-spark-on-amazon-eks/"
     }
 ]

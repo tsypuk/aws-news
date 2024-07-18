@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Wickr achieves DoD Impact Level 4 and 5 authorization",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-wickr-achieves-dod-impact-level-4-and-5-authorization/"
+    },
+    {
         "title": "Archiving and sending to final SMTP server",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/archiving-and-sending-to-final-smtp-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using one-click unsubscribe with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/using-one-click-unsubscribe-with-amazon-ses/"
-    },
-    {
-        "title": "How to Build a Compliant SMS Opt-In Process With Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-build-a-compliant-sms-opt-in-process-with-amazon-pinpoint/"
     }
 ]
