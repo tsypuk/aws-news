@@ -25,7 +25,7 @@ jobs:
           poetry run python aws_news_crawler/__init__.py
       - name: push to git
         run: |
-          git config user.name Roman Tsypuk
+          git config user.name "Roman Tsypuk"
           git config user.email tsypuk.conf@gmail.com
           git add .
           DATE=$(date +'%Y-%m-%d')
