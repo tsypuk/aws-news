@@ -1,5 +1,17 @@
 [
     {
+        "title": "Configure password policy for Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/configure-password-policy-for-amazon-rds-for-sql-server/"
+    },
+    {
+        "title": "Migrate an Amazon QLDB Ledger to Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrate-an-amazon-qldb-ledger-to-amazon-aurora-postgresql/"
+    },
+    {
+        "title": "Replace Amazon QLDB with Amazon Aurora PostgreSQL for audit use cases",
+        "link": "https://aws.amazon.com/blogs/database/replace-amazon-qldb-with-amazon-aurora-postgresql-for-audit-use-cases/"
+    },
+    {
         "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL (GIN, GiST, HASH, BRIN)",
         "link": "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-gin-gist-hash-brin/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AWS DMS homogenous migration from PostgreSQL to Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/aws-dms-homogenous-migration-from-postgresql-to-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Create a Knowledge Graph application with metaphactory and Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/create-a-knowledge-graph-application-with-metaphactory-and-amazon-neptune/"
-    },
-    {
-        "title": "Workaround for T-SQL global temporary tables in Babelfish for Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/workaround-for-t-sql-global-temporary-tables-in-babelfish-for-aurora-postgresql/"
-    },
-    {
-        "title": "Configure SSL encryption on an SAP ASE source endpoint in AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/configure-ssl-encryption-on-an-sap-ase-source-endpoint-in-aws-dms/"
     }
 ]

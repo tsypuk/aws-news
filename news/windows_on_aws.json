@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use AWS Systems Manager to enable CloudWatch memory metrics for Windows Server Amazon EC2 instances",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-aws-systems-manager-to-enable-cloudwatch-memory-metrics-for-windows-server-amazon-ec2-instances/"
+    },
+    {
         "title": "How to bring existing Windows Server and SQL Server licenses to Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-bring-existing-windows-server-and-sql-server-licenses-to-amazon-ec2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Monitor Microsoft SharePoint Server using Amazon CloudWatch Application Insights",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/monitor-microsoft-sharepoint-server-using-amazon-cloudwatch-application-insights/"
-    },
-    {
-        "title": "Providing self-service multi-account access to AWS Managed Microsoft AD",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/providing-self-service-multi-account-access-to-aws-managed-microsoft-ad/"
     }
 ]

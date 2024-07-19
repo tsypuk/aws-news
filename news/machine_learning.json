@@ -1,5 +1,21 @@
 [
     {
+        "title": "Intelligent document processing using Amazon Bedrock and Anthropic Claude",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-using-amazon-bedrock-and-anthropic-claude/"
+    },
+    {
+        "title": "Metadata filtering for tabular data with Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/metadata-filtering-for-tabular-data-with-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
+        "title": "Secure AccountantAI Chatbot: Lili\u2019s journey with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/secure-accountantai-chatbot-lilis-journey-with-amazon-bedrock/"
+    },
+    {
+        "title": "How Mend.io unlocked hidden patterns in CVE data with Anthropic Claude on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-mend-io-unlocked-hidden-patterns-in-cve-data-with-anthropic-claude-on-amazon-bedrock/"
+    },
+    {
         "title": "How Deloitte Italy built a digital payments fraud detection solution using quantum machine learning and Amazon Braket",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "A progress update on our commitment to safe, responsible generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/a-progress-update-on-our-commitment-to-safe-responsible-generative-ai/"
-    },
-    {
-        "title": "Fine-tune Anthropic\u2019s Claude 3 Haiku in Amazon Bedrock to boost model accuracy and quality",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-anthropics-claude-3-haiku-in-amazon-bedrock-to-boost-model-accuracy-and-quality/"
-    },
-    {
-        "title": "Achieve up to ~2x higher throughput while reducing costs by up to ~50% for generative AI inference on Amazon SageMaker with the new inference optimization toolkit \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-up-to-2x-higher-throughput-while-reducing-costs-by-up-to-50-for-generative-ai-inference-on-amazon-sagemaker-with-the-new-inference-optimization-toolkit-part-2/"
-    },
-    {
-        "title": "Achieve up to ~2x higher throughput while reducing costs by ~50% for generative AI inference on Amazon SageMaker with the new inference optimization toolkit \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-up-to-2x-higher-throughput-while-reducing-costs-by-50-for-generative-ai-inference-on-amazon-sagemaker-with-the-new-inference-optimization-toolkit-part-1/"
-    },
-    {
-        "title": "Anthropic\u2019s Claude 3.5 Sonnet ranks number 1 for business and finance in S&P AI Benchmarks by Kensho",
-        "link": "https://aws.amazon.com/blogs/machine-learning/anthropic-claude-3-5-sonnet-ranks-number-1-for-business-and-finance-in-sp-ai-benchmarks-by-kensho/"
     }
 ]

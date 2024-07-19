@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize industrial operations through predictive maintenance using Amazon Monitron, AWS IoT TwinMaker, and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/iot/optimize-industrial-operations-through-predictive-maintenance-using-amazon-monitron-aws-iot-twinmaker-and-amazon-bedrock-part-2-3d-spatial-visualization/"
+    },
+    {
         "title": "How to synchronize AWS IoT SiteWise assets and data across AWS accounts",
         "link": "https://aws.amazon.com/blogs/iot/how-to-synchronize-aws-iot-sitewise-assets-and-data-across-aws-accounts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modernize your Enterprise Historian with AWS Cloud Services",
         "link": "https://aws.amazon.com/blogs/iot/modernize-your-enterprise-historian-with-aws-cloud-services/"
-    },
-    {
-        "title": "Build a Cloud Gateway to Ingest RTSP video to Amazon Kinesis Video Streams",
-        "link": "https://aws.amazon.com/blogs/iot/build-a-cloud-gateway-to-ingest-rtsp-video-to-amazon-kinesis-video-streams/"
     }
 ]
