@@ -37,7 +37,7 @@ jobs:
             git config user.email tsypuk.conf@gmail.com
             git add .
             DATE=$(date +'%Y-%m-%d')
-            git commit -m "chore(rss): updated AWS news - $DATE - $files"
+            git commit -m "docs: updated AWS news - $DATE - $files"
             git push
             echo "continue=true" >> $GITHUB_OUTPUT
           fi
