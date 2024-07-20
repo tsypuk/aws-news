@@ -1,5 +1,17 @@
 [
     {
+        "title": "Achieve near real-time analytics with Amazon DynamoDB and zero-ETL for Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/database/achieve-near-real-time-analytics-with-amazon-dynamodb-and-zero-etl-for-amazon-opensearch-service/"
+    },
+    {
+        "title": "Introducing Curated Solutions for Databases on AWS",
+        "link": "https://aws.amazon.com/blogs/database/introducing-curated-solutions-for-databases-on-aws/"
+    },
+    {
+        "title": "Use Oracle Real Application Clusters as a source for AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/use-oracle-real-application-clusters-as-a-source-for-aws-dms/"
+    },
+    {
         "title": "Configure password policy for Amazon RDS for SQL Server",
         "link": "https://aws.amazon.com/blogs/database/configure-password-policy-for-amazon-rds-for-sql-server/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Understanding Amazon Aurora MySQL storage space utilization",
         "link": "https://aws.amazon.com/blogs/database/understanding-amazon-aurora-mysql-storage-space-utilization/"
-    },
-    {
-        "title": "How London Stock Exchange Group optimised blue/green deployments for Amazon Aurora PostgreSQL Global Database",
-        "link": "https://aws.amazon.com/blogs/database/how-london-stock-exchange-group-optimised-blue-green-deployments-for-amazon-aurora-postgresql-global-database/"
-    },
-    {
-        "title": "Use Amazon Aurora Global Database to build resilient multi-Region applications",
-        "link": "https://aws.amazon.com/blogs/database/use-amazon-aurora-global-database-to-build-resilient-multi-region-applications/"
-    },
-    {
-        "title": "AWS DMS homogenous migration from PostgreSQL to Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/aws-dms-homogenous-migration-from-postgresql-to-amazon-aurora-postgresql/"
     }
 ]

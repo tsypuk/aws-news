@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Teradata improved system availability using Amazon EBS Multi-Attach NVMe reservations",
+        "link": "https://aws.amazon.com/blogs/storage/how-teradata-improved-system-availability-using-amazon-ebs-multi-attach-nvme-reservations/"
+    },
+    {
         "title": "Use generative AI to query your Amazon S3 data lake for insights",
         "link": "https://aws.amazon.com/blogs/storage/use-generative-ai-to-query-your-amazon-s3-data-lake-for-insights/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Architecting secure and compliant managed file transfers with AWS Transfer Family SFTP connectors and PGP encryption",
         "link": "https://aws.amazon.com/blogs/storage/architecting-secure-and-compliant-managed-file-transfers-with-aws-transfer-family-sftp-connectors-and-pgp-encryption/"
-    },
-    {
-        "title": "Using Amazon Cognito as an identity provider with AWS Transfer Family and Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/using-amazon-cognito-as-an-identity-provider-with-aws-transfer-family-and-amazon-s3/"
     }
 ]
