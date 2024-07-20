@@ -28,6 +28,12 @@ jobs:
           modified_files=$(git status --porcelain | grep '^ M news/' | awk '{print $2}')
           if [ -z "$modified_files" ]; then
             echo "No modified files in news folder."
+            git config user.name "Roman Tsypuk"
+            git config user.email tsypuk.conf@gmail.com
+            git add .
+            DATE=$(date +'%Y-%m-%d')
+            git commit -m "chore(rss): updated AWS news - $DATE"
+            git push
             echo "continue=false" >> $GITHUB_OUTPUT
           else
             echo "Modified files detected."
