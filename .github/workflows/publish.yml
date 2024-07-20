@@ -32,13 +32,12 @@ jobs:
           else
             echo "Modified files detected."
             echo "$modified_files" | sed -e 's/news\///' -e 's/\.json$//' > modified_files.txt
+            files=$(cat modified_files.txt | tr '\n' ',' | sed 's/,$//')
+            git config user.name "Roman Tsypuk"
+            git config user.email tsypuk.conf@gmail.com
+            git add .
+            DATE=$(date +'%Y-%m-%d')
+            git commit -m "chore(rss): updated AWS news - $DATE - $files"
+            git push
             echo "continue=true" >> $GITHUB_OUTPUT
           fi
-          
-          files=$(cat modified_files.txt | tr '\n' ',' | sed 's/,$//')
-          git config user.name "Roman Tsypuk"
-          git config user.email tsypuk.conf@gmail.com
-          git add .
-          DATE=$(date +'%Y-%m-%d')
-          git commit -m "chore(rss): updated AWS news - $DATE - $files"
-          git push
