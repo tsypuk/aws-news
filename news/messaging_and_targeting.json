@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understanding Google Postmaster Tools (spam complaints) for Amazon SES email senders",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/understanding-google-postmaster-tools-spam-complaints-for-amazon-ses-email-senders/"
+    },
+    {
         "title": "AWS Wickr achieves DoD Impact Level 4 and 5 authorization",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-wickr-achieves-dod-impact-level-4-and-5-authorization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyzing Amazon SES event data with AWS Analytics Services",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/analyzing-amazon-ses-event-data-with-aws-analytics-services/"
-    },
-    {
-        "title": "Using one-click unsubscribe with Amazon SES",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/using-one-click-unsubscribe-with-amazon-ses/"
     }
 ]
