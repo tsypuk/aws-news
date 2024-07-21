@@ -8,6 +8,10 @@ on:
 jobs:
   nightly-job:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -45,5 +49,33 @@ jobs:
             DATE=$(date +'%Y-%m-%d')
             git commit -m "docs: updated AWS news - $DATE - $files"
             git push
+            git tag "ver-$DATE"
+            git push --tags
             echo "continue=true" >> $GITHUB_OUTPUT
           fi
+      - name: update changelog
+        run: |
+          poetry run git-changelog -c angular -s docs,feat,test --output CHANGELOG.MD
+          git config user.name "Roman Tsypuk"
+          git config user.email tsypuk.conf@gmail.com
+          git add .
+          git commit -m "chore: updated changelog"
+          git push
+
+      - name: Read CHANGELOG until second ##
+        id: changelog
+        run: |
+          awk '/^## /{count++} {if (count==2) {exit} print}' CHANGELOG.MD > changelog_excerpt.txt
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: ${{ github.ref }}
+          body_path: changelog_excerpt.txt
+          draft: false
+          prerelease: false
+
