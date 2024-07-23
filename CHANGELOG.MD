@@ -6,15 +6,22 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## Unreleased
+## [ver-2024-07-23](https://github.com/tsypuk/aws-news/releases/tag/ver-2024-07-23) - 2024-07-23
 
-<small>[Compare with latest](https://github.com/tsypuk/aws-news/compare/ver-2024-07-20...HEAD)</small>
+<small>[Compare with ver-2024-07-21](https://github.com/tsypuk/aws-news/compare/ver-2024-07-21...ver-2024-07-23)</small>
+
+### Docs
+
+- updated AWS news - 2024-07-23 - aws_news,aws_partner_network,compute,contact_center,enterprise_strategy,industries,messaging_and_targeting,security_identity_complience,storage,training_certification ([7751a02](https://github.com/tsypuk/aws-news/commit/7751a02ce573fcf50608ada738a3c78c65892f03) by Roman Tsypuk).
+
+## [ver-2024-07-21](https://github.com/tsypuk/aws-news/releases/tag/ver-2024-07-21) - 2024-07-21
+
+<small>[Compare with ver-2024-07-20](https://github.com/tsypuk/aws-news/compare/ver-2024-07-20...ver-2024-07-21)</small>
 
 ### Docs
 
 - updated AWS news - 2024-07-21 - messaging_and_targeting ([0b5a4ca](https://github.com/tsypuk/aws-news/commit/0b5a4cab254ae2c68f16e8541d3e7783e2ec229b) by Roman Tsypuk).
 
-<!-- insertion marker -->
 ## [ver-2024-07-20](https://github.com/tsypuk/aws-news/releases/tag/ver-2024-07-20) - 2024-07-20
 
 <small>[Compare with ver-2024-07-19](https://github.com/tsypuk/aws-news/compare/ver-2024-07-19...ver-2024-07-20)</small>

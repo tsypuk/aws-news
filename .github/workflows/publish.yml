@@ -42,12 +42,12 @@ jobs:
           else
             echo "Modified files detected."
             echo "$modified_files" | sed -e 's/news\///' -e 's/\.json$//' > modified_files.txt
-            files=$(cat modified_files.txt | tr '\n' ',' | sed 's/,$//')
+            files=$(cat modified_files.txt | tr '\n' ', ' | sed 's/,$//')
             git config user.name "Roman Tsypuk"
             git config user.email tsypuk.conf@gmail.com
             git add .
             DATE=$(date +'%Y-%m-%d')
-            git commit -m "docs: updated AWS news - $DATE - $files"
+            git commit -m "docs: updated AWS news - $files - $DATE"
             git push
             git tag "ver-$DATE"
             git push --tags
@@ -55,6 +55,8 @@ jobs:
           fi
       - name: update changelog
         run: |
+          pip install poetry
+          poetry install
           poetry run git-changelog -c angular -s docs,feat,test --output CHANGELOG.MD
           git config user.name "Roman Tsypuk"
           git config user.email tsypuk.conf@gmail.com
