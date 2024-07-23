@@ -1,10 +1,9 @@
+name: Create Release on Tag Push
+
 on:
   push:
-    # Sequence of patterns matched against refs/tags
     tags:
-      - 'ver-*' # Push events to matching v*, i.e. v1.0, v20.15.10
-
-name: Create Release
+      - '*'
 
 jobs:
   create-release:
