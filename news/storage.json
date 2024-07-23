@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate large HPC datasets from the edge to the cloud then synchronize continuously",
+        "link": "https://aws.amazon.com/blogs/storage/migrate-large-hpc-datasets-from-the-edge-to-the-cloud-then-synchronize-continuously/"
+    },
+    {
         "title": "How Teradata improved system availability using Amazon EBS Multi-Attach NVMe reservations",
         "link": "https://aws.amazon.com/blogs/storage/how-teradata-improved-system-availability-using-amazon-ebs-multi-attach-nvme-reservations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A Pilot Light disaster recovery strategy for WordPress",
         "link": "https://aws.amazon.com/blogs/storage/pilot-light-disaster-recovery-strategy-for-wordpress/"
-    },
-    {
-        "title": "Architecting secure and compliant managed file transfers with AWS Transfer Family SFTP connectors and PGP encryption",
-        "link": "https://aws.amazon.com/blogs/storage/architecting-secure-and-compliant-managed-file-transfers-with-aws-transfer-family-sftp-connectors-and-pgp-encryption/"
     }
 ]

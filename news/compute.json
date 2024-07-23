@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing quorum queues on Amazon MQ for RabbitMQ",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-quorum-queues-on-amazon-mq-for-rabbitmq/"
+    },
+    {
         "title": "Implementing multi-Region failover for Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/compute/implementing-multi-region-failover-for-amazon-api-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build real-time applications with Amazon EventBridge and AWS AppSync",
         "link": "https://aws.amazon.com/blogs/compute/build-real-time-applications-with-amazon-eventbridge-and-aws-appsync/"
-    },
-    {
-        "title": "Invoking on-premises resources interactively using AWS Step Functions and MQTT",
-        "link": "https://aws.amazon.com/blogs/compute/invoking-on-premises-resources-interactively-using-aws-step-functions-and-mqtt/"
     }
 ]

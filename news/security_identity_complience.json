@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to use the AWS Secrets Manager Agent",
+        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-secrets-manager-agent/"
+    },
+    {
         "title": "Patterns for consuming custom log sources in Amazon Security Lake",
         "link": "https://aws.amazon.com/blogs/security/patterns-for-consuming-custom-log-sources-in-amazon-security-lake/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to securely transfer files with presigned URLs",
         "link": "https://aws.amazon.com/blogs/security/how-to-securely-transfer-files-with-presigned-urls/"
-    },
-    {
-        "title": "Application Security at re:Inforce 2024",
-        "link": "https://aws.amazon.com/blogs/security/application-security-at-reinforce-2024/"
     }
 ]
