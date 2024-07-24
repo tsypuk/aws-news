@@ -57,6 +57,7 @@ jobs:
         run: |
           pip install poetry
           poetry install
+          poetry add git-changelog
           poetry run git-changelog -c angular -s docs,feat,test --output CHANGELOG.MD
           git config user.name "Roman Tsypuk"
           git config user.email tsypuk.conf@gmail.com
