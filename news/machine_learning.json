@@ -1,5 +1,21 @@
 [
     {
+        "title": "Detect and protect sensitive data with Amazon Lex and Amazon CloudWatch Logs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detect-and-protect-sensitive-data-with-amazon-lex-and-amazon-cloudwatch-logs/"
+    },
+    {
+        "title": "AWS AI chips deliver high performance and low cost for Llama 3.1 models on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-chips-deliver-high-performance-and-low-cost-for-meta-llama-3-1-models-on-aws/"
+    },
+    {
+        "title": "Use Llama 3.1 405B for synthetic data generation and distillation to fine-tune smaller models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-llama-3-1-405b-to-generate-synthetic-data-for-fine-tuning-tasks/"
+    },
+    {
+        "title": "Llama 3.1 models are now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/meta-llama-3-1-models-are-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Intelligent document processing using Amazon Bedrock and Anthropic Claude",
         "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-using-amazon-bedrock-and-anthropic-claude/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Automating model customization in Amazon Bedrock with AWS Step Functions workflow",
         "link": "https://aws.amazon.com/blogs/machine-learning/automating-model-customization-in-amazon-bedrock-with-aws-step-functions-workflow/"
-    },
-    {
-        "title": "Knowledge Bases for Amazon Bedrock now supports advanced parsing, chunking, and query reformulation giving greater control of accuracy in RAG based applications",
-        "link": "https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/"
-    },
-    {
-        "title": "Streamline generative AI development in Amazon Bedrock with Prompt Management and Prompt Flows (preview)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-generative-ai-development-in-amazon-bedrock-with-prompt-management-and-prompt-flows-preview/"
-    },
-    {
-        "title": "Empowering everyone with GenAI to rapidly build, customize, and deploy apps securely: Highlights from the AWS New York Summit",
-        "link": "https://aws.amazon.com/blogs/machine-learning/empowering-everyone-with-genai-to-rapidly-build-customize-and-deploy-apps-securely-highlights-from-the-aws-new-york-summit/"
-    },
-    {
-        "title": "A progress update on our commitment to safe, responsible generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-progress-update-on-our-commitment-to-safe-responsible-generative-ai/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating the admission of virtual private clouds to AWS Cloud WAN networks",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-the-admission-of-virtual-private-clouds-to-aws-cloud-wan-networks/"
+    },
+    {
         "title": "Preserving client IP address with Proxy protocol v2 and Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/preserving-client-ip-address-with-proxy-protocol-v2-and-network-load-balancer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Restrict access to AWS Elemental MediaPackage v2 using origin access control",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/restrict-access-to-elemental-mediapackage-v2-using-origin-access-control/"
-    },
-    {
-        "title": "How to share IP address ranges across accounts with AWS Global Accelerator",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-share-ip-address-ranges-across-accounts-with-aws-global-accelerator/"
     }
 ]

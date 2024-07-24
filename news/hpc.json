@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing e-mail and SMS notifications in AWS ParallelCluster with Slurm",
+        "link": "https://aws.amazon.com/blogs/hpc/implementing-e-mail-and-sms-notifications-in-aws-parallelcluster-with-slurm/"
+    },
+    {
         "title": "Gang scheduling pods on Amazon EKS using AWS Batch multi-node processing jobs",
         "link": "https://aws.amazon.com/blogs/hpc/gang-scheduling-pods-on-amazon-eks-using-aws-batch-multi-node-processing-jobs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for running molecular dynamics simulations on AWS Graviton3E",
         "link": "https://aws.amazon.com/blogs/hpc/best-practices-for-running-molecular-dynamics-simulations-on-aws-graviton3e/"
-    },
-    {
-        "title": "Accelerate drug discovery with NVIDIA BioNeMo Framework on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/hpc/accelerate-drug-discovery-with-nvidia-bionemo-framework-on-amazon-eks/"
     }
 ]

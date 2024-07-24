@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline your data governance by deploying Amazon DataZone with the AWS CDK",
+        "link": "https://aws.amazon.com/blogs/big-data/streamline-your-data-governance-by-deploying-amazon-datazone-with-the-aws-cdk/"
+    },
+    {
         "title": "Migrate from Apache Solr to OpenSearch",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-from-apache-solr-to-opensearch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon MWAA best practices for managing Python dependencies",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-mwaa-best-practices-for-managing-python-dependencies/"
-    },
-    {
-        "title": "Amazon DataZone enhances data discovery with advanced search filtering",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-enhances-data-discovery-with-advanced-search-filtering/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/"
+    },
+    {
         "title": "AWS Weekly Roundup: Global AWS Heroes Summit, AWS Lambda, Amazon Redshift, and more (July 22, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-global-aws-heroes-summit-aws-lambda-amazon-redshift-and-more-july-22-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon CodeCatalyst now supports GitLab and Bitbucket repositories, with blueprints and Amazon Q feature development",
         "link": "https://aws.amazon.com/blogs/aws/amazon-codecatalyst-now-supports-gitlab-and-bitbucket-repositories-with-blueprints-and-amazon-q-feature-development/"
-    },
-    {
-        "title": "Optimizing Amazon Simple Queue Service (SQS) for speed and scale",
-        "link": "https://aws.amazon.com/blogs/aws/optimizing-amazon-simple-queue-service-sqs-for-speed-and-scale/"
     }
 ]
