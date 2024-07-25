@@ -1,5 +1,21 @@
 [
     {
+        "title": "Mistral Large 2 is now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mistral-large-2-is-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "LLM experimentation at scale using Amazon SageMaker Pipelines and MLflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/llm-experimentation-at-scale-using-amazon-sagemaker-pipelines-and-mlflow/"
+    },
+    {
+        "title": "Discover insights from Amazon S3 with Amazon Q S3 connector",
+        "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-amazon-s3-with-amazon-q-s3-connector/"
+    },
+    {
+        "title": "Boosting Salesforce Einstein\u2019s code generating model performance with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-salesforce-einsteins-code-generating-model-performance-with-amazon-sagemaker/"
+    },
+    {
         "title": "Detect and protect sensitive data with Amazon Lex and Amazon CloudWatch Logs",
         "link": "https://aws.amazon.com/blogs/machine-learning/detect-and-protect-sensitive-data-with-amazon-lex-and-amazon-cloudwatch-logs/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Using Agents for Amazon Bedrock to interactively generate infrastructure as code",
         "link": "https://aws.amazon.com/blogs/machine-learning/using-agents-for-amazon-bedrock-to-interactively-generate-infrastructure-as-code/"
-    },
-    {
-        "title": "Improve RAG accuracy with fine-tuned embedding models on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-rag-accuracy-with-fine-tuned-embedding-models-on-amazon-sagemaker/"
-    },
-    {
-        "title": "How BRIA AI used distributed training in Amazon SageMaker to train latent diffusion foundation models for commercial use",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-bria-ai-used-distributed-training-in-amazon-sagemaker-to-train-latent-diffusion-foundation-models-for-commercial-use/"
-    },
-    {
-        "title": "Create custom images for geospatial analysis with Amazon SageMaker Distribution in Amazon SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-custom-images-for-geospatial-analysis-with-amazon-sagemaker-distribution-in-amazon-sagemaker-studio/"
-    },
-    {
-        "title": "Automating model customization in Amazon Bedrock with AWS Step Functions workflow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automating-model-customization-in-amazon-bedrock-with-aws-step-functions-workflow/"
     }
 ]

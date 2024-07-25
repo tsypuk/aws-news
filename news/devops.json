@@ -1,5 +1,9 @@
 [
     {
+        "title": "Leveraging Amazon Q Developer for Efficient Code Debugging and Maintenance",
+        "link": "https://aws.amazon.com/blogs/devops/leveraging-amazon-q-developer-for-efficient-code-debugging-and-maintenance/"
+    },
+    {
         "title": "AWS announces workspace context awareness for Amazon Q Developer chat",
         "link": "https://aws.amazon.com/blogs/devops/aws-announces-workspace-context-awareness-for-amazon-q-developer-chat/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "De-risk releases with AWS CodePipeline rollbacks",
         "link": "https://aws.amazon.com/blogs/devops/de-risk-releases-with-aws-codepipeline-rollbacks/"
-    },
-    {
-        "title": "Build APIs using OpenAPI, the AWS CDK and AWS Solutions Constructs",
-        "link": "https://aws.amazon.com/blogs/devops/build-apis-using-openapi-the-aws-cdk-and-aws-solutions-constructs/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate AWS IoT SiteWise insights with Edge2Web Power Tools",
+        "link": "https://aws.amazon.com/blogs/iot/accelerate-aws-iot-sitewise-insights-with-edge2web-power-tools/"
+    },
+    {
         "title": "Optimize industrial operations through predictive maintenance using Amazon Monitron, AWS IoT TwinMaker, and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/iot/optimize-industrial-operations-through-predictive-maintenance-using-amazon-monitron-aws-iot-twinmaker-and-amazon-bedrock-part-2-3d-spatial-visualization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use location data with AWS IoT Device Management to monitor and manage your IoT fleet",
         "link": "https://aws.amazon.com/blogs/iot/aws-iot-device-management-location-indexing-geoquery/"
-    },
-    {
-        "title": "Modernize your Enterprise Historian with AWS Cloud Services",
-        "link": "https://aws.amazon.com/blogs/iot/modernize-your-enterprise-historian-with-aws-cloud-services/"
     }
 ]

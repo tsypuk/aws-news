@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run an Ethereum staking service on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/database/run-an-ethereum-staking-service-on-amazon-eks/"
+    },
+    {
+        "title": "Ola Money achieved operational excellence, disaster recovery site in Asia Pacific (Hyderabad) Region, and up to 60% cost savings using Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/ola-money-achieved-operational-excellence-disaster-recovery-site-in-asia-pacific-hyderabad-region-and-up-to-60-cost-savings-using-amazon-aurora/"
+    },
+    {
         "title": "New Amazon Neptune engine version delivers up to 9 times faster and 10 times higher throughput for openCypher query performance",
         "link": "https://aws.amazon.com/blogs/database/new-amazon-neptune-engine-version-delivers-up-to-9-times-faster-and-10-times-higher-throughput-for-opencypher-query-performance/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate from SAP ASE to SAP ASE on Amazon EC2 using AWS DMS and SAP ASE native methods",
         "link": "https://aws.amazon.com/blogs/database/migrate-from-sap-ase-to-sap-ase-on-amazon-ec2-using-aws-dms-and-sap-ase-native-methods/"
-    },
-    {
-        "title": "How Gen replayed a database workload from Oracle to Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/how-gen-replayed-a-database-workload-from-oracle-to-amazon-aurora/"
-    },
-    {
-        "title": "Introducing Valkey GLIDE, an open  source client library for Valkey and Redis open source",
-        "link": "https://aws.amazon.com/blogs/database/introducing-valkey-glide-an-open-source-client-library-for-valkey-and-redis-open-source/"
     }
 ]

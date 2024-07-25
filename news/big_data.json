@@ -1,5 +1,13 @@
 [
     {
+        "title": "Configure SAML federation with Amazon OpenSearch Serverless and Keycloak",
+        "link": "https://aws.amazon.com/blogs/big-data/configure-saml-federation-with-amazon-opensearch-serverless-and-keycloak/"
+    },
+    {
+        "title": "How ActionIQ built a truly composable customer data platform using Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/how-actioniq-built-a-truly-composable-customer-data-platform-using-amazon-redshift/"
+    },
+    {
         "title": "Streamline your data governance by deploying Amazon DataZone with the AWS CDK",
         "link": "https://aws.amazon.com/blogs/big-data/streamline-your-data-governance-by-deploying-amazon-datazone-with-the-aws-cdk/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate data loading from your database into Amazon Redshift using AWS Database Migration Service (DMS), AWS Step Functions, and the Redshift Data API",
         "link": "https://aws.amazon.com/blogs/big-data/automate-data-loading-from-your-database-into-amazon-redshift-using-aws-database-migration-service-dms-aws-step-functions-and-the-redshift-data-api/"
-    },
-    {
-        "title": "Introducing self-managed data sources for Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-self-managed-data-sources-for-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "Amazon MWAA best practices for managing Python dependencies",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-mwaa-best-practices-for-managing-python-dependencies/"
     }
 ]

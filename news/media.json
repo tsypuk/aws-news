@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplifying remediation using AWS Systems Manager with Amazon Q developer",
+        "link": "https://aws.amazon.com/blogs/mt/simplifying-remediation-using-aws-systems-manager-with-amazon-q-developer/"
+    },
+    {
+        "title": "Observability Matters at Brightcove with AWS GameDay",
+        "link": "https://aws.amazon.com/blogs/mt/observability-matters-at-brightcove-with-aws-gameday/"
+    },
+    {
         "title": "Introducing AWS Audit Manager Common Controls Library",
         "link": "https://aws.amazon.com/blogs/mt/introducing-aws-audit-manager-common-controls-library/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate VMware Migrations to AWS using AWS Migration Hub Journeys",
         "link": "https://aws.amazon.com/blogs/mt/accelerate-vmware-migrations-to-aws-using-aws-migration-hub-journeys/"
-    },
-    {
-        "title": "Automate CloudWatch Dashboard creation for your AWS Elemental Mediapackage and AWS Elemental Medialive",
-        "link": "https://aws.amazon.com/blogs/mt/automate-cloudwatch-dashboard-creation-for-your-aws-elemental-mediapackage-and-aws-elemental-medialive/"
-    },
-    {
-        "title": "Ten Ways to Improve Your AWS Operations",
-        "link": "https://aws.amazon.com/blogs/mt/ten-ways-to-improve-your-aws-operations/"
     }
 ]

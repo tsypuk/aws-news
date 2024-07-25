@@ -1,5 +1,9 @@
 [
     {
+        "title": "DNS best practices for Amazon Route 53",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dns-best-practices-for-amazon-route-53/"
+    },
+    {
         "title": "Automating the admission of virtual private clouds to AWS Cloud WAN networks",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-the-admission-of-virtual-private-clouds-to-aws-cloud-wan-networks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing VPC Flow Logs for Elastic Container Services",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-vpc-flow-logs-for-elastic-container-services/"
-    },
-    {
-        "title": "Restrict access to AWS Elemental MediaPackage v2 using origin access control",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/restrict-access-to-elemental-mediapackage-v2-using-origin-access-control/"
     }
 ]
