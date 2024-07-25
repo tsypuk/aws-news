@@ -1,10 +1,10 @@
 [tool.poetry]
+package-mode = false
 name = "aws-news"
 version = "0.1.0"
 description = ""
 authors = ["Roman Tsypuk <tsypuk.conf@gmail.com>"]
 readme = "README.md"
-packages = [{include = "aws_news"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
