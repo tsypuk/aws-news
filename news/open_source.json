@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon\u2019s Exabyte-Scale Migration from Apache Spark to Ray on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/"
+    },
+    {
         "title": "Getting Started with Cilium Service Mesh on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/opensource/getting-started-with-cilium-service-mesh-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting Started with Istio on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/opensource/getting-started-with-istio-on-amazon-eks/"
-    },
-    {
-        "title": "Get Your Questions Answered at re:Invent 2023 in the AWS Modern Applications and Open Source Zone",
-        "link": "https://aws.amazon.com/blogs/opensource/get-your-questions-answered-at-reinvent-2023-in-the-aws-modern-applications-and-open-source-zone/"
     }
 ]

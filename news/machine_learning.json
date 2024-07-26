@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon SageMaker inference launches faster auto scaling for generative AI models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-launches-faster-auto-scaling-for-generative-ai-models/"
+    },
+    {
+        "title": "Find answers accurately and quickly using Amazon Q Business with the SharePoint Online connector",
+        "link": "https://aws.amazon.com/blogs/machine-learning/find-answers-accurately-and-quickly-using-amazon-q-business-with-the-sharepoint-online-connector/"
+    },
+    {
+        "title": "Evaluate conversational AI agents with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-conversational-ai-agents-with-amazon-bedrock/"
+    },
+    {
+        "title": "Node problem detection and recovery for AWS Neuron nodes within Amazon EKS clusters",
+        "link": "https://aws.amazon.com/blogs/machine-learning/node-problem-detection-and-recovery-for-aws-neuron-nodes-within-amazon-eks-clusters/"
+    },
+    {
         "title": "Mistral Large 2 is now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/mistral-large-2-is-now-available-in-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Accelerate your generative AI distributed training workloads with the NVIDIA NeMo Framework on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-ai-distributed-training-workloads-with-the-nvidia-nemo-framework-on-amazon-eks/"
-    },
-    {
-        "title": "Governing the ML lifecycle at scale, Part 2: Multi-account foundations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-2-multi-account-foundations/"
-    },
-    {
-        "title": "Video auto-dubbing using Amazon Translate, Amazon Bedrock, and Amazon Polly",
-        "link": "https://aws.amazon.com/blogs/machine-learning/video-auto-dubbing-using-amazon-translate-amazon-bedrock-and-amazon-polly/"
-    },
-    {
-        "title": "How Mixbook used generative AI to offer personalized photo book experiences",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-mixbook-used-generative-ai-to-offer-personalized-photo-book-experiences/"
-    },
-    {
-        "title": "Using Agents for Amazon Bedrock to interactively generate infrastructure as code",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-agents-for-amazon-bedrock-to-interactively-generate-infrastructure-as-code/"
     }
 ]

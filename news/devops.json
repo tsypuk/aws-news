@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to migrate your AWS CodeCommit repository to another Git provider",
+        "link": "https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/"
+    },
+    {
+        "title": "How to migrate from AWS Cloud9 to AWS IDE Toolkits or AWS Cloudshell",
+        "link": "https://aws.amazon.com/blogs/devops/how-to-migrate-from-aws-cloud9-to-aws-ide-toolkits-or-aws-cloudshell/"
+    },
+    {
         "title": "Leveraging Amazon Q Developer for Efficient Code Debugging and Maintenance",
         "link": "https://aws.amazon.com/blogs/devops/leveraging-amazon-q-developer-for-efficient-code-debugging-and-maintenance/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify Amazon EKS Deployments with GitHub Actions and AWS CodeBuild",
         "link": "https://aws.amazon.com/blogs/devops/simplify-amazon-eks-deployments-with-github-actions-and-aws-codebuild/"
-    },
-    {
-        "title": "Automate Terraform Deployments with Amazon CodeCatalyst and Terraform Community action",
-        "link": "https://aws.amazon.com/blogs/devops/automate-terraform-deployments-with-amazon-codecatalyst-and-terraform-community-action/"
-    },
-    {
-        "title": "De-risk releases with AWS CodePipeline rollbacks",
-        "link": "https://aws.amazon.com/blogs/devops/de-risk-releases-with-aws-codepipeline-rollbacks/"
     }
 ]

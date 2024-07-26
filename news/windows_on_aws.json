@@ -1,5 +1,9 @@
 [
     {
+        "title": "Govern Microsoft workloads using the myApplications dashboard on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/govern-microsoft-workloads-using-the-myapplications-dashboard-on-aws/"
+    },
+    {
         "title": "Simplifying Active Directory domain join with AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplifying-active-directory-domain-join-with-aws-systems-manager-2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automate downgrading SQL Server to Developer edition on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-downgrading-sql-server-to-developer-edition-on-amazon-ec2/"
-    },
-    {
-        "title": "Automate Microsoft web application deployments with GitHub Actions and Terraform",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-microsoft-web-application-deployments-with-github-actions-and-terraform/"
     }
 ]

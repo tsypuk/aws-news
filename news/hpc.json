@@ -1,5 +1,9 @@
 [
     {
+        "title": "Guided multi-objective generative AI for drug design",
+        "link": "https://aws.amazon.com/blogs/hpc/guided-multi-objective-generative-ai-for-drug-design/"
+    },
+    {
         "title": "Deploying generative AI applications with NVIDIA NIMs on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/hpc/deploying-generative-ai-applications-with-nvidia-nims-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using machine learning to drive faster automotive design cycles",
         "link": "https://aws.amazon.com/blogs/hpc/using-machine-learning-to-drive-faster-automotive-design-cycles/"
-    },
-    {
-        "title": "Announcing the High Performance Software Foundation (HPSF)",
-        "link": "https://aws.amazon.com/blogs/hpc/announcing-the-high-performance-software-foundation/"
     }
 ]

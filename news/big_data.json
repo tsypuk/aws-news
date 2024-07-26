@@ -1,5 +1,21 @@
 [
     {
+        "title": "How ATPCO enables governed self-service data access to accelerate innovation with Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/how-atpco-enables-governed-self-service-data-access-to-accelerate-innovation-with-amazon-datazone/"
+    },
+    {
+        "title": "Manage Amazon Redshift provisioned clusters with Terraform",
+        "link": "https://aws.amazon.com/blogs/big-data/manage-amazon-redshift-provisioned-clusters-with-terraform/"
+    },
+    {
+        "title": "Migrate workloads from AWS Data Pipeline",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-workloads-from-aws-data-pipeline/"
+    },
+    {
+        "title": "Transition from Amazon CloudSearch to Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/transition-from-amazon-cloudsearch-to-amazon-opensearch-service/"
+    },
+    {
         "title": "Configure SAML federation with Amazon OpenSearch Serverless and Keycloak",
         "link": "https://aws.amazon.com/blogs/big-data/configure-saml-federation-with-amazon-opensearch-serverless-and-keycloak/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How EchoStar ingests terabytes of data daily across its 5G Open RAN network in near real-time using Amazon Redshift Serverless Streaming Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/how-echostar-ingests-terabytes-of-data-daily-across-its-5g-open-ran-network-in-near-real-time-using-amazon-redshift-serverless-streaming-ingestion/"
-    },
-    {
-        "title": "Amazon DataZone introduces OpenLineage-compatible data lineage visualization in preview",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-datazone-introduces-openlineage-compatible-data-lineage-visualization-in-preview/"
-    },
-    {
-        "title": "Amazon Managed Service for Apache Flink now supports Apache Flink version 1.19",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-now-supports-apache-flink-version-1-19/"
-    },
-    {
-        "title": "Enhance data security with fine-grained access controls in Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-data-security-with-fine-grained-access-controls-in-amazon-datazone/"
-    },
-    {
-        "title": "Automate data loading from your database into Amazon Redshift using AWS Database Migration Service (DMS), AWS Step Functions, and the Redshift Data API",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-data-loading-from-your-database-into-amazon-redshift-using-aws-database-migration-service-dms-aws-step-functions-and-the-redshift-data-api/"
     }
 ]

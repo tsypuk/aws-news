@@ -1,5 +1,9 @@
 [
     {
+        "title": "Hardening DNS Resolution for Amazon WorkSpaces Personal",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/hardening-dns-resolution-for-amazon-workspaces-personal/"
+    },
+    {
         "title": "Announcing the NICE DCV Access Console",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-nice-dcv-access-console/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon WorkSpaces Multi-Region Resilience with ProfileUnity and PeerGFS",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-multi-region-resilience-with-profileunity-and-peergfs/"
-    },
-    {
-        "title": "Amazon WorkSpaces SAML 2.0 Federation with Keycloak",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-saml-2-0-federation-with-keycloak/"
     }
 ]

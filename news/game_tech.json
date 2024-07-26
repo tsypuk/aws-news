@@ -1,5 +1,9 @@
 [
     {
+        "title": "Gaming Analytics: Leveraging AWS Glue and Amazon Redshift Spectrum for Player Insights",
+        "link": "https://aws.amazon.com/blogs/gametech/gaming-analytics-leveraging-aws-glue-and-amazon-redshift-spectrum-for-player-insights/"
+    },
+    {
         "title": "Kinetix taps AWS to bring generative AI tools directly to players",
         "link": "https://aws.amazon.com/blogs/gametech/kinetix-taps-aws-to-bring-generative-ai-tools-directly-to-players/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Freedom Games supports the indie game community with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/freedom-games-supports-the-indie-game-community-with-aws/"
-    },
-    {
-        "title": "Implementing a Build Pipeline for Unity Mobile Apps",
-        "link": "https://aws.amazon.com/blogs/gametech/implementing-a-build-pipeline-for-unity-mobile-apps/"
     }
 ]
