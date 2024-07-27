@@ -1,5 +1,13 @@
 [
     {
+        "title": "Schneider Electric automates Salesforce account hierarchy management with generative artificial intelligence (AI) using Amazon Aurora and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/schneider-electric-automates-salesforce-account-hierarchy-management-with-generative-artificial-intelligence-ai-using-amazon-aurora-and-amazon-bedrock/"
+    },
+    {
+        "title": "Make relevant movie recommendations using Amazon Neptune, Amazon Neptune Machine Learning, and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/database/make-relevant-movie-recommendations-using-amazon-neptune-amazon-neptune-machine-learning-and-amazon-opensearch-service/"
+    },
+    {
         "title": "Implement UUIDv7 in Amazon RDS for PostgreSQL using Trusted Language Extensions",
         "link": "https://aws.amazon.com/blogs/database/implement-uuidv7-in-amazon-rds-for-postgresql-using-trusted-language-extensions/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Key considerations when choosing a database for your generative AI applications",
         "link": "https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/"
-    },
-    {
-        "title": "Synopsis of several compelling features in PostgreSQL 16",
-        "link": "https://aws.amazon.com/blogs/database/synopsis-of-several-compelling-features-in-postgresql-16/"
-    },
-    {
-        "title": "Optimize data validation using AWS DMS validation-only tasks",
-        "link": "https://aws.amazon.com/blogs/database/optimize-data-validation-using-aws-dms-validation-only-tasks/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dizzion Navigator Migration Service streamlines migrations to Omnissa Horizon 8 on Amazon WorkSpaces Core",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/dizzion-navigator-migration-service-streamlines-migrations-to-omnissa-horizon-8-on-amazon-workspaces-core/"
+    },
+    {
         "title": "Hardening DNS Resolution for Amazon WorkSpaces Personal",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/hardening-dns-resolution-for-amazon-workspaces-personal/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplifying Amazon WorkSpaces access with JumpCloud Go: a secure, passwordless approach",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplifying-amazon-workspaces-access-with-jumpcloud-go-a-secure-passwordless-approach/"
-    },
-    {
-        "title": "Amazon WorkSpaces Multi-Region Resilience with ProfileUnity and PeerGFS",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-multi-region-resilience-with-profileunity-and-peergfs/"
     }
 ]
