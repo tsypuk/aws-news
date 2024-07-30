@@ -1,5 +1,9 @@
 [
     {
+        "title": "Strengthening data security in AWS Step Functions with a customer-managed AWS KMS key",
+        "link": "https://aws.amazon.com/blogs/compute/strengthening-data-security-in-aws-step-functions-with-a-customer-managed-aws-kms-key/"
+    },
+    {
         "title": "Introducing quorum queues on Amazon MQ for RabbitMQ",
         "link": "https://aws.amazon.com/blogs/compute/introducing-quorum-queues-on-amazon-mq-for-rabbitmq/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Generative AI Infrastructure at AWS",
         "link": "https://aws.amazon.com/blogs/compute/generative-ai-infrastructure-at-aws/"
-    },
-    {
-        "title": "Build real-time applications with Amazon EventBridge and AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/compute/build-real-time-applications-with-amazon-eventbridge-and-aws-appsync/"
     }
 ]

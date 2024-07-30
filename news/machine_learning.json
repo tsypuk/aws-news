@@ -1,5 +1,21 @@
 [
     {
+        "title": "Build generative AI\u2013powered Salesforce applications with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-powered-salesforce-applications-with-amazon-bedrock/"
+    },
+    {
+        "title": "Transition your Amazon Forecast usage to Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transition-your-amazon-forecast-usage-to-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Connect Amazon Q Business to Microsoft SharePoint Online using least privilege access controls",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-q-business-to-microsoft-sharepoint-online-using-least-privilege-access-controls/"
+    },
+    {
+        "title": "Improve the productivity of your customer support and project management teams using Amazon Q Business and Atlassian Jira",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-the-productivity-of-your-customer-support-and-project-management-teams-using-amazon-q-business-and-atlassian-jira/"
+    },
+    {
         "title": "Amazon SageMaker inference launches faster auto scaling for generative AI models",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-launches-faster-auto-scaling-for-generative-ai-models/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Mend.io unlocked hidden patterns in CVE data with Anthropic Claude on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-mend-io-unlocked-hidden-patterns-in-cve-data-with-anthropic-claude-on-amazon-bedrock/"
-    },
-    {
-        "title": "How Deloitte Italy built a digital payments fraud detection solution using quantum machine learning and Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/"
-    },
-    {
-        "title": "Amazon SageMaker unveils the Cohere Command R fine-tuning model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-unveils-the-cohere-command-r-fine-tuning-model/"
-    },
-    {
-        "title": "Derive meaningful and actionable operational insights from AWS Using Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/derive-meaningful-and-actionable-operational-insights-from-aws-using-amazon-q-business/"
-    },
-    {
-        "title": "Accelerate your generative AI distributed training workloads with the NVIDIA NeMo Framework on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-ai-distributed-training-workloads-with-the-nvidia-nemo-framework-on-amazon-eks/"
     }
 ]

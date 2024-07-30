@@ -1,5 +1,13 @@
 [
     {
+        "title": "Fever: Building a VPN-less secure network for corporate access",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fever-building-a-vpn-less-secure-network-for-corporate-access/"
+    },
+    {
+        "title": "Active Directory Domain Services integration with Amazon Route 53",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/active-directory-domain-services-integration-with-amazon-route-53/"
+    },
+    {
         "title": "How to achieve DNS high availability with Route 53 Resolver endpoints",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-achieve-dns-high-availability-with-route-53-resolver-endpoints/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Using connection tracking improvements to increase network performance",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-connection-tracking-improvements-to-increase-network-performance/"
-    },
-    {
-        "title": "Connecting Saas services within a VPC Lattice service network",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/connecting-saas-services-within-a-vpc-lattice-service-network/"
-    },
-    {
-        "title": "How to monitor internet traffic to CloudFront edge in one click with Amazon CloudWatch Internet Monitor",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-monitor-internet-traffic-to-cloudfront-edge-in-one-click-with-amazon-cloudwatch-internet-monitor/"
     }
 ]

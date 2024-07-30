@@ -1,5 +1,13 @@
 [
     {
+        "title": "Testing your applications with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/testing-your-applications-with-amazon-q-developer/"
+    },
+    {
+        "title": "Use OpenID Connect with AWS Toolkit for Azure DevOps to perform AWS CodeDeploy deployments",
+        "link": "https://aws.amazon.com/blogs/devops/use-openid-connect-with-aws-toolkit-for-azure-devops-to-perform-aws-codedeploy-deployments/"
+    },
+    {
         "title": "How to migrate your AWS CodeCommit repository to another Git provider",
         "link": "https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Quickly adopt new AWS features with the Terraform AWS Cloud Control provider",
         "link": "https://aws.amazon.com/blogs/devops/quickly-adopt-new-aws-features-with-the-terraform-aws-cloud-control-provider/"
-    },
-    {
-        "title": "Accelerate your Software Development Lifecycle with Amazon Q",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/"
-    },
-    {
-        "title": "Simplify Amazon EKS Deployments with GitHub Actions and AWS CodeBuild",
-        "link": "https://aws.amazon.com/blogs/devops/simplify-amazon-eks-deployments-with-github-actions-and-aws-codebuild/"
     }
 ]

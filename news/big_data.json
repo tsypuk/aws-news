@@ -1,5 +1,13 @@
 [
     {
+        "title": "Get started with the new Amazon DataZone enhancements for Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/get-started-with-the-new-amazon-datazone-enhancements-for-amazon-redshift/"
+    },
+    {
+        "title": "Monitoring Apache Iceberg metadata layer using AWS Lambda, AWS Glue, and AWS CloudWatch",
+        "link": "https://aws.amazon.com/blogs/big-data/monitoring-apache-iceberg-metadata-layer-using-aws-lambda-aws-glue-and-aws-cloudwatch/"
+    },
+    {
         "title": "How ATPCO enables governed self-service data access to accelerate innovation with Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/how-atpco-enables-governed-self-service-data-access-to-accelerate-innovation-with-amazon-datazone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Amazon MWAA support for Apache Airflow version 2.9.2",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-9-2/"
-    },
-    {
-        "title": "Run Apache XTable on Amazon MWAA to translate open table formats",
-        "link": "https://aws.amazon.com/blogs/big-data/run-apache-xtable-on-amazon-mwaa-to-translate-open-table-formats/"
-    },
-    {
-        "title": "How EchoStar ingests terabytes of data daily across its 5G Open RAN network in near real-time using Amazon Redshift Serverless Streaming Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/how-echostar-ingests-terabytes-of-data-daily-across-its-5g-open-ran-network-in-near-real-time-using-amazon-redshift-serverless-streaming-ingestion/"
     }
 ]
