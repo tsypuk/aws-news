@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrate Amazon MWAA with Microsoft Entra ID using SAML authentication",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-mwaa-with-microsoft-entra-id-using-saml-authentication/"
+    },
+    {
+        "title": "Federating access to Amazon DataZone with AWS IAM Identity Center and Okta",
+        "link": "https://aws.amazon.com/blogs/big-data/federating-access-to-amazon-datazone-with-aws-iam-identity-center-and-okta/"
+    },
+    {
         "title": "Get started with the new Amazon DataZone enhancements for Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/get-started-with-the-new-amazon-datazone-enhancements-for-amazon-redshift/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Author data integration jobs with an interactive data preparation experience with AWS Glue visual ETL",
         "link": "https://aws.amazon.com/blogs/big-data/author-data-integration-jobs-with-an-interactive-data-preparation-experience-with-aws-glue-visual-etl/"
-    },
-    {
-        "title": "Accelerate query performance with Apache Iceberg statistics on the AWS Glue Data Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-query-performance-with-apache-iceberg-statistics-on-the-aws-glue-data-catalog/"
-    },
-    {
-        "title": "Introducing Amazon MWAA support for Apache Airflow version 2.9.2",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-support-for-apache-airflow-version-2-9-2/"
     }
 ]

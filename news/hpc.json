@@ -1,5 +1,9 @@
 [
     {
+        "title": "HPC Ops: DevOps for HPC workloads in the cloud",
+        "link": "https://aws.amazon.com/blogs/hpc/hpc-ops-devops-for-hpc-workloads-in-the-cloud/"
+    },
+    {
         "title": "Guided multi-objective generative AI for drug design",
         "link": "https://aws.amazon.com/blogs/hpc/guided-multi-objective-generative-ai-for-drug-design/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing: Seqera Containers for the bioinformatics community",
         "link": "https://aws.amazon.com/blogs/hpc/announcing-seqera-containers-for-the-bioinformatics-community/"
-    },
-    {
-        "title": "Using machine learning to drive faster automotive design cycles",
-        "link": "https://aws.amazon.com/blogs/hpc/using-machine-learning-to-drive-faster-automotive-design-cycles/"
     }
 ]

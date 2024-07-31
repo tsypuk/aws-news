@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate monitoring for your Amazon EKS cluster using CloudWatch Container Insights",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-monitoring-for-your-amazon-eks-cluster-using-cloudwatch-container-insights/"
+    },
+    {
         "title": "IAM Roles Anywhere integration guide for installing AWS Partner CRM Connector",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/iam-roles-anywhere-integration-guide-for-installing-aws-partner-crm-connector/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Keep your AWS resources when you rename an AWS CloudFormation stack",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/keep-your-aws-resources-when-you-rename-an-aws-cloudformation-stack/"
-    },
-    {
-        "title": "Save time and reduce errors by automating AWS Lambda code updates",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-reduce-errors-automating-lambda-code-updates/"
     }
 ]

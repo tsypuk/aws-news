@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrating AWS Client VPN with AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-aws-client-vpn-with-aws-network-firewall/"
+    },
+    {
         "title": "Fever: Building a VPN-less secure network for corporate access",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fever-building-a-vpn-less-secure-network-for-corporate-access/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Join us at the AWS World IPv6 Day Celebration",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/join-us-at-the-aws-world-ipv6-day-celebration/"
-    },
-    {
-        "title": "Using connection tracking improvements to increase network performance",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-connection-tracking-improvements-to-increase-network-performance/"
     }
 ]

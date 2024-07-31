@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Parameter Store cross-account sharing",
+        "link": "https://aws.amazon.com/blogs/mt/introducing-parameter-store-cross-account-sharing/"
+    },
+    {
         "title": "Simplifying remediation using AWS Systems Manager with Amazon Q developer",
         "link": "https://aws.amazon.com/blogs/mt/simplifying-remediation-using-aws-systems-manager-with-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Resiliency Journey : exploring how AWS Resilience Hub and Migration Acceleration Program come together",
         "link": "https://aws.amazon.com/blogs/mt/resiliency-journey-exploring-how-aws-resilience-hub-and-migration-acceleration-program-come-together/"
-    },
-    {
-        "title": "Accelerate VMware Migrations to AWS using AWS Migration Hub Journeys",
-        "link": "https://aws.amazon.com/blogs/mt/accelerate-vmware-migrations-to-aws-using-aws-migration-hub-journeys/"
     }
 ]

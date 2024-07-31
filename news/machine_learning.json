@@ -1,5 +1,25 @@
 [
     {
+        "title": "Configure Amazon Q Business with AWS IAM Identity Center trusted identity propagation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-q-business-with-aws-iam-identity-center-trusted-identity-propagation/"
+    },
+    {
+        "title": "Enhance your media search experience using Amazon Q Business and Amazon Transcribe",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-your-media-search-experience-using-amazon-q-business-and-amazon-transcribe/"
+    },
+    {
+        "title": "Monks boosts processing speed by four times for real-time diffusion AI image generation using Amazon SageMaker and AWS Inferentia2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monks-boosts-processing-speed-by-four-times-for-real-time-diffusion-ai-image-generation-using-amazon-sagemaker-and-aws-inferentia2/"
+    },
+    {
+        "title": "Implement web crawling in Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-web-crawling-in-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
+        "title": "Intuit uses Amazon Bedrock and Anthropic\u2019s Claude to explain taxes in TurboTax to millions of consumer tax filers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intuit-uses-amazon-bedrock-and-anthropic-claude-to-explain-taxes-in-turbotax-to-millions-of-consumer-tax-filers/"
+    },
+    {
         "title": "Build generative AI\u2013powered Salesforce applications with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-powered-salesforce-applications-with-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Use Llama 3.1 405B for synthetic data generation and distillation to fine-tune smaller models",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-llama-3-1-405b-to-generate-synthetic-data-for-fine-tuning-tasks/"
-    },
-    {
-        "title": "Llama 3.1 models are now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/meta-llama-3-1-models-are-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Intelligent document processing using Amazon Bedrock and Anthropic Claude",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-using-amazon-bedrock-and-anthropic-claude/"
-    },
-    {
-        "title": "Metadata filtering for tabular data with Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/metadata-filtering-for-tabular-data-with-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Secure AccountantAI Chatbot: Lili\u2019s journey with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-accountantai-chatbot-lilis-journey-with-amazon-bedrock/"
-    },
-    {
-        "title": "How Mend.io unlocked hidden patterns in CVE data with Anthropic Claude on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-mend-io-unlocked-hidden-patterns-in-cve-data-with-anthropic-claude-on-amazon-bedrock/"
     }
 ]

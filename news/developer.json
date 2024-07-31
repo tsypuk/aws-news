@@ -1,5 +1,9 @@
 [
     {
+        "title": "The AWS SDK for Java 1.x is in maintenance mode, effective July 31, 2024",
+        "link": "https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-is-in-maintenance-mode-effective-july-31-2024/"
+    },
+    {
         "title": "Announcing the end-of-support for PHP runtimes 8.0.x and below in the AWS SDK for PHP",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-php-runtimes-8-0-x-and-below-in-the-aws-sdk-for-php/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Toolkit for Visual Studio adds support for Arm64 Visual Studio",
         "link": "https://aws.amazon.com/blogs/developer/aws-toolkit-for-visual-studio-adds-support-for-arm64-visual-studio/"
-    },
-    {
-        "title": "Reduce Lambda cold start times: migrate to AWS SDK for JavaScript v3",
-        "link": "https://aws.amazon.com/blogs/developer/reduce-lambda-cold-start-times-migrate-to-aws-sdk-for-javascript-v3/"
     }
 ]
