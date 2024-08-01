@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlocking Japanese LLMs with AWS Trainium: Innovators Showcase from the AWS LLM Development Support Program",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-japanese-llms-with-aws-trainium-innovators-showcase-from-the-aws-llm-development-support-program/"
+    },
+    {
+        "title": "Use the ApplyGuardrail API with long-context inputs and streaming outputs in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-the-applyguardrail-api-with-long-context-inputs-and-streaming-outputs-in-amazon-bedrock/"
+    },
+    {
         "title": "Configure Amazon Q Business with AWS IAM Identity Center trusted identity propagation",
         "link": "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-q-business-with-aws-iam-identity-center-trusted-identity-propagation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Detect and protect sensitive data with Amazon Lex and Amazon CloudWatch Logs",
         "link": "https://aws.amazon.com/blogs/machine-learning/detect-and-protect-sensitive-data-with-amazon-lex-and-amazon-cloudwatch-logs/"
-    },
-    {
-        "title": "AWS AI chips deliver high performance and low cost for Llama 3.1 models on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-chips-deliver-high-performance-and-low-cost-for-meta-llama-3-1-models-on-aws/"
-    },
-    {
-        "title": "Use Llama 3.1 405B for synthetic data generation and distillation to fine-tune smaller models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-llama-3-1-405b-to-generate-synthetic-data-for-fine-tuning-tasks/"
     }
 ]

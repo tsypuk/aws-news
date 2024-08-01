@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deliver Amazon CloudWatch logs to Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/deliver-amazon-cloudwatch-logs-to-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "Synchronize data lakes with CDC-based UPSERT using open table format, AWS Glue, and Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk/"
+    },
+    {
         "title": "Integrate Amazon MWAA with Microsoft Entra ID using SAML authentication",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-mwaa-with-microsoft-entra-id-using-saml-authentication/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Protein similarity search using ProtT5-XL-UniRef50 and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/protein-similarity-search-using-prott5-xl-uniref50-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Improve your Amazon OpenSearch Service performance with OpenSearch Optimized Instances",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-your-amazon-opensearch-service-performance-with-opensearch-optimized-instances/"
-    },
-    {
-        "title": "Author data integration jobs with an interactive data preparation experience with AWS Glue visual ETL",
-        "link": "https://aws.amazon.com/blogs/big-data/author-data-integration-jobs-with-an-interactive-data-preparation-experience-with-aws-glue-visual-etl/"
     }
 ]

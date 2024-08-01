@@ -1,5 +1,9 @@
 [
     {
+        "title": "Let\u2019s Architect! Designing Well-Architected systems",
+        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-well-architected-systems/"
+    },
+    {
         "title": "Simplify and automate bill processing with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/architecture/simplify-and-automate-bill-processing-with-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Journey to Cloud-Native Architecture Series #7:\u00a0 Using Containers and Cell-based design for higher resiliency and efficiency",
         "link": "https://aws.amazon.com/blogs/architecture/journey-to-cloud-native-architecture-series-7-using-containers-and-cell-based-design-for-higher-resiliency-and-efficiency/"
-    },
-    {
-        "title": "Let\u2019s Architect! Designing systems for stream data processing",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-designing-systems-for-stream-data-processing/"
     }
 ]

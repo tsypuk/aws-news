@@ -1,5 +1,25 @@
 [
     {
+        "title": "Documenting the use of Amazon EC2 Auto Scaling groups in DoD",
+        "link": "https://aws.amazon.com/blogs/publicsector/documenting-the-use-of-amazon-ec2-auto-scaling-groups-in-dod/"
+    },
+    {
+        "title": "Discover the AWS Global Cloud Infrastructure located in Canada",
+        "link": "https://aws.amazon.com/blogs/publicsector/discover-the-aws-global-cloud-infrastructure-located-in-canada/"
+    },
+    {
+        "title": "Reimagining person-centered health and care with cloud-enabled technologies",
+        "link": "https://aws.amazon.com/blogs/publicsector/reimagining-person-centered-health-and-care-with-cloud-enabled-technologies/"
+    },
+    {
+        "title": "How AWS can enable the Government of Canada\u2019s 2023-2026 Data Strategy",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-aws-can-enable-the-government-of-canadas-2023-2026-data-strategy/"
+    },
+    {
+        "title": "Harnessing the power of generative AI in the classroom and beyond",
+        "link": "https://aws.amazon.com/blogs/publicsector/harnessing-the-power-of-generative-ai-in-the-classroom-and-beyond/"
+    },
+    {
         "title": "SoftwareOne boosts developer efficiency and streamlines code reviews using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/softwareone-boosts-developer-efficiency-and-streamlines-code-reviews-using-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Using customer-provided ephemerides with AWS Ground Station",
         "link": "https://aws.amazon.com/blogs/publicsector/using-customer-provided-ephemerides-with-aws-ground-station/"
-    },
-    {
-        "title": "21 new or updated datasets available on the Registry of Open Data on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/21-new-or-updated-datasets-available-on-the-registry-of-open-data-on-aws/"
-    },
-    {
-        "title": "7 reasons to attend the 2024 AWS IMAGINE conference for education, state, and local leaders",
-        "link": "https://aws.amazon.com/blogs/publicsector/7-reasons-to-attend-the-2024-aws-imagine-conference-for-education-state-and-local-leaders/"
-    },
-    {
-        "title": "Satellite mission operations using artificial intelligence on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/satellite-mission-operations-using-artificial-intelligence-on-aws/"
-    },
-    {
-        "title": "Brain Data Science Platform increases EEG accessibility with open data and research enabled by AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/brain-data-science-platform-increases-eeg-accessibility-with-open-data-and-research-enabled-by-aws/"
-    },
-    {
-        "title": "Web filtering for education using AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/publicsector/web-filtering-for-education-using-aws-network-firewall/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Protect your AWS resources from unauthorized access using AWS Organizations integrations",
+        "link": "https://aws.amazon.com/blogs/mt/protect-your-aws-resources-from-unauthorized-access-using-aws-organizations-integrations/"
+    },
+    {
+        "title": "Minimizing ambiguity in custom scope migrations",
+        "link": "https://aws.amazon.com/blogs/mt/minimizing-ambiguity-in-custom-scope-migrations/"
+    },
+    {
         "title": "Introducing Parameter Store cross-account sharing",
         "link": "https://aws.amazon.com/blogs/mt/introducing-parameter-store-cross-account-sharing/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Gain operational insights for NVIDIA GPU workloads using Amazon CloudWatch Container Insights",
         "link": "https://aws.amazon.com/blogs/mt/gain-operational-insights-for-nvidia-gpu-workloads-using-amazon-cloudwatch-container-insights/"
-    },
-    {
-        "title": "Get Disk Utilization of Your Fleet Using AWS Systems Manager Custom Inventory Types",
-        "link": "https://aws.amazon.com/blogs/mt/get-disk-utilization-of-your-fleet-using-aws-systems-manager-custom-inventory-types/"
-    },
-    {
-        "title": "Resiliency Journey : exploring how AWS Resilience Hub and Migration Acceleration Program come together",
-        "link": "https://aws.amazon.com/blogs/mt/resiliency-journey-exploring-how-aws-resilience-hub-and-migration-acceleration-program-come-together/"
     }
 ]

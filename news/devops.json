@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate your Terraform development with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/accelerate-your-terraform-development-with-amazon-q-developer/"
+    },
+    {
+        "title": "Balance deployment speed and stability with DORA metrics",
+        "link": "https://aws.amazon.com/blogs/devops/balance-deployment-speed-and-stability-with-dora-metrics/"
+    },
+    {
         "title": "Testing your applications with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/testing-your-applications-with-amazon-q-developer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS CodeBuild Managed Self-Hosted GitHub Action Runners",
         "link": "https://aws.amazon.com/blogs/devops/aws-codebuild-managed-self-hosted-github-action-runners/"
-    },
-    {
-        "title": "Using Single Sign On (SSO) to manage project teams for Amazon CodeCatalyst",
-        "link": "https://aws.amazon.com/blogs/devops/using-single-sign-on-sso-to-manage-project-teams-for-amazon-codecatalyst/"
-    },
-    {
-        "title": "Quickly adopt new AWS features with the Terraform AWS Cloud Control provider",
-        "link": "https://aws.amazon.com/blogs/devops/quickly-adopt-new-aws-features-with-the-terraform-aws-cloud-control-provider/"
     }
 ]
