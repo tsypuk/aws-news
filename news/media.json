@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automate your Multicloud operations with AWS Systems Manager and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/mt/automate-your-multicloud-operations-with-aws-systems-manager-and-aws-lambda/"
+    },
+    {
+        "title": "Developing an AWS Service Catalog self-managed engine for governance",
+        "link": "https://aws.amazon.com/blogs/mt/developing-an-aws-service-catalog-self-managed-engine-for-governance/"
+    },
+    {
+        "title": "How to perform Failover and Failback using AWS Elastic Disaster Recovery (AWS DRS) between VMware and AWS environments",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-perform-failover-and-failback-using-aws-elastic-disaster-recovery-aws-drs-between-vmware-and-aws-environments/"
+    },
+    {
         "title": "Protect your AWS resources from unauthorized access using AWS Organizations integrations",
         "link": "https://aws.amazon.com/blogs/mt/protect-your-aws-resources-from-unauthorized-access-using-aws-organizations-integrations/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize your cloud deployments with Prioritized Trusted Advisor recommendations in your operational workflows",
         "link": "https://aws.amazon.com/blogs/mt/optimize-your-cloud-deployments-with-prioritized-trusted-advisor-recommendations-in-your-operational-workflows/"
-    },
-    {
-        "title": "Reduce code duplication in load testing and synthetic monitoring using Amazon CloudWatch Synthetics",
-        "link": "https://aws.amazon.com/blogs/mt/reduce-code-duplication-in-load-testing-and-synthetic-monitoring-using-amazon-cloudwatch-synthetics/"
-    },
-    {
-        "title": "Use Amazon CloudWatch Contributor Insights for general analysis of Apache logs",
-        "link": "https://aws.amazon.com/blogs/mt/use-amazon-cloudwatch-contributor-insights-for-general-analysis-of-apache-logs/"
-    },
-    {
-        "title": "Gain operational insights for NVIDIA GPU workloads using Amazon CloudWatch Container Insights",
-        "link": "https://aws.amazon.com/blogs/mt/gain-operational-insights-for-nvidia-gpu-workloads-using-amazon-cloudwatch-container-insights/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Federated access to Amazon Athena using AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/federated-access-to-amazon-athena-using-aws-iam-identity-center/"
+    },
+    {
+        "title": "AWS completes the first GDV joint audit with participant insurers in Germany",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-first-gdv-joint-audit-with-participant-insurers-in-germany/"
+    },
+    {
         "title": "How to deploy an Amazon OpenSearch cluster to ingest logs from Amazon Security Lake",
         "link": "https://aws.amazon.com/blogs/security/how-to-deploy-an-amazon-opensearch-cluster-to-ingest-logs-from-amazon-security-lake/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS HITRUST Shared Responsibility Matrix v1.4.3 for HITRUST CSF v11.3 now available",
         "link": "https://aws.amazon.com/blogs/security/aws-hitrust-shared-responsibility-matrix-v1-4-3-for-hitrust-csf-v11-3-now-available/"
-    },
-    {
-        "title": "SaaS tenant isolation with ABAC using AWS STS support for tags in JWT",
-        "link": "https://aws.amazon.com/blogs/security/saas-tenant-isolation-with-abac-using-aws-sts-support-for-tags-in-jwt/"
-    },
-    {
-        "title": "How to create a pipeline for hardening Amazon EKS nodes and automate updates",
-        "link": "https://aws.amazon.com/blogs/security/how-to-create-a-pipeline-for-hardening-amazon-eks-nodes-and-automate-updates/"
     }
 ]

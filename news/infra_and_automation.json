@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for creating IaC for AWS GovCloud (US)",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/best-practices-for-creating-iac-for-aws-govcloud-us/"
+    },
+    {
         "title": "Automate monitoring for your Amazon EKS cluster using CloudWatch Container Insights",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-monitoring-for-your-amazon-eks-cluster-using-cloudwatch-container-insights/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate sports data polling with AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-sports-data-polling-with-aws-step-functions/"
-    },
-    {
-        "title": "Keep your AWS resources when you rename an AWS CloudFormation stack",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/keep-your-aws-resources-when-you-rename-an-aws-cloudformation-stack/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamline insurance underwriting with generative AI using Amazon Bedrock \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-insurance-underwriting-with-generative-ai-using-amazon-bedrock-part-1/"
+    },
+    {
+        "title": "Import a fine-tuned Meta Llama 3 model for SQL query generation on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/import-a-fine-tuned-meta-llama-3-model-for-sql-query-generation-on-amazon-bedrock/"
+    },
+    {
         "title": "Unlocking Japanese LLMs with AWS Trainium: Innovators Showcase from the AWS LLM Development Support Program",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-japanese-llms-with-aws-trainium-innovators-showcase-from-the-aws-llm-development-support-program/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Discover insights from Amazon S3 with Amazon Q S3 connector",
         "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-amazon-s3-with-amazon-q-s3-connector/"
-    },
-    {
-        "title": "Boosting Salesforce Einstein\u2019s code generating model performance with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-salesforce-einsteins-code-generating-model-performance-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Detect and protect sensitive data with Amazon Lex and Amazon CloudWatch Logs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/detect-and-protect-sensitive-data-with-amazon-lex-and-amazon-cloudwatch-logs/"
     }
 ]

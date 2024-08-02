@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the M\u0101ori Data Lens for the Well-Architected Framework",
+        "link": "https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/"
+    },
+    {
         "title": "Let\u2019s Architect! Designing Well-Architected systems",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-well-architected-systems/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Let\u2019s Architect! Tools for developers",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-tools-for-developers/"
-    },
-    {
-        "title": "Journey to Cloud-Native Architecture Series #7:\u00a0 Using Containers and Cell-based design for higher resiliency and efficiency",
-        "link": "https://aws.amazon.com/blogs/architecture/journey-to-cloud-native-architecture-series-7-using-containers-and-cell-based-design-for-higher-resiliency-and-efficiency/"
     }
 ]

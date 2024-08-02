@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using knowledge graphs to build GraphRAG applications with Amazon Bedrock and Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/using-knowledge-graphs-to-build-graphrag-applications-with-amazon-bedrock-and-amazon-neptune/"
+    },
+    {
+        "title": "How Infosys used Amazon Aurora Zero-ETL to Amazon Redshift for near real-time analytics and insights",
+        "link": "https://aws.amazon.com/blogs/database/how-infosys-used-amazon-aurora-zero-etl-to-amazon-redshift-for-near-real-time-analytics-and-insights/"
+    },
+    {
         "title": "Introducing smaller capacity units for Amazon Neptune Analytics: Up to 75% cheaper to get started with graph analytics workloads",
         "link": "https://aws.amazon.com/blogs/database/introducing-smaller-capacity-units-for-amazon-neptune-analytics-up-to-75-cheaper-to-get-started-with-graph-analytics-workloads/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate an Amazon QLDB Ledger to Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/migrate-an-amazon-qldb-ledger-to-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Replace Amazon QLDB with Amazon Aurora PostgreSQL for audit use cases",
-        "link": "https://aws.amazon.com/blogs/database/replace-amazon-qldb-with-amazon-aurora-postgresql-for-audit-use-cases/"
-    },
-    {
-        "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL (GIN, GiST, HASH, BRIN)",
-        "link": "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-gin-gist-hash-brin/"
     }
 ]

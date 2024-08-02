@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using the MAQAO framework to analyze application performance across instances",
+        "link": "https://aws.amazon.com/blogs/hpc/using-the-maqao-framework-to-analyze-application-performance-across-instances/"
+    },
+    {
         "title": "HPC Ops: DevOps for HPC workloads in the cloud",
         "link": "https://aws.amazon.com/blogs/hpc/hpc-ops-devops-for-hpc-workloads-in-the-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building an AI simulation assistant with agentic workflows",
         "link": "https://aws.amazon.com/blogs/hpc/building-an-ai-simulation-assistant-with-agentic-workflows/"
-    },
-    {
-        "title": "Announcing: Seqera Containers for the bioinformatics community",
-        "link": "https://aws.amazon.com/blogs/hpc/announcing-seqera-containers-for-the-bioinformatics-community/"
     }
 ]

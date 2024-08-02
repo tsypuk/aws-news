@@ -1,5 +1,13 @@
 [
     {
+        "title": "Create a customizable cross-company log lake for compliance, Part I: Business Background",
+        "link": "https://aws.amazon.com/blogs/big-data/create-a-customizable-cross-company-log-lake-for-compliance-part-i-business-background/"
+    },
+    {
+        "title": "Unlock scalability, cost-efficiency, and faster insights with large-scale data migration to Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-scalability-cost-efficiency-and-faster-insights-with-large-scale-data-migration-to-amazon-redshift/"
+    },
+    {
         "title": "Deliver Amazon CloudWatch logs to Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/deliver-amazon-cloudwatch-logs-to-amazon-opensearch-serverless/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Zurich Insurance Group built a log management solution on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/how-zurich-insurance-group-built-a-log-management-solution-on-aws/"
-    },
-    {
-        "title": "How PostNL processes billions of IoT events with Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/how-postnl-processes-billions-of-iot-events-with-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Protein similarity search using ProtT5-XL-UniRef50 and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/protein-similarity-search-using-prott5-xl-uniref50-and-amazon-opensearch-service/"
     }
 ]

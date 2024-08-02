@@ -1,5 +1,9 @@
 [
     {
+        "title": "Diving into OCI Image and Distribution 1.1 Support in Amazon ECR",
+        "link": "https://aws.amazon.com/blogs/opensource/diving-into-oci-image-and-distribution-1-1-support-in-amazon-ecr/"
+    },
+    {
         "title": "Amazon\u2019s Exabyte-Scale Migration from Apache Spark to Ray on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Two New Open Source Rust Crates Create Easier Cedar Policy Management",
         "link": "https://aws.amazon.com/blogs/opensource/easier-cedar-policy-management/"
-    },
-    {
-        "title": "Getting Started with Istio on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/opensource/getting-started-with-istio-on-amazon-eks/"
     }
 ]
