@@ -1,5 +1,9 @@
 [
     {
+        "title": "OSPAR 2024 report now available with 163 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/ospar-2024-report-available-with-163-services-in-scope/"
+    },
+    {
         "title": "Federated access to Amazon Athena using AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/federated-access-to-amazon-athena-using-aws-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "CISPE Data Protection Code of Conduct Public Register now has 113 compliant AWS services",
         "link": "https://aws.amazon.com/blogs/security/cispe-data-protection-code-of-conduct-public-register-now-has-113-compliant-aws-services/"
-    },
-    {
-        "title": "AWS HITRUST Shared Responsibility Matrix v1.4.3 for HITRUST CSF v11.3 now available",
-        "link": "https://aws.amazon.com/blogs/security/aws-hitrust-shared-responsibility-matrix-v1-4-3-for-hitrust-csf-v11-3-now-available/"
     }
 ]

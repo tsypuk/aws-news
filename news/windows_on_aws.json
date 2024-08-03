@@ -1,5 +1,13 @@
 [
     {
+        "title": "New research shows AWS is the cloud provider of choice for SQL Server",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/new-research-shows-aws-is-the-cloud-provider-of-choice-for-sql-server/"
+    },
+    {
+        "title": "Automate SQL Server deployments with AWS Launch Wizard APIs",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-sql-server-deployments-with-aws-launch-wizard-apis/"
+    },
+    {
         "title": "Govern Microsoft workloads using the myApplications dashboard on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/govern-microsoft-workloads-using-the-myapplications-dashboard-on-aws/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "How ABFL modernized Microsoft applications on AWS to drive efficiency and agility",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-abfl-modernized-microsoft-applications-on-aws-to-drive-efficiency-and-agility/"
-    },
-    {
-        "title": "Optimize CPU best practices for SQL Server workloads",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimize-cpu-best-practices-for-sql-server-workloads/"
-    },
-    {
-        "title": "Automate downgrading SQL Server to Developer edition on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-downgrading-sql-server-to-developer-edition-on-amazon-ec2/"
     }
 ]

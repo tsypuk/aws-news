@@ -1,10 +1,18 @@
 [
     {
+        "title": "Query RDF graphs using SPARQL and property graphs using Gremlin with the Amazon Athena Neptune connector",
+        "link": "https://aws.amazon.com/blogs/database/query-rdf-graphs-using-sparql-and-property-graphs-using-gremlin-with-the-amazon-athena-neptune-connector/"
+    },
+    {
+        "title": "Stop and start Amazon RDS Multi-AZ DB clusters on a schedule",
+        "link": "https://aws.amazon.com/blogs/database/stop-and-start-amazon-rds-multi-az-db-clusters-on-a-schedule/"
+    },
+    {
         "title": "Using knowledge graphs to build GraphRAG applications with Amazon Bedrock and Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/using-knowledge-graphs-to-build-graphrag-applications-with-amazon-bedrock-and-amazon-neptune/"
     },
     {
-        "title": "How Infosys used Amazon Aurora Zero-ETL to Amazon Redshift for near real-time analytics and insights",
+        "title": "How Infosys used Amazon Aurora zero-ETL integration with Amazon Redshift for near real-time analytics and insights",
         "link": "https://aws.amazon.com/blogs/database/how-infosys-used-amazon-aurora-zero-etl-to-amazon-redshift-for-near-real-time-analytics-and-insights/"
     },
     {
@@ -70,13 +78,5 @@
     {
         "title": "Use Oracle Real Application Clusters as a source for AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/use-oracle-real-application-clusters-as-a-source-for-aws-dms/"
-    },
-    {
-        "title": "Configure password policy for Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/configure-password-policy-for-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Migrate an Amazon QLDB Ledger to Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrate-an-amazon-qldb-ledger-to-amazon-aurora-postgresql/"
     }
 ]
