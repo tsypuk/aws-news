@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use AWS Global Accelerator to improve application performance",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-aws-global-accelerator-to-improve-application-performance/"
+    },
+    {
+        "title": "Establish private connectivity between Salesforce and your on-premises network using AWS Direct Connect",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/establish-private-connectivity-between-salesforce-and-your-on-premises-network-using-aws-direct-connect/"
+    },
+    {
         "title": "Integrating AWS Client VPN with AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-aws-client-vpn-with-aws-network-firewall/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "IPv6 deployment models for AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ipv6-deployment-models-for-aws-network-firewall/"
-    },
-    {
-        "title": "How to seamlessly migrate traffic between Direct Connect gateways",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-seamlessly-migrate-traffic-between-direct-connect-gateways/"
-    },
-    {
-        "title": "Join us at the AWS World IPv6 Day Celebration",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/join-us-at-the-aws-world-ipv6-day-celebration/"
     }
 ]

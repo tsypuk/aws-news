@@ -1,5 +1,13 @@
 [
     {
+        "title": "How DXC creates application consistent EBS Snapshots for Linux",
+        "link": "https://aws.amazon.com/blogs/storage/how-dxc-creates-application-consistent-ebs-snapshots-for-linux/"
+    },
+    {
+        "title": "Attach an Amazon EC2 key pair to an AWS Backup restore of a VMware virtual machine",
+        "link": "https://aws.amazon.com/blogs/storage/protect-and-restore-vmware-virtual-machines-with-aws-backup/"
+    },
+    {
         "title": "How to optimize querying your data in Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/how-to-optimize-querying-your-data-in-amazon-s3/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Toyota Connected North America reduced storage costs by optimizing its growing data on Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/how-toyota-connected-north-america-reduced-storage-costs-by-optimizing-its-growing-data-on-amazon-s3/"
-    },
-    {
-        "title": "Transfer customer managed SSE-KMS encrypted objects across AWS accounts and Regions using AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/transfer-customer-managed-sse-kms-encrypted-objects-across-aws-accounts-and-regions-using-aws-datasync/"
-    },
-    {
-        "title": "Optimizing storage costs and query performance by compacting small objects",
-        "link": "https://aws.amazon.com/blogs/storage/optimizing-storage-costs-and-query-performance-by-compacting-small-objects/"
     }
 ]

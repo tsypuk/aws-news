@@ -1,5 +1,9 @@
 [
     {
+        "title": "Australian Red Cross Lifeblood collaborates with AWS to optimize rostering",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/australian-red-cross-lifeblood-collaborates-with-aws-to-optimize-rostering/"
+    },
+    {
         "title": "Amazon Braket launches new superconducting quantum processor from IQM",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-new-superconducting-quantum-processor-from-iqm/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Enabling state-of-the-art quantum algorithms with Qedma\u2019s error mitigation and IonQ, using Braket Direct",
         "link": "https://aws.amazon.com/blogs/quantum-computing/enabling-state-of-the-art-quantum-algorithms-with-qedmas-error-mitigation-and-ionq-using-braket-direct/"
-    },
-    {
-        "title": "Explainable AI using expressive Boolean formulas",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/explainable-ai-using-expressive-boolean-formulas/"
     }
 ]

@@ -28,15 +28,15 @@
         "link": "https://aws.amazon.com/blogs/containers/host-the-whisper-model-with-streaming-mode-on-amazon-eks-and-ray-serve/"
     },
     {
-        "title": "How Freddie Mac used Amazon EKS to modernize their platform and migrate applications",
-        "link": "https://aws.amazon.com/blogs/containers/how-freddie-mac-used-amazon-eks-to-modernize-their-platform-and-migrate-applications/"
-    },
-    {
         "title": "Deploying Karpenter Nodes with Multus on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/deploying-karpenter-nodes-with-multus-on-amazon-eks/"
     },
     {
         "title": "Ensuring fair bandwidth allocation for Amazon EKS Workloads",
         "link": "https://aws.amazon.com/blogs/containers/ensuring-fair-bandwidth-allocation-for-amazon-eks-workloads/"
+    },
+    {
+        "title": "Enhancing Kubernetes workload isolation and security using Kata Containers",
+        "link": "https://aws.amazon.com/blogs/containers/enhancing-kubernetes-workload-isolation-and-security-using-kata-containers/"
     }
 ]

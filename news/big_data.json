@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing data products in Amazon DataZone: Simplify discovery and subscription with business use case based grouping",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-data-products-in-amazon-datazone-simplify-discovery-and-subscription-with-business-use-case-based-grouping/"
+    },
+    {
+        "title": "Set up cross-account AWS Glue Data Catalog access using AWS Lake Formation and AWS IAM Identity Center with Amazon Redshift and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/big-data/set-up-cross-account-aws-glue-data-catalog-access-using-aws-lake-formation-and-aws-iam-identity-center-with-amazon-redshift-and-amazon-quicksight/"
+    },
+    {
         "title": "Amazon OpenSearch Serverless cost-effective search capabilities, at any scale",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-cost-effective-search-capabilities-at-any-scale/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate from Apache Solr to OpenSearch",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-from-apache-solr-to-opensearch/"
-    },
-    {
-        "title": "How Volkswagen streamlined access to data across multiple data lakes using Amazon DataZone \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/how-volkswagen-streamlined-access-to-data-across-multiple-data-lakes-using-amazon-datazone-part-1/"
-    },
-    {
-        "title": "Building a scalable streaming data platform that enables real-time and batch analytics of electric vehicles on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/building-a-scalable-streaming-data-platform-that-enables-real-time-and-batch-analytics-of-electric-vehicles-on-aws/"
     }
 ]

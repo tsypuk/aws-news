@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate an on-premises MySQL database to Amazon Aurora MySQL over a private network using AWS DMS homogeneous data migration and Network Load Balancer",
+        "link": "https://aws.amazon.com/blogs/database/migrate-an-on-premises-mysql-database-to-amazon-aurora-mysql-over-a-private-network-using-aws-dms-homogeneous-data-migration-and-network-load-balancer/"
+    },
+    {
         "title": "Query RDF graphs using SPARQL and property graphs using Gremlin with the Amazon Athena Neptune connector",
         "link": "https://aws.amazon.com/blogs/database/query-rdf-graphs-using-sparql-and-property-graphs-using-gremlin-with-the-amazon-athena-neptune-connector/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Curated Solutions for Databases on AWS",
         "link": "https://aws.amazon.com/blogs/database/introducing-curated-solutions-for-databases-on-aws/"
-    },
-    {
-        "title": "Use Oracle Real Application Clusters as a source for AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/use-oracle-real-application-clusters-as-a-source-for-aws-dms/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build an end-to-end RAG solution using Knowledge Bases for Amazon Bedrock and AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rag-solution-using-knowledge-bases-for-amazon-bedrock-and-aws-cloudformation/"
+    },
+    {
+        "title": "Faster LLMs with speculative decoding and AWS Inferentia2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/faster-llms-with-speculative-decoding-and-aws-inferentia2/"
+    },
+    {
+        "title": "Catalog, query, and search audio programs with Amazon Transcribe and Knowledge Bases for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/catalog-query-and-search-audio-programs-with-amazon-transcribe-and-knowledge-bases-for-amazon-bedrock/"
+    },
+    {
         "title": "Cepsa Qu\u00edmica improves the efficiency and accuracy of product stewardship using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/cepsa-quimica-improves-the-efficiency-and-accuracy-of-product-stewardship-using-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Amazon SageMaker inference launches faster auto scaling for generative AI models",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-launches-faster-auto-scaling-for-generative-ai-models/"
-    },
-    {
-        "title": "Find answers accurately and quickly using Amazon Q Business with the SharePoint Online connector",
-        "link": "https://aws.amazon.com/blogs/machine-learning/find-answers-accurately-and-quickly-using-amazon-q-business-with-the-sharepoint-online-connector/"
-    },
-    {
-        "title": "Evaluate conversational AI agents with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-conversational-ai-agents-with-amazon-bedrock/"
-    },
-    {
-        "title": "Node problem detection and recovery for AWS Neuron nodes within Amazon EKS clusters",
-        "link": "https://aws.amazon.com/blogs/machine-learning/node-problem-detection-and-recovery-for-aws-neuron-nodes-within-amazon-eks-clusters/"
     }
 ]

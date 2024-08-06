@@ -1,5 +1,13 @@
 [
     {
+        "title": "SaaS authentication: Identity management with Amazon Cognito user pools",
+        "link": "https://aws.amazon.com/blogs/security/saas-authentication-identity-management-with-amazon-cognito-user-pools/"
+    },
+    {
+        "title": "How AWS tracks the cloud\u2019s biggest security threats and helps shut them down",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-tracks-the-clouds-biggest-security-threats-and-helps-shut-them-down/"
+    },
+    {
         "title": "OSPAR 2024 report now available with 163 services in scope",
         "link": "https://aws.amazon.com/blogs/security/ospar-2024-report-available-with-163-services-in-scope/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "ACM will no longer cross sign certificates with Starfield Class 2 starting August 2024",
         "link": "https://aws.amazon.com/blogs/security/acm-will-no-longer-cross-sign-certificates-with-starfield-class-2-starting-august-2024/"
-    },
-    {
-        "title": "Access AWS services programmatically using trusted identity propagation",
-        "link": "https://aws.amazon.com/blogs/security/access-aws-services-programmatically-using-trusted-identity-propagation/"
-    },
-    {
-        "title": "CISPE Data Protection Code of Conduct Public Register now has 113 compliant AWS services",
-        "link": "https://aws.amazon.com/blogs/security/cispe-data-protection-code-of-conduct-public-register-now-has-113-compliant-aws-services/"
     }
 ]
