@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build custom generative AI applications powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-generative-ai-applications-powered-by-amazon-bedrock/"
+    },
+    {
+        "title": "Use Amazon Bedrock to generate, evaluate, and understand code in your software development pipeline",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-to-generate-evaluate-and-understand-code-in-your-software-development-pipeline/"
+    },
+    {
+        "title": "Inference AudioCraft MusicGen models using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/inference-audiocraft-musicgen-models-using-amazon-sagemaker/"
+    },
+    {
         "title": "Build an end-to-end RAG solution using Knowledge Bases for Amazon Bedrock and AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rag-solution-using-knowledge-bases-for-amazon-bedrock-and-aws-cloudformation/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Transition your Amazon Forecast usage to Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/transition-your-amazon-forecast-usage-to-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Connect Amazon Q Business to Microsoft SharePoint Online using least privilege access controls",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-q-business-to-microsoft-sharepoint-online-using-least-privilege-access-controls/"
-    },
-    {
-        "title": "Improve the productivity of your customer support and project management teams using Amazon Q Business and Atlassian Jira",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-the-productivity-of-your-customer-support-and-project-management-teams-using-amazon-q-business-and-atlassian-jira/"
-    },
-    {
-        "title": "Amazon SageMaker inference launches faster auto scaling for generative AI models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-launches-faster-auto-scaling-for-generative-ai-models/"
     }
 ]

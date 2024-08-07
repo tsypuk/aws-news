@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Vivian Health is using Amazon S3 Express One Zone to accelerate healthcare hiring",
+        "link": "https://aws.amazon.com/blogs/storage/how-vivian-health-is-using-amazon-s3-express-one-zone-to-accelerate-healthcare-hiring/"
+    },
+    {
+        "title": "Establish private connectivity for AWS Elastic Disaster Recovery using AWS Direct Connect",
+        "link": "https://aws.amazon.com/blogs/storage/establish-private-connectivity-for-aws-elastic-disaster-recovery-using-aws-direct-connect/"
+    },
+    {
         "title": "How DXC creates application consistent EBS Snapshots for Linux",
         "link": "https://aws.amazon.com/blogs/storage/how-dxc-creates-application-consistent-ebs-snapshots-for-linux/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Transferring data in Amazon S3 between AWS GovCloud (US) Regions and commercial AWS Regions using AWS DataSync",
         "link": "https://aws.amazon.com/blogs/storage/transferring-data-in-amazon-s3-between-aws-govcloud-us-regions-and-commercial-aws-regions-using-aws-datasync/"
-    },
-    {
-        "title": "Application-consistent backup for Windows application on Amazon EC2 with AWS Backup",
-        "link": "https://aws.amazon.com/blogs/storage/application-consistent-backup-for-windows-application-on-amazon-ec2-with-aws-backup/"
-    },
-    {
-        "title": "How Toyota Connected North America reduced storage costs by optimizing its growing data on Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/how-toyota-connected-north-america-reduced-storage-costs-by-optimizing-its-growing-data-on-amazon-s3/"
     }
 ]

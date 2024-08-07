@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement a rollback strategy after an Amazon Aurora MySQL blue/green deployment switchover",
+        "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-after-an-amazon-aurora-mysql-blue-green-deployment-switchover/"
+    },
+    {
+        "title": "Review your Amazon Aurora and Amazon RDS security configuration with Prowler\u2019s new checks",
+        "link": "https://aws.amazon.com/blogs/database/review-your-amazon-aurora-and-amazon-rds-security-configuration-with-prowlers-new-checks/"
+    },
+    {
         "title": "Migrate an on-premises MySQL database to Amazon Aurora MySQL over a private network using AWS DMS homogeneous data migration and Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/database/migrate-an-on-premises-mysql-database-to-amazon-aurora-mysql-over-a-private-network-using-aws-dms-homogeneous-data-migration-and-network-load-balancer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhance database performance with Amazon RDS dedicated log volumes",
         "link": "https://aws.amazon.com/blogs/database/enhance-database-performance-with-amazon-rds-dedicated-log-volumes/"
-    },
-    {
-        "title": "Achieve near real-time analytics with Amazon DynamoDB and zero-ETL for Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/database/achieve-near-real-time-analytics-with-amazon-dynamodb-and-zero-etl-for-amazon-opensearch-service/"
-    },
-    {
-        "title": "Introducing Curated Solutions for Databases on AWS",
-        "link": "https://aws.amazon.com/blogs/database/introducing-curated-solutions-for-databases-on-aws/"
     }
 ]
