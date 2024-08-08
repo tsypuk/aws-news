@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Amazon APerf to go from 50% below to 36% above performance target",
+        "link": "https://aws.amazon.com/blogs/compute/using-amazon-aperf-to-go-from-50-below-to-36-above-performance-target/"
+    },
+    {
         "title": "Migrating your on-premises workloads to AWS Outposts rack",
         "link": "https://aws.amazon.com/blogs/compute/migrating-your-on-premises-workloads-to-aws-outposts-rack/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying an EMR cluster on AWS Outposts to process data from an on-premises database",
         "link": "https://aws.amazon.com/blogs/compute/deploying-an-emr-cluster-on-aws-outposts-to-process-data-from-an-on-premises-database/"
-    },
-    {
-        "title": "Re-platforming Java applications using the updated AWS Serverless Java Container",
-        "link": "https://aws.amazon.com/blogs/compute/re-platforming-java-applications-using-the-updated-aws-serverless-java-container/"
     }
 ]

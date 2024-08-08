@@ -1,5 +1,13 @@
 [
     {
+        "title": "Better Together: Amazon SageMaker Canvas and RDS for SQL Server, a predictive ML model sample use case",
+        "link": "https://aws.amazon.com/blogs/database/better-together-amazon-sagemaker-canvas-and-rds-for-sql-server-a-predictive-ml-model-sample-use-case/"
+    },
+    {
+        "title": "Power real-time vector search capabilities with Amazon MemoryDB",
+        "link": "https://aws.amazon.com/blogs/database/power-real-time-vector-search-capabilities-with-amazon-memorydb/"
+    },
+    {
         "title": "Implement a rollback strategy after an Amazon Aurora MySQL blue/green deployment switchover",
         "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-after-an-amazon-aurora-mysql-blue-green-deployment-switchover/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Export Amazon RDS for MySQL and MariaDB databases to Amazon S3 using a custom API",
         "link": "https://aws.amazon.com/blogs/database/export-amazon-rds-for-mysql-and-mariadb-databases-to-amazon-s3-using-a-custom-api/"
-    },
-    {
-        "title": "Key considerations for successful database management during a merger and acquisition",
-        "link": "https://aws.amazon.com/blogs/database/key-considerations-for-successful-database-management-during-a-merger-and-acquisition/"
-    },
-    {
-        "title": "Enhance database performance with Amazon RDS dedicated log volumes",
-        "link": "https://aws.amazon.com/blogs/database/enhance-database-performance-with-amazon-rds-dedicated-log-volumes/"
     }
 ]

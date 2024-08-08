@@ -1,5 +1,17 @@
 [
     {
+        "title": "Generating Accurate Git Commit Messages with Amazon Q Developer CLI Context Modifiers",
+        "link": "https://aws.amazon.com/blogs/devops/generating-accurate-git-commit-messages-with-amazon-q-developer-cli-context-modifiers/"
+    },
+    {
+        "title": "Implementing Identity-Aware Sessions with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/implementing-identity-aware-sessions-with-amazon-q-developer/"
+    },
+    {
+        "title": "How to use Amazon Q Developer to deploy a Serverless web application with AWS CDK",
+        "link": "https://aws.amazon.com/blogs/devops/how-to-use-amazon-q-developer-to-deploy-a-serverless-web-application-with-aws-cdk/"
+    },
+    {
         "title": "Amazon Q Developer just reached a $260 million dollar milestone",
         "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-just-reached-a-260-million-dollar-milestone/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AWS CloudFormation Linter (cfn-lint) v1",
         "link": "https://aws.amazon.com/blogs/devops/aws-cloudformation-linter-v1/"
-    },
-    {
-        "title": "Three ways Amazon Q Developer agent for code transformation accelerates Java upgrades",
-        "link": "https://aws.amazon.com/blogs/devops/three-ways-amazon-q-developer-agent-for-code-transformation-accelerates-java-upgrades/"
-    },
-    {
-        "title": "Accelerate your Automation for SAP on AWS Operations using Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-your-automation-for-sap-on-aws-operations-using-amazon-q-developer/"
-    },
-    {
-        "title": "Five troubleshooting examples with Amazon Q",
-        "link": "https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamline compliance management with AWS Config custom rules and conformance packs",
+        "link": "https://aws.amazon.com/blogs/mt/streamline-compliance-management-with-aws-config-custom-rules-and-conformance-packs/"
+    },
+    {
+        "title": "Improve Amazon Bedrock Observability with Amazon CloudWatch AppSignals",
+        "link": "https://aws.amazon.com/blogs/mt/improve-amazon-bedrock-observability-with-amazon-cloudwatch-appsignals/"
+    },
+    {
         "title": "Elevating Your AWS Observability: Unlocking the Power of Amazon CloudWatch Alarms",
         "link": "https://aws.amazon.com/blogs/mt/elevating-your-aws-observability-unlocking-the-power-of-amazon-cloudwatch-alarms/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Configuring machine to machine Authentication with Amazon Cognito and Amazon API Gateway \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/mt/configuring-machine-to-machine-authentication-with-amazon-cognito-and-amazon-api-gateway-part-1/"
-    },
-    {
-        "title": "Empowering Manufacturing Innovation: How AI & GenAI Centers of Excellence can drive Modernization",
-        "link": "https://aws.amazon.com/blogs/mt/empowering-manufacturing-innovation-how-ai-genai-centers-of-excellence-can-drive-modernization/"
-    },
-    {
-        "title": "Accelerate testing with AWS Mainframe Modernization Application Testing",
-        "link": "https://aws.amazon.com/blogs/mt/accelerate-testing-with-aws-mainframe-modernization-application-testing/"
     }
 ]

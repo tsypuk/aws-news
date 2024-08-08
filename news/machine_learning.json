@@ -1,5 +1,13 @@
 [
     {
+        "title": "Improve AI assistant response accuracy using Knowledge Bases for Amazon Bedrock and a reranking model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-ai-assistant-response-accuracy-using-knowledge-bases-for-amazon-bedrock-and-a-reranking-model/"
+    },
+    {
+        "title": "Automate the machine learning model approval process with Amazon SageMaker Model Registry and Amazon SageMaker Pipelines",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-machine-learning-model-approval-process-with-amazon-sagemaker-model-registry-and-amazon-sagemaker-pipelines/"
+    },
+    {
         "title": "Build custom generative AI applications powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-generative-ai-applications-powered-by-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Intuit uses Amazon Bedrock and Anthropic\u2019s Claude to explain taxes in TurboTax to millions of consumer tax filers",
         "link": "https://aws.amazon.com/blogs/machine-learning/intuit-uses-amazon-bedrock-and-anthropic-claude-to-explain-taxes-in-turbotax-to-millions-of-consumer-tax-filers/"
-    },
-    {
-        "title": "Build generative AI\u2013powered Salesforce applications with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-powered-salesforce-applications-with-amazon-bedrock/"
-    },
-    {
-        "title": "Transition your Amazon Forecast usage to Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transition-your-amazon-forecast-usage-to-amazon-sagemaker-canvas/"
     }
 ]

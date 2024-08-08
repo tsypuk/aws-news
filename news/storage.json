@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building cyber resiliency with AWS Backup logically air-gapped vault",
+        "link": "https://aws.amazon.com/blogs/storage/building-cyber-resiliency-with-aws-backup-logically-air-gapped-vault/"
+    },
+    {
         "title": "How Vivian Health is using Amazon S3 Express One Zone to accelerate healthcare hiring",
         "link": "https://aws.amazon.com/blogs/storage/how-vivian-health-is-using-amazon-s3-express-one-zone-to-accelerate-healthcare-hiring/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Siemens builds Datalake2Go on AWS to analyze disparate data globally",
         "link": "https://aws.amazon.com/blogs/storage/siemens-builds-datalake2go-on-aws-to-analyze-disparate-data-globally/"
-    },
-    {
-        "title": "Transferring data in Amazon S3 between AWS GovCloud (US) Regions and commercial AWS Regions using AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/transferring-data-in-amazon-s3-between-aws-govcloud-us-regions-and-commercial-aws-regions-using-aws-datasync/"
     }
 ]

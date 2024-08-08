@@ -1,5 +1,13 @@
 [
     {
+        "title": "OpenSearch optimized instance (OR1) is game changing for indexing performance and cost",
+        "link": "https://aws.amazon.com/blogs/big-data/opensearch-optimized-instance-or1-is-game-changing-for-indexing-performance-and-cost/"
+    },
+    {
+        "title": "AWS Glue mutual TLS authentication for Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/aws-glue-mutual-tls-authentication-for-amazon-msk/"
+    },
+    {
         "title": "Enrich, standardize, and translate streaming data in Amazon Redshift with generative AI",
         "link": "https://aws.amazon.com/blogs/big-data/enrich-standardize-and-translate-streaming-data-in-amazon-redshift-with-generative-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate workloads from AWS Data Pipeline",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-workloads-from-aws-data-pipeline/"
-    },
-    {
-        "title": "Transition from Amazon CloudSearch to Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/transition-from-amazon-cloudsearch-to-amazon-opensearch-service/"
-    },
-    {
-        "title": "Configure SAML federation with Amazon OpenSearch Serverless and Keycloak",
-        "link": "https://aws.amazon.com/blogs/big-data/configure-saml-federation-with-amazon-opensearch-serverless-and-keycloak/"
     }
 ]

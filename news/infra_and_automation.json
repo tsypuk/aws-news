@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify SQL queries to your AWS API operations using Steampipe and AWS plugin",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/simplify-sql-queries-to-aws-api-operations-using-steampipe-and-aws-plugin/"
+    },
+    {
         "title": "Best practices for creating IaC for AWS GovCloud (US)",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/best-practices-for-creating-iac-for-aws-govcloud-us/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reduce security risks from IaC drift in multi-Region AWS deployments with Terraform",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-security-risks-from-iac-drift-in-multi-region-aws-deployments-with-terraform/"
-    },
-    {
-        "title": "Automate sports data polling with AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-sports-data-polling-with-aws-step-functions/"
     }
 ]
