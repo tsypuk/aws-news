@@ -1,5 +1,21 @@
 [
     {
+        "title": "Cisco achieves 50% latency improvement using Amazon SageMaker Inference faster autoscaling feature",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cisco-achieves-50-latency-improvement-using-amazon-sagemaker-inference-faster-autoscaling-feature/"
+    },
+    {
+        "title": "How Cisco accelerated the use of generative AI with Amazon SageMaker Inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-cisco-accelerated-the-use-of-generative-ai-with-amazon-sagemaker-inference/"
+    },
+    {
+        "title": "Discover insights from Box with the Amazon Q Box connector",
+        "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-box-with-the-amazon-q-box-connector/"
+    },
+    {
+        "title": "How Twilio generated SQL using Looker Modeling Language data with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-twilio-generated-sql-using-looker-modeling-language-data-with-amazon-bedrock/"
+    },
+    {
         "title": "Improve AI assistant response accuracy using Knowledge Bases for Amazon Bedrock and a reranking model",
         "link": "https://aws.amazon.com/blogs/machine-learning/improve-ai-assistant-response-accuracy-using-knowledge-bases-for-amazon-bedrock-and-a-reranking-model/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Configure Amazon Q Business with AWS IAM Identity Center trusted identity propagation",
         "link": "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-q-business-with-aws-iam-identity-center-trusted-identity-propagation/"
-    },
-    {
-        "title": "Enhance your media search experience using Amazon Q Business and Amazon Transcribe",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-your-media-search-experience-using-amazon-q-business-and-amazon-transcribe/"
-    },
-    {
-        "title": "Monks boosts processing speed by four times for real-time diffusion AI image generation using Amazon SageMaker and AWS Inferentia2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/monks-boosts-processing-speed-by-four-times-for-real-time-diffusion-ai-image-generation-using-amazon-sagemaker-and-aws-inferentia2/"
-    },
-    {
-        "title": "Implement web crawling in Knowledge Bases for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-web-crawling-in-knowledge-bases-for-amazon-bedrock/"
-    },
-    {
-        "title": "Intuit uses Amazon Bedrock and Anthropic\u2019s Claude to explain taxes in TurboTax to millions of consumer tax filers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intuit-uses-amazon-bedrock-and-anthropic-claude-to-explain-taxes-in-turbotax-to-millions-of-consumer-tax-filers/"
     }
 ]

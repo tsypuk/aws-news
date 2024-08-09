@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enabling high availability of Amazon EC2 instances on AWS Outposts servers: (Part 2)",
+        "link": "https://aws.amazon.com/blogs/compute/enabling-high-availability-of-amazon-ec2-instances-on-aws-outposts-servers-part-2/"
+    },
+    {
+        "title": "Enabling high availability of Amazon EC2 instances on AWS Outposts servers: (Part 1)",
+        "link": "https://aws.amazon.com/blogs/compute/enabling-high-availability-of-amazon-ec2-instances-on-aws-outposts-servers-part-1/"
+    },
+    {
         "title": "Using Amazon APerf to go from 50% below to 36% above performance target",
         "link": "https://aws.amazon.com/blogs/compute/using-amazon-aperf-to-go-from-50-below-to-36-above-performance-target/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Comparing design approaches for building serverless microservices",
         "link": "https://aws.amazon.com/blogs/compute/comparing-design-approaches-for-building-serverless-microservices/"
-    },
-    {
-        "title": "Introducing the .NET 8 runtime for AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-the-net-8-runtime-for-aws-lambda/"
-    },
-    {
-        "title": "Deploying an EMR cluster on AWS Outposts to process data from an on-premises database",
-        "link": "https://aws.amazon.com/blogs/compute/deploying-an-emr-cluster-on-aws-outposts-to-process-data-from-an-on-premises-database/"
     }
 ]

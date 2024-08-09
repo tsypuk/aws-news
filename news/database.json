@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyze blockchain data with natural language using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/analyze-blockchain-data-with-natural-language-using-amazon-bedrock/"
+    },
+    {
         "title": "Better Together: Amazon SageMaker Canvas and RDS for SQL Server, a predictive ML model sample use case",
         "link": "https://aws.amazon.com/blogs/database/better-together-amazon-sagemaker-canvas-and-rds-for-sql-server-a-predictive-ml-model-sample-use-case/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New Amazon Neptune engine version delivers up to 9 times faster and 10 times higher throughput for openCypher query performance",
         "link": "https://aws.amazon.com/blogs/database/new-amazon-neptune-engine-version-delivers-up-to-9-times-faster-and-10-times-higher-throughput-for-opencypher-query-performance/"
-    },
-    {
-        "title": "Export Amazon RDS for MySQL and MariaDB databases to Amazon S3 using a custom API",
-        "link": "https://aws.amazon.com/blogs/database/export-amazon-rds-for-mysql-and-mariadb-databases-to-amazon-s3-using-a-custom-api/"
     }
 ]

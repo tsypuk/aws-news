@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Mainframe Modernization now available in Terraform",
+        "link": "https://aws.amazon.com/blogs/mt/aws-mainframe-modernization-now-available-in-terraform/"
+    },
+    {
         "title": "Streamline compliance management with AWS Config custom rules and conformance packs",
         "link": "https://aws.amazon.com/blogs/mt/streamline-compliance-management-with-aws-config-custom-rules-and-conformance-packs/"
     },
@@ -36,7 +40,7 @@
         "link": "https://aws.amazon.com/blogs/mt/introducing-parameter-store-cross-account-sharing/"
     },
     {
-        "title": "Simplifying remediation using AWS Systems Manager with Amazon Q developer",
+        "title": "Simplifying remediation using AWS Systems Manager with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/mt/simplifying-remediation-using-aws-systems-manager-with-amazon-q-developer/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Configuring machine to machine Authentication with Amazon Cognito and Amazon API Gateway \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/mt/configuring-machine-to-machine-authentication-with-amazon-cognito-and-amazon-api-gateway-part-2/"
-    },
-    {
-        "title": "Configuring machine to machine Authentication with Amazon Cognito and Amazon API Gateway \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/mt/configuring-machine-to-machine-authentication-with-amazon-cognito-and-amazon-api-gateway-part-1/"
     }
 ]

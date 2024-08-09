@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cordial\u2019s journey implementing Bottlerocket and Karpenter in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/cordials-journey-implementing-bottlerocket-and-karpenter-in-amazon-eks/"
+    },
+    {
         "title": "Harnessing Karpenter: Transitioning Kafka to Amazon EKS with AWS solutions",
         "link": "https://aws.amazon.com/blogs/containers/harnessing-karpenter-transitioning-kafka-to-amazon-eks-with-aws-solutions/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Ensuring fair bandwidth allocation for Amazon EKS Workloads",
         "link": "https://aws.amazon.com/blogs/containers/ensuring-fair-bandwidth-allocation-for-amazon-eks-workloads/"
-    },
-    {
-        "title": "Enhancing Kubernetes workload isolation and security using Kata Containers",
-        "link": "https://aws.amazon.com/blogs/containers/enhancing-kubernetes-workload-isolation-and-security-using-kata-containers/"
     }
 ]

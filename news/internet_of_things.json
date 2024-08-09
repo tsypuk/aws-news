@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improved Utility Asset Management and Maintenance using AWS IoT and GenAI Technologies",
+        "link": "https://aws.amazon.com/blogs/iot/improved-utility-asset-management-and-maintenance-using-aws-iot-and-genai-technologies/"
+    },
+    {
         "title": "Accelerate AWS IoT SiteWise insights with Edge2Web Power Tools",
         "link": "https://aws.amazon.com/blogs/iot/accelerate-aws-iot-sitewise-insights-with-edge2web-power-tools/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS IoT Device Defender and Splunk to  monitor the security posture of your IoT application",
         "link": "https://aws.amazon.com/blogs/iot/use-aws-iot-device-defender-and-splunk-to-monitor-the-security-posture-of-your-iot-application/"
-    },
-    {
-        "title": "Use location data with AWS IoT Device Management to monitor and manage your IoT fleet",
-        "link": "https://aws.amazon.com/blogs/iot/aws-iot-device-management-location-indexing-geoquery/"
     }
 ]
