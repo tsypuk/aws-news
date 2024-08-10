@@ -1,5 +1,9 @@
 [
     {
+        "title": "Restart Amazon ECS tasks with AWS Lambda and AWS CloudFormation custom resources",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/restart-amazon-ecs-tasks-with-aws-lambda-and-aws-cloudformation-custom-resources/"
+    },
+    {
         "title": "Simplify SQL queries to your AWS API operations using Steampipe and AWS plugin",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/simplify-sql-queries-to-aws-api-operations-using-steampipe-and-aws-plugin/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Manage permission sets and account assignments in AWS IAM Identity Center with a CI/CD pipeline",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/manage-permission-sets-and-account-assignments-in-aws-iam-identity-center-with-a-ci-cd-pipeline/"
-    },
-    {
-        "title": "Reduce security risks from IaC drift in multi-Region AWS deployments with Terraform",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-security-risks-from-iac-drift-in-multi-region-aws-deployments-with-terraform/"
     }
 ]

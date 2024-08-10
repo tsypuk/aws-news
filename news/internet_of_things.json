@@ -1,5 +1,9 @@
 [
     {
+        "title": "Emerging Architecture Patterns for Integrating IoT and generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/iot/emerging-architecture-patterns-for-integrating-iot-and-generative-ai-on-aws/"
+    },
+    {
         "title": "Improved Utility Asset Management and Maintenance using AWS IoT and GenAI Technologies",
         "link": "https://aws.amazon.com/blogs/iot/improved-utility-asset-management-and-maintenance-using-aws-iot-and-genai-technologies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Early Fire Detection Design Model for Smart Cities: Using AWS IoT and ML Technologies",
         "link": "https://aws.amazon.com/blogs/iot/early-fire-detection-design-model-for-smart-cities-using-aws-iot-and-ml-technologies/"
-    },
-    {
-        "title": "Use AWS IoT Device Defender and Splunk to  monitor the security posture of your IoT application",
-        "link": "https://aws.amazon.com/blogs/iot/use-aws-iot-device-defender-and-splunk-to-monitor-the-security-posture-of-your-iot-application/"
     }
 ]
