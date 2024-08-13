@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harness the power of AI and ML using Splunk and Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-ai-and-ml-using-splunk-and-amazon-sagemaker-canvas/"
+    },
+    {
         "title": "How Deltek uses Amazon Bedrock for question and answering on government solicitation documents",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-deltek-uses-amazon-bedrock-for-question-and-answering-on-government-solicitation-documents/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlocking Japanese LLMs with AWS Trainium: Innovators Showcase from the AWS LLM Development Support Program",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-japanese-llms-with-aws-trainium-innovators-showcase-from-the-aws-llm-development-support-program/"
-    },
-    {
-        "title": "Use the ApplyGuardrail API with long-context inputs and streaming outputs in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-the-applyguardrail-api-with-long-context-inputs-and-streaming-outputs-in-amazon-bedrock/"
     }
 ]

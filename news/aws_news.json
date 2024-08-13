@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Mithra, Amazon Titan Image Generator v2, AWS GenAI Lofts, and more (August 12, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mithra-amazon-titan-image-generator-v2-aws-genai-lofts-and-more-august-12-2024/"
+    },
+    {
         "title": "Amazon Titan Image Generator v2 is now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrate your data and collaborate using data preparation in AWS Glue Studio",
         "link": "https://aws.amazon.com/blogs/aws/integrate-your-data-and-collaborate-using-data-preparation-in-aws-glue-studio/"
-    },
-    {
-        "title": "AWS Graviton4-based Amazon EC2 R8g instances: best price performance in Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/"
     }
 ]

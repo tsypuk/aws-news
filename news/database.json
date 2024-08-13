@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to deploy Stacks blockchain nodes on AWS with the AWS Blockchain Node Runners Stacks blueprint",
+        "link": "https://aws.amazon.com/blogs/database/how-to-deploy-stacks-blockchain-nodes-on-aws-with-the-aws-blockchain-node-runners-stacks-blueprint/"
+    },
+    {
+        "title": "Stream change data in a multicloud environment using AWS DMS, Amazon MSK, and Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/database/stream-change-data-in-a-multicloud-environment-using-aws-dms-amazon-msk-and-amazon-managed-service-for-apache-flink/"
+    },
+    {
         "title": "Analyze blockchain data with natural language using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/analyze-blockchain-data-with-natural-language-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Run an Ethereum staking service on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/database/run-an-ethereum-staking-service-on-amazon-eks/"
-    },
-    {
-        "title": "Ola Money achieved operational excellence, disaster recovery site in Asia Pacific (Hyderabad) Region, and up to 60% cost savings using Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/ola-money-achieved-operational-excellence-disaster-recovery-site-in-asia-pacific-hyderabad-region-and-up-to-60-cost-savings-using-amazon-aurora/"
-    },
-    {
-        "title": "New Amazon Neptune engine version delivers up to 9 times faster and 10 times higher throughput for openCypher query performance",
-        "link": "https://aws.amazon.com/blogs/database/new-amazon-neptune-engine-version-delivers-up-to-9-times-faster-and-10-times-higher-throughput-for-opencypher-query-performance/"
     }
 ]

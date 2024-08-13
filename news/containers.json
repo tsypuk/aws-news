@@ -1,5 +1,17 @@
 [
     {
+        "title": "Modernize your .NET application using AWS App2Container and AWS Toolkit for .NET",
+        "link": "https://aws.amazon.com/blogs/containers/replatform-and-refactor-your-workload-to-aws-using-aws-app2container-and-aws-toolkit-for-net-refactoring-application/"
+    },
+    {
+        "title": "Yleisradio enhances digital services with Amazon EKS and IPv6 Adoption",
+        "link": "https://aws.amazon.com/blogs/containers/yleisradio-enhances-digital-services-with-amazon-eks-and-ipv6-adoption/"
+    },
+    {
+        "title": "How Getir optimized their Amazon EKS compute using Karpenter",
+        "link": "https://aws.amazon.com/blogs/containers/how-getir-optimized-their-amazon-eks-compute-using-karpenter/"
+    },
+    {
         "title": "Cordial\u2019s journey implementing Bottlerocket and Karpenter in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/cordials-journey-implementing-bottlerocket-and-karpenter-in-amazon-eks/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Proactive scaling of Amazon ECS services using Amazon ECS Service Connect Metrics",
         "link": "https://aws.amazon.com/blogs/containers/proactive-scaling-of-amazon-ecs-services-using-amazon-ecs-service-connect-metrics/"
-    },
-    {
-        "title": "Host the Whisper Model with Streaming Mode on Amazon EKS and Ray Serve",
-        "link": "https://aws.amazon.com/blogs/containers/host-the-whisper-model-with-streaming-mode-on-amazon-eks-and-ray-serve/"
-    },
-    {
-        "title": "Deploying Karpenter Nodes with Multus on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/deploying-karpenter-nodes-with-multus-on-amazon-eks/"
-    },
-    {
-        "title": "Ensuring fair bandwidth allocation for Amazon EKS Workloads",
-        "link": "https://aws.amazon.com/blogs/containers/ensuring-fair-bandwidth-allocation-for-amazon-eks-workloads/"
     }
 ]

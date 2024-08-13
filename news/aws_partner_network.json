@@ -1,5 +1,9 @@
 [
     {
+        "title": "Take control of your data with InterSystems IRIS\u00ae Cloud SQL and IRIS\u00ae IntegratedML\u00ae",
+        "link": "https://aws.amazon.com/blogs/apn/take-control-of-your-data-with-intersystems-iris-cloud-sql-and-intersystems-iris-integratedml/"
+    },
+    {
         "title": "How to implement Zero Standing Privileges with CyberArk for securing access to the AWS console",
         "link": "https://aws.amazon.com/blogs/apn/how-to-implement-zero-standing-privileges-with-cyberark-for-securing-access-to-the-aws-console/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Connect Fast and Secure to Bloomberg FIX and SWIFT Services from AWS",
         "link": "https://aws.amazon.com/blogs/apn/connect-fast-and-secure-to-bloomberg-fix-and-swift-services-from-aws/"
-    },
-    {
-        "title": "10 million insurance quotes per hour \u2013 How CDL and AWS are tackling the cost of living crisis",
-        "link": "https://aws.amazon.com/blogs/apn/10-million-insurance-quotes-per-hour-how-cdl-and-aws-are-tackling-the-cost-of-living-crisis/"
     }
 ]
