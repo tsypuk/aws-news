@@ -1,5 +1,13 @@
 [
     {
+        "title": "Organize content across business units with enterprise-wide data governance using Amazon DataZone domain units and authorization policies",
+        "link": "https://aws.amazon.com/blogs/big-data/organize-content-across-business-units-with-enterprise-wide-data-governance-using-amazon-datazone-domain-units-and-authorization-policies/"
+    },
+    {
+        "title": "Use AWS Glue to streamline SFTP data processing",
+        "link": "https://aws.amazon.com/blogs/big-data/use-aws-glue-to-streamline-sftp-data-processing/"
+    },
+    {
         "title": "Automate Amazon Redshift Advisor recommendations with email alerts using an API",
         "link": "https://aws.amazon.com/blogs/big-data/automate-amazon-redshift-advisor-recommendations-with-email-alerts-using-an-api/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Deliver Amazon CloudWatch logs to Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/deliver-amazon-cloudwatch-logs-to-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Synchronize data lakes with CDC-based UPSERT using open table format, AWS Glue, and Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/synchronize-data-lakes-with-cdc-based-upsert-using-open-table-format-aws-glue-and-amazon-msk/"
-    },
-    {
-        "title": "Integrate Amazon MWAA with Microsoft Entra ID using SAML authentication",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-mwaa-with-microsoft-entra-id-using-saml-authentication/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build and deploy knowledge graphs faster with RDF and openCypher",
+        "link": "https://aws.amazon.com/blogs/database/build-and-deploy-knowledge-graphs-faster-with-rdf-and-opencypher/"
+    },
+    {
+        "title": "Monitor Amazon DynamoDB operation counts with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/database/monitor-amazon-dynamodb-operation-counts-with-amazon-cloudwatch/"
+    },
+    {
         "title": "How to deploy Stacks blockchain nodes on AWS with the AWS Blockchain Node Runners Stacks blueprint",
         "link": "https://aws.amazon.com/blogs/database/how-to-deploy-stacks-blockchain-nodes-on-aws-with-the-aws-blockchain-node-runners-stacks-blueprint/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implement UUIDv7 in Amazon RDS for PostgreSQL using Trusted Language Extensions",
         "link": "https://aws.amazon.com/blogs/database/implement-uuidv7-in-amazon-rds-for-postgresql-using-trusted-language-extensions/"
-    },
-    {
-        "title": "Use the AWS InfluxDB migration script to migrate your InfluxDB OSS 2.x data to Amazon Timestream for InfluxDB",
-        "link": "https://aws.amazon.com/blogs/database/use-the-aws-influxdb-migration-script-to-migrate-your-influxdb-oss-2-x-data-to-amazon-timestream-for-influxdb/"
-    },
-    {
-        "title": "Run an Ethereum staking service on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/database/run-an-ethereum-staking-service-on-amazon-eks/"
     }
 ]

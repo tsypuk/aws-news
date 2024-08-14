@@ -4,10 +4,6 @@
         "link": "https://aws.amazon.com/blogs/containers/replatform-and-refactor-your-workload-to-aws-using-aws-app2container-and-aws-toolkit-for-net-refactoring-application/"
     },
     {
-        "title": "Yleisradio enhances digital services with Amazon EKS and IPv6 Adoption",
-        "link": "https://aws.amazon.com/blogs/containers/yleisradio-enhances-digital-services-with-amazon-eks-and-ipv6-adoption/"
-    },
-    {
         "title": "How Getir optimized their Amazon EKS compute using Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/how-getir-optimized-their-amazon-eks-compute-using-karpenter/"
     },
@@ -38,5 +34,9 @@
     {
         "title": "Proactive scaling of Amazon ECS services using Amazon ECS Service Connect Metrics",
         "link": "https://aws.amazon.com/blogs/containers/proactive-scaling-of-amazon-ecs-services-using-amazon-ecs-service-connect-metrics/"
+    },
+    {
+        "title": "Host the Whisper Model with Streaming Mode on Amazon EKS and Ray Serve",
+        "link": "https://aws.amazon.com/blogs/containers/host-the-whisper-model-with-streaming-mode-on-amazon-eks-and-ray-serve/"
     }
 ]

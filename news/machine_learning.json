@@ -1,5 +1,9 @@
 [
     {
+        "title": "Intelligent healthcare forms analysis with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-healthcare-forms-analysis-with-amazon-bedrock/"
+    },
+    {
         "title": "Harness the power of AI and ML using Splunk and Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-ai-and-ml-using-splunk-and-amazon-sagemaker-canvas/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Import a fine-tuned Meta Llama 3 model for SQL query generation on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/import-a-fine-tuned-meta-llama-3-model-for-sql-query-generation-on-amazon-bedrock/"
-    },
-    {
-        "title": "Unlocking Japanese LLMs with AWS Trainium: Innovators Showcase from the AWS LLM Development Support Program",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-japanese-llms-with-aws-trainium-innovators-showcase-from-the-aws-llm-development-support-program/"
     }
 ]
