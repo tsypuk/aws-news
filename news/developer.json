@@ -1,5 +1,9 @@
 [
     {
+        "title": "The AWS SDK for Java 1.x will no longer support Java 7",
+        "link": "https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-will-no-longer-support-java-7/"
+    },
+    {
         "title": "Preview Release of the Migration Tool for the AWS SDK for Java 2.x",
         "link": "https://aws.amazon.com/blogs/developer/preview-release-of-the-migration-tool-for-the-aws-sdk-for-java-2-x/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing overridable client configuration in the AWS SDK for Kotlin",
         "link": "https://aws.amazon.com/blogs/developer/overridable-client-configuration-aws-sdk-kotlin/"
-    },
-    {
-        "title": "Creating Smithy Projects with Smithy Init",
-        "link": "https://aws.amazon.com/blogs/developer/creating-smithy-projects-with-smithy-init/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing document-level sync reports: Enhanced data sync visibility in Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-document-level-sync-reports-enhanced-data-sync-visibility-in-amazon-q-business/"
+    },
+    {
+        "title": "Derive generative AI-powered insights from ServiceNow with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/derive-generative-ai-powered-insights-from-servicenow-with-amazon-q-business/"
+    },
+    {
         "title": "Intelligent healthcare forms analysis with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-healthcare-forms-analysis-with-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Few-shot prompt engineering and fine-tuning for LLMs in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/few-shot-prompt-engineering-and-fine-tuning-for-llms-in-amazon-bedrock/"
-    },
-    {
-        "title": "Streamline insurance underwriting with generative AI using Amazon Bedrock \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-insurance-underwriting-with-generative-ai-using-amazon-bedrock-part-1/"
-    },
-    {
-        "title": "Import a fine-tuned Meta Llama 3 model for SQL query generation on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/import-a-fine-tuned-meta-llama-3-model-for-sql-query-generation-on-amazon-bedrock/"
     }
 ]

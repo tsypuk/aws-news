@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing Karpenter 1.0",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-karpenter-1-0/"
+    },
+    {
+        "title": "Yleisradio enhances digital services with Amazon EKS and IPv6 Adoption",
+        "link": "https://aws.amazon.com/blogs/containers/yleisradio-enhances-digital-services-with-amazon-eks-and-ipv6-adoption/"
+    },
+    {
         "title": "Modernize your .NET application using AWS App2Container and AWS Toolkit for .NET",
         "link": "https://aws.amazon.com/blogs/containers/replatform-and-refactor-your-workload-to-aws-using-aws-app2container-and-aws-toolkit-for-net-refactoring-application/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Patterns for TargetGroupBinding with AWS Load Balancer Controller",
         "link": "https://aws.amazon.com/blogs/containers/patterns-for-targetgroupbinding-with-aws-load-balancer-controller/"
-    },
-    {
-        "title": "Proactive scaling of Amazon ECS services using Amazon ECS Service Connect Metrics",
-        "link": "https://aws.amazon.com/blogs/containers/proactive-scaling-of-amazon-ecs-services-using-amazon-ecs-service-connect-metrics/"
-    },
-    {
-        "title": "Host the Whisper Model with Streaming Mode on Amazon EKS and Ray Serve",
-        "link": "https://aws.amazon.com/blogs/containers/host-the-whisper-model-with-streaming-mode-on-amazon-eks-and-ray-serve/"
     }
 ]
