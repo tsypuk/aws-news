@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use AWS Systems Manager Automation runbooks to resolve Elastic Block Store related operational tasks",
+        "link": "https://aws.amazon.com/blogs/mt/use-aws-systems-manager-automation-runbooks-to-resolve-elastic-block-store-related-operational-tasks/"
+    },
+    {
         "title": "AWS Mainframe Modernization now available in Terraform",
         "link": "https://aws.amazon.com/blogs/mt/aws-mainframe-modernization-now-available-in-terraform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Understanding AWS High Availability and Replication for vSphere Administrators",
         "link": "https://aws.amazon.com/blogs/mt/understanding-aws-high-availability-and-replication-for-vsphere-administrators/"
-    },
-    {
-        "title": "Configuring machine to machine Authentication with Amazon Cognito and Amazon API Gateway \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/mt/configuring-machine-to-machine-authentication-with-amazon-cognito-and-amazon-api-gateway-part-2/"
     }
 ]

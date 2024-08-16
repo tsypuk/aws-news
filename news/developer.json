@@ -1,5 +1,9 @@
 [
     {
+        "title": "Preview 1 of AWS SDK for .NET V4",
+        "link": "https://aws.amazon.com/blogs/developer/preview-1-of-aws-sdk-for-net-v4/"
+    },
+    {
         "title": "The AWS SDK for Java 1.x will no longer support Java 7",
         "link": "https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-will-no-longer-support-java-7/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Update to AWS SDK for Java v2, AWS SDK for .NET v3, and AWS Tools for PowerShell when using S3 GetObjectAttributes API",
         "link": "https://aws.amazon.com/blogs/developer/update-to-aws-sdk-for-java-v2-aws-sdk-for-net-v3-and-aws-tools-for-powershell-when-using-s3-getobjectattributes-api/"
-    },
-    {
-        "title": "Announcing overridable client configuration in the AWS SDK for Kotlin",
-        "link": "https://aws.amazon.com/blogs/developer/overridable-client-configuration-aws-sdk-kotlin/"
     }
 ]

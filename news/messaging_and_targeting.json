@@ -1,5 +1,9 @@
 [
     {
+        "title": "Email Journaling with SES Mail Manager",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/email-journaling-with-ses-mail-manager/"
+    },
+    {
         "title": "Secure communications for elections and political campaigns with AWS Wickr",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-communications-for-elections-and-political-campaigns-with-aws-wickr/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How large senders can move from sandbox to production using Amazon SES?",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-large-senders-can-move-from-sandbox-to-production-using-amazon-ses/"
-    },
-    {
-        "title": "Upgrade Your Email Tech Stack with Amazon SESv2 API",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/upgrade-your-email-tech-stack-with-amazon-sesv2-api/"
     }
 ]

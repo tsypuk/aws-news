@@ -1,5 +1,9 @@
 [
     {
+        "title": "Security best practices when using ALB authentication",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/security-best-practices-when-using-alb-authentication/"
+    },
+    {
         "title": "Visualize enterprise IP address management and planning with CIDR map",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/visualize-enterprise-ip-address-management-and-planning-with-cidr-map/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing dual-stack without public IPv4 Application Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-dual-stack-without-public-ipv4-application-load-balancer/"
-    },
-    {
-        "title": "Tenant routing strategies for SaaS applications on AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/tenant-routing-strategies-for-saas-applications-on-aws/"
     }
 ]

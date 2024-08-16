@@ -1,5 +1,9 @@
 [
     {
+        "title": "Collecting platform and billing details for Microsoft licensing on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/collecting-platform-and-billing-details-for-microsoft-licensing-on-aws/"
+    },
+    {
         "title": "New research shows AWS is the cloud provider of choice for SQL Server",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/new-research-shows-aws-is-the-cloud-provider-of-choice-for-sql-server/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to automate an in-place upgrade of SQL Server on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-an-in-place-upgrade-of-sql-server-on-amazon-ec2/"
-    },
-    {
-        "title": "How ABFL modernized Microsoft applications on AWS to drive efficiency and agility",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-abfl-modernized-microsoft-applications-on-aws-to-drive-efficiency-and-agility/"
     }
 ]
