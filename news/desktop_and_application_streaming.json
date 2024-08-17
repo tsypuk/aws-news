@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accessing AWS resources using AWS IAM Roles Anywhere from Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/accessing-aws-resources-from-amazon-workspaces-using-aws-iam-roles-anywhere/"
+    },
+    {
+        "title": "Automating Foundational NICE DCV Infrastructure",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automating-foundational-nice-dcv-infrastructure/"
+    },
+    {
         "title": "Cost Optimizer for Amazon WorkSpaces 2.7 released",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/cost-optimizer-for-amazon-workspaces-2-7-released/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Cost Optimizer for Amazon AppStream 2.0 on The Solutionist",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/cost-optimizer-for-amazon-appstream-2-0-on-the-solutionist/"
-    },
-    {
-        "title": "Unified access to AWS End User Computing services",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/unified-access-to-aws-end-user-computing-services/"
-    },
-    {
-        "title": "Citrix announces public tech preview of Citrix DaaS on Amazon WorkSpaces Core",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-public-tech-preview-of-citrix-daas-on-amazon-workspaces-core/"
     }
 ]

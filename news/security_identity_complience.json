@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Amazon GuardDuty Malware Protection to scan uploads to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-malware-protection-to-scan-uploads-to-amazon-s3/"
+    },
+    {
         "title": "How to centrally manage secrets with AWS Secrets Manager",
         "link": "https://aws.amazon.com/blogs/security/how-to-centrally-manage-secrets-with-aws-secrets-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Strategies for achieving least privilege at scale \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/security/strategies-for-achieving-least-privilege-at-scale-part-2/"
-    },
-    {
-        "title": "Strategies for achieving least privilege at scale \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/security/strategies-for-achieving-least-privilege-at-scale-part-1/"
     }
 ]
