@@ -1,5 +1,13 @@
 [
     {
+        "title": "Add macOS to your continuous integration pipelines with AWS CodeBuild",
+        "link": "https://aws.amazon.com/blogs/aws/add-macos-to-your-continuous-integration-pipelines-with-aws-codebuild/"
+    },
+    {
+        "title": "AWS Weekly Roundup: G6e instances, Karpenter, Amazon Prime Day metrics, AWS Certifications update and more (August 19, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-g6e-instances-karpenter-amazon-prime-day-metrics-aws-certifications-update-and-more-august-19-2024/"
+    },
+    {
         "title": "How AWS powered Prime Day 2024 for record-breaking sales",
         "link": "https://aws.amazon.com/blogs/aws/how-aws-powered-prime-day-2024-for-record-breaking-sales/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Amazon Q Developer in SageMaker Studio to streamline ML workflows",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-q-developer-in-sagemaker-studio-to-streamline-ml-workflows/"
-    },
-    {
-        "title": "Monitor data events in Amazon S3 Express One Zone with AWS CloudTrail",
-        "link": "https://aws.amazon.com/blogs/aws/monitor-data-events-in-amazon-s3-express-one-zone-with-aws-cloudtrail/"
-    },
-    {
-        "title": "Top Announcements of the AWS Summit in New York, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2024-2/"
     }
 ]

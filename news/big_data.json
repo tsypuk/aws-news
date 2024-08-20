@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlock scalable analytics with a secure connectivity pattern in AWS Glue to read from or write to Snowflake",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-a-secure-connectivity-pattern-in-aws-glue-to-read-from-or-write-to-snowflake/"
+    },
+    {
+        "title": "Embed Amazon OpenSearch Service dashboards in your application",
+        "link": "https://aws.amazon.com/blogs/big-data/embed-amazon-opensearch-service-dashboards-in-your-application/"
+    },
+    {
         "title": "Seamless integration of data lake and data warehouse using Amazon Redshift Spectrum and Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/seamless-integration-of-data-lake-and-data-warehouse-using-amazon-redshift-spectrum-and-amazon-datazone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing data products in Amazon DataZone: Simplify discovery and subscription with business use case based grouping",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-data-products-in-amazon-datazone-simplify-discovery-and-subscription-with-business-use-case-based-grouping/"
-    },
-    {
-        "title": "Set up cross-account AWS Glue Data Catalog access using AWS Lake Formation and AWS IAM Identity Center with Amazon Redshift and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/big-data/set-up-cross-account-aws-glue-data-catalog-access-using-aws-lake-formation-and-aws-iam-identity-center-with-amazon-redshift-and-amazon-quicksight/"
-    },
-    {
-        "title": "Amazon OpenSearch Serverless cost-effective search capabilities, at any scale",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-cost-effective-search-capabilities-at-any-scale/"
     }
 ]

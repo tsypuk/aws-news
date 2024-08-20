@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cohere Rerank 3 Nimble now generally available on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-rerank-3-nimble-now-generally-available-on-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Perform generative AI-powered data prep and no-code ML over any size of data using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/perform-generative-ai-powered-data-prep-and-no-code-ml-over-any-size-of-data-using-amazon-sagemaker-canvas/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cepsa Qu\u00edmica improves the efficiency and accuracy of product stewardship using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/cepsa-quimica-improves-the-efficiency-and-accuracy-of-product-stewardship-using-amazon-bedrock/"
-    },
-    {
-        "title": "GraphStorm 0.3: Scalable, multi-task learning on graphs with user-friendly APIs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/graphstorm-0-3-scalable-multi-task-learning-on-graphs-with-user-friendly-apis/"
     }
 ]

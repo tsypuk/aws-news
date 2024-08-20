@@ -1,5 +1,9 @@
 [
     {
+        "title": "Citrix announces general availability of Citrix DaaS on Amazon WorkSpaces Core",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-general-availability-of-citrix-daas-on-amazon-workspaces-core/"
+    },
+    {
         "title": "Accessing AWS resources using AWS IAM Roles Anywhere from Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/accessing-aws-resources-from-amazon-workspaces-using-aws-iam-roles-anywhere/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve performance and security by blocking ads on Windows Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/improve-performance-and-security-by-blocking-ads-on-windows-amazon-workspaces/"
-    },
-    {
-        "title": "Cost Optimizer for Amazon AppStream 2.0 on The Solutionist",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/cost-optimizer-for-amazon-appstream-2-0-on-the-solutionist/"
     }
 ]

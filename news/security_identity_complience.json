@@ -1,5 +1,13 @@
 [
     {
+        "title": "Making sense of secrets management on Amazon EKS for regulated institutions",
+        "link": "https://aws.amazon.com/blogs/security/making-sense-of-secrets-management-on-amazon-eks-for-regulated-institutions/"
+    },
+    {
+        "title": "Announcing AWS KMS Elliptic Curve Diffie-Hellman (ECDH) support",
+        "link": "https://aws.amazon.com/blogs/security/announcing-aws-kms-elliptic-curve-diffie-hellman-ecdh-support/"
+    },
+    {
         "title": "Using Amazon GuardDuty Malware Protection to scan uploads to Amazon S3",
         "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-malware-protection-to-scan-uploads-to-amazon-s3/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS renews TISAX certification (Information with Very High Protection Needs (AL3)) across 19 regions",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-tisax-certification-information-with-very-high-protection-needs-al3-2/"
-    },
-    {
-        "title": "AWS achieves third-party attestation of conformance with the Secure Software Development Framework (SSDF)",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-third-party-attestation-of-conformance-with-the-secure-software-development-framework-ssdf/"
-    },
-    {
-        "title": "Strategies for achieving least privilege at scale \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/security/strategies-for-achieving-least-privilege-at-scale-part-2/"
     }
 ]
