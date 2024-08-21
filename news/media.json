@@ -1,5 +1,9 @@
 [
     {
+        "title": "Generate External IdP User Access Privilege Reports with AWS Audit Manager",
+        "link": "https://aws.amazon.com/blogs/mt/generate-external-idp-user-access-privilege-reports-with-aws-audit-manager/"
+    },
+    {
         "title": "Leverage Amazon Q to upgrade Lambda runtime functions",
         "link": "https://aws.amazon.com/blogs/mt/leverage-amazon-q-to-upgrade-lambda-runtime-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Assess secure Windows Servers for TCO analysis using Migration Evaluator",
         "link": "https://aws.amazon.com/blogs/mt/assess-secure-windows-servers-for-tco-analysis-using-migration-evaluator/"
-    },
-    {
-        "title": "Centralize observability with Amazon Managed Grafana Enterprise plugins",
-        "link": "https://aws.amazon.com/blogs/mt/centralize-observability-with-amazon-managed-grafana-enterprise-plugins/"
     }
 ]

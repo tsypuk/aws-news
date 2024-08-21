@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reducing long-term logging expenses by 4,800% with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/reducing-long-term-logging-expenses-by-4800-with-amazon-opensearch-service/"
+    },
+    {
         "title": "Unlock scalable analytics with a secure connectivity pattern in AWS Glue to read from or write to Snowflake",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-a-secure-connectivity-pattern-in-aws-glue-to-read-from-or-write-to-snowflake/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a real-time analytics solution with Apache Pinot on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-analytics-solution-with-apache-pinot-on-aws/"
-    },
-    {
-        "title": "Introducing data products in Amazon DataZone: Simplify discovery and subscription with business use case based grouping",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-data-products-in-amazon-datazone-simplify-discovery-and-subscription-with-business-use-case-based-grouping/"
     }
 ]

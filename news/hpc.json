@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to improve reservoir simulation throughput using P5 instances",
+        "link": "https://aws.amazon.com/blogs/hpc/how-to-improve-reservoir-simulation-throughput-using-p5-instances/"
+    },
+    {
         "title": "How Amazon optimizes their supply chain with help from AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/how-amazon-optimizes-their-supply-chain-with-help-from-aws-batch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrating Research and Engineering Studio with AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/research-and-engineering-studio-integration-with-aws-parallelcluster/"
-    },
-    {
-        "title": "Securing HPC on AWS: implementing STIGs in AWS ParallelCluster",
-        "link": "https://aws.amazon.com/blogs/hpc/securing-hpc-on-aws-implementing-stigs-in-aws-parallelcluster/"
     }
 ]
