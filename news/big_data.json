@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize cost and performance for Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-cost-and-performance-for-amazon-mwaa/"
+    },
+    {
+        "title": "Optimize your workloads with Amazon Redshift Serverless AI-driven scaling and optimization",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-your-workloads-with-amazon-redshift-serverless-ai-driven-scaling-and-optimization/"
+    },
+    {
         "title": "Reducing long-term logging expenses by 4,800% with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/reducing-long-term-logging-expenses-by-4800-with-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enrich, standardize, and translate streaming data in Amazon Redshift with generative AI",
         "link": "https://aws.amazon.com/blogs/big-data/enrich-standardize-and-translate-streaming-data-in-amazon-redshift-with-generative-ai/"
-    },
-    {
-        "title": "How Amazon GTTS runs large-scale ETL jobs on AWS using Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/how-amazon-gtts-runs-large-scale-etl-jobs-on-aws-using-amazon-mwaa/"
-    },
-    {
-        "title": "Build a real-time analytics solution with Apache Pinot on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-analytics-solution-with-apache-pinot-on-aws/"
     }
 ]

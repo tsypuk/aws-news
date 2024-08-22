@@ -1,5 +1,33 @@
 [
     {
+        "title": "Enhance call center efficiency using batch inference for transcript summarization with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-call-center-efficiency-using-batch-inference-for-transcript-summarization-with-amazon-bedrock/"
+    },
+    {
+        "title": "Fine-tune Meta Llama 3.1 models for generative AI inference using Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-meta-llama-3-1-models-for-generative-ai-inference-using-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Analyze customer reviews using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/analyze-customer-reviews-using-amazon-bedrock/"
+    },
+    {
+        "title": "Accuracy evaluation framework for Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accuracy-evaluation-framework-for-amazon-q-business/"
+    },
+    {
+        "title": "Elevate healthcare interaction and documentation with Amazon Bedrock and Amazon Transcribe using Live Meeting Assistant",
+        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-healthcare-interaction-and-documentation-with-amazon-bedrock-and-amazon-transcribe-using-live-meeting-assistant/"
+    },
+    {
+        "title": "Unlock the power of data governance and no-code machine learning with Amazon SageMaker Canvas and Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-the-power-of-data-governance-and-no-code-machine-learning-with-amazon-sagemaker-canvas-and-amazon-datazone/"
+    },
+    {
+        "title": "Accelerate performance using a custom chunking mechanism with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-performance-using-a-custom-chunking-mechanism-with-amazon-bedrock/"
+    },
+    {
         "title": "Migrate Amazon SageMaker Data Wrangler flows to Amazon SageMaker Canvas for faster data preparation",
         "link": "https://aws.amazon.com/blogs/machine-learning/migrate-amazon-sagemaker-data-wrangler-flows-to-amazon-sagemaker-canvas-for-faster-data-preparation/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Discover insights from Box with the Amazon Q Box connector",
         "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-box-with-the-amazon-q-box-connector/"
-    },
-    {
-        "title": "How Twilio generated SQL using Looker Modeling Language data with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-twilio-generated-sql-using-looker-modeling-language-data-with-amazon-bedrock/"
-    },
-    {
-        "title": "Improve AI assistant response accuracy using Knowledge Bases for Amazon Bedrock and a reranking model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-ai-assistant-response-accuracy-using-knowledge-bases-for-amazon-bedrock-and-a-reranking-model/"
-    },
-    {
-        "title": "Automate the machine learning model approval process with Amazon SageMaker Model Registry and Amazon SageMaker Pipelines",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-machine-learning-model-approval-process-with-amazon-sagemaker-model-registry-and-amazon-sagemaker-pipelines/"
-    },
-    {
-        "title": "Build custom generative AI applications powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-generative-ai-applications-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Use Amazon Bedrock to generate, evaluate, and understand code in your software development pipeline",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-to-generate-evaluate-and-understand-code-in-your-software-development-pipeline/"
-    },
-    {
-        "title": "Inference AudioCraft MusicGen models using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/inference-audiocraft-musicgen-models-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Build an end-to-end RAG solution using Knowledge Bases for Amazon Bedrock and AWS CloudFormation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rag-solution-using-knowledge-bases-for-amazon-bedrock-and-aws-cloudformation/"
     }
 ]

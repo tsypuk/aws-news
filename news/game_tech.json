@@ -1,5 +1,9 @@
 [
     {
+        "title": "Hybrid game server hosting with Amazon GameLift Anywhere",
+        "link": "https://aws.amazon.com/blogs/gametech/hybrid-game-server-hosting-with-amazon-gamelift-anywhere/"
+    },
+    {
         "title": "Modulate scales ToxMod AI voice chat moderation tool with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/modulate-scales-toxmod-ai-voice-chat-moderation-tool-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Singularity 6\u2019s \u2018Palia\u2019 Conquered Cross-Regional Gaming with Amazon EKS and Karpenter",
         "link": "https://aws.amazon.com/blogs/gametech/how-singularity-6s-palia-conquered-cross-regional-gaming-with-amazon-eks-and-karpenter/"
-    },
-    {
-        "title": "HUDstats switches from OpenAI to Amazon Bedrock to advance esports storytelling using generative AI",
-        "link": "https://aws.amazon.com/blogs/gametech/hudstats-switches-from-openai-to-amazon-bedrock-to-advance-esports-storytelling-using-generative-ai/"
     }
 ]
