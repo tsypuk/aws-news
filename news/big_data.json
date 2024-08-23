@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Kaplan, Inc. implemented modern data pipelines using Amazon MWAA and Amazon AppFlow with Amazon Redshift as a data warehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/how-kaplan-inc-implemented-modern-data-pipelines-using-amazon-mwaa-and-amazon-appflow-with-amazon-redshift-as-a-data-warehouse/"
+    },
+    {
         "title": "Optimize cost and performance for Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-cost-and-performance-for-amazon-mwaa/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Glue mutual TLS authentication for Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/aws-glue-mutual-tls-authentication-for-amazon-msk/"
-    },
-    {
-        "title": "Enrich, standardize, and translate streaming data in Amazon Redshift with generative AI",
-        "link": "https://aws.amazon.com/blogs/big-data/enrich-standardize-and-translate-streaming-data-in-amazon-redshift-with-generative-ai/"
     }
 ]

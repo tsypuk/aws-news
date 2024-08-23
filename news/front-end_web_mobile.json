@@ -1,5 +1,9 @@
 [
     {
+        "title": "Add multiple storage buckets to your app using AWS Amplify \u2013 NEW",
+        "link": "https://aws.amazon.com/blogs/mobile/add-multiple-storage-buckets-amplify/"
+    },
+    {
         "title": "CDN Caching Improvements for Better App Performance with AWS Amplify Hosting",
         "link": "https://aws.amazon.com/blogs/mobile/cdn-caching-improvements-for-better-app-performance-with-aws-amplify-hosting/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Real-time data distribution with Amazon MSK and AWS AppSync",
         "link": "https://aws.amazon.com/blogs/mobile/real-time-data-distribution-with-amazon-msk-and-aws-appsync/"
-    },
-    {
-        "title": "The most visited front-end web and mobile blog posts in 2023",
-        "link": "https://aws.amazon.com/blogs/mobile/the-most-visited-front-end-web-and-mobile-blog-posts-in-2023/"
     }
 ]

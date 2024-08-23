@@ -1,5 +1,9 @@
 [
     {
+        "title": "Leverage a one-way trust with Amazon WorkSpaces for cross-domain usage",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/leverage-a-one-way-trust-with-amazon-workspaces-for-cross-domain-usage/"
+    },
+    {
         "title": "Collecting platform and billing details for Microsoft licensing on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/collecting-platform-and-billing-details-for-microsoft-licensing-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Make SQL Server end of support the start of your AWS cloud journey",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/make-sql-server-end-of-support-the-start-of-your-aws-cloud-journey/"
-    },
-    {
-        "title": "How to automate an in-place upgrade of SQL Server on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-an-in-place-upgrade-of-sql-server-on-amazon-ec2/"
     }
 ]

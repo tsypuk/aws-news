@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build multi-tenant architectures on Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/build-multi-tenant-architectures-on-amazon-neptune/"
+    },
+    {
         "title": "Build a custom HTTP client in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL: An alternative to Oracle\u2019s UTL_HTTP",
         "link": "https://aws.amazon.com/blogs/database/build-a-custom-http-client-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-an-alternative-to-oracles-utl_http/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing a fall forward strategy from Amazon RDS for SQL Server Transparent Data Encryption (TDE) and Non-TDE Enabled databases to self-managed SQL Server",
         "link": "https://aws.amazon.com/blogs/database/implementing-a-fall-forward-strategy-from-amazon-rds-for-sql-server-transparent-data-encryption-tde-and-non-tde-enabled-databases-to-self-managed-sql-server/"
-    },
-    {
-        "title": "Best practices for Amazon RDS for SQL Server with Amazon EBS io2 Block Express volumes up to 64 TiB",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-amazon-rds-for-sql-server-with-amazon-ebs-io2-block-express-volumes-up-to-64-tib/"
     }
 ]

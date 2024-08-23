@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Wesfarmers Health implemented upstream event buffering using Amazon SQS FIFO",
+        "link": "https://aws.amazon.com/blogs/architecture/how-wesfarmers-health-implemented-upstream-event-buffering-using-amazon-sqs-fifo/"
+    },
+    {
         "title": "Achieving Frugal Architecture using the AWS Well-Architected Framework guidance",
         "link": "https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Zurich Insurance Group built their Scalable Account Vending process using AWS Account Factory for Terraform",
         "link": "https://aws.amazon.com/blogs/architecture/how-zurich-insurance-group-built-their-scalable-account-vending-process-using-aws-account-factory-for-terraform/"
-    },
-    {
-        "title": "How Sonar built a unified API on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws/"
     }
 ]

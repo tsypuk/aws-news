@@ -1,5 +1,21 @@
 [
     {
+        "title": "Unleashing the power of generative AI: Verisk\u2019s Discovery Navigator revolutionizes medical record review",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-the-power-of-generative-ai-verisks-discovery-navigator-revolutionizes-medical-record-review/"
+    },
+    {
+        "title": "Index your Atlassian Confluence Cloud contents using the Amazon Q Confluence Cloud connector for Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/index-your-atlassian-confluence-cloud-contents-using-the-amazon-q-confluence-cloud-connector-for-amazon-q-business/"
+    },
+    {
+        "title": "Snowflake Arctic models are now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/snowflake-arctic-models-are-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Fine tune a generative AI application for Amazon Bedrock using Amazon SageMaker Pipeline decorators",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-generative-ai-application-for-amazon-bedrock-using-amazon-sagemaker-pipeline-decorators/"
+    },
+    {
         "title": "Enhance call center efficiency using batch inference for transcript summarization with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-call-center-efficiency-using-batch-inference-for-transcript-summarization-with-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Harness the power of AI and ML using Splunk and Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-ai-and-ml-using-splunk-and-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "How Deltek uses Amazon Bedrock for question and answering on government solicitation documents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-deltek-uses-amazon-bedrock-for-question-and-answering-on-government-solicitation-documents/"
-    },
-    {
-        "title": "Cisco achieves 50% latency improvement using Amazon SageMaker Inference faster autoscaling feature",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cisco-achieves-50-latency-improvement-using-amazon-sagemaker-inference-faster-autoscaling-feature/"
-    },
-    {
-        "title": "How Cisco accelerated the use of generative AI with Amazon SageMaker Inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-cisco-accelerated-the-use-of-generative-ai-with-amazon-sagemaker-inference/"
-    },
-    {
-        "title": "Discover insights from Box with the Amazon Q Box connector",
-        "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-box-with-the-amazon-q-box-connector/"
     }
 ]
