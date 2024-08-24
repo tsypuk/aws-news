@@ -1,5 +1,9 @@
 [
     {
+        "title": "Standard Bank optimizes operational efficiency with Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/standard-bank-optimizes-operational-efficiency-with-amazon-connect/"
+    },
+    {
         "title": "A repeatable approach to building contact centers with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/a-repeatable-approach-to-building-contact-centers-with-amazon-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Retaining caller ID for external call transfers in Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/retaining-caller-id-for-external-call-transfers-in-amazon-connect/"
-    },
-    {
-        "title": "Getting started with third-party applications in the agent workspace",
-        "link": "https://aws.amazon.com/blogs/contact-center/getting-started-with-third-party-applications-in-the-agent-workspace/"
     }
 ]

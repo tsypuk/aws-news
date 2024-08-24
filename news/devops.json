@@ -1,5 +1,21 @@
 [
     {
+        "title": "Publish packages to AWS CodeArtifact using Amazon CodeCatalyst Actions",
+        "link": "https://aws.amazon.com/blogs/devops/publish-packages-to-aws-codeartifact-using-amazon-codecatalyst-actions/"
+    },
+    {
+        "title": "Best Practices for working with Pull Requests in Amazon CodeCatalyst",
+        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-working-with-pull-requests-in-amazon-codecatalyst/"
+    },
+    {
+        "title": "Accessing Amazon Q Developer using Microsoft Entra ID and VS Code to accelerate development",
+        "link": "https://aws.amazon.com/blogs/devops/accessing-amazon-q-developer-using-microsoft-entra-id-and-vs-code-to-accelerate-development/"
+    },
+    {
+        "title": "How A/B Testing and Multi-Model Hosting Accelerate Generative AI Feature Development in Amazon Q",
+        "link": "https://aws.amazon.com/blogs/devops/how-a-b-testing-and-multi-model-hosting-accelerate-generative-ai-feature-development-in-amazon-q/"
+    },
+    {
         "title": "Use AWS CloudFormation Git sync to configure resources in customer accounts",
         "link": "https://aws.amazon.com/blogs/devops/use-aws-cloudformation-git-sync-to-configure-resources-in-customer-accounts/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Refactoring to Serverless: From Application to Automation",
         "link": "https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/"
-    },
-    {
-        "title": "Modernize your Java application with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/modernize-your-java-application-with-amazon-q-developer/"
-    },
-    {
-        "title": "Best practices working with self-hosted GitHub Action runners at scale on AWS",
-        "link": "https://aws.amazon.com/blogs/devops/best-practices-working-with-self-hosted-github-action-runners-at-scale-on-aws/"
-    },
-    {
-        "title": "Fault-isolated, zonal deployments with AWS CodeDeploy",
-        "link": "https://aws.amazon.com/blogs/devops/fault-isolated-zonal-deployments-with-aws-codedeploy/"
-    },
-    {
-        "title": "Five ways Amazon Q simplifies AWS CloudFormation development",
-        "link": "https://aws.amazon.com/blogs/devops/five-ways-amazon-q-simplifies-aws-cloudformation-development/"
     }
 ]
