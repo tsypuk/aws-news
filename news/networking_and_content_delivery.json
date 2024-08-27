@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure and accelerate your WordPress CMS with Amazon CloudFront, AWS WAF, and edge functions",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-and-accelerate-your-wordpress-cms-with-amazon-cloudfront-aws-waf-and-edge-functions/"
+    },
+    {
         "title": "Migrating your multi-account DNS environment to Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrating-your-multi-account-dns-environment-to-amazon-route-53-profiles/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Protect against bots with AWS WAF Challenge and CAPTCHA actions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-against-bots-with-aws-waf-challenge-and-captcha-actions/"
-    },
-    {
-        "title": "Best practices for deployment with AWS Global Accelerator",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-for-deployment-with-aws-global-accelerator/"
     }
 ]

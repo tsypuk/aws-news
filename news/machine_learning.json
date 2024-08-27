@@ -1,5 +1,21 @@
 [
     {
+        "title": "Secure RAG applications using prompt engineering on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/"
+    },
+    {
+        "title": "Get the most from Amazon Titan Text Premier",
+        "link": "https://aws.amazon.com/blogs/machine-learning/get-the-most-from-amazon-titan-text-premier/"
+    },
+    {
+        "title": "GenASL: Generative AI-powered American Sign Language avatars",
+        "link": "https://aws.amazon.com/blogs/machine-learning/genasl-generative-ai-powered-american-sign-language-avatars/"
+    },
+    {
+        "title": "AWS empowers sales teams using generative AI solution built on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-boosts-sales-pipeline-using-generative-ai-solution-built-on-amazon-bedrock/"
+    },
+    {
         "title": "Build private and secure enterprise generative AI applications with Amazon Q Business using IAM Federation",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-private-and-secure-enterprise-generative-ai-applications-with-amazon-q-business-using-iam-federation/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Cohere Rerank 3 Nimble now generally available on Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/cohere-rerank-3-nimble-now-generally-available-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Perform generative AI-powered data prep and no-code ML over any size of data using Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/perform-generative-ai-powered-data-prep-and-no-code-ml-over-any-size-of-data-using-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Delight your customers with great conversational experiences via QnABot, a generative AI chatbot",
-        "link": "https://aws.amazon.com/blogs/machine-learning/delight-your-customers-with-great-conversational-experiences-via-qnabot-a-generative-ai-chatbot/"
-    },
-    {
-        "title": "Introducing document-level sync reports: Enhanced data sync visibility in Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-document-level-sync-reports-enhanced-data-sync-visibility-in-amazon-q-business/"
-    },
-    {
-        "title": "Intelligent healthcare forms analysis with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-healthcare-forms-analysis-with-amazon-bedrock/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "2024 ISO and CSA STAR certificates now available with three additional services",
+        "link": "https://aws.amazon.com/blogs/security/2024-iso-and-csa-star-certificates-now-available-with-three-additional-services/"
+    },
+    {
+        "title": "Summer 2024 SOC report now available with 177 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/summer-2024-soc-report-now-available-with-177-services-in-scope/"
+    },
+    {
         "title": "Encryption in transit over external networks: AWS guidance for NYDFS and beyond",
         "link": "https://aws.amazon.com/blogs/security/encryption-in-transit-over-external-networks-aws-guidance-for-nydfs-and-beyond/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to build a CA hierarchy across multiple AWS accounts and Regions for global organization",
         "link": "https://aws.amazon.com/blogs/security/how-to-build-a-ca-hierarchy-across-multiple-aws-accounts-and-regions-for-global-organization/"
-    },
-    {
-        "title": "How to use the AWS Secrets Manager Agent",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-secrets-manager-agent/"
-    },
-    {
-        "title": "Patterns for consuming custom log sources in Amazon Security Lake",
-        "link": "https://aws.amazon.com/blogs/security/patterns-for-consuming-custom-log-sources-in-amazon-security-lake/"
     }
 ]
