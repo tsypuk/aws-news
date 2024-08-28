@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy AWS Systems Manager Quick Setup programmatically across your AWS Organization",
+        "link": "https://aws.amazon.com/blogs/mt/deploy-aws-systems-manager-quick-setup-programmatically-across-your-aws-organization/"
+    },
+    {
         "title": "Automate Standard Operating Procedures (SOPs) execution with AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/automate-standard-operating-procedures-sops-execution-with-aws-resilience-hub/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS Audit Manager Common Controls Library",
         "link": "https://aws.amazon.com/blogs/mt/introducing-aws-audit-manager-common-controls-library/"
-    },
-    {
-        "title": "Getting started with myApplications for Terraform-managed applications",
-        "link": "https://aws.amazon.com/blogs/mt/getting-started-with-myapplications-for-terraform-managed-applications/"
     }
 ]

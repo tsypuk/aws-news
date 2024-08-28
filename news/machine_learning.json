@@ -1,5 +1,17 @@
 [
     {
+        "title": "Index website contents using the Amazon Q Web Crawler connector for Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/index-website-contents-using-the-amazon-q-web-crawler-connector-for-amazon-q-business/"
+    },
+    {
+        "title": "Getting started with cross-region inference in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-cross-region-inference-in-amazon-bedrock/"
+    },
+    {
+        "title": "Building automations to accelerate remediation of AWS Security Hub control findings using Amazon Bedrock and AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-automations-to-accelerate-remediation-of-aws-security-hub-control-findings-using-amazon-bedrock-and-aws-systems-manager/"
+    },
+    {
         "title": "Secure RAG applications using prompt engineering on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Migrate Amazon SageMaker Data Wrangler flows to Amazon SageMaker Canvas for faster data preparation",
         "link": "https://aws.amazon.com/blogs/machine-learning/migrate-amazon-sagemaker-data-wrangler-flows-to-amazon-sagemaker-canvas-for-faster-data-preparation/"
-    },
-    {
-        "title": "Use IP-restricted presigned URLs to enhance security in Amazon SageMaker Ground Truth",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-ip-restricted-presigned-urls-to-enhance-security-in-amazon-sagemaker-ground-truth/"
-    },
-    {
-        "title": "Unlock the power of structured data for enterprises using natural language with Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-the-power-of-structured-data-for-enterprises-using-natural-language-with-amazon-q-business/"
-    },
-    {
-        "title": "Cohere Rerank 3 Nimble now generally available on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-rerank-3-nimble-now-generally-available-on-amazon-sagemaker-jumpstart/"
     }
 ]

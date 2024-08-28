@@ -1,5 +1,9 @@
 [
     {
+        "title": "Strengthening data security in AWS Step Functions with a customer-managed AWS KMS key",
+        "link": "https://aws.amazon.com/blogs/compute/strengthening-data-security-in-aws-step-functions-with-a-customer-managed-aws-kms-key/"
+    },
+    {
         "title": "AWS Lambda introduces recursive loop detection APIs",
         "link": "https://aws.amazon.com/blogs/compute/aws-lambda-introduces-recursive-loop-detection-apis/"
     },
@@ -18,10 +22,6 @@
     {
         "title": "Migrating your on-premises workloads to AWS Outposts rack",
         "link": "https://aws.amazon.com/blogs/compute/migrating-your-on-premises-workloads-to-aws-outposts-rack/"
-    },
-    {
-        "title": "Strengthening data security in AWS Step Functions with a customer-managed AWS KMS key",
-        "link": "https://aws.amazon.com/blogs/compute/strengthening-data-security-in-aws-step-functions-with-a-customer-managed-aws-kms-key/"
     },
     {
         "title": "Introducing quorum queues on Amazon MQ for RabbitMQ",

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Launching Ghostbusters: Rise of the Ghost Lord \u2013 How nDreams scale tested with AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/gametech/launching-ghostbusters-rise-of-the-ghost-lord-how-ndreams-scale-tested-with-aws-fargate/"
+    },
+    {
         "title": "Hybrid game server hosting with Amazon GameLift Anywhere",
         "link": "https://aws.amazon.com/blogs/gametech/hybrid-game-server-hosting-with-amazon-gamelift-anywhere/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Partner Showcase at GDC",
         "link": "https://aws.amazon.com/blogs/gametech/aws-partner-showcase-at-gdc/"
-    },
-    {
-        "title": "How Singularity 6\u2019s \u2018Palia\u2019 Conquered Cross-Regional Gaming with Amazon EKS and Karpenter",
-        "link": "https://aws.amazon.com/blogs/gametech/how-singularity-6s-palia-conquered-cross-regional-gaming-with-amazon-eks-and-karpenter/"
     }
 ]

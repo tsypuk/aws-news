@@ -1,5 +1,21 @@
 [
     {
+        "title": "Using DML auditing for Amazon Keyspaces (for Apache Cassandra)",
+        "link": "https://aws.amazon.com/blogs/database/using-dml-auditing-for-amazon-keyspaces-for-apache-cassandra/"
+    },
+    {
+        "title": "How Prisma Cloud built Infinity Graph using Amazon Neptune and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/database/how-prisma-cloud-built-infinity-graph-using-amazon-neptune-and-amazon-opensearch-service/"
+    },
+    {
+        "title": "Schedule jobs in Amazon RDS or Amazon Aurora PostgreSQL using pg_tle and pg_dbms_job",
+        "link": "https://aws.amazon.com/blogs/database/schedule-jobs-in-amazon-rds-or-amazon-aurora-postgresql-using-pg_tle-and-pg_dbms_job/"
+    },
+    {
+        "title": "Triple your knowledge graph speed with RDF linked data and openCypher using Amazon Neptune Analytics",
+        "link": "https://aws.amazon.com/blogs/database/triple-your-knowledge-graph-speed-with-rdf-linked-data-and-opencypher-using-amazon-neptune-analytics/"
+    },
+    {
         "title": "Optimizing costs on Amazon DocumentDB using event-driven architecture and the AWS EventBridge Terraform module",
         "link": "https://aws.amazon.com/blogs/database/optimizing-costs-on-amazon-documentdb-using-event-driven-architecture-and-the-aws-eventbridge-terraform-module/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Query RDF graphs using SPARQL and property graphs using Gremlin with the Amazon Athena Neptune connector",
         "link": "https://aws.amazon.com/blogs/database/query-rdf-graphs-using-sparql-and-property-graphs-using-gremlin-with-the-amazon-athena-neptune-connector/"
-    },
-    {
-        "title": "Stop and start Amazon RDS Multi-AZ DB clusters on a schedule",
-        "link": "https://aws.amazon.com/blogs/database/stop-and-start-amazon-rds-multi-az-db-clusters-on-a-schedule/"
-    },
-    {
-        "title": "Using knowledge graphs to build GraphRAG applications with Amazon Bedrock and Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/using-knowledge-graphs-to-build-graphrag-applications-with-amazon-bedrock-and-amazon-neptune/"
-    },
-    {
-        "title": "How Infosys used Amazon Aurora zero-ETL integration with Amazon Redshift for near real-time analytics and insights",
-        "link": "https://aws.amazon.com/blogs/database/how-infosys-used-amazon-aurora-zero-etl-to-amazon-redshift-for-near-real-time-analytics-and-insights/"
-    },
-    {
-        "title": "Introducing smaller capacity units for Amazon Neptune Analytics: Up to 75% cheaper to get started with graph analytics workloads",
-        "link": "https://aws.amazon.com/blogs/database/introducing-smaller-capacity-units-for-amazon-neptune-analytics-up-to-75-cheaper-to-get-started-with-graph-analytics-workloads/"
     }
 ]
