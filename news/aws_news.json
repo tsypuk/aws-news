@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing AWS Parallel Computing Service to run HPC workloads at virtually any scale",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-aws-parallel-computing-service-to-run-hpc-workloads-at-virtually-any-scale/"
+    },
+    {
         "title": "AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more (August 26, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Agents for Amazon Bedrock now support memory retention and code interpretation (preview)",
         "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-now-support-memory-retention-and-code-interpretation-preview/"
-    },
-    {
-        "title": "Guardrails for Amazon Bedrock can now detect hallucinations and safeguard apps built using custom or third-party FMs",
-        "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-can-now-detect-hallucinations-and-safeguard-apps-built-using-custom-or-third-party-fms/"
     }
 ]

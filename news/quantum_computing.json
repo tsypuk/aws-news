@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring a quantum network on AWS",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/monitoring-a-quantum-network-on-aws/"
+    },
+    {
         "title": "Amazon Braket launches the Rigetti Ankaa-2 superconducting device",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-the-rigetti-ankaa-2-superconducting-device-2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Exploring quantum-informed recursive optimization algorithms on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-informed-recursive-optimization-algorithms-on-amazon-braket/"
-    },
-    {
-        "title": "A new building block for error-corrected quantum computers",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/a-new-building-block-for-error-corrected-quantum-computers/"
     }
 ]

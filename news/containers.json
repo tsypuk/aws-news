@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using GitOps for Stateful Workload Management with vSphere CSI driver on on-premises Kubernetes",
+        "link": "https://aws.amazon.com/blogs/containers/using-gitops-for-stateful-workload-management-with-vsphere-csi-driver-on-on-premises-kubernetes-2/"
+    },
+    {
         "title": "How to Run WebAssembly on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/16532-2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerating development feedback loops with AWS CDK hotswap deployments for Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/accelerating-development-feedback-loops-with-aws-cdk-hotswap-deployments-for-amazon-ecs/"
-    },
-    {
-        "title": "Announcing software version consistency for Amazon ECS services",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-software-version-consistency-for-amazon-ecs-services/"
     }
 ]

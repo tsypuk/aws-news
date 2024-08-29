@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Merck Automated AWS Elastic Disaster Recovery Initialization and Monitoring",
+        "link": "https://aws.amazon.com/blogs/mt/how-merck-automated-aws-elastic-disaster-recovery-initialization-and-monitoring/"
+    },
+    {
         "title": "Deploy AWS Systems Manager Quick Setup programmatically across your AWS Organization",
         "link": "https://aws.amazon.com/blogs/mt/deploy-aws-systems-manager-quick-setup-programmatically-across-your-aws-organization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Observability Matters at Brightcove with AWS GameDay",
         "link": "https://aws.amazon.com/blogs/mt/observability-matters-at-brightcove-with-aws-gameday/"
-    },
-    {
-        "title": "Introducing AWS Audit Manager Common Controls Library",
-        "link": "https://aws.amazon.com/blogs/mt/introducing-aws-audit-manager-common-controls-library/"
     }
 ]

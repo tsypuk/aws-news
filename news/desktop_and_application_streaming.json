@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhanced management for Amazon WorkSpaces Personal with ControlUp",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enhanced-management-for-amazon-workspaces-personal-with-controlup/"
+    },
+    {
         "title": "Announcing native Entra ID and Intune support for Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-native-entra-id-and-intune-support-for-amazon-workspaces/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the Amazon WorkSpaces dynamic inventory plugin for Ansible\u00ae",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-amazon-workspaces-dynamic-inventory-plugin-for-ansible/"
-    },
-    {
-        "title": "Enhance Zoom Virtual Meetings on Amazon WorkSpaces with the WorkSpaces Streaming Protocol",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enhance-zoom-virtual-meetings-on-amazon-workspaces-with-the-workspaces-streaming-protocol/"
     }
 ]
