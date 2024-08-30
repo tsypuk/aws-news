@@ -1,5 +1,9 @@
 [
     {
+        "title": "Utilizing CloudWatch Internet Monitor with Amazon WorkSpaces Personal",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/utilizing-cloudwatch-internet-monitor-with-amazon-workspaces-personal/"
+    },
+    {
         "title": "Enhanced management for Amazon WorkSpaces Personal with ControlUp",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enhanced-management-for-amazon-workspaces-personal-with-controlup/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing new larger instance types for Amazon WorkSpaces Web",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-new-larger-instance-types-for-amazon-workspaces-web/"
-    },
-    {
-        "title": "Announcing the Amazon WorkSpaces dynamic inventory plugin for Ansible\u00ae",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-amazon-workspaces-dynamic-inventory-plugin-for-ansible/"
     }
 ]

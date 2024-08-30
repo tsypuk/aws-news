@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Druva uses AWS PrivateLink for Secure Cloud Data Transfers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-druva-uses-aws-privatelink-for-secure-cloud-data-transfers/"
+    },
+    {
         "title": "Secure and accelerate your WordPress CMS with Amazon CloudFront, AWS WAF, and edge functions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-and-accelerate-your-wordpress-cms-with-amazon-cloudfront-aws-waf-and-edge-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to identify website performance bottlenecks by measuring time to first byte latency and using Server-Timing header",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-identify-website-performance-bottlenecks-by-measuring-time-to-first-byte-latency-and-using-server-timing-header/"
-    },
-    {
-        "title": "Protect against bots with AWS WAF Challenge and CAPTCHA actions",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-against-bots-with-aws-waf-challenge-and-captcha-actions/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Performing a minor version upgrade for Amazon RDS Custom for SQL Server CEV with Multi-AZ",
+        "link": "https://aws.amazon.com/blogs/database/performing-a-minor-version-upgrade-for-amazon-rds-custom-for-sql-server-cev-with-multi-az/"
+    },
+    {
+        "title": "Migrate Amazon RDS for Oracle BLOB column data to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/database/migrate-amazon-rds-for-oracle-blob-column-data-to-amazon-s3/"
+    },
+    {
         "title": "Using DML auditing for Amazon Keyspaces (for Apache Cassandra)",
         "link": "https://aws.amazon.com/blogs/database/using-dml-auditing-for-amazon-keyspaces-for-apache-cassandra/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Review your Amazon Aurora and Amazon RDS security configuration with Prowler\u2019s new checks",
         "link": "https://aws.amazon.com/blogs/database/review-your-amazon-aurora-and-amazon-rds-security-configuration-with-prowlers-new-checks/"
-    },
-    {
-        "title": "Migrate an on-premises MySQL database to Amazon Aurora MySQL over a private network using AWS DMS homogeneous data migration and Network Load Balancer",
-        "link": "https://aws.amazon.com/blogs/database/migrate-an-on-premises-mysql-database-to-amazon-aurora-mysql-over-a-private-network-using-aws-dms-homogeneous-data-migration-and-network-load-balancer/"
-    },
-    {
-        "title": "Query RDF graphs using SPARQL and property graphs using Gremlin with the Amazon Athena Neptune connector",
-        "link": "https://aws.amazon.com/blogs/database/query-rdf-graphs-using-sparql-and-property-graphs-using-gremlin-with-the-amazon-athena-neptune-connector/"
     }
 ]
