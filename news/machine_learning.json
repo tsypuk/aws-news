@@ -1,5 +1,13 @@
 [
     {
+        "title": "Best practices for prompt engineering with Meta Llama 3 for Text-to-SQL use cases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-prompt-engineering-with-meta-llama-3-for-text-to-sql-use-cases/"
+    },
+    {
+        "title": "Implementing advanced prompt engineering with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/"
+    },
+    {
         "title": "Accelerate Generative AI Inference with NVIDIA NIM Microservices on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-nvidia-nim-inference-microservices-on-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Snowflake Arctic models are now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/snowflake-arctic-models-are-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Fine tune a generative AI application for Amazon Bedrock using Amazon SageMaker Pipeline decorators",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-generative-ai-application-for-amazon-bedrock-using-amazon-sagemaker-pipeline-decorators/"
-    },
-    {
-        "title": "Enhance call center efficiency using batch inference for transcript summarization with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-call-center-efficiency-using-batch-inference-for-transcript-summarization-with-amazon-bedrock/"
     }
 ]
