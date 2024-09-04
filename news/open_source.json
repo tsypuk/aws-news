@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieving Zero Trust Security on Amazon EKS with Istio",
+        "link": "https://aws.amazon.com/blogs/opensource/achieving-zero-trust-security-on-amazon-eks-with-istio/"
+    },
+    {
         "title": "From Data Chaos to Cohesion: How OCSF is Optimizing Cyber Threat Detection",
         "link": "https://aws.amazon.com/blogs/opensource/from-data-chaos-to-cohesion-how-ocsf-is-optimizing-cyber-threat-detection/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "OpenSearch Expands Leadership Beyond AWS",
         "link": "https://aws.amazon.com/blogs/opensource/opensearch-expands-leadership-beyond-aws/"
-    },
-    {
-        "title": "Using Istio Traffic Management on Amazon EKS to Enhance User Experience",
-        "link": "https://aws.amazon.com/blogs/opensource/using-istio-traffic-management-to-enhance-user-experience/"
     }
 ]

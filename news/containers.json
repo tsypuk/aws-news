@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to optimize log management for Amazon EKS with Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/containers/optimize-log-management-for-amazon-eks-with-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Using GitOps for Stateful Workload Management with vSphere CSI driver on on-premises Kubernetes",
         "link": "https://aws.amazon.com/blogs/containers/using-gitops-for-stateful-workload-management-with-vsphere-csi-driver-on-on-premises-kubernetes-2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Thomson Reuters achieved 5X operational efficiency and 30% cost optimization with Plexus on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/how-thomson-reuters-achieved-5x-operational-efficiency-and-30-cost-optimization-with-plexus-on-amazon-eks/"
-    },
-    {
-        "title": "Accelerating development feedback loops with AWS CDK hotswap deployments for Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/containers/accelerating-development-feedback-loops-with-aws-cdk-hotswap-deployments-for-amazon-ecs/"
     }
 ]

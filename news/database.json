@@ -1,5 +1,21 @@
 [
     {
+        "title": "Enable Amazon RDS for Oracle immutable tables for protected workloads",
+        "link": "https://aws.amazon.com/blogs/database/enable-amazon-rds-for-oracle-immutable-tables-for-protected-workloads/"
+    },
+    {
+        "title": "Join the preview of attribute-based access control for Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/join-the-preview-of-attribute-based-access-control-for-amazon-dynamodb/"
+    },
+    {
+        "title": "Simplify Industrial IoT: Use InfluxDB edge replication for centralized time series analytics with Amazon Timestream",
+        "link": "https://aws.amazon.com/blogs/database/simplify-industrial-iot-use-influxdb-edge-replication-for-centralized-time-series-analytics-with-amazon-timestream/"
+    },
+    {
+        "title": "Achieve point-in-time recovery for all databases in Amazon RDS Custom for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/achieve-point-in-time-recovery-for-all-databases-in-amazon-rds-custom-for-sql-server/"
+    },
+    {
         "title": "Performing a minor version upgrade for Amazon RDS Custom for SQL Server CEV with Multi-AZ",
         "link": "https://aws.amazon.com/blogs/database/performing-a-minor-version-upgrade-for-amazon-rds-custom-for-sql-server-cev-with-multi-az/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Analyze blockchain data with natural language using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/analyze-blockchain-data-with-natural-language-using-amazon-bedrock/"
-    },
-    {
-        "title": "Better Together: Amazon SageMaker Canvas and RDS for SQL Server, a predictive ML model sample use case",
-        "link": "https://aws.amazon.com/blogs/database/better-together-amazon-sagemaker-canvas-and-rds-for-sql-server-a-predictive-ml-model-sample-use-case/"
-    },
-    {
-        "title": "Power real-time vector search capabilities with Amazon MemoryDB",
-        "link": "https://aws.amazon.com/blogs/database/power-real-time-vector-search-capabilities-with-amazon-memorydb/"
-    },
-    {
-        "title": "Implement a rollback strategy after an Amazon Aurora MySQL blue/green deployment switchover",
-        "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-after-an-amazon-aurora-mysql-blue-green-deployment-switchover/"
-    },
-    {
-        "title": "Review your Amazon Aurora and Amazon RDS security configuration with Prowler\u2019s new checks",
-        "link": "https://aws.amazon.com/blogs/database/review-your-amazon-aurora-and-amazon-rds-security-configuration-with-prowlers-new-checks/"
     }
 ]

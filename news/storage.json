@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate data from Google Drive to Amazon S3 using Rclone",
+        "link": "https://aws.amazon.com/blogs/storage/migrate-data-from-google-drive-to-amazon-s3-using-rclone/"
+    },
+    {
         "title": "Securing your Amazon FSx for ONTAP Windows Share (SMB) against Viruses",
         "link": "https://aws.amazon.com/blogs/storage/securing-your-amazon-fsx-for-ontap-windows-share-smb-against-viruses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Bring Amazon S3 closer to the edge with Nasuni",
         "link": "https://aws.amazon.com/blogs/storage/bring-amazon-s3-closer-to-the-edge-with-nasuni/"
-    },
-    {
-        "title": "How London Stock Exchange Group migrated 30 PB of market data using AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/how-london-stock-exchange-group-migrated-30-pb-of-market-data-using-aws-datasync/"
     }
 ]

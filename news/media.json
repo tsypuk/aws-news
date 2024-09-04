@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Generative AI to Gain Insights into CloudWatch Logs",
+        "link": "https://aws.amazon.com/blogs/mt/using-generative-ai-to-gain-insights-into-cloudwatch-logs/"
+    },
+    {
         "title": "AWS named as a Challenger in the 2024 Gartner Magic Quadrant for Observability Platforms",
         "link": "https://aws.amazon.com/blogs/mt/aws-named-as-a-challenger-in-the-2024-gartner-magic-quadrant-for-observability-platforms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Parameter Store cross-account sharing",
         "link": "https://aws.amazon.com/blogs/mt/introducing-parameter-store-cross-account-sharing/"
-    },
-    {
-        "title": "Simplifying remediation using AWS Systems Manager with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/mt/simplifying-remediation-using-aws-systems-manager-with-amazon-q-developer/"
     }
 ]

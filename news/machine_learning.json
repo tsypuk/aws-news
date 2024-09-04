@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a generative AI image description application with Anthropic\u2019s Claude 3.5 Sonnet on Amazon Bedrock and AWS CDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-image-description-application-with-anthropics-claude-3-5-sonnet-on-amazon-bedrock-and-aws-cdk/"
+    },
+    {
+        "title": "Use LangChain with PySpark to process documents at massive scale with Amazon SageMaker Studio and Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-langchain-with-pyspark-to-process-documents-at-massive-scale-with-amazon-sagemaker-studio-and-amazon-emr-serverless/"
+    },
+    {
         "title": "Best practices for prompt engineering with Meta Llama 3 for Text-to-SQL use cases",
         "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-prompt-engineering-with-meta-llama-3-for-text-to-sql-use-cases/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Unleashing the power of generative AI: Verisk\u2019s Discovery Navigator revolutionizes medical record review",
         "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-the-power-of-generative-ai-verisks-discovery-navigator-revolutionizes-medical-record-review/"
-    },
-    {
-        "title": "Index your Atlassian Confluence Cloud contents using the Amazon Q Confluence Cloud connector for Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/index-your-atlassian-confluence-cloud-contents-using-the-amazon-q-confluence-cloud-connector-for-amazon-q-business/"
-    },
-    {
-        "title": "Snowflake Arctic models are now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/snowflake-arctic-models-are-now-available-in-amazon-sagemaker-jumpstart/"
     }
 ]
