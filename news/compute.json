@@ -1,5 +1,9 @@
 [
     {
+        "title": "Measuring Amazon MQ throughput using Maven 2 benchmark and AWS CDK",
+        "link": "https://aws.amazon.com/blogs/compute/measuring-amazon-mq-throughput-using-maven-2-benchmark-and-aws-cdk/"
+    },
+    {
         "title": "Efficiently processing batched data using parallelization in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/efficiently-processing-batched-data-using-parallelization-in-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating chaos experiments with AWS Fault Injection Service and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/"
-    },
-    {
-        "title": "Sending and receiving CloudEvents with Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/compute/sending-and-receiving-cloudevents-with-amazon-eventbridge/"
     }
 ]

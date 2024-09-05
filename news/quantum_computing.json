@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Braket as an educational tool for quantum computing: the Capstone project at the University of Washington",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-as-an-educational-tool-for-quantum-computing-the-capstone-project-at-the-university-of-washington/"
+    },
+    {
         "title": "Monitoring a quantum network on AWS",
         "link": "https://aws.amazon.com/blogs/quantum-computing/monitoring-a-quantum-network-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerating simulated quantum annealing on AWS Graviton processors",
         "link": "https://aws.amazon.com/blogs/quantum-computing/accelerating-simulated-quantum-annealing-on-aws-graviton-processors/"
-    },
-    {
-        "title": "Exploring quantum-informed recursive optimization algorithms on Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-informed-recursive-optimization-algorithms-on-amazon-braket/"
     }
 ]

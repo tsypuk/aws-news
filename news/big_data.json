@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use the AWS CDK with the Data Solutions Framework to provision and manage Amazon Redshift Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/use-the-aws-cdk-with-the-data-solutions-framework-to-provision-and-manage-amazon-redshift-serverless/"
+    },
+    {
+        "title": "Accelerate data integration with Salesforce and AWS using AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-integration-with-salesforce-and-aws-using-aws-glue/"
+    },
+    {
         "title": "Integrate Tableau and\u00a0Microsoft Entra ID with Amazon Redshift using AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-tableau-and-microsoft-entra-id-with-amazon-redshift-using-aws-iam-identity-center/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use AWS Glue to streamline SFTP data processing",
         "link": "https://aws.amazon.com/blogs/big-data/use-aws-glue-to-streamline-sftp-data-processing/"
-    },
-    {
-        "title": "Automate Amazon Redshift Advisor recommendations with email alerts using an API",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-amazon-redshift-advisor-recommendations-with-email-alerts-using-an-api/"
-    },
-    {
-        "title": "Migrate Amazon Redshift from DC2 to RA3 to accommodate increasing data volumes and analytics demands",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-amazon-redshift-from-dc2-to-ra3-to-accommodate-increasing-data-volumes-and-analytics-demands/"
     }
 ]

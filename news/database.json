@@ -1,5 +1,17 @@
 [
     {
+        "title": "Migrate Cassandra workloads to Amazon Keyspaces using CQLReplicator",
+        "link": "https://aws.amazon.com/blogs/database/migrate-cassandra-workloads-to-amazon-keyspaces-using-cqlreplicator/"
+    },
+    {
+        "title": "How Phreesia replicated a 30 TB SQL Server database to Amazon S3 with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/how-phreesia-replicated-a-30-tb-sql-server-database-to-amazon-s3-with-aws-dms/"
+    },
+    {
+        "title": "How PostgreSQL processes queries and how to analyze them",
+        "link": "https://aws.amazon.com/blogs/database/how-postgresql-processes-queries-and-how-to-analyze-them/"
+    },
+    {
         "title": "Enable Amazon RDS for Oracle immutable tables for protected workloads",
         "link": "https://aws.amazon.com/blogs/database/enable-amazon-rds-for-oracle-immutable-tables-for-protected-workloads/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Monitor Amazon DynamoDB operation counts with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/database/monitor-amazon-dynamodb-operation-counts-with-amazon-cloudwatch/"
-    },
-    {
-        "title": "How to deploy Stacks blockchain nodes on AWS with the AWS Blockchain Node Runners Stacks blueprint",
-        "link": "https://aws.amazon.com/blogs/database/how-to-deploy-stacks-blockchain-nodes-on-aws-with-the-aws-blockchain-node-runners-stacks-blueprint/"
-    },
-    {
-        "title": "Stream change data in a multicloud environment using AWS DMS, Amazon MSK, and Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/database/stream-change-data-in-a-multicloud-environment-using-aws-dms-amazon-msk-and-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Analyze blockchain data with natural language using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/analyze-blockchain-data-with-natural-language-using-amazon-bedrock/"
     }
 ]

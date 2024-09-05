@@ -1,5 +1,13 @@
 [
     {
+        "title": "Leveraging AWS CloudTrail Insights for Proactive API Monitoring and Cost Optimization",
+        "link": "https://aws.amazon.com/blogs/mt/leveraging-aws-cloudtrail-insights-for-proactive-api-monitoring-and-cost-optimization/"
+    },
+    {
+        "title": "Assess Resilience at Scale by using Amazon QuickSight and Amazon Resilience Hub",
+        "link": "https://aws.amazon.com/blogs/mt/assess-resilience-at-scale-by-using-amazon-quicksight-and-amazon-resilience-hub/"
+    },
+    {
         "title": "Using Generative AI to Gain Insights into CloudWatch Logs",
         "link": "https://aws.amazon.com/blogs/mt/using-generative-ai-to-gain-insights-into-cloudwatch-logs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Protect your AWS resources from unauthorized access using AWS Organizations integrations",
         "link": "https://aws.amazon.com/blogs/mt/protect-your-aws-resources-from-unauthorized-access-using-aws-organizations-integrations/"
-    },
-    {
-        "title": "Minimizing ambiguity in custom scope migrations",
-        "link": "https://aws.amazon.com/blogs/mt/minimizing-ambiguity-in-custom-scope-migrations/"
-    },
-    {
-        "title": "Introducing Parameter Store cross-account sharing",
-        "link": "https://aws.amazon.com/blogs/mt/introducing-parameter-store-cross-account-sharing/"
     }
 ]

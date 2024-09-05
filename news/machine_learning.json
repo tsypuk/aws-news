@@ -1,5 +1,21 @@
 [
     {
+        "title": "Deploy Amazon SageMaker pipelines using AWS Controllers for Kubernetes",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-pipelines-using-aws-controllers-for-kubernetes/"
+    },
+    {
+        "title": "Effectively manage foundation models for generative AI applications with Amazon SageMaker Model Registry",
+        "link": "https://aws.amazon.com/blogs/machine-learning/effectively-manage-foundation-models-for-generative-ai-applications-with-amazon-sagemaker-model-registry/"
+    },
+    {
+        "title": "Build an ecommerce product recommendation chatbot with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ecommerce-product-recommendation-chatbot-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "How Thomson Reuters Labs achieved AI/ML innovation at pace with AWS MLOps services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-labs-achieved-ai-ml-innovation-at-pace-with-aws-mlops-services/"
+    },
+    {
         "title": "Build a generative AI image description application with Anthropic\u2019s Claude 3.5 Sonnet on Amazon Bedrock and AWS CDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-image-description-application-with-anthropics-claude-3-5-sonnet-on-amazon-bedrock-and-aws-cdk/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Get the most from Amazon Titan Text Premier",
         "link": "https://aws.amazon.com/blogs/machine-learning/get-the-most-from-amazon-titan-text-premier/"
-    },
-    {
-        "title": "GenASL: Generative AI-powered American Sign Language avatars",
-        "link": "https://aws.amazon.com/blogs/machine-learning/genasl-generative-ai-powered-american-sign-language-avatars/"
-    },
-    {
-        "title": "AWS empowers sales teams using generative AI solution built on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-boosts-sales-pipeline-using-generative-ai-solution-built-on-amazon-bedrock/"
-    },
-    {
-        "title": "Build private and secure enterprise generative AI applications with Amazon Q Business using IAM Federation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-private-and-secure-enterprise-generative-ai-applications-with-amazon-q-business-using-iam-federation/"
-    },
-    {
-        "title": "Unleashing the power of generative AI: Verisk\u2019s Discovery Navigator revolutionizes medical record review",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-the-power-of-generative-ai-verisks-discovery-navigator-revolutionizes-medical-record-review/"
     }
 ]
