@@ -1,5 +1,9 @@
 [
     {
+        "title": "New: Zone Groups for Availability Zones in AWS Regions",
+        "link": "https://aws.amazon.com/blogs/compute/new-zone-groups-for-availability-zones-in-aws-regions/"
+    },
+    {
         "title": "Measuring Amazon MQ throughput using Maven 2 benchmark and AWS CDK",
         "link": "https://aws.amazon.com/blogs/compute/measuring-amazon-mq-throughput-using-maven-2-benchmark-and-aws-cdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Applying Spot-to-Spot consolidation best practices with Karpenter",
         "link": "https://aws.amazon.com/blogs/compute/applying-spot-to-spot-consolidation-best-practices-with-karpenter/"
-    },
-    {
-        "title": "Automating chaos experiments with AWS Fault Injection Service and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/"
     }
 ]

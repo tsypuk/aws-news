@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build powerful RAG pipelines with LlamaIndex and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-powerful-rag-pipelines-with-llamaindex-and-amazon-bedrock/"
+    },
+    {
+        "title": "Evaluating prompts at scale with Prompt Management and Prompt Flows for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-prompts-at-scale-with-prompt-management-and-prompt-flows-for-amazon-bedrock/"
+    },
+    {
         "title": "Deploy Amazon SageMaker pipelines using AWS Controllers for Kubernetes",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-pipelines-using-aws-controllers-for-kubernetes/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building automations to accelerate remediation of AWS Security Hub control findings using Amazon Bedrock and AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-automations-to-accelerate-remediation-of-aws-security-hub-control-findings-using-amazon-bedrock-and-aws-systems-manager/"
-    },
-    {
-        "title": "Secure RAG applications using prompt engineering on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-rag-applications-using-prompt-engineering-on-amazon-bedrock/"
-    },
-    {
-        "title": "Get the most from Amazon Titan Text Premier",
-        "link": "https://aws.amazon.com/blogs/machine-learning/get-the-most-from-amazon-titan-text-premier/"
     }
 ]

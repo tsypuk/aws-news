@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS DMS homogenous migration from document-oriented databases to Amazon DocumentDB",
+        "link": "https://aws.amazon.com/blogs/database/aws-dms-homogenous-migration-from-document-oriented-databases-to-amazon-documentdb/"
+    },
+    {
         "title": "Migrate Cassandra workloads to Amazon Keyspaces using CQLReplicator",
         "link": "https://aws.amazon.com/blogs/database/migrate-cassandra-workloads-to-amazon-keyspaces-using-cqlreplicator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build and deploy knowledge graphs faster with RDF and openCypher",
         "link": "https://aws.amazon.com/blogs/database/build-and-deploy-knowledge-graphs-faster-with-rdf-and-opencypher/"
-    },
-    {
-        "title": "Monitor Amazon DynamoDB operation counts with Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/database/monitor-amazon-dynamodb-operation-counts-with-amazon-cloudwatch/"
     }
 ]

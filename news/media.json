@@ -1,5 +1,9 @@
 [
     {
+        "title": "Visualize AWS Systems Manager Patch Manager information using Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/mt/visualize-aws-systems-manager-patch-manager-information-using-amazon-quicksight/"
+    },
+    {
         "title": "Leveraging AWS CloudTrail Insights for Proactive API Monitoring and Cost Optimization",
         "link": "https://aws.amazon.com/blogs/mt/leveraging-aws-cloudtrail-insights-for-proactive-api-monitoring-and-cost-optimization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to perform Failover and Failback using AWS Elastic Disaster Recovery (AWS DRS) between VMware and AWS environments",
         "link": "https://aws.amazon.com/blogs/mt/how-to-perform-failover-and-failback-using-aws-elastic-disaster-recovery-aws-drs-between-vmware-and-aws-environments/"
-    },
-    {
-        "title": "Protect your AWS resources from unauthorized access using AWS Organizations integrations",
-        "link": "https://aws.amazon.com/blogs/mt/protect-your-aws-resources-from-unauthorized-access-using-aws-organizations-integrations/"
     }
 ]
