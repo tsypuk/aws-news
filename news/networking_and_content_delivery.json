@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrating MPLS connectivity to the AWS Cloud",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-mpls-connectivity-to-the-aws-cloud/"
+    },
+    {
+        "title": "Optimizing Amazon S3 data transfers over Direct Connect",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-amazon-s3-data-transfers-over-direct-connect/"
+    },
+    {
         "title": "Introducing configurable TCP idle timeout for Gateway Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-configurable-tcp-idle-timeout-for-gateway-load-balancer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "DNS best practices for Amazon Route 53",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dns-best-practices-for-amazon-route-53/"
-    },
-    {
-        "title": "Automating the admission of virtual private clouds to AWS Cloud WAN networks",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-the-admission-of-virtual-private-clouds-to-aws-cloud-wan-networks/"
-    },
-    {
-        "title": "Preserving client IP address with Proxy protocol v2 and Network Load Balancer",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/preserving-client-ip-address-with-proxy-protocol-v2-and-network-load-balancer/"
     }
 ]

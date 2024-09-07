@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Vidmob is using generative AI to transform its creative data landscape",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-vidmob-is-using-generative-ai-to-transform-its-creative-data-landscape/"
+    },
+    {
+        "title": "Fine-tune Llama 3 for text generation on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-3-for-text-generation-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Ground truth curation and metric interpretation best practices for evaluating generative AI question answering using FMEval",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ground-truth-curation-and-metric-interpretation-best-practices-for-evaluating-generative-ai-question-answering-using-fmeval/"
+    },
+    {
         "title": "Build powerful RAG pipelines with LlamaIndex and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-powerful-rag-pipelines-with-llamaindex-and-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build an end-to-end RAG solution using Knowledge Bases for Amazon Bedrock and the AWS CDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rag-solution-using-knowledge-bases-for-amazon-bedrock-and-the-aws-cdk/"
-    },
-    {
-        "title": "Index website contents using the Amazon Q Web Crawler connector for Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/index-website-contents-using-the-amazon-q-web-crawler-connector-for-amazon-q-business/"
-    },
-    {
-        "title": "Getting started with cross-region inference in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-cross-region-inference-in-amazon-bedrock/"
-    },
-    {
-        "title": "Building automations to accelerate remediation of AWS Security Hub control findings using Amazon Bedrock and AWS Systems Manager",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-automations-to-accelerate-remediation-of-aws-security-hub-control-findings-using-amazon-bedrock-and-aws-systems-manager/"
     }
 ]

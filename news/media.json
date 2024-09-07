@@ -1,5 +1,17 @@
 [
     {
+        "title": "Getting insights from Amazon Managed Service for Prometheus using natural language powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/mt/getting-insights-from-amazon-managed-service-for-prometheus-using-natural-language-powered-by-amazon-bedrock/"
+    },
+    {
+        "title": "Gain visibility of AWS backup activities using Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/gain-visibility-of-aws-backup-activities-using-amazon-managed-grafana/"
+    },
+    {
+        "title": "How Amazon CloudWatch Logs Data Protection can help detect and protect sensitive log data",
+        "link": "https://aws.amazon.com/blogs/mt/how-amazon-cloudwatch-logs-data-protection-can-help-detect-and-protect-sensitive-log-data/"
+    },
+    {
         "title": "Visualize AWS Systems Manager Patch Manager information using Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/mt/visualize-aws-systems-manager-patch-manager-information-using-amazon-quicksight/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Elevating Your AWS Observability: Unlocking the Power of Amazon CloudWatch Alarms",
         "link": "https://aws.amazon.com/blogs/mt/elevating-your-aws-observability-unlocking-the-power-of-amazon-cloudwatch-alarms/"
-    },
-    {
-        "title": "Automate your Multicloud operations with AWS Systems Manager and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/mt/automate-your-multicloud-operations-with-aws-systems-manager-and-aws-lambda/"
-    },
-    {
-        "title": "Developing an AWS Service Catalog self-managed engine for governance",
-        "link": "https://aws.amazon.com/blogs/mt/developing-an-aws-service-catalog-self-managed-engine-for-governance/"
-    },
-    {
-        "title": "How to perform Failover and Failback using AWS Elastic Disaster Recovery (AWS DRS) between VMware and AWS environments",
-        "link": "https://aws.amazon.com/blogs/mt/how-to-perform-failover-and-failback-using-aws-elastic-disaster-recovery-aws-drs-between-vmware-and-aws-environments/"
     }
 ]
