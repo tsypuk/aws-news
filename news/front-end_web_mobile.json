@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Build Next.js Apps with Authentication using AWS Amplify and Auth0",
+        "link": "https://aws.amazon.com/blogs/mobile/how-to-build-next-js-apps-with-authentication-using-aws-amplify-and-auth0/"
+    },
+    {
+        "title": "Add Amazon Bedrock Chat Capabilities to a React Native App",
+        "link": "https://aws.amazon.com/blogs/mobile/integrating-amazon-bedrock-chat-capabilities-in-react-native/"
+    },
+    {
         "title": "New features for Amplify Functions: Scheduling and Log Streaming",
         "link": "https://aws.amazon.com/blogs/mobile/new-features-for-amplify-functions-scheduling-and-log-streaming/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Deploy Next.js 14 SSR apps with AWS Amplify Hosting\u2019s Amazon Linux 2023 Support",
         "link": "https://aws.amazon.com/blogs/mobile/amazon-linux-2023-hosting/"
-    },
-    {
-        "title": "Bring your own SSL certificate to AWS Amplify Hosting",
-        "link": "https://aws.amazon.com/blogs/mobile/custom-ssl-amplify-hosting/"
-    },
-    {
-        "title": "The future of web development: AWS Amplify\u2019s Code First Approach",
-        "link": "https://aws.amazon.com/blogs/mobile/the-future-of-web-development-aws-amplifys-code-first-approach/"
     }
 ]

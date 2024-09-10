@@ -1,5 +1,9 @@
 [
     {
+        "title": "Resolving non-responsive connection issue to on-premises Oracle multitenant architecture database having local listeners behind firewall from the cloud",
+        "link": "https://aws.amazon.com/blogs/database/resolving-non-responsive-connection-issue-to-on-premises-oracle-multitenant-architecture-database-having-local-listeners-behind-firewall-from-the-cloud/"
+    },
+    {
         "title": "AWS DMS homogenous migration from document-oriented databases to Amazon DocumentDB",
         "link": "https://aws.amazon.com/blogs/database/aws-dms-homogenous-migration-from-document-oriented-databases-to-amazon-documentdb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve speed and reduce cost for generative AI workloads with a persistent semantic cache in Amazon MemoryDB",
         "link": "https://aws.amazon.com/blogs/database/improve-speed-and-reduce-cost-for-generative-ai-workloads-with-a-persistent-semantic-cache-in-amazon-memorydb/"
-    },
-    {
-        "title": "Build and deploy knowledge graphs faster with RDF and openCypher",
-        "link": "https://aws.amazon.com/blogs/database/build-and-deploy-knowledge-graphs-faster-with-rdf-and-opencypher/"
     }
 ]

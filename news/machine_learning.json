@@ -1,5 +1,17 @@
 [
     {
+        "title": "Align Meta Llama 3 to human preferences with DPO, Amazon SageMaker Studio, and Amazon SageMaker Ground Truth",
+        "link": "https://aws.amazon.com/blogs/machine-learning/align-meta-llama-3-to-human-preferences-with-dpo-amazon-sagemaker-studio-and-amazon-sagemaker-ground-truth/"
+    },
+    {
+        "title": "Amazon EC2 P5e instances are generally available",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-p5e-instances-are-generally-available/"
+    },
+    {
+        "title": "Exploring data using AI chat at Domo with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/exploring-data-using-ai-chat-at-domo-with-amazon-bedrock/"
+    },
+    {
         "title": "How Vidmob is using generative AI to transform its creative data landscape",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-vidmob-is-using-generative-ai-to-transform-its-creative-data-landscape/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implementing tenant isolation using Agents for Amazon Bedrock in a multi-tenant environment",
         "link": "https://aws.amazon.com/blogs/machine-learning/implementing-tenant-isolation-using-agents-for-amazon-bedrock-in-a-multi-tenant-environment/"
-    },
-    {
-        "title": "Connect the Amazon Q Business generative AI coding companion to your GitHub repositories with Amazon Q GitHub (Cloud) connector",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-the-amazon-q-business-generative-ai-coding-companion-to-your-github-repositories-with-amazon-q-github-cloud-connector/"
-    },
-    {
-        "title": "Elevate customer experience through an intelligent email automation solution using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-customer-experience-through-an-intelligent-email-automation-solution-using-amazon-bedrock/"
-    },
-    {
-        "title": "Build an end-to-end RAG solution using Knowledge Bases for Amazon Bedrock and the AWS CDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rag-solution-using-knowledge-bases-for-amazon-bedrock-and-the-aws-cdk/"
     }
 ]
