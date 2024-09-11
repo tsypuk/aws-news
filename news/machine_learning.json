@@ -1,5 +1,9 @@
 [
     {
+        "title": "Genomics England uses Amazon SageMaker to predict cancer subtypes and patient survival from multi-modal data",
+        "link": "https://aws.amazon.com/blogs/machine-learning/genomics-england-uses-amazon-sagemaker-to-predict-cancer-subtypes-and-patient-survival-from-multi-modal-data/"
+    },
+    {
         "title": "Align Meta Llama 3 to human preferences with DPO, Amazon SageMaker Studio, and Amazon SageMaker Ground Truth",
         "link": "https://aws.amazon.com/blogs/machine-learning/align-meta-llama-3-to-human-preferences-with-dpo-amazon-sagemaker-studio-and-amazon-sagemaker-ground-truth/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Provide a personalized experience for news readers using Amazon Personalize and Amazon Titan Text Embeddings on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/provide-a-personalized-experience-for-news-readers-using-amazon-personalize-and-amazon-titan-text-embeddings-on-amazon-bedrock/"
-    },
-    {
-        "title": "Implementing tenant isolation using Agents for Amazon Bedrock in a multi-tenant environment",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-tenant-isolation-using-agents-for-amazon-bedrock-in-a-multi-tenant-environment/"
     }
 ]

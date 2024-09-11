@@ -1,5 +1,9 @@
 [
     {
+        "title": "Electronic design at the speed of Lightmatter: transforming EDA workloads with RES",
+        "link": "https://aws.amazon.com/blogs/hpc/electronic-design-at-the-speed-of-lightmatter-transforming-eda-workloads-with-res/"
+    },
+    {
         "title": "You told us we needed to re-think HPC in the cloud. So we did.",
         "link": "https://aws.amazon.com/blogs/hpc/you-told-us-we-needed-to-re-think-hpc-in-the-cloud-so-we-did/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Job queue snapshots: see what\u2019s at the head of your queues in AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/job-queue-snapshots-see-whats-at-the-head-of-your-queues-in-aws-batch/"
-    },
-    {
-        "title": "An agent-based simulation of Amazon\u2019s inbound supply chain",
-        "link": "https://aws.amazon.com/blogs/hpc/an-agent-based-simulation-of-amazons-inbound-supply-chain/"
     }
 ]

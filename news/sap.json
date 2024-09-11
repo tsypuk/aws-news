@@ -1,5 +1,9 @@
 [
     {
+        "title": "SAP on AWS: Network Analysis and Troubleshooting",
+        "link": "https://aws.amazon.com/blogs/awsforsap/sap-on-aws-network-analysis-and-troubleshooting/"
+    },
+    {
         "title": "Improve your SAP business process resilience with Amazon CloudWatch Application Insights",
         "link": "https://aws.amazon.com/blogs/awsforsap/improve-your-sap-business-process-resilience-with-amazon-cloudwatch-application-insights/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate SAP Deployments with AWS Launch Wizard for SAP APIs",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-sap-deployments-with-aws-launch-wizard-for-sap-apis/"
-    },
-    {
-        "title": "Automating the update process of a clustered SAP HANA DB using nZDT and Ansible",
-        "link": "https://aws.amazon.com/blogs/awsforsap/automating-the-update-process-of-a-clustered-sap-hana-db-using-nzdt-and-ansible/"
     }
 ]

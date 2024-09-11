@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create self-managed replicas for an Amazon RDS for Db2 instance for read scaling and disaster recovery",
+        "link": "https://aws.amazon.com/blogs/database/create-self-managed-replicas-for-an-amazon-rds-for-db2-instance-for-read-scaling-and-disaster-recovery/"
+    },
+    {
         "title": "Resolving non-responsive connection issue to on-premises Oracle multitenant architecture database having local listeners behind firewall from the cloud",
         "link": "https://aws.amazon.com/blogs/database/resolving-non-responsive-connection-issue-to-on-premises-oracle-multitenant-architecture-database-having-local-listeners-behind-firewall-from-the-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Validate database object consistency after migrating from IBM Db2 z/OS to Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/validate-database-object-consistency-after-migrating-from-ibm-db2-z-os-to-amazon-rds-for-db2/"
-    },
-    {
-        "title": "Improve speed and reduce cost for generative AI workloads with a persistent semantic cache in Amazon MemoryDB",
-        "link": "https://aws.amazon.com/blogs/database/improve-speed-and-reduce-cost-for-generative-ai-workloads-with-a-persistent-semantic-cache-in-amazon-memorydb/"
     }
 ]
