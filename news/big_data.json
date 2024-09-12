@@ -1,5 +1,13 @@
 [
     {
+        "title": "Developer guidance on how to do local testing with Amazon MSK Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/developer-guidance-on-how-to-do-local-testing-with-amazon-msk-serverless/"
+    },
+    {
+        "title": "How HPE Aruba Supply Chain optimized cost and performance by migrating to an AWS modern data architecture",
+        "link": "https://aws.amazon.com/blogs/big-data/how-hpe-aruba-supply-chain-optimized-cost-and-performance-by-migrating-to-an-aws-modern-data-architecture/"
+    },
+    {
         "title": "Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Unlock scalable analytics with a secure connectivity pattern in AWS Glue to read from or write to Snowflake",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-a-secure-connectivity-pattern-in-aws-glue-to-read-from-or-write-to-snowflake/"
-    },
-    {
-        "title": "Embed Amazon OpenSearch Service dashboards in your application",
-        "link": "https://aws.amazon.com/blogs/big-data/embed-amazon-opensearch-service-dashboards-in-your-application/"
-    },
-    {
-        "title": "Seamless integration of data lake and data warehouse using Amazon Redshift Spectrum and Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/seamless-integration-of-data-lake-and-data-warehouse-using-amazon-redshift-spectrum-and-amazon-datazone/"
     }
 ]

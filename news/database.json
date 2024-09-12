@@ -1,5 +1,17 @@
 [
     {
+        "title": "Obtaining item counts in Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/obtaining-item-counts-in-amazon-dynamodb/"
+    },
+    {
+        "title": "How Delivery Hero perfects restaurant operations using gamification with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/how-delivery-hero-perfects-restaurant-operations-using-gamification-with-amazon-dynamodb/"
+    },
+    {
+        "title": "Migrate an Oracle database to Amazon RDS for Oracle using Oracle GoldenGate Microservices Architecture",
+        "link": "https://aws.amazon.com/blogs/database/migrate-an-oracle-database-to-amazon-rds-for-oracle-using-oracle-goldengate-microservices-architecture/"
+    },
+    {
         "title": "Create self-managed replicas for an Amazon RDS for Db2 instance for read scaling and disaster recovery",
         "link": "https://aws.amazon.com/blogs/database/create-self-managed-replicas-for-an-amazon-rds-for-db2-instance-for-read-scaling-and-disaster-recovery/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimizing costs on Amazon DocumentDB using event-driven architecture and the AWS EventBridge Terraform module",
         "link": "https://aws.amazon.com/blogs/database/optimizing-costs-on-amazon-documentdb-using-event-driven-architecture-and-the-aws-eventbridge-terraform-module/"
-    },
-    {
-        "title": "Build multi-tenant architectures on Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/build-multi-tenant-architectures-on-amazon-neptune/"
-    },
-    {
-        "title": "Build a custom HTTP client in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL: An alternative to Oracle\u2019s UTL_HTTP",
-        "link": "https://aws.amazon.com/blogs/database/build-a-custom-http-client-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-an-alternative-to-oracles-utl_http/"
-    },
-    {
-        "title": "Validate database object consistency after migrating from IBM Db2 z/OS to Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/validate-database-object-consistency-after-migrating-from-ibm-db2-z-os-to-amazon-rds-for-db2/"
     }
 ]

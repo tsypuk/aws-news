@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate Remote Desktop Gateway deployments with AWS Launch Wizard",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-remote-desktop-gateway-deployments-with-aws-launch-wizard/"
+    },
+    {
         "title": "Streamline Identity Management with AWS Directory Service and One Identity Active Roles",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/streamline-identity-management-with-aws-directory-service-and-one-identity-active-roles/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to bring existing Windows Server and SQL Server licenses to Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-bring-existing-windows-server-and-sql-server-licenses-to-amazon-ec2/"
-    },
-    {
-        "title": "Containerize SQL Server workloads with Amazon EKS and DxOperator for Kubernetes",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-workloads-with-amazon-eks-and-dxoperator-for-kubernetes/"
     }
 ]

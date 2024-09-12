@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify certificate-based authentication for AppStream 2.0 and WorkSpaces with AWS Private CA Connector for Active Directory",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplify-certificate-based-authentication-for-appstream-2-0-and-workspaces-with-aws-private-ca-connector-for-active-directory/"
+    },
+    {
         "title": "Analyze web browsing activities for Amazon WorkSpaces Secure Browser",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/analyze-web-browsing-activities-for-amazon-workspaces-secure-browser/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automatically create customized Amazon WorkSpaces Windows images",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automatically-create-customized-amazon-workspaces-windows-images/"
-    },
-    {
-        "title": "AWS End User Computing at IGEL Disrupt 2024, Miami",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-end-user-computing-at-igel-disrupt-2024-miami/"
     }
 ]

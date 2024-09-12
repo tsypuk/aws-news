@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migration to AWS Cloud WAN multi-Region inspection using service insertion",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migration-to-aws-cloud-wan-multi-region-inspection-using-service-insertion/"
+    },
+    {
         "title": "Integrating MPLS connectivity to the AWS Cloud",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-mpls-connectivity-to-the-aws-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to achieve DNS high availability with Route 53 Resolver endpoints",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-achieve-dns-high-availability-with-route-53-resolver-endpoints/"
-    },
-    {
-        "title": "DNS best practices for Amazon Route 53",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dns-best-practices-for-amazon-route-53/"
     }
 ]

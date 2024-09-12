@@ -1,5 +1,29 @@
 [
     {
+        "title": "Introducing Amazon EKS support in Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-eks-support-in-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "A review of purpose-built accelerators for financial services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/a-review-of-purpose-built-accelerators-for-financial-services/"
+    },
+    {
+        "title": "Anomaly detection in streaming time series data with online learning using Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-in-streaming-time-series-data-with-online-learning-using-amazon-managed-service-for-apache-flink/"
+    },
+    {
+        "title": "Generative AI-powered technology operations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-powered-technology-operations/"
+    },
+    {
+        "title": "Optimizing MLOps for Sustainability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mlops-for-sustainability/"
+    },
+    {
+        "title": "Enabling complex generative AI applications with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enabling-complex-generative-ai-applications-with-amazon-bedrock-agents/"
+    },
+    {
         "title": "Genomics England uses Amazon SageMaker to predict cancer subtypes and patient survival from multi-modal data",
         "link": "https://aws.amazon.com/blogs/machine-learning/genomics-england-uses-amazon-sagemaker-to-predict-cancer-subtypes-and-patient-survival-from-multi-modal-data/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Build a generative AI image description application with Anthropic\u2019s Claude 3.5 Sonnet on Amazon Bedrock and AWS CDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-image-description-application-with-anthropics-claude-3-5-sonnet-on-amazon-bedrock-and-aws-cdk/"
-    },
-    {
-        "title": "Use LangChain with PySpark to process documents at massive scale with Amazon SageMaker Studio and Amazon EMR Serverless",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-langchain-with-pyspark-to-process-documents-at-massive-scale-with-amazon-sagemaker-studio-and-amazon-emr-serverless/"
-    },
-    {
-        "title": "Best practices for prompt engineering with Meta Llama 3 for Text-to-SQL use cases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-prompt-engineering-with-meta-llama-3-for-text-to-sql-use-cases/"
-    },
-    {
-        "title": "Implementing advanced prompt engineering with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/"
-    },
-    {
-        "title": "Accelerate Generative AI Inference with NVIDIA NIM Microservices on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-nvidia-nim-inference-microservices-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Celebrating the final AWS DeepRacer  League championship and road ahead",
-        "link": "https://aws.amazon.com/blogs/machine-learning/celebrating-the-final-aws-deepracer-league-championship-and-road-ahead/"
-    },
-    {
-        "title": "Provide a personalized experience for news readers using Amazon Personalize and Amazon Titan Text Embeddings on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/provide-a-personalized-experience-for-news-readers-using-amazon-personalize-and-amazon-titan-text-embeddings-on-amazon-bedrock/"
     }
 ]

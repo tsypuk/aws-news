@@ -4,10 +4,6 @@
         "link": "https://aws.amazon.com/blogs/mt/serverless-governance-of-software-deployed-with-aws-service-catalog/"
     },
     {
-        "title": "7 Tips to Maximize Your New AWS Account for Small to Medium Businesses",
-        "link": "https://aws.amazon.com/blogs/mt/tips-to-maximize-new-aws-account-small-to-medium-businesses/"
-    },
-    {
         "title": "Getting insights from Amazon Managed Service for Prometheus using natural language powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mt/getting-insights-from-amazon-managed-service-for-prometheus-using-natural-language-powered-by-amazon-bedrock/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Streamline compliance management with AWS Config custom rules and conformance packs",
         "link": "https://aws.amazon.com/blogs/mt/streamline-compliance-management-with-aws-config-custom-rules-and-conformance-packs/"
+    },
+    {
+        "title": "Improve Amazon Bedrock Observability with Amazon CloudWatch AppSignals",
+        "link": "https://aws.amazon.com/blogs/mt/improve-amazon-bedrock-observability-with-amazon-cloudwatch-appsignals/"
     }
 ]
