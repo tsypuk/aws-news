@@ -1,5 +1,9 @@
 [
     {
+        "title": "Faster development with Amazon DynamoDB and Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/database/faster-development-with-amazon-dynamodb-and-amazon-q-developer/"
+    },
+    {
         "title": "Obtaining item counts in Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/obtaining-item-counts-in-amazon-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Triple your knowledge graph speed with RDF linked data and openCypher using Amazon Neptune Analytics",
         "link": "https://aws.amazon.com/blogs/database/triple-your-knowledge-graph-speed-with-rdf-linked-data-and-opencypher-using-amazon-neptune-analytics/"
-    },
-    {
-        "title": "Optimizing costs on Amazon DocumentDB using event-driven architecture and the AWS EventBridge Terraform module",
-        "link": "https://aws.amazon.com/blogs/database/optimizing-costs-on-amazon-documentdb-using-event-driven-architecture-and-the-aws-eventbridge-terraform-module/"
     }
 ]

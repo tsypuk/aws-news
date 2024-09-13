@@ -1,5 +1,25 @@
 [
     {
+        "title": "Build a RAG-based QnA application using Llama3 models from SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-rag-based-qna-application-using-llama3-models-from-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Best prompting practices for using Meta Llama 3 with Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-prompting-practices-for-using-meta-llama-3-with-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "How healthcare payers and plans can empower members with generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-healthcare-payers-and-plans-can-empower-members-with-generative-ai/"
+    },
+    {
+        "title": "Enabling production-grade generative AI: New capabilities lower costs, streamline production, and boost security",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enabling-production-grade-generative-ai-new-capabilities-lower-costs-streamline-production-and-boost-security/"
+    },
+    {
+        "title": "Scaling Thomson Reuters\u2019 language model research with Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-thomson-reuters-language-model-research-with-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Introducing Amazon EKS support in Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-eks-support-in-amazon-sagemaker-hyperpod/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Evaluating prompts at scale with Prompt Management and Prompt Flows for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-prompts-at-scale-with-prompt-management-and-prompt-flows-for-amazon-bedrock/"
-    },
-    {
-        "title": "Deploy Amazon SageMaker pipelines using AWS Controllers for Kubernetes",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-pipelines-using-aws-controllers-for-kubernetes/"
-    },
-    {
-        "title": "Effectively manage foundation models for generative AI applications with Amazon SageMaker Model Registry",
-        "link": "https://aws.amazon.com/blogs/machine-learning/effectively-manage-foundation-models-for-generative-ai-applications-with-amazon-sagemaker-model-registry/"
-    },
-    {
-        "title": "Build an ecommerce product recommendation chatbot with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ecommerce-product-recommendation-chatbot-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "How Thomson Reuters Labs achieved AI/ML innovation at pace with AWS MLOps services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-labs-achieved-ai-ml-innovation-at-pace-with-aws-mlops-services/"
-    },
-    {
-        "title": "Build a generative AI image description application with Anthropic\u2019s Claude 3.5 Sonnet on Amazon Bedrock and AWS CDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-image-description-application-with-anthropics-claude-3-5-sonnet-on-amazon-bedrock-and-aws-cdk/"
     }
 ]

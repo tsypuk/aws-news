@@ -1,5 +1,9 @@
 [
     {
+        "title": "New whitepaper available: Building security from the ground up with Secure by Design",
+        "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-building-security-from-the-ground-up-with-secure-by-design/"
+    },
+    {
         "title": "AWS achieves HDS certification in four additional AWS Regions",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-hds-certification-in-four-additional-aws-regions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS completes the first GDV joint audit with participant insurers in Germany",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-first-gdv-joint-audit-with-participant-insurers-in-germany/"
-    },
-    {
-        "title": "How to deploy an Amazon OpenSearch cluster to ingest logs from Amazon Security Lake",
-        "link": "https://aws.amazon.com/blogs/security/how-to-deploy-an-amazon-opensearch-cluster-to-ingest-logs-from-amazon-security-lake/"
     }
 ]

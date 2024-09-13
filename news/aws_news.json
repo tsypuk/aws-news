@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon RDS for MySQL zero-ETL integration with Amazon Redshift, now generally available, enables near real-time analytics",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-rds-for-mysql-zero-etl-integration-with-amazon-redshift-now-generally-available-enables-near-real-time-analytics/"
+    },
+    {
         "title": "Amazon SageMaker HyperPod introduces Amazon EKS support",
         "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-hyperpod-introduces-amazon-eks-support/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Global AWS Heroes Summit, AWS Lambda, Amazon Redshift, and more (July 22, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-global-aws-heroes-summit-aws-lambda-amazon-redshift-and-more-july-22-2024/"
     }
 ]

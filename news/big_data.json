@@ -1,5 +1,21 @@
 [
     {
+        "title": "Harness Zero Copy data sharing from Salesforce Data Cloud to Amazon Redshift for Unified Analytics \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/harness-zero-copy-data-sharing-from-salesforce-data-cloud-to-amazon-redshift-for-unified-analytics-part-2/"
+    },
+    {
+        "title": "The AWS Glue Data Catalog now supports storage optimization of Apache Iceberg tables",
+        "link": "https://aws.amazon.com/blogs/big-data/the-aws-glue-data-catalog-now-supports-storage-optimization-of-apache-iceberg-tables/"
+    },
+    {
+        "title": "Differentiate generative AI applications with your data using AWS analytics and managed databases",
+        "link": "https://aws.amazon.com/blogs/big-data/differentiate-generative-ai-applications-with-your-data-using-aws-analytics-and-managed-databases/"
+    },
+    {
+        "title": "How ZS built a clinical knowledge repository for semantic search using Amazon OpenSearch Service and Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/big-data/how-zs-built-a-clinical-knowledge-repository-for-semantic-search-using-amazon-opensearch-service-and-amazon-neptune/"
+    },
+    {
         "title": "Developer guidance on how to do local testing with Amazon MSK Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/developer-guidance-on-how-to-do-local-testing-with-amazon-msk-serverless/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Kaplan, Inc. implemented modern data pipelines using Amazon MWAA and Amazon AppFlow with Amazon Redshift as a data warehouse",
         "link": "https://aws.amazon.com/blogs/big-data/how-kaplan-inc-implemented-modern-data-pipelines-using-amazon-mwaa-and-amazon-appflow-with-amazon-redshift-as-a-data-warehouse/"
-    },
-    {
-        "title": "Optimize cost and performance for Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-cost-and-performance-for-amazon-mwaa/"
-    },
-    {
-        "title": "Optimize your workloads with Amazon Redshift Serverless AI-driven scaling and optimization",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-your-workloads-with-amazon-redshift-serverless-ai-driven-scaling-and-optimization/"
-    },
-    {
-        "title": "Reducing long-term logging expenses by 4,800% with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/reducing-long-term-logging-expenses-by-4800-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Unlock scalable analytics with a secure connectivity pattern in AWS Glue to read from or write to Snowflake",
-        "link": "https://aws.amazon.com/blogs/big-data/unlock-scalable-analytics-with-a-secure-connectivity-pattern-in-aws-glue-to-read-from-or-write-to-snowflake/"
     }
 ]

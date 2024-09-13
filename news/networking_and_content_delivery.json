@@ -1,5 +1,9 @@
 [
     {
+        "title": "Estimate AWS networking costs with a self-hosted calculator",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/estimate-aws-networking-costs-with-a-self-hosted-calculator/"
+    },
+    {
         "title": "Migration to AWS Cloud WAN multi-Region inspection using service insertion",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migration-to-aws-cloud-wan-multi-region-inspection-using-service-insertion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Active Directory Domain Services integration with Amazon Route 53",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/active-directory-domain-services-integration-with-amazon-route-53/"
-    },
-    {
-        "title": "How to achieve DNS high availability with Route 53 Resolver endpoints",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-achieve-dns-high-availability-with-route-53-resolver-endpoints/"
     }
 ]
