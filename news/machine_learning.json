@@ -1,5 +1,17 @@
 [
     {
+        "title": "Unlock AWS Cost and Usage insights with generative AI powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-aws-cost-and-usage-insights-with-generative-ai-powered-by-amazon-bedrock/"
+    },
+    {
+        "title": "Streamline workflow orchestration of a system of enterprise APIs using chaining with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-workflow-orchestration-of-a-system-of-enterprise-apis-using-chaining-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Build ultra-low latency multimodal generative AI applications using sticky session routing in Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-ultra-low-latency-multimodal-generative-ai-applications-using-sticky-session-routing-in-amazon/"
+    },
+    {
         "title": "Build a RAG-based QnA application using Llama3 models from SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-rag-based-qna-application-using-llama3-models-from-sagemaker-jumpstart/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Fine-tune Llama 3 for text generation on Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-3-for-text-generation-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Ground truth curation and metric interpretation best practices for evaluating generative AI question answering using FMEval",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ground-truth-curation-and-metric-interpretation-best-practices-for-evaluating-generative-ai-question-answering-using-fmeval/"
-    },
-    {
-        "title": "Build powerful RAG pipelines with LlamaIndex and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-powerful-rag-pipelines-with-llamaindex-and-amazon-bedrock/"
-    },
-    {
-        "title": "Evaluating prompts at scale with Prompt Management and Prompt Flows for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-prompts-at-scale-with-prompt-management-and-prompt-flows-for-amazon-bedrock/"
     }
 ]

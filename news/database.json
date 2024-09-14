@@ -1,5 +1,13 @@
 [
     {
+        "title": "Analyzing PL/SQL and T-SQL code using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/analyzing-pl-sql-and-t-sql-code-using-amazon-bedrock/"
+    },
+    {
+        "title": "Use Amazon RDS Proxy with IAM authentication for cross-account access",
+        "link": "https://aws.amazon.com/blogs/database/use-amazon-rds-proxy-with-iam-authentication-for-cross-account-access/"
+    },
+    {
         "title": "Faster development with Amazon DynamoDB and Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/database/faster-development-with-amazon-dynamodb-and-amazon-q-developer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Prisma Cloud built Infinity Graph using Amazon Neptune and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/database/how-prisma-cloud-built-infinity-graph-using-amazon-neptune-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Schedule jobs in Amazon RDS or Amazon Aurora PostgreSQL using pg_tle and pg_dbms_job",
-        "link": "https://aws.amazon.com/blogs/database/schedule-jobs-in-amazon-rds-or-amazon-aurora-postgresql-using-pg_tle-and-pg_dbms_job/"
-    },
-    {
-        "title": "Triple your knowledge graph speed with RDF linked data and openCypher using Amazon Neptune Analytics",
-        "link": "https://aws.amazon.com/blogs/database/triple-your-knowledge-graph-speed-with-rdf-linked-data-and-opencypher-using-amazon-neptune-analytics/"
     }
 ]

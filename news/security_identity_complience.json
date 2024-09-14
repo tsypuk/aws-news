@@ -1,5 +1,13 @@
 [
     {
+        "title": "Podcast: Empowering organizations to address their digital sovereignty requirements with AWS",
+        "link": "https://aws.amazon.com/blogs/security/podcast-empowering-organizations-to-address-their-digital-sovereignty-requirements-with-aws/"
+    },
+    {
+        "title": "Reduce risks of user sign-up fraud and SMS pumping with Amazon Cognito user pools",
+        "link": "https://aws.amazon.com/blogs/security/reduce-risks-of-user-sign-up-fraud-and-sms-pumping-with-amazon-cognito-user-pools/"
+    },
+    {
         "title": "New whitepaper available: Building security from the ground up with Secure by Design",
         "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-building-security-from-the-ground-up-with-secure-by-design/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "OSPAR 2024 report now available with 163 services in scope",
         "link": "https://aws.amazon.com/blogs/security/ospar-2024-report-available-with-163-services-in-scope/"
-    },
-    {
-        "title": "Federated access to Amazon Athena using AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/federated-access-to-amazon-athena-using-aws-iam-identity-center/"
-    },
-    {
-        "title": "AWS completes the first GDV joint audit with participant insurers in Germany",
-        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-first-gdv-joint-audit-with-participant-insurers-in-germany/"
     }
 ]

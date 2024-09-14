@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlocking Benefits with Bottlerocket: A Purpose-Built Container OS",
+        "link": "https://aws.amazon.com/blogs/containers/benefiting-from-bottlerocket-an-open-source-container-optimized-operating-system/"
+    },
+    {
         "title": "How to optimize log management for Amazon EKS with Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/containers/optimize-log-management-for-amazon-eks-with-amazon-fsx-for-netapp-ontap/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Harnessing Karpenter: Transitioning Kafka to Amazon EKS with AWS solutions",
         "link": "https://aws.amazon.com/blogs/containers/harnessing-karpenter-transitioning-kafka-to-amazon-eks-with-aws-solutions/"
-    },
-    {
-        "title": "How Thomson Reuters achieved 5X operational efficiency and 30% cost optimization with Plexus on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/how-thomson-reuters-achieved-5x-operational-efficiency-and-30-cost-optimization-with-plexus-on-amazon-eks/"
     }
 ]

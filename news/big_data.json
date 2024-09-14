@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Batch Processing Gateway to automate job management in multi-cluster Amazon EMR on EKS environments",
+        "link": "https://aws.amazon.com/blogs/big-data/use-batch-processing-gateway-to-automate-job-management-in-multi-cluster-amazon-emr-on-eks-environments/"
+    },
+    {
+        "title": "How CFM built a well-governed and scalable data-engineering platform using Amazon EMR for financial features generation",
+        "link": "https://aws.amazon.com/blogs/big-data/how-cfm-built-a-well-governed-and-scalable-data-engineering-platform-using-amazon-emr-for-financial-features-generation/"
+    },
+    {
         "title": "Harness Zero Copy data sharing from Salesforce Data Cloud to Amazon Redshift for Unified Analytics \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/harness-zero-copy-data-sharing-from-salesforce-data-cloud-to-amazon-redshift-for-unified-analytics-part-2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Copy and mask PII between Amazon RDS databases using visual ETL jobs in AWS Glue Studio",
         "link": "https://aws.amazon.com/blogs/big-data/copy-and-mask-pii-between-amazon-rds-databases-using-visual-etl-jobs-in-aws-glue-studio/"
-    },
-    {
-        "title": "Amazon EMR 7.1 runtime for Apache Spark and Iceberg can run Spark workloads 2.7 times faster than Apache Spark 3.5.1 and Iceberg 1.5.2",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-7-1-runtime-for-apache-spark-and-iceberg-can-run-spark-workloads-2-7-times-faster-than-apache-spark-3-5-1-and-iceberg-1-5-2/"
-    },
-    {
-        "title": "How Kaplan, Inc. implemented modern data pipelines using Amazon MWAA and Amazon AppFlow with Amazon Redshift as a data warehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/how-kaplan-inc-implemented-modern-data-pipelines-using-amazon-mwaa-and-amazon-appflow-with-amazon-redshift-as-a-data-warehouse/"
     }
 ]
