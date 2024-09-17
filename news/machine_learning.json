@@ -1,5 +1,13 @@
 [
     {
+        "title": "CRISPR-Cas9 guide RNA efficiency prediction with efficiently tuned models in Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/crispr-cas9-guide-rna-efficiency-prediction-with-efficiently-tuned-models-in-amazon-sagemaker/"
+    },
+    {
+        "title": "Improve RAG performance using Cohere Rerank",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-rag-performance-using-cohere-rerank/"
+    },
+    {
         "title": "Unlock AWS Cost and Usage insights with generative AI powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlock-aws-cost-and-usage-insights-with-generative-ai-powered-by-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Exploring data using AI chat at Domo with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/exploring-data-using-ai-chat-at-domo-with-amazon-bedrock/"
-    },
-    {
-        "title": "How Vidmob is using generative AI to transform its creative data landscape",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-vidmob-is-using-generative-ai-to-transform-its-creative-data-landscape/"
-    },
-    {
-        "title": "Fine-tune Llama 3 for text generation on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-3-for-text-generation-on-amazon-sagemaker-jumpstart/"
     }
 ]

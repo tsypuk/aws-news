@@ -1,5 +1,9 @@
 [
     {
+        "title": "High availability for Oracle GoldenGate Microservices Architecture in AWS",
+        "link": "https://aws.amazon.com/blogs/database/high-availability-for-oracle-goldengate-microservices-architecture-in-aws/"
+    },
+    {
         "title": "Analyzing PL/SQL and T-SQL code using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/analyzing-pl-sql-and-t-sql-code-using-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using DML auditing for Amazon Keyspaces (for Apache Cassandra)",
         "link": "https://aws.amazon.com/blogs/database/using-dml-auditing-for-amazon-keyspaces-for-apache-cassandra/"
-    },
-    {
-        "title": "How Prisma Cloud built Infinity Graph using Amazon Neptune and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/database/how-prisma-cloud-built-infinity-graph-using-amazon-neptune-and-amazon-opensearch-service/"
     }
 ]

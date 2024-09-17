@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Oracle Database@AWS, Amazon RDS, AWS PrivateLink, Amazon MSK, Amazon EventBridge, Amazon SageMaker and more",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-oracle-databaseaws-amazon-rds-aws-privatelink-amazon-msk-amazon-eventbridge-amazon-sagemaker-and-more/"
+    },
+    {
         "title": "Amazon RDS for MySQL zero-ETL integration with Amazon Redshift, now generally available, enables near real-time analytics",
         "link": "https://aws.amazon.com/blogs/aws/amazon-rds-for-mysql-zero-etl-integration-with-amazon-redshift-now-generally-available-enables-near-real-time-analytics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Llama 3.1, Mistral Large 2, AWS Step Functions, AWS Certifications update, and more (July 29, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llama-3-1-mistral-large-2-aws-step-functions-aws-certifications-update-and-more-july-29-2024/"
-    },
-    {
-        "title": "Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/"
     }
 ]

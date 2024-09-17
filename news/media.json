@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enable cloud operations workflows with generative AI using Agents for Amazon Bedrock and Amazon CloudWatch Logs",
+        "link": "https://aws.amazon.com/blogs/mt/enable-cloud-operations-workflows-with-generative-ai-using-agents-for-amazon-bedrock-and-amazon-cloudwatch-logs/"
+    },
+    {
+        "title": "Ten features for efficiently managing your AWS applications from Microsoft Teams and Slack using AWS Chatbot",
+        "link": "https://aws.amazon.com/blogs/mt/ten-features-for-efficiently-managing-your-aws-applications-from-microsoft-teams-and-slack-using-aws-chatbot/"
+    },
+    {
         "title": "Serverless Governance of Software Deployed with AWS Service Catalog",
         "link": "https://aws.amazon.com/blogs/mt/serverless-governance-of-software-deployed-with-aws-service-catalog/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Mainframe Modernization now available in Terraform",
         "link": "https://aws.amazon.com/blogs/mt/aws-mainframe-modernization-now-available-in-terraform/"
-    },
-    {
-        "title": "Streamline compliance management with AWS Config custom rules and conformance packs",
-        "link": "https://aws.amazon.com/blogs/mt/streamline-compliance-management-with-aws-config-custom-rules-and-conformance-packs/"
-    },
-    {
-        "title": "Improve Amazon Bedrock Observability with Amazon CloudWatch AppSignals",
-        "link": "https://aws.amazon.com/blogs/mt/improve-amazon-bedrock-observability-with-amazon-cloudwatch-appsignals/"
     }
 ]

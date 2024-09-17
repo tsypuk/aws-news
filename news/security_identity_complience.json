@@ -1,5 +1,17 @@
 [
     {
+        "title": "Methodology for incident response on generative AI workloads",
+        "link": "https://aws.amazon.com/blogs/security/methodology-for-incident-response-on-generative-ai-workloads/"
+    },
+    {
+        "title": "Create security observability using generative AI with Security Lake and Amazon Q in QuickSight",
+        "link": "https://aws.amazon.com/blogs/security/create-security-observability-using-generative-ai-with-security-lake-and-amazon-q-in-quicksight/"
+    },
+    {
+        "title": "Introducing the APRA CPS 230 AWS Workbook for Australian financial services customers",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-apra-cps-230-aws-workbook-for-australian-financial-services-customers/"
+    },
+    {
         "title": "Podcast: Empowering organizations to address their digital sovereignty requirements with AWS",
         "link": "https://aws.amazon.com/blogs/security/podcast-empowering-organizations-to-address-their-digital-sovereignty-requirements-with-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Hardening the RAG chatbot architecture powered by Amazon Bedrock: Blueprint for secure design and anti-pattern mitigation",
         "link": "https://aws.amazon.com/blogs/security/hardening-the-rag-chatbot-architecture-powered-by-amazon-bedrock-blueprint-for-secure-design-and-anti-pattern-migration/"
-    },
-    {
-        "title": "SaaS authentication: Identity management with Amazon Cognito user pools",
-        "link": "https://aws.amazon.com/blogs/security/saas-authentication-identity-management-with-amazon-cognito-user-pools/"
-    },
-    {
-        "title": "How AWS tracks the cloud\u2019s biggest security threats and helps shut them down",
-        "link": "https://aws.amazon.com/blogs/security/how-aws-tracks-the-clouds-biggest-security-threats-and-helps-shut-them-down/"
-    },
-    {
-        "title": "OSPAR 2024 report now available with 163 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/ospar-2024-report-available-with-163-services-in-scope/"
     }
 ]

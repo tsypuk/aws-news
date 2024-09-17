@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reinventing the Amazon Q Developer agent for software development",
+        "link": "https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/"
+    },
+    {
         "title": "Amazon Q Developer Code Challenge",
         "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS announces workspace context awareness for Amazon Q Developer chat",
         "link": "https://aws.amazon.com/blogs/devops/aws-announces-workspace-context-awareness-for-amazon-q-developer-chat/"
-    },
-    {
-        "title": "Chat about your AWS account resources with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/chat-about-your-aws-account-resources-with-amazon-q-developer/"
     }
 ]

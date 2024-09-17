@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch Service: Managed and community driven",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-managed-and-community-driven/"
+    },
+    {
         "title": "Use Batch Processing Gateway to automate job management in multi-cluster Amazon EMR on EKS environments",
         "link": "https://aws.amazon.com/blogs/big-data/use-batch-processing-gateway-to-automate-job-management-in-multi-cluster-amazon-emr-on-eks-environments/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Attribute Amazon EMR on EC2 costs to your end-users",
         "link": "https://aws.amazon.com/blogs/big-data/attribute-amazon-emr-on-ec2-costs-to-your-end-users/"
-    },
-    {
-        "title": "Copy and mask PII between Amazon RDS databases using visual ETL jobs in AWS Glue Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/copy-and-mask-pii-between-amazon-rds-databases-using-visual-etl-jobs-in-aws-glue-studio/"
     }
 ]
