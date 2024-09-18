@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon S3 Express One Zone now supports AWS KMS with customer managed keys",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-express-one-zone-now-supports-aws-kms-with-customer-managed-keys/"
+    },
+    {
         "title": "AWS Weekly Roundup: Oracle Database@AWS, Amazon RDS, AWS PrivateLink, Amazon MSK, Amazon EventBridge, Amazon SageMaker and more",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-oracle-databaseaws-amazon-rds-aws-privatelink-amazon-msk-amazon-eventbridge-amazon-sagemaker-and-more/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS and Multicloud: Existing capabilities & continued enhancements",
         "link": "https://aws.amazon.com/blogs/aws/aws-and-multicloud-existing-capabilities-continued-enhancements/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Llama 3.1, Mistral Large 2, AWS Step Functions, AWS Certifications update, and more (July 29, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llama-3-1-mistral-large-2-aws-step-functions-aws-certifications-update-and-more-july-29-2024/"
     }
 ]

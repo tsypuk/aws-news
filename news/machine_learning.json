@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build RAG-based generative AI applications in AWS using Amazon FSx for NetApp ONTAP with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-rag-based-generative-ai-applications-in-aws-using-amazon-fsx-for-netapp-ontap-with-amazon-bedrock/"
+    },
+    {
+        "title": "Support for AWS DeepComposer ending soon",
+        "link": "https://aws.amazon.com/blogs/machine-learning/support-for-aws-deepcomposer-ending-soon/"
+    },
+    {
+        "title": "Preserve access and explore alternatives for Amazon Lookout for Equipment",
+        "link": "https://aws.amazon.com/blogs/machine-learning/preserve-access-and-explore-alternatives-for-amazon-lookout-for-equipment/"
+    },
+    {
         "title": "CRISPR-Cas9 guide RNA efficiency prediction with efficiently tuned models in Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/crispr-cas9-guide-rna-efficiency-prediction-with-efficiently-tuned-models-in-amazon-sagemaker/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Genomics England uses Amazon SageMaker to predict cancer subtypes and patient survival from multi-modal data",
         "link": "https://aws.amazon.com/blogs/machine-learning/genomics-england-uses-amazon-sagemaker-to-predict-cancer-subtypes-and-patient-survival-from-multi-modal-data/"
-    },
-    {
-        "title": "Align Meta Llama 3 to human preferences with DPO, Amazon SageMaker Studio, and Amazon SageMaker Ground Truth",
-        "link": "https://aws.amazon.com/blogs/machine-learning/align-meta-llama-3-to-human-preferences-with-dpo-amazon-sagemaker-studio-and-amazon-sagemaker-ground-truth/"
-    },
-    {
-        "title": "Amazon EC2 P5e instances are generally available",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-ec2-p5e-instances-are-generally-available/"
-    },
-    {
-        "title": "Exploring data using AI chat at Domo with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/exploring-data-using-ai-chat-at-domo-with-amazon-bedrock/"
     }
 ]

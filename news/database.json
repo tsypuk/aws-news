@@ -1,5 +1,13 @@
 [
     {
+        "title": "Move Amazon Aurora instances from public subnets to private subnets with minimal downtime",
+        "link": "https://aws.amazon.com/blogs/database/move-amazon-aurora-instances-from-public-subnets-to-private-subnets-with-minimal-downtime/"
+    },
+    {
+        "title": "Learn how Presence migrated off a monolithic Amazon RDS for MySQL instance, with near-zero downtime, using replication filters",
+        "link": "https://aws.amazon.com/blogs/database/learn-how-presence-migrated-off-a-monolithic-amazon-rds-for-mysql-instance-with-near-zero-downtime-using-replication-filters/"
+    },
+    {
         "title": "High availability for Oracle GoldenGate Microservices Architecture in AWS",
         "link": "https://aws.amazon.com/blogs/database/high-availability-for-oracle-goldengate-microservices-architecture-in-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Performing a minor version upgrade for Amazon RDS Custom for SQL Server CEV with Multi-AZ",
         "link": "https://aws.amazon.com/blogs/database/performing-a-minor-version-upgrade-for-amazon-rds-custom-for-sql-server-cev-with-multi-az/"
-    },
-    {
-        "title": "Migrate Amazon RDS for Oracle BLOB column data to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/database/migrate-amazon-rds-for-oracle-blob-column-data-to-amazon-s3/"
-    },
-    {
-        "title": "Using DML auditing for Amazon Keyspaces (for Apache Cassandra)",
-        "link": "https://aws.amazon.com/blogs/database/using-dml-auditing-for-amazon-keyspaces-for-apache-cassandra/"
     }
 ]

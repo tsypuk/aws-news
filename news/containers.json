@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure Cross-Cluster Communication in EKS with VPC Lattice and Pod Identity IAM Session Tags",
+        "link": "https://aws.amazon.com/blogs/containers/secure-cross-cluster-communication-in-eks-with-vpc-lattice-and-pod-identity-iam-session-tags/"
+    },
+    {
         "title": "Unlocking Benefits with Bottlerocket: A Purpose-Built Container OS",
         "link": "https://aws.amazon.com/blogs/containers/benefiting-from-bottlerocket-an-open-source-container-optimized-operating-system/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Cordial\u2019s journey implementing Bottlerocket and Karpenter in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/cordials-journey-implementing-bottlerocket-and-karpenter-in-amazon-eks/"
-    },
-    {
-        "title": "Harnessing Karpenter: Transitioning Kafka to Amazon EKS with AWS solutions",
-        "link": "https://aws.amazon.com/blogs/containers/harnessing-karpenter-transitioning-kafka-to-amazon-eks-with-aws-solutions/"
     }
 ]

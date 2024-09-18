@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing General Availability of the AWS SDK for Swift",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/"
+    },
+    {
         "title": "Enhancing Observability in the AWS SDK for .NET with OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/developer/enhancing-observability-in-the-aws-sdk-for-net-with-opentelemetry/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing general availability of the AWS SDK for Kotlin",
         "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-kotlin-ga/"
-    },
-    {
-        "title": "Announcing the end of support for Ruby runtimes 2.3 and 2.4 for the AWS SDK For Ruby",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-ruby-runtimes-2-3-and-2-4-for-the-aws-sdk-for-ruby/"
     }
 ]

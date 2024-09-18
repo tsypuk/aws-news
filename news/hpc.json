@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harnessing the power of large language models for agent-based model development",
+        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-large-language-models-for-agent-based-model-development/"
+    },
+    {
         "title": "Whisper audio transcription powered by AWS Batch and AWS Inferentia",
         "link": "https://aws.amazon.com/blogs/hpc/whisper-audio-transcription-powered-by-aws-batch-and-aws-inferentia/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How vertical scaling and GPUs can accelerate mixed media modelling for marketing analytics",
         "link": "https://aws.amazon.com/blogs/hpc/how-vertical-scaling-and-gpus-can-accelerate-mixed-media-modelling-for-marketing-analytics/"
-    },
-    {
-        "title": "Harnessing the scale of AWS for financial simulations",
-        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-scale-of-aws-for-financial-simulations/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "NSW Department of Education works with AWS to transform tech skills and the digital jobs landscape",
+        "link": "https://aws.amazon.com/blogs/publicsector/nsw-department-of-education-works-with-aws-to-transform-tech-skills-and-the-digital-jobs-landscape/"
+    },
+    {
         "title": "Deploying AWS CloudWatch canaries at scale to elevate monitoring, observability and reliability",
         "link": "https://aws.amazon.com/blogs/publicsector/deploying-aws-cloudwatch-canaries-at-scale-to-elevate-monitoring-observability-and-reliability/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerating data processing for IRCC with Amazon EC2 instances",
         "link": "https://aws.amazon.com/blogs/publicsector/accelerating-data-processing-for-ircc-with-amazon-ec2-instances/"
-    },
-    {
-        "title": "4 ways AWS can help states transform healthcare for incarcerated individuals",
-        "link": "https://aws.amazon.com/blogs/publicsector/4-ways-aws-can-help-states-transform-healthcare-for-incarcerated-individuals/"
     }
 ]
