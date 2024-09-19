@@ -1,5 +1,21 @@
 [
     {
+        "title": "Revolutionize logo design creation with Amazon Bedrock: Embracing generative art, dynamic logos, and AI collaboration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionize-logo-design-creation-with-amazon-bedrock-embracing-generative-art-dynamic-logos-and-ai-collaboration/"
+    },
+    {
+        "title": "Reinvent personalization with generative AI on Amazon Bedrock using task decomposition for agentic workflows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reinvent-personalization-with-generative-ai-on-amazon-bedrock-using-task-decomposition-for-agentic-workflows/"
+    },
+    {
+        "title": "Accelerate pre-training of Mistral\u2019s Mathstral model with highly resilient clusters on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-pre-training-of-mistrals-mathstral-model-with-highly-resilient-clusters-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Building an efficient MLOps platform with OSS tools on Amazon ECS with AWS Fargate",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-efficient-mlops-platform-with-oss-tools-on-amazon-ecs-with-aws-fargate/"
+    },
+    {
         "title": "Build RAG-based generative AI applications in AWS using Amazon FSx for NetApp ONTAP with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-rag-based-generative-ai-applications-in-aws-using-amazon-fsx-for-netapp-ontap-with-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Anomaly detection in streaming time series data with online learning using Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-in-streaming-time-series-data-with-online-learning-using-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Generative AI-powered technology operations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-powered-technology-operations/"
-    },
-    {
-        "title": "Optimizing MLOps for Sustainability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mlops-for-sustainability/"
-    },
-    {
-        "title": "Enabling complex generative AI applications with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enabling-complex-generative-ai-applications-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Genomics England uses Amazon SageMaker to predict cancer subtypes and patient survival from multi-modal data",
-        "link": "https://aws.amazon.com/blogs/machine-learning/genomics-england-uses-amazon-sagemaker-to-predict-cancer-subtypes-and-patient-survival-from-multi-modal-data/"
     }
 ]

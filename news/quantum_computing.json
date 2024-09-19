@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate quantum software development on Amazon Braket with Claude-3",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/accelerate-quantum-software-development-on-amazon-braket-with-claude-3/"
+    },
+    {
         "title": "Take quantum computing from theory to practice with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/take-quantum-computing-from-theory-to-practice-with-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Local detuning now available on QuEra\u2019s Aquila device with Braket Direct",
         "link": "https://aws.amazon.com/blogs/quantum-computing/local-detuning-now-available-on-queras-aquila-device-with-braket-direct/"
-    },
-    {
-        "title": "Hyperparameter optimization for quantum machine learning with Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/hyperparameter-optimization-for-quantum-machine-learning-with-amazon-braket/"
     }
 ]
