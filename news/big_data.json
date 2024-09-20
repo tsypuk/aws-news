@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to track Amazon OpenSearch Service domain-level cost",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-track-amazon-opensearch-service-domain-level-cost/"
+    },
+    {
         "title": "Amazon OpenSearch Service: Managed and community driven",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-managed-and-community-driven/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Harness Zero Copy data sharing from Salesforce Data Cloud to Amazon Redshift for Unified Analytics \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/big-data/harness-zero-copy-data-sharing-from-salesforce-data-cloud-to-amazon-redshift-for-unified-analytics-part-1/"
-    },
-    {
-        "title": "Attribute Amazon EMR on EC2 costs to your end-users",
-        "link": "https://aws.amazon.com/blogs/big-data/attribute-amazon-emr-on-ec2-costs-to-your-end-users/"
     }
 ]

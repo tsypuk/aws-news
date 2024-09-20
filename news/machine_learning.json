@@ -1,5 +1,13 @@
 [
     {
+        "title": "Fine-tune Meta Llama 3.1 models using torchtune on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-meta-llama-3-1-models-using-torchtune-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Integrate Amazon Bedrock Knowledge Bases with Microsoft SharePoint as a data source",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-bedrock-knowledge-bases-with-microsoft-sharepoint-as-a-data-source/"
+    },
+    {
         "title": "Revolutionize logo design creation with Amazon Bedrock: Embracing generative art, dynamic logos, and AI collaboration",
         "link": "https://aws.amazon.com/blogs/machine-learning/revolutionize-logo-design-creation-with-amazon-bedrock-embracing-generative-art-dynamic-logos-and-ai-collaboration/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Amazon EKS support in Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-eks-support-in-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "A review of purpose-built accelerators for financial services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-review-of-purpose-built-accelerators-for-financial-services/"
-    },
-    {
-        "title": "Anomaly detection in streaming time series data with online learning using Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/machine-learning/anomaly-detection-in-streaming-time-series-data-with-online-learning-using-amazon-managed-service-for-apache-flink/"
     }
 ]
