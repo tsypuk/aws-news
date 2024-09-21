@@ -1,5 +1,9 @@
 [
     {
+        "title": "Setting up of AWS Site-to-Site VPN automated monitoring solution",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/setting-up-of-aws-site-to-site-vpn-automated-monitoring-solution/"
+    },
+    {
         "title": "Estimate AWS networking costs with a self-hosted calculator",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/estimate-aws-networking-costs-with-a-self-hosted-calculator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Fever: Building a VPN-less secure network for corporate access",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fever-building-a-vpn-less-secure-network-for-corporate-access/"
-    },
-    {
-        "title": "Active Directory Domain Services integration with Amazon Route 53",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/active-directory-domain-services-integration-with-amazon-route-53/"
     }
 ]

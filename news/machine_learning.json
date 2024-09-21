@@ -1,5 +1,17 @@
 [
     {
+        "title": "Integrate dynamic web content in your generative AI application using a web search API and Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-dynamic-web-content-in-your-generative-ai-application-using-a-web-search-api-and-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Build a generative AI assistant to enhance employee experience using Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-assistant-to-enhance-employee-experience-using-amazon-q-business/"
+    },
+    {
+        "title": "Introducing document-level sync reports: Enhanced data sync visibility in Amazon Kendra",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-document-level-sync-reports-enhanced-data-sync-visibility-in-amazon-kendra/"
+    },
+    {
         "title": "Fine-tune Meta Llama 3.1 models using torchtune on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-meta-llama-3-1-models-using-torchtune-on-amazon-sagemaker/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How healthcare payers and plans can empower members with generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-healthcare-payers-and-plans-can-empower-members-with-generative-ai/"
-    },
-    {
-        "title": "Enabling production-grade generative AI: New capabilities lower costs, streamline production, and boost security",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enabling-production-grade-generative-ai-new-capabilities-lower-costs-streamline-production-and-boost-security/"
-    },
-    {
-        "title": "Scaling Thomson Reuters\u2019 language model research with Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-thomson-reuters-language-model-research-with-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Introducing Amazon EKS support in Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-eks-support-in-amazon-sagemaker-hyperpod/"
     }
 ]

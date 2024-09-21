@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate monitoring at scale for Amazon FSx for NetApp ONTAP volumes",
+        "link": "https://aws.amazon.com/blogs/storage/automate-monitoring-at-scale-for-amazon-fsx-for-netapp-ontap-volumes/"
+    },
+    {
         "title": "Restrict access to your Amazon FSx for NetApp ONTAP volumes using export policies",
         "link": "https://aws.amazon.com/blogs/storage/restrict-access-to-your-amazon-fsx-for-netapp-ontap-volumes-using-export-policies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Teradata improved system availability using Amazon EBS Multi-Attach NVMe reservations",
         "link": "https://aws.amazon.com/blogs/storage/how-teradata-improved-system-availability-using-amazon-ebs-multi-attach-nvme-reservations/"
-    },
-    {
-        "title": "Use generative AI to query your Amazon S3 data lake for insights",
-        "link": "https://aws.amazon.com/blogs/storage/use-generative-ai-to-query-your-amazon-s3-data-lake-for-insights/"
     }
 ]

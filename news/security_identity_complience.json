@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate detection and response to website defacement with Amazon CloudWatch Synthetics",
+        "link": "https://aws.amazon.com/blogs/security/automate-detection-and-response-to-website-defacement-with-amazon-cloudwatch-synthetics/"
+    },
+    {
         "title": "AWS renews its GNS Portugal certification for classified information with 66 services",
         "link": "https://aws.amazon.com/blogs/security/aws-renews-its-gns-portugal-certification-for-classified-information-with-66-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Amazon GuardDuty Malware Protection to scan uploads to Amazon S3",
         "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-malware-protection-to-scan-uploads-to-amazon-s3/"
-    },
-    {
-        "title": "How to centrally manage secrets with AWS Secrets Manager",
-        "link": "https://aws.amazon.com/blogs/security/how-to-centrally-manage-secrets-with-aws-secrets-manager/"
     }
 ]
