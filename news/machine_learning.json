@@ -1,5 +1,29 @@
 [
     {
+        "title": "Enhancing Just Walk Out technology with multi-modal AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-just-walk-out-technology-with-multi-modal-ai/"
+    },
+    {
+        "title": "Generate synthetic data for evaluating RAG systems using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-synthetic-data-for-evaluating-rag-systems-using-amazon-bedrock/"
+    },
+    {
+        "title": "Making traffic lights more efficient with Amazon Rekognition",
+        "link": "https://aws.amazon.com/blogs/machine-learning/making-traffic-lights-more-efficient-with-amazon-rekognition/"
+    },
+    {
+        "title": "Accelerate development of ML workflows with Amazon Q Developer in Amazon SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-of-ml-workflows-with-amazon-q-developer-in-amazon-sagemaker-studio/"
+    },
+    {
+        "title": "Govern generative AI in the enterprise with Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/govern-generative-ai-in-the-enterprise-with-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Transforming home ownership with Amazon Transcribe Call Analytics, Amazon Comprehend, and Amazon Bedrock: Rocket Mortgage\u2019s journey with AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-home-ownership-with-amazon-transcribe-call-analytics-amazon-comprehend-and-amazon-bedrock-rocket-mortgages-journey-with-aws/"
+    },
+    {
         "title": "Integrate dynamic web content in your generative AI application using a web search API and Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/integrate-dynamic-web-content-in-your-generative-ai-application-using-a-web-search-api-and-amazon-bedrock-agents/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Improve RAG performance using Cohere Rerank",
         "link": "https://aws.amazon.com/blogs/machine-learning/improve-rag-performance-using-cohere-rerank/"
-    },
-    {
-        "title": "Unlock AWS Cost and Usage insights with generative AI powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-aws-cost-and-usage-insights-with-generative-ai-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Streamline workflow orchestration of a system of enterprise APIs using chaining with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-workflow-orchestration-of-a-system-of-enterprise-apis-using-chaining-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Build ultra-low latency multimodal generative AI applications using sticky session routing in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ultra-low-latency-multimodal-generative-ai-applications-using-sticky-session-routing-in-amazon/"
-    },
-    {
-        "title": "Build a RAG-based QnA application using Llama3 models from SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-rag-based-qna-application-using-llama3-models-from-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Best prompting practices for using Meta Llama 3 with Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-prompting-practices-for-using-meta-llama-3-with-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "How healthcare payers and plans can empower members with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-healthcare-payers-and-plans-can-empower-members-with-generative-ai/"
     }
 ]

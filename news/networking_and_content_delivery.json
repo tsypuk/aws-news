@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate your workloads to use VPC endpoints with minimum downtime",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-your-workloads-to-use-vpc-endpoints-with-minimum-downtime/"
+    },
+    {
         "title": "Setting up of AWS Site-to-Site VPN automated monitoring solution",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/setting-up-of-aws-site-to-site-vpn-automated-monitoring-solution/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrating AWS Client VPN with AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-aws-client-vpn-with-aws-network-firewall/"
-    },
-    {
-        "title": "Fever: Building a VPN-less secure network for corporate access",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fever-building-a-vpn-less-secure-network-for-corporate-access/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Achieve multipath load balancing in Amazon VPC using Virtual IPs",
+        "link": "https://aws.amazon.com/blogs/industries/achieve-multipath-load-balancing-in-amazon-vpc-using-virtual-ips/"
+    },
+    {
+        "title": "Solving Scalability Challenges in Industry 4.0 with a Cloud Provider-Agnostic Edge Solution",
+        "link": "https://aws.amazon.com/blogs/industries/solving-scalability-challenges-in-industry-4-0-with-a-cloud-provider-agnostic-edge-solution/"
+    },
+    {
+        "title": "Top 5 Technical M&A Challenges for Healthcare and Life Science Customers",
+        "link": "https://aws.amazon.com/blogs/industries/top-5-technical-ma-challenges-for-healthcare-and-life-science-customers/"
+    },
+    {
         "title": "The electrification revolution: Powering the mine of the future",
         "link": "https://aws.amazon.com/blogs/industries/the-electrification-revolution-powering-the-mine-of-the-future/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Healthcare and Life Sciences Industry Guide to AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/industries/healthcare-and-life-sciences-industry-guide-to-aws-reinvent-2024/"
-    },
-    {
-        "title": "Harnessing generative AI for digital equity",
-        "link": "https://aws.amazon.com/blogs/industries/harnessing-generative-ai-for-digital-equity/"
-    },
-    {
-        "title": "The Benefits of PLM on AWS for Manufacturers",
-        "link": "https://aws.amazon.com/blogs/industries/the-benefits-of-plm-on-aws-for-manufacturers/"
-    },
-    {
-        "title": "Powering Intelligent Factory Operations with Cognizant\u2019s APEx Factory Whisperer and AWS",
-        "link": "https://aws.amazon.com/blogs/industries/powering-intelligent-factory-operations-with-cognizants-apex-factory-whisperer-and-aws/"
     }
 ]

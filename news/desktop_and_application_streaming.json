@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS recognized as a Leader in 2024 Gartner Magic Quadrant for Desktop as a Service",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-recognized-as-a-leader-in-2024-gartner-magic-quadrant-for-desktop-as-a-service/"
+    },
+    {
         "title": "Simplify certificate-based authentication for AppStream 2.0 and WorkSpaces with AWS Private CA Connector for Active Directory",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplify-certificate-based-authentication-for-appstream-2-0-and-workspaces-with-aws-private-ca-connector-for-active-directory/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize user experience in Amazon WorkSpaces across AWS Regions",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-user-experience-in-amazon-workspaces-across-aws-regions/"
-    },
-    {
-        "title": "Automatically create customized Amazon WorkSpaces Windows images",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automatically-create-customized-amazon-workspaces-windows-images/"
     }
 ]
