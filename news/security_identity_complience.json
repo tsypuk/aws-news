@@ -1,5 +1,13 @@
 [
     {
+        "title": "How AWS WAF threat intelligence features help protect the player experience for betting and gaming customers",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-waf-threat-intelligence-features-help-protect-the-player-experience-for-betting-and-gaming-customers/"
+    },
+    {
+        "title": "Six tips to improve the security of your AWS Transfer Family server",
+        "link": "https://aws.amazon.com/blogs/security/six-tips-to-improve-the-security-of-your-aws-transfer-family-server/"
+    },
+    {
         "title": "Automate detection and response to website defacement with Amazon CloudWatch Synthetics",
         "link": "https://aws.amazon.com/blogs/security/automate-detection-and-response-to-website-defacement-with-amazon-cloudwatch-synthetics/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Making sense of secrets management on Amazon EKS for regulated institutions",
         "link": "https://aws.amazon.com/blogs/security/making-sense-of-secrets-management-on-amazon-eks-for-regulated-institutions/"
-    },
-    {
-        "title": "Announcing AWS KMS Elliptic Curve Diffie-Hellman (ECDH) support",
-        "link": "https://aws.amazon.com/blogs/security/announcing-aws-kms-elliptic-curve-diffie-hellman-ecdh-support/"
-    },
-    {
-        "title": "Using Amazon GuardDuty Malware Protection to scan uploads to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-malware-protection-to-scan-uploads-to-amazon-s3/"
     }
 ]

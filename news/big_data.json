@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieve cross-Region resilience with Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-cross-region-resilience-with-amazon-opensearch-ingestion/"
+    },
+    {
         "title": "How to track Amazon OpenSearch Service domain-level cost",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-track-amazon-opensearch-service-domain-level-cost/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing job queuing to scale your AWS Glue workloads",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-job-queuing-to-scale-your-aws-glue-workloads/"
-    },
-    {
-        "title": "Harness Zero Copy data sharing from Salesforce Data Cloud to Amazon Redshift for Unified Analytics \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/harness-zero-copy-data-sharing-from-salesforce-data-cloud-to-amazon-redshift-for-unified-analytics-part-1/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "HCLTech Rebuilds Enterprise-Grade AWS Network for Cadent Gas",
+        "link": "https://aws.amazon.com/blogs/apn/re-building-enterprise-grade-aws-backbone-networks/"
+    },
+    {
+        "title": "Armakuni uses Karpenter for resilient workload scaling and cost efficiencies",
+        "link": "https://aws.amazon.com/blogs/apn/armakuni-uses-karpenter-for-resilient-workload-scaling-and-cost-efficiencies/"
+    },
+    {
         "title": "Healthcare Integration and Interoperability with Mirth Connect and AWS",
         "link": "https://aws.amazon.com/blogs/apn/healthcare-integration-and-interoperability-with-mirth-connect-and-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Krikey AI\u2019s Canva integration, built on AWS, offers effortless AI-Generated animations",
         "link": "https://aws.amazon.com/blogs/apn/krikey-ais-canva-integration-built-on-aws-offers-effortless-ai-generated-animations/"
-    },
-    {
-        "title": "Announcing MuleSoft\u2019s Open-Source Connector for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/apn/announcing-the-mulesoft-bedrock-connector-for-amazon-generative-ai/"
-    },
-    {
-        "title": "Impetus\u2019 Amazon MSK Solution for Scalable Data Processing",
-        "link": "https://aws.amazon.com/blogs/apn/impetus-amazon-msk-solution-for-scalable-data-processing/"
     }
 ]

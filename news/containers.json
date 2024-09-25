@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating from AWS App Mesh to Amazon ECS Service Connect",
+        "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/"
+    },
+    {
         "title": "Secure Cross-Cluster Communication in EKS with VPC Lattice and Pod Identity IAM Session Tags",
         "link": "https://aws.amazon.com/blogs/containers/secure-cross-cluster-communication-in-eks-with-vpc-lattice-and-pod-identity-iam-session-tags/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Getir optimized their Amazon EKS compute using Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/how-getir-optimized-their-amazon-eks-compute-using-karpenter/"
-    },
-    {
-        "title": "Cordial\u2019s journey implementing Bottlerocket and Karpenter in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/cordials-journey-implementing-bottlerocket-and-karpenter-in-amazon-eks/"
     }
 ]
