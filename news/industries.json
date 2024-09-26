@@ -1,5 +1,9 @@
 [
     {
+        "title": "Opportunities for telecoms with small language models: Insights from AWS and Meta",
+        "link": "https://aws.amazon.com/blogs/industries/opportunities-for-telecoms-with-small-language-models/"
+    },
+    {
         "title": "Achieve multipath load balancing in Amazon VPC using Virtual IPs",
         "link": "https://aws.amazon.com/blogs/industries/achieve-multipath-load-balancing-in-amazon-vpc-using-virtual-ips/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Unlocking Data Operations at Scale with AWS IoT SiteWise Edge and Litmus",
         "link": "https://aws.amazon.com/blogs/industries/unlocking-industrial-data-potential-with-aws-iot-sitewise-edge-and-litmus/"
-    },
-    {
-        "title": "Healthcare and Life Sciences Industry Guide to AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/industries/healthcare-and-life-sciences-industry-guide-to-aws-reinvent-2024/"
     }
 ]

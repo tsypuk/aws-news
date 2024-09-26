@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing security group referencing for AWS Transit Gateway",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-security-group-referencing-for-aws-transit-gateway/"
+    },
+    {
         "title": "Enabling global expansion and reduced operational overhead at Comcast with AWS Transit Gateway",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-global-expansion-and-reduced-operational-overhead-at-comcast-with-aws-transit-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS Global Accelerator to improve application performance",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-aws-global-accelerator-to-improve-application-performance/"
-    },
-    {
-        "title": "Establish private connectivity between Salesforce and your on-premises network using AWS Direct Connect",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/establish-private-connectivity-between-salesforce-and-your-on-premises-network-using-aws-direct-connect/"
     }
 ]

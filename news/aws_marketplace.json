@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify observability of Kubernetes clusters using the SolarWinds EKS add-on available in AWS Marketplace",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/simplify-observability-kubernetes-clusters-solarwinds-eks-add-on-aws-marketplace/"
+    },
+    {
         "title": "Deploy AWS Marketplace third-party software to AWS GovCloud (US) using Amazon EC2 console",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/deploy-aws-marketplace-third-party-software-to-aws-govcloud-us-using-amazon-ec2-console/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The 5 phases to listing your SaaS product in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/5-phases-to-listing-saas-product-in-aws-marketplace/"
-    },
-    {
-        "title": "Using AWS Marketplace to extend FedRamp compliant architectures",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/using-aws-marketplace-to-extend-fedramp-compliant-architectures/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Apollo Tyres built their tyre genealogy solution using Amazon Neptune and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/how-apollo-tyres-built-their-tyre-genealogy-solution-using-amazon-neptune-and-amazon-bedrock/"
+    },
+    {
         "title": "Migrate SQL Server databases to Babelfish for Aurora PostgreSQL using change tracking with a linked server",
         "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-databases-to-babelfish-for-aurora-postgresql-using-change-tracking-with-a-linked-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How PostgreSQL processes queries and how to analyze them",
         "link": "https://aws.amazon.com/blogs/database/how-postgresql-processes-queries-and-how-to-analyze-them/"
-    },
-    {
-        "title": "Enable Amazon RDS for Oracle immutable tables for protected workloads",
-        "link": "https://aws.amazon.com/blogs/database/enable-amazon-rds-for-oracle-immutable-tables-for-protected-workloads/"
     }
 ]

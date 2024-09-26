@@ -1,5 +1,25 @@
 [
     {
+        "title": "Improve employee productivity using generative AI with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-employee-productivity-using-generative-ai-with-amazon-bedrock/"
+    },
+    {
+        "title": "Build a multimodal social media content generator using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-social-media-content-generator-using-amazon-bedrock/"
+    },
+    {
+        "title": "Elevate RAG for numerical analysis using Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-rag-for-numerical-analysis-using-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Llama 3.2 models from Meta are now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/llama-3-2-models-from-meta-are-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Vision use cases with Llama 3.2 11B and 90B models from Meta",
+        "link": "https://aws.amazon.com/blogs/machine-learning/vision-use-cases-with-llama-3-2-11b-and-90b-models-from-meta/"
+    },
+    {
         "title": "How generative AI is transforming legal tech with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-generative-ai-is-transforming-legal-tech-with-aws/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Integrate Amazon Bedrock Knowledge Bases with Microsoft SharePoint as a data source",
         "link": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-bedrock-knowledge-bases-with-microsoft-sharepoint-as-a-data-source/"
-    },
-    {
-        "title": "Revolutionize logo design creation with Amazon Bedrock: Embracing generative art, dynamic logos, and AI collaboration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionize-logo-design-creation-with-amazon-bedrock-embracing-generative-art-dynamic-logos-and-ai-collaboration/"
-    },
-    {
-        "title": "Reinvent personalization with generative AI on Amazon Bedrock using task decomposition for agentic workflows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reinvent-personalization-with-generative-ai-on-amazon-bedrock-using-task-decomposition-for-agentic-workflows/"
-    },
-    {
-        "title": "Accelerate pre-training of Mistral\u2019s Mathstral model with highly resilient clusters on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-pre-training-of-mistrals-mathstral-model-with-highly-resilient-clusters-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Building an efficient MLOps platform with OSS tools on Amazon ECS with AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-efficient-mlops-platform-with-oss-tools-on-amazon-ecs-with-aws-fargate/"
-    },
-    {
-        "title": "Build RAG-based generative AI applications in AWS using Amazon FSx for NetApp ONTAP with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-rag-based-generative-ai-applications-in-aws-using-amazon-fsx-for-netapp-ontap-with-amazon-bedrock/"
     }
 ]

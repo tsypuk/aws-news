@@ -1,5 +1,13 @@
 [
     {
+        "title": "Managing identity source transition for AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
+    },
+    {
+        "title": "2024 H1 IRAP report is now available on AWS Artifact for Australian customers",
+        "link": "https://aws.amazon.com/blogs/security/2024-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
+    },
+    {
         "title": "How AWS WAF threat intelligence features help protect the player experience for betting and gaming customers",
         "link": "https://aws.amazon.com/blogs/security/how-aws-waf-threat-intelligence-features-help-protect-the-player-experience-for-betting-and-gaming-customers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Summer 2024 SOC report now available with 177 services in scope",
         "link": "https://aws.amazon.com/blogs/security/summer-2024-soc-report-now-available-with-177-services-in-scope/"
-    },
-    {
-        "title": "Encryption in transit over external networks: AWS guidance for NYDFS and beyond",
-        "link": "https://aws.amazon.com/blogs/security/encryption-in-transit-over-external-networks-aws-guidance-for-nydfs-and-beyond/"
-    },
-    {
-        "title": "Making sense of secrets management on Amazon EKS for regulated institutions",
-        "link": "https://aws.amazon.com/blogs/security/making-sense-of-secrets-management-on-amazon-eks-for-regulated-institutions/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Discontinuation of NICE EnginFrame effective September 25th, 2025",
+        "link": "https://aws.amazon.com/blogs/hpc/discontinuation-of-nice-enginframe-effective-september-25th-2025/"
+    },
+    {
         "title": "Recent improvement to Open MPI AllReduce and the impact to application performance",
         "link": "https://aws.amazon.com/blogs/hpc/recent-improvement-to-open-mpi-allreduce-and-the-impact-to-application-performance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Running FSI workloads on AWS with YellowDog",
         "link": "https://aws.amazon.com/blogs/hpc/running-fsi-workloads-on-aws-with-yellowdog/"
-    },
-    {
-        "title": "Improve HPC workloads on AWS for environmental sustainability",
-        "link": "https://aws.amazon.com/blogs/hpc/improve-hpc-workloads-on-aws-for-environmental-sustainability/"
     }
 ]
