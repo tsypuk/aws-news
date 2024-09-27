@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to migrate 3DES keys from a FIPS to a non-FIPS AWS CloudHSM cluster",
+        "link": "https://aws.amazon.com/blogs/security/how-to-migrate-3des-keys-from-a-fips-to-a-non-fips-aws-cloudhsm-cluster/"
+    },
+    {
         "title": "Managing identity source transition for AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "2024 ISO and CSA STAR certificates now available with three additional services",
         "link": "https://aws.amazon.com/blogs/security/2024-iso-and-csa-star-certificates-now-available-with-three-additional-services/"
-    },
-    {
-        "title": "Summer 2024 SOC report now available with 177 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/summer-2024-soc-report-now-available-with-177-services-in-scope/"
     }
 ]

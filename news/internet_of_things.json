@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a connected car physical prototype with AWS IoT services",
+        "link": "https://aws.amazon.com/blogs/iot/building-a-connected-car-physical-prototype-with-aws-iot-services/"
+    },
+    {
         "title": "Reliable Airline Baggage Tracking Solution using AWS IoT and Amazon MSK",
         "link": "https://aws.amazon.com/blogs/iot/reliable-airline-baggage-tracking-solution-using-aws-iot-and-amazon-msk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrating Your WebRTC Application from Twilio to AWS: A Developer\u2019s Guide",
         "link": "https://aws.amazon.com/blogs/iot/migrating-your-webrtc-application-from-twilio-to-aws-a-developers-guide/"
-    },
-    {
-        "title": "Building an IoT solution to securely transmit MQTT messages under private networks",
-        "link": "https://aws.amazon.com/blogs/iot/building-an-iot-solution-to-securely-transmit-mqtt-messages-under-private-networks/"
     }
 ]

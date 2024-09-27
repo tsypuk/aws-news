@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerating migrations and IT Tasks for DKB using AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/mt/accelerating-migrations-and-it-tasks-for-dkb-using-aws-systems-manager/"
+    },
+    {
+        "title": "Centrally detect and investigate security findings with AWS Organizations integrations",
+        "link": "https://aws.amazon.com/blogs/mt/centrally-detect-and-investigate-security-findings-with-aws-organizations-integrations/"
+    },
+    {
         "title": "Automating metrics collection on Amazon EKS with Amazon Managed Service for Prometheus managed scrapers",
         "link": "https://aws.amazon.com/blogs/mt/automating-metrics-collection-on-amazon-eks-with-amazon-managed-service-for-prometheus-managed-scrapers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Generate External IdP User Access Privilege Reports with AWS Audit Manager",
         "link": "https://aws.amazon.com/blogs/mt/generate-external-idp-user-access-privilege-reports-with-aws-audit-manager/"
-    },
-    {
-        "title": "Leverage Amazon Q to upgrade Lambda runtime functions",
-        "link": "https://aws.amazon.com/blogs/mt/leverage-amazon-q-to-upgrade-lambda-runtime-functions/"
-    },
-    {
-        "title": "Using AWS CloudTrail data events to audit your Amazon SNS and Amazon SQS workloads",
-        "link": "https://aws.amazon.com/blogs/mt/using-aws-cloudtrail-data-events-to-audit-your-amazon-sns-and-amazon-sqs-workloads/"
     }
 ]

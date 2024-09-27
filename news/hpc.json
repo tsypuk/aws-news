@@ -1,5 +1,9 @@
 [
     {
+        "title": "Customizing your HPC environment: building AMIs for AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/customizing-your-hpc-environment-building-amis-for-aws-parallel-computing-service/"
+    },
+    {
         "title": "Discontinuation of NICE EnginFrame effective September 25th, 2025",
         "link": "https://aws.amazon.com/blogs/hpc/discontinuation-of-nice-enginframe-effective-september-25th-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Strategies for distributing executable binaries across grids in financial services",
         "link": "https://aws.amazon.com/blogs/hpc/strategies-for-distributing-executable-binaries-grids-financial-services/"
-    },
-    {
-        "title": "Running FSI workloads on AWS with YellowDog",
-        "link": "https://aws.amazon.com/blogs/hpc/running-fsi-workloads-on-aws-with-yellowdog/"
     }
 ]

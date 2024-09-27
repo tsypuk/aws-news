@@ -1,5 +1,17 @@
 [
     {
+        "title": "GenAI for Aerospace: Empowering the workforce with expert knowledge on Amazon Q and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/genai-for-aerospace-empowering-the-workforce-with-expert-knowledge-on-amazon-q-and-amazon-bedrock/"
+    },
+    {
+        "title": "Scalable training platform with Amazon SageMaker HyperPod for innovation: a video generation case study",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scalable-training-platform-with-amazon-sagemaker-hyperpod-for-innovation-a-video-generation-case-study/"
+    },
+    {
+        "title": "Control data access to Amazon S3 from Amazon SageMaker Studio with Amazon S3 Access Grants",
+        "link": "https://aws.amazon.com/blogs/machine-learning/control-data-access-to-amazon-s3-from-amazon-sagemaker-studio-with-amazon-s3-access-grants/"
+    },
+    {
         "title": "Improve employee productivity using generative AI with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/improve-employee-productivity-using-generative-ai-with-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build a generative AI assistant to enhance employee experience using Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-assistant-to-enhance-employee-experience-using-amazon-q-business/"
-    },
-    {
-        "title": "Introducing document-level sync reports: Enhanced data sync visibility in Amazon Kendra",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-document-level-sync-reports-enhanced-data-sync-visibility-in-amazon-kendra/"
-    },
-    {
-        "title": "Fine-tune Meta Llama 3.1 models using torchtune on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-meta-llama-3-1-models-using-torchtune-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Integrate Amazon Bedrock Knowledge Bases with Microsoft SharePoint as a data source",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-bedrock-knowledge-bases-with-microsoft-sharepoint-as-a-data-source/"
     }
 ]

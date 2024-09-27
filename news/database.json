@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understanding and optimizing Amazon Timestream Compute Units for efficient time series data management",
+        "link": "https://aws.amazon.com/blogs/database/understanding-and-optimizing-amazon-timestream-compute-units-for-efficient-time-series-data-management/"
+    },
+    {
         "title": "How Apollo Tyres built their tyre genealogy solution using Amazon Neptune and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/how-apollo-tyres-built-their-tyre-genealogy-solution-using-amazon-neptune-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Phreesia replicated a 30 TB SQL Server database to Amazon S3 with AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/how-phreesia-replicated-a-30-tb-sql-server-database-to-amazon-s3-with-aws-dms/"
-    },
-    {
-        "title": "How PostgreSQL processes queries and how to analyze them",
-        "link": "https://aws.amazon.com/blogs/database/how-postgresql-processes-queries-and-how-to-analyze-them/"
     }
 ]

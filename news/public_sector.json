@@ -1,5 +1,13 @@
 [
     {
+        "title": "Safeguarding data exchange in government using AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/safeguarding-data-exchange-in-government-using-aws/"
+    },
+    {
+        "title": "Whose contract is it anyway? How AWS Marketplace works",
+        "link": "https://aws.amazon.com/blogs/publicsector/whose-contract-is-it-anyway-how-aws-marketplace-works/"
+    },
+    {
         "title": "Impacting every citizen and utilizing generative AI to enhance US federal civilian agencies: Insights from AWS executive Christian Hoff",
         "link": "https://aws.amazon.com/blogs/publicsector/impacting-every-citizen-and-utilizing-generative-ai-to-enhance-us-federal-civilian-agencies-insights-from-aws-executive-christian-hoff/"
     },
@@ -14,10 +22,6 @@
     {
         "title": "NSW Department of Education works with AWS to transform tech skills and the digital jobs landscape",
         "link": "https://aws.amazon.com/blogs/publicsector/nsw-department-of-education-works-with-aws-to-transform-tech-skills-and-the-digital-jobs-landscape/"
-    },
-    {
-        "title": "Deploying AWS CloudWatch canaries at scale to elevate monitoring, observability and reliability",
-        "link": "https://aws.amazon.com/blogs/publicsector/deploying-aws-cloudwatch-canaries-at-scale-to-elevate-monitoring-observability-and-reliability/"
     },
     {
         "title": "Happy Sad app leverages AWS generative AI to improve student well-being",
@@ -74,9 +78,5 @@
     {
         "title": "Dispelling the top 8 cloud myths holding back Canadian public sector IT transformation",
         "link": "https://aws.amazon.com/blogs/publicsector/dispelling-the-top-8-cloud-myths-holding-back-canadian-public-sector-it-transformation/"
-    },
-    {
-        "title": "Frugal architecture in action: The Urban Institute innovates with R and Serverless on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/frugal-architecture-in-action-the-urban-institute-innovates-with-r-and-serverless-on-aws/"
     }
 ]

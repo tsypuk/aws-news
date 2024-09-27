@@ -1,5 +1,13 @@
 [
     {
+        "title": "Apply enterprise data governance and management using AWS Lake Formation and AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/big-data/apply-enterprise-data-governance-and-management-using-aws-lake-formation-and-aws-iam-identity-center/"
+    },
+    {
+        "title": "Enrich your serverless data lake with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/big-data/enrich-your-serverless-data-lake-with-amazon-bedrock/"
+    },
+    {
         "title": "Achieve cross-Region resilience with Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-cross-region-resilience-with-amazon-opensearch-ingestion/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate data integration with Salesforce and AWS using AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-integration-with-salesforce-and-aws-using-aws-glue/"
-    },
-    {
-        "title": "Integrate Tableau and\u00a0Microsoft Entra ID with Amazon Redshift using AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-tableau-and-microsoft-entra-id-with-amazon-redshift-using-aws-iam-identity-center/"
-    },
-    {
-        "title": "Introducing job queuing to scale your AWS Glue workloads",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-job-queuing-to-scale-your-aws-glue-workloads/"
     }
 ]
