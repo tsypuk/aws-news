@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EMR Serverless observability, Part 1: Monitor Amazon EMR Serverless workers in near real time using Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-serverless-observability-part-1-monitor-amazon-emr-serverless-workers-in-near-real-time-using-amazon-cloudwatch/"
+    },
+    {
         "title": "Apply enterprise data governance and management using AWS Lake Formation and AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/big-data/apply-enterprise-data-governance-and-management-using-aws-lake-formation-and-aws-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use the AWS CDK with the Data Solutions Framework to provision and manage Amazon Redshift Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/use-the-aws-cdk-with-the-data-solutions-framework-to-provision-and-manage-amazon-redshift-serverless/"
-    },
-    {
-        "title": "Accelerate data integration with Salesforce and AWS using AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-integration-with-salesforce-and-aws-using-aws-glue/"
     }
 ]

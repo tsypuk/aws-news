@@ -1,5 +1,13 @@
 [
     {
+        "title": "Troubleshoot Amazon RDS for MySQL and Amazon RDS for MariaDB Errors",
+        "link": "https://aws.amazon.com/blogs/database/troubleshoot-amazon-rds-for-mysql-and-amazon-rds-for-mariadb-errors/"
+    },
+    {
+        "title": "How a large financial AWS customer implemented high availability and fast disaster recovery for Amazon Aurora PostgreSQL using Global Database and Amazon RDS Proxy",
+        "link": "https://aws.amazon.com/blogs/database/how-a-large-financial-aws-customer-implemented-ha-and-dr-for-amazon-aurora-postgresql-using-global-database-and-amazon-rds-proxy/"
+    },
+    {
         "title": "Understanding and optimizing Amazon Timestream Compute Units for efficient time series data management",
         "link": "https://aws.amazon.com/blogs/database/understanding-and-optimizing-amazon-timestream-compute-units-for-efficient-time-series-data-management/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS DMS homogenous migration from document-oriented databases to Amazon DocumentDB",
         "link": "https://aws.amazon.com/blogs/database/aws-dms-homogenous-migration-from-document-oriented-databases-to-amazon-documentdb/"
-    },
-    {
-        "title": "Migrate Cassandra workloads to Amazon Keyspaces using CQLReplicator",
-        "link": "https://aws.amazon.com/blogs/database/migrate-cassandra-workloads-to-amazon-keyspaces-using-cqlreplicator/"
-    },
-    {
-        "title": "How Phreesia replicated a 30 TB SQL Server database to Amazon S3 with AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/how-phreesia-replicated-a-30-tb-sql-server-database-to-amazon-s3-with-aws-dms/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Leverage IAM Roles for email sending via SES from EC2 and eliminate a common credential risk",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/leverage-iam-roles-for-email-sending-via-ses-from-ec2-and-eliminate-a-common-credential-risk/"
+    },
+    {
         "title": "Streamline SMS and Emailing Marketing Compliance with Amazon Comprehend",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/streamline-sms-and-emailing-marketing-compliance-with-amazon-comprehend/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "An Introduction to Amazon WorkMail Audit Logging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/an-introduction-to-amazon-workmail-audit-logging/"
-    },
-    {
-        "title": "How to Send SMS Using a Sender ID with Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-sms-using-a-sender-id-with-amazon-pinpoint/"
     }
 ]

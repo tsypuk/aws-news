@@ -1,5 +1,13 @@
 [
     {
+        "title": "Architecture to AWS CloudFormation code using Anthropic\u2019s Claude 3 on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/architecture-to-aws-cloudformation-code-using-anthropics-claude-3-on-amazon-bedrock/"
+    },
+    {
+        "title": "How Northpower used computer vision with AWS to automate safety inspection risk assessments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-northpower-used-computer-vision-with-aws-to-automate-safety-inspection-risk-assessments/"
+    },
+    {
         "title": "GenAI for Aerospace: Empowering the workforce with expert knowledge on Amazon Q and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/genai-for-aerospace-empowering-the-workforce-with-expert-knowledge-on-amazon-q-and-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Transforming home ownership with Amazon Transcribe Call Analytics, Amazon Comprehend, and Amazon Bedrock: Rocket Mortgage\u2019s journey with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-home-ownership-with-amazon-transcribe-call-analytics-amazon-comprehend-and-amazon-bedrock-rocket-mortgages-journey-with-aws/"
-    },
-    {
-        "title": "Integrate dynamic web content in your generative AI application using a web search API and Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-dynamic-web-content-in-your-generative-ai-application-using-a-web-search-api-and-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Build a generative AI assistant to enhance employee experience using Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-assistant-to-enhance-employee-experience-using-amazon-q-business/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harnessing the power of agent-based modeling for equity market simulation and strategy testing",
+        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-agent-based-modeling-for-equity-market-simulation-and-strategy-testing/"
+    },
+    {
         "title": "Customizing your HPC environment: building AMIs for AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/customizing-your-hpc-environment-building-amis-for-aws-parallel-computing-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gang scheduling pods on Amazon EKS using AWS Batch multi-node processing jobs",
         "link": "https://aws.amazon.com/blogs/hpc/gang-scheduling-pods-on-amazon-eks-using-aws-batch-multi-node-processing-jobs/"
-    },
-    {
-        "title": "Strategies for distributing executable binaries across grids in financial services",
-        "link": "https://aws.amazon.com/blogs/hpc/strategies-for-distributing-executable-binaries-grids-financial-services/"
     }
 ]
