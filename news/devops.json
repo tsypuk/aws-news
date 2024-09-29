@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing Your Software Supply Chain with Amazon CodeCatalyst and Amazon Inspector",
+        "link": "https://aws.amazon.com/blogs/devops/securing-your-software-supply-chain-with-amazon-codecatalyst-and-amazon-inspector/"
+    },
+    {
         "title": "Amazon ECS Multi-region Deployment with Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/amazon-ecs-multi-region-deployment-with-amazon-codecatalyst/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to migrate from AWS Cloud9 to AWS IDE Toolkits or AWS Cloudshell",
         "link": "https://aws.amazon.com/blogs/devops/how-to-migrate-from-aws-cloud9-to-aws-ide-toolkits-or-aws-cloudshell/"
-    },
-    {
-        "title": "Leveraging Amazon Q Developer for Efficient Code Debugging and Maintenance",
-        "link": "https://aws.amazon.com/blogs/devops/leveraging-amazon-q-developer-for-efficient-code-debugging-and-maintenance/"
     }
 ]
