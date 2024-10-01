@@ -1,5 +1,13 @@
 [
     {
+        "title": "Import a question answering fine-tuned model into Amazon Bedrock as a custom model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/import-a-question-answering-fine-tuned-model-into-amazon-bedrock-as-a-custom-model/"
+    },
+    {
+        "title": "Using task-specific models from AI21 Labs on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-task-specific-models-from-ai21-labs-on-aws/"
+    },
+    {
         "title": "Architecture to AWS CloudFormation code using Anthropic\u2019s Claude 3 on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/architecture-to-aws-cloudformation-code-using-anthropics-claude-3-on-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate development of ML workflows with Amazon Q Developer in Amazon SageMaker Studio",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-of-ml-workflows-with-amazon-q-developer-in-amazon-sagemaker-studio/"
-    },
-    {
-        "title": "Govern generative AI in the enterprise with Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/govern-generative-ai-in-the-enterprise-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Transforming home ownership with Amazon Transcribe Call Analytics, Amazon Comprehend, and Amazon Bedrock: Rocket Mortgage\u2019s journey with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-home-ownership-with-amazon-transcribe-call-analytics-amazon-comprehend-and-amazon-bedrock-rocket-mortgages-journey-with-aws/"
     }
 ]

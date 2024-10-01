@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS and Kubecost Collaborate to Deliver Kubecost 2.0 for Amazon EKS Users",
+        "link": "https://aws.amazon.com/blogs/containers/aws-and-kubecost-collaborate-to-deliver-kubecost-2-0-for-amazon-eks-users/"
+    },
+    {
         "title": "Migrating from AWS App Mesh to Amazon ECS Service Connect",
         "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Modernize your .NET application using AWS App2Container and AWS Toolkit for .NET",
         "link": "https://aws.amazon.com/blogs/containers/replatform-and-refactor-your-workload-to-aws-using-aws-app2container-and-aws-toolkit-for-net-refactoring-application/"
-    },
-    {
-        "title": "How Getir optimized their Amazon EKS compute using Karpenter",
-        "link": "https://aws.amazon.com/blogs/containers/how-getir-optimized-their-amazon-eks-compute-using-karpenter/"
     }
 ]

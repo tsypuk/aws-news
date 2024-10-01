@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring best practices for event delivery with Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/compute/monitoring-best-practices-for-event-delivery-with-amazon-eventbridge/"
+    },
+    {
         "title": "New: Zone Groups for Availability Zones in AWS Regions",
         "link": "https://aws.amazon.com/blogs/compute/new-zone-groups-for-availability-zones-in-aws-regions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless ICYMI Q1 2024",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2024/"
-    },
-    {
-        "title": "Applying Spot-to-Spot consolidation best practices with Karpenter",
-        "link": "https://aws.amazon.com/blogs/compute/applying-spot-to-spot-consolidation-best-practices-with-karpenter/"
     }
 ]

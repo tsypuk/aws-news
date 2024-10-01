@@ -1,5 +1,9 @@
 [
     {
+        "title": "Configure cross-account Amazon S3 as a source or target for AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/configure-cross-account-amazon-s3-as-a-source-or-target-for-aws-dms/"
+    },
+    {
         "title": "Troubleshoot Amazon RDS for MySQL and Amazon RDS for MariaDB Errors",
         "link": "https://aws.amazon.com/blogs/database/troubleshoot-amazon-rds-for-mysql-and-amazon-rds-for-mariadb-errors/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Resolving non-responsive connection issue to on-premises Oracle multitenant architecture database having local listeners behind firewall from the cloud",
         "link": "https://aws.amazon.com/blogs/database/resolving-non-responsive-connection-issue-to-on-premises-oracle-multitenant-architecture-database-having-local-listeners-behind-firewall-from-the-cloud/"
-    },
-    {
-        "title": "AWS DMS homogenous migration from document-oriented databases to Amazon DocumentDB",
-        "link": "https://aws.amazon.com/blogs/database/aws-dms-homogenous-migration-from-document-oriented-databases-to-amazon-documentdb/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing access to AWS accounts from Microsoft Teams and Slack at scale using AWS Organizations and AWS Chatbot",
+        "link": "https://aws.amazon.com/blogs/mt/managing-access-to-aws-accounts-from-microsoft-teams-and-slack-at-scale-using-aws-organizations-and-aws-chatbot/"
+    },
+    {
         "title": "Accelerating migrations and IT Tasks for DKB using AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/mt/accelerating-migrations-and-it-tasks-for-dkb-using-aws-systems-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline AWS Support with AWS Chatbot and Microsoft Teams",
         "link": "https://aws.amazon.com/blogs/mt/streamline-aws-support-with-aws-chatbot-and-microsoft-teams/"
-    },
-    {
-        "title": "Generate External IdP User Access Privilege Reports with AWS Audit Manager",
-        "link": "https://aws.amazon.com/blogs/mt/generate-external-idp-user-access-privilege-reports-with-aws-audit-manager/"
     }
 ]

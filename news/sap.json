@@ -1,5 +1,9 @@
 [
     {
+        "title": "Perform Cross-Region, Cross-Account Backup and Restore of SAP HANA database using AWS Backup for SAP",
+        "link": "https://aws.amazon.com/blogs/awsforsap/perform-cross-region-cross-account-backup-and-restore-of-sap-hana-database-using-aws-backup-for-sap/"
+    },
+    {
         "title": "Automate and Optimize SAP Network Performance in a Multi-AZ deployment",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-and-optimize-sap-network-performance-in-a-multi-az-deployment/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify SAP Management and Operations with AWS Systems Manager for SAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/simplify-sap-management-and-operations-with-aws-systems-manager-for-sap/"
-    },
-    {
-        "title": "Simplify Operations for AWS Launch Wizard for SAP deployments using AWS Systems Manager for SAP",
-        "link": "https://aws.amazon.com/blogs/awsforsap/simplify-operations-for-aws-launch-wizard-for-sap-deployments-using-aws-systems-manager-for-sap/"
     }
 ]
