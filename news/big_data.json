@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate Amazon Redshift Data Lake queries with AWS Glue Data Catalog Column Statistics",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-amazon-redshift-data-lake-queries-with-column-level-statistics/"
+    },
+    {
         "title": "Amazon EMR Serverless observability, Part 1: Monitor Amazon EMR Serverless workers in near real time using Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-serverless-observability-part-1-monitor-amazon-emr-serverless-workers-in-near-real-time-using-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrate sparse and dense vectors to enhance knowledge retrieval in RAG using Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-sparse-and-dense-vectors-to-enhance-knowledge-retrieval-in-rag-using-amazon-opensearch-service/"
-    },
-    {
-        "title": "Use the AWS CDK with the Data Solutions Framework to provision and manage Amazon Redshift Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/use-the-aws-cdk-with-the-data-solutions-framework-to-provision-and-manage-amazon-redshift-serverless/"
     }
 ]

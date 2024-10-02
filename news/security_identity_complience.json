@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to perform a proof of concept for automated discovery using Amazon Macie",
+        "link": "https://aws.amazon.com/blogs/security/proof-of-concept-for-automated-discovery-using-amazon-macie/"
+    },
+    {
+        "title": "Keep your firewall rules up-to-date with Network Firewall features",
+        "link": "https://aws.amazon.com/blogs/security/keep-your-firewall-rules-up-to-date-with-network-firewall-features/"
+    },
+    {
         "title": "How to implement relationship-based access control with Amazon Verified Permissions and Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/security/how-to-implement-relationship-based-access-control-with-amazon-verified-permissions-and-amazon-neptune/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS achieves HDS certification in four additional AWS Regions",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-hds-certification-in-four-additional-aws-regions/"
-    },
-    {
-        "title": "Build a mobile driver\u2019s license solution based on ISO/IEC 18013-5 using AWS Private CA and AWS KMS",
-        "link": "https://aws.amazon.com/blogs/security/build-a-mobile-drivers-license-solution-based-on-iso-iec-18013-5-using-aws-private-ca-and-aws-kms/"
-    },
-    {
-        "title": "Automatically replicate your card payment keys across AWS Regions",
-        "link": "https://aws.amazon.com/blogs/security/automatically-replicate-your-card-payment-keys-across-aws-regions/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Code Wizards load tested Heroic Labs\u2019 Nakama to two million concurrent players with AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/how-code-wizards-load-tested-heroic-labs-nakama-to-two-million-concurrent-players-with-aws/"
+    },
+    {
         "title": "Electronic Arts streamlines game patching with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/electronic-arts-streamlines-game-patching-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Operationalize generative AI applications on AWS: Part II \u2013 Architecture Deep Dive",
         "link": "https://aws.amazon.com/blogs/gametech/operationalize-generative-ai-applications-on-aws-part-ii-architecture-deep-dive/"
-    },
-    {
-        "title": "Omeda Studios swaps out \u2018Predecessor\u2019 backend in less than five months using Amazon GameLift and Pragma",
-        "link": "https://aws.amazon.com/blogs/gametech/omeda-studios-swaps-out-predecessor-backend-in-less-than-five-months-using-amazon-gamelift-and-pragma/"
     }
 ]

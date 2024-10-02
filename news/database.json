@@ -1,5 +1,13 @@
 [
     {
+        "title": "How BCM One migrated data from an unencrypted Amazon RDS for PostgreSQL database instance to a new encrypted instance using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/how-bcm-one-migrated-data-from-an-unencrypted-amazon-rds-for-postgresql-database-instance-to-a-new-encrypted-instance-using-aws-dms/"
+    },
+    {
+        "title": "New \u2013 Size flexibility for Amazon ElastiCache reserved nodes",
+        "link": "https://aws.amazon.com/blogs/database/new-size-flexibility-for-amazon-elasticache-reserved-nodes/"
+    },
+    {
         "title": "Configure cross-account Amazon S3 as a source or target for AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/configure-cross-account-amazon-s3-as-a-source-or-target-for-aws-dms/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate an Oracle database to Amazon RDS for Oracle using Oracle GoldenGate Microservices Architecture",
         "link": "https://aws.amazon.com/blogs/database/migrate-an-oracle-database-to-amazon-rds-for-oracle-using-oracle-goldengate-microservices-architecture/"
-    },
-    {
-        "title": "Create self-managed replicas for an Amazon RDS for Db2 instance for read scaling and disaster recovery",
-        "link": "https://aws.amazon.com/blogs/database/create-self-managed-replicas-for-an-amazon-rds-for-db2-instance-for-read-scaling-and-disaster-recovery/"
-    },
-    {
-        "title": "Resolving non-responsive connection issue to on-premises Oracle multitenant architecture database having local listeners behind firewall from the cloud",
-        "link": "https://aws.amazon.com/blogs/database/resolving-non-responsive-connection-issue-to-on-premises-oracle-multitenant-architecture-database-having-local-listeners-behind-firewall-from-the-cloud/"
     }
 ]

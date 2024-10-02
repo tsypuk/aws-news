@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS recognized as a first-time Leader in the 2024 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-first-time-leader-in-the-2024-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/"
+    },
+    {
+        "title": "Build a serverless voice-based contextual chatbot for people with disabilities using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-voice-based-contextual-chatbot-for-people-with-disabilities-using-amazon-bedrock/"
+    },
+    {
+        "title": "Maintain access and consider alternatives for Amazon Monitron",
+        "link": "https://aws.amazon.com/blogs/machine-learning/maintain-access-and-consider-alternatives-for-amazon-monitron/"
+    },
+    {
         "title": "Import a question answering fine-tuned model into Amazon Bedrock as a custom model",
         "link": "https://aws.amazon.com/blogs/machine-learning/import-a-question-answering-fine-tuned-model-into-amazon-bedrock-as-a-custom-model/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Enhancing Just Walk Out technology with multi-modal AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-just-walk-out-technology-with-multi-modal-ai/"
-    },
-    {
-        "title": "Generate synthetic data for evaluating RAG systems using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-synthetic-data-for-evaluating-rag-systems-using-amazon-bedrock/"
-    },
-    {
-        "title": "Making traffic lights more efficient with Amazon Rekognition",
-        "link": "https://aws.amazon.com/blogs/machine-learning/making-traffic-lights-more-efficient-with-amazon-rekognition/"
-    },
-    {
-        "title": "Accelerate development of ML workflows with Amazon Q Developer in Amazon SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-of-ml-workflows-with-amazon-q-developer-in-amazon-sagemaker-studio/"
     }
 ]
