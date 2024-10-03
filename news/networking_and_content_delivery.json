@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlock self-service, enterprise-grade VPC capabilities with seamless integrations",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/unlock-self-service-enterprise-grade-vpc-capabilities-with-seamless-integrations/"
+    },
+    {
+        "title": "Network observability for modern applications",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-observability-for-modern-applications/"
+    },
+    {
         "title": "How to dynamically adapt your response to changing threat levels using AWS WAF",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-dynamically-adapt-your-response-to-changing-threat-levels-using-aws-waf/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Monitoring surveillance camera feeds on AWS with multicast technology",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/monitoring-surveillance-camera-feeds-on-aws-with-multicast-technology/"
-    },
-    {
-        "title": "Understanding IPv6 addressing on AWS and designing a scalable addressing plan",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/understanding-ipv6-addressing-on-aws-and-designing-a-scalable-addressing-plan/"
-    },
-    {
-        "title": "Satellite communication on AWS: Thales cloudifies in-flight WiFi service",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/satellite-communication-on-aws-thales-cloudifies-in-flight-wifi-service/"
     }
 ]

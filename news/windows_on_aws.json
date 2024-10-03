@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to optimize costs for Microsoft workloads on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-optimize-costs-for-microsoft-workloads-on-aws/"
+    },
+    {
         "title": "Enhance security of your AWS app integration with AWS Managed Microsoft AD",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/enhance-security-of-your-aws-app-integration-with-aws-managed-microsoft-ad/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simplifying Active Directory domain join with AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplifying-active-directory-domain-join-with-aws-systems-manager-2/"
-    },
-    {
-        "title": "Use AWS Systems Manager to enable CloudWatch memory metrics for Windows Server Amazon EC2 instances",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/use-aws-systems-manager-to-enable-cloudwatch-memory-metrics-for-windows-server-amazon-ec2-instances/"
     }
 ]

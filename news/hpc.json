@@ -1,5 +1,9 @@
 [
     {
+        "title": "LLMs: the new frontier in generative agent-based simulation",
+        "link": "https://aws.amazon.com/blogs/hpc/llms-the-new-frontier-in-generative-agent-based-simulation/"
+    },
+    {
         "title": "Harnessing the power of agent-based modeling for equity market simulation and strategy testing",
         "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-agent-based-modeling-for-equity-market-simulation-and-strategy-testing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing e-mail and SMS notifications in AWS ParallelCluster with Slurm",
         "link": "https://aws.amazon.com/blogs/hpc/implementing-e-mail-and-sms-notifications-in-aws-parallelcluster-with-slurm/"
-    },
-    {
-        "title": "Gang scheduling pods on Amazon EKS using AWS Batch multi-node processing jobs",
-        "link": "https://aws.amazon.com/blogs/hpc/gang-scheduling-pods-on-amazon-eks-using-aws-batch-multi-node-processing-jobs/"
     }
 ]

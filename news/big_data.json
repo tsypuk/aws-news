@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deprecation of Lake Formation\u2019s Governed Tables Feature",
+        "link": "https://aws.amazon.com/blogs/big-data/deprecation-of-lake-formations-governed-tables-feature/"
+    },
+    {
         "title": "Accelerate Amazon Redshift Data Lake queries with AWS Glue Data Catalog Column Statistics",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-amazon-redshift-data-lake-queries-with-column-level-statistics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Redshift data ingestion options",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-data-ingestion-options/"
-    },
-    {
-        "title": "Integrate sparse and dense vectors to enhance knowledge retrieval in RAG using Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-sparse-and-dense-vectors-to-enhance-knowledge-retrieval-in-rag-using-amazon-opensearch-service/"
     }
 ]

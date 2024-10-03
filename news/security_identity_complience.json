@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing data privacy with layered authorization for Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/security/enhancing-data-privacy-with-layered-authorization-for-amazon-bedrock-agents/"
+    },
+    {
         "title": "How to perform a proof of concept for automated discovery using Amazon Macie",
         "link": "https://aws.amazon.com/blogs/security/proof-of-concept-for-automated-discovery-using-amazon-macie/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New whitepaper available: Building security from the ground up with Secure by Design",
         "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-building-security-from-the-ground-up-with-secure-by-design/"
-    },
-    {
-        "title": "AWS achieves HDS certification in four additional AWS Regions",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-hds-certification-in-four-additional-aws-regions/"
     }
 ]

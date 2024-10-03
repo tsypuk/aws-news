@@ -1,5 +1,21 @@
 [
     {
+        "title": "How Schneider Electric uses Amazon Bedrock to identify high-potential business opportunities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-schneider-electric-uses-amazon-bedrock-to-identify-high-potential-business-opportunities/"
+    },
+    {
+        "title": "Achieve operational excellence with well-architected generative AI solutions using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-operational-excellence-with-well-architected-generative-ai-solutions-using-amazon-bedrock/"
+    },
+    {
+        "title": "Elevate workforce productivity through seamless personalization in Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-workforce-productivity-through-seamless-personalization-in-amazon-q-business/"
+    },
+    {
+        "title": "Best practices for building robust generative AI applications with Amazon Bedrock Agents \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-robust-generative-ai-applications-with-amazon-bedrock-agents-part-1/"
+    },
+    {
         "title": "AWS recognized as a first-time Leader in the 2024 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-first-time-leader-in-the-2024-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How generative AI is transforming legal tech with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-generative-ai-is-transforming-legal-tech-with-aws/"
-    },
-    {
-        "title": "Deploy generative AI agents in your contact center for voice and chat using Amazon Connect, Amazon Lex, and Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-agents-in-your-contact-center-for-voice-and-chat-using-amazon-connect-amazon-lex-and-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Migrating to Amazon SageMaker: Karini AI Cut Costs by 23%",
-        "link": "https://aws.amazon.com/blogs/machine-learning/migrating-to-amazon-sagemaker-karini-ai-cut-costs-by-23/"
-    },
-    {
-        "title": "Harnessing the power of AI to drive equitable climate solutions: The AI for Equity Challenge",
-        "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-ai-to-drive-equitable-climate-solutions-the-ai-for-equity-challenge/"
-    },
-    {
-        "title": "Enhancing Just Walk Out technology with multi-modal AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-just-walk-out-technology-with-multi-modal-ai/"
     }
 ]

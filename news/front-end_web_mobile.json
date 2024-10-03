@@ -1,5 +1,9 @@
 [
     {
+        "title": "Creating a Generative AI  Travel Assistant App with Amazon Bedrock and AWS Amplify",
+        "link": "https://aws.amazon.com/blogs/mobile/creating-a-generative-ai-travel-assistant-app-with-amazon-bedrock-and-aws-amplify/"
+    },
+    {
         "title": "Add Amazon Bedrock Chat Capabilities to a React Native App",
         "link": "https://aws.amazon.com/blogs/mobile/integrating-amazon-bedrock-chat-capabilities-in-react-native/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Control GraphQL execution complexity, query depth, and introspection with AWS AppSync",
         "link": "https://aws.amazon.com/blogs/mobile/control-graphql-execution-complexity-query-depth-and-introspection-with-aws-appsync/"
-    },
-    {
-        "title": "Deploy Next.js 14 SSR apps with AWS Amplify Hosting\u2019s Amazon Linux 2023 Support",
-        "link": "https://aws.amazon.com/blogs/mobile/amazon-linux-2023-hosting/"
     }
 ]
