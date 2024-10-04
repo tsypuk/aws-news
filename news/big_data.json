@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a dynamic rules engine with Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-dynamic-rules-engine-with-amazon-managed-service-for-apache-flink/"
+    },
+    {
         "title": "Deprecation of Lake Formation\u2019s Governed Tables Feature",
         "link": "https://aws.amazon.com/blogs/big-data/deprecation-of-lake-formations-governed-tables-feature/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Publish and enrich real-time financial data feeds using Amazon MSK and Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/publish-and-enrich-real-time-financial-data-feeds-using-amazon-msk-and-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Amazon Redshift data ingestion options",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-data-ingestion-options/"
     }
 ]

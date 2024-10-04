@@ -1,5 +1,9 @@
 [
     {
+        "title": "Join AWS at PASS Data Community Summit 2024",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/join-aws-at-pass-data-community-summit-2024/"
+    },
+    {
         "title": "How to optimize costs for Microsoft workloads on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-optimize-costs-for-microsoft-workloads-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Govern Microsoft workloads using the myApplications dashboard on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/govern-microsoft-workloads-using-the-myapplications-dashboard-on-aws/"
-    },
-    {
-        "title": "Simplifying Active Directory domain join with AWS Systems Manager",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplifying-active-directory-domain-join-with-aws-systems-manager-2/"
     }
 ]
