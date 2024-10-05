@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create your fashion assistant application using Amazon Titan models and Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-your-fashion-assistant-application-using-amazon-titan-models-and-amazon-bedrock-agents/"
+    },
+    {
         "title": "How Aviva built a scalable, secure, and reliable MLOps platform using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-aviva-built-a-scalable-secure-and-reliable-mlops-platform-using-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a multimodal social media content generator using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-social-media-content-generator-using-amazon-bedrock/"
-    },
-    {
-        "title": "Elevate RAG for numerical analysis using Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-rag-for-numerical-analysis-using-amazon-bedrock-knowledge-bases/"
     }
 ]

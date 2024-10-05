@@ -1,6 +1,10 @@
 [
     {
-        "title": "Halliburton Landmark Improves User Experience with Amazon AppStream 2.0",
+        "title": "Learn more about managing Ubuntu Amazon WorkSpaces with Landscape",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/learn-more-about-managing-ubuntu-amazon-workspaces-with-landscape/"
+    },
+    {
+        "title": "Halliburton Landmark improves user experience with Amazon AppStream 2.0",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/halliburton-landmark-improves-user-experience-with-amazon-appstream-2-0/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Key considerations for single versus multi-session fleets on Amazon AppStream 2.0",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/key-considerations-for-single-versus-multi-session-fleets-on-amazon-appstream-2-0/"
-    },
-    {
-        "title": "AWS End User Computing (EUC) at Washington DC Summit",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-end-user-computing-euc-at-washington-dc-summit/"
     }
 ]

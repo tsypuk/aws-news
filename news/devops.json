@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to identify inactive users of Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/how-to-identify-inactive-users-of-amazon-q-developer/"
+    },
+    {
+        "title": "Use the latest AWS innovations with the new AWS Cloud Control provider for Pulumi",
+        "link": "https://aws.amazon.com/blogs/devops/use-the-latest-aws-innovations-with-the-new-aws-cloud-control-provider-for-pulumi/"
+    },
+    {
         "title": "Accelerate application upgrades with Amazon Q Developer agent for code transformation",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-application-upgrades-with-amazon-q-developer-agent-for-code-transformation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate your Terraform development with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-your-terraform-development-with-amazon-q-developer/"
-    },
-    {
-        "title": "Balance deployment speed and stability with DORA metrics",
-        "link": "https://aws.amazon.com/blogs/devops/balance-deployment-speed-and-stability-with-dora-metrics/"
-    },
-    {
-        "title": "Testing your applications with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/testing-your-applications-with-amazon-q-developer/"
     }
 ]

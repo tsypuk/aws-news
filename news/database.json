@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyze Amazon RDS for Oracle database object dependencies",
+        "link": "https://aws.amazon.com/blogs/database/analyze-amazon-rds-for-oracle-database-object-dependencies/"
+    },
+    {
         "title": "An introduction to real estate tokenization on AWS",
         "link": "https://aws.amazon.com/blogs/database/an-introduction-to-real-estate-tokenization-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Faster development with Amazon DynamoDB and Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/database/faster-development-with-amazon-dynamodb-and-amazon-q-developer/"
-    },
-    {
-        "title": "Obtaining item counts in Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/obtaining-item-counts-in-amazon-dynamodb/"
     }
 ]
