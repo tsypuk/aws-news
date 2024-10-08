@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extract insights in a 30TB time series workload with Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/extract-insights-in-a-30tb-time-series-workload-with-amazon-opensearch-serverless/"
+    },
+    {
         "title": "Build a dynamic rules engine with Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-dynamic-rules-engine-with-amazon-managed-service-for-apache-flink/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Evaluating sample Amazon Redshift data sharing architecture using Redshift Test Drive and advanced SQL analysis",
         "link": "https://aws.amazon.com/blogs/big-data/evaluating-sample-amazon-redshift-data-sharing-architecture-using-redshift-test-drive-and-advanced-sql-analysis/"
-    },
-    {
-        "title": "Publish and enrich real-time financial data feeds using Amazon MSK and Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/publish-and-enrich-real-time-financial-data-feeds-using-amazon-msk-and-amazon-managed-service-for-apache-flink/"
     }
 ]

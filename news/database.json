@@ -1,5 +1,9 @@
 [
     {
+        "title": "Load balancing strategies for Amazon RDS for SQL Server read replicas to scale read workloads and reduce latency",
+        "link": "https://aws.amazon.com/blogs/database/load-balancing-strategies-for-amazon-rds-for-sql-server-read-replicas-to-scale-read-workloads-and-reduce-latency/"
+    },
+    {
         "title": "Analyze Amazon RDS for Oracle database object dependencies",
         "link": "https://aws.amazon.com/blogs/database/analyze-amazon-rds-for-oracle-database-object-dependencies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Amazon RDS Proxy with IAM authentication for cross-account access",
         "link": "https://aws.amazon.com/blogs/database/use-amazon-rds-proxy-with-iam-authentication-for-cross-account-access/"
-    },
-    {
-        "title": "Faster development with Amazon DynamoDB and Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/database/faster-development-with-amazon-dynamodb-and-amazon-q-developer/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a generative AI Slack chat assistant using Amazon Bedrock and Amazon Kendra",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-slack-chat-assistant-using-amazon-bedrock-and-amazon-kendra/"
+    },
+    {
         "title": "Create your fashion assistant application using Amazon Titan models and Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-your-fashion-assistant-application-using-amazon-titan-models-and-amazon-bedrock-agents/"
     },
@@ -70,10 +74,6 @@
     {
         "title": "Control data access to Amazon S3 from Amazon SageMaker Studio with Amazon S3 Access Grants",
         "link": "https://aws.amazon.com/blogs/machine-learning/control-data-access-to-amazon-s3-from-amazon-sagemaker-studio-with-amazon-s3-access-grants/"
-    },
-    {
-        "title": "Improve employee productivity using generative AI with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-employee-productivity-using-generative-ai-with-amazon-bedrock/"
     },
     {
         "title": "Build a multimodal social media content generator using Amazon Bedrock",
