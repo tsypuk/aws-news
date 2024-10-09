@@ -1,5 +1,9 @@
 [
     {
+        "title": "Access private code repositories for installing Python dependencies on Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/access-private-code-repositories-for-installing-python-dependencies-on-amazon-mwaa/"
+    },
+    {
         "title": "Extract insights in a 30TB time series workload with Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/extract-insights-in-a-30tb-time-series-workload-with-amazon-opensearch-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/"
-    },
-    {
-        "title": "Evaluating sample Amazon Redshift data sharing architecture using Redshift Test Drive and advanced SQL analysis",
-        "link": "https://aws.amazon.com/blogs/big-data/evaluating-sample-amazon-redshift-data-sharing-architecture-using-redshift-test-drive-and-advanced-sql-analysis/"
     }
 ]

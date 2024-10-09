@@ -1,5 +1,17 @@
 [
     {
+        "title": "East-West traffic routing between AWS Local Zones using Megaport\u2019s Network-as-a-Service (NaaS)",
+        "link": "https://aws.amazon.com/blogs/apn/east-west-traffic-routing-between-aws-local-zones-using-megaports-network-as-a-service-naas/"
+    },
+    {
+        "title": "Drive Innovation with AWS native services and Nutanix Cloud Cluster running on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/drive-innovation-with-aws-native-services-and-nutanix-cloud-cluster-running-on-aws/"
+    },
+    {
+        "title": "AI Governance with Domino Data Lab on AWS: From Policies to Practices",
+        "link": "https://aws.amazon.com/blogs/apn/ai-governance-with-domino-data-lab-on-aws-from-policies-to-practices/"
+    },
+    {
         "title": "Agile Programmatic Content Management with Contentful and AWS",
         "link": "https://aws.amazon.com/blogs/apn/agile-programmatic-content-management-with-contentful-and-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Breaking Language Boundaries: Multilingual GenAI Solutions with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/breaking-language-boundaries-multilingual-genai-solutions-with-amazon-bedrock/"
-    },
-    {
-        "title": "How AWS Partners Can Grow Their Cloud Business with AWS Distributors Like Redington Gulf",
-        "link": "https://aws.amazon.com/blogs/apn/how-aws-partners-can-grow-their-cloud-business-with-aws-distributors-like-redington-gulf/"
-    },
-    {
-        "title": "Achieve near real-time analytics on Amazon DynamoDB with SingleStore",
-        "link": "https://aws.amazon.com/blogs/apn/achieve-near-real-time-analytics-on-amazon-dynamodb-with-singlestore/"
-    },
-    {
-        "title": "Your Safety Net \u2013 How ThinkCol built a LLM Guardrails solution on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/your-safety-net-how-thinkcol-built-a-llm-guardrails-solution-on-aws/"
     }
 ]

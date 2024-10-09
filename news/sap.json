@@ -1,5 +1,9 @@
 [
     {
+        "title": "Sustainable and durable SAP document and data archiving with Amazon S3",
+        "link": "https://aws.amazon.com/blogs/awsforsap/sustainable-and-durable-sap-document-and-data-archiving-with-amazon-s3/"
+    },
+    {
         "title": "Perform Cross-Region, Cross-Account Backup and Restore of SAP HANA database using AWS Backup for SAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/perform-cross-region-cross-account-backup-and-restore-of-sap-hana-database-using-aws-backup-for-sap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimization Techniques for Running SAP workloads on AWS: A Cost-Savings Guide",
         "link": "https://aws.amazon.com/blogs/awsforsap/optimization-techniques-for-running-sap-workloads-on-aws-a-cost-savings-guide/"
-    },
-    {
-        "title": "Simplify SAP Management and Operations with AWS Systems Manager for SAP",
-        "link": "https://aws.amazon.com/blogs/awsforsap/simplify-sap-management-and-operations-with-aws-systems-manager-for-sap/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Efficient Pre-training of Llama 3-like model architectures using torchtitan on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/efficient-pre-training-of-llama-3-like-model-architectures-using-torchtitan-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Time series forecasting with Amazon SageMaker AutoML",
+        "link": "https://aws.amazon.com/blogs/machine-learning/time-series-forecasting-with-amazon-sagemaker-automl/"
+    },
+    {
+        "title": "Automate user on-boarding for financial services with a digital assistant powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-on-boarding-for-financial-services-with-a-digital-assistant-powered-by-amazon-bedrock/"
+    },
+    {
         "title": "Build a generative AI Slack chat assistant using Amazon Bedrock and Amazon Kendra",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-slack-chat-assistant-using-amazon-bedrock-and-amazon-kendra/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "GenAI for Aerospace: Empowering the workforce with expert knowledge on Amazon Q and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/genai-for-aerospace-empowering-the-workforce-with-expert-knowledge-on-amazon-q-and-amazon-bedrock/"
-    },
-    {
-        "title": "Scalable training platform with Amazon SageMaker HyperPod for innovation: a video generation case study",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scalable-training-platform-with-amazon-sagemaker-hyperpod-for-innovation-a-video-generation-case-study/"
-    },
-    {
-        "title": "Control data access to Amazon S3 from Amazon SageMaker Studio with Amazon S3 Access Grants",
-        "link": "https://aws.amazon.com/blogs/machine-learning/control-data-access-to-amazon-s3-from-amazon-sagemaker-studio-with-amazon-s3-access-grants/"
-    },
-    {
-        "title": "Build a multimodal social media content generator using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-social-media-content-generator-using-amazon-bedrock/"
     }
 ]

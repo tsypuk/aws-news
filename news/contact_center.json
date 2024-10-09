@@ -1,5 +1,9 @@
 [
     {
+        "title": "Personalize agent assistance with Amazon Q in Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/personalize-agent-assistance-with-amazon-q-in-connect/"
+    },
+    {
         "title": "Improve routing and self-service using Amazon Connect Customer Profiles and step-by-step guides",
         "link": "https://aws.amazon.com/blogs/contact-center/improve-routing-and-self-service-using-amazon-connect-customer-profiles-and-step-by-step-guides/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scale and optimize staffing based on performance objectives in Amazon Connect (part 3)",
         "link": "https://aws.amazon.com/blogs/contact-center/scale-and-optimize-staffing-based-on-performance-objectives-in-amazon-connect-part-3/"
-    },
-    {
-        "title": "Monitor Amazon Connect API usage using Amazon CloudWatch alarms",
-        "link": "https://aws.amazon.com/blogs/contact-center/monitor-amazon-connect-api-usage-using-amazon-cloudwatch-alarms/"
     }
 ]

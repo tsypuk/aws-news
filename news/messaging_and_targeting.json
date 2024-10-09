@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing communications at the edge with AWS Wickr",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/securing-communications-at-the-edge-with-aws-wickr/"
+    },
+    {
         "title": "Leverage IAM Roles for email sending via SES from EC2 and eliminate a common credential risk",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/leverage-iam-roles-for-email-sending-via-ses-from-ec2-and-eliminate-a-common-credential-risk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to Implement Self-Managed Opt-Outs for SMS with Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-implement-self-managed-opt-outs-for-sms-with-amazon-pinpoint/"
-    },
-    {
-        "title": "An Introduction to Amazon WorkMail Audit Logging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/an-introduction-to-amazon-workmail-audit-logging/"
     }
 ]

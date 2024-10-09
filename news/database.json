@@ -1,5 +1,21 @@
 [
     {
+        "title": "Get started with Amazon MemoryDB for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/get-started-with-amazon-memorydb-for-valkey/"
+    },
+    {
+        "title": "Get started with Amazon ElastiCache for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/get-started-with-amazon-elasticache-for-valkey/"
+    },
+    {
+        "title": "Amazon ElastiCache and Amazon MemoryDB announce support for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/amazon-elasticache-and-amazon-memorydb-announce-support-for-valkey/"
+    },
+    {
+        "title": "Introducing scaling up to 256 ACUs with Amazon Aurora Serverless v2",
+        "link": "https://aws.amazon.com/blogs/database/introducing-scaling-up-to-256-acus-with-amazon-aurora-serverless-v2/"
+    },
+    {
         "title": "Load balancing strategies for Amazon RDS for SQL Server read replicas to scale read workloads and reduce latency",
         "link": "https://aws.amazon.com/blogs/database/load-balancing-strategies-for-amazon-rds-for-sql-server-read-replicas-to-scale-read-workloads-and-reduce-latency/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Move Amazon Aurora instances from public subnets to private subnets with minimal downtime",
         "link": "https://aws.amazon.com/blogs/database/move-amazon-aurora-instances-from-public-subnets-to-private-subnets-with-minimal-downtime/"
-    },
-    {
-        "title": "Learn how Presence migrated off a monolithic Amazon RDS for MySQL instance, with near-zero downtime, using replication filters",
-        "link": "https://aws.amazon.com/blogs/database/learn-how-presence-migrated-off-a-monolithic-amazon-rds-for-mysql-instance-with-near-zero-downtime-using-replication-filters/"
-    },
-    {
-        "title": "High availability for Oracle GoldenGate Microservices Architecture in AWS",
-        "link": "https://aws.amazon.com/blogs/database/high-availability-for-oracle-goldengate-microservices-architecture-in-aws/"
-    },
-    {
-        "title": "Analyzing PL/SQL and T-SQL code using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/analyzing-pl-sql-and-t-sql-code-using-amazon-bedrock/"
-    },
-    {
-        "title": "Use Amazon RDS Proxy with IAM authentication for cross-account access",
-        "link": "https://aws.amazon.com/blogs/database/use-amazon-rds-proxy-with-iam-authentication-for-cross-account-access/"
     }
 ]
