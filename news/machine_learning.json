@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlock the knowledge in your Slack workspace with Slack connector for Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-the-knowledge-in-your-slack-workspace-with-slack-connector-for-amazon-q-business/"
+    },
+    {
+        "title": "Transitioning off Amazon Lookout for Metrics",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transitioning-off-amazon-lookout-for-metrics/"
+    },
+    {
         "title": "Efficient Pre-training of Llama 3-like model architectures using torchtitan on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/efficient-pre-training-of-llama-3-like-model-architectures-using-torchtitan-on-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Architecture to AWS CloudFormation code using Anthropic\u2019s Claude 3 on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/architecture-to-aws-cloudformation-code-using-anthropics-claude-3-on-amazon-bedrock/"
-    },
-    {
-        "title": "How Northpower used computer vision with AWS to automate safety inspection risk assessments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-northpower-used-computer-vision-with-aws-to-automate-safety-inspection-risk-assessments/"
-    },
-    {
-        "title": "GenAI for Aerospace: Empowering the workforce with expert knowledge on Amazon Q and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/genai-for-aerospace-empowering-the-workforce-with-expert-knowledge-on-amazon-q-and-amazon-bedrock/"
     }
 ]

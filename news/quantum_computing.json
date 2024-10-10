@@ -1,5 +1,9 @@
 [
     {
+        "title": "Assessing performance of a variational algorithm in presence of noise and quantum error mitigation",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/assessing-performance-of-a-variational-algorithm-in-presence-of-noise-and-quantum-error-mitigation/"
+    },
+    {
         "title": "Accelerate quantum software development on Amazon Braket with Claude-3",
         "link": "https://aws.amazon.com/blogs/quantum-computing/accelerate-quantum-software-development-on-amazon-braket-with-claude-3/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "JPMorgan Chase and AWS study the prospects for quantum speedups with near-term Rydberg atom arrays",
         "link": "https://aws.amazon.com/blogs/quantum-computing/jpmorgan-chase-and-aws-study-the-prospects-for-quantum-speedups-with-near-term-rydberg-atom-arrays/"
-    },
-    {
-        "title": "Local detuning now available on QuEra\u2019s Aquila device with Braket Direct",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/local-detuning-now-available-on-queras-aquila-device-with-braket-direct/"
     }
 ]

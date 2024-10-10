@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon EMR on EC2 cost optimization: How a global financial services provider reduced costs by 30%",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-on-ec2-cost-optimization-how-a-global-financial-services-provider-reduced-costs-by-30/"
+    },
+    {
+        "title": "Perform data parity at scale for data modernization programs using AWS Glue Data Quality",
+        "link": "https://aws.amazon.com/blogs/big-data/perform-data-parity-at-scale-for-data-modernization-programs-using-aws-glue-data-quality/"
+    },
+    {
         "title": "Access private code repositories for installing Python dependencies on Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/access-private-code-repositories-for-installing-python-dependencies-on-amazon-mwaa/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Developer guidance on how to do local testing with Amazon MSK Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/developer-guidance-on-how-to-do-local-testing-with-amazon-msk-serverless/"
-    },
-    {
-        "title": "How HPE Aruba Supply Chain optimized cost and performance by migrating to an AWS modern data architecture",
-        "link": "https://aws.amazon.com/blogs/big-data/how-hpe-aruba-supply-chain-optimized-cost-and-performance-by-migrating-to-an-aws-modern-data-architecture/"
-    },
-    {
-        "title": "Migrate Delta tables from Azure Data Lake Storage to Amazon S3 using AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-delta-tables-from-azure-data-lake-storage-to-amazon-s3-using-aws-glue/"
     }
 ]

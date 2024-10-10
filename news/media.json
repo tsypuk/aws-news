@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline change processes \u00adand improve governance with AWS Well-Architected",
+        "link": "https://aws.amazon.com/blogs/mt/streamline-change-processes-and-improve-governance-with-aws-well-architected/"
+    },
+    {
         "title": "Centralized monitoring and alerting for AWS Systems Manager Agent status on managed nodes across AWS Organization",
         "link": "https://aws.amazon.com/blogs/mt/centralized-monitoring-and-alerting-for-aws-systems-manager-agent-status-on-managed-nodes-across-aws-organization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Assess Resilience at Scale by using Amazon QuickSight and Amazon Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/assess-resilience-at-scale-by-using-amazon-quicksight-and-amazon-resilience-hub/"
-    },
-    {
-        "title": "Using Generative AI to Gain Insights into CloudWatch Logs",
-        "link": "https://aws.amazon.com/blogs/mt/using-generative-ai-to-gain-insights-into-cloudwatch-logs/"
     }
 ]
