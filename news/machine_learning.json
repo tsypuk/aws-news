@@ -1,5 +1,21 @@
 [
     {
+        "title": "Enable or disable ACL crawling safely in Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enable-or-disable-acl-crawling-safely-in-amazon-q-business/"
+    },
+    {
+        "title": "SK Telecom improves telco-specific Q&A by fine-tuning Anthropic\u2019s Claude models in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sk-telecom-improves-telco-specific-qa-by-fine-tuning-anthropics-claude-models-in-amazon-bedrock/"
+    },
+    {
+        "title": "Scaling Rufus, the Amazon generative AI-powered conversational shopping assistant with over 80,000 AWS Inferentia and AWS Trainium chips, for Prime Day",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-rufus-the-amazon-generative-ai-powered-conversational-shopping-assistant-with-over-80000-aws-inferentia-and-aws-trainium-chips-for-prime-day/"
+    },
+    {
+        "title": "Exploring alternatives and seamlessly migrating data from Amazon Lookout for Vision",
+        "link": "https://aws.amazon.com/blogs/machine-learning/exploring-alternatives-and-seamlessly-migrating-data-from-amazon-lookout-for-vision/"
+    },
+    {
         "title": "Unlock the knowledge in your Slack workspace with Slack connector for Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlock-the-knowledge-in-your-slack-workspace-with-slack-connector-for-amazon-q-business/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build a serverless voice-based contextual chatbot for people with disabilities using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-voice-based-contextual-chatbot-for-people-with-disabilities-using-amazon-bedrock/"
-    },
-    {
-        "title": "Maintain access and consider alternatives for Amazon Monitron",
-        "link": "https://aws.amazon.com/blogs/machine-learning/maintain-access-and-consider-alternatives-for-amazon-monitron/"
-    },
-    {
-        "title": "Import a question answering fine-tuned model into Amazon Bedrock as a custom model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/import-a-question-answering-fine-tuned-model-into-amazon-bedrock-as-a-custom-model/"
-    },
-    {
-        "title": "Using task-specific models from AI21 Labs on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-task-specific-models-from-ai21-labs-on-aws/"
-    },
-    {
-        "title": "Architecture to AWS CloudFormation code using Anthropic\u2019s Claude 3 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/architecture-to-aws-cloudformation-code-using-anthropics-claude-3-on-amazon-bedrock/"
     }
 ]

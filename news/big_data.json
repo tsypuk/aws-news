@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unleash deeper insights with Amazon Redshift data sharing for data lake tables",
+        "link": "https://aws.amazon.com/blogs/big-data/unleash-deeper-insights-with-amazon-redshift-data-sharing-for-data-lake-tables/"
+    },
+    {
         "title": "Amazon EMR on EC2 cost optimization: How a global financial services provider reduced costs by 30%",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-on-ec2-cost-optimization-how-a-global-financial-services-provider-reduced-costs-by-30/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How ZS built a clinical knowledge repository for semantic search using Amazon OpenSearch Service and Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/big-data/how-zs-built-a-clinical-knowledge-repository-for-semantic-search-using-amazon-opensearch-service-and-amazon-neptune/"
-    },
-    {
-        "title": "Developer guidance on how to do local testing with Amazon MSK Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/developer-guidance-on-how-to-do-local-testing-with-amazon-msk-serverless/"
     }
 ]

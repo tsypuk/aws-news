@@ -1,5 +1,9 @@
 [
     {
+        "title": "Powering the Next Generation of AI Workloads on Amazon EKS with Anyscale",
+        "link": "https://aws.amazon.com/blogs/containers/powering-the-next-generation-of-ai-workloads-on-amazon-eks-with-anyscale/"
+    },
+    {
         "title": "Announcing AWS Neuron Helm Chart",
         "link": "https://aws.amazon.com/blogs/containers/announcing-aws-neuron-helm-chart/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to Run WebAssembly on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/16532-2/"
-    },
-    {
-        "title": "Announcing Karpenter 1.0",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-karpenter-1-0/"
     }
 ]
