@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Zendesk achieved cost and performance gains by moving to Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/how-zendesk-achieved-cost-and-performance-gains-by-moving-to-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Get started with Amazon MemoryDB for Valkey",
         "link": "https://aws.amazon.com/blogs/database/get-started-with-amazon-memorydb-for-valkey/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Amazon stores deliver trustworthy shopping and seller experiences using Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/how-amazon-stores-deliver-trustworthy-shopping-and-seller-experiences-using-amazon-neptune/"
-    },
-    {
-        "title": "Move Amazon Aurora instances from public subnets to private subnets with minimal downtime",
-        "link": "https://aws.amazon.com/blogs/database/move-amazon-aurora-instances-from-public-subnets-to-private-subnets-with-minimal-downtime/"
     }
 ]

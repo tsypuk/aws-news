@@ -1,5 +1,9 @@
 [
     {
+        "title": "Take manual snapshots and restore in a different domain spanning across various Regions and accounts in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/take-manual-snapshots-and-restore-in-a-different-domain-spanning-across-various-regions-and-accounts-in-amazon-opensearch-service/"
+    },
+    {
         "title": "Unleash deeper insights with Amazon Redshift data sharing for data lake tables",
         "link": "https://aws.amazon.com/blogs/big-data/unleash-deeper-insights-with-amazon-redshift-data-sharing-for-data-lake-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Differentiate generative AI applications with your data using AWS analytics and managed databases",
         "link": "https://aws.amazon.com/blogs/big-data/differentiate-generative-ai-applications-with-your-data-using-aws-analytics-and-managed-databases/"
-    },
-    {
-        "title": "How ZS built a clinical knowledge repository for semantic search using Amazon OpenSearch Service and Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/big-data/how-zs-built-a-clinical-knowledge-repository-for-semantic-search-using-amazon-opensearch-service-and-amazon-neptune/"
     }
 ]

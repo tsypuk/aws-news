@@ -1,5 +1,21 @@
 [
     {
+        "title": "Boost productivity by using AI in cloud operational health management",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-by-using-ai-in-cloud-operational-health-management/"
+    },
+    {
+        "title": "How Indeed builds and deploys fine-tuned LLMs on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-indeed-builds-and-deploys-fine-tuned-llms-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Improve LLM application robustness with Amazon Bedrock Guardrails and Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-llm-application-robustness-with-amazon-bedrock-guardrails-and-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Dive deep into vector data stores using Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/dive-deep-into-vector-data-stores-using-amazon-bedrock-knowledge-bases/"
+    },
+    {
         "title": "Enable or disable ACL crawling safely in Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/enable-or-disable-acl-crawling-safely-in-amazon-q-business/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Achieve operational excellence with well-architected generative AI solutions using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/achieve-operational-excellence-with-well-architected-generative-ai-solutions-using-amazon-bedrock/"
-    },
-    {
-        "title": "Elevate workforce productivity through seamless personalization in Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-workforce-productivity-through-seamless-personalization-in-amazon-q-business/"
-    },
-    {
-        "title": "Best practices for building robust generative AI applications with Amazon Bedrock Agents \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-robust-generative-ai-applications-with-amazon-bedrock-agents-part-1/"
-    },
-    {
-        "title": "AWS recognized as a first-time Leader in the 2024 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-first-time-leader-in-the-2024-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/"
-    },
-    {
-        "title": "Build a serverless voice-based contextual chatbot for people with disabilities using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-voice-based-contextual-chatbot-for-people-with-disabilities-using-amazon-bedrock/"
     }
 ]

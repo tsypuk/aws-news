@@ -1,5 +1,9 @@
 [
     {
+        "title": "How CyberArk is streamlining serverless governance by codifying architectural blueprints",
+        "link": "https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/"
+    },
+    {
         "title": "How Banfico built an Open Banking and Payment Services Directive (PSD2) compliance solution on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/how-banfico-built-an-open-banking-and-payment-services-directive-psd2-compliance-solution-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "London Stock Exchange Group uses chaos engineering on AWS to improve resilience",
         "link": "https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/"
-    },
-    {
-        "title": "Simplify document search at scale with intelligent search bot on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/simplify-document-search-at-scale-with-intelligent-search-bot-on-aws/"
     }
 ]

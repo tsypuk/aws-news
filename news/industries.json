@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Toyota migrated Drivelink Safety Connect with zero-downtime to AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-toyota-migrated-drivelink-safety-connect-with-zero-downtime-to-aws/"
+    },
+    {
         "title": "AWS Retail & Consumer Goods Symposium: London, Gives Glimpse into the Future of the Industry",
         "link": "https://aws.amazon.com/blogs/industries/highlights-from-the-aws-retail-consumer-goods-symposium/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Achieve multipath load balancing in Amazon VPC using Virtual IPs",
         "link": "https://aws.amazon.com/blogs/industries/achieve-multipath-load-balancing-in-amazon-vpc-using-virtual-ips/"
-    },
-    {
-        "title": "Solving Scalability Challenges in Industry 4.0 with a Cloud Provider-Agnostic Edge Solution",
-        "link": "https://aws.amazon.com/blogs/industries/solving-scalability-challenges-in-industry-4-0-with-a-cloud-provider-agnostic-edge-solution/"
     }
 ]
