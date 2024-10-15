@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating custom Amazon EKS worker node builds using EC2 Image Builder",
+        "link": "https://aws.amazon.com/blogs/containers/automating-custom-amazon-eks-worker-node-builds-using-ec2-image-builder/"
+    },
+    {
         "title": "Powering the Next Generation of AI Workloads on Amazon EKS with Anyscale",
         "link": "https://aws.amazon.com/blogs/containers/powering-the-next-generation-of-ai-workloads-on-amazon-eks-with-anyscale/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Using GitOps for Stateful Workload Management with vSphere CSI driver on on-premises Kubernetes",
         "link": "https://aws.amazon.com/blogs/containers/using-gitops-for-stateful-workload-management-with-vsphere-csi-driver-on-on-premises-kubernetes-2/"
-    },
-    {
-        "title": "How to Run WebAssembly on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/16532-2/"
     }
 ]

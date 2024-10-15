@@ -1,5 +1,13 @@
 [
     {
+        "title": "Create a multimodal chatbot tailored to your unique dataset with Amazon Bedrock FMs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-multimodal-chatbot-tailored-to-your-unique-dataset-with-amazon-bedrock-fms/"
+    },
+    {
+        "title": "Design secure generative AI application workflows with Amazon Verified Permissions and Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/design-secure-generative-ai-application-workflows-with-amazon-verified-permissions-and-amazon-bedrock-agents/"
+    },
+    {
         "title": "Boost productivity by using AI in cloud operational health management",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-by-using-ai-in-cloud-operational-health-management/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implement model-independent safety measures with Amazon Bedrock Guardrails",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-model-independent-safety-measures-with-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "How Schneider Electric uses Amazon Bedrock to identify high-potential business opportunities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-schneider-electric-uses-amazon-bedrock-to-identify-high-potential-business-opportunities/"
-    },
-    {
-        "title": "Achieve operational excellence with well-architected generative AI solutions using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-operational-excellence-with-well-architected-generative-ai-solutions-using-amazon-bedrock/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Learn how to deploy Falcon 2 11B on Amazon EC2 c7i instances for model Inference",
+        "link": "https://aws.amazon.com/blogs/compute/learn-how-to-deploy-falcon-2-11b-on-amazon-ec2-c7i-instances-for-model-inference/"
+    },
+    {
         "title": "Designing Serverless Integration Patterns for Large Language Models (LLMs)",
         "link": "https://aws.amazon.com/blogs/compute/designing-serverless-integration-patterns-for-large-language-models-llms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerating workflow development with the TestState API in AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/accelerating-workflow-development-with-the-teststate-api-in-aws-step-functions/"
-    },
-    {
-        "title": "Architecting for Disaster Recovery on AWS Outposts Racks with AWS Elastic Disaster Recovery",
-        "link": "https://aws.amazon.com/blogs/compute/architecting-for-disaster-recovery-on-aws-outposts-racks-with-aws-elastic-disaster-recovery/"
     }
 ]

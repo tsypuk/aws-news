@@ -1,7 +1,19 @@
 [
     {
-        "title": "How Toyota migrated Drivelink Safety Connect with zero-downtime to AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-toyota-migrated-drivelink-safety-connect-with-zero-downtime-to-aws/"
+        "title": "Elevating customer experience with generative AI and Telecom APIs using Agents for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/industries/elevating-customer-experience-with-generative-ai-and-telecom-apis-using-agents-for-amazon-bedrock/"
+    },
+    {
+        "title": "Boost sales team productivity and effectiveness with Sales Concierge on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/boost-sales-team-productivity-and-effectiveness-with-sales-concierge-on-aws/"
+    },
+    {
+        "title": "Improving Utility customer experience and field service efficiency using generative AI",
+        "link": "https://aws.amazon.com/blogs/industries/improving-utility-customer-experience-and-field-service-efficiency-using-generative-ai/"
+    },
+    {
+        "title": "BMW Group fosters data-driven culture with a no-code generative AI data analytics solution on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/bmw-group-fosters-data-driven-culture-with-a-no-code-generative-ai-data-analytics-solution-on-aws/"
     },
     {
         "title": "AWS Retail & Consumer Goods Symposium: London, Gives Glimpse into the Future of the Industry",
@@ -26,17 +38,5 @@
     {
         "title": "Healthcare Industry Guide to AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/industries/healthcare-industry-guide-to-aws-reinvent-2024/"
-    },
-    {
-        "title": "Optimizing supply chain efficiency with Xemelgo\u2019s RFID platform built on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/optimizing-supply-chain-efficiency-with-xemelgos-rfid-platform-built-on-aws/"
-    },
-    {
-        "title": "Opportunities for telecoms with small language models: Insights from AWS and Meta",
-        "link": "https://aws.amazon.com/blogs/industries/opportunities-for-telecoms-with-small-language-models/"
-    },
-    {
-        "title": "Achieve multipath load balancing in Amazon VPC using Virtual IPs",
-        "link": "https://aws.amazon.com/blogs/industries/achieve-multipath-load-balancing-in-amazon-vpc-using-virtual-ips/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enriching metadata for accurate text-to-SQL generation for Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/enriching-metadata-for-accurate-text-to-sql-generation-for-amazon-athena/"
+    },
+    {
+        "title": "Enhance Amazon EMR scaling capabilities with Application Master Placement",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-amazon-emr-scaling-capabilities-with-application-master-placement/"
+    },
+    {
         "title": "Take manual snapshots and restore in a different domain spanning across various Regions and accounts in Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/take-manual-snapshots-and-restore-in-a-different-domain-spanning-across-various-regions-and-accounts-in-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Harness Zero Copy data sharing from Salesforce Data Cloud to Amazon Redshift for Unified Analytics \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/harness-zero-copy-data-sharing-from-salesforce-data-cloud-to-amazon-redshift-for-unified-analytics-part-2/"
-    },
-    {
-        "title": "The AWS Glue Data Catalog now supports storage optimization of Apache Iceberg tables",
-        "link": "https://aws.amazon.com/blogs/big-data/the-aws-glue-data-catalog-now-supports-storage-optimization-of-apache-iceberg-tables/"
-    },
-    {
-        "title": "Differentiate generative AI applications with your data using AWS analytics and managed databases",
-        "link": "https://aws.amazon.com/blogs/big-data/differentiate-generative-ai-applications-with-your-data-using-aws-analytics-and-managed-databases/"
     }
 ]
