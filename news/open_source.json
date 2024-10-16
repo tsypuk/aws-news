@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing Finch on Linux for Container Development",
+        "link": "https://aws.amazon.com/blogs/opensource/announcing-finch-on-linux-for-container-development/"
+    },
+    {
         "title": "AWS Welcomes the OpenSearch Software Foundation",
         "link": "https://aws.amazon.com/blogs/opensource/aws-welcomes-the-opensearch-foundation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Finch Container Development Tool: Now for Windows",
         "link": "https://aws.amazon.com/blogs/opensource/finch-container-development-tool-now-for-windows/"
-    },
-    {
-        "title": "Deploying to Amazon Managed Workflows for Apache Airflow with CI/CD tools",
-        "link": "https://aws.amazon.com/blogs/opensource/deploying-to-amazon-managed-workflows-for-apache-airflow-with-ci-cd-tools/"
     }
 ]

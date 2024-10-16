@@ -1,5 +1,9 @@
 [
     {
+        "title": "A guide to identity management in Research and Engineering Studio on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/a-guide-to-identity-management-in-research-and-engineering-studio-on-aws/"
+    },
+    {
         "title": "Performance gains with AWS Graviton4 \u2013 a DevitoPRO case study",
         "link": "https://aws.amazon.com/blogs/hpc/performance-gains-with-aws-graviton4-a-devitopro-case-study/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Guided multi-objective generative AI for drug design",
         "link": "https://aws.amazon.com/blogs/hpc/guided-multi-objective-generative-ai-for-drug-design/"
-    },
-    {
-        "title": "Deploying generative AI applications with NVIDIA NIMs on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/hpc/deploying-generative-ai-applications-with-nvidia-nims-on-amazon-eks/"
     }
 ]

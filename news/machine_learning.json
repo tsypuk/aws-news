@@ -1,5 +1,25 @@
 [
     {
+        "title": "Accelerate migration portfolio assessment using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-migration-portfolio-assessment-using-amazon-bedrock/"
+    },
+    {
+        "title": "Improve public speaking skills using a generative AI-based virtual assistant with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-public-speaking-skills-using-a-generative-ai-based-virtual-assistant-with-amazon-bedrock/"
+    },
+    {
+        "title": "Bria 2.3, Bria 2.2 HD, and Bria 2.3 Fast are now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bria-2-3-bria-2-2-hd-and-bria-2-3-fast-are-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Introducing SageMaker Core: A new object-oriented Python SDK for Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-sagemaker-core-a-new-object-oriented-python-sdk-for-amazon-sagemaker/"
+    },
+    {
+        "title": "Create a data labeling project with Amazon SageMaker Ground Truth Plus",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-data-labeling-project-with-amazon-sagemaker-ground-truth-plus/"
+    },
+    {
         "title": "Create a multimodal chatbot tailored to your unique dataset with Amazon Bedrock FMs",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-multimodal-chatbot-tailored-to-your-unique-dataset-with-amazon-bedrock-fms/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Automate user on-boarding for financial services with a digital assistant powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-on-boarding-for-financial-services-with-a-digital-assistant-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Build a generative AI Slack chat assistant using Amazon Bedrock and Amazon Kendra",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-slack-chat-assistant-using-amazon-bedrock-and-amazon-kendra/"
-    },
-    {
-        "title": "Create your fashion assistant application using Amazon Titan models and Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-your-fashion-assistant-application-using-amazon-titan-models-and-amazon-bedrock-agents/"
-    },
-    {
-        "title": "How Aviva built a scalable, secure, and reliable MLOps platform using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-aviva-built-a-scalable-secure-and-reliable-mlops-platform-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Visier\u2019s data science team boosts their model output 10 times by migrating to Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/visiers-data-science-team-boosts-their-model-output-10-times-by-migrating-to-amazon-sagemaker/"
-    },
-    {
-        "title": "Implement model-independent safety measures with Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-model-independent-safety-measures-with-amazon-bedrock-guardrails/"
     }
 ]

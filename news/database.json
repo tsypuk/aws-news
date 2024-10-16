@@ -1,5 +1,13 @@
 [
     {
+        "title": "What version of Amazon DynamoDB are you running?",
+        "link": "https://aws.amazon.com/blogs/database/what-version-of-amazon-dynamodb-are-you-running/"
+    },
+    {
+        "title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift is generally available",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-zero-etl-integration-with-amazon-redshift-is-generally-available/"
+    },
+    {
         "title": "Import personalized recommendations from Amazon Personalize into Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/import-personalized-recommendations-from-amazon-personalize-into-amazon-dynamodb/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate SQL Server databases to Babelfish for Aurora PostgreSQL using change tracking with a linked server",
         "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-databases-to-babelfish-for-aurora-postgresql-using-change-tracking-with-a-linked-server/"
-    },
-    {
-        "title": "Connect to an Amazon RDS or Amazon Aurora instance using a federated user with AWS IAM Identity Center and IAM database authentication",
-        "link": "https://aws.amazon.com/blogs/database/connect-to-an-amazon-rds-or-amazon-aurora-instance-using-a-federated-user-with-aws-iam-identity-center-and-iam-database-authentication/"
-    },
-    {
-        "title": "How Samsung Cloud optimized Amazon DynamoDB costs",
-        "link": "https://aws.amazon.com/blogs/database/how-samsung-cloud-optimized-amazon-dynamodb-costs/"
     }
 ]
