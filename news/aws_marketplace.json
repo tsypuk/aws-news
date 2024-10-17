@@ -1,5 +1,9 @@
 [
     {
+        "title": "Learn how AWS Hybrid Cloud Services and InCountry Enable Data Sovereignty",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/how-aws-hybrid-cloud-and-incountry-address-data-sovereignty/"
+    },
+    {
         "title": "Cloud innovation: How top healthcare providers are enhancing care",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/cloud-innovation-how-top-healthcare-providers-are-enhancing-care/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify Service Mesh Deployment with Solo.io\u2019s AWS Marketplace add-on for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/simplify-service-mesh-deployment-with-the-solo-io-aws-marketplace-add-on-for-amazon-eks/"
-    },
-    {
-        "title": "Visualize your CloudWatch metrics with AWS resource tags in Coralogix from AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/visualize-cloudwatch-metrics-aws-resource-tags-coralogix-aws-marketplace/"
     }
 ]

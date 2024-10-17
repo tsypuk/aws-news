@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Terraform to deploy a complete AWS Batch environment on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/hpc/use-terraform-to-deploy-a-complete-aws-batch-environment-on-amazon-eks/"
+    },
+    {
         "title": "A guide to identity management in Research and Engineering Studio on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/a-guide-to-identity-management-in-research-and-engineering-studio-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "HPC Ops: DevOps for HPC workloads in the cloud",
         "link": "https://aws.amazon.com/blogs/hpc/hpc-ops-devops-for-hpc-workloads-in-the-cloud/"
-    },
-    {
-        "title": "Guided multi-objective generative AI for drug design",
-        "link": "https://aws.amazon.com/blogs/hpc/guided-multi-objective-generative-ai-for-drug-design/"
     }
 ]

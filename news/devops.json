@@ -1,5 +1,21 @@
 [
     {
+        "title": "Enhance release control with AWS CodePipeline stage-level conditions",
+        "link": "https://aws.amazon.com/blogs/devops/enhance-release-control-with-aws-codepipeline-stage-level-conditions/"
+    },
+    {
+        "title": "Instant Well-Architected CDK Resources with Solutions Constructs Factories",
+        "link": "https://aws.amazon.com/blogs/devops/instant-well-architected-cdk-resources-with-solutions-constructs-factories/"
+    },
+    {
+        "title": "Five ways to optimize code with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/five-ways-to-optimize-code-with-amazon-q-developer/"
+    },
+    {
+        "title": "Code security scanning with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/code-security-scanning-with-amazon-q-developer/"
+    },
+    {
         "title": "Accelerate Serverless Streamlit App Deployment with Terraform",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-serverless-streamlit-app-deployment-with-terraform/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Code Clarity: Enhancing Code Understanding and Efficiency with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/code-clarity-enhancing-code-understanding-and-efficiency-with-amazon-q-developer/"
-    },
-    {
-        "title": "Generating Accurate Git Commit Messages with Amazon Q Developer CLI Context Modifiers",
-        "link": "https://aws.amazon.com/blogs/devops/generating-accurate-git-commit-messages-with-amazon-q-developer-cli-context-modifiers/"
-    },
-    {
-        "title": "Implementing Identity-Aware Sessions with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/implementing-identity-aware-sessions-with-amazon-q-developer/"
-    },
-    {
-        "title": "How to use Amazon Q Developer to deploy a Serverless web application with AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/how-to-use-amazon-q-developer-to-deploy-a-serverless-web-application-with-aws-cdk/"
-    },
-    {
-        "title": "Amazon Q Developer just reached a $260 million dollar milestone",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-just-reached-a-260-million-dollar-milestone/"
     }
 ]

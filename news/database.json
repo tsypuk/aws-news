@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating tables from IBM Db2 for z/OS to Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/migrating-tables-from-ibm-db2-for-z-os-to-amazon-rds-for-db2/"
+    },
+    {
         "title": "What version of Amazon DynamoDB are you running?",
         "link": "https://aws.amazon.com/blogs/database/what-version-of-amazon-dynamodb-are-you-running/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Apollo Tyres built their tyre genealogy solution using Amazon Neptune and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/how-apollo-tyres-built-their-tyre-genealogy-solution-using-amazon-neptune-and-amazon-bedrock/"
-    },
-    {
-        "title": "Migrate SQL Server databases to Babelfish for Aurora PostgreSQL using change tracking with a linked server",
-        "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-databases-to-babelfish-for-aurora-postgresql-using-change-tracking-with-a-linked-server/"
     }
 ]
