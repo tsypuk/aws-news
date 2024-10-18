@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying Generative AI Applications with NVIDIA NIM Microservices on Amazon Elastic Kubernetes Service (Amazon EKS) \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/hpc/deploying-generative-ai-applications-with-nvidia-nim-microservices-on-amazon-elastic-kubernetes-service-amazon-eks-part-2/"
+    },
+    {
         "title": "Use Terraform to deploy a complete AWS Batch environment on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/hpc/use-terraform-to-deploy-a-complete-aws-batch-environment-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using the MAQAO framework to analyze application performance across instances",
         "link": "https://aws.amazon.com/blogs/hpc/using-the-maqao-framework-to-analyze-application-performance-across-instances/"
-    },
-    {
-        "title": "HPC Ops: DevOps for HPC workloads in the cloud",
-        "link": "https://aws.amazon.com/blogs/hpc/hpc-ops-devops-for-hpc-workloads-in-the-cloud/"
     }
 ]

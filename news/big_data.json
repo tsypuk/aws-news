@@ -1,5 +1,17 @@
 [
     {
+        "title": "Get started with Amazon DynamoDB zero-ETL integration with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/get-started-with-amazon-dynamodb-zero-etl-integration-with-amazon-redshift/"
+    },
+    {
+        "title": "Elevate your search and analytics skills with the new Amazon OpenSearch Service YouTube channel",
+        "link": "https://aws.amazon.com/blogs/big-data/elevate-your-search-and-analytics-skills-with-the-new-amazon-opensearch-service-youtube-channel/"
+    },
+    {
+        "title": "Migrate from Amazon Kinesis Data Analytics for SQL to Amazon Managed Service for Apache Flink and Amazon Managed Service for Apache Flink Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-from-amazon-kinesis-data-analytics-for-sql-to-amazon-managed-service-for-apache-flink-and-amazon-managed-service-for-apache-flink-studio/"
+    },
+    {
         "title": "Enriching metadata for accurate text-to-SQL generation for Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/enriching-metadata-for-accurate-text-to-sql-generation-for-amazon-athena/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Amazon OpenSearch Service: Managed and community driven",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-managed-and-community-driven/"
-    },
-    {
-        "title": "Use Batch Processing Gateway to automate job management in multi-cluster Amazon EMR on EKS environments",
-        "link": "https://aws.amazon.com/blogs/big-data/use-batch-processing-gateway-to-automate-job-management-in-multi-cluster-amazon-emr-on-eks-environments/"
-    },
-    {
-        "title": "How CFM built a well-governed and scalable data-engineering platform using Amazon EMR for financial features generation",
-        "link": "https://aws.amazon.com/blogs/big-data/how-cfm-built-a-well-governed-and-scalable-data-engineering-platform-using-amazon-emr-for-financial-features-generation/"
-    },
-    {
-        "title": "Harness Zero Copy data sharing from Salesforce Data Cloud to Amazon Redshift for Unified Analytics \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/harness-zero-copy-data-sharing-from-salesforce-data-cloud-to-amazon-redshift-for-unified-analytics-part-2/"
     }
 ]

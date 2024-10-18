@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing end-of-life for AWS IoT Device Management Fleet Hub, effective October 18th, 2025",
+        "link": "https://aws.amazon.com/blogs/iot/announcing-end-of-life-for-aws-iot-device-management-fleet-hub-effective-october-18th-2025/"
+    },
+    {
         "title": "Building Smart Industrial Machines with AWS: A Comprehensive Guide",
         "link": "https://aws.amazon.com/blogs/iot/building-smart-industrial-machines-with-aws-iot-a-comprehensive-guide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How MTData built a CVML vehicle telematics and driver monitoring solution with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/how-mtdata-built-a-cvml-vehicle-telematics-and-driver-monitoring-solution-with-aws-iot/"
-    },
-    {
-        "title": "How to implement Zero Trust IoT solutions with AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/how-to-implement-zero-trust-iot-solutions-with-aws-iot/"
     }
 ]

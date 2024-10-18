@@ -1,5 +1,9 @@
 [
     {
+        "title": "Support for Amazon CloudWatch Evidently ending soon",
+        "link": "https://aws.amazon.com/blogs/mt/support-for-amazon-cloudwatch-evidently-ending-soon/"
+    },
+    {
         "title": "Streamline change processes \u00adand improve governance with AWS Well-Architected",
         "link": "https://aws.amazon.com/blogs/mt/streamline-change-processes-and-improve-governance-with-aws-well-architected/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leveraging AWS CloudTrail Insights for Proactive API Monitoring and Cost Optimization",
         "link": "https://aws.amazon.com/blogs/mt/leveraging-aws-cloudtrail-insights-for-proactive-api-monitoring-and-cost-optimization/"
-    },
-    {
-        "title": "Assess Resilience at Scale by using Amazon QuickSight and Amazon Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/mt/assess-resilience-at-scale-by-using-amazon-quicksight-and-amazon-resilience-hub/"
     }
 ]

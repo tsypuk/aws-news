@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use IAM authentication with Amazon DocumentDB (with MongoDB compatibility)",
+        "link": "https://aws.amazon.com/blogs/database/use-iam-authentication-with-amazon-documentdb-with-mongodb-compatibility/"
+    },
+    {
         "title": "Migrating tables from IBM Db2 for z/OS to Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/migrating-tables-from-ibm-db2-for-z-os-to-amazon-rds-for-db2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Understanding and optimizing Amazon Timestream Compute Units for efficient time series data management",
         "link": "https://aws.amazon.com/blogs/database/understanding-and-optimizing-amazon-timestream-compute-units-for-efficient-time-series-data-management/"
-    },
-    {
-        "title": "How Apollo Tyres built their tyre genealogy solution using Amazon Neptune and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/how-apollo-tyres-built-their-tyre-genealogy-solution-using-amazon-neptune-and-amazon-bedrock/"
     }
 ]

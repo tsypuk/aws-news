@@ -1,5 +1,17 @@
 [
     {
+        "title": "Using Amazon Q Business with AWS HealthScribe to gain insights from patient consultations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-q-business-with-aws-healthscribe-to-gain-insights-from-patient-consultations/"
+    },
+    {
+        "title": "Use Amazon SageMaker Studio with a custom file system in Amazon EFS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-with-a-custom-file-system-in-amazon-efs/"
+    },
+    {
+        "title": "Summarize call transcriptions securely with Amazon Transcribe and Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/summarize-call-transcriptions-securely-with-amazon-transcribe-and-amazon-bedrock-guardrails/"
+    },
+    {
         "title": "How DPG Media uses Amazon Bedrock and Amazon Transcribe to enhance video metadata with AI-powered pipelines",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-dpg-media-uses-amazon-bedrock-and-amazon-transcribe-to-enhance-video-metadata-with-ai-powered-pipelines/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "SK Telecom improves telco-specific Q&A by fine-tuning Anthropic\u2019s Claude models in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/sk-telecom-improves-telco-specific-qa-by-fine-tuning-anthropics-claude-models-in-amazon-bedrock/"
-    },
-    {
-        "title": "Scaling Rufus, the Amazon generative AI-powered conversational shopping assistant with over 80,000 AWS Inferentia and AWS Trainium chips, for Prime Day",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-rufus-the-amazon-generative-ai-powered-conversational-shopping-assistant-with-over-80000-aws-inferentia-and-aws-trainium-chips-for-prime-day/"
-    },
-    {
-        "title": "Exploring alternatives and seamlessly migrating data from Amazon Lookout for Vision",
-        "link": "https://aws.amazon.com/blogs/machine-learning/exploring-alternatives-and-seamlessly-migrating-data-from-amazon-lookout-for-vision/"
-    },
-    {
-        "title": "Unlock the knowledge in your Slack workspace with Slack connector for Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-the-knowledge-in-your-slack-workspace-with-slack-connector-for-amazon-q-business/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying Lambda function development using CloudWatch Logs Live Tail and Metrics Insights",
+        "link": "https://aws.amazon.com/blogs/compute/simplifying-lambda-function-development-using-cloudwatch-logs-live-tail-and-metrics-insights/"
+    },
+    {
         "title": "Learn how to deploy Falcon 2 11B on Amazon EC2 c7i instances for model Inference",
         "link": "https://aws.amazon.com/blogs/compute/learn-how-to-deploy-falcon-2-11b-on-amazon-ec2-c7i-instances-for-model-inference/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Running code after returning a response from an AWS Lambda function",
         "link": "https://aws.amazon.com/blogs/compute/running-code-after-returning-a-response-from-an-aws-lambda-function/"
-    },
-    {
-        "title": "Accelerating workflow development with the TestState API in AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/compute/accelerating-workflow-development-with-the-teststate-api-in-aws-step-functions/"
     }
 ]

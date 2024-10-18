@@ -1,5 +1,9 @@
 [
     {
+        "title": "An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain",
+        "link": "https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/"
+    },
+    {
         "title": "Strengthening security in the era of generative AI: Must-attend sessions at re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/security/strengthening-security-in-the-era-of-generative-ai-must-attend-sessions-at-reinvent-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Get to know Amazon GuardDuty Runtime Monitoring for Amazon EC2",
         "link": "https://aws.amazon.com/blogs/security/get-to-know-amazon-guardduty-runtime-monitoring-for-amazon-ec2/"
-    },
-    {
-        "title": "Methodology for incident response on generative AI workloads",
-        "link": "https://aws.amazon.com/blogs/security/methodology-for-incident-response-on-generative-ai-workloads/"
     }
 ]
