@@ -1,5 +1,9 @@
 [
     {
+        "title": "Train, optimize, and deploy models on edge devices using Amazon SageMaker and Qualcomm AI Hub",
+        "link": "https://aws.amazon.com/blogs/machine-learning/train-optimize-and-deploy-models-on-edge-devices-using-amazon-sagemaker-and-qualcomm-ai-hub/"
+    },
+    {
         "title": "Using Amazon Q Business with AWS HealthScribe to gain insights from patient consultations",
         "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-q-business-with-aws-healthscribe-to-gain-insights-from-patient-consultations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable or disable ACL crawling safely in Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/enable-or-disable-acl-crawling-safely-in-amazon-q-business/"
-    },
-    {
-        "title": "SK Telecom improves telco-specific Q&A by fine-tuning Anthropic\u2019s Claude models in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/sk-telecom-improves-telco-specific-qa-by-fine-tuning-anthropics-claude-models-in-amazon-bedrock/"
     }
 ]

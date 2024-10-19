@@ -1,5 +1,9 @@
 [
     {
+        "title": "Exploring AWS Config data using Amazon Athena and Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/exploring-aws-config-data-using-amazon-athena-and-amazon-managed-grafana/"
+    },
+    {
         "title": "Support for Amazon CloudWatch Evidently ending soon",
         "link": "https://aws.amazon.com/blogs/mt/support-for-amazon-cloudwatch-evidently-ending-soon/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Visualize AWS Systems Manager Patch Manager information using Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/mt/visualize-aws-systems-manager-patch-manager-information-using-amazon-quicksight/"
-    },
-    {
-        "title": "Leveraging AWS CloudTrail Insights for Proactive API Monitoring and Cost Optimization",
-        "link": "https://aws.amazon.com/blogs/mt/leveraging-aws-cloudtrail-insights-for-proactive-api-monitoring-and-cost-optimization/"
     }
 ]

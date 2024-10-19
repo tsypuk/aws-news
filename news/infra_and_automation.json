@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build an automated deployment of generative AI with agent lifecycle changes using Terraform",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/build-an-automated-deployment-of-generative-ai-with-agent-lifecycle-changes-using-terraform/"
+    },
+    {
         "title": "Build workflows-as-code automations for AWS services using Flowpipe",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/build-workflows-as-code-automations-for-aws-services-using-flowpipe/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Save time with automated security checks of your Terraform scripts",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-with-automated-security-checks-of-terraform-scripts/"
-    },
-    {
-        "title": "Read parameters across AWS Regions with AWS CloudFormation custom resources",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/read-parameters-across-aws-regions-with-aws-cloudformation-custom-resources/"
     }
 ]

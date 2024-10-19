@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protecting your critical Amazon EBS volumes using AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/protecting-your-critical-amazon-ebs-volumes-using-aws-backup/"
+    },
+    {
         "title": "Enhance PostgreSQL resiliency and recoverability using Amazon FSx for OpenZFS",
         "link": "https://aws.amazon.com/blogs/storage/enhance-postgresql-resiliency-and-recover-ability-using-amazon-fsx-for-openzfs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify Active Directory authentication with a custom identity provider for AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/simplify-active-directory-authentication-with-a-custom-identity-provider-for-aws-transfer-family/"
-    },
-    {
-        "title": "Building cyber resiliency with AWS Backup logically air-gapped vault",
-        "link": "https://aws.amazon.com/blogs/storage/building-cyber-resiliency-with-aws-backup-logically-air-gapped-vault/"
     }
 ]

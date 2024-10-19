@@ -1,5 +1,13 @@
 [
     {
+        "title": "A customer\u2019s journey with Amazon OpenSearch Ingestion pipelines",
+        "link": "https://aws.amazon.com/blogs/big-data/a-customers-journey-with-amazon-opensearch-ingestion-pipelines/"
+    },
+    {
+        "title": "Single sign-on SSO for Amazon OpenSearch Service using SAML and Keycloak",
+        "link": "https://aws.amazon.com/blogs/big-data/single-sign-on-sso-for-amazon-opensearch-service-using-saml-and-keycloak/"
+    },
+    {
         "title": "Get started with Amazon DynamoDB zero-ETL integration with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/get-started-with-amazon-dynamodb-zero-etl-integration-with-amazon-redshift/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Achieve cross-Region resilience with Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-cross-region-resilience-with-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "How to track Amazon OpenSearch Service domain-level cost",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-track-amazon-opensearch-service-domain-level-cost/"
-    },
-    {
-        "title": "Amazon OpenSearch Service: Managed and community driven",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-managed-and-community-driven/"
     }
 ]
