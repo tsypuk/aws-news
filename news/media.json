@@ -20,10 +20,6 @@
         "link": "https://aws.amazon.com/blogs/mt/analyzing-your-custom-metrics-spend-contributors-in-amazon-cloudwatch/"
     },
     {
-        "title": "Sign-in to AWS Console Mobile Application with an AWS Access Portal or third-party IdP URL",
-        "link": "https://aws.amazon.com/blogs/mt/sign-in-to-aws-console-mobile-application-with-an-aws-access-portal-or-third-party-idp-url/"
-    },
-    {
         "title": "Enhanced dashboard, latency suggestions in Amazon CloudWatch Internet Monitor",
         "link": "https://aws.amazon.com/blogs/mt/enhanced-dashboard-latency-suggestions-in-amazon-cloudwatch-internet-monitor/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Visualize AWS Systems Manager Patch Manager information using Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/mt/visualize-aws-systems-manager-patch-manager-information-using-amazon-quicksight/"
+    },
+    {
+        "title": "Leveraging AWS CloudTrail Insights for Proactive API Monitoring and Cost Optimization",
+        "link": "https://aws.amazon.com/blogs/mt/leveraging-aws-cloudtrail-insights-for-proactive-api-monitoring-and-cost-optimization/"
     }
 ]

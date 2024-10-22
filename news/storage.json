@@ -1,5 +1,17 @@
 [
     {
+        "title": "Modernizing on-premises applications using Amazon Elastic Kubernetes Service and Amazon Elastic File System",
+        "link": "https://aws.amazon.com/blogs/storage/modernizing-on-premises-applications-using-amazon-elastic-kubernetes-service-and-amazon-elastic-file-system/"
+    },
+    {
+        "title": "Analyze access patterns and use the most cost-effective Amazon S3 storage class",
+        "link": "https://aws.amazon.com/blogs/storage/analyze-access-patterns-and-use-the-most-cost-effective-amazon-s3-storage-class/"
+    },
+    {
+        "title": "Access a point-in-time with Amazon S3 Object Lambda",
+        "link": "https://aws.amazon.com/blogs/storage/access-a-point-in-time-with-amazon-s3-object-lambda/"
+    },
+    {
         "title": "Protecting your critical Amazon EBS volumes using AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/protecting-your-critical-amazon-ebs-volumes-using-aws-backup/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Designing sustainable disaster recovery strategies",
         "link": "https://aws.amazon.com/blogs/storage/designing-sustainable-disaster-recovery-strategies/"
-    },
-    {
-        "title": "Automatically scan for public Amazon S3 buckets and block public access",
-        "link": "https://aws.amazon.com/blogs/storage/automatically-scan-for-public-amazon-s3-buckets-and-block-public-access/"
-    },
-    {
-        "title": "Secure data in a multi-tenant environment by automatically enforcing prefix-level encryption keys in Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/secure-data-in-a-multi-tenant-environment-by-automatically-enforcing-prefix-level-encryption-keys-in-amazon-s3/"
-    },
-    {
-        "title": "Simplify Active Directory authentication with a custom identity provider for AWS Transfer Family",
-        "link": "https://aws.amazon.com/blogs/storage/simplify-active-directory-authentication-with-a-custom-identity-provider-for-aws-transfer-family/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automatic reconnection to Amazon RDS for Oracle read replicas during disaster recovery",
+        "link": "https://aws.amazon.com/blogs/database/automatic-reconnection-to-amazon-rds-for-oracle-read-replicas-during-disaster-recovery/"
+    },
+    {
         "title": "Troubleshoot INCOMPATIBLE_CREATE issues due to missing instance profile permissions during Amazon RDS Custom instance creation",
         "link": "https://aws.amazon.com/blogs/database/troubleshoot-incompatible_create-issues-due-to-missing-instance-profile-permissions-during-amazon-rds-custom-instance-creation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Troubleshoot Amazon RDS for MySQL and Amazon RDS for MariaDB Errors",
         "link": "https://aws.amazon.com/blogs/database/troubleshoot-amazon-rds-for-mysql-and-amazon-rds-for-mariadb-errors/"
-    },
-    {
-        "title": "How a large financial AWS customer implemented high availability and fast disaster recovery for Amazon Aurora PostgreSQL using Global Database and Amazon RDS Proxy",
-        "link": "https://aws.amazon.com/blogs/database/how-a-large-financial-aws-customer-implemented-ha-and-dr-for-amazon-aurora-postgresql-using-global-database-and-amazon-rds-proxy/"
     }
 ]

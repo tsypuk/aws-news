@@ -1,5 +1,13 @@
 [
     {
+        "title": "170 AWS services achieve HITRUST certification",
+        "link": "https://aws.amazon.com/blogs/security/170-aws-services-achieve-hitrust-certification/"
+    },
+    {
+        "title": "How to build a Security Guardians program to distribute security ownership",
+        "link": "https://aws.amazon.com/blogs/security/how-to-build-your-own-security-guardians-program/"
+    },
+    {
         "title": "Options for AWS customers who use Entrust-issued certificates",
         "link": "https://aws.amazon.com/blogs/security/options-for-aws-customers-who-use-entrust-issued-certificates/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS renews its GNS Portugal certification for classified information with 66 services",
         "link": "https://aws.amazon.com/blogs/security/aws-renews-its-gns-portugal-certification-for-classified-information-with-66-services/"
-    },
-    {
-        "title": "Refine unused access using IAM Access Analyzer recommendations",
-        "link": "https://aws.amazon.com/blogs/security/refine-unused-access-using-iam-access-analyzer-recommendations/"
-    },
-    {
-        "title": "Using Amazon Detective for IAM investigations",
-        "link": "https://aws.amazon.com/blogs/security/using-amazon-detective-for-iam-investigations/"
     }
 ]
