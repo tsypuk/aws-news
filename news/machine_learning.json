@@ -1,5 +1,17 @@
 [
     {
+        "title": "Generative AI foundation model training on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-foundation-model-training-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Automate fine-tuning of Llama 3.x models with the new visual designer for Amazon SageMaker Pipelines",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-fine-tuning-of-llama-3-x-models-with-the-new-visual-designer-for-amazon-sagemaker-pipelines/"
+    },
+    {
+        "title": "Implement Amazon SageMaker domain cross-Region disaster recovery using custom Amazon EFS instances",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-amazon-sagemaker-domain-cross-region-disaster-recovery-using-custom-amazon-efs-instances/"
+    },
+    {
         "title": "Amazon Bedrock Custom Model Import now generally available",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-custom-model-import-now-generally-available/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Create a data labeling project with Amazon SageMaker Ground Truth Plus",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-data-labeling-project-with-amazon-sagemaker-ground-truth-plus/"
-    },
-    {
-        "title": "Create a multimodal chatbot tailored to your unique dataset with Amazon Bedrock FMs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-multimodal-chatbot-tailored-to-your-unique-dataset-with-amazon-bedrock-fms/"
-    },
-    {
-        "title": "Design secure generative AI application workflows with Amazon Verified Permissions and Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/design-secure-generative-ai-application-workflows-with-amazon-verified-permissions-and-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Boost productivity by using AI in cloud operational health management",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-by-using-ai-in-cloud-operational-health-management/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing an enhanced in-console editing experience for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-an-enhanced-in-console-editing-experience-for-aws-lambda/"
+    },
+    {
         "title": "Simplifying Lambda function development using CloudWatch Logs Live Tail and Metrics Insights",
         "link": "https://aws.amazon.com/blogs/compute/simplifying-lambda-function-development-using-cloudwatch-logs-live-tail-and-metrics-insights/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using the circuit-breaker pattern with AWS Lambda extensions and Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/compute/using-the-circuit-breaker-pattern-with-aws-lambda-extensions-and-amazon-dynamodb/"
-    },
-    {
-        "title": "Running code after returning a response from an AWS Lambda function",
-        "link": "https://aws.amazon.com/blogs/compute/running-code-after-returning-a-response-from-an-aws-lambda-function/"
     }
 ]

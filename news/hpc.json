@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automotive component design at Nifco using generative AI and diffusion models",
+        "link": "https://aws.amazon.com/blogs/hpc/automotive-component-design-at-nifco-using-generative-ai-and-diffusion-models/"
+    },
+    {
         "title": "Deploying Generative AI Applications with NVIDIA NIM Microservices on Amazon Elastic Kubernetes Service (Amazon EKS) \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/hpc/deploying-generative-ai-applications-with-nvidia-nim-microservices-on-amazon-elastic-kubernetes-service-amazon-eks-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Large scale, cost effective GROMACS simulations using the Cyclone Solution from AWS",
         "link": "https://aws.amazon.com/blogs/hpc/large-scale-cost-effective-gromacs-simulations-using-the-cyclone-solution-from-aws/"
-    },
-    {
-        "title": "Using the MAQAO framework to analyze application performance across instances",
-        "link": "https://aws.amazon.com/blogs/hpc/using-the-maqao-framework-to-analyze-application-performance-across-instances/"
     }
 ]

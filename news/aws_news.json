@@ -1,5 +1,9 @@
 [
     {
+        "title": "Upgraded Claude 3.5 Sonnet from Anthropic (available now), computer use (public beta), and Claude 3.5 Haiku (coming soon) in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/upgraded-claude-3-5-sonnet-from-anthropic-available-now-computer-use-public-beta-and-claude-3-5-haiku-coming-soon-in-amazon-bedrock/"
+    },
+    {
         "title": "AWS Weekly Roundup: Agentic workflows, Amazon Transcribe, AWS Lambda insights, and more (October 21, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-workflows-amazon-transcribe-aws-lambda-insights-and-more-october-21-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Amazon DynamoDB, AWS AppSync, Storage Browser for Amazon S3, and more (September 9, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-dynamodb-aws-appsync-storage-browser-for-amazon-s3-and-more-september-9-2024/"
-    },
-    {
-        "title": "Stability AI\u2019s best image generating models now in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/stability-ais-best-image-generating-models-now-in-amazon-bedrock/"
     }
 ]

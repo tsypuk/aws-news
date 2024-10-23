@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the new Amazon Q Developer experience in AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-the-new-amazon-q-developer-experience-in-aws-lambda/"
+    },
+    {
         "title": "Enhance release control with AWS CodePipeline stage-level conditions",
         "link": "https://aws.amazon.com/blogs/devops/enhance-release-control-with-aws-codepipeline-stage-level-conditions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS CloudFormation Git sync to configure resources in customer accounts",
         "link": "https://aws.amazon.com/blogs/devops/use-aws-cloudformation-git-sync-to-configure-resources-in-customer-accounts/"
-    },
-    {
-        "title": "Code Clarity: Enhancing Code Understanding and Efficiency with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/code-clarity-enhancing-code-understanding-and-efficiency-with-amazon-q-developer/"
     }
 ]
