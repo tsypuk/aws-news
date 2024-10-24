@@ -1,5 +1,9 @@
 [
     {
+        "title": "EC2 Image Builder now supports building and testing macOS images",
+        "link": "https://aws.amazon.com/blogs/aws/ec2-image-builder-now-supports-building-and-testing-macos-images/"
+    },
+    {
         "title": "Upgraded Claude 3.5 Sonnet from Anthropic (available now), computer use (public beta), and Claude 3.5 Haiku (coming soon) in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/upgraded-claude-3-5-sonnet-from-anthropic-available-now-computer-use-public-beta-and-claude-3-5-haiku-coming-soon-in-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon SageMaker HyperPod introduces Amazon EKS support",
         "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-hyperpod-introduces-amazon-eks-support/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon DynamoDB, AWS AppSync, Storage Browser for Amazon S3, and more (September 9, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-dynamodb-aws-appsync-storage-browser-for-amazon-s3-and-more-september-9-2024/"
     }
 ]

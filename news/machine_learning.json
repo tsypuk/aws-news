@@ -1,5 +1,25 @@
 [
     {
+        "title": "Unlocking generative AI for enterprises: How SnapLogic powers their low-code Agent Creator using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-generative-ai-for-enterprises-how-snaplogic-powers-their-low-code-agent-creator-using-amazon-bedrock/"
+    },
+    {
+        "title": "Next-generation learning experience using Amazon Bedrock and Anthropic\u2019s Claude: Innovation from Classworks",
+        "link": "https://aws.amazon.com/blogs/machine-learning/next-generation-learning-experience-using-amazon-bedrock-and-anthropics-claude-innovation-from-classworks/"
+    },
+    {
+        "title": "Fine-tune a BGE embedding model using synthetic data from Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-bge-embedding-model-using-synthetic-data-from-amazon-bedrock/"
+    },
+    {
+        "title": "Boost post-call analytics with Amazon Q in QuickSight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-post-call-analytics-with-amazon-q-in-quicksight/"
+    },
+    {
+        "title": "Create a next generation chat assistant with Amazon Bedrock, Amazon Connect, Amazon Lex, LangChain, and WhatsApp",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-next-generation-chat-assistant-with-amazon-bedrock-amazon-connect-amazon-lex-langchain-and-whatsapp/"
+    },
+    {
         "title": "Generative AI foundation model training on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-foundation-model-training-on-amazon-sagemaker/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Unlocking insights and enhancing customer service: Intact\u2019s transformative AI journey with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-insights-and-enhancing-customer-service-intacts-transformative-ai-journey-with-aws/"
-    },
-    {
-        "title": "Accelerate migration portfolio assessment using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-migration-portfolio-assessment-using-amazon-bedrock/"
-    },
-    {
-        "title": "Improve public speaking skills using a generative AI-based virtual assistant with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-public-speaking-skills-using-a-generative-ai-based-virtual-assistant-with-amazon-bedrock/"
-    },
-    {
-        "title": "Bria 2.3, Bria 2.2 HD, and Bria 2.3 Fast are now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bria-2-3-bria-2-2-hd-and-bria-2-3-fast-are-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Introducing SageMaker Core: A new object-oriented Python SDK for Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-sagemaker-core-a-new-object-oriented-python-sdk-for-amazon-sagemaker/"
-    },
-    {
-        "title": "Create a data labeling project with Amazon SageMaker Ground Truth Plus",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-data-labeling-project-with-amazon-sagemaker-ground-truth-plus/"
     }
 ]

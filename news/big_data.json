@@ -1,5 +1,21 @@
 [
     {
+        "title": "Simplify your query performance diagnostics in Amazon Redshift with Query profiler",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-your-query-performance-diagnostics-in-amazon-redshift-with-query-profiler/"
+    },
+    {
+        "title": "Introducing simplified interaction with the Airflow REST API in Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-simplified-interaction-with-the-airflow-rest-api-in-amazon-mwaa/"
+    },
+    {
+        "title": "How Getir unleashed data democratization using a data mesh architecture with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/how-getir-unleashed-data-democratization-using-a-data-mesh-architecture-with-amazon-redshift/"
+    },
+    {
+        "title": "Apache HBase online migration to Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/apache-hbase-online-migration-to-amazon-emr/"
+    },
+    {
         "title": "Infor\u2019s Amazon OpenSearch Service Modernization: 94% faster searches and 50% lower costs",
         "link": "https://aws.amazon.com/blogs/big-data/infors-amazon-opensearch-service-modernization-94-faster-searches-and-50-lower-costs/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build a dynamic rules engine with Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-dynamic-rules-engine-with-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Deprecation of Lake Formation\u2019s Governed Tables Feature",
-        "link": "https://aws.amazon.com/blogs/big-data/deprecation-of-lake-formations-governed-tables-feature/"
-    },
-    {
-        "title": "Accelerate Amazon Redshift Data Lake queries with AWS Glue Data Catalog Column Statistics",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-amazon-redshift-data-lake-queries-with-column-level-statistics/"
-    },
-    {
-        "title": "Amazon EMR Serverless observability, Part 1: Monitor Amazon EMR Serverless workers in near real time using Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-serverless-observability-part-1-monitor-amazon-emr-serverless-workers-in-near-real-time-using-amazon-cloudwatch/"
-    },
-    {
-        "title": "Apply enterprise data governance and management using AWS Lake Formation and AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/big-data/apply-enterprise-data-governance-and-management-using-aws-lake-formation-and-aws-iam-identity-center/"
     }
 ]

@@ -1,6 +1,10 @@
 [
     {
-        "title": "Announcing end-of-life for AWS IoT Device Management Fleet Hub, effective October 18th, 2025",
+        "title": "How to digitize and automate vehicle assembly inspection process with voice-enabled AWS services",
+        "link": "https://aws.amazon.com/blogs/iot/how-to-digitize-and-automate-vehicle-assembly-inspection-process-with-voice-enabled-aws-services/"
+    },
+    {
+        "title": "Announcing end-of-life for Fleet Hub feature of AWS IoT Device Management, effective October 18th, 2025",
         "link": "https://aws.amazon.com/blogs/iot/announcing-end-of-life-for-aws-iot-device-management-fleet-hub-effective-october-18th-2025/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Querying industrial assets using natural language with AWS IoT SiteWise and Agents for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/iot/querying-industrial-assets-using-natural-language-with-aws-iot-sitewise-and-agents-for-amazon-bedrock/"
-    },
-    {
-        "title": "How MTData built a CVML vehicle telematics and driver monitoring solution with AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/how-mtdata-built-a-cvml-vehicle-telematics-and-driver-monitoring-solution-with-aws-iot/"
     }
 ]

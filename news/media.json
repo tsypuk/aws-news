@@ -1,5 +1,9 @@
 [
     {
+        "title": "Strengthen application resilience with myApplications and AWS Resilience Hub",
+        "link": "https://aws.amazon.com/blogs/mt/strengthen-application-resilience-with-myapplications-and-aws-resilience-hub/"
+    },
+    {
         "title": "Sign-in to AWS Console Mobile Application with an AWS Access Portal or third-party IdP URL",
         "link": "https://aws.amazon.com/blogs/mt/sign-in-to-aws-console-mobile-application-with-an-aws-access-portal-or-third-party-idp-url/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Amazon CloudWatch Logs Data Protection can help detect and protect sensitive log data",
         "link": "https://aws.amazon.com/blogs/mt/how-amazon-cloudwatch-logs-data-protection-can-help-detect-and-protect-sensitive-log-data/"
-    },
-    {
-        "title": "Visualize AWS Systems Manager Patch Manager information using Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/mt/visualize-aws-systems-manager-patch-manager-information-using-amazon-quicksight/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Options pricing using a quantum Monte Carlo algorithm on Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/options-pricing-using-a-quantum-monte-carlo-algorithm-on-amazon-braket/"
+    },
+    {
         "title": "Assessing performance of a variational algorithm in presence of noise and quantum error mitigation",
         "link": "https://aws.amazon.com/blogs/quantum-computing/assessing-performance-of-a-variational-algorithm-in-presence-of-noise-and-quantum-error-mitigation/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Delivering quantum information \u2013 a field-deployed quantum network",
         "link": "https://aws.amazon.com/blogs/quantum-computing/delivering-quantum-information-a-field-deployed-quantum-network/"
-    },
-    {
-        "title": "JPMorgan Chase and AWS study the prospects for quantum speedups with near-term Rydberg atom arrays",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/jpmorgan-chase-and-aws-study-the-prospects-for-quantum-speedups-with-near-term-rydberg-atom-arrays/"
     }
 ]
