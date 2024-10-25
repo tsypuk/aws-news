@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Stripe architected massive scale observability solution on AWS",
+        "link": "https://aws.amazon.com/blogs/mt/how-stripe-architected-massive-scale-observability-solution-on-aws/"
+    },
+    {
         "title": "Strengthen application resilience with myApplications and AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/strengthen-application-resilience-with-myapplications-and-aws-resilience-hub/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gain visibility of AWS backup activities using Amazon Managed Grafana",
         "link": "https://aws.amazon.com/blogs/mt/gain-visibility-of-aws-backup-activities-using-amazon-managed-grafana/"
-    },
-    {
-        "title": "How Amazon CloudWatch Logs Data Protection can help detect and protect sensitive log data",
-        "link": "https://aws.amazon.com/blogs/mt/how-amazon-cloudwatch-logs-data-protection-can-help-detect-and-protect-sensitive-log-data/"
     }
 ]

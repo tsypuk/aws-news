@@ -1,5 +1,25 @@
 [
     {
+        "title": "Super charge your LLMs with RAG at scale using AWS Glue for Apache Spark",
+        "link": "https://aws.amazon.com/blogs/machine-learning/super-charge-your-llms-with-rag-at-scale-using-aws-glue-for-apache-spark/"
+    },
+    {
+        "title": "From RAG to fabric: Lessons learned from building real-world RAGs at GenAIIC \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-rag-to-fabric-lessons-learned-from-building-real-world-rags-at-genaiic-part-1/"
+    },
+    {
+        "title": "Enhance your Amazon Redshift cloud data warehouse with easier, simpler, and faster machine learning using Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-your-amazon-redshift-cloud-data-warehouse-with-easier-simpler-and-faster-machine-learning-using-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Create a generative AI-based application builder assistant using Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-based-application-builder-assistant-using-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Transitioning from Amazon Rekognition people pathing: Exploring other alternatives",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transitioning-from-amazon-rekognition-people-pathing-exploring-other-alternatives/"
+    },
+    {
         "title": "Unlocking generative AI for enterprises: How SnapLogic powers their low-code Agent Creator using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-generative-ai-for-enterprises-how-snaplogic-powers-their-low-code-agent-creator-using-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Use Amazon SageMaker Studio with a custom file system in Amazon EFS",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-studio-with-a-custom-file-system-in-amazon-efs/"
-    },
-    {
-        "title": "Summarize call transcriptions securely with Amazon Transcribe and Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/summarize-call-transcriptions-securely-with-amazon-transcribe-and-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "How DPG Media uses Amazon Bedrock and Amazon Transcribe to enhance video metadata with AI-powered pipelines",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-dpg-media-uses-amazon-bedrock-and-amazon-transcribe-to-enhance-video-metadata-with-ai-powered-pipelines/"
-    },
-    {
-        "title": "How SailPoint uses Anthropic\u2019s Claude on Amazon Bedrock to automatically generate TypeScript code for SaaS connectors",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-sailpoint-uses-anthropics-claude-on-amazon-bedrock-to-automatically-generate-typescript-code-for-saas-connectors/"
-    },
-    {
-        "title": "Map Earth\u2019s vegetation in under 20 minutes with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/map-earths-vegetation-in-under-20-minutes-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Unlocking insights and enhancing customer service: Intact\u2019s transformative AI journey with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-insights-and-enhancing-customer-service-intacts-transformative-ai-journey-with-aws/"
     }
 ]

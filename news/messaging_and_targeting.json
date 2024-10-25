@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Amazon SES Mail Manager customers can prevent EchoSpoofing",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-ses-mail-manager-customers-can-prevent-echospoofing/"
+    },
+    {
         "title": "Automate AWS End User Messaging US toll-free Number Registrations",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-us-tfn-registrations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to Send MMS Using Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-mms-using-amazon-pinpoint/"
-    },
-    {
-        "title": "Serverless IoT email capture, attachment processing, and distribution",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/serverless-iot-email-capture-attachment-processing-and-distribution/"
     }
 ]

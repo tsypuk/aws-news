@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to implement access control and auditing on Amazon Redshift using Immuta",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-implement-access-control-and-auditing-on-amazon-redshift-using-immuta/"
+    },
+    {
+        "title": "Manage Amazon OpenSearch Service Visualizations, Alerts, and More with GitHub and Jenkins",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-the-deployment-of-amazon-opensearch-service-metadata-with-github-and-jenkins/"
+    },
+    {
         "title": "Simplify your query performance diagnostics in Amazon Redshift with Query profiler",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-your-query-performance-diagnostics-in-amazon-redshift-with-query-profiler/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Access private code repositories for installing Python dependencies on Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/access-private-code-repositories-for-installing-python-dependencies-on-amazon-mwaa/"
-    },
-    {
-        "title": "Extract insights in a 30TB time series workload with Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/extract-insights-in-a-30tb-time-series-workload-with-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Build a dynamic rules engine with Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-dynamic-rules-engine-with-amazon-managed-service-for-apache-flink/"
     }
 ]

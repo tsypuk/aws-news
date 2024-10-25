@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate or upgrade your like-to-like databases using AWS DMS homogeneous migration",
+        "link": "https://aws.amazon.com/blogs/database/migrate-or-upgrade-your-like-to-like-databases-using-aws-dms-homogeneous-migration/"
+    },
+    {
+        "title": "Visualize vector embeddings stored in Amazon Aurora PostgreSQL and explore semantic similarities",
+        "link": "https://aws.amazon.com/blogs/database/visualize-vector-embeddings-stored-in-amazon-aurora-postgresql-and-explore-semantic-similarities/"
+    },
+    {
         "title": "Evaluating the right fit for your Amazon Aurora workloads: provisioned or Serverless v2",
         "link": "https://aws.amazon.com/blogs/database/evaluating-the-right-fit-for-your-amazon-aurora-workloads-provisioned-or-serverless-v2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Analyze Amazon RDS for Oracle database object dependencies",
         "link": "https://aws.amazon.com/blogs/database/analyze-amazon-rds-for-oracle-database-object-dependencies/"
-    },
-    {
-        "title": "An introduction to real estate tokenization on AWS",
-        "link": "https://aws.amazon.com/blogs/database/an-introduction-to-real-estate-tokenization-on-aws/"
-    },
-    {
-        "title": "Vector search for Amazon DynamoDB with zero ETL for Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/database/vector-search-for-amazon-dynamodb-with-zero-etl-for-amazon-opensearch-service/"
     }
 ]
