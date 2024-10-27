@@ -1,5 +1,17 @@
 [
     {
+        "title": "Leveraging API Gateway Lambda Authorizer for Securing your APIs with Okta FGA",
+        "link": "https://aws.amazon.com/blogs/apn/leveraging-api-gateway-lambda-authorizer-for-securing-your-apis-with-okta-fga/"
+    },
+    {
+        "title": "Fuel Generative AI Success: Building Robust Data Foundation with AWS Partners",
+        "link": "https://aws.amazon.com/blogs/apn/fuel-generative-ai-success-building-robust-data-foundation-with-aws-partners/"
+    },
+    {
+        "title": "Syntax CxLink for ILM: Simplify SAP Data Lifecycle Management on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/syntax-cxlink-for-ilm-simplify-sap-data-lifecycle-management-on-aws/"
+    },
+    {
         "title": "Accelerate Application modernization using Eviden AppMod Toolkit powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/accelerate-application-modernization-using-eviden-appmod-toolkit-powered-by-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Drive Innovation with AWS native services and Nutanix Clouds Clusters running on AWS",
         "link": "https://aws.amazon.com/blogs/apn/drive-innovation-with-aws-native-services-and-nutanix-cloud-cluster-running-on-aws/"
-    },
-    {
-        "title": "AI Governance with Domino Data Lab on AWS: From Policies to Practices",
-        "link": "https://aws.amazon.com/blogs/apn/ai-governance-with-domino-data-lab-on-aws-from-policies-to-practices/"
-    },
-    {
-        "title": "Agile Programmatic Content Management with Contentful and AWS",
-        "link": "https://aws.amazon.com/blogs/apn/agile-programmatic-content-management-with-contentful-and-aws/"
-    },
-    {
-        "title": "Badou Unlocks Business Productivity by Building Enterprise Intelligent Chatbot Capabilities",
-        "link": "https://aws.amazon.com/blogs/apn/badou-unlocks-business-productivity-by-building-enterprise-intelligent-chatbot-capabilities/"
     }
 ]

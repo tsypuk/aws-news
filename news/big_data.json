@@ -1,5 +1,13 @@
 [
     {
+        "title": "Analyze Amazon EMR on Amazon EC2 cluster usage with Amazon Athena and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/big-data/analyze-amazon-emr-on-amazon-ec2-cluster-usage-with-amazon-athena-and-amazon-quicksight/"
+    },
+    {
+        "title": "Achieve the best price-performance in Amazon Redshift with elastic histograms for selectivity estimation",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-the-best-price-performance-in-amazon-redshift-with-elastic-histograms-for-selectivity-estimation/"
+    },
+    {
         "title": "How to implement access control and auditing on Amazon Redshift using Immuta",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-implement-access-control-and-auditing-on-amazon-redshift-using-immuta/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon EMR on EC2 cost optimization: How a global financial services provider reduced costs by 30%",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-on-ec2-cost-optimization-how-a-global-financial-services-provider-reduced-costs-by-30/"
-    },
-    {
-        "title": "Perform data parity at scale for data modernization programs using AWS Glue Data Quality",
-        "link": "https://aws.amazon.com/blogs/big-data/perform-data-parity-at-scale-for-data-modernization-programs-using-aws-glue-data-quality/"
-    },
-    {
-        "title": "Access private code repositories for installing Python dependencies on Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/access-private-code-repositories-for-installing-python-dependencies-on-amazon-mwaa/"
     }
 ]
