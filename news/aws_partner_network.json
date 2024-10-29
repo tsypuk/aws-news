@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling AWS multi-region and account logs delivery to Grafana Cloud",
+        "link": "https://aws.amazon.com/blogs/apn/scaling-aws-multi-region-and-account-logs-delivery-to-grafana-cloud/"
+    },
+    {
         "title": "Leveraging API Gateway Lambda Authorizer for Securing your APIs with Okta FGA",
         "link": "https://aws.amazon.com/blogs/apn/leveraging-api-gateway-lambda-authorizer-for-securing-your-apis-with-okta-fga/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "East-West traffic routing between AWS Local Zones using Megaport\u2019s Network-as-a-Service (NaaS)",
         "link": "https://aws.amazon.com/blogs/apn/east-west-traffic-routing-between-aws-local-zones-using-megaports-network-as-a-service-naas/"
-    },
-    {
-        "title": "Drive Innovation with AWS native services and Nutanix Clouds Clusters running on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/drive-innovation-with-aws-native-services-and-nutanix-cloud-cluster-running-on-aws/"
     }
 ]

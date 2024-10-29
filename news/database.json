@@ -1,5 +1,13 @@
 [
     {
+        "title": "Schedule modifications of Amazon RDS using Amazon EventBridge Scheduler and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/database/schedule-modifications-of-amazon-rds-using-amazon-eventbridge-scheduler-and-aws-lambda/"
+    },
+    {
+        "title": "How Claroty Improved Database Performance and Scaled the Claroty xDome Platform using Amazon Aurora Optimized Reads",
+        "link": "https://aws.amazon.com/blogs/database/how-claroty-improved-database-performance-and-scaled-the-claroty-xdome-platform-using-amazon-aurora-optimized-reads/"
+    },
+    {
         "title": "Unlock cost savings using compression with Amazon DocumentDB",
         "link": "https://aws.amazon.com/blogs/database/unlock-cost-savings-using-compression-with-amazon-documentdb/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Get started with Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/get-started-with-amazon-elasticache-for-valkey/"
-    },
-    {
-        "title": "Amazon ElastiCache and Amazon MemoryDB announce support for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/amazon-elasticache-and-amazon-memorydb-announce-support-for-valkey/"
-    },
-    {
-        "title": "Introducing scaling up to 256 ACUs with Amazon Aurora Serverless v2",
-        "link": "https://aws.amazon.com/blogs/database/introducing-scaling-up-to-256-acus-with-amazon-aurora-serverless-v2/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Import data from Google Cloud Platform BigQuery for no-code machine learning with Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/import-data-from-google-cloud-platform-bigquery-for-no-code-machine-learning-with-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Customized model monitoring for near real-time batch inference with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customized-model-monitoring-for-near-real-time-batch-inference-with-amazon-sagemaker/"
+    },
+    {
         "title": "How Planview built a scalable AI Assistant for portfolio and project management using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-planview-built-a-scalable-ai-assistant-for-portfolio-and-project-management-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Best practices for building robust generative AI applications with Amazon Bedrock Agents \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-robust-generative-ai-applications-with-amazon-bedrock-agents-part-2/"
-    },
-    {
-        "title": "Train, optimize, and deploy models on edge devices using Amazon SageMaker and Qualcomm AI Hub",
-        "link": "https://aws.amazon.com/blogs/machine-learning/train-optimize-and-deploy-models-on-edge-devices-using-amazon-sagemaker-and-qualcomm-ai-hub/"
-    },
-    {
-        "title": "Using Amazon Q Business with AWS HealthScribe to gain insights from patient consultations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-q-business-with-aws-healthscribe-to-gain-insights-from-patient-consultations/"
     }
 ]

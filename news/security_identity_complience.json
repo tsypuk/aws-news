@@ -1,5 +1,17 @@
 [
     {
+        "title": "Adding threat detection to custom authentication flow with Amazon Cognito advanced security features",
+        "link": "https://aws.amazon.com/blogs/security/adding-threat-detection-to-custom-authentication-flow-with-amazon-cognito-advanced-security-features/"
+    },
+    {
+        "title": "Spring 2024 PCI DSS and 3DS compliance packages available now",
+        "link": "https://aws.amazon.com/blogs/security/spring-2024-pci-dss-and-3ds-compliance-packages-available-now/"
+    },
+    {
+        "title": "How to implement trusted identity propagation for applications protected by Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/security/how-to-implement-trusted-identity-propagation-for-applications-protected-by-amazon-cognito/"
+    },
+    {
         "title": "How to mitigate bot traffic by implementing Challenge actions in your AWS WAF custom rules",
         "link": "https://aws.amazon.com/blogs/security/how-to-mitigate-bot-traffic-by-implementing-challenge-actions-in-your-aws-waf-custom-rules/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Keep your firewall rules up-to-date with Network Firewall features",
         "link": "https://aws.amazon.com/blogs/security/keep-your-firewall-rules-up-to-date-with-network-firewall-features/"
-    },
-    {
-        "title": "How to implement relationship-based access control with Amazon Verified Permissions and Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/security/how-to-implement-relationship-based-access-control-with-amazon-verified-permissions-and-amazon-neptune/"
-    },
-    {
-        "title": "How to migrate 3DES keys from a FIPS to a non-FIPS AWS CloudHSM cluster",
-        "link": "https://aws.amazon.com/blogs/security/how-to-migrate-3des-keys-from-a-fips-to-a-non-fips-aws-cloudhsm-cluster/"
-    },
-    {
-        "title": "Managing identity source transition for AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
     }
 ]
