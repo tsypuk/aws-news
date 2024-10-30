@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate security scans on Amazon EKS with Kubescape, AWS CodeBuild, and AWS CodePipeline",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-security-scans-on-amazon-eks-with-kubescape-aws-codebuild-and-aws-codepipeline/"
+    },
+    {
         "title": "Build an automated deployment of generative AI with agent lifecycle changes using Terraform",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/build-an-automated-deployment-of-generative-ai-with-agent-lifecycle-changes-using-terraform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Manage multiaccount and multi-Region infrastructure in Terraform using AWS Cloud9",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/manage-multiaccount-multi-region-infrastructure-terraform-aws-cloud9/"
-    },
-    {
-        "title": "Save time with automated security checks of your Terraform scripts",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-with-automated-security-checks-of-terraform-scripts/"
     }
 ]

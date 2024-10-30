@@ -1,5 +1,21 @@
 [
     {
+        "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 3",
+        "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-3/"
+    },
+    {
+        "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-2/"
+    },
+    {
+        "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-1/"
+    },
+    {
+        "title": "Use HammerDB to run performance tests on Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/use-hammerdb-to-run-performance-tests-on-amazon-rds-for-db2/"
+    },
+    {
         "title": "Schedule modifications of Amazon RDS using Amazon EventBridge Scheduler and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/database/schedule-modifications-of-amazon-rds-using-amazon-eventbridge-scheduler-and-aws-lambda/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift is generally available",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-zero-etl-integration-with-amazon-redshift-is-generally-available/"
-    },
-    {
-        "title": "Import personalized recommendations from Amazon Personalize into Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/import-personalized-recommendations-from-amazon-personalize-into-amazon-dynamodb/"
-    },
-    {
-        "title": "How Zendesk achieved cost and performance gains by moving to Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/how-zendesk-achieved-cost-and-performance-gains-by-moving-to-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Get started with Amazon MemoryDB for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/get-started-with-amazon-memorydb-for-valkey/"
-    },
-    {
-        "title": "Get started with Amazon ElastiCache for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/get-started-with-amazon-elasticache-for-valkey/"
     }
 ]

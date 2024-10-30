@@ -1,5 +1,21 @@
 [
     {
+        "title": "Using Semantic Versioning to Simplify Release Management",
+        "link": "https://aws.amazon.com/blogs/devops/using-semantic-versioning-to-simplify-release-management/"
+    },
+    {
+        "title": "Leverage Amazon Q Developer and AWS Chatbot within Slack",
+        "link": "https://aws.amazon.com/blogs/devops/leverage-amazon-q-developer-and-aws-chatbot-within-slack/"
+    },
+    {
+        "title": "Diving Deeper into Projen: Exploring Advanced Features",
+        "link": "https://aws.amazon.com/blogs/devops/diving-deeper-into-projen-exploring-advanced-features/"
+    },
+    {
+        "title": "Introducing the next-level of AI-powered workflows with Amazon Q Developer inline chat",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-inline-chat/"
+    },
+    {
         "title": "Introducing the new Amazon Q Developer experience in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/devops/introducing-the-new-amazon-q-developer-experience-in-aws-lambda/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Publish packages to AWS CodeArtifact using Amazon CodeCatalyst Actions",
         "link": "https://aws.amazon.com/blogs/devops/publish-packages-to-aws-codeartifact-using-amazon-codecatalyst-actions/"
-    },
-    {
-        "title": "Best Practices for working with Pull Requests in Amazon CodeCatalyst",
-        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-working-with-pull-requests-in-amazon-codecatalyst/"
-    },
-    {
-        "title": "Accessing Amazon Q Developer using Microsoft Entra ID and VS Code to accelerate development",
-        "link": "https://aws.amazon.com/blogs/devops/accessing-amazon-q-developer-using-microsoft-entra-id-and-vs-code-to-accelerate-development/"
-    },
-    {
-        "title": "How A/B Testing and Multi-Model Hosting Accelerate Generative AI Feature Development in Amazon Q",
-        "link": "https://aws.amazon.com/blogs/devops/how-a-b-testing-and-multi-model-hosting-accelerate-generative-ai-feature-development-in-amazon-q/"
-    },
-    {
-        "title": "Use AWS CloudFormation Git sync to configure resources in customer accounts",
-        "link": "https://aws.amazon.com/blogs/devops/use-aws-cloudformation-git-sync-to-configure-resources-in-customer-accounts/"
     }
 ]

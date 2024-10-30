@@ -1,5 +1,25 @@
 [
     {
+        "title": "Empower your generative AI application with a comprehensive custom observability solution",
+        "link": "https://aws.amazon.com/blogs/machine-learning/empower-your-generative-ai-application-with-a-comprehensive-custom-observability-solution/"
+    },
+    {
+        "title": "Automate Amazon Bedrock batch inference: Building a scalable and efficient pipeline",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-bedrock-batch-inference-building-a-scalable-and-efficient-pipeline/"
+    },
+    {
+        "title": "Build a video insights and summarization engine using generative AI with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-video-insights-and-summarization-engine-using-generative-ai-with-amazon-bedrock/"
+    },
+    {
+        "title": "Automate document processing with Amazon Bedrock Prompt Flows (preview)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-amazon-bedrock-prompt-flows-preview/"
+    },
+    {
+        "title": "Governing the ML lifecycle at scale: Centralized observability with Amazon SageMaker and Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-centralized-observability-with-amazon-sagemaker-and-amazon-cloudwatch/"
+    },
+    {
         "title": "Import data from Google Cloud Platform BigQuery for no-code machine learning with Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/import-data-from-google-cloud-platform-bigquery-for-no-code-machine-learning-with-amazon-sagemaker-canvas/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Automate fine-tuning of Llama 3.x models with the new visual designer for Amazon SageMaker Pipelines",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-fine-tuning-of-llama-3-x-models-with-the-new-visual-designer-for-amazon-sagemaker-pipelines/"
-    },
-    {
-        "title": "Implement Amazon SageMaker domain cross-Region disaster recovery using custom Amazon EFS instances",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-amazon-sagemaker-domain-cross-region-disaster-recovery-using-custom-amazon-efs-instances/"
-    },
-    {
-        "title": "Amazon Bedrock Custom Model Import now generally available",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-custom-model-import-now-generally-available/"
-    },
-    {
-        "title": "Deploy a serverless web application to edit images using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-web-application-to-edit-images-using-amazon-bedrock/"
-    },
-    {
-        "title": "Brilliant words, brilliant writing: Using AWS AI chips to quickly deploy Meta LLama 3-powered applications",
-        "link": "https://aws.amazon.com/blogs/machine-learning/brilliant-words-brilliant-writing-using-aws-ai-chips-to-quickly-deploy-meta-llama-3-powered-applications/"
-    },
-    {
-        "title": "Best practices for building robust generative AI applications with Amazon Bedrock Agents \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-robust-generative-ai-applications-with-amazon-bedrock-agents-part-2/"
     }
 ]
