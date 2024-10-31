@@ -1,15 +1,19 @@
 [
     {
+        "title": "How Holaluz reduced their AWS cloud-based power control center emissions by 40%",
+        "link": "https://aws.amazon.com/blogs/industries/how-holaluz-reduced-their-aws-cloud-based-power-control-center-emissions-by-40/"
+    },
+    {
+        "title": "Optimization in the era of generative AI",
+        "link": "https://aws.amazon.com/blogs/industries/optimization-in-the-era-of-generative-ai/"
+    },
+    {
         "title": "Serverless self-service portal for running engineering applications with on-premises software licensing",
         "link": "https://aws.amazon.com/blogs/industries/serverless-self-service-portal-for-running-engineering-applications-with-on-premises-software-licensing/"
     },
     {
         "title": "Transforming Siemens global search with generative AI\u202f powered by AWS",
         "link": "https://aws.amazon.com/blogs/industries/transforming-siemens-global-search-with-generative-ai-powered-by-aws/"
-    },
-    {
-        "title": "Optimization in the era of generative AI",
-        "link": "https://aws.amazon.com/blogs/industries/optimization-in-the-era-of-generative-ai/"
     },
     {
         "title": "Driving operational excellence in manufacturing with AWS Supply Chain and Amazon Q",
@@ -34,9 +38,5 @@
     {
         "title": "How Toyota migrated Its Safety Connect telematics services platform with virtually zero downtime to AWS",
         "link": "https://aws.amazon.com/blogs/industries/how-toyota-migrated-drivelink-safety-connect-with-zero-downtime-to-aws/"
-    },
-    {
-        "title": "Elevating customer experience with generative AI and Telecom APIs using Agents for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/elevating-customer-experience-with-generative-ai-and-telecom-apis-using-agents-for-amazon-bedrock/"
     }
 ]

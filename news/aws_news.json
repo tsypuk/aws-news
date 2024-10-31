@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify and enhance Amazon S3 static website hosting with AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/aws/simplify-and-enhance-amazon-s3-static-website-hosting-with-aws-amplify/"
+    },
+    {
         "title": "Celebrating 10 Years of Amazon ECS: Powering a Decade of Containerized Innovation",
         "link": "https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-ecs-powering-a-decade-of-containerized-innovation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon S3 Express One Zone now supports AWS KMS with customer managed keys",
         "link": "https://aws.amazon.com/blogs/aws/amazon-s3-express-one-zone-now-supports-aws-kms-with-customer-managed-keys/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Oracle Database@AWS, Amazon RDS, AWS PrivateLink, Amazon MSK, Amazon EventBridge, Amazon SageMaker and more",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-oracle-databaseaws-amazon-rds-aws-privatelink-amazon-msk-amazon-eventbridge-amazon-sagemaker-and-more/"
     }
 ]

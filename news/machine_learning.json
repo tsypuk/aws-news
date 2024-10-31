@@ -1,5 +1,17 @@
 [
     {
+        "title": "Unlock organizational wisdom using voice-driven knowledge capture with Amazon Transcribe and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-organizational-wisdom-using-voice-driven-knowledge-capture-with-amazon-transcribe-and-amazon-bedrock/"
+    },
+    {
+        "title": "Achieve multi-Region resiliency for your conversational AI chatbots with Amazon Lex",
+        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-multi-region-resiliency-for-your-conversational-ai-chatbots-with-amazon-lex/"
+    },
+    {
+        "title": "Create and fine-tune sentence transformers for enhanced classification accuracy",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-and-fine-tune-sentence-transformers-for-enhanced-classification-accuracy/"
+    },
+    {
         "title": "Empower your generative AI application with a comprehensive custom observability solution",
         "link": "https://aws.amazon.com/blogs/machine-learning/empower-your-generative-ai-application-with-a-comprehensive-custom-observability-solution/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Boost post-call analytics with Amazon Q in QuickSight",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-post-call-analytics-with-amazon-q-in-quicksight/"
-    },
-    {
-        "title": "Create a next generation chat assistant with Amazon Bedrock, Amazon Connect, Amazon Lex, LangChain, and WhatsApp",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-next-generation-chat-assistant-with-amazon-bedrock-amazon-connect-amazon-lex-langchain-and-whatsapp/"
-    },
-    {
-        "title": "Generative AI foundation model training on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-foundation-model-training-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Automate fine-tuning of Llama 3.x models with the new visual designer for Amazon SageMaker Pipelines",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-fine-tuning-of-llama-3-x-models-with-the-new-visual-designer-for-amazon-sagemaker-pipelines/"
     }
 ]

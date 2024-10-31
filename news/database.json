@@ -1,5 +1,13 @@
 [
     {
+        "title": "Embed textual data in Amazon RDS for SQL Server using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/embed-textual-data-in-amazon-rds-for-sql-server-using-amazon-bedrock/"
+    },
+    {
+        "title": "Modernize your legacy databases with AWS data lakes, Part 1: Migrate SQL Server using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/modernize-your-legacy-databases-with-aws-data-lakes-part-1-migrate-sql-server-using-aws-dms/"
+    },
+    {
         "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 3",
         "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-3/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrating tables from IBM Db2 for z/OS to Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/migrating-tables-from-ibm-db2-for-z-os-to-amazon-rds-for-db2/"
-    },
-    {
-        "title": "What version of Amazon DynamoDB are you running?",
-        "link": "https://aws.amazon.com/blogs/database/what-version-of-amazon-dynamodb-are-you-running/"
-    },
-    {
-        "title": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift is generally available",
-        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-zero-etl-integration-with-amazon-redshift-is-generally-available/"
     }
 ]

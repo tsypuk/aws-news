@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improving security and performance with additional DNS resource record types in Amazon Route 53",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/improving-security-and-performance-with-additional-dns-resource-record-types-in-amazon-route-53/"
+    },
+    {
         "title": "Optimizing web application user experiences with AWS WAF JavaScript integrations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-web-application-user-experiences-with-aws-waf-javascript-integrations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Visualize enterprise IP address management and planning with CIDR map",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/visualize-enterprise-ip-address-management-and-planning-with-cidr-map/"
-    },
-    {
-        "title": "Networking best practices for generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/networking-best-practices-for-generative-ai-on-aws/"
     }
 ]

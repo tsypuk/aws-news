@@ -1,5 +1,13 @@
 [
     {
+        "title": "Seamless migration from any VMware environment to Amazon FSx for NetApp ONTAP and Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/storage/seamless-migration-from-any-vmware-environment-to-amazon-fsx-for-netapp-ontap-and-amazon-ec2/"
+    },
+    {
+        "title": "Derive insights from AWS DataSync task reports using AWS Glue, Amazon Athena, and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/storage/derive-insights-from-aws-datasync-task-reports-using-aws-glue-amazon-athena-and-amazon-quicksight/"
+    },
+    {
         "title": "Migrate data from Dropbox to Amazon S3 using Rclone",
         "link": "https://aws.amazon.com/blogs/storage/migrate-data-from-dropbox-to-amazon-s3-using-rclone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate data from Google Drive to Amazon S3 using Rclone",
         "link": "https://aws.amazon.com/blogs/storage/migrate-data-from-google-drive-to-amazon-s3-using-rclone/"
-    },
-    {
-        "title": "Securing your Amazon FSx for ONTAP Windows Share (SMB) against Viruses",
-        "link": "https://aws.amazon.com/blogs/storage/securing-your-amazon-fsx-for-ontap-windows-share-smb-against-viruses/"
-    },
-    {
-        "title": "A guide to budgeting for AWS Backup in VMware virtual environments",
-        "link": "https://aws.amazon.com/blogs/storage/a-guide-to-budgeting-for-aws-backup-in-vmware-virtual-environments/"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Streamline AI-driven analytics with governance: Integrating Tableau with Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/streamline-ai-driven-analytics-with-governance-integrating-tableau-with-amazon-datazone/"
+    },
+    {
+        "title": "Expanding data analysis and visualization options: Amazon DataZone now integrates with Tableau, Power BI, and more",
+        "link": "https://aws.amazon.com/blogs/big-data/expanding-data-analysis-and-visualization-options-amazon-datazone-now-integrates-with-tableau-power-bi-and-more/"
+    },
+    {
+        "title": "Modernize your legacy databases with AWS data lakes, Part 3: Build a data lake processing layer",
+        "link": "https://aws.amazon.com/blogs/big-data/modernize-your-legacy-databases-with-aws-data-lakes-part-3-build-a-data-lake-processing-layer/"
+    },
+    {
+        "title": "Modernize your legacy databases with AWS data lakes, Part 2: Build a data lake using AWS DMS data on Apache Iceberg",
+        "link": "https://aws.amazon.com/blogs/big-data/modernize-your-legacy-databases-with-aws-data-lakes-part-2-build-a-data-lake-using-aws-dms-data-on-apache-iceberg/"
+    },
+    {
+        "title": "Simplify data ingestion from Amazon S3 to Amazon Redshift using auto-copy",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-ingestion-from-amazon-s3-to-amazon-redshift-using-auto-copy/"
+    },
+    {
         "title": "Improve OpenSearch Service cluster resiliency and performance with dedicated coordinator nodes",
         "link": "https://aws.amazon.com/blogs/big-data/improve-opensearch-service-cluster-resiliency-and-performance-with-dedicated-coordinator-nodes/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Single sign-on SSO for Amazon OpenSearch Service using SAML and Keycloak",
         "link": "https://aws.amazon.com/blogs/big-data/single-sign-on-sso-for-amazon-opensearch-service-using-saml-and-keycloak/"
-    },
-    {
-        "title": "Get started with Amazon DynamoDB zero-ETL integration with Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/get-started-with-amazon-dynamodb-zero-etl-integration-with-amazon-redshift/"
-    },
-    {
-        "title": "Elevate your search and analytics skills with the new Amazon OpenSearch Service YouTube channel",
-        "link": "https://aws.amazon.com/blogs/big-data/elevate-your-search-and-analytics-skills-with-the-new-amazon-opensearch-service-youtube-channel/"
-    },
-    {
-        "title": "Migrate from Amazon Kinesis Data Analytics for SQL to Amazon Managed Service for Apache Flink and Amazon Managed Service for Apache Flink Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-from-amazon-kinesis-data-analytics-for-sql-to-amazon-managed-service-for-apache-flink-and-amazon-managed-service-for-apache-flink-studio/"
-    },
-    {
-        "title": "Enriching metadata for accurate text-to-SQL generation for Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/enriching-metadata-for-accurate-text-to-sql-generation-for-amazon-athena/"
-    },
-    {
-        "title": "Enhance Amazon EMR scaling capabilities with Application Master Placement",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-amazon-emr-scaling-capabilities-with-application-master-placement/"
     }
 ]

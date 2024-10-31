@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing AWS AppSync Events: serverless WebSocket APIs to power real-time web and mobile experiences at any scale",
+        "link": "https://aws.amazon.com/blogs/mobile/announcing-aws-appsync-events-serverless-websocket-apis/"
+    },
+    {
         "title": "Creating a Generative AI  Travel Assistant App with Amazon Bedrock and AWS Amplify",
         "link": "https://aws.amazon.com/blogs/mobile/creating-a-generative-ai-travel-assistant-app-with-amazon-bedrock-and-aws-amplify/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Generative AI and Next.js with AWS Amplify to build a Fullstack Recipe Generator",
         "link": "https://aws.amazon.com/blogs/mobile/use-generative-ai-and-next-js-with-aws-amplify-to-build-a-fullstack-recipe-generator/"
-    },
-    {
-        "title": "Control GraphQL execution complexity, query depth, and introspection with AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/mobile/control-graphql-execution-complexity-query-depth-and-introspection-with-aws-appsync/"
     }
 ]

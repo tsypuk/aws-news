@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing better catalysts with HPC \u2013 DIC, SandboxAQ, and AWS collaborate for record quantum chemistry computation",
+        "link": "https://aws.amazon.com/blogs/hpc/designing-better-catalysts-with-high-performance-computing-on-aws/"
+    },
+    {
         "title": "Simulating complex systems with LLM-driven agents: leveraging AWS ParallelCluster for scalable AI experiments",
         "link": "https://aws.amazon.com/blogs/hpc/simulating-complex-systems-with-llm-driven-agents-leveraging-aws-parallelcluster-for-scalable-ai-experiments/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to improve reservoir simulation throughput using P5 instances",
         "link": "https://aws.amazon.com/blogs/hpc/how-to-improve-reservoir-simulation-throughput-using-p5-instances/"
-    },
-    {
-        "title": "How Amazon optimizes their supply chain with help from AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/how-amazon-optimizes-their-supply-chain-with-help-from-aws-batch/"
     }
 ]
