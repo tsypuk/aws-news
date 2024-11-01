@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlock the potential of your supply chain data and gain actionable insights with AWS Supply Chain Analytics",
+        "link": "https://aws.amazon.com/blogs/aws/unlock-the-potential-of-your-supply-chain-data-and-gain-actionable-insights-with-aws-supply-chain-analytics/"
+    },
+    {
+        "title": "Amazon Aurora PostgreSQL Limitless Database is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-limitless-database-is-now-generally-available/"
+    },
+    {
         "title": "Simplify and enhance Amazon S3 static website hosting with AWS Amplify Hosting",
         "link": "https://aws.amazon.com/blogs/aws/simplify-and-enhance-amazon-s3-static-website-hosting-with-aws-amplify/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Now available: Graviton4-powered memory-optimized Amazon EC2 X8g instances",
         "link": "https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/"
-    },
-    {
-        "title": "Data engineering professional certificate: New hands-on specialization by DeepLearning.AI and AWS",
-        "link": "https://aws.amazon.com/blogs/aws/data-engineering-professional-certificate-new-hands-on-specialization-by-deeplearning-ai-and-aws/"
-    },
-    {
-        "title": "Amazon S3 Express One Zone now supports AWS KMS with customer managed keys",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-express-one-zone-now-supports-aws-kms-with-customer-managed-keys/"
     }
 ]

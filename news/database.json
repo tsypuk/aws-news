@@ -1,5 +1,17 @@
 [
     {
+        "title": "Load vector embeddings up to 67x faster with pgvector and Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/load-vector-embeddings-up-to-67x-faster-with-pgvector-and-amazon-aurora/"
+    },
+    {
+        "title": "How Dafiti migrated its most critical database to Amazon Aurora MySQL with minimal downtime and improved operational efficiency",
+        "link": "https://aws.amazon.com/blogs/database/how-dafiti-migrated-its-most-critical-database-to-amazon-aurora-mysql-with-minimal-downtime-and-improved-operational-efficiency/"
+    },
+    {
+        "title": "Build a streaming ETL pipeline on Amazon RDS using Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/database/build-a-streaming-etl-pipeline-on-amazon-rds-using-amazon-msk/"
+    },
+    {
         "title": "Embed textual data in Amazon RDS for SQL Server using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/embed-textual-data-in-amazon-rds-for-sql-server-using-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Automatic reconnection to Amazon RDS for Oracle read replicas during disaster recovery",
         "link": "https://aws.amazon.com/blogs/database/automatic-reconnection-to-amazon-rds-for-oracle-read-replicas-during-disaster-recovery/"
-    },
-    {
-        "title": "Troubleshoot INCOMPATIBLE_CREATE issues due to missing instance profile permissions during Amazon RDS Custom instance creation",
-        "link": "https://aws.amazon.com/blogs/database/troubleshoot-incompatible_create-issues-due-to-missing-instance-profile-permissions-during-amazon-rds-custom-instance-creation/"
-    },
-    {
-        "title": "Use IAM authentication with Amazon DocumentDB (with MongoDB compatibility)",
-        "link": "https://aws.amazon.com/blogs/database/use-iam-authentication-with-amazon-documentdb-with-mongodb-compatibility/"
-    },
-    {
-        "title": "Migrating tables from IBM Db2 for z/OS to Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/migrating-tables-from-ibm-db2-for-z-os-to-amazon-rds-for-db2/"
     }
 ]

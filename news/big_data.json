@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrate Amazon Bedrock with Amazon Redshift ML for generative AI applications",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-bedrock-with-amazon-redshift-ml-for-generative-ai-applications/"
+    },
+    {
+        "title": "How Volkswagen Autoeuropa built a data mesh to accelerate digital transformation using Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/how-volkswagen-autoeuropa-built-a-data-mesh-to-accelerate-digital-transformation-using-amazon-datazone/"
+    },
+    {
         "title": "Streamline AI-driven analytics with governance: Integrating Tableau with Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/streamline-ai-driven-analytics-with-governance-integrating-tableau-with-amazon-datazone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Demystify data sharing and collaboration patterns on AWS: Choosing the right tool for the job",
         "link": "https://aws.amazon.com/blogs/big-data/demystify-data-sharing-and-collaboration-patterns-on-aws-choosing-the-right-tool-for-the-job/"
-    },
-    {
-        "title": "A customer\u2019s journey with Amazon OpenSearch Ingestion pipelines",
-        "link": "https://aws.amazon.com/blogs/big-data/a-customers-journey-with-amazon-opensearch-ingestion-pipelines/"
-    },
-    {
-        "title": "Single sign-on SSO for Amazon OpenSearch Service using SAML and Keycloak",
-        "link": "https://aws.amazon.com/blogs/big-data/single-sign-on-sso-for-amazon-opensearch-service-using-saml-and-keycloak/"
     }
 ]

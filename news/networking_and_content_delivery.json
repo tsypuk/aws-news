@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate IPv6 application migration with AWS PrivateLink and dual stack Network Load Balancers UDP support",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/accelerate-ipv6-application-migration-with-aws-privatelink-and-dual-stack-network-load-balancers-udp-support/"
+    },
+    {
         "title": "Improving security and performance with additional DNS resource record types in Amazon Route 53",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/improving-security-and-performance-with-additional-dns-resource-record-types-in-amazon-route-53/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Security best practices when using ALB authentication",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/security-best-practices-when-using-alb-authentication/"
-    },
-    {
-        "title": "Visualize enterprise IP address management and planning with CIDR map",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/visualize-enterprise-ip-address-management-and-planning-with-cidr-map/"
     }
 ]

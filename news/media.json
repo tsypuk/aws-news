@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamlining the Correction of Errors process using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/mt/streamlining-the-correction-of-errors-process-using-amazon-bedrock/"
+    },
+    {
+        "title": "Scaling AWS Control Tower controls using Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/mt/scaling-aws-control-tower-controls-using-amazon-bedrock-agents/"
+    },
+    {
         "title": "How Stripe architected massive scale observability solution on AWS",
         "link": "https://aws.amazon.com/blogs/mt/how-stripe-architected-massive-scale-observability-solution-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Serverless Governance of Software Deployed with AWS Service Catalog",
         "link": "https://aws.amazon.com/blogs/mt/serverless-governance-of-software-deployed-with-aws-service-catalog/"
-    },
-    {
-        "title": "Getting insights from Amazon Managed Service for Prometheus using natural language powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/mt/getting-insights-from-amazon-managed-service-for-prometheus-using-natural-language-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Gain visibility of AWS backup activities using Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/mt/gain-visibility-of-aws-backup-activities-using-amazon-managed-grafana/"
     }
 ]
