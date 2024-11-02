@@ -1,5 +1,9 @@
 [
     {
+        "title": "Fine-grained access control in Amazon EMR Serverless with AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/fine-grained-access-control-in-amazon-emr-serverless-with-aws-lake-formation/"
+    },
+    {
         "title": "Integrate Amazon Bedrock with Amazon Redshift ML for generative AI applications",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-bedrock-with-amazon-redshift-ml-for-generative-ai-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Infor\u2019s Amazon OpenSearch Service Modernization: 94% faster searches and 50% lower costs",
         "link": "https://aws.amazon.com/blogs/big-data/infors-amazon-opensearch-service-modernization-94-faster-searches-and-50-lower-costs/"
-    },
-    {
-        "title": "Demystify data sharing and collaboration patterns on AWS: Choosing the right tool for the job",
-        "link": "https://aws.amazon.com/blogs/big-data/demystify-data-sharing-and-collaboration-patterns-on-aws-choosing-the-right-tool-for-the-job/"
     }
 ]

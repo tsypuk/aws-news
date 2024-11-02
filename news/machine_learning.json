@@ -1,5 +1,25 @@
 [
     {
+        "title": "Best practices and lessons for fine-tuning Anthropic\u2019s Claude 3 Haiku on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-and-lessons-for-fine-tuning-anthropics-claude-3-haiku-on-amazon-bedrock/"
+    },
+    {
+        "title": "Track, allocate, and manage your generative AI cost and usage with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/track-allocate-and-manage-your-generative-ai-cost-and-usage-with-amazon-bedrock/"
+    },
+    {
+        "title": "Advance environmental sustainability in clinical trials using AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/advance-environmental-sustainability-in-clinical-trials-using-aws/"
+    },
+    {
+        "title": "Use Amazon Q to find answers on Google Drive in an enterprise",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-q-to-find-answers-on-google-drive-in-an-enterprise/"
+    },
+    {
+        "title": "How Druva used Amazon Bedrock to address foundation model complexity when building Dru, Druva\u2019s backup AI copilot",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-druva-used-amazon-bedrock-to-address-foundation-model-complexity-when-building-dru-druvas-backup-ai-copilot/"
+    },
+    {
         "title": "Create a generative AI\u2013powered custom Google Chat application using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-powered-custom-google-chat-application-using-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Super charge your LLMs with RAG at scale using AWS Glue for Apache Spark",
         "link": "https://aws.amazon.com/blogs/machine-learning/super-charge-your-llms-with-rag-at-scale-using-aws-glue-for-apache-spark/"
-    },
-    {
-        "title": "From RAG to fabric: Lessons learned from building real-world RAGs at GenAIIC \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-rag-to-fabric-lessons-learned-from-building-real-world-rags-at-genaiic-part-1/"
-    },
-    {
-        "title": "Enhance your Amazon Redshift cloud data warehouse with easier, simpler, and faster machine learning using Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-your-amazon-redshift-cloud-data-warehouse-with-easier-simpler-and-faster-machine-learning-using-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Create a generative AI-based application builder assistant using Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-based-application-builder-assistant-using-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Transitioning from Amazon Rekognition people pathing: Exploring other alternatives",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transitioning-from-amazon-rekognition-people-pathing-exploring-other-alternatives/"
-    },
-    {
-        "title": "Unlocking generative AI for enterprises: How SnapLogic powers their low-code Agent Creator using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-generative-ai-for-enterprises-how-snaplogic-powers-their-low-code-agent-creator-using-amazon-bedrock/"
     }
 ]

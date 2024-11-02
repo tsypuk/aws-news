@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon VPC Lattice DNS migration strategies and best practices",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-vpc-lattice-dns-migration-strategies-and-best-practices/"
+    },
+    {
         "title": "Accelerate IPv6 application migration with AWS PrivateLink and dual stack Network Load Balancers UDP support",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/accelerate-ipv6-application-migration-with-aws-privatelink-and-dual-stack-network-load-balancers-udp-support/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrating your multi-account DNS environment to Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrating-your-multi-account-dns-environment-to-amazon-route-53-profiles/"
-    },
-    {
-        "title": "Security best practices when using ALB authentication",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/security-best-practices-when-using-alb-authentication/"
     }
 ]

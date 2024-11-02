@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless containers at AWS re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/containers/serverless-containers-at-aws-reinvent-2024/"
+    },
+    {
         "title": "Amazon EKS optimized Amazon Linux 2023 accelerated AMIs now available",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-optimized-amazon-linux-2023-accelerated-amis-now-available/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "AWS and Kubecost Collaborate to Deliver Kubecost 2.0 for Amazon EKS Users",
         "link": "https://aws.amazon.com/blogs/containers/aws-and-kubecost-collaborate-to-deliver-kubecost-2-0-for-amazon-eks-users/"
-    },
-    {
-        "title": "Migrating from AWS App Mesh to Amazon ECS Service Connect",
-        "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/"
     }
 ]

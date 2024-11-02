@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Amazon Q reduced the time Amazon developers spent waiting for technical answers by 450k hours this year",
+        "link": "https://aws.amazon.com/blogs/devops/reducing-time-spent-waiting-with-amazon-q/"
+    },
+    {
         "title": "A new AWS CDK L2 construct for Amazon CloudFront Origin Access Control (OAC)",
         "link": "https://aws.amazon.com/blogs/devops/a-new-aws-cdk-l2-construct-for-amazon-cloudfront-origin-access-control-oac/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reinventing the Amazon Q Developer agent for software development",
         "link": "https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/"
-    },
-    {
-        "title": "Amazon Q Developer Code Challenge",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/"
     }
 ]
