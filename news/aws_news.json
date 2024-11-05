@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: AWS Lambda, Amazon Bedrock, Amazon Redshift, Amazon CloudWatch, and more (Nov 4, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-amazon-bedrock-amazon-redshift-amazon-cloudwatch-and-more-nov-4-2024/"
+    },
+    {
         "title": "Fine-tuning for Anthropic\u2019s Claude 3 Haiku model in Amazon Bedrock is now generally available",
         "link": "https://aws.amazon.com/blogs/aws/fine-tuning-for-anthropics-claude-3-haiku-model-in-amazon-bedrock-is-now-generally-available/"
     },
@@ -28,7 +32,7 @@
         "link": "https://aws.amazon.com/blogs/aws/ec2-image-builder-now-supports-building-and-testing-macos-images/"
     },
     {
-        "title": "Upgraded Claude 3.5 Sonnet from Anthropic (available now), computer use (public beta), and Claude 3.5 Haiku (coming soon) in Amazon Bedrock",
+        "title": "Announcing three new capabilities for the Claude 3.5 model family in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/upgraded-claude-3-5-sonnet-from-anthropic-available-now-computer-use-public-beta-and-claude-3-5-haiku-coming-soon-in-amazon-bedrock/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Amazon EC2 X8g Instances, Amazon Q generative SQL for Amazon Redshift, AWS SDK for Swift, and more (Sep 23, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-x8g-instances-amazon-q-generative-sql-for-amazon-redshift-aws-sdk-for-swift-and-more-sep-23-2024/"
-    },
-    {
-        "title": "AWS named as a Leader in the 2024 Gartner Magic Quadrant for Desktop as a Service (DaaS)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-2024-gartner-magic-quadrant-for-desktop-as-a-service-daas/"
     }
 ]

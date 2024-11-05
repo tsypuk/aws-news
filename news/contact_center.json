@@ -1,5 +1,13 @@
 [
     {
+        "title": "Generative AI unlocks 60% faster Japanese VoC analysis with Amazon Connect Contact Lens",
+        "link": "https://aws.amazon.com/blogs/contact-center/anax-generative-ai-unlocks-faster-voc-analysis-amazon-connect/"
+    },
+    {
+        "title": "How ANA X lowered costs by 58% with Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/how-anax-lowered-costs-with-amazon-connect/"
+    },
+    {
         "title": "AWS recognized as a Leader in 2024 Gartner Magic Quadrant for Contact Center as a Service with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/aws-recognized-as-a-leader-in-2024-gartner-magic-quadrant-for-contact-center-as-a-service-with-amazon-connect/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Manage cancelled callback to reduce agent handle time with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/manage-cancelled-callback-to-reduce-agent-handle-time-with-amazon-connect/"
-    },
-    {
-        "title": "Increasing agent productivity with generative AI in Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/increasing-agent-productivity-with-generative-ai-in-amazon-connect/"
-    },
-    {
-        "title": "Best practices for using Amazon Connect audio optimization for Citrix",
-        "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-using-amazon-connect-audio-optimization-for-citrix/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a Two-Way Email-to-SMS Service with Amazon SES and Amazon End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-a-two-way-email-to-sms-service-with-amazon-ses-and-amazon-end-user-messaging/"
+    },
+    {
         "title": "10DLC Registration Best Practices to Send SMS with AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/10dlc-registration-best-practices-to-send-sms-with-amazon-pinpoint/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to enable one-click unsubscribe email with Amazon Pinpoint",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-enable-one-click-unsubscribe-email-with-amazon-pinpoint/"
-    },
-    {
-        "title": "Mail Manager \u2013 Amazon SES introduces new email routing and archiving features",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/mail-manager-amazon-ses-introduces-new-email-routing-and-archiving-features/"
     }
 ]

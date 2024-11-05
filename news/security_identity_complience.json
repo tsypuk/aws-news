@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unauthorized tactic spotlight: Initial access through a third-party identity provider",
+        "link": "https://aws.amazon.com/blogs/security/unauthorized-tactic-spotlight-initial-access-through-a-third-party-identity-provider/"
+    },
+    {
         "title": "New AWS Secure Builder training available through SANS Institute",
         "link": "https://aws.amazon.com/blogs/security/new-aws-secure-builder-training-available-through-sans-institute/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing data privacy with layered authorization for Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/security/enhancing-data-privacy-with-layered-authorization-for-amazon-bedrock-agents/"
-    },
-    {
-        "title": "How to perform a proof of concept for automated discovery using Amazon Macie",
-        "link": "https://aws.amazon.com/blogs/security/proof-of-concept-for-automated-discovery-using-amazon-macie/"
     }
 ]

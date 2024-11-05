@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling developers with Docker Desktop on Amazon WorkSpaces Personal",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enabling-developers-with-docker-desktop-on-amazon-workspaces-personal/"
+    },
+    {
         "title": "Accelerate your data center exit with Amazon WorkSpaces Core",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/accelerate-your-data-center-exit-with-amazon-workspaces-core/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating Foundational NICE DCV Infrastructure",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automating-foundational-nice-dcv-infrastructure/"
-    },
-    {
-        "title": "Cost Optimizer for Amazon WorkSpaces 2.7 released",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/cost-optimizer-for-amazon-workspaces-2-7-released/"
     }
 ]
