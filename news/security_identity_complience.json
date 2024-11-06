@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Inspector suppression rules best practices for AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/security/amazon-inspector-suppression-rules-best-practices-for-aws-organizations/"
+    },
+    {
+        "title": "Implement effective data authorization mechanisms to secure your data used in generative AI applications",
+        "link": "https://aws.amazon.com/blogs/security/implement-effective-data-authorization-mechanisms-to-secure-your-data-used-in-generative-ai-applications/"
+    },
+    {
         "title": "Unauthorized tactic spotlight: Initial access through a third-party identity provider",
         "link": "https://aws.amazon.com/blogs/security/unauthorized-tactic-spotlight-initial-access-through-a-third-party-identity-provider/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Summer 2024 SOC 1 report now available in Japanese, Korean, and Spanish",
         "link": "https://aws.amazon.com/blogs/security/summer-2024-soc-1-report-now-available-in-japanese-korean-and-spanish/"
-    },
-    {
-        "title": "Customer compliance and security during the post-quantum cryptographic migration",
-        "link": "https://aws.amazon.com/blogs/security/customer-compliance-and-security-during-the-post-quantum-cryptographic-migration/"
-    },
-    {
-        "title": "Enhancing data privacy with layered authorization for Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/security/enhancing-data-privacy-with-layered-authorization-for-amazon-bedrock-agents/"
     }
 ]

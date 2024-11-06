@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize costs and security with Amazon WorkSpaces Family services",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-costs-and-security-with-amazon-workspaces-family-services/"
+    },
+    {
         "title": "Enabling developers with Docker Desktop on Amazon WorkSpaces Personal",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enabling-developers-with-docker-desktop-on-amazon-workspaces-personal/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accessing AWS resources using AWS IAM Roles Anywhere from Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/accessing-aws-resources-from-amazon-workspaces-using-aws-iam-roles-anywhere/"
-    },
-    {
-        "title": "Automating Foundational NICE DCV Infrastructure",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automating-foundational-nice-dcv-infrastructure/"
     }
 ]

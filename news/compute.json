@@ -1,5 +1,13 @@
 [
     {
+        "title": "Retaining Optimize CPUs configuration during Amazon EC2 scaling to save on licensing costs",
+        "link": "https://aws.amazon.com/blogs/compute/retaining-optimize-cpus-configuration-during-amazon-ec2-scaling-to-save-on-licensing-costs/"
+    },
+    {
+        "title": "The attendee\u2019s guide to the AWS re:Invent 2024 Compute track",
+        "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2024-compute-track/"
+    },
+    {
         "title": "Introducing an enhanced local IDE experience for AWS Lambda developers",
         "link": "https://aws.amazon.com/blogs/compute/introducing-an-enhanced-local-ide-experience-for-aws-lambda-developers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Serverless ICYMI Q2 2024",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2024/"
-    },
-    {
-        "title": "Securing Amazon ECS workloads on AWS Fargate with customer managed keys",
-        "link": "https://aws.amazon.com/blogs/compute/securing-amazon-ecs-workloads-on-aws-fargate-with-customer-managed-keys/"
-    },
-    {
-        "title": "Implementing network traffic inspection on AWS Outposts rack",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-network-traffic-inspection-on-aws-outposts-rack/"
     }
 ]

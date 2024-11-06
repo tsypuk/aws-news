@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Cigna Implemented a Multi-Region Centralized Alerting System on AWS",
+        "link": "https://aws.amazon.com/blogs/mt/how-cigna-implemented-a-multi-region-centralized-alerting-system-on-aws/"
+    },
+    {
+        "title": "Operational Best Practices for FedRAMP Compliance in AWS GovCloud with AWS Config",
+        "link": "https://aws.amazon.com/blogs/mt/operational-best-practices-for-fedramp-compliance-in-aws-govcloud-with-aws-config/"
+    },
+    {
+        "title": "Introducing AWS Fault Injection Service Actions to Inject Chaos in Lambda functions",
+        "link": "https://aws.amazon.com/blogs/mt/introducing-aws-fault-injection-service-actions-to-inject-chaos-in-lambda-functions/"
+    },
+    {
         "title": "Streamlining the Correction of Errors process using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mt/streamlining-the-correction-of-errors-process-using-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Ingesting administrative logs from Microsoft Azure to AWS CloudTrail Lake",
         "link": "https://aws.amazon.com/blogs/mt/ingesting-administrative-logs-from-microsoft-azure-to-aws-cloudtrail-lake/"
-    },
-    {
-        "title": "Enable cloud operations workflows with generative AI using Agents for Amazon Bedrock and Amazon CloudWatch Logs",
-        "link": "https://aws.amazon.com/blogs/mt/enable-cloud-operations-workflows-with-generative-ai-using-agents-for-amazon-bedrock-and-amazon-cloudwatch-logs/"
-    },
-    {
-        "title": "Ten features for efficiently managing your AWS applications from Microsoft Teams and Slack using AWS Chatbot",
-        "link": "https://aws.amazon.com/blogs/mt/ten-features-for-efficiently-managing-your-aws-applications-from-microsoft-teams-and-slack-using-aws-chatbot/"
-    },
-    {
-        "title": "Serverless Governance of Software Deployed with AWS Service Catalog",
-        "link": "https://aws.amazon.com/blogs/mt/serverless-governance-of-software-deployed-with-aws-service-catalog/"
     }
 ]

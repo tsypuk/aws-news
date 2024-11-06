@@ -1,5 +1,9 @@
 [
     {
+        "title": "Let\u2019s Architect! Modern data architectures",
+        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-modern-data-architectures-2/"
+    },
+    {
         "title": "Automating multi-AZ high availability for WebLogic administration server with DNS: Part 2",
         "link": "https://aws.amazon.com/blogs/architecture/automating-multi-az-high-availability-for-weblogic-administration-server-with-dns-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Let\u2019s Architect! Discovering Generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/"
-    },
-    {
-        "title": "Genomics workflows, Part 6: cost prediction",
-        "link": "https://aws.amazon.com/blogs/architecture/part-6-genomics-workflows-cost-prediction/"
     }
 ]
