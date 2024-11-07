@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerated chip verification using AWS EC2 F1 and VeriFire",
+        "link": "https://aws.amazon.com/blogs/industries/awsec2fiandverifire/"
+    },
+    {
         "title": "Serverless Remote Sensing analytics for an electric utility customer",
         "link": "https://aws.amazon.com/blogs/industries/serverless-remote-sensing-analytics-for-an-electric-utility-customer/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Driving operational excellence in manufacturing with AWS Supply Chain and Amazon Q",
         "link": "https://aws.amazon.com/blogs/industries/driving-operational-excellence-in-manufacturing-with-aws-supply-chain-and-amazon-q/"
-    },
-    {
-        "title": "Introducing the new AWS Marketplace Consumer Goods Solutions Hub",
-        "link": "https://aws.amazon.com/blogs/industries/introducing-the-new-aws-marketplace-consumer-goods-solutions-hub/"
     }
 ]

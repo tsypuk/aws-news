@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reduce your Microsoft licensing costs by upgrading to 4th generation AMD processors",
+        "link": "https://aws.amazon.com/blogs/compute/reduce-your-microsoft-licensing-costs-by-upgrading-to-4th-generation-amd-processors/"
+    },
+    {
+        "title": "Efficiently monitor your On Demand Capacity Reservations (ODCR) by Grouping on CloudWatch Dimensions",
+        "link": "https://aws.amazon.com/blogs/compute/efficiently-monitor-your-on-demand-capacity-reservations-odcr-by-grouping-on-cloudwatch-dimensions/"
+    },
+    {
         "title": "Retaining Optimize CPUs configuration during Amazon EC2 scaling to save on licensing costs",
         "link": "https://aws.amazon.com/blogs/compute/retaining-optimize-cpus-configuration-during-amazon-ec2-scaling-to-save-on-licensing-costs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing quorum queues on Amazon MQ for RabbitMQ",
         "link": "https://aws.amazon.com/blogs/compute/introducing-quorum-queues-on-amazon-mq-for-rabbitmq/"
-    },
-    {
-        "title": "Implementing multi-Region failover for Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-multi-region-failover-for-amazon-api-gateway/"
-    },
-    {
-        "title": "Serverless ICYMI Q2 2024",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2024/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Supercharge your SAP Composable Storefront with Amazon CloudFront",
+        "link": "https://aws.amazon.com/blogs/awsforsap/supercharge-your-sap-composable-storefront-with-amazon-cloudfront/"
+    },
+    {
         "title": "Accelerate your RISE with SAP transformation with SAP Signavio on AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsforsap/accelerate-your-rise-with-sap-transformation-with-sap-signavio-on-aws-marketplace/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Data insights from SAP with Amazon SageMaker AutoML and QuickSight",
         "link": "https://aws.amazon.com/blogs/awsforsap/data-insights-from-sap-with-amazon-sagemaker-automl-and-quicksight/"
-    },
-    {
-        "title": "End-to-End Observability for SAP on AWS : Part 1 Overview",
-        "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-1-overview/"
     }
 ]

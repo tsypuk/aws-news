@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing Developer Productivity: Finch\u2019s Support for Development Containers and the Finch Daemon",
+        "link": "https://aws.amazon.com/blogs/opensource/enhancing-developer-productivity-finchs-support-for-development-containers-and-the-finch-daemon/"
+    },
+    {
         "title": "Announcing Finch on Linux for Container Development",
         "link": "https://aws.amazon.com/blogs/opensource/announcing-finch-on-linux-for-container-development/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building Developer Portals with Backstage and Amazon EKS Blueprints",
         "link": "https://aws.amazon.com/blogs/opensource/building-developer-portals-with-backstage-and-amazon-eks-blueprints/"
-    },
-    {
-        "title": "Finch Container Development Tool: Now for Windows",
-        "link": "https://aws.amazon.com/blogs/opensource/finch-container-development-tool-now-for-windows/"
     }
 ]

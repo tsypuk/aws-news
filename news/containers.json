@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Infinitium reduced fraud detection time by 95% with Amazon ECS and AWS Fargate on AWS Graviton",
+        "link": "https://aws.amazon.com/blogs/containers/how-infinitium-reduced-fraud-detection-time-by-95-with-amazon-ecs-and-aws-fargate-on-aws-graviton/"
+    },
+    {
         "title": "Serverless containers at AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/containers/serverless-containers-at-aws-reinvent-2024/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Migrating from AWS App Mesh to Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-vpc-lattice/"
-    },
-    {
-        "title": "AWS and Kubecost Collaborate to Deliver Kubecost 2.0 for Amazon EKS Users",
-        "link": "https://aws.amazon.com/blogs/containers/aws-and-kubecost-collaborate-to-deliver-kubecost-2-0-for-amazon-eks-users/"
     }
 ]

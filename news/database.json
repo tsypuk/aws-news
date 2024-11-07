@@ -1,5 +1,25 @@
 [
     {
+        "title": "How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 2: Streams",
+        "link": "https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-2-streams/"
+    },
+    {
+        "title": "How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 1: Motivation and approaches",
+        "link": "https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-1-motivation-and-approaches/"
+    },
+    {
+        "title": "Optimize Amazon Aurora PostgreSQL auto scaling performance with automated cache pre-warming",
+        "link": "https://aws.amazon.com/blogs/database/optimize-amazon-aurora-postgresql-auto-scaling-performance-with-automated-cache-pre-warming/"
+    },
+    {
+        "title": "Amazon DynamoDB data models for generative AI chatbots",
+        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-data-models-for-generative-ai-chatbots/"
+    },
+    {
+        "title": "Build a scalable, context-aware chatbot with Amazon DynamoDB, Amazon Bedrock, and LangChain",
+        "link": "https://aws.amazon.com/blogs/database/build-a-scalable-context-aware-chatbot-with-amazon-dynamodb-amazon-bedrock-and-langchain/"
+    },
+    {
         "title": "Use a DAO to govern LLM training data, Part 4: MetaMask authentication",
         "link": "https://aws.amazon.com/blogs/database/part-4-use-a-dao-to-govern-llm-training-data-metamask-authentication/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Claroty Improved Database Performance and Scaled the Claroty xDome Platform using Amazon Aurora Optimized Reads",
         "link": "https://aws.amazon.com/blogs/database/how-claroty-improved-database-performance-and-scaled-the-claroty-xdome-platform-using-amazon-aurora-optimized-reads/"
-    },
-    {
-        "title": "Unlock cost savings using compression with Amazon DocumentDB",
-        "link": "https://aws.amazon.com/blogs/database/unlock-cost-savings-using-compression-with-amazon-documentdb/"
-    },
-    {
-        "title": "Achieve a high-speed InnoDB purge on Amazon RDS for MySQL and Amazon Aurora MySQL",
-        "link": "https://aws.amazon.com/blogs/database/achieve-a-high-speed-innodb-purge-on-amazon-rds-for-mysql-and-amazon-aurora-mysql/"
-    },
-    {
-        "title": "Migrate or upgrade your like-to-like databases using AWS DMS homogeneous migration",
-        "link": "https://aws.amazon.com/blogs/database/migrate-or-upgrade-your-like-to-like-databases-using-aws-dms-homogeneous-migration/"
-    },
-    {
-        "title": "Visualize vector embeddings stored in Amazon Aurora PostgreSQL and explore semantic similarities",
-        "link": "https://aws.amazon.com/blogs/database/visualize-vector-embeddings-stored-in-amazon-aurora-postgresql-and-explore-semantic-similarities/"
-    },
-    {
-        "title": "Evaluating the right fit for your Amazon Aurora workloads: provisioned or Serverless v2",
-        "link": "https://aws.amazon.com/blogs/database/evaluating-the-right-fit-for-your-amazon-aurora-workloads-provisioned-or-serverless-v2/"
     }
 ]
