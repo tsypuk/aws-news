@@ -1,5 +1,9 @@
 [
     {
+        "title": "JSON Structured Logging for .NET Lambda Functions",
+        "link": "https://aws.amazon.com/blogs/developer/structured-logging-for-net-lambda/"
+    },
+    {
         "title": "Announcing the Developer Preview of DynamoDB Mapper for Kotlin",
         "link": "https://aws.amazon.com/blogs/developer/announcing-dev-preview-of-dynamodb-mapper-for-kotlin/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "macOS support policy updates for the AWS CLI v2",
         "link": "https://aws.amazon.com/blogs/developer/macos-support-policy-updates-for-the-aws-cli-v2/"
-    },
-    {
-        "title": "Announcing general availability of the AWS SDK for Rust",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/"
     }
 ]

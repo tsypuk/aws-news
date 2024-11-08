@@ -1,5 +1,25 @@
 [
     {
+        "title": "Amazon Bedrock Prompt Management is now available in GA",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-management-is-now-available-in-ga/"
+    },
+    {
+        "title": "How Zalando optimized large-scale inference and streamlined ML operations on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-zalando-optimized-large-scale-inference-and-streamlined-ml-operations-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Unleashing Stability AI\u2019s most advanced text-to-image models for media, marketing and advertising: Revolutionizing creative workflows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-stability-ais-most-advanced-text-to-image-models-for-media-marketing-and-advertising-revolutionizing-creative-workflows/"
+    },
+    {
+        "title": "Build a multi-tenant generative AI environment for your enterprise on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-tenant-generative-ai-environment-for-your-enterprise-on-aws/"
+    },
+    {
+        "title": "Enhance customer support with Amazon Bedrock Agents by integrating enterprise data APIs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-customer-support-with-amazon-bedrock-agents-by-integrating-enterprise-data-apis/"
+    },
+    {
         "title": "Unleash the power of generative AI with Amazon Q Business: How CCoEs can scale cloud governance best practices and drive innovation",
         "link": "https://aws.amazon.com/blogs/machine-learning/unleash-the-power-of-generative-ai-with-amazon-q-business-how-ccoes-can-scale-cloud-governance-best-practices-and-drive-innovation/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Create and fine-tune sentence transformers for enhanced classification accuracy",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-and-fine-tune-sentence-transformers-for-enhanced-classification-accuracy/"
-    },
-    {
-        "title": "Empower your generative AI application with a comprehensive custom observability solution",
-        "link": "https://aws.amazon.com/blogs/machine-learning/empower-your-generative-ai-application-with-a-comprehensive-custom-observability-solution/"
-    },
-    {
-        "title": "Automate Amazon Bedrock batch inference: Building a scalable and efficient pipeline",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-bedrock-batch-inference-building-a-scalable-and-efficient-pipeline/"
-    },
-    {
-        "title": "Build a video insights and summarization engine using generative AI with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-video-insights-and-summarization-engine-using-generative-ai-with-amazon-bedrock/"
-    },
-    {
-        "title": "Automate document processing with Amazon Bedrock Prompt Flows (preview)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-amazon-bedrock-prompt-flows-preview/"
-    },
-    {
-        "title": "Governing the ML lifecycle at scale: Centralized observability with Amazon SageMaker and Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-centralized-observability-with-amazon-sagemaker-and-amazon-cloudwatch/"
     }
 ]

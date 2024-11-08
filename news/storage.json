@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Delhivery migrated 500 TB of data across AWS Regions using Amazon S3 Replication",
+        "link": "https://aws.amazon.com/blogs/storage/how-dehlivery-migrated-500-tb-of-data-across-aws-regions-using-amazon-s3-replication/"
+    },
+    {
         "title": "Seamless migration from any VMware environment to Amazon FSx for NetApp ONTAP and Amazon EC2",
         "link": "https://aws.amazon.com/blogs/storage/seamless-migration-from-any-vmware-environment-to-amazon-fsx-for-netapp-ontap-and-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Direct Supply bolsters availability migrating to Amazon FSx for Windows File Server",
         "link": "https://aws.amazon.com/blogs/storage/direct-supply-bolsters-availability-migrating-to-amazon-fsx-for-windows-file-server/"
-    },
-    {
-        "title": "Migrate data from Google Drive to Amazon S3 using Rclone",
-        "link": "https://aws.amazon.com/blogs/storage/migrate-data-from-google-drive-to-amazon-s3-using-rclone/"
     }
 ]

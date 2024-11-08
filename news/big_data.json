@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon OpenSearch Service announces Standard and Extended Support dates for Elasticsearch and OpenSearch versions",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-announces-standard-and-extended-support-dates-for-elasticsearch-and-opensearch-versions/"
+    },
+    {
+        "title": "Write queries faster with Amazon Q generative SQL for Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/write-queries-faster-with-amazon-q-generative-sql-for-amazon-redshift/"
+    },
+    {
+        "title": "Amazon OpenSearch Service launches the next-generation OpenSearch UI",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-launches-the-next-generation-opensearch-ui/"
+    },
+    {
+        "title": "Accelerate SQL code migration from Google BigQuery to Amazon Redshift using BladeBridge",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-sql-code-migration-from-google-bigquery-to-amazon-redshift-using-bladebridge/"
+    },
+    {
         "title": "Build up-to-date generative AI applications with real-time vector embedding blueprints for Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/build-up-to-date-generative-ai-applications-with-real-time-vector-embedding-blueprints-for-amazon-msk/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Achieve the best price-performance in Amazon Redshift with elastic histograms for selectivity estimation",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-the-best-price-performance-in-amazon-redshift-with-elastic-histograms-for-selectivity-estimation/"
-    },
-    {
-        "title": "How to implement access control and auditing on Amazon Redshift using Immuta",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-implement-access-control-and-auditing-on-amazon-redshift-using-immuta/"
-    },
-    {
-        "title": "Manage Amazon OpenSearch Service Visualizations, Alerts, and More with GitHub and Jenkins",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-the-deployment-of-amazon-opensearch-service-metadata-with-github-and-jenkins/"
-    },
-    {
-        "title": "Simplify your query performance diagnostics in Amazon Redshift with Query profiler",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-your-query-performance-diagnostics-in-amazon-redshift-with-query-profiler/"
-    },
-    {
-        "title": "Introducing simplified interaction with the Airflow REST API in Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-simplified-interaction-with-the-airflow-rest-api-in-amazon-mwaa/"
     }
 ]

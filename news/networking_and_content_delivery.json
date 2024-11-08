@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing PartyRock: How we protect Amazon Bedrock endpoints using AWS WAF",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-partyrock-how-we-protect-amazon-bedrock-endpoints-using-aws-waf/"
+    },
+    {
         "title": "Amazon VPC Lattice DNS migration strategies and best practices",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-vpc-lattice-dns-migration-strategies-and-best-practices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure and accelerate your WordPress CMS with Amazon CloudFront, AWS WAF, and edge functions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-and-accelerate-your-wordpress-cms-with-amazon-cloudfront-aws-waf-and-edge-functions/"
-    },
-    {
-        "title": "Migrating your multi-account DNS environment to Amazon Route 53 Profiles",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrating-your-multi-account-dns-environment-to-amazon-route-53-profiles/"
     }
 ]
