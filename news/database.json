@@ -1,5 +1,17 @@
 [
     {
+        "title": "Know before you go: Amazon DynamoDB sessions at AWS re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/database/know-before-you-go-amazon-dynamodb-sessions-at-aws-reinvent-2024/"
+    },
+    {
+        "title": "Best practices for running Apache Cassandra with Amazon EBS",
+        "link": "https://aws.amazon.com/blogs/database/best-practices-for-running-apache-cassandra-with-amazon-ebs/"
+    },
+    {
+        "title": "How to rename and retain the endpoint name for Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/how-to-rename-and-retain-the-endpoint-name-for-amazon-rds/"
+    },
+    {
         "title": "Tune Amazon RDS for Oracle CDBs with Amazon Performance Insights",
         "link": "https://aws.amazon.com/blogs/database/tune-amazon-rds-for-oracle-cdbs-with-amazon-performance-insights/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-2/"
-    },
-    {
-        "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-1/"
-    },
-    {
-        "title": "Use HammerDB to run performance tests on Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/use-hammerdb-to-run-performance-tests-on-amazon-rds-for-db2/"
-    },
-    {
-        "title": "Schedule modifications of Amazon RDS using Amazon EventBridge Scheduler and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/database/schedule-modifications-of-amazon-rds-using-amazon-eventbridge-scheduler-and-aws-lambda/"
     }
 ]

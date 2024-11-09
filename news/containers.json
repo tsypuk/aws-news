@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EKS now supports Amazon Application Recovery Controller",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-amazon-application-recovery-controller/"
+    },
+    {
         "title": "Improving deployment visibility for Amazon ECS services",
         "link": "https://aws.amazon.com/blogs/containers/improving-deployment-visibility-for-amazon-ecs-services/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Powering the Next Generation of AI Workloads on Amazon EKS with Anyscale",
         "link": "https://aws.amazon.com/blogs/containers/powering-the-next-generation-of-ai-workloads-on-amazon-eks-with-anyscale/"
-    },
-    {
-        "title": "Announcing AWS Neuron Helm Chart",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-aws-neuron-helm-chart/"
     }
 ]

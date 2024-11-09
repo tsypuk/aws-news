@@ -1,5 +1,9 @@
 [
     {
+        "title": "Incremental refresh for Amazon Redshift materialized views on data lake tables",
+        "link": "https://aws.amazon.com/blogs/big-data/incremental-refresh-for-amazon-redshift-materialized-views-on-data-lake-tables/"
+    },
+    {
         "title": "Amazon OpenSearch Service announces Standard and Extended Support dates for Elasticsearch and OpenSearch versions",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-announces-standard-and-extended-support-dates-for-elasticsearch-and-opensearch-versions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyze Amazon EMR on Amazon EC2 cluster usage with Amazon Athena and Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/big-data/analyze-amazon-emr-on-amazon-ec2-cluster-usage-with-amazon-athena-and-amazon-quicksight/"
-    },
-    {
-        "title": "Achieve the best price-performance in Amazon Redshift with elastic histograms for selectivity estimation",
-        "link": "https://aws.amazon.com/blogs/big-data/achieve-the-best-price-performance-in-amazon-redshift-with-elastic-histograms-for-selectivity-estimation/"
     }
 ]
