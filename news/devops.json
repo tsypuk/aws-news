@@ -1,5 +1,9 @@
 [
     {
+        "title": "Peek inside your AWS CloudFormation Deployments with timeline view",
+        "link": "https://aws.amazon.com/blogs/devops/peek-inside-your-aws-cloudformation-deployments-with-timeline-view/"
+    },
+    {
         "title": "How Amazon Q reduced the time Amazon developers spent waiting for technical answers by 450k hours this year",
         "link": "https://aws.amazon.com/blogs/devops/reducing-time-spent-waiting-with-amazon-q/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon ECS Multi-region Deployment with Amazon CodeCatalyst",
         "link": "https://aws.amazon.com/blogs/devops/amazon-ecs-multi-region-deployment-with-amazon-codecatalyst/"
-    },
-    {
-        "title": "Reinventing the Amazon Q Developer agent for software development",
-        "link": "https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/"
     }
 ]

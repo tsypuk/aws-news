@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Amazon Kinesis Data Streams to deliver real-time data to Amazon OpenSearch Service domains with Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-kinesis-data-streams-to-deliver-real-time-data-to-amazon-opensearch-service-domains-with-amazon-opensearch-ingestion/"
+    },
+    {
+        "title": "Achieve data resilience using Amazon OpenSearch Service disaster recovery with snapshot and restore",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-data-resilience-using-amazon-opensearch-service-disaster-recovery-with-snapshot-and-restore/"
+    },
+    {
         "title": "Incremental refresh for Amazon Redshift materialized views on data lake tables",
         "link": "https://aws.amazon.com/blogs/big-data/incremental-refresh-for-amazon-redshift-materialized-views-on-data-lake-tables/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Control your AWS Glue Studio development interface with AWS Glue job mode API property",
         "link": "https://aws.amazon.com/blogs/big-data/control-your-aws-glue-studio-development-interface-with-aws-glue-job-mode-api-property/"
-    },
-    {
-        "title": "How BMW streamlined data access using AWS Lake Formation fine-grained access control",
-        "link": "https://aws.amazon.com/blogs/big-data/how-bmw-streamlined-data-access-using-aws-lake-formation-fine-grained-access-control/"
-    },
-    {
-        "title": "Analyze Amazon EMR on Amazon EC2 cluster usage with Amazon Athena and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/big-data/analyze-amazon-emr-on-amazon-ec2-cluster-usage-with-amazon-athena-and-amazon-quicksight/"
     }
 ]

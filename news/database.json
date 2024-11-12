@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building a GDPR compliance solution with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/building-a-gdpr-compliance-solution-with-amazon-dynamodb/"
+    },
+    {
+        "title": "Heterogenous data sources: Access your data in PostgreSQL from Amazon RDS for Oracle using Oracle Database Gateway",
+        "link": "https://aws.amazon.com/blogs/database/heterogenous-data-sources-access-your-data-in-postgresql-from-amazon-rds-for-oracle-using-oracle-database-gateway/"
+    },
+    {
+        "title": "Capture and diagnose I/O bottlenecks on Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/capture-and-diagnose-i-o-bottlenecks-on-amazon-rds-for-sql-server/"
+    },
+    {
         "title": "Know before you go: Amazon DynamoDB sessions at AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/database/know-before-you-go-amazon-dynamodb-sessions-at-aws-reinvent-2024/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Embed textual data in Amazon RDS for SQL Server using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/embed-textual-data-in-amazon-rds-for-sql-server-using-amazon-bedrock/"
-    },
-    {
-        "title": "Modernize your legacy databases with AWS data lakes, Part 1: Migrate SQL Server using AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/modernize-your-legacy-databases-with-aws-data-lakes-part-1-migrate-sql-server-using-aws-dms/"
-    },
-    {
-        "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 3",
-        "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-3/"
-    },
-    {
-        "title": "Performance testing MySQL migration environments using query playback and traffic mirroring \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/database/performance-testing-mysql-migration-environments-using-query-playback-and-traffic-mirroring-part-2/"
     }
 ]

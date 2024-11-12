@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building your digital twin solution using the Digital Twin Framework on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/building-your-digital-twin-solution-using-the-digital-twin-framework-on-aws/"
+    },
+    {
         "title": "Cross-account HPC cluster monitoring using Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/hpc/cross-account-hpc-cluster-monitoring-using-amazon-eventbridge/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Electronic design at the speed of Lightmatter: transforming EDA workloads with RES",
         "link": "https://aws.amazon.com/blogs/hpc/electronic-design-at-the-speed-of-lightmatter-transforming-eda-workloads-with-res/"
-    },
-    {
-        "title": "You told us we needed to re-think HPC in the cloud. So we did.",
-        "link": "https://aws.amazon.com/blogs/hpc/you-told-us-we-needed-to-re-think-hpc-in-the-cloud-so-we-did/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "How an insurance company implements disaster recovery of 3-tier applications",
+        "link": "https://aws.amazon.com/blogs/architecture/how-an-insurance-company-implements-disaster-recovery-of-3-tier-applications/"
+    },
+    {
+        "title": "How to build custom nodes workflow with ComfyUI on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-to-build-custom-nodes-workflow-with-comfyui-on-amazon-eks/"
+    },
+    {
         "title": "Announcing updates to the AWS Well-Architected Framework guidance",
         "link": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-3/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Genomics workflows, Part 7: analyze public RNA sequencing data using AWS HealthOmics",
         "link": "https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/"
-    },
-    {
-        "title": "Let\u2019s Architect! Learn About Machine Learning on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/"
-    },
-    {
-        "title": "Deploy Stable Diffusion ComfyUI on AWS elastically and efficiently",
-        "link": "https://aws.amazon.com/blogs/architecture/deploy-stable-diffusion-comfyui-on-aws-elastically-and-efficiently/"
     }
 ]
