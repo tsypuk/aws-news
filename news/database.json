@@ -1,11 +1,23 @@
 [
     {
+        "title": "Understanding time-series data and why it matters",
+        "link": "https://aws.amazon.com/blogs/database/understanding-time-series-data-and-why-it-matters/"
+    },
+    {
+        "title": "Build scalable, event-driven architectures with Amazon DynamoDB and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/database/build-scalable-event-driven-architectures-with-amazon-dynamodb-and-aws-lambda/"
+    },
+    {
+        "title": "Use Amazon ElastiCache as a cache for Amazon Keyspaces (for Apache Cassandra)",
+        "link": "https://aws.amazon.com/blogs/database/use-amazon-elasticache-as-a-cache-for-amazon-keyspaces-for-apache-cassandra/"
+    },
+    {
         "title": "Building a GDPR compliance solution with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/building-a-gdpr-compliance-solution-with-amazon-dynamodb/"
     },
     {
-        "title": "Heterogenous data sources: Access your data in PostgreSQL from Amazon RDS for Oracle using Oracle Database Gateway",
-        "link": "https://aws.amazon.com/blogs/database/heterogenous-data-sources-access-your-data-in-postgresql-from-amazon-rds-for-oracle-using-oracle-database-gateway/"
+        "title": "Heterogeneous data sources: Access your data in PostgreSQL from Amazon RDS for Oracle using Oracle Database Gateway",
+        "link": "https://aws.amazon.com/blogs/database/heterogeneous-data-sources-access-your-data-in-postgresql-from-amazon-rds-for-oracle-using-oracle-database-gateway/"
     },
     {
         "title": "Capture and diagnose I/O bottlenecks on Amazon RDS for SQL Server",
@@ -66,17 +78,5 @@
     {
         "title": "Load vector embeddings up to 67x faster with pgvector and Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/load-vector-embeddings-up-to-67x-faster-with-pgvector-and-amazon-aurora/"
-    },
-    {
-        "title": "How Dafiti migrated its most critical database to Amazon Aurora MySQL with minimal downtime and improved operational efficiency",
-        "link": "https://aws.amazon.com/blogs/database/how-dafiti-migrated-its-most-critical-database-to-amazon-aurora-mysql-with-minimal-downtime-and-improved-operational-efficiency/"
-    },
-    {
-        "title": "Build a streaming ETL pipeline on Amazon RDS using Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/database/build-a-streaming-etl-pipeline-on-amazon-rds-using-amazon-msk/"
-    },
-    {
-        "title": "Embed textual data in Amazon RDS for SQL Server using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/embed-textual-data-in-amazon-rds-for-sql-server-using-amazon-bedrock/"
     }
 ]

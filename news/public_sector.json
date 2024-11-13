@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using Login.gov as an OIDC IdP with Amazon Cognito user pools",
+        "link": "https://aws.amazon.com/blogs/publicsector/using-login-gov-as-an-oidc-idp-with-amazon-cognito-user-pools/"
+    },
+    {
+        "title": "Using AWS CDK to build an extensible file-scanning solution for Amazon S3 buckets",
+        "link": "https://aws.amazon.com/blogs/publicsector/using-aws-cdk-to-build-an-extensible-file-scanning-solution-for-amazon-s3-buckets/"
+    },
+    {
         "title": "The key components of CISA\u2019s Malcolm on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/publicsector/the-key-components-of-cisas-malcolm-on-amazon-eks/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Microservices-based tax and labor systems using AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/microservices-based-tax-and-labor-systems-using-aws/"
-    },
-    {
-        "title": "DoSomething\u2019s journey with AWS brings efficiency, scalability",
-        "link": "https://aws.amazon.com/blogs/publicsector/dosomethings-journey-with-aws-brings-efficiency-scalability/"
-    },
-    {
-        "title": "University Hospitals Coventry and Warwickshire NHS Trust digitizes and improves patient experience with AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/university-hospitals-coventry-and-warwickshire-nhs-trust-digitizes-and-improves-patient-experience-with-aws/"
     }
 ]

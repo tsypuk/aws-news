@@ -1,5 +1,9 @@
 [
     {
+        "title": "Leveraging existing tagging strategies for Application Operations",
+        "link": "https://aws.amazon.com/blogs/mt/leveraging-existing-tagging-strategies-for-application-operations/"
+    },
+    {
         "title": "How Cigna Implemented a Multi-Region Centralized Alerting System on AWS",
         "link": "https://aws.amazon.com/blogs/mt/how-cigna-implemented-a-multi-region-centralized-alerting-system-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating metrics collection on Amazon EKS with Amazon Managed Service for Prometheus managed scrapers",
         "link": "https://aws.amazon.com/blogs/mt/automating-metrics-collection-on-amazon-eks-with-amazon-managed-service-for-prometheus-managed-scrapers/"
-    },
-    {
-        "title": "Ingesting administrative logs from Microsoft Azure to AWS CloudTrail Lake",
-        "link": "https://aws.amazon.com/blogs/mt/ingesting-administrative-logs-from-microsoft-azure-to-aws-cloudtrail-lake/"
     }
 ]

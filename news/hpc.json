@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing compute-intensive tasks on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/optimizing-compute-intensive-tasks-on-aws/"
+    },
+    {
         "title": "Building your digital twin solution using the Digital Twin Framework on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/building-your-digital-twin-solution-using-the-digital-twin-framework-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing HPC on AWS \u2013 isolated clusters",
         "link": "https://aws.amazon.com/blogs/hpc/securing-hpc-on-aws-isolated-clusters/"
-    },
-    {
-        "title": "Electronic design at the speed of Lightmatter: transforming EDA workloads with RES",
-        "link": "https://aws.amazon.com/blogs/hpc/electronic-design-at-the-speed-of-lightmatter-transforming-eda-workloads-with-res/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Wickr recognized in The Forrester Wave for Secure Communications Solutions",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-wickr-recognized-in-the-forrester-wave-for-secure-communications-solutions/"
+    },
+    {
         "title": "Build a Two-Way Email-to-SMS Service with Amazon SES and Amazon End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-a-two-way-email-to-sms-service-with-amazon-ses-and-amazon-end-user-messaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing Email Deliverability: A User-Centric Approach to List Management and Monitoring",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/optimizing-email-deliverability-a-user-centric-approach-to-list-management-and-monitoring/"
-    },
-    {
-        "title": "How to enable one-click unsubscribe email with Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-enable-one-click-unsubscribe-email-with-amazon-pinpoint/"
     }
 ]
