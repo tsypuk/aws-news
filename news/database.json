@@ -1,5 +1,13 @@
 [
     {
+        "title": "Pre-warming Amazon DynamoDB tables with warm throughput",
+        "link": "https://aws.amazon.com/blogs/database/pre-warming-amazon-dynamodb-tables-with-warm-throughput/"
+    },
+    {
+        "title": "Automate the deployment of Amazon RDS for Db2 Instances with Terraform",
+        "link": "https://aws.amazon.com/blogs/database/automate-the-deployment-of-amazon-rds-for-db2-instances-with-terraform/"
+    },
+    {
         "title": "Understanding time-series data and why it matters",
         "link": "https://aws.amazon.com/blogs/database/understanding-time-series-data-and-why-it-matters/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use a DAO to govern LLM training data, Part 2: The smart contract",
         "link": "https://aws.amazon.com/blogs/database/part-2-use-a-dao-to-govern-llm-training-data-the-smart-contract/"
-    },
-    {
-        "title": "Use a DAO to govern LLM training data, Part 1: Retrieval Augmented Generation",
-        "link": "https://aws.amazon.com/blogs/database/part-1-use-a-dao-to-govern-llm-training-data-retrieval-augmented-generation/"
-    },
-    {
-        "title": "Load vector embeddings up to 67x faster with pgvector and Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/load-vector-embeddings-up-to-67x-faster-with-pgvector-and-amazon-aurora/"
     }
 ]
