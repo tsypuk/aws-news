@@ -1,5 +1,21 @@
 [
     {
+        "title": "Unveiling the Power of Full-Stack Observability",
+        "link": "https://aws.amazon.com/blogs/apn/unveiling-the-power-of-full-stack-observability/"
+    },
+    {
+        "title": "Accelerate your Data Unification and Customer-360 Journey with Cognizant Data Unification Framework on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/accelerate-your-data-unification-and-customer-360-journey-with-cognizant-data-unification-framework-on-aws/"
+    },
+    {
+        "title": "Accelerate Microsoft Workload Modernization on AWS with Softchoice",
+        "link": "https://aws.amazon.com/blogs/apn/accelerate-microsoft-workload-modernization-on-aws-with-softchoice/"
+    },
+    {
+        "title": "Benefits of Productizing Camunda BPM on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/benefits-of-productizing-camunda-bpm-on-aws/"
+    },
+    {
         "title": "Zero to generative AI with Databricks and AWS",
         "link": "https://aws.amazon.com/blogs/apn/zero-to-generative-ai-with-databricks-and-aws/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "CrowdStrike\u2019s Charlotte AI \u2013 Enhancing productivity of Cyber Security Analysts with Generative AI built-on AWS",
         "link": "https://aws.amazon.com/blogs/apn/crowdstrike-charlotte-ai-generative-ai-on-aws/"
-    },
-    {
-        "title": "Building an end-to-end DevSecOps CI/CD pipeline with DXC\u2019s Continuous Delivery Express solution",
-        "link": "https://aws.amazon.com/blogs/apn/building-an-end-to-end-devsecops-ci-cd-pipeline-with-dxcs-continuous-delivery-express-solution/"
-    },
-    {
-        "title": "Scaling AWS multi-region and account logs delivery to Grafana Cloud",
-        "link": "https://aws.amazon.com/blogs/apn/scaling-aws-multi-region-and-account-logs-delivery-to-grafana-cloud/"
-    },
-    {
-        "title": "Leveraging API Gateway Lambda Authorizer for Securing your APIs with Okta FGA",
-        "link": "https://aws.amazon.com/blogs/apn/leveraging-api-gateway-lambda-authorizer-for-securing-your-apis-with-okta-fga/"
-    },
-    {
-        "title": "Fuel Generative AI Success: Building Robust Data Foundation with AWS Partners",
-        "link": "https://aws.amazon.com/blogs/apn/fuel-generative-ai-success-building-robust-data-foundation-with-aws-partners/"
     }
 ]

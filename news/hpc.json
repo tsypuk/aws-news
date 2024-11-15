@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve engineering productivity using AWS Engineering License Management",
+        "link": "https://aws.amazon.com/blogs/hpc/improve-engineering-productivity-using-aws-engineering-license-management/"
+    },
+    {
         "title": "Optimizing compute-intensive tasks on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/optimizing-compute-intensive-tasks-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Whisper audio transcription powered by AWS Batch and AWS Inferentia",
         "link": "https://aws.amazon.com/blogs/hpc/whisper-audio-transcription-powered-by-aws-batch-and-aws-inferentia/"
-    },
-    {
-        "title": "Securing HPC on AWS \u2013 isolated clusters",
-        "link": "https://aws.amazon.com/blogs/hpc/securing-hpc-on-aws-isolated-clusters/"
     }
 ]

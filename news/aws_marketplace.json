@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrate your CRM system with AWS Partner Central using the AWS Partner Central API for Selling",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/integrate-crm-system-aws-partner-central-using-api-for-selling/"
+    },
+    {
         "title": "Traffic inspection on AWS Outposts rack with FortiGate Next-Generation Firewall",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/traffic-inspection-on-aws-outposts-rack-with-fortigate-next-generation-firewall/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining AWS Marketplace Catalog API Integration",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/streamlining-aws-marketplace-catalog-api-integration/"
-    },
-    {
-        "title": "How to access AWS Data Exchange data products without owning an AWS account",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-access-aws-data-exchange-data-products-without-owning-an-aws-account/"
     }
 ]

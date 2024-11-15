@@ -1,5 +1,21 @@
 [
     {
+        "title": "Know Before You Go \u2013 AWS re:Invent 2024 Cloud Governance and Compliance",
+        "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2024-cloud-governance-and-compliance/"
+    },
+    {
+        "title": "Operations re:Imagined \u2013 Know Before You Go \u2013 AWS re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/mt/operations-reimagined-know-before-you-go-aws-reinvent-2024/"
+    },
+    {
+        "title": "Know Before You Go \u2013 AWS re:Invent 2024 Monitoring and Observability",
+        "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2024-monitoring-and-observability/"
+    },
+    {
+        "title": "Automate creating and onboarding applications with AWS CloudFormation tags and myApplications",
+        "link": "https://aws.amazon.com/blogs/mt/automate-creating-and-onboarding-applications-with-aws-cloudformation-tags-and-myapplications/"
+    },
+    {
         "title": "Leveraging existing tagging strategies for Application Operations",
         "link": "https://aws.amazon.com/blogs/mt/leveraging-existing-tagging-strategies-for-application-operations/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Bootstrap your chaos engineering journey with AWS Fault Injection Service Scenarios Library",
         "link": "https://aws.amazon.com/blogs/mt/bootstrap-your-chaos-engineering-journey-with-aws-fault-injection-service-scenarios-library/"
-    },
-    {
-        "title": "Managing access to AWS accounts from Microsoft Teams and Slack at scale using AWS Organizations and AWS Chatbot",
-        "link": "https://aws.amazon.com/blogs/mt/managing-access-to-aws-accounts-from-microsoft-teams-and-slack-at-scale-using-aws-organizations-and-aws-chatbot/"
-    },
-    {
-        "title": "Accelerating migrations and IT Tasks for DKB using AWS Systems Manager",
-        "link": "https://aws.amazon.com/blogs/mt/accelerating-migrations-and-it-tasks-for-dkb-using-aws-systems-manager/"
-    },
-    {
-        "title": "Centrally detect and investigate security findings with AWS Organizations integrations",
-        "link": "https://aws.amazon.com/blogs/mt/centrally-detect-and-investigate-security-findings-with-aws-organizations-integrations/"
-    },
-    {
-        "title": "Automating metrics collection on Amazon EKS with Amazon Managed Service for Prometheus managed scrapers",
-        "link": "https://aws.amazon.com/blogs/mt/automating-metrics-collection-on-amazon-eks-with-amazon-managed-service-for-prometheus-managed-scrapers/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Python 3.13 runtime now available in AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/python-3-13-runtime-now-available-in-aws-lambda/"
+    },
+    {
         "title": "Reduce your Microsoft licensing costs by upgrading to 4th generation AMD processors",
         "link": "https://aws.amazon.com/blogs/compute/reduce-your-microsoft-licensing-costs-by-upgrading-to-4th-generation-amd-processors/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrating your on-premises workloads to AWS Outposts rack",
         "link": "https://aws.amazon.com/blogs/compute/migrating-your-on-premises-workloads-to-aws-outposts-rack/"
-    },
-    {
-        "title": "Introducing quorum queues on Amazon MQ for RabbitMQ",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-quorum-queues-on-amazon-mq-for-rabbitmq/"
     }
 ]

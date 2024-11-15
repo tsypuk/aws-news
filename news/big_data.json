@@ -1,5 +1,17 @@
 [
     {
+        "title": "Your guide to AWS Analytics at AWS re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-aws-reinvent-2024/"
+    },
+    {
+        "title": "Ingest telemetry messages in near real time with Amazon API Gateway, Amazon Data Firehose, and Amazon Location Service",
+        "link": "https://aws.amazon.com/blogs/big-data/ingest-telemetry-messages-in-near-real-time-with-amazon-api-gateway-amazon-data-firehose-and-amazon-location-service/"
+    },
+    {
+        "title": "Expand data access through Apache Iceberg using Delta Lake UniForm on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/expand-data-access-through-apache-iceberg-using-delta-lake-uniform-on-aws/"
+    },
+    {
         "title": "How Volkswagen Autoeuropa built a data solution with a robust governance framework, simplifying access to quality data using Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/how-volkswagen-autoeuropa-built-a-data-solution-with-a-robust-governance-framework-simplifying-access-to-quality-data-using-amazon-datazone/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Expanding data analysis and visualization options: Amazon DataZone now integrates with Tableau, Power BI, and more",
         "link": "https://aws.amazon.com/blogs/big-data/expanding-data-analysis-and-visualization-options-amazon-datazone-now-integrates-with-tableau-power-bi-and-more/"
-    },
-    {
-        "title": "Modernize your legacy databases with AWS data lakes, Part 3: Build a data lake processing layer",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-your-legacy-databases-with-aws-data-lakes-part-3-build-a-data-lake-processing-layer/"
-    },
-    {
-        "title": "Modernize your legacy databases with AWS data lakes, Part 2: Build a data lake using AWS DMS data on Apache Iceberg",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-your-legacy-databases-with-aws-data-lakes-part-2-build-a-data-lake-using-aws-dms-data-on-apache-iceberg/"
-    },
-    {
-        "title": "Simplify data ingestion from Amazon S3 to Amazon Redshift using auto-copy",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-ingestion-from-amazon-s3-to-amazon-redshift-using-auto-copy/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Benchmark Amazon RDS for PostgreSQL with Dedicated Log Volumes",
+        "link": "https://aws.amazon.com/blogs/database/benchmark-amazon-rds-for-postgresql-with-dedicated-log-volumes/"
+    },
+    {
+        "title": "New \u2013 Amazon DynamoDB lowers pricing for on-demand throughput and global tables",
+        "link": "https://aws.amazon.com/blogs/database/new-amazon-dynamodb-lowers-pricing-for-on-demand-throughput-and-global-tables/"
+    },
+    {
         "title": "Pre-warming Amazon DynamoDB tables with warm throughput",
         "link": "https://aws.amazon.com/blogs/database/pre-warming-amazon-dynamodb-tables-with-warm-throughput/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use a DAO to govern LLM training data, Part 4: MetaMask authentication",
         "link": "https://aws.amazon.com/blogs/database/part-4-use-a-dao-to-govern-llm-training-data-metamask-authentication/"
-    },
-    {
-        "title": "Use a DAO to govern LLM training data, Part 3: From IPFS to the knowledge base",
-        "link": "https://aws.amazon.com/blogs/database/part-3-use-a-dao-to-govern-llm-training-data-from-ipfs-to-the-knowledge-base/"
-    },
-    {
-        "title": "Use a DAO to govern LLM training data, Part 2: The smart contract",
-        "link": "https://aws.amazon.com/blogs/database/part-2-use-a-dao-to-govern-llm-training-data-the-smart-contract/"
     }
 ]
