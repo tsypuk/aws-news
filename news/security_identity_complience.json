@@ -1,5 +1,13 @@
 [
     {
+        "title": "Secure by Design: AWS enhances centralized security controls as MFA requirements expand",
+        "link": "https://aws.amazon.com/blogs/security/secure-by-design-aws-enhances-centralized-security-controls-as-mfa-requirements-expand/"
+    },
+    {
+        "title": "Updated whitepaper: Architecting for PCI DSS Segmentation and Scoping on AWS",
+        "link": "https://aws.amazon.com/blogs/security/updated-whitepaper-architecting-for-pci-dss-segmentation-and-scoping-on-aws/"
+    },
+    {
         "title": "Discover duplicate AWS Config rules for streamlined compliance",
         "link": "https://aws.amazon.com/blogs/security/discover-duplicate-aws-config-rules-for-streamlined-compliance/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain",
         "link": "https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/"
-    },
-    {
-        "title": "Strengthening security in the era of generative AI: Must-attend sessions at re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/security/strengthening-security-in-the-era-of-generative-ai-must-attend-sessions-at-reinvent-2024/"
-    },
-    {
-        "title": "How AWS uses active defense to help protect customers from security threats",
-        "link": "https://aws.amazon.com/blogs/security/how-aws-uses-active-defense-to-help-protect-customers-from-security-threats/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "MultiXacts in PostgreSQL: usage, side effects, and monitoring",
+        "link": "https://aws.amazon.com/blogs/database/multixacts-in-postgresql-usage-side-effects-and-monitoring/"
+    },
+    {
+        "title": "Optimize your database storage for Oracle workloads on AWS, Part 2: Using hybrid partitioning and ILM data movement policies",
+        "link": "https://aws.amazon.com/blogs/database/optimize-your-database-storage-for-oracle-workloads-on-aws-part-2-using-hybrid-partitioning-and-ilm-data-movement-policies/"
+    },
+    {
+        "title": "Optimize your database storage for Oracle workloads on AWS, Part 1: Using ADO and ILM data compression policies",
+        "link": "https://aws.amazon.com/blogs/database/optimize-your-database-storage-for-oracle-workloads-on-aws-part-1-using-ado-and-ilm-data-compression-policies/"
+    },
+    {
         "title": "Benchmark Amazon RDS for PostgreSQL with Dedicated Log Volumes",
         "link": "https://aws.amazon.com/blogs/database/benchmark-amazon-rds-for-postgresql-with-dedicated-log-volumes/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize Amazon Aurora PostgreSQL auto scaling performance with automated cache pre-warming",
         "link": "https://aws.amazon.com/blogs/database/optimize-amazon-aurora-postgresql-auto-scaling-performance-with-automated-cache-pre-warming/"
-    },
-    {
-        "title": "Amazon DynamoDB data models for generative AI chatbots",
-        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-data-models-for-generative-ai-chatbots/"
-    },
-    {
-        "title": "Build a scalable, context-aware chatbot with Amazon DynamoDB, Amazon Bedrock, and LangChain",
-        "link": "https://aws.amazon.com/blogs/database/build-a-scalable-context-aware-chatbot-with-amazon-dynamodb-amazon-bedrock-and-langchain/"
-    },
-    {
-        "title": "Use a DAO to govern LLM training data, Part 4: MetaMask authentication",
-        "link": "https://aws.amazon.com/blogs/database/part-4-use-a-dao-to-govern-llm-training-data-metamask-authentication/"
     }
 ]

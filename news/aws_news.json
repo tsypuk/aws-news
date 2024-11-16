@@ -1,5 +1,13 @@
 [
     {
+        "title": "Replicate changes from databases to Apache Iceberg tables using Amazon Data Firehose (in preview)",
+        "link": "https://aws.amazon.com/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/"
+    },
+    {
+        "title": "Centrally managing root access for customers using AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/aws/centrally-managing-root-access-for-customers-using-aws-organizations/"
+    },
+    {
         "title": "Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Weekly Roundup: What\u2019s App, AWS Lambda, Load Balancers, AWS Console, and more (Oct 14, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-app-aws-lambda-load-balancers-aws-console-and-more-oct-14-2024/"
-    },
-    {
-        "title": "Convert AWS console actions to reusable code with AWS Console-to-Code, now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/convert-aws-console-actions-to-reusable-code-with-aws-console-to-code-now-generally-available/"
-    },
-    {
-        "title": "AWS Weekly Roundup: HIPAA eligible with Amazon Q Business, Amazon DCV, AWS re:Post Agent, and more (Oct 07, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-is-hipaa-eligible-amazon-dcv-aws-repost-agent-and-more-oct-07-2024/"
     }
 ]

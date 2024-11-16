@@ -1,5 +1,17 @@
 [
     {
+        "title": "Implementing a unified search platform for educational content on Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/publicsector/implementing-a-unified-search-platform-for-educational-content-on-amazon-opensearch-service/"
+    },
+    {
+        "title": "How AWS can help mission-focused organizations comply with the White House National Security Memorandum on AI",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-aws-can-help-mission-focused-organizations-comply-with-the-white-house-national-security-memorandum-on-ai/"
+    },
+    {
+        "title": "Simplify satellite contact reporting with the AWS Ground Station contacts dashboard",
+        "link": "https://aws.amazon.com/blogs/publicsector/simplify-satellite-contact-reporting-with-the-aws-ground-station-contacts-dashboard/"
+    },
+    {
         "title": "Building a Scalable and Secure FedRAMP-Compliant Cloud Environment: Socure\u2019s Proven Strategies with AWS and Complementary Tools",
         "link": "https://aws.amazon.com/blogs/publicsector/building-a-scalable-and-secure-fedramp-compliant-cloud-environment-socures-proven-strategies-with-aws-and-complementary-tools/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Battling the food security crisis with Agents for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/battling-the-food-security-crisis-with-agents-for-amazon-bedrock/"
-    },
-    {
-        "title": "Using ArcGIS GeoAnalytics Engine on Amazon EMR to predict rideshare demand",
-        "link": "https://aws.amazon.com/blogs/publicsector/using-arcgis-geoanalytics-engine-on-amazon-emr-to-predict-rideshare-demand/"
-    },
-    {
-        "title": "4 common IoT protocols and their security considerations",
-        "link": "https://aws.amazon.com/blogs/publicsector/4-common-iot-protocols-and-their-security-considerations/"
-    },
-    {
-        "title": "Streamlining educational assessment tools with generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/streamlining-educational-assessment-tools-with-generative-ai-on-aws/"
     }
 ]
