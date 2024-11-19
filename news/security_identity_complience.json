@@ -1,5 +1,9 @@
 [
     {
+        "title": "Threat modeling your generative AI workload to evaluate security risk",
+        "link": "https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/"
+    },
+    {
         "title": "Secure by Design: AWS enhances centralized security controls as MFA requirements expand",
         "link": "https://aws.amazon.com/blogs/security/secure-by-design-aws-enhances-centralized-security-controls-as-mfa-requirements-expand/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Options for AWS customers who use Entrust-issued certificates",
         "link": "https://aws.amazon.com/blogs/security/options-for-aws-customers-who-use-entrust-issued-certificates/"
-    },
-    {
-        "title": "An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain",
-        "link": "https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/"
     }
 ]

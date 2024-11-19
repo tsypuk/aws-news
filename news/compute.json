@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using zonal shift with Amazon EC2 Auto Scaling",
+        "link": "https://aws.amazon.com/blogs/compute/using-zonal-shift-with-amazon-ec2-auto-scaling/"
+    },
+    {
         "title": "Python 3.13 runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/python-3-13-runtime-now-available-in-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Amazon APerf to go from 50% below to 36% above performance target",
         "link": "https://aws.amazon.com/blogs/compute/using-amazon-aperf-to-go-from-50-below-to-36-above-performance-target/"
-    },
-    {
-        "title": "Migrating your on-premises workloads to AWS Outposts rack",
-        "link": "https://aws.amazon.com/blogs/compute/migrating-your-on-premises-workloads-to-aws-outposts-rack/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EKS enhances Kubernetes control plane observability",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-enhances-kubernetes-control-plane-observability/"
+    },
+    {
         "title": "Amazon EKS and Kubernetes sessions at AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Inside Pinterest\u2019s Custom Spark Job logging and monitoring on Amazon EKS: Using AWS for Fluent Bit, Amazon S3, and ADOT",
         "link": "https://aws.amazon.com/blogs/containers/inside-pinterests-custom-spark-job-logging-and-monitoring-on-amazon-eks-using-aws-for-fluent-bit-amazon-s3-and-adot/"
-    },
-    {
-        "title": "Automating custom Amazon EKS worker node builds using EC2 Image Builder",
-        "link": "https://aws.amazon.com/blogs/containers/automating-custom-amazon-eks-worker-node-builds-using-ec2-image-builder/"
     }
 ]

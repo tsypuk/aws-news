@@ -1,5 +1,9 @@
 [
     {
+        "title": "Manage AMI updates for AWS Auto Scaling groups with AWS Lambda and AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/mt/manage-ami-updates-for-aws-auto-scaling-groups-with-aws-lambda-and-aws-systems-manager/"
+    },
+    {
         "title": "Know Before You Go \u2013 AWS re:Invent 2024 Cloud Governance and Compliance",
         "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2024-cloud-governance-and-compliance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhanced dashboard, latency suggestions in Amazon CloudWatch Internet Monitor",
         "link": "https://aws.amazon.com/blogs/mt/enhanced-dashboard-latency-suggestions-in-amazon-cloudwatch-internet-monitor/"
-    },
-    {
-        "title": "Bootstrap your chaos engineering journey with AWS Fault Injection Service Scenarios Library",
-        "link": "https://aws.amazon.com/blogs/mt/bootstrap-your-chaos-engineering-journey-with-aws-fault-injection-service-scenarios-library/"
     }
 ]

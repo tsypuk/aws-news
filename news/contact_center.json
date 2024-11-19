@@ -1,5 +1,13 @@
 [
     {
+        "title": "Transform customer data into personalized customer experiences with Amazon Connect Customer Profiles and Outbound Campaigns",
+        "link": "https://aws.amazon.com/blogs/contact-center/transform-customer-data-into-personalized-customer-experiences-with-amazon-connect-customer-profiles-and-outbound-campaigns/"
+    },
+    {
+        "title": "Announcing: Proactive communications with outbound campaigns and Customer Profiles in Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/announcing-proactive-communications-with-outbound-campaigns-and-customer-profiles-in-amazon-connect/"
+    },
+    {
         "title": "Generative AI unlocks 60% faster Japanese VoC analysis with Amazon Connect Contact Lens",
         "link": "https://aws.amazon.com/blogs/contact-center/anax-generative-ai-unlocks-faster-voc-analysis-amazon-connect/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enabling generative AI for better customer experience can be easy with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/enabling-generative-ai-for-better-customer-experience-can-be-easy-with-amazon-connect/"
-    },
-    {
-        "title": "CX Insights \u2013 Generative AI delivering results now",
-        "link": "https://aws.amazon.com/blogs/contact-center/cx-gen-ai-delivering-results-now/"
-    },
-    {
-        "title": "Manage cancelled callback to reduce agent handle time with Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/manage-cancelled-callback-to-reduce-agent-handle-time-with-amazon-connect/"
     }
 ]

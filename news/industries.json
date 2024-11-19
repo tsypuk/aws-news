@@ -1,5 +1,21 @@
 [
     {
+        "title": "Transforming industrial decision making with AWS IoT SiteWise Assistant",
+        "link": "https://aws.amazon.com/blogs/industries/transforming-industrial-decision-making-with-aws-iot-sitewise-assistant/"
+    },
+    {
+        "title": "Upbound Group builds its modernized point-of-sale platform on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/upbound-group-builds-its-modernized-point-of-sale-platform-on-aws/"
+    },
+    {
+        "title": "Unleashing sustainable potential: harnessing machine learning on AWS for optimal energy usage",
+        "link": "https://aws.amazon.com/blogs/industries/unleashing-sustainable-potential-harnessing-machine-learning-on-aws-for-optimal-energy-usage/"
+    },
+    {
+        "title": "Boost home heating efficiency: Connecting millions of smart radiator thermostats via AWS IoT Core for LoRaWAN",
+        "link": "https://aws.amazon.com/blogs/industries/boost-home-heating-efficiency-connecting-millions-of-smart-radiator-thermostats-via-aws-iot-core-for-lorawan/"
+    },
+    {
         "title": "Gentrack helps utilities cut meter data processing time by 25% on AWS",
         "link": "https://aws.amazon.com/blogs/industries/gentrack-helps-utilities-cut-meter-data-processing-time-by-25-on-aws/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "MAN Truck Configurator: Journey to the AWS cloud",
         "link": "https://aws.amazon.com/blogs/industries/man-truck-configurator-journey-to-the-aws-cloud/"
-    },
-    {
-        "title": "Unlock new capabilities from product images using generative AI",
-        "link": "https://aws.amazon.com/blogs/industries/unlock-new-capabilities-from-product-images-using-generative-ai/"
-    },
-    {
-        "title": "Orchestrating Clinical Generative AI Workflows Using AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/industries/orchestrating-clinical-generative-ai-workflows-using-aws-step-functions/"
-    },
-    {
-        "title": "Iterable close the Last Mile gap with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/iterable-close-the-last-mile-gap-with-amazon-bedrock/"
-    },
-    {
-        "title": "How Amazon built a highly scalable and secure tokenization solution on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-amazon-built-a-highly-scalable-and-secure-tokenization-solution-on-aws/"
     }
 ]

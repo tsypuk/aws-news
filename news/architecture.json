@@ -1,5 +1,9 @@
 [
     {
+        "title": "Know before you go \u2013 AWS re:Invent 2024 cloud resilience",
+        "link": "https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2024-cloud-resilience/"
+    },
+    {
         "title": "How an insurance company implements disaster recovery of 3-tier applications",
         "link": "https://aws.amazon.com/blogs/architecture/how-an-insurance-company-implements-disaster-recovery-of-3-tier-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Let\u2019s Architect! Migrating to the cloud with AWS",
         "link": "https://aws.amazon.com/blogs/architecture/lets-architect-migrating-to-the-cloud-with-aws/"
-    },
-    {
-        "title": "Genomics workflows, Part 7: analyze public RNA sequencing data using AWS HealthOmics",
-        "link": "https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Streamline container application networking with built-in Amazon ECS support in Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/aws/streamline-container-application-networking-with-native-amazon-ecs-support-in-amazon-vpc-lattice/"
+    },
+    {
+        "title": "AWS Lambda SnapStart for Python and .NET functions is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/aws-lambda-snapstart-for-python-and-net-functions-is-now-generally-available/"
+    },
+    {
+        "title": "Build and modify apps using natural language with AWS App Studio, now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/build-and-modify-apps-using-natural-language-with-aws-app-studio-now-generally-available/"
+    },
+    {
+        "title": "AWS Lambda turns ten \u2013 looking back and looking ahead",
+        "link": "https://aws.amazon.com/blogs/aws/aws-lambda-turns-ten-the-first-decade-of-serverless-innovation/"
+    },
+    {
+        "title": "AWS Weekly Roundup: AWS BuilderCards at re:Invent 2024, AWS Community Day, Amazon Bedrock, vector databases, and more (Nov 18, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-buildercards-at-reinvent-2024-aws-community-day-amazon-bedrock-vector-databases-and-more-nov-18-2024/"
+    },
+    {
         "title": "Replicate changes from databases to Apache Iceberg tables using Amazon Data Firehose (in preview)",
         "link": "https://aws.amazon.com/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "AWS Weekly Roundup: New code editor in AWS Lambda console, Amazon Q Business analytics, Claude 3.5 upgrades, and more (October 28, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-code-editor-in-aws-lambda-console-amazon-q-business-analytics-claude-3-5-upgrades-and-more-october-28-2024/"
-    },
-    {
-        "title": "EC2 Image Builder now supports building and testing macOS images",
-        "link": "https://aws.amazon.com/blogs/aws/ec2-image-builder-now-supports-building-and-testing-macos-images/"
-    },
-    {
-        "title": "Announcing three new capabilities for the Claude 3.5 model family in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/upgraded-claude-3-5-sonnet-from-anthropic-available-now-computer-use-public-beta-and-claude-3-5-haiku-coming-soon-in-amazon-bedrock/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Agentic workflows, Amazon Transcribe, AWS Lambda insights, and more (October 21, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-workflows-amazon-transcribe-aws-lambda-insights-and-more-october-21-2024/"
-    },
-    {
-        "title": "Amazon Aurora PostgreSQL and Amazon DynamoDB zero-ETL integrations with Amazon Redshift now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-and-amazon-dynamodb-zero-etl-integrations-with-amazon-redshift-now-generally-available/"
-    },
-    {
-        "title": "AWS Weekly Roundup: What\u2019s App, AWS Lambda, Load Balancers, AWS Console, and more (Oct 14, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-app-aws-lambda-load-balancers-aws-console-and-more-oct-14-2024/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Coinbase provides trustworthy financial experiences through real-time user clustering with Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/how-coinbase-provides-trustworthy-financial-experiences-through-real-time-user-clustering-with-amazon-neptune/"
+    },
+    {
+        "title": "Using attribute-based access control for tag-based access authorization with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/using-attribute-based-access-control-for-tag-based-access-authorization-with-amazon-dynamodb/"
+    },
+    {
         "title": "MultiXacts in PostgreSQL: usage, side effects, and monitoring",
         "link": "https://aws.amazon.com/blogs/database/multixacts-in-postgresql-usage-side-effects-and-monitoring/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 2: Streams",
         "link": "https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-2-streams/"
-    },
-    {
-        "title": "How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 1: Motivation and approaches",
-        "link": "https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-1-motivation-and-approaches/"
-    },
-    {
-        "title": "Optimize Amazon Aurora PostgreSQL auto scaling performance with automated cache pre-warming",
-        "link": "https://aws.amazon.com/blogs/database/optimize-amazon-aurora-postgresql-auto-scaling-performance-with-automated-cache-pre-warming/"
     }
 ]
