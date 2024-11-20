@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing Point in Time queries and SQL/PPL support in Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-point-in-time-queries-and-sql-ppl-support-in-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "Introducing Amazon MWAA micro environments for Apache Airflow",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-micro-environments-for-apache-airflow/"
+    },
+    {
+        "title": "Integrate custom applications with AWS Lake Formation \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-custom-applications-with-aws-lake-formation-part-1/"
+    },
+    {
+        "title": "Integrate custom applications with AWS Lake Formation \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-custom-applications-with-aws-lake-formation-part-2/"
+    },
+    {
+        "title": "Manage access controls in generative AI-powered search applications using Amazon OpenSearch Service and Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/big-data/manage-access-controls-in-generative-ai-powered-search-applications-using-amazon-opensearch-service-and-aws-cognito/"
+    },
+    {
         "title": "Enrich your AWS Glue Data Catalog with generative AI metadata using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/big-data/enrich-your-aws-glue-data-catalog-with-generative-ai-metadata-using-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Build up-to-date generative AI applications with real-time vector embedding blueprints for Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/build-up-to-date-generative-ai-applications-with-real-time-vector-embedding-blueprints-for-amazon-msk/"
-    },
-    {
-        "title": "Reduce your compute costs for stream processing applications with Kinesis Client Library 3.0",
-        "link": "https://aws.amazon.com/blogs/big-data/reduce-your-compute-costs-for-stream-processing-applications-with-kinesis-client-library-3-0/"
-    },
-    {
-        "title": "Stream real-time data into Apache Iceberg tables in Amazon S3 using Amazon Data Firehose",
-        "link": "https://aws.amazon.com/blogs/big-data/stream-real-time-data-into-apache-iceberg-tables-in-amazon-s3-using-amazon-data-firehose/"
-    },
-    {
-        "title": "Fine-grained access control in Amazon EMR Serverless with AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/fine-grained-access-control-in-amazon-emr-serverless-with-aws-lake-formation/"
-    },
-    {
-        "title": "Integrate Amazon Bedrock with Amazon Redshift ML for generative AI applications",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-bedrock-with-amazon-redshift-ml-for-generative-ai-applications/"
-    },
-    {
-        "title": "How Volkswagen Autoeuropa built a data mesh to accelerate digital transformation using Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/how-volkswagen-autoeuropa-built-a-data-mesh-to-accelerate-digital-transformation-using-amazon-datazone/"
     }
 ]

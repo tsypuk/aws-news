@@ -1,5 +1,9 @@
 [
     {
+        "title": "The serverless attendee\u2019s guide to AWS re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/compute/the-serverless-attendees-guide-to-aws-reinvent-2024/"
+    },
+    {
         "title": "Using zonal shift with Amazon EC2 Auto Scaling",
         "link": "https://aws.amazon.com/blogs/compute/using-zonal-shift-with-amazon-ec2-auto-scaling/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enabling high availability of Amazon EC2 instances on AWS Outposts servers (Part 1)",
         "link": "https://aws.amazon.com/blogs/compute/enabling-high-availability-of-amazon-ec2-instances-on-aws-outposts-servers-part-1/"
-    },
-    {
-        "title": "Using Amazon APerf to go from 50% below to 36% above performance target",
-        "link": "https://aws.amazon.com/blogs/compute/using-amazon-aperf-to-go-from-50-below-to-36-above-performance-target/"
     }
 ]

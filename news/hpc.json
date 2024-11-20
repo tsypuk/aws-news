@@ -1,5 +1,13 @@
 [
     {
+        "title": "On-demand visual login nodes \u2013 using RES with AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/on-demand-visual-login-nodes-using-res-with-aws-parallel-computing-service/"
+    },
+    {
+        "title": "Building a secure and compliant HPC environment on AWS following NIST SP 800-223",
+        "link": "https://aws.amazon.com/blogs/hpc/building-a-secure-and-compliant-hpc-environment-on-aws-following-nist-sp-800-223/"
+    },
+    {
         "title": "Improve engineering productivity using AWS Engineering License Management",
         "link": "https://aws.amazon.com/blogs/hpc/improve-engineering-productivity-using-aws-engineering-license-management/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Near-real-time energy production forecasts with NVIDIA Earth-2 and AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/aws-batch-enables-near-real-time-energy-production-forecasts-using-nvidia-earth-2/"
-    },
-    {
-        "title": "Harnessing the power of large language models for agent-based model development",
-        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-large-language-models-for-agent-based-model-development/"
-    },
-    {
-        "title": "Whisper audio transcription powered by AWS Batch and AWS Inferentia",
-        "link": "https://aws.amazon.com/blogs/hpc/whisper-audio-transcription-powered-by-aws-batch-and-aws-inferentia/"
     }
 ]

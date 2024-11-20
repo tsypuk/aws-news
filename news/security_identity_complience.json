@@ -1,5 +1,13 @@
 [
     {
+        "title": "Securing the RAG ingestion pipeline: Filtering mechanisms",
+        "link": "https://aws.amazon.com/blogs/security/securing-the-rag-ingestion-pipeline-filtering-mechanisms/"
+    },
+    {
+        "title": "Important changes to CloudTrail events for AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/modifications-to-aws-cloudtrail-event-data-of-iam-identity-center/"
+    },
+    {
         "title": "Threat modeling your generative AI workload to evaluate security risk",
         "link": "https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "170 AWS services achieve HITRUST certification",
         "link": "https://aws.amazon.com/blogs/security/170-aws-services-achieve-hitrust-certification/"
-    },
-    {
-        "title": "How to build a Security Guardians program to distribute security ownership",
-        "link": "https://aws.amazon.com/blogs/security/how-to-build-your-own-security-guardians-program/"
-    },
-    {
-        "title": "Options for AWS customers who use Entrust-issued certificates",
-        "link": "https://aws.amazon.com/blogs/security/options-for-aws-customers-who-use-entrust-issued-certificates/"
     }
 ]

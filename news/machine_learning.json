@@ -1,5 +1,25 @@
 [
     {
+        "title": "Racing into the future: How AWS DeepRacer fueled my AI and ML journey",
+        "link": "https://aws.amazon.com/blogs/machine-learning/racing-into-the-future-how-aws-deepracer-fueled-my-ai-and-ml-journey/"
+    },
+    {
+        "title": "Your guide to generative AI and ML at AWS re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2024/"
+    },
+    {
+        "title": "Customize small language models on AWS with automotive terminology",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-small-language-models-on-aws-with-automotive-terminology/"
+    },
+    {
+        "title": "Automate emails for task management using Amazon Bedrock Agents, Amazon Bedrock Knowledge Bases, and Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-emails-for-task-management-using-amazon-bedrock-agents-amazon-bedrock-knowledge-bases-and-amazon-bedrock-guardrails/"
+    },
+    {
+        "title": "Automate building guardrails for Amazon Bedrock using test-driven development",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-building-guardrails-for-amazon-bedrock-using-test-driven-development/"
+    },
+    {
         "title": "Build cost-effective RAG applications with Binary Embeddings in Amazon Titan Text Embeddings V2, Amazon OpenSearch Serverless, and Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-cost-effective-rag-applications-with-binary-embeddings-in-amazon-titan-text-embeddings-v2-amazon-opensearch-serverless-and-amazon-bedrock-knowledge-bases/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Automate invoice processing with Streamlit and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-invoice-processing-with-streamlit-and-amazon-bedrock/"
-    },
-    {
-        "title": "Centralize model governance with SageMaker Model Registry Resource Access Manager sharing",
-        "link": "https://aws.amazon.com/blogs/machine-learning/centralize-model-governance-with-sagemaker-model-registry-resource-access-manager-sharing/"
-    },
-    {
-        "title": "Revolutionize trip planning with Amazon Bedrock and Amazon Location Service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionize-trip-planning-with-amazon-bedrock-and-amazon-location-service/"
-    },
-    {
-        "title": "Simplify automotive damage processing with Amazon Bedrock and vector databases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-automotive-damage-processing-with-amazon-bedrock-and-vector-databases/"
-    },
-    {
-        "title": "Understanding prompt engineering: Unlock the creative potential of Stability AI models on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/understanding-prompt-engineering-unlock-the-creative-potential-of-stability-ai-models-on-aws/"
-    },
-    {
-        "title": "Introducing Stable Diffusion 3.5 Large in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-stable-diffusion-3-5-large-in-amazon-sagemaker-jumpstart/"
     }
 ]

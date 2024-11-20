@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate Oracle applications and databases using AWS Application Migration Service",
+        "link": "https://aws.amazon.com/blogs/database/migrate-oracle-applications-and-databases-using-aws-application-migration-service/"
+    },
+    {
+        "title": "Benchmarking Amazon Aurora Limitless with pgbench",
+        "link": "https://aws.amazon.com/blogs/database/benchmarking-amazon-aurora-limitless-with-pgbench/"
+    },
+    {
         "title": "How Coinbase provides trustworthy financial experiences through real-time user clustering with Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/how-coinbase-provides-trustworthy-financial-experiences-through-real-time-user-clustering-with-amazon-neptune/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to rename and retain the endpoint name for Amazon RDS",
         "link": "https://aws.amazon.com/blogs/database/how-to-rename-and-retain-the-endpoint-name-for-amazon-rds/"
-    },
-    {
-        "title": "Tune Amazon RDS for Oracle CDBs with Amazon Performance Insights",
-        "link": "https://aws.amazon.com/blogs/database/tune-amazon-rds-for-oracle-cdbs-with-amazon-performance-insights/"
-    },
-    {
-        "title": "How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 2: Streams",
-        "link": "https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-2-streams/"
     }
 ]

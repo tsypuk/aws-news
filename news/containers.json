@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring and automating recovery from AZ impairments in Amazon EKS with Istio and ARC Zonal Shift",
+        "link": "https://aws.amazon.com/blogs/containers/monitoring-and-automating-recovery-from-az-impairments-in-amazon-eks-with-istio-and-arc-zonal-shift/"
+    },
+    {
         "title": "Amazon EKS enhances Kubernetes control plane observability",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-enhances-kubernetes-control-plane-observability/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Inside Pinterest\u2019s Custom Spark Job logging and monitoring on Amazon EKS: Using AWS for Fluent Bit, Amazon S3, and ADOT",
         "link": "https://aws.amazon.com/blogs/containers/inside-pinterests-custom-spark-job-logging-and-monitoring-on-amazon-eks-using-aws-for-fluent-bit-amazon-s3-and-adot-2/"
-    },
-    {
-        "title": "Inside Pinterest\u2019s Custom Spark Job logging and monitoring on Amazon EKS: Using AWS for Fluent Bit, Amazon S3, and ADOT",
-        "link": "https://aws.amazon.com/blogs/containers/inside-pinterests-custom-spark-job-logging-and-monitoring-on-amazon-eks-using-aws-for-fluent-bit-amazon-s3-and-adot/"
     }
 ]
