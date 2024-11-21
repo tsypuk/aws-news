@@ -1,5 +1,9 @@
 [
     {
+        "title": "Advancing research in the cloud: AWS announces expanded training resources",
+        "link": "https://aws.amazon.com/blogs/hpc/advancing-research-in-the-cloud-aws-announces-expanded-training-resources/"
+    },
+    {
         "title": "On-demand visual login nodes \u2013 using RES with AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/on-demand-visual-login-nodes-using-res-with-aws-parallel-computing-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Recent improvement to Open MPI AllReduce and the impact to application performance",
         "link": "https://aws.amazon.com/blogs/hpc/recent-improvement-to-open-mpi-allreduce-and-the-impact-to-application-performance/"
-    },
-    {
-        "title": "Near-real-time energy production forecasts with NVIDIA Earth-2 and AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/aws-batch-enables-near-real-time-energy-production-forecasts-using-nvidia-earth-2/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Kinesis Video Streams Privacy and E2E Security Overview",
+        "link": "https://aws.amazon.com/blogs/iot/amazon-kvs-privacy-and-security-overview/"
+    },
+    {
         "title": "How Siemens Energy uses AWS for its IIoT platform and smart manufacturing",
         "link": "https://aws.amazon.com/blogs/iot/how-siemens-energy-uses-aws-for-its-iiot-platform-and-smart-manufacturing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building Track and Trace applications using AWS IoT Core for Amazon Sidewalk",
         "link": "https://aws.amazon.com/blogs/iot/building-track-and-trace-applications-using-aws-iot-core-for-amazon-sidewalk/"
-    },
-    {
-        "title": "Optimizing Operational Efficiency for Project Kuiper\u2019s Satellite Manufacturing with AWS IoT SiteWise",
-        "link": "https://aws.amazon.com/blogs/iot/optimizing-operational-efficiency-for-project-kuipers-satellite-manufacturing-with-aws-iot-sitewise/"
     }
 ]

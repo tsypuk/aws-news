@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing scaling to 0 capacity with Amazon Aurora Serverless v2",
+        "link": "https://aws.amazon.com/blogs/database/introducing-scaling-to-0-capacity-with-amazon-aurora-serverless-v2/"
+    },
+    {
         "title": "Migrate Oracle applications and databases using AWS Application Migration Service",
         "link": "https://aws.amazon.com/blogs/database/migrate-oracle-applications-and-databases-using-aws-application-migration-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for running Apache Cassandra with Amazon EBS",
         "link": "https://aws.amazon.com/blogs/database/best-practices-for-running-apache-cassandra-with-amazon-ebs/"
-    },
-    {
-        "title": "How to rename and retain the endpoint name for Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/database/how-to-rename-and-retain-the-endpoint-name-for-amazon-rds/"
     }
 ]

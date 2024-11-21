@@ -1,5 +1,9 @@
 [
     {
+        "title": "Verify the Safety of the Rust Standard Library",
+        "link": "https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/"
+    },
+    {
         "title": "OCSF Joins the Linux Foundation: Accelerating the Standardization of Cybersecurity Data",
         "link": "https://aws.amazon.com/blogs/opensource/ocsf-joins-the-linux-foundation-accelerating-the-standardization-of-cybersecurity-data/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate your Application Modernization to Amazon EKS with Konveyor",
         "link": "https://aws.amazon.com/blogs/opensource/accelerate-your-application-modernization-to-amazon-eks-with-konveyor/"
-    },
-    {
-        "title": "Building a Multicloud Resource Data Lake Using CloudQuery",
-        "link": "https://aws.amazon.com/blogs/opensource/building-a-multicloud-resource-data-lake-using-cloudquery/"
     }
 ]

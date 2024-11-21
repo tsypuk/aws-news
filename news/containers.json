@@ -1,5 +1,13 @@
 [
     {
+        "title": "How HP achieved 40% improvement in Kubernetes node utilization utilization on Amazon EKS using Karpenter",
+        "link": "https://aws.amazon.com/blogs/containers/how-hp-achieved-40-improvement-in-kubernetes-node-utilization-utilization-on-amazon-eks-using-karpenter/"
+    },
+    {
+        "title": "How Vannevar Labs cut ML inference costs by 45% using Ray on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/how-vannevar-labs-cut-ml-inference-costs-by-45-using-ray-on-amazon-eks/"
+    },
+    {
         "title": "Monitoring and automating recovery from AZ impairments in Amazon EKS with Istio and ARC Zonal Shift",
         "link": "https://aws.amazon.com/blogs/containers/monitoring-and-automating-recovery-from-az-impairments-in-amazon-eks-with-istio-and-arc-zonal-shift/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Amazon EKS optimized Amazon Linux 2023 accelerated AMIs now available",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-optimized-amazon-linux-2023-accelerated-amis-now-available/"
-    },
-    {
-        "title": "Scaling a Large Language Model with NVIDIA NIM on Amazon EKS with Karpenter",
-        "link": "https://aws.amazon.com/blogs/containers/scaling-a-large-language-model-with-nvidia-nim-on-amazon-eks-with-karpenter/"
-    },
-    {
-        "title": "Inside Pinterest\u2019s Custom Spark Job logging and monitoring on Amazon EKS: Using AWS for Fluent Bit, Amazon S3, and ADOT",
-        "link": "https://aws.amazon.com/blogs/containers/inside-pinterests-custom-spark-job-logging-and-monitoring-on-amazon-eks-using-aws-for-fluent-bit-amazon-s3-and-adot-2/"
     }
 ]

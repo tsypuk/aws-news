@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance data governance with enforced metadata rules in Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-data-governance-with-enforced-metadata-rules-in-amazon-datazone/"
+    },
+    {
         "title": "Introducing Point in Time queries and SQL/PPL support in Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-point-in-time-queries-and-sql-ppl-support-in-amazon-opensearch-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate SQL code migration from Google BigQuery to Amazon Redshift using BladeBridge",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-sql-code-migration-from-google-bigquery-to-amazon-redshift-using-bladebridge/"
-    },
-    {
-        "title": "Build up-to-date generative AI applications with real-time vector embedding blueprints for Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/build-up-to-date-generative-ai-applications-with-real-time-vector-embedding-blueprints-for-amazon-msk/"
     }
 ]

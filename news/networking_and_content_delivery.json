@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing CloudFront Virtual Private Cloud (VPC) Origins: Shield your web applications from public internet",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-virtual-private-cloud-vpc-origins-shield-your-web-applications-from-public-internet/"
+    },
+    {
+        "title": "Zero-rating and IP address management made easy: CloudFront\u2019s new anycast static IPs explained",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/zero-rating-and-ip-address-management-made-easy-cloudfronts-new-anycast-static-ips-explained/"
+    },
+    {
         "title": "Enhancing VPC Security with Amazon VPC Block Public Access",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-block-public-access/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Integrating MPLS connectivity to the AWS Cloud",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-mpls-connectivity-to-the-aws-cloud/"
-    },
-    {
-        "title": "Optimizing Amazon S3 data transfers over Direct Connect",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-amazon-s3-data-transfers-over-direct-connect/"
-    },
-    {
-        "title": "Introducing configurable TCP idle timeout for Gateway Load Balancer",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-configurable-tcp-idle-timeout-for-gateway-load-balancer/"
     }
 ]

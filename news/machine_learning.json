@@ -1,5 +1,25 @@
 [
     {
+        "title": "Unify structured data in Amazon Aurora and unstructured data in Amazon S3 for insights using Amazon Q",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unify-structured-data-in-amazon-aurora-and-unstructured-data-in-amazon-s3-for-insights-using-amazon-q/"
+    },
+    {
+        "title": "Automate Q&A email responses with Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-qa-email-responses-with-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Streamline RAG applications with intelligent metadata filtering using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-rag-applications-with-intelligent-metadata-filtering-using-amazon-bedrock/"
+    },
+    {
+        "title": "Embedding secure generative AI in mission-critical public safety applications",
+        "link": "https://aws.amazon.com/blogs/machine-learning/embedding-secure-generative-ai-in-mission-critical-public-safety-applications/"
+    },
+    {
+        "title": "How FP8 boosts LLM training by 18% on Amazon SageMaker P5 instances",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-fp8-boosts-llm-training-by-18-on-amazon-sagemaker-p5-instances/"
+    },
+    {
         "title": "Racing into the future: How AWS DeepRacer fueled my AI and ML journey",
         "link": "https://aws.amazon.com/blogs/machine-learning/racing-into-the-future-how-aws-deepracer-fueled-my-ai-and-ml-journey/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Cohere Embed multimodal embeddings model is now available on Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/cohere-embed-multimodal-embeddings-model-is-now-available-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "How GoDaddy built Lighthouse, an interaction analytics solution to generate insights on support interactions using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-built-lighthouse-an-interaction-analytics-solution-to-generate-insights-on-support-interactions-using-amazon-bedrock/"
-    },
-    {
-        "title": "Fine-tune multimodal models for vision and text use cases on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-multimodal-models-for-vision-and-text-use-cases-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Principal Financial Group uses QnABot on AWS and Amazon Q Business to enhance workforce productivity with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-uses-qnabot-on-aws-and-amazon-q-business-to-enhance-workforce-productivity-with-generative-ai/"
-    },
-    {
-        "title": "Governing ML lifecycle at scale: Best practices to set up cost and usage visibility of ML workloads in multi-account environments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governing-ml-lifecycle-at-scale-best-practices-to-set-up-cost-and-usage-visibility-of-ml-workloads-in-multi-account-environments/"
-    },
-    {
-        "title": "Automate invoice processing with Streamlit and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-invoice-processing-with-streamlit-and-amazon-bedrock/"
     }
 ]
