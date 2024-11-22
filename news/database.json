@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automate database user management with AWS Lambda and AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/database/automate-database-user-management-with-aws-lambda-and-aws-systems-manager/"
+    },
+    {
+        "title": "Amazon ElastiCache version 8.0 for Valkey brings faster scaling and improved memory efficiency",
+        "link": "https://aws.amazon.com/blogs/database/amazon-elasticache-version-8-0-for-valkey-brings-faster-scaling-and-improved-memory-efficiency/"
+    },
+    {
+        "title": "Amazon RDS for MySQL LTS version 8.4  is now generally available",
+        "link": "https://aws.amazon.com/blogs/database/amazon-rds-for-mysql-lts-version-8-4-is-now-generally-available/"
+    },
+    {
         "title": "Introducing scaling to 0 capacity with Amazon Aurora Serverless v2",
         "link": "https://aws.amazon.com/blogs/database/introducing-scaling-to-0-capacity-with-amazon-aurora-serverless-v2/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Heterogeneous data sources: Access your data in PostgreSQL from Amazon RDS for Oracle using Oracle Database Gateway",
         "link": "https://aws.amazon.com/blogs/database/heterogeneous-data-sources-access-your-data-in-postgresql-from-amazon-rds-for-oracle-using-oracle-database-gateway/"
-    },
-    {
-        "title": "Capture and diagnose I/O bottlenecks on Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/capture-and-diagnose-i-o-bottlenecks-on-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Know before you go: Amazon DynamoDB sessions at AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/database/know-before-you-go-amazon-dynamodb-sessions-at-aws-reinvent-2024/"
-    },
-    {
-        "title": "Best practices for running Apache Cassandra with Amazon EBS",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-running-apache-cassandra-with-amazon-ebs/"
     }
 ]

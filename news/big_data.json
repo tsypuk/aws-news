@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS Glue Data Catalog supports automatic optimization of Apache Iceberg tables through your Amazon VPC",
+        "link": "https://aws.amazon.com/blogs/big-data/aws-glue-data-catalog-supports-automatic-optimization-of-apache-iceberg-tables-through-your-amazon-vpc/"
+    },
+    {
+        "title": "Run high-availability long-running clusters with Amazon EMR instance fleets",
+        "link": "https://aws.amazon.com/blogs/big-data/run-high-availability-long-running-clusters-with-amazon-emr-instance-fleets/"
+    },
+    {
         "title": "Enhance data governance with enforced metadata rules in Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-data-governance-with-enforced-metadata-rules-in-amazon-datazone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Write queries faster with Amazon Q generative SQL for Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/write-queries-faster-with-amazon-q-generative-sql-for-amazon-redshift/"
-    },
-    {
-        "title": "Amazon OpenSearch Service launches the next-generation OpenSearch UI",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-launches-the-next-generation-opensearch-ui/"
-    },
-    {
-        "title": "Accelerate SQL code migration from Google BigQuery to Amazon Redshift using BladeBridge",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-sql-code-migration-from-google-bigquery-to-amazon-redshift-using-bladebridge/"
     }
 ]

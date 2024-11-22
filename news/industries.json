@@ -1,5 +1,13 @@
 [
     {
+        "title": "Adoption of Software-Defined Architecture in the Commercial Vehicle Industry",
+        "link": "https://aws.amazon.com/blogs/industries/adoption-of-software-defined-architecture-in-the-commercial-vehicle-industry/"
+    },
+    {
+        "title": "Introducing the AWS Level 1 DORA Workbook for AWS customers regulated under DORA",
+        "link": "https://aws.amazon.com/blogs/industries/introducing-the-aws-level-1-dora-workbook-for-aws-customers-regulated-under-dora/"
+    },
+    {
         "title": "TSMC certifies Siemens EDA tools on AWS for N2/N3 process node technology",
         "link": "https://aws.amazon.com/blogs/industries/tsmc-certifies-siemens-eda-tools-on-aws-for-n2-n3-process-node-technology/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Transforming industrial decision making with AWS IoT SiteWise Assistant",
         "link": "https://aws.amazon.com/blogs/industries/transforming-industrial-decision-making-with-aws-iot-sitewise-assistant/"
-    },
-    {
-        "title": "Upbound Group builds its modernized point-of-sale platform on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/upbound-group-builds-its-modernized-point-of-sale-platform-on-aws/"
-    },
-    {
-        "title": "Unleashing sustainable potential: harnessing machine learning on AWS for optimal energy usage",
-        "link": "https://aws.amazon.com/blogs/industries/unleashing-sustainable-potential-harnessing-machine-learning-on-aws-for-optimal-energy-usage/"
     }
 ]

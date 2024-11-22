@@ -1,5 +1,29 @@
 [
     {
+        "title": "How national security and defence missions protect data with Trusted Secure Enclaves on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-national-security-and-defence-missions-protect-data-with-trusted-secure-enclaves-on-aws/"
+    },
+    {
+        "title": "The essential role of a landing zone in a government\u2019s digital transformation",
+        "link": "https://aws.amazon.com/blogs/publicsector/the-essential-role-of-a-landing-zone-in-a-governments-digital-transformation/"
+    },
+    {
+        "title": "Preparing for CMMC 2.0 compliance: What contractors can do today",
+        "link": "https://aws.amazon.com/blogs/publicsector/preparing-for-cmmc-2-0-compliance-what-contractors-can-do-today/"
+    },
+    {
+        "title": "Working backwards from generative AI business value in the public sector",
+        "link": "https://aws.amazon.com/blogs/publicsector/working-backwards-from-generative-ai-business-value-in-the-public-sector/"
+    },
+    {
+        "title": "The future of global higher education and studying abroad: How Studyportals harnesses generative AI",
+        "link": "https://aws.amazon.com/blogs/publicsector/the-future-of-global-higher-education-and-studying-abroad-how-studyportals-harnesses-generative-ai/"
+    },
+    {
+        "title": "Ukraine\u2019s new digital vision for education",
+        "link": "https://aws.amazon.com/blogs/publicsector/ukraines-new-digital-vision-for-education/"
+    },
+    {
         "title": "Deploying AWS Modular Data Center: From ordering to delivery and installation",
         "link": "https://aws.amazon.com/blogs/publicsector/deploying-aws-modular-data-center-from-ordering-to-delivery-and-installation/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "European Commission transforms public procurement across Europe with AWS and NTT Data",
         "link": "https://aws.amazon.com/blogs/publicsector/european-commission-transforms-public-procurement-across-europe-with-aws-and-ntt-data/"
-    },
-    {
-        "title": "UNSW students build an all-electric race car with AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/unsw-students-build-an-all-electric-race-car-with-aws/"
-    },
-    {
-        "title": "Announcing the Generative AI for Geospatial Challenge, which awards $1M in AWS credits to innovators",
-        "link": "https://aws.amazon.com/blogs/publicsector/announcing-the-generative-ai-for-geospatial-challenge-which-awards-1m-in-aws-credits-to-innovators/"
-    },
-    {
-        "title": "New AI/ML solutions in AWS GovCloud (US) underpin responsible innovation",
-        "link": "https://aws.amazon.com/blogs/publicsector/new-ai-ml-solutions-in-aws-govcloud-us-underpin-responsible-innovation/"
-    },
-    {
-        "title": "AWS Skills to Jobs Tech Alliance launches in Malaysia to stimulate the tech talent ecosystem",
-        "link": "https://aws.amazon.com/blogs/publicsector/aws-skills-to-jobs-launches-tech-alliance-malaysia-to-stimulate-tech-talent-ecosystem/"
-    },
-    {
-        "title": "AWS collaborates with Malaysia Ministry of Higher Education\u2019s JPPKK to build next-generation AI workforce",
-        "link": "https://aws.amazon.com/blogs/publicsector/aws-collaborates-with-malaysia-ministry-of-higher-educations-jppkk-to-build-next-generation-ai-workforce/"
-    },
-    {
-        "title": "How federal agencies can optimize document processing using advanced AI with human oversight",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-federal-agencies-can-optimize-document-processing-using-advanced-ai-with-human-oversight/"
     }
 ]

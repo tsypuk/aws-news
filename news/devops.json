@@ -1,5 +1,13 @@
 [
     {
+        "title": "Your DevOps and Developer Productivity guide to 2024 re:Invent",
+        "link": "https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-2024-reinvent/"
+    },
+    {
+        "title": "Introducing AWS CloudFormation Hooks invoked via AWS Cloud Control API (CCAPI)",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-hooks-invoked-via-aws-cloud-control-api-ccapi/"
+    },
+    {
         "title": "Proactively validate your AWS CloudFormation templates with AWS Lambda",
         "link": "https://aws.amazon.com/blogs/devops/proactively-validate-your-aws-cloudformation-templates-with-aws-lambda/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to identify inactive users of Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/how-to-identify-inactive-users-of-amazon-q-developer/"
-    },
-    {
-        "title": "Use the latest AWS innovations with the new AWS Cloud Control provider for Pulumi",
-        "link": "https://aws.amazon.com/blogs/devops/use-the-latest-aws-innovations-with-the-new-aws-cloud-control-provider-for-pulumi/"
-    },
-    {
-        "title": "Accelerate application upgrades with Amazon Q Developer agent for code transformation",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-application-upgrades-with-amazon-q-developer-agent-for-code-transformation/"
     }
 ]

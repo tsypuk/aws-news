@@ -1,5 +1,21 @@
 [
     {
+        "title": "Enhance speech synthesis and video generation models with RLHF using audio and video segmentation in Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-speech-synthesis-and-video-generation-models-with-rlhf-using-audio-and-video-segmentation-in-amazon-sagemaker/"
+    },
+    {
+        "title": "Using responsible AI principles with Amazon Bedrock Batch Inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-responsible-ai-principles-with-amazon-bedrock-batch-inference/"
+    },
+    {
+        "title": "Revolutionizing knowledge management: VW\u2019s AI prototype journey with AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-knowledge-management-vws-ai-prototype-journey-with-aws/"
+    },
+    {
+        "title": "Fine-tune large language models with Amazon SageMaker Autopilot",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-amazon-sagemaker-autopilot/"
+    },
+    {
         "title": "Unify structured data in Amazon Aurora and unstructured data in Amazon S3 for insights using Amazon Q",
         "link": "https://aws.amazon.com/blogs/machine-learning/unify-structured-data-in-amazon-aurora-and-unstructured-data-in-amazon-s3-for-insights-using-amazon-q/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Generate and evaluate images in Amazon Bedrock with Amazon Titan Image Generator G1 v2 and Anthropic Claude 3.5 Sonnet",
         "link": "https://aws.amazon.com/blogs/machine-learning/generate-and-evaluate-images-in-amazon-bedrock-with-amazon-titan-image-generator-g1-v2-and-anthropic-claude-3-5-sonnet/"
-    },
-    {
-        "title": "How InsuranceDekho transformed insurance agent interactions using Amazon Bedrock and generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-insurancedekho-transformed-insurance-agent-interactions-using-amazon-bedrock-and-generative-ai/"
-    },
-    {
-        "title": "Considerations for addressing the core dimensions of responsible AI for Amazon Bedrock applications",
-        "link": "https://aws.amazon.com/blogs/machine-learning/considerations-for-addressing-the-core-dimensions-of-responsible-ai-for-amazon-bedrock-applications/"
-    },
-    {
-        "title": "From RAG to fabric: Lessons learned from building real-world RAGs at GenAIIC \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-rag-to-fabric-lessons-learned-from-building-real-world-rags-at-genaiic-part-2/"
-    },
-    {
-        "title": "Cohere Embed multimodal embeddings model is now available on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-embed-multimodal-embeddings-model-is-now-available-on-amazon-sagemaker-jumpstart/"
     }
 ]

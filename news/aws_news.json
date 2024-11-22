@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing new capabilities to AWS CloudTrail Lake to enhance your cloud visibility and investigations",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-new-capabilities-to-aws-cloudtrail-lake-to-enhance-your-cloud-visibility-and-investigations/"
+    },
+    {
+        "title": "Track performance of serverless applications built using AWS Lambda with Application Signals",
+        "link": "https://aws.amazon.com/blogs/aws/track-performance-of-serverless-applications-built-using-aws-lambda-with-application-signals/"
+    },
+    {
+        "title": "Announcing a visual update to the AWS Management Console (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-a-visual-update-to-the-aws-management-console-preview/"
+    },
+    {
         "title": "Introducing Amazon CloudFront VPC origins: Enhanced security and streamlined operations for your applications",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-vpc-origins-enhanced-security-and-streamlined-operations-for-your-applications/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Fine-tuning for Anthropic\u2019s Claude 3 Haiku model in Amazon Bedrock is now generally available",
         "link": "https://aws.amazon.com/blogs/aws/fine-tuning-for-anthropics-claude-3-haiku-model-in-amazon-bedrock-is-now-generally-available/"
-    },
-    {
-        "title": "Unlock the potential of your supply chain data and gain actionable insights with AWS Supply Chain Analytics",
-        "link": "https://aws.amazon.com/blogs/aws/unlock-the-potential-of-your-supply-chain-data-and-gain-actionable-insights-with-aws-supply-chain-analytics/"
-    },
-    {
-        "title": "Amazon Aurora PostgreSQL Limitless Database is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-limitless-database-is-now-generally-available/"
-    },
-    {
-        "title": "Simplify and enhance Amazon S3 static website hosting with AWS Amplify Hosting",
-        "link": "https://aws.amazon.com/blogs/aws/simplify-and-enhance-amazon-s3-static-website-hosting-with-aws-amplify/"
     }
 ]

@@ -1,6 +1,10 @@
 [
     {
-        "title": "How HP achieved 40% improvement in Kubernetes node utilization utilization on Amazon EKS using Karpenter",
+        "title": "Optimize compute resources on Amazon ECS with Predictive Scaling",
+        "link": "https://aws.amazon.com/blogs/containers/optimize-compute-resources-on-amazon-ecs-with-predictive-scaling/"
+    },
+    {
+        "title": "How HP achieved 40% improvement in Kubernetes node utilization on Amazon EKS using Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/how-hp-achieved-40-improvement-in-kubernetes-node-utilization-utilization-on-amazon-eks-using-karpenter/"
     },
     {
@@ -34,9 +38,5 @@
     {
         "title": "Serverless containers at AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/containers/serverless-containers-at-aws-reinvent-2024/"
-    },
-    {
-        "title": "Amazon EKS optimized Amazon Linux 2023 accelerated AMIs now available",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-optimized-amazon-linux-2023-accelerated-amis-now-available/"
     }
 ]
