@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing the AWS guide to building and operating financial services workloads for DORA (Level 2)",
+        "link": "https://aws.amazon.com/blogs/industries/introducing-the-aws-guide-to-building-and-operating-financial-services-workloads-for-dora-level-2/"
+    },
+    {
+        "title": "AWS for Healthcare & Life Sciences at RSNA",
+        "link": "https://aws.amazon.com/blogs/industries/aws-for-healthcare-life-sciences-at-rsna/"
+    },
+    {
         "title": "Adoption of Software-Defined Architecture in the Commercial Vehicle Industry",
         "link": "https://aws.amazon.com/blogs/industries/adoption-of-software-defined-architecture-in-the-commercial-vehicle-industry/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Improving patient pre-screening for clinical trials with generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/industries/improving-patient-pre-screening-for-clinical-trials-with-generative-ai-on-aws/"
-    },
-    {
-        "title": "Orchestrating private network deployments with AWS Telco Network Builder",
-        "link": "https://aws.amazon.com/blogs/industries/orchestrating-private-network-deployments-with-aws-telco-network-builder/"
-    },
-    {
-        "title": "Transforming industrial decision making with AWS IoT SiteWise Assistant",
-        "link": "https://aws.amazon.com/blogs/industries/transforming-industrial-decision-making-with-aws-iot-sitewise-assistant/"
     }
 ]

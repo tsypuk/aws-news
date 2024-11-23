@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplify Amazon VPC security groups management with VPC associations and security groups sharing",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-amazon-vpc-security-groups-management-with-vpc-associations-and-security-groups-sharing/"
+    },
+    {
+        "title": "Using cross-zone load balancing with zonal shift",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-cross-zone-load-balancing-with-zonal-shift/"
+    },
+    {
         "title": "Introducing CloudFront Virtual Private Cloud (VPC) Origins: Shield your web applications from public internet",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-virtual-private-cloud-vpc-origins-shield-your-web-applications-from-public-internet/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Estimate AWS networking costs with a self-hosted calculator",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/estimate-aws-networking-costs-with-a-self-hosted-calculator/"
-    },
-    {
-        "title": "Migration to AWS Cloud WAN multi-Region inspection using service insertion",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migration-to-aws-cloud-wan-multi-region-inspection-using-service-insertion/"
-    },
-    {
-        "title": "Integrating MPLS connectivity to the AWS Cloud",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-mpls-connectivity-to-the-aws-cloud/"
     }
 ]

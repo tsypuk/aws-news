@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing a new experience for AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/"
+    },
+    {
+        "title": "AWS named as a leader again in the Gartner Magic Quadrant for Distributed Hybrid Infrastructure",
+        "link": "https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-again-in-the-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/"
+    },
+    {
+        "title": "Improve your app authentication workflow with new Amazon Cognito features",
+        "link": "https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/"
+    },
+    {
         "title": "Introducing new capabilities to AWS CloudTrail Lake to enhance your cloud visibility and investigations",
         "link": "https://aws.amazon.com/blogs/aws/introducing-new-capabilities-to-aws-cloudtrail-lake-to-enhance-your-cloud-visibility-and-investigations/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing Express brokers for Amazon MSK to deliver high throughput and faster scaling for your Kafka clusters",
         "link": "https://aws.amazon.com/blogs/aws/introducing-express-brokers-for-amazon-msk-to-deliver-high-throughput-and-faster-scaling-for-your-kafka-clusters/"
-    },
-    {
-        "title": "Introducing the last cohort of AWS Heroes this year \u2013 November 2024",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-the-last-cohort-of-aws-heroes-this-year-november-2024/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Lambda, Amazon Bedrock, Amazon Redshift, Amazon CloudWatch, and more (Nov 4, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-amazon-bedrock-amazon-redshift-amazon-cloudwatch-and-more-nov-4-2024/"
-    },
-    {
-        "title": "Fine-tuning for Anthropic\u2019s Claude 3 Haiku model in Amazon Bedrock is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/fine-tuning-for-anthropics-claude-3-haiku-model-in-amazon-bedrock-is-now-generally-available/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS announces the Quantum Embark Program to help customers get ready for quantum computing",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/aws-announces-the-quantum-embark-program-to-help-customers-get-ready-for-quantum-computing/"
+    },
+    {
         "title": "Options pricing using a quantum Monte Carlo algorithm on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/options-pricing-using-a-quantum-monte-carlo-algorithm-on-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon Braket launches new superconducting quantum processor from IQM",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-new-superconducting-quantum-processor-from-iqm/"
-    },
-    {
-        "title": "Delivering quantum information \u2013 a field-deployed quantum network",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/delivering-quantum-information-a-field-deployed-quantum-network/"
     }
 ]

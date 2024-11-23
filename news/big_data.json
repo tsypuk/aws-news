@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing generative AI troubleshooting for Apache Spark in AWS Glue (preview)",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-generative-ai-troubleshooting-for-apache-spark-in-aws-glue-preview/"
+    },
+    {
+        "title": "Introducing generative AI upgrades for Apache Spark in AWS Glue (preview)",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-generative-ai-upgrades-for-apache-spark-in-aws-glue-preview/"
+    },
+    {
+        "title": "Accelerate your data workflows with Amazon Redshift Data API persistent sessions",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-workflows-with-amazon-redshift-data-api-persistent-sessions/"
+    },
+    {
+        "title": "Accelerate your migration to Amazon OpenSearch Service with Reindexing-from-Snapshot",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-migration-to-amazon-opensearch-service-with-reindexing-from-snapshot/"
+    },
+    {
+        "title": "From data lakes to insights: dbt adapter for Amazon Athena now supported in dbt Cloud",
+        "link": "https://aws.amazon.com/blogs/big-data/from-data-lakes-to-insights-dbt-adapter-for-amazon-athena-now-supported-in-dbt-cloud/"
+    },
+    {
         "title": "AWS Glue Data Catalog supports automatic optimization of Apache Iceberg tables through your Amazon VPC",
         "link": "https://aws.amazon.com/blogs/big-data/aws-glue-data-catalog-supports-automatic-optimization-of-apache-iceberg-tables-through-your-amazon-vpc/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Streamlining AWS Glue Studio visual jobs: Building an integrated CI/CD pipeline for seamless environment synchronization",
         "link": "https://aws.amazon.com/blogs/big-data/streamlining-aws-glue-studio-visual-jobs-building-an-integrated-ci-cd-pipeline-for-seamless-environment-synchronization/"
-    },
-    {
-        "title": "Use Amazon Kinesis Data Streams to deliver real-time data to Amazon OpenSearch Service domains with Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-kinesis-data-streams-to-deliver-real-time-data-to-amazon-opensearch-service-domains-with-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "Achieve data resilience using Amazon OpenSearch Service disaster recovery with snapshot and restore",
-        "link": "https://aws.amazon.com/blogs/big-data/achieve-data-resilience-using-amazon-opensearch-service-disaster-recovery-with-snapshot-and-restore/"
-    },
-    {
-        "title": "Incremental refresh for Amazon Redshift materialized views on data lake tables",
-        "link": "https://aws.amazon.com/blogs/big-data/incremental-refresh-for-amazon-redshift-materialized-views-on-data-lake-tables/"
-    },
-    {
-        "title": "Amazon OpenSearch Service announces Standard and Extended Support dates for Elasticsearch and OpenSearch versions",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-announces-standard-and-extended-support-dates-for-elasticsearch-and-opensearch-versions/"
-    },
-    {
-        "title": "Write queries faster with Amazon Q generative SQL for Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/write-queries-faster-with-amazon-q-generative-sql-for-amazon-redshift/"
     }
 ]

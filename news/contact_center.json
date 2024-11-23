@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for handling email messages within a flow",
+        "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-handling-email-messages-within-a-flow/"
+    },
+    {
         "title": "Transform customer data into personalized customer experiences with Amazon Connect Customer Profiles and Outbound Campaigns",
         "link": "https://aws.amazon.com/blogs/contact-center/transform-customer-data-into-personalized-customer-experiences-with-amazon-connect-customer-profiles-and-outbound-campaigns/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Providing great customer experiences using real-time sentiment analysis with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/providing-great-customer-experiences-using-real-time-sentiment-analysis-with-amazon-connect/"
-    },
-    {
-        "title": "Enabling generative AI for better customer experience can be easy with Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/enabling-generative-ai-for-better-customer-experience-can-be-easy-with-amazon-connect/"
     }
 ]

@@ -1,5 +1,37 @@
 [
     {
+        "title": "Accelerating Mixtral MoE fine-tuning on Amazon SageMaker with QLoRA",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-mixtral-moe-fine-tuning-on-amazon-sagemaker-with-qlora/"
+    },
+    {
+        "title": "Amazon SageMaker Inference now supports G6e instances",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-now-supports-g6e-instances/"
+    },
+    {
+        "title": "Orchestrate generative AI workflows with Amazon Bedrock and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/orchestrate-generative-ai-workflows-with-amazon-bedrock-and-aws-step-functions/"
+    },
+    {
+        "title": "Build generative AI applications on Amazon Bedrock with the AWS SDK for Python (Boto3)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-on-amazon-bedrock-with-the-aws-sdk-for-python-boto3/"
+    },
+    {
+        "title": "Improve factual consistency with LLM Debates",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-factual-consistency-with-llm-debates/"
+    },
+    {
+        "title": "Governing the ML lifecycle at scale, Part 3: Setting up data governance at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-3-setting-up-data-governance-at-scale/"
+    },
+    {
+        "title": "Amazon Bedrock Flows is now generally available with enhanced safety and traceability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-flows-is-now-generally-available-with-enhanced-safety-and-traceability/"
+    },
+    {
+        "title": "Implement secure API access to your Amazon Q Business applications with IAM federation user access management",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-secure-api-access-to-your-amazon-q-business-applications-with-iam-federation-user-access-management/"
+    },
+    {
         "title": "Enhance speech synthesis and video generation models with RLHF using audio and video segmentation in Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-speech-synthesis-and-video-generation-models-with-rlhf-using-audio-and-video-segmentation-in-amazon-sagemaker/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "Customize small language models on AWS with automotive terminology",
         "link": "https://aws.amazon.com/blogs/machine-learning/customize-small-language-models-on-aws-with-automotive-terminology/"
-    },
-    {
-        "title": "Automate emails for task management using Amazon Bedrock Agents, Amazon Bedrock Knowledge Bases, and Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-emails-for-task-management-using-amazon-bedrock-agents-amazon-bedrock-knowledge-bases-and-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "Automate building guardrails for Amazon Bedrock using test-driven development",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-building-guardrails-for-amazon-bedrock-using-test-driven-development/"
-    },
-    {
-        "title": "Build cost-effective RAG applications with Binary Embeddings in Amazon Titan Text Embeddings V2, Amazon OpenSearch Serverless, and Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-cost-effective-rag-applications-with-binary-embeddings-in-amazon-titan-text-embeddings-v2-amazon-opensearch-serverless-and-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Automate cloud security vulnerability assessment and alerting using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-cloud-security-vulnerability-assessment-and-alerting-using-amazon-bedrock/"
-    },
-    {
-        "title": "DXC transforms data exploration for their oil and gas customers with LLM-powered tools",
-        "link": "https://aws.amazon.com/blogs/machine-learning/dxc-transforms-data-exploration-for-their-oil-and-gas-customers-with-llm-powered-tools/"
-    },
-    {
-        "title": "How MSD uses Amazon Bedrock to translate natural language into SQL for complex healthcare databases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-merck-uses-amazon-bedrock-to-translate-natural-language-into-sql-for-complex-healthcare-databases/"
-    },
-    {
-        "title": "Generate AWS Resilience Hub findings in natural language using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-aws-resilience-hub-findings-in-natural-language-using-amazon-bedrock/"
-    },
-    {
-        "title": "Generate and evaluate images in Amazon Bedrock with Amazon Titan Image Generator G1 v2 and Anthropic Claude 3.5 Sonnet",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-and-evaluate-images-in-amazon-bedrock-with-amazon-titan-image-generator-g1-v2-and-anthropic-claude-3-5-sonnet/"
     }
 ]

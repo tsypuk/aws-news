@@ -1,5 +1,9 @@
 [
     {
+        "title": "Event-driven Active Directory domain join with Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/event-driven-active-directory-domain-join-with-amazon-eventbridge/"
+    },
+    {
         "title": "MultiCloud cost visibility with Amazon QuickSight and FOCUS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/multicloud-cost-visibility-with-amazon-quicksight-and-focus/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Leverage a one-way trust with Amazon WorkSpaces for cross-domain usage",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/leverage-a-one-way-trust-with-amazon-workspaces-for-cross-domain-usage/"
-    },
-    {
-        "title": "Collecting platform and billing details for Microsoft licensing on AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/collecting-platform-and-billing-details-for-microsoft-licensing-on-aws/"
     }
 ]
