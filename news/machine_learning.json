@@ -1,5 +1,25 @@
 [
     {
+        "title": "Deploy Meta Llama 3.1 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-meta-llama-3-1-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
+    },
+    {
+        "title": "AWS achieves ISO/IEC 42001:2023 Artificial Intelligence Management System accredited certification",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-achieves-iso-iec-420012023-artificial-intelligence-management-system-accredited-certification/"
+    },
+    {
+        "title": "How 123RF saved over 90% of their translation costs by switching to Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-123rf-saved-over-90-of-their-translation-costs-by-switching-to-amazon-bedrock/"
+    },
+    {
+        "title": "Connect SharePoint Online to Amazon Q Business using OAuth 2.0 ROPC flow authentication",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connect-sharepoint-online-to-amazon-q-business-using-oauth-2-0-ropc-flow-authentication/"
+    },
+    {
+        "title": "John Snow Labs Medical LLMs are now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/john-snow-labs-medical-llms-are-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Accelerating Mixtral MoE fine-tuning on Amazon SageMaker with QLoRA",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-mixtral-moe-fine-tuning-on-amazon-sagemaker-with-qlora/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Streamline RAG applications with intelligent metadata filtering using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/streamline-rag-applications-with-intelligent-metadata-filtering-using-amazon-bedrock/"
-    },
-    {
-        "title": "Embedding secure generative AI in mission-critical public safety applications",
-        "link": "https://aws.amazon.com/blogs/machine-learning/embedding-secure-generative-ai-in-mission-critical-public-safety-applications/"
-    },
-    {
-        "title": "How FP8 boosts LLM training by 18% on Amazon SageMaker P5 instances",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-fp8-boosts-llm-training-by-18-on-amazon-sagemaker-p5-instances/"
-    },
-    {
-        "title": "Racing into the future: How AWS DeepRacer fueled my AI and ML journey",
-        "link": "https://aws.amazon.com/blogs/machine-learning/racing-into-the-future-how-aws-deepracer-fueled-my-ai-and-ml-journey/"
-    },
-    {
-        "title": "Your guide to generative AI and ML at AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2024/"
-    },
-    {
-        "title": "Customize small language models on AWS with automotive terminology",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-small-language-models-on-aws-with-automotive-terminology/"
     }
 ]

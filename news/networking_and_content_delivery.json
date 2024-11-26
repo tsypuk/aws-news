@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplify global hybrid connectivity with AWS Cloud WAN and AWS Direct Connect integration",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-global-hybrid-connectivity-with-aws-cloud-wan-and-aws-direct-connect-integration/"
+    },
+    {
+        "title": "Charting your AWS Networking journey at re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/charting-your-aws-networking-journey-at-reinvent-2024/"
+    },
+    {
         "title": "Simplify Amazon VPC security groups management with VPC associations and security groups sharing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-amazon-vpc-security-groups-management-with-vpc-associations-and-security-groups-sharing/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate your workloads to use VPC endpoints with minimum downtime",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-your-workloads-to-use-vpc-endpoints-with-minimum-downtime/"
-    },
-    {
-        "title": "Setting up of AWS Site-to-Site VPN automated monitoring solution",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/setting-up-of-aws-site-to-site-vpn-automated-monitoring-solution/"
-    },
-    {
-        "title": "Estimate AWS networking costs with a self-hosted calculator",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/estimate-aws-networking-costs-with-a-self-hosted-calculator/"
     }
 ]

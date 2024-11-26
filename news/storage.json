@@ -1,5 +1,13 @@
 [
     {
+        "title": "Manage costs for replicated delete markers in a disaster recovery setup on Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/manage-costs-for-replicated-delete-markers-in-a-disaster-recovery-setup-on-amazon-s3/"
+    },
+    {
+        "title": "Migrating data access and Azure Active Directory with Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/migrating-data-access-and-azure-ad-with-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Fundrise uses Amazon S3 Express One Zone to accelerate investment data processing",
         "link": "https://aws.amazon.com/blogs/storage/fundrise-uses-amazon-s3-express-one-zone-to-accelerate-investment-data-processing/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Transition data to cheaper storage based on custom filtering criteria with Amazon S3 Lifecycle",
         "link": "https://aws.amazon.com/blogs/storage/transition-data-to-cheaper-storage-based-on-custom-filtering-criteria-with-amazon-s3-lifecycle/"
-    },
-    {
-        "title": "Lyrebird improves performance and reduces costs for generative AI workloads using Amazon S3 Express One Zone",
-        "link": "https://aws.amazon.com/blogs/storage/lyrebird-improves-performance-and-reduces-costs-for-generative-ai-workloads-using-amazon-s3-express-one-zone/"
-    },
-    {
-        "title": "Automate monitoring at scale for Amazon FSx for NetApp ONTAP volumes",
-        "link": "https://aws.amazon.com/blogs/storage/automate-monitoring-at-scale-for-amazon-fsx-for-netapp-ontap-volumes/"
     }
 ]

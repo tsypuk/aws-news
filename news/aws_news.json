@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing future-dated Amazon EC2 On-Demand Capacity Reservations",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/"
+    },
+    {
+        "title": "AWS Weekly Roundup: 197 new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually (Nov 25, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-197-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/"
+    },
+    {
         "title": "Introducing a new experience for AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Weekly Roundup: 20 years of AWS News Blog, Express brokers for Amazon MSK, Windows Server 2025 images on EC2, and more (Nov 11, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-20-years-of-aws-news-blog-express-brokers-for-amazon-msk-windows-server-2025-images-on-ec2-and-more-nov-11-2024/"
-    },
-    {
-        "title": "Announcing new APIs for Amazon Location Service Routes, Places, and Maps",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-new-apis-for-amazon-location-service-routes-places-and-maps/"
-    },
-    {
-        "title": "Introducing Express brokers for Amazon MSK to deliver high throughput and faster scaling for your Kafka clusters",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-express-brokers-for-amazon-msk-to-deliver-high-throughput-and-faster-scaling-for-your-kafka-clusters/"
     }
 ]
