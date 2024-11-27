@@ -1,5 +1,9 @@
 [
     {
+        "title": "Setting up Windows Server Failover Cluster shared storage on AWS Outposts rack",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/windows-server-failover-cluster-shared-storage-aws-outposts-rack/"
+    },
+    {
         "title": "Event-driven Active Directory domain join with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/event-driven-active-directory-domain-join-with-amazon-eventbridge/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Streamline Identity Management with AWS Directory Service and One Identity Active Roles",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/streamline-identity-management-with-aws-directory-service-and-one-identity-active-roles/"
-    },
-    {
-        "title": "Leverage a one-way trust with Amazon WorkSpaces for cross-domain usage",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/leverage-a-one-way-trust-with-amazon-workspaces-for-cross-domain-usage/"
     }
 ]

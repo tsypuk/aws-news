@@ -1,5 +1,9 @@
 [
     {
+        "title": "Working with AWS AppSync Events: Real-time Web Games with Chat",
+        "link": "https://aws.amazon.com/blogs/mobile/working-with-aws-appsync-events-real-time-web-games-with-chat/"
+    },
+    {
         "title": "Working with AWS AppSync Events: Serverless WebSockets for Pub/Sub",
         "link": "https://aws.amazon.com/blogs/mobile/working-with-aws-appsync-events-serverless-websockets-for-pub-sub/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New in AWS Amplify: Expanded Fullstack Deployment Capabilities for Teams of All Sizes",
         "link": "https://aws.amazon.com/blogs/mobile/team-workflows-amplify/"
-    },
-    {
-        "title": "Amplify Functions: Create serverless functions using TypeScript, powered by AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/mobile/amplify-functions-create-serverless-functions-using-typescript-powered-by-aws-lambda/"
     }
 ]

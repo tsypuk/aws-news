@@ -1,5 +1,33 @@
 [
     {
+        "title": "Boost automotive productivity with process automation facilitated by Generative AI",
+        "link": "https://aws.amazon.com/blogs/industries/boost-automotive-productivity-with-process-automation-facilitated-by-generative-ai/"
+    },
+    {
+        "title": "Generative AI for Retail: Key trends to watch in 2025",
+        "link": "https://aws.amazon.com/blogs/industries/generative-ai-for-retail-key-trends-to-watch-in-2025/"
+    },
+    {
+        "title": "Your telecom cloud journey on AWS: Part 3 \u2013 Optimizing cloud operations on AWS for telecom excellence",
+        "link": "https://aws.amazon.com/blogs/industries/optimizing-cloud-operations-on-aws-for-telecom-excellence/"
+    },
+    {
+        "title": "Your telecom cloud journey on AWS: Part 2 \u2013 A technical roadmap with AWS",
+        "link": "https://aws.amazon.com/blogs/industries/a-technical-roadmap-with-aws/"
+    },
+    {
+        "title": "Your Telecom Cloud Journey on AWS: Part 1 \u2013 Establishing a Foundation",
+        "link": "https://aws.amazon.com/blogs/industries/your-telecom-cloud-journey-on-aws-part-1-establishing-a-foundation/"
+    },
+    {
+        "title": "AWS Brings the Power of Generative AI to Ecommerce with the AI Shopping Assistant",
+        "link": "https://aws.amazon.com/blogs/industries/aws-brings-the-power-of-generative-ai-to-ecommerce-with-the-ai-shopping-assistant/"
+    },
+    {
+        "title": "Using generative AI for hyper-personalized telecom billing and subscription experiences on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/using-generative-ai-for-hyper-personalized-telecom-billing-and-subscription-experiences-on-aws/"
+    },
+    {
         "title": "Your guide to AWS for Advertising & Marketing at re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/industries/your-guide-to-aws-for-advertising-marketing-at-reinvent-2024/"
     },
@@ -10,33 +38,5 @@
     {
         "title": "The Stellantis Data & Software Hub: Managing data and software products at scale",
         "link": "https://aws.amazon.com/blogs/industries/the-stellantis-data-software-hub-managing-data-and-software-products-at-scale/"
-    },
-    {
-        "title": "Introducing the AWS guide to building and operating financial services workloads for DORA (Level 2)",
-        "link": "https://aws.amazon.com/blogs/industries/introducing-the-aws-guide-to-building-and-operating-financial-services-workloads-for-dora-level-2/"
-    },
-    {
-        "title": "AWS for Healthcare & Life Sciences at RSNA",
-        "link": "https://aws.amazon.com/blogs/industries/aws-for-healthcare-life-sciences-at-rsna/"
-    },
-    {
-        "title": "Adoption of Software-Defined Architecture in the Commercial Vehicle Industry",
-        "link": "https://aws.amazon.com/blogs/industries/adoption-of-software-defined-architecture-in-the-commercial-vehicle-industry/"
-    },
-    {
-        "title": "Introducing the AWS Level 1 DORA Workbook for AWS customers regulated under DORA",
-        "link": "https://aws.amazon.com/blogs/industries/introducing-the-aws-level-1-dora-workbook-for-aws-customers-regulated-under-dora/"
-    },
-    {
-        "title": "TSMC certifies Siemens EDA tools on AWS for N2/N3 process node technology",
-        "link": "https://aws.amazon.com/blogs/industries/tsmc-certifies-siemens-eda-tools-on-aws-for-n2-n3-process-node-technology/"
-    },
-    {
-        "title": "Boost Engagement with AWS and Amazon Ads",
-        "link": "https://aws.amazon.com/blogs/industries/boost-engagement-with-aws-and-amazon-ads/"
-    },
-    {
-        "title": "Streamlining U.S. EPA Subpart W Greenhouse Gas Reporting with AWS and Sustainability Insights Framework",
-        "link": "https://aws.amazon.com/blogs/industries/streamlining-u-s-epa-subpart-w-greenhouse-gas-reporting-with-aws-and-sustainability-insights-framework/"
     }
 ]

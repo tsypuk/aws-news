@@ -1,11 +1,15 @@
 [
     {
+        "title": "Time-based snapshot copy for Amazon EBS",
+        "link": "https://aws.amazon.com/blogs/aws/time-based-snapshot-copy-for-amazon-ebs/"
+    },
+    {
         "title": "Announcing future-dated Amazon EC2 On-Demand Capacity Reservations",
         "link": "https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/"
     },
     {
-        "title": "AWS Weekly Roundup: 197 new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually (Nov 25, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-197-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/"
+        "title": "AWS Weekly Roundup: multiple new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually (Nov 25, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-multiple-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/"
     },
     {
         "title": "Introducing a new experience for AWS Systems Manager",
@@ -74,9 +78,5 @@
     {
         "title": "AWS BuilderCards second edition at re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/aws/aws-buildercards-second-edition-available-at-reinvent-2024-and-online/"
-    },
-    {
-        "title": "AWS Weekly Roundup: 20 years of AWS News Blog, Express brokers for Amazon MSK, Windows Server 2025 images on EC2, and more (Nov 11, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-20-years-of-aws-news-blog-express-brokers-for-amazon-msk-windows-server-2025-images-on-ec2-and-more-nov-11-2024/"
     }
 ]

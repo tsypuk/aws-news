@@ -1,5 +1,53 @@
 [
     {
+        "title": "Unleash your Salesforce data using the Amazon Q Salesforce Online connector",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unleash-your-salesforce-data-using-the-amazon-q-salesforce-online-connector/"
+    },
+    {
+        "title": "Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Deploy Meta Llama 3.1-8B on AWS Inferentia using Amazon EKS and vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-meta-llama-3-1-8b-on-aws-inferentia-using-amazon-eks-and-vllm/"
+    },
+    {
+        "title": "Serving LLMs using vLLM and Amazon EC2 instances with AWS AI chips",
+        "link": "https://aws.amazon.com/blogs/machine-learning/serving-llms-using-vllm-and-amazon-ec2-instances-with-aws-ai-chips/"
+    },
+    {
+        "title": "Using LLMs to fortify cyber defenses: Sophos\u2019s insight on strategies for using LLMs with Amazon Bedrock and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-llms-to-fortify-cyber-defenses-sophoss-insight-on-strategies-for-using-llms-with-amazon-bedrock-and-amazon-sagemaker/"
+    },
+    {
+        "title": "Enhanced observability for AWS Trainium and AWS Inferentia with Datadog",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-observability-for-aws-trainium-and-aws-inferentia-with-datadog/"
+    },
+    {
+        "title": "Create a virtual stock technical analyst using Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-virtual-stock-technical-analyst-using-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Apply Amazon SageMaker Studio lifecycle configurations using AWS CDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/apply-amazon-sagemaker-studio-lifecycle-configurations-using-aws-cdk/"
+    },
+    {
+        "title": "Build a read-through semantic cache with Amazon OpenSearch Serverless and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-read-through-semantic-cache-with-amazon-opensearch-serverless-and-amazon-bedrock/"
+    },
+    {
+        "title": "Rad AI reduces real-time inference latency by 50% using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/rad-ai-reduces-real-time-inference-latency-by-50-using-amazon-sagemaker/"
+    },
+    {
+        "title": "Read graphs, diagrams, tables, and scanned pages using multimodal prompts in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/read-graphs-diagrams-tables-and-scanned-pages-using-multimodal-prompts-in-amazon-bedrock/"
+    },
+    {
+        "title": "How Crexi achieved ML models deployment on AWS at scale and boosted efficiency",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-crexi-achieved-ml-models-deployment-on-aws-at-scale-and-boosted-efficiency/"
+    },
+    {
         "title": "Deploy Meta Llama 3.1 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-meta-llama-3-1-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
     },
@@ -30,53 +78,5 @@
     {
         "title": "Orchestrate generative AI workflows with Amazon Bedrock and AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/machine-learning/orchestrate-generative-ai-workflows-with-amazon-bedrock-and-aws-step-functions/"
-    },
-    {
-        "title": "Build generative AI applications on Amazon Bedrock with the AWS SDK for Python (Boto3)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-on-amazon-bedrock-with-the-aws-sdk-for-python-boto3/"
-    },
-    {
-        "title": "Improve factual consistency with LLM Debates",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-factual-consistency-with-llm-debates/"
-    },
-    {
-        "title": "Governing the ML lifecycle at scale, Part 3: Setting up data governance at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-3-setting-up-data-governance-at-scale/"
-    },
-    {
-        "title": "Amazon Bedrock Flows is now generally available with enhanced safety and traceability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-flows-is-now-generally-available-with-enhanced-safety-and-traceability/"
-    },
-    {
-        "title": "Implement secure API access to your Amazon Q Business applications with IAM federation user access management",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-secure-api-access-to-your-amazon-q-business-applications-with-iam-federation-user-access-management/"
-    },
-    {
-        "title": "Enhance speech synthesis and video generation models with RLHF using audio and video segmentation in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-speech-synthesis-and-video-generation-models-with-rlhf-using-audio-and-video-segmentation-in-amazon-sagemaker/"
-    },
-    {
-        "title": "Using responsible AI principles with Amazon Bedrock Batch Inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-responsible-ai-principles-with-amazon-bedrock-batch-inference/"
-    },
-    {
-        "title": "Revolutionizing knowledge management: VW\u2019s AI prototype journey with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-knowledge-management-vws-ai-prototype-journey-with-aws/"
-    },
-    {
-        "title": "Fine-tune large language models with Amazon SageMaker Autopilot",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-amazon-sagemaker-autopilot/"
-    },
-    {
-        "title": "Unify structured data in Amazon Aurora and unstructured data in Amazon S3 for insights using Amazon Q",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unify-structured-data-in-amazon-aurora-and-unstructured-data-in-amazon-s3-for-insights-using-amazon-q/"
-    },
-    {
-        "title": "Automate Q&A email responses with Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-qa-email-responses-with-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Streamline RAG applications with intelligent metadata filtering using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-rag-applications-with-intelligent-metadata-filtering-using-amazon-bedrock/"
     }
 ]

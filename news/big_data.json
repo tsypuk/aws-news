@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run Apache XTable in AWS Lambda for background conversion of open table formats",
+        "link": "https://aws.amazon.com/blogs/big-data/run-apache-xtable-in-aws-lambda-for-background-conversion-of-open-table-formats/"
+    },
+    {
         "title": "Introducing generative AI troubleshooting for Apache Spark in AWS Glue (preview)",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-generative-ai-troubleshooting-for-apache-spark-in-aws-glue-preview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Volkswagen Autoeuropa built a data solution with a robust governance framework, simplifying access to quality data using Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/how-volkswagen-autoeuropa-built-a-data-solution-with-a-robust-governance-framework-simplifying-access-to-quality-data-using-amazon-datazone/"
-    },
-    {
-        "title": "Streamlining AWS Glue Studio visual jobs: Building an integrated CI/CD pipeline for seamless environment synchronization",
-        "link": "https://aws.amazon.com/blogs/big-data/streamlining-aws-glue-studio-visual-jobs-building-an-integrated-ci-cd-pipeline-for-seamless-environment-synchronization/"
     }
 ]

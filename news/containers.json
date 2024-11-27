@@ -1,5 +1,13 @@
 [
     {
+        "title": "Transforming Istio into an enterprise-ready service mesh for Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/containers/transforming-istio-into-an-enterprise-ready-service-mesh-for-amazon-ecs/"
+    },
+    {
+        "title": "Unlocking Benefits with Bottlerocket: A Purpose-Built Container OS",
+        "link": "https://aws.amazon.com/blogs/containers/benefiting-from-bottlerocket-an-open-source-container-optimized-operating-system/"
+    },
+    {
         "title": "Optimize compute resources on Amazon ECS with Predictive Scaling",
         "link": "https://aws.amazon.com/blogs/containers/optimize-compute-resources-on-amazon-ecs-with-predictive-scaling/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Improving deployment visibility for Amazon ECS services",
         "link": "https://aws.amazon.com/blogs/containers/improving-deployment-visibility-for-amazon-ecs-services/"
-    },
-    {
-        "title": "How Infinitium reduced fraud detection time by 95% with Amazon ECS and AWS Fargate on AWS Graviton",
-        "link": "https://aws.amazon.com/blogs/containers/how-infinitium-reduced-fraud-detection-time-by-95-with-amazon-ecs-and-aws-fargate-on-aws-graviton/"
-    },
-    {
-        "title": "Serverless containers at AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/containers/serverless-containers-at-aws-reinvent-2024/"
     }
 ]

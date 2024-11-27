@@ -1,5 +1,13 @@
 [
     {
+        "title": "Analyzing your AWS Cost Explorer data with Amazon Q Developer: Now Generally Available",
+        "link": "https://aws.amazon.com/blogs/devops/analyzing-your-aws-cost-explorer-data-with-amazon-q-developer-now-generally-available/"
+    },
+    {
+        "title": "How SmugMug Increased Data Modeling Productivity with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/how-smugmug-increased-data-modeling-productivity-with-amazon-q-developer/"
+    },
+    {
         "title": "Dissecting the Performance Gains in Amazon Q Developer agent for code transformation",
         "link": "https://aws.amazon.com/blogs/devops/dissecting-the-performance-gains-in-amazon-q-developer-agent-for-code-transformation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Five ways to optimize code with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/five-ways-to-optimize-code-with-amazon-q-developer/"
-    },
-    {
-        "title": "Code security scanning with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/code-security-scanning-with-amazon-q-developer/"
-    },
-    {
-        "title": "Accelerate Serverless Streamlit App Deployment with Terraform",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-serverless-streamlit-app-deployment-with-terraform/"
     }
 ]

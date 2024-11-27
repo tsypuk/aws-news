@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Provisioned Mode for Kafka Event Source Mappings with AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-provisioned-mode-for-kafka-event-source-mappings-with-aws-lambda/"
+    },
+    {
         "title": "Implementing transactions using JMS2.0 in Amazon MQ for ActiveMQ",
         "link": "https://aws.amazon.com/blogs/compute/implementing-transactions-using-jms2-0-in-amazon-mq-for-activemq/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitoring best practices for event delivery with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/compute/monitoring-best-practices-for-event-delivery-with-amazon-eventbridge/"
-    },
-    {
-        "title": "New: Zone Groups for Availability Zones in AWS Regions",
-        "link": "https://aws.amazon.com/blogs/compute/new-zone-groups-for-availability-zones-in-aws-regions/"
     }
 ]
