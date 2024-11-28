@@ -1,5 +1,9 @@
 [
     {
+        "title": "Federated access to Amazon Athena using AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/federated-access-to-amazon-athena-using-aws-iam-identity-center/"
+    },
+    {
         "title": "Secure root user access for member accounts in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/security/secure-root-user-access-for-member-accounts-in-aws-organizations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use the Amazon Detective API to investigate GuardDuty security findings and enrich data in Security Hub",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-the-amazon-detective-api-to-investigate-guardduty-security-findings-and-enrich-data-in-security-hub/"
-    },
-    {
-        "title": "How to use interface VPC endpoints to meet your security objectives",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-interface-vpc-endpoints-to-meet-your-security-objectives/"
     }
 ]

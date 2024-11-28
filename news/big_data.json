@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon EMR streamlines big data processing with simplified Amazon S3 Glacier access",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-streamlines-big-data-processing-with-simplified-amazon-s3-glacier-access/"
+    },
+    {
+        "title": "Develop a business chargeback model within your organization using Amazon Redshift multi-warehouse writes",
+        "link": "https://aws.amazon.com/blogs/big-data/develop-a-business-chargeback-model-within-your-organization-using-amazon-redshift-multi-warehouse-writes/"
+    },
+    {
+        "title": "Unlocking near real-time analytics with petabytes of transaction data using Amazon Aurora Zero-ETL integration with Amazon Redshift and dbt Cloud",
+        "link": "https://aws.amazon.com/blogs/big-data/unlocking-near-real-time-analytics-with-petabytes-of-transaction-data-using-amazon-aurora-zero-etl-integration-with-amazon-redshift-and-dbt-cloud/"
+    },
+    {
+        "title": "Intel Accelerators on Amazon OpenSearch Service improve price-performance on vector search by up to 51%",
+        "link": "https://aws.amazon.com/blogs/big-data/intel-accelerators-on-amazon-opensearch-service-improve-price-performance-on-vector-search-by-up-to-51/"
+    },
+    {
         "title": "Run Apache XTable in AWS Lambda for background conversion of open table formats",
         "link": "https://aws.amazon.com/blogs/big-data/run-apache-xtable-in-aws-lambda-for-background-conversion-of-open-table-formats/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How FINRA established real-time operational observability for Amazon EMR big data workloads on Amazon EC2 with Prometheus and Grafana",
         "link": "https://aws.amazon.com/blogs/big-data/how-finra-established-real-time-operational-observability-for-amazon-emr-big-data-workloads-on-amazon-ec2-with-prometheus-and-grafana/"
-    },
-    {
-        "title": "Your guide to AWS Analytics at AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-aws-reinvent-2024/"
-    },
-    {
-        "title": "Ingest telemetry messages in near real time with Amazon API Gateway, Amazon Data Firehose, and Amazon Location Service",
-        "link": "https://aws.amazon.com/blogs/big-data/ingest-telemetry-messages-in-near-real-time-with-amazon-api-gateway-amazon-data-firehose-and-amazon-location-service/"
-    },
-    {
-        "title": "Expand data access through Apache Iceberg using Delta Lake UniForm on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/expand-data-access-through-apache-iceberg-using-delta-lake-uniform-on-aws/"
-    },
-    {
-        "title": "How Volkswagen Autoeuropa built a data solution with a robust governance framework, simplifying access to quality data using Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/how-volkswagen-autoeuropa-built-a-data-solution-with-a-robust-governance-framework-simplifying-access-to-quality-data-using-amazon-datazone/"
     }
 ]

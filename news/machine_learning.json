@@ -1,5 +1,29 @@
 [
     {
+        "title": "Search enterprise data assets using LLMs backed by knowledge graphs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/search-enterprise-data-assets-using-llms-backed-by-knowledge-graphs/"
+    },
+    {
+        "title": "Embodied AI Chess with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/embodied-ai-chess-with-amazon-bedrock/"
+    },
+    {
+        "title": "Efficiently train models with large sequence lengths using Amazon SageMaker model parallel",
+        "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-models-with-large-sequence-lengths-using-amazon-sagemaker-model-parallel/"
+    },
+    {
+        "title": "Getting started with Amazon Bedrock Agents custom orchestrator",
+        "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-bedrock-agents-custom-orchestrator/"
+    },
+    {
+        "title": "Use Amazon Bedrock Agents for code scanning, optimization, and remediation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-agents-for-code-scanning-optimization-and-remediation/"
+    },
+    {
+        "title": "Create a generative AI assistant with Slack and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-assistant-with-slack-and-amazon-bedrock/"
+    },
+    {
         "title": "Unleash your Salesforce data using the Amazon Q Salesforce Online connector",
         "link": "https://aws.amazon.com/blogs/machine-learning/unleash-your-salesforce-data-using-the-amazon-q-salesforce-online-connector/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "AWS achieves ISO/IEC 42001:2023 Artificial Intelligence Management System accredited certification",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-achieves-iso-iec-420012023-artificial-intelligence-management-system-accredited-certification/"
-    },
-    {
-        "title": "How 123RF saved over 90% of their translation costs by switching to Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-123rf-saved-over-90-of-their-translation-costs-by-switching-to-amazon-bedrock/"
-    },
-    {
-        "title": "Connect SharePoint Online to Amazon Q Business using OAuth 2.0 ROPC flow authentication",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-sharepoint-online-to-amazon-q-business-using-oauth-2-0-ropc-flow-authentication/"
-    },
-    {
-        "title": "John Snow Labs Medical LLMs are now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/john-snow-labs-medical-llms-are-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Accelerating Mixtral MoE fine-tuning on Amazon SageMaker with QLoRA",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-mixtral-moe-fine-tuning-on-amazon-sagemaker-with-qlora/"
-    },
-    {
-        "title": "Amazon SageMaker Inference now supports G6e instances",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-now-supports-g6e-instances/"
-    },
-    {
-        "title": "Orchestrate generative AI workflows with Amazon Bedrock and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/orchestrate-generative-ai-workflows-with-amazon-bedrock-and-aws-step-functions/"
     }
 ]

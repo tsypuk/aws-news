@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon FSx for Lustre increases throughput to GPU instances by up to 12x",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-unlocks-full-network-bandwidth-and-gpu-performance/"
+    },
+    {
         "title": "Time-based snapshot copy for Amazon EBS",
         "link": "https://aws.amazon.com/blogs/aws/time-based-snapshot-copy-for-amazon-ebs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/"
-    },
-    {
-        "title": "AWS BuilderCards second edition at re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/aws/aws-buildercards-second-edition-available-at-reinvent-2024-and-online/"
     }
 ]

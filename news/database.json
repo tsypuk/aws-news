@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate database object deployments in Amazon Aurora using AWS CodePipeline",
+        "link": "https://aws.amazon.com/blogs/database/automate-database-object-deployments-in-amazon-aurora-using-aws-codepipeline/"
+    },
+    {
         "title": "Migrate time series data to Amazon Timestream for LiveAnalytics using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/migrate-time-series-data-to-amazon-timestream-for-liveanalytics-using-aws-dms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate the deployment of Amazon RDS for Db2 Instances with Terraform",
         "link": "https://aws.amazon.com/blogs/database/automate-the-deployment-of-amazon-rds-for-db2-instances-with-terraform/"
-    },
-    {
-        "title": "Understanding time-series data and why it matters",
-        "link": "https://aws.amazon.com/blogs/database/understanding-time-series-data-and-why-it-matters/"
     }
 ]

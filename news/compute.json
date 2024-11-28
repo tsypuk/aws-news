@@ -1,5 +1,9 @@
 [
     {
+        "title": "Hosting containers at the edge using Amazon ECS and AWS Outposts server",
+        "link": "https://aws.amazon.com/blogs/compute/hosting-containers-at-the-edge-using-amazon-ecs-and-aws-outposts-server/"
+    },
+    {
         "title": "Introducing Provisioned Mode for Kafka Event Source Mappings with AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/introducing-provisioned-mode-for-kafka-event-source-mappings-with-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Designing Serverless Integration Patterns for Large Language Models (LLMs)",
         "link": "https://aws.amazon.com/blogs/compute/designing-serverless-integration-patterns-for-large-language-models-llms/"
-    },
-    {
-        "title": "Monitoring best practices for event delivery with Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/compute/monitoring-best-practices-for-event-delivery-with-amazon-eventbridge/"
     }
 ]

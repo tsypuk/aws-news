@@ -1,5 +1,9 @@
 [
     {
+        "title": "Leverage powerful generative-AI capabilities for Java development in the Eclipse IDE public preview",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-eclipse-preview/"
+    },
+    {
         "title": "Analyzing your AWS Cost Explorer data with Amazon Q Developer: Now Generally Available",
         "link": "https://aws.amazon.com/blogs/devops/analyzing-your-aws-cost-explorer-data-with-amazon-q-developer-now-generally-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Instant Well-Architected CDK Resources with Solutions Constructs Factories",
         "link": "https://aws.amazon.com/blogs/devops/instant-well-architected-cdk-resources-with-solutions-constructs-factories/"
-    },
-    {
-        "title": "Five ways to optimize code with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/five-ways-to-optimize-code-with-amazon-q-developer/"
     }
 ]
