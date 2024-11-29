@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS IoT Services alignment with US Cyber Trust Mark",
+        "link": "https://aws.amazon.com/blogs/iot/aws-iot-and-us-cyber-trust-mark/"
+    },
+    {
         "title": "Amazon Kinesis Video Streams Privacy and E2E Security Overview",
         "link": "https://aws.amazon.com/blogs/iot/amazon-kvs-privacy-and-security-overview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlocking Scalable IoT Analytics on AWS",
         "link": "https://aws.amazon.com/blogs/iot/unlocking-scalable-iot-analytics-on-aws/"
-    },
-    {
-        "title": "Building Track and Trace applications using AWS IoT Core for Amazon Sidewalk",
-        "link": "https://aws.amazon.com/blogs/iot/building-track-and-trace-applications-using-aws-iot-core-for-amazon-sidewalk/"
     }
 ]
