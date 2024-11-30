@@ -1,5 +1,13 @@
 [
     {
+        "title": "Easily deploy and manage hundreds of LoRA adapters with SageMaker efficient multi-adapter inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/easily-deploy-and-manage-hundreds-of-lora-adapters-with-sagemaker-efficient-multi-adapter-inference/"
+    },
+    {
+        "title": "Improve the performance of your Generative AI applications with Prompt Optimization on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-the-performance-of-your-generative-ai-applications-with-prompt-optimization-on-amazon-bedrock/"
+    },
+    {
         "title": "Search enterprise data assets using LLMs backed by knowledge graphs",
         "link": "https://aws.amazon.com/blogs/machine-learning/search-enterprise-data-assets-using-llms-backed-by-knowledge-graphs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Crexi achieved ML models deployment on AWS at scale and boosted efficiency",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-crexi-achieved-ml-models-deployment-on-aws-at-scale-and-boosted-efficiency/"
-    },
-    {
-        "title": "Deploy Meta Llama 3.1 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-meta-llama-3-1-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
-    },
-    {
-        "title": "AWS achieves ISO/IEC 42001:2023 Artificial Intelligence Management System accredited certification",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-achieves-iso-iec-420012023-artificial-intelligence-management-system-accredited-certification/"
     }
 ]

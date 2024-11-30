@@ -1,5 +1,9 @@
 [
     {
+        "title": ".NET observability with Amazon CloudWatch Application Signals",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/dotnet-observability-cloudwatch-application-signals/"
+    },
+    {
         "title": "Setting up Windows Server Failover Cluster shared storage on AWS Outposts rack",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/windows-server-failover-cluster-shared-storage-aws-outposts-rack/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerate Remote Desktop Gateway deployments with AWS Launch Wizard",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-remote-desktop-gateway-deployments-with-aws-launch-wizard/"
-    },
-    {
-        "title": "Streamline Identity Management with AWS Directory Service and One Identity Active Roles",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/streamline-identity-management-with-aws-directory-service-and-one-identity-active-roles/"
     }
 ]
