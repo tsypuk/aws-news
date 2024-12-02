@@ -1,5 +1,13 @@
 [
     {
+        "title": "Cohere Rerank 3.5 is now available in Amazon Bedrock through Rerank API",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-rerank-3-5-is-now-available-in-amazon-bedrock-through-rerank-api/"
+    },
+    {
+        "title": "AWS DeepRacer: How to master physical racing?",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-how-to-master-physical-racing/"
+    },
+    {
         "title": "Easily deploy and manage hundreds of LoRA adapters with SageMaker efficient multi-adapter inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/easily-deploy-and-manage-hundreds-of-lora-adapters-with-sagemaker-efficient-multi-adapter-inference/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Rad AI reduces real-time inference latency by 50% using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/rad-ai-reduces-real-time-inference-latency-by-50-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Read graphs, diagrams, tables, and scanned pages using multimodal prompts in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/read-graphs-diagrams-tables-and-scanned-pages-using-multimodal-prompts-in-amazon-bedrock/"
-    },
-    {
-        "title": "How Crexi achieved ML models deployment on AWS at scale and boosted efficiency",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-crexi-achieved-ml-models-deployment-on-aws-at-scale-and-boosted-efficiency/"
     }
 ]
