@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2024-12-010.1.0) - 2024-12-01
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2024-12-020.1.0) - 2024-12-02
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/85aaea7b8a37cd8fa0e949df8ba063096123a307...ver-2024-12-01)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/2eb2eeeb6912c637c81789abdbbdfd01f1b3f280...ver-2024-12-02)</small>
 
 ### Docs
 
-- updated AWS news - sap - 2024-12-01 ([3222b91](https://github.com/tsypuk/aws-news/commit/3222b919843d68bdeaa71e1fe59d5e6a7085f36b) by Roman Tsypuk).
+- updated AWS news - aws_news,compute,machine_learning - 2024-12-02 ([1c0ad3d](https://github.com/tsypuk/aws-news/commit/1c0ad3d730d04e698344b97498714c5c3f7f4b24) by Roman Tsypuk).
 
