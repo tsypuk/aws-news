@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling your LLM inference workloads: multi-node deployment with TensorRT-LLM and Triton on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/hpc/scaling-your-llm-inference-workloads-multi-node-deployment-with-tensorrt-llm-and-triton-on-amazon-eks/"
+    },
+    {
         "title": "Advancing research in the cloud: AWS announces expanded training resources",
         "link": "https://aws.amazon.com/blogs/hpc/advancing-research-in-the-cloud-aws-announces-expanded-training-resources/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Discontinuation of NICE EnginFrame effective September 25th, 2025",
         "link": "https://aws.amazon.com/blogs/hpc/discontinuation-of-nice-enginframe-effective-september-25th-2025/"
-    },
-    {
-        "title": "Recent improvement to Open MPI AllReduce and the impact to application performance",
-        "link": "https://aws.amazon.com/blogs/hpc/recent-improvement-to-open-mpi-allreduce-and-the-impact-to-application-performance/"
     }
 ]

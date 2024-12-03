@@ -1,5 +1,33 @@
 [
     {
+        "title": "Speed up your AI inference workloads with new NVIDIA-powered capabilities in Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/speed-up-your-ai-inference-workloads-with-new-nvidia-powered-capabilities-in-amazon-sagemaker/"
+    },
+    {
+        "title": "Unlock cost savings with the new scale down to zero feature in SageMaker Inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-cost-savings-with-the-new-scale-down-to-zero-feature-in-amazon-sagemaker-inference/"
+    },
+    {
+        "title": "Supercharge your auto scaling for generative AI inference \u2013 Introducing Container Caching in SageMaker Inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-auto-scaling-for-generative-ai-inference-introducing-container-caching-in-sagemaker-inference/"
+    },
+    {
+        "title": "Introducing Fast Model Loader in SageMaker Inference: Accelerate autoscaling for your Large Language Models (LLMs) \u2013 part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-fast-model-loader-in-sagemaker-inference-accelerate-autoscaling-for-your-large-language-models-llms-part-1/"
+    },
+    {
+        "title": "Introducing Fast Model Loader in SageMaker Inference: Accelerate autoscaling for your Large Language Models (LLMs) \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-fast-model-loader-in-sagemaker-inference-accelerate-autoscaling-for-your-large-language-models-llms-part-2/"
+    },
+    {
+        "title": "Fast and accurate zero-shot forecasting with Chronos-Bolt and AutoGluon",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fast-and-accurate-zero-shot-forecasting-with-chronos-bolt-and-autogluon/"
+    },
+    {
+        "title": "How Amazon Finance Automation built a generative AI Q&A chat assistant using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-automation-built-a-generative-ai-qa-chat-assistant-using-amazon-bedrock/"
+    },
+    {
         "title": "Cohere Rerank 3.5 is now available in Amazon Bedrock through Rerank API",
         "link": "https://aws.amazon.com/blogs/machine-learning/cohere-rerank-3-5-is-now-available-in-amazon-bedrock-through-rerank-api/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Deploy Meta Llama 3.1-8B on AWS Inferentia using Amazon EKS and vLLM",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-meta-llama-3-1-8b-on-aws-inferentia-using-amazon-eks-and-vllm/"
-    },
-    {
-        "title": "Serving LLMs using vLLM and Amazon EC2 instances with AWS AI chips",
-        "link": "https://aws.amazon.com/blogs/machine-learning/serving-llms-using-vllm-and-amazon-ec2-instances-with-aws-ai-chips/"
-    },
-    {
-        "title": "Using LLMs to fortify cyber defenses: Sophos\u2019s insight on strategies for using LLMs with Amazon Bedrock and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-llms-to-fortify-cyber-defenses-sophoss-insight-on-strategies-for-using-llms-with-amazon-bedrock-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Enhanced observability for AWS Trainium and AWS Inferentia with Datadog",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-observability-for-aws-trainium-and-aws-inferentia-with-datadog/"
-    },
-    {
-        "title": "Create a virtual stock technical analyst using Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-virtual-stock-technical-analyst-using-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Apply Amazon SageMaker Studio lifecycle configurations using AWS CDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/apply-amazon-sagemaker-studio-lifecycle-configurations-using-aws-cdk/"
-    },
-    {
-        "title": "Build a read-through semantic cache with Amazon OpenSearch Serverless and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-read-through-semantic-cache-with-amazon-opensearch-serverless-and-amazon-bedrock/"
-    },
-    {
-        "title": "Rad AI reduces real-time inference latency by 50% using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/rad-ai-reduces-real-time-inference-latency-by-50-using-amazon-sagemaker/"
     }
 ]

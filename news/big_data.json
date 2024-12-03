@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the HubSpot connector for AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-hubspot-connector-for-aws-glue/"
+    },
+    {
         "title": "Scaling RISE with SAP data and AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/scaling-rise-with-sap-data-and-aws-glue/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Manage access controls in generative AI-powered search applications using Amazon OpenSearch Service and Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/big-data/manage-access-controls-in-generative-ai-powered-search-applications-using-amazon-opensearch-service-and-aws-cognito/"
-    },
-    {
-        "title": "Enrich your AWS Glue Data Catalog with generative AI metadata using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/big-data/enrich-your-aws-glue-data-catalog-with-generative-ai-metadata-using-amazon-bedrock/"
     }
 ]

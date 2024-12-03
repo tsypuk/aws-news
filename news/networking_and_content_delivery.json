@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon VPC Lattice: modernize and simplify your enterprise network architectures",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-vpc-vattice-modernize-and-simplify-your-enterprise-network-architectures/"
+    },
+    {
         "title": "Simplify global hybrid connectivity with AWS Cloud WAN and AWS Direct Connect integration",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-global-hybrid-connectivity-with-aws-cloud-wan-and-aws-direct-connect-integration/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enabling global expansion and reduced operational overhead at Comcast with AWS Transit Gateway",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-global-expansion-and-reduced-operational-overhead-at-comcast-with-aws-transit-gateway/"
-    },
-    {
-        "title": "Migrate your workloads to use VPC endpoints with minimum downtime",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-your-workloads-to-use-vpc-endpoints-with-minimum-downtime/"
     }
 ]

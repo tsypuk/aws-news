@@ -1,5 +1,13 @@
 [
     {
+        "title": "migration support service for RISE with SAP on AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/migration-support-service-for-rise-with-sap-on-aws/"
+    },
+    {
+        "title": "Introducing the migration readiness accelerator for RISE with SAP on AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/migration-readiness-accelerator-for-rise-with-sap-on-aws/"
+    },
+    {
         "title": "Enhance your business process resilience with Amazon CloudWatch Application Insights Observability for SAP High Availability \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/awsforsap/enhance-your-business-process-resilience-with-amazon-cloudwatch-application-insights-observability-for-sap-high-availability-part-2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Supercharge your SAP BTP Apps with AWS Services and SAP PrivateLink",
         "link": "https://aws.amazon.com/blogs/awsforsap/supercharge-your-sap-btp-apps-with-aws-services-and-sap-privatelink/"
-    },
-    {
-        "title": "Automate deployment of SAP systems on ASE database with AWS Launch Wizard",
-        "link": "https://aws.amazon.com/blogs/awsforsap/automate-deployment-of-sap-systems-on-ase-database-with-aws-launch-wizard/"
-    },
-    {
-        "title": "Build Resilient Applications on SAP BTP with AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/build-resilient-applications-on-sap-btp-with-aws/"
     }
 ]

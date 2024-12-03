@@ -1,5 +1,49 @@
 [
     {
+        "title": "Top announcements of AWS re:Invent 2024",
+        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2024/"
+    },
+    {
+        "title": "Introducing Amazon GuardDuty Extended Threat Detection: AI/ML attack sequence identification for enhanced cloud security",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-extended-threat-detection-aiml-attack-sequence-identification-for-enhanced-cloud-security/"
+    },
+    {
+        "title": "Container Insights with enhanced observability now available in Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/aws/container-insights-with-enhanced-observability-now-available-in-amazon-ecs/"
+    },
+    {
+        "title": "AWS Clean Rooms now supports multiple clouds and data sources",
+        "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-now-supports-multiple-clouds-and-data-sources/"
+    },
+    {
+        "title": "New physical AWS Data Transfer Terminals let you upload to the cloud faster",
+        "link": "https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/"
+    },
+    {
+        "title": "Enhance your productivity with new extensions and integrations in Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/aws/enhance-your-productivity-with-new-extensions-and-integrations-in-amazon-q-business/"
+    },
+    {
+        "title": "Announcing Amazon FSx Intelligent-Tiering, a new storage class for FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-fsx-intelligent-tiering-a-new-storage-class-for-fsx-for-openzfs/"
+    },
+    {
+        "title": "New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/"
+    },
+    {
+        "title": "Newly enhanced Amazon Connect adds generative AI, WhatsApp Business, and secure data collection",
+        "link": "https://aws.amazon.com/blogs/aws/newly-enhanced-amazon-connect-adds-generative-ai-whatsapp-business-and-secure-data-collection/"
+    },
+    {
+        "title": "Securely share AWS resources across VPC and account boundaries with PrivateLink, VPC Lattice, EventBridge, and Step Functions",
+        "link": "https://aws.amazon.com/blogs/aws/securely-share-aws-resources-across-vpc-and-account-boundaries-with-privatelink-vpc-lattice-eventbridge-and-step-functions/"
+    },
+    {
+        "title": "New AWS Security Incident Response helps organizations respond to and recover from security events",
+        "link": "https://aws.amazon.com/blogs/aws/new-aws-security-incident-response-helps-organizations-respond-to-and-recover-from-security-events/"
+    },
+    {
         "title": "New APIs in Amazon Bedrock to enhance RAG applications, now available",
         "link": "https://aws.amazon.com/blogs/aws/new-apis-in-amazon-bedrock-to-enhance-rag-applications-now-available/"
     },
@@ -34,49 +78,5 @@
     {
         "title": "Announcing AWS Transfer Family web apps for fully managed Amazon S3 file transfers",
         "link": "https://aws.amazon.com/blogs/aws/announcing-aws-transfer-family-web-apps-for-fully-managed-amazon-s3-file-transfers/"
-    },
-    {
-        "title": "Introducing Amazon OpenSearch Service and Amazon Security Lake integration to simplify security analytics",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-opensearch-service-zero-etl-integration-for-amazon-security-lake/"
-    },
-    {
-        "title": "Use your on-premises infrastructure in Amazon EKS clusters with Amazon EKS Hybrid Nodes",
-        "link": "https://aws.amazon.com/blogs/aws/use-your-on-premises-infrastructure-in-amazon-eks-clusters-with-amazon-eks-hybrid-nodes/"
-    },
-    {
-        "title": "Streamline Kubernetes cluster management with new Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Introducing storage optimized Amazon EC2 I8g instances powered by AWS Graviton4 processors and 3rd gen AWS Nitro SSDs",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-storage-optimized-amazon-ec2-i8g-instances-powered-by-aws-graviton4-processors-and-3rd-gen-aws-nitro-ssds/"
-    },
-    {
-        "title": "Now available: Storage optimized Amazon EC2 I7ie instances",
-        "link": "https://aws.amazon.com/blogs/aws/now-available-storage-optimized-amazon-ec2-i7ie-instances/"
-    },
-    {
-        "title": "New Amazon CloudWatch Database Insights: Comprehensive database observability from fleets to instances",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-database-insights-comprehensive-database-observability-from-fleets-to-instances/"
-    },
-    {
-        "title": "New Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-and-amazon-opensearch-service-launch-an-integrated-analytics-experience/"
-    },
-    {
-        "title": "Amazon FSx for Lustre increases throughput to GPU instances by up to 12x",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-unlocks-full-network-bandwidth-and-gpu-performance/"
-    },
-    {
-        "title": "Time-based snapshot copy for Amazon EBS",
-        "link": "https://aws.amazon.com/blogs/aws/time-based-snapshot-copy-for-amazon-ebs/"
-    },
-    {
-        "title": "Announcing future-dated Amazon EC2 On-Demand Capacity Reservations",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/"
-    },
-    {
-        "title": "AWS Weekly Roundup: multiple new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually (Nov 25, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-multiple-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/"
     }
 ]
