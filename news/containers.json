@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting started with Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/getting-started-with-amazon-eks-auto-mode/"
+    },
+    {
         "title": "Transforming Istio into an enterprise-ready service mesh for Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/transforming-istio-into-an-enterprise-ready-service-mesh-for-amazon-ecs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon EKS now supports Amazon Application Recovery Controller",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-amazon-application-recovery-controller/"
-    },
-    {
-        "title": "Improving deployment visibility for Amazon ECS services",
-        "link": "https://aws.amazon.com/blogs/containers/improving-deployment-visibility-for-amazon-ecs-services/"
     }
 ]

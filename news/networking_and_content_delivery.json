@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extend SaaS Capabilities Across AWS Accounts Using AWS PrivateLink support for VPC Resources",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extend-saas-capabilities-across-aws-accounts-using-aws-privatelink-support-for-vpc-resources/"
+    },
+    {
         "title": "Amazon VPC Lattice: modernize and simplify your enterprise network architectures",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-vpc-vattice-modernize-and-simplify-your-enterprise-network-architectures/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing security group referencing for AWS Transit Gateway",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-security-group-referencing-for-aws-transit-gateway/"
-    },
-    {
-        "title": "Enabling global expansion and reduced operational overhead at Comcast with AWS Transit Gateway",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-global-expansion-and-reduced-operational-overhead-at-comcast-with-aws-transit-gateway/"
     }
 ]

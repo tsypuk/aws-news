@@ -1,82 +1,82 @@
 [
     {
-        "title": "Top announcements of AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2024/"
+        "title": "Amazon SageMaker Lakehouse integrated access controls now available in Amazon Athena federated queries",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-lakehouse-integrated-access-controls-now-available-in-amazon-athena-federated-queries/"
     },
     {
-        "title": "Introducing Amazon GuardDuty Extended Threat Detection: AI/ML attack sequence identification for enhanced cloud security",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-extended-threat-detection-aiml-attack-sequence-identification-for-enhanced-cloud-security/"
+        "title": "Amazon SageMaker Lakehouse and Amazon Redshift supports zero-ETL integrations from applications",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-sagemaker-lakehouse-support-for-zero-etl-integrations-from-applications/"
     },
     {
-        "title": "Container Insights with enhanced observability now available in Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/aws/container-insights-with-enhanced-observability-now-available-in-amazon-ecs/"
+        "title": "Simplify analytics and AI/ML with new Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/aws/simplify-analytics-and-aiml-with-new-amazon-sagemaker-lakehouse/"
     },
     {
-        "title": "AWS Clean Rooms now supports multiple clouds and data sources",
-        "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-now-supports-multiple-clouds-and-data-sources/"
+        "title": "New Amazon DynamoDB zero-ETL integration with Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-zero-etl-integration-with-amazon-sagemaker-lakehouse/"
     },
     {
-        "title": "New physical AWS Data Transfer Terminals let you upload to the cloud faster",
-        "link": "https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/"
+        "title": "Discover, govern, and collaborate on data and AI securely with Amazon SageMaker Data and AI Governance",
+        "link": "https://aws.amazon.com/blogs/aws/discover-govern-and-collaborate-on-data-and-ai-securely-with-amazon-sagemaker-data-and-ai-governance/"
     },
     {
-        "title": "Enhance your productivity with new extensions and integrations in Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/aws/enhance-your-productivity-with-new-extensions-and-integrations-in-amazon-q-business/"
+        "title": "Announcing the general availability of data lineage in the next generation of Amazon SageMaker and Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-data-lineage-in-the-next-generation-of-amazon-sagemaker-and-amazon-datazone/"
     },
     {
-        "title": "Announcing Amazon FSx Intelligent-Tiering, a new storage class for FSx for OpenZFS",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-fsx-intelligent-tiering-a-new-storage-class-for-fsx-for-openzfs/"
+        "title": "Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/"
     },
     {
-        "title": "New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/"
+        "title": "Amazon Q Business is adding new workflow automation capability and 50+ action integrations",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-q-business-is-adding-new-workflow-automation-capability-and-50-action-integrations/"
     },
     {
-        "title": "Newly enhanced Amazon Connect adds generative AI, WhatsApp Business, and secure data collection",
-        "link": "https://aws.amazon.com/blogs/aws/newly-enhanced-amazon-connect-adds-generative-ai-whatsapp-business-and-secure-data-collection/"
+        "title": "New capabilities from Amazon Q Business enable ISVs to enhance generative AI experiences",
+        "link": "https://aws.amazon.com/blogs/aws/new-capabilities-from-amazon-q-business-enable-isvs-to-enhance-generative-ai-experiences/"
     },
     {
-        "title": "Securely share AWS resources across VPC and account boundaries with PrivateLink, VPC Lattice, EventBridge, and Step Functions",
-        "link": "https://aws.amazon.com/blogs/aws/securely-share-aws-resources-across-vpc-and-account-boundaries-with-privatelink-vpc-lattice-eventbridge-and-step-functions/"
+        "title": "New Amazon Q Developer agent capabilities include generating documentation, code reviews, and unit tests",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/"
     },
     {
-        "title": "New AWS Security Incident Response helps organizations respond to and recover from security events",
-        "link": "https://aws.amazon.com/blogs/aws/new-aws-security-incident-response-helps-organizations-respond-to-and-recover-from-security-events/"
+        "title": "Announcing Amazon Q Developer transformation capabilities for .NET (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-q-developer-transformation-capabilities-for-net-preview/"
     },
     {
-        "title": "New APIs in Amazon Bedrock to enhance RAG applications, now available",
-        "link": "https://aws.amazon.com/blogs/aws/new-apis-in-amazon-bedrock-to-enhance-rag-applications-now-available/"
+        "title": "Announcing Amazon Q Developer transformation capabilities for .NET, mainframe, and VMware workloads (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-q-developer-transformation-capabilities-for-net-mainframe-and-vmware-workloads-preview/"
     },
     {
-        "title": "Connect users to data through your apps with Storage Browser for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/aws/connect-users-to-data-through-your-apps-with-storage-browser-for-amazon-s3/"
+        "title": "Investigate and remediate operational issues with Amazon Q Developer (in preview)",
+        "link": "https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/"
     },
     {
-        "title": "Introducing new PartyRock capabilities and free daily usage",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-new-partyrock-capabilities-and-free-daily-usage/"
+        "title": "Introducing GitLab Duo with Amazon Q",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-gitlab-duo-with-amazon-q/"
     },
     {
-        "title": "Amazon MemoryDB Multi-Region is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-memorydb-multi-region-is-now-generally-available/"
+        "title": "Introducing Amazon Nova: Frontier intelligence and industry leading price performance",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"
     },
     {
-        "title": "Introducing default data integrity protections for new objects in Amazon S3",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-default-data-integrity-protections-for-new-objects-in-amazon-s3/"
+        "title": "Introducing multi-agent collaboration capability for Amazon Bedrock (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-multi-agent-collaboration-capability-for-amazon-bedrock/"
     },
     {
-        "title": "AWS Database Migration Service now automates time-intensive schema conversion tasks using generative AI",
-        "link": "https://aws.amazon.com/blogs/aws/aws-data-migration-service-improves-database-schema-conversion-with-generative-ai/"
+        "title": "Prevent factual errors from LLM hallucinations with mathematically sound Automated Reasoning checks (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/"
     },
     {
-        "title": "Simplify governance with declarative policies",
-        "link": "https://aws.amazon.com/blogs/aws/simplify-governance-with-declarative-policies/"
+        "title": "Build faster, more cost-efficient, highly accurate models with Amazon Bedrock Model Distillation (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/build-faster-more-cost-efficient-highly-accurate-models-with-amazon-bedrock-model-distillation-preview/"
     },
     {
-        "title": "AWS Verified Access now supports secure access to resources over non-HTTP(S) protocols (in preview)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-verified-access-now-supports-secure-access-to-resources-over-non-https-protocols/"
+        "title": "Introducing queryable object metadata for Amazon S3 buckets (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-queryable-object-metadata-for-amazon-s3-buckets-preview/"
     },
     {
-        "title": "Announcing AWS Transfer Family web apps for fully managed Amazon S3 file transfers",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-aws-transfer-family-web-apps-for-fully-managed-amazon-s3-file-transfers/"
+        "title": "New Amazon S3 Tables: Storage optimized for analytics workloads",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/"
     }
 ]

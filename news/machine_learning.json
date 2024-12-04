@@ -1,5 +1,21 @@
 [
     {
+        "title": "Query structured data from Amazon Q Business using Amazon QuickSight integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/query-structured-data-from-amazon-q-business-using-amazon-quicksight-integration/"
+    },
+    {
+        "title": "Elevate customer experience by using the Amazon Q Business custom plugin for New Relic AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-customer-experience-by-using-the-amazon-q-business-custom-plugin-for-new-relic-ai/"
+    },
+    {
+        "title": "Amazon SageMaker launches the updated inference optimization toolkit for generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-launches-the-updated-inference-optimization-toolkit-for-generative-ai/"
+    },
+    {
+        "title": "Syngenta develops a generative AI assistant to support sales representatives using Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/syngenta-develops-a-generative-ai-assistant-to-support-sales-representatives-using-amazon-bedrock-agents/"
+    },
+    {
         "title": "Speed up your AI inference workloads with new NVIDIA-powered capabilities in Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/speed-up-your-ai-inference-workloads-with-new-nvidia-powered-capabilities-in-amazon-sagemaker/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Use Amazon Bedrock Agents for code scanning, optimization, and remediation",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-agents-for-code-scanning-optimization-and-remediation/"
-    },
-    {
-        "title": "Create a generative AI assistant with Slack and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-assistant-with-slack-and-amazon-bedrock/"
-    },
-    {
-        "title": "Unleash your Salesforce data using the Amazon Q Salesforce Online connector",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unleash-your-salesforce-data-using-the-amazon-q-salesforce-online-connector/"
-    },
-    {
-        "title": "Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Deploy Meta Llama 3.1-8B on AWS Inferentia using Amazon EKS and vLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-meta-llama-3-1-8b-on-aws-inferentia-using-amazon-eks-and-vllm/"
     }
 ]
