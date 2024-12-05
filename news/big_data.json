@@ -1,5 +1,45 @@
 [
     {
+        "title": "Simplify data access for your enterprise using Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-access-for-your-enterprise-using-amazon-sagemaker-lakehouse/"
+    },
+    {
+        "title": "Enforce fine-grained access control on data lake tables using AWS Glue 5.0 integrated with AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/enforce-fine-grained-access-control-on-data-lake-tables-using-aws-glue-5-0-integrated-with-aws-lake-formation/"
+    },
+    {
+        "title": "Use open table format libraries on AWS Glue 5.0 for Apache Spark",
+        "link": "https://aws.amazon.com/blogs/big-data/use-open-table-format-libraries-on-aws-glue-5-0-for-apache-spark/"
+    },
+    {
+        "title": "Introducing AWS Glue 5.0 for Apache Spark",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-5-0-for-apache-spark/"
+    },
+    {
+        "title": "Read and write S3 Iceberg table using AWS Glue Iceberg Rest Catalog from Open Source Apache Spark",
+        "link": "https://aws.amazon.com/blogs/big-data/read-and-write-s3-iceberg-table-using-aws-glue-iceberg-rest-catalog-from-open-source-apache-spark/"
+    },
+    {
+        "title": "Author visual ETL flows on Amazon SageMaker Unified Studio (preview)",
+        "link": "https://aws.amazon.com/blogs/big-data/author-visual-etl-flows-on-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Simplify data integration with AWS Glue and zero-ETL to Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-integration-with-aws-glue-and-zero-etl-to-amazon-sagemaker-lakehouse/"
+    },
+    {
+        "title": "Catalog and govern Amazon Athena federated queries with Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/catalog-and-govern-amazon-athena-federated-queries-with-amazon-sagemaker-lakehouse/"
+    },
+    {
+        "title": "The next generation of Amazon SageMaker: The center for all your data, analytics, and AI",
+        "link": "https://aws.amazon.com/blogs/big-data/the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/"
+    },
+    {
+        "title": "How ANZ Institutional Division built a federated data platform to enable their domain teams to build data products to support business outcomes",
+        "link": "https://aws.amazon.com/blogs/big-data/how-anz-institutional-division-built-a-federated-data-platform-to-enable-their-domain-teams-to-build-data-products-to-support-business-outcomes/"
+    },
+    {
         "title": "Introducing AWS Glue Data Catalog automation for table statistics collection for improved query performance on Amazon Redshift and Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-data-catalog-automation-for-table-statistics-collection-for-improved-query-performance-on-amazon-redshift-and-amazon-athena/"
     },
@@ -38,45 +78,5 @@
     {
         "title": "Introducing generative AI upgrades for Apache Spark in AWS Glue (preview)",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-generative-ai-upgrades-for-apache-spark-in-aws-glue-preview/"
-    },
-    {
-        "title": "Accelerate your data workflows with Amazon Redshift Data API persistent sessions",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-workflows-with-amazon-redshift-data-api-persistent-sessions/"
-    },
-    {
-        "title": "Accelerate your migration to Amazon OpenSearch Service with Reindexing-from-Snapshot",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-migration-to-amazon-opensearch-service-with-reindexing-from-snapshot/"
-    },
-    {
-        "title": "From data lakes to insights: dbt adapter for Amazon Athena now supported in dbt Cloud",
-        "link": "https://aws.amazon.com/blogs/big-data/from-data-lakes-to-insights-dbt-adapter-for-amazon-athena-now-supported-in-dbt-cloud/"
-    },
-    {
-        "title": "AWS Glue Data Catalog supports automatic optimization of Apache Iceberg tables through your Amazon VPC",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-glue-data-catalog-supports-automatic-optimization-of-apache-iceberg-tables-through-your-amazon-vpc/"
-    },
-    {
-        "title": "Run high-availability long-running clusters with Amazon EMR instance fleets",
-        "link": "https://aws.amazon.com/blogs/big-data/run-high-availability-long-running-clusters-with-amazon-emr-instance-fleets/"
-    },
-    {
-        "title": "Enhance data governance with enforced metadata rules in Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-data-governance-with-enforced-metadata-rules-in-amazon-datazone/"
-    },
-    {
-        "title": "Introducing Point in Time queries and SQL/PPL support in Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-point-in-time-queries-and-sql-ppl-support-in-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Introducing Amazon MWAA micro environments for Apache Airflow",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-micro-environments-for-apache-airflow/"
-    },
-    {
-        "title": "Integrate custom applications with AWS Lake Formation \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-custom-applications-with-aws-lake-formation-part-1/"
-    },
-    {
-        "title": "Integrate custom applications with AWS Lake Formation \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-custom-applications-with-aws-lake-formation-part-2/"
     }
 ]

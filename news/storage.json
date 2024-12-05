@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Amazon S3 Tables use compaction to improve query performance by up to 3 times",
+        "link": "https://aws.amazon.com/blogs/storage/how-amazon-s3-tables-use-compaction-to-improve-query-performance-by-up-to-3-times/"
+    },
+    {
         "title": "Manage costs for replicated delete markers in a disaster recovery setup on Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/manage-costs-for-replicated-delete-markers-in-a-disaster-recovery-setup-on-amazon-s3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline petabyte-scale data migrations with Cloud Write mode on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/streamline-petabyte-scale-data-migrations-with-cloud-write-mode-on-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Transition data to cheaper storage based on custom filtering criteria with Amazon S3 Lifecycle",
-        "link": "https://aws.amazon.com/blogs/storage/transition-data-to-cheaper-storage-based-on-custom-filtering-criteria-with-amazon-s3-lifecycle/"
     }
 ]

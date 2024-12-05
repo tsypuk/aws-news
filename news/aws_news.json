@@ -1,5 +1,49 @@
 [
     {
+        "title": "Introducing Buy with AWS: an accelerated procurement experience on AWS Partner sites, powered by AWS Marketplace",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-buy-with-aws-an-accelerated-procurement-experience-on-aws-partner-sites-powered-by-aws-marketplace/"
+    },
+    {
+        "title": "Accelerate foundation model training and fine-tuning with new Amazon SageMaker HyperPod recipes",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-foundation-model-training-and-fine-tuning-with-new-amazon-sagemaker-hyperpod-recipes/"
+    },
+    {
+        "title": "AWS Education Equity Initiative: Applying generative AI to educate the next wave of innovators",
+        "link": "https://aws.amazon.com/blogs/aws/aws-education-equity-initiative-applying-generative-ai-to-educate-the-next-wave-of-innovators/"
+    },
+    {
+        "title": "Solve complex problems with new scenario analysis capability in Amazon Q in QuickSight",
+        "link": "https://aws.amazon.com/blogs/aws/solve-complex-problems-with-new-scenario-analysis-capability-in-amazon-q-in-quicksight/"
+    },
+    {
+        "title": "Use Amazon Q Developer to build ML models in Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/aws/use-amazon-q-developer-to-build-ml-models-in-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Amazon Bedrock Guardrails now supports multimodal toxicity detection with image support (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-now-supports-multimodal-toxicity-detection-with-image-support/"
+    },
+    {
+        "title": "New Amazon Bedrock capabilities enhance data processing and retrieval",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-bedrock-capabilities-enhance-data-processing-and-retrieval/"
+    },
+    {
+        "title": "Reduce costs and latency with Amazon Bedrock Intelligent Prompt Routing and prompt caching (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/reduce-costs-and-latency-with-amazon-bedrock-intelligent-prompt-routing-and-prompt-caching-preview/"
+    },
+    {
+        "title": "Amazon Bedrock Marketplace: Access over 100 foundation models in one place",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-marketplace-access-over-100-foundation-models-in-one-place/"
+    },
+    {
+        "title": "Meet your training timelines and budgets with new Amazon SageMaker HyperPod flexible training plans",
+        "link": "https://aws.amazon.com/blogs/aws/meet-your-training-timelines-and-budgets-with-new-amazon-sagemaker-hyperpod-flexible-training-plans/"
+    },
+    {
+        "title": "Maximize accelerator utilization for model development with new Amazon SageMaker HyperPod task governance",
+        "link": "https://aws.amazon.com/blogs/aws/maximize-accelerator-utilization-for-model-development-with-new-amazon-sagemaker-hyperpod-task-governance/"
+    },
+    {
         "title": "Amazon SageMaker Lakehouse integrated access controls now available in Amazon Athena federated queries",
         "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-lakehouse-integrated-access-controls-now-available-in-amazon-athena-federated-queries/"
     },
@@ -34,49 +78,5 @@
     {
         "title": "New capabilities from Amazon Q Business enable ISVs to enhance generative AI experiences",
         "link": "https://aws.amazon.com/blogs/aws/new-capabilities-from-amazon-q-business-enable-isvs-to-enhance-generative-ai-experiences/"
-    },
-    {
-        "title": "New Amazon Q Developer agent capabilities include generating documentation, code reviews, and unit tests",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/"
-    },
-    {
-        "title": "Announcing Amazon Q Developer transformation capabilities for .NET (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-q-developer-transformation-capabilities-for-net-preview/"
-    },
-    {
-        "title": "Announcing Amazon Q Developer transformation capabilities for .NET, mainframe, and VMware workloads (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-q-developer-transformation-capabilities-for-net-mainframe-and-vmware-workloads-preview/"
-    },
-    {
-        "title": "Investigate and remediate operational issues with Amazon Q Developer (in preview)",
-        "link": "https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/"
-    },
-    {
-        "title": "Introducing GitLab Duo with Amazon Q",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-gitlab-duo-with-amazon-q/"
-    },
-    {
-        "title": "Introducing Amazon Nova: Frontier intelligence and industry leading price performance",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"
-    },
-    {
-        "title": "Introducing multi-agent collaboration capability for Amazon Bedrock (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-multi-agent-collaboration-capability-for-amazon-bedrock/"
-    },
-    {
-        "title": "Prevent factual errors from LLM hallucinations with mathematically sound Automated Reasoning checks (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/"
-    },
-    {
-        "title": "Build faster, more cost-efficient, highly accurate models with Amazon Bedrock Model Distillation (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/build-faster-more-cost-efficient-highly-accurate-models-with-amazon-bedrock-model-distillation-preview/"
-    },
-    {
-        "title": "Introducing queryable object metadata for Amazon S3 buckets (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-queryable-object-metadata-for-amazon-s3-buckets-preview/"
-    },
-    {
-        "title": "New Amazon S3 Tables: Storage optimized for analytics workloads",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/"
     }
 ]

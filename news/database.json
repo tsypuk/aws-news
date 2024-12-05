@@ -1,5 +1,9 @@
 [
     {
+        "title": "Concurrency control in Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/concurrency-control-in-amazon-aurora-dsql/"
+    },
+    {
         "title": "New \u2013 Accelerate database modernization with generative AI using AWS Database Migration Service Schema Conversion",
         "link": "https://aws.amazon.com/blogs/database/new-accelerate-database-modernization-with-generative-ai-using-aws-database-migration-service-schema-conversion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Benchmark Amazon RDS for PostgreSQL with Dedicated Log Volumes",
         "link": "https://aws.amazon.com/blogs/database/benchmark-amazon-rds-for-postgresql-with-dedicated-log-volumes/"
-    },
-    {
-        "title": "New \u2013 Amazon DynamoDB lowers pricing for on-demand throughput and global tables",
-        "link": "https://aws.amazon.com/blogs/database/new-amazon-dynamodb-lowers-pricing-for-on-demand-throughput-and-global-tables/"
     }
 ]

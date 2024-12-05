@@ -1,5 +1,37 @@
 [
     {
+        "title": "Amazon Bedrock Marketplace now includes NVIDIA models: Introducing NVIDIA Nemotron-4 NIM microservices",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-marketplace-now-includes-nvidia-models-introducing-nvidia-nemotron-4-nim-microservices/"
+    },
+    {
+        "title": "Real value, real time: Production AI with Amazon SageMaker and Tecton",
+        "link": "https://aws.amazon.com/blogs/machine-learning/real-value-real-time-production-ai-with-amazon-sagemaker-and-tecton/"
+    },
+    {
+        "title": "Use Amazon Bedrock tooling with Amazon SageMaker JumpStart models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-tooling-with-amazon-sagemaker-jumpstart-models/"
+    },
+    {
+        "title": "A guide to Amazon Bedrock Model Distillation (preview)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-amazon-bedrock-model-distillation-preview/"
+    },
+    {
+        "title": "Build generative AI applications quickly with Amazon Bedrock IDE in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-quickly-with-amazon-bedrock-ide-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Scale ML workflows with Amazon SageMaker Studio and Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-ml-workflows-with-amazon-sagemaker-studio-and-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Introducing Amazon Kendra GenAI Index \u2013 Enhanced semantic search and retrieval capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/"
+    },
+    {
+        "title": "Building\u00a0Generative AI and ML solutions faster with AI apps from AWS partners using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-generative-ai-and-ml-solutions-faster-with-ai-apps-from-aws-partners-using-amazon-sagemaker/"
+    },
+    {
         "title": "Query structured data from Amazon Q Business using Amazon QuickSight integration",
         "link": "https://aws.amazon.com/blogs/machine-learning/query-structured-data-from-amazon-q-business-using-amazon-quicksight-integration/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "Cohere Rerank 3.5 is now available in Amazon Bedrock through Rerank API",
         "link": "https://aws.amazon.com/blogs/machine-learning/cohere-rerank-3-5-is-now-available-in-amazon-bedrock-through-rerank-api/"
-    },
-    {
-        "title": "AWS DeepRacer: How to master physical racing?",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-how-to-master-physical-racing/"
-    },
-    {
-        "title": "Easily deploy and manage hundreds of LoRA adapters with SageMaker efficient multi-adapter inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/easily-deploy-and-manage-hundreds-of-lora-adapters-with-sagemaker-efficient-multi-adapter-inference/"
-    },
-    {
-        "title": "Improve the performance of your Generative AI applications with Prompt Optimization on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-the-performance-of-your-generative-ai-applications-with-prompt-optimization-on-amazon-bedrock/"
-    },
-    {
-        "title": "Search enterprise data assets using LLMs backed by knowledge graphs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/search-enterprise-data-assets-using-llms-backed-by-knowledge-graphs/"
-    },
-    {
-        "title": "Embodied AI Chess with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/embodied-ai-chess-with-amazon-bedrock/"
-    },
-    {
-        "title": "Efficiently train models with large sequence lengths using Amazon SageMaker model parallel",
-        "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-models-with-large-sequence-lengths-using-amazon-sagemaker-model-parallel/"
-    },
-    {
-        "title": "Getting started with Amazon Bedrock Agents custom orchestrator",
-        "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-bedrock-agents-custom-orchestrator/"
-    },
-    {
-        "title": "Use Amazon Bedrock Agents for code scanning, optimization, and remediation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-agents-for-code-scanning-optimization-and-remediation/"
     }
 ]
