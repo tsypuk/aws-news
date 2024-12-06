@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS post-quantum cryptography migration plan",
+        "link": "https://aws.amazon.com/blogs/security/aws-post-quantum-cryptography-migration-plan/"
+    },
+    {
         "title": "Preparing for take-off: Regulatory perspectives on generative AI adoption within Australian financial services",
         "link": "https://aws.amazon.com/blogs/security/preparing-for-take-off-regulatory-perspectives-on-generative-ai-adoption-within-australian-financial-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to mitigate bot traffic by implementing Challenge actions in your AWS WAF custom rules",
         "link": "https://aws.amazon.com/blogs/security/how-to-mitigate-bot-traffic-by-implementing-challenge-actions-in-your-aws-waf-custom-rules/"
-    },
-    {
-        "title": "Amazon identified internet domains abused by APT29",
-        "link": "https://aws.amazon.com/blogs/security/amazon-identified-internet-domains-abused-by-apt29/"
     }
 ]

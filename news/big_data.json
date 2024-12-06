@@ -1,5 +1,9 @@
 [
     {
+        "title": "How REA Group approaches Amazon MSK cluster capacity planning",
+        "link": "https://aws.amazon.com/blogs/big-data/how-rea-group-approaches-amazon-msk-cluster-capacity-planning/"
+    },
+    {
         "title": "Simplify data access for your enterprise using Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-data-access-for-your-enterprise-using-amazon-sagemaker-lakehouse/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing generative AI troubleshooting for Apache Spark in AWS Glue (preview)",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-generative-ai-troubleshooting-for-apache-spark-in-aws-glue-preview/"
-    },
-    {
-        "title": "Introducing generative AI upgrades for Apache Spark in AWS Glue (preview)",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-generative-ai-upgrades-for-apache-spark-in-aws-glue-preview/"
     }
 ]

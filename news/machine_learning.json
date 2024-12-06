@@ -1,5 +1,17 @@
 [
     {
+        "title": "Advancing AI trust with new responsible AI tools, capabilities, and resources",
+        "link": "https://aws.amazon.com/blogs/machine-learning/advancing-ai-trust-with-new-responsible-ai-tools-capabilities-and-resources/"
+    },
+    {
+        "title": "Deploy RAG applications on Amazon SageMaker JumpStart using FAISS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-rag-applications-on-amazon-sagemaker-jumpstart-using-faiss/"
+    },
+    {
+        "title": "Speed up your cluster procurement time with Amazon SageMaker HyperPod training plans",
+        "link": "https://aws.amazon.com/blogs/machine-learning/speed-up-your-cluster-procurement-time-with-amazon-sagemaker-hyperpod-training-plans/"
+    },
+    {
         "title": "Amazon Bedrock Marketplace now includes NVIDIA models: Introducing NVIDIA Nemotron-4 NIM microservices",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-marketplace-now-includes-nvidia-models-introducing-nvidia-nemotron-4-nim-microservices/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing Fast Model Loader in SageMaker Inference: Accelerate autoscaling for your Large Language Models (LLMs) \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-fast-model-loader-in-sagemaker-inference-accelerate-autoscaling-for-your-large-language-models-llms-part-2/"
-    },
-    {
-        "title": "Fast and accurate zero-shot forecasting with Chronos-Bolt and AutoGluon",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fast-and-accurate-zero-shot-forecasting-with-chronos-bolt-and-autogluon/"
-    },
-    {
-        "title": "How Amazon Finance Automation built a generative AI Q&A chat assistant using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-automation-built-a-generative-ai-qa-chat-assistant-using-amazon-bedrock/"
-    },
-    {
-        "title": "Cohere Rerank 3.5 is now available in Amazon Bedrock through Rerank API",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-rerank-3-5-is-now-available-in-amazon-bedrock-through-rerank-api/"
     }
 ]
