@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mistral-NeMo-Instruct-2407 and Mistral-NeMo-Base-2407 are now available on SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mistral-nemo-instruct-2407-and-mistral-nemo-base-2407-are-now-available-on-sagemaker-jumpstart/"
+    },
+    {
         "title": "Advancing AI trust with new responsible AI tools, capabilities, and resources",
         "link": "https://aws.amazon.com/blogs/machine-learning/advancing-ai-trust-with-new-responsible-ai-tools-capabilities-and-resources/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Fast Model Loader in SageMaker Inference: Accelerate autoscaling for your Large Language Models (LLMs) \u2013 part 1",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-fast-model-loader-in-sagemaker-inference-accelerate-autoscaling-for-your-large-language-models-llms-part-1/"
-    },
-    {
-        "title": "Introducing Fast Model Loader in SageMaker Inference: Accelerate autoscaling for your Large Language Models (LLMs) \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-fast-model-loader-in-sagemaker-inference-accelerate-autoscaling-for-your-large-language-models-llms-part-2/"
     }
 ]

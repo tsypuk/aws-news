@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Network Firewall Geographic IP Filtering launch",
+        "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-geographic-ip-filtering-launch/"
+    },
+    {
         "title": "AWS post-quantum cryptography migration plan",
         "link": "https://aws.amazon.com/blogs/security/aws-post-quantum-cryptography-migration-plan/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to implement trusted identity propagation for applications protected by Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/security/how-to-implement-trusted-identity-propagation-for-applications-protected-by-amazon-cognito/"
-    },
-    {
-        "title": "How to mitigate bot traffic by implementing Challenge actions in your AWS WAF custom rules",
-        "link": "https://aws.amazon.com/blogs/security/how-to-mitigate-bot-traffic-by-implementing-challenge-actions-in-your-aws-waf-custom-rules/"
     }
 ]

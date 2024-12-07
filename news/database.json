@@ -1,5 +1,21 @@
 [
     {
+        "title": "Accelerate your generative AI application development with Amazon Bedrock Knowledge Bases Quick Create and Amazon Aurora Serverless",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-your-generative-ai-application-development-with-amazon-bedrock-knowledge-bases-quick-create-and-amazon-aurora-serverless/"
+    },
+    {
+        "title": "Prevent transaction ID wraparound by using postgres_get_av_diag() for monitoring autovacuum",
+        "link": "https://aws.amazon.com/blogs/database/prevent-transaction-id-wraparound-by-using-postgres_get_av_diag-for-monitoring-autovacuum/"
+    },
+    {
+        "title": "From caching to real-time analytics: Essential use cases for Amazon ElastiCache for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/from-caching-to-real-time-analytics-essential-use-cases-for-amazon-elasticache-for-valkey/"
+    },
+    {
+        "title": "Automate pre-checks for your Amazon RDS for MySQL major version upgrade",
+        "link": "https://aws.amazon.com/blogs/database/automate-pre-checks-for-your-amazon-rds-for-mysql-major-version-upgrade/"
+    },
+    {
         "title": "Concurrency control in Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/concurrency-control-in-amazon-aurora-dsql/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Using attribute-based access control for tag-based access authorization with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/using-attribute-based-access-control-for-tag-based-access-authorization-with-amazon-dynamodb/"
-    },
-    {
-        "title": "MultiXacts in PostgreSQL: usage, side effects, and monitoring",
-        "link": "https://aws.amazon.com/blogs/database/multixacts-in-postgresql-usage-side-effects-and-monitoring/"
-    },
-    {
-        "title": "Optimize your database storage for Oracle workloads on AWS, Part 2: Using hybrid partitioning and ILM data movement policies",
-        "link": "https://aws.amazon.com/blogs/database/optimize-your-database-storage-for-oracle-workloads-on-aws-part-2-using-hybrid-partitioning-and-ilm-data-movement-policies/"
-    },
-    {
-        "title": "Optimize your database storage for Oracle workloads on AWS, Part 1: Using ADO and ILM data compression policies",
-        "link": "https://aws.amazon.com/blogs/database/optimize-your-database-storage-for-oracle-workloads-on-aws-part-1-using-ado-and-ilm-data-compression-policies/"
-    },
-    {
-        "title": "Benchmark Amazon RDS for PostgreSQL with Dedicated Log Volumes",
-        "link": "https://aws.amazon.com/blogs/database/benchmark-amazon-rds-for-postgresql-with-dedicated-log-volumes/"
     }
 ]
