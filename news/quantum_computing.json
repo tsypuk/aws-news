@@ -1,5 +1,9 @@
 [
     {
+        "title": "Quantum-amenable pruning of large language models and large vision models using block coordinate descent",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/"
+    },
+    {
         "title": "Advancing hybrid quantum computing research with Amazon Braket and NVIDIA CUDA-Q",
         "link": "https://aws.amazon.com/blogs/quantum-computing/advancing-hybrid-quantum-computing-research-with-amazon-braket-and-nvidia-cuda-q/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon Braket launches the Rigetti Ankaa-2 superconducting device",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-the-rigetti-ankaa-2-superconducting-device-2/"
-    },
-    {
-        "title": "Australian Red Cross Lifeblood collaborates with AWS to optimize rostering",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/australian-red-cross-lifeblood-collaborates-with-aws-to-optimize-rostering/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using RDS Proxy with Amazon RDS Multi-AZ DB instance deployment to improve planned failover time",
+        "link": "https://aws.amazon.com/blogs/database/using-rds-proxy-with-amazon-rds-multi-az-db-instance-deployment-to-improve-planned-failover-time/"
+    },
+    {
+        "title": "How Firmex used AWS SCT and AWS DMS to move 65,000 on-premises Microsoft SQL Server databases to an Amazon Aurora PostgreSQL cluster",
+        "link": "https://aws.amazon.com/blogs/database/how-firmex-used-aws-sct-and-aws-dms-to-move-65000-on-premises-microsoft-sql-server-databases-to-an-amazon-aurora-postgresql-cluster/"
+    },
+    {
         "title": "Accelerate your generative AI application development with Amazon Bedrock Knowledge Bases Quick Create and Amazon Aurora Serverless",
         "link": "https://aws.amazon.com/blogs/database/accelerate-your-generative-ai-application-development-with-amazon-bedrock-knowledge-bases-quick-create-and-amazon-aurora-serverless/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Benchmarking Amazon Aurora Limitless with pgbench",
         "link": "https://aws.amazon.com/blogs/database/benchmarking-amazon-aurora-limitless-with-pgbench/"
-    },
-    {
-        "title": "How Coinbase provides trustworthy financial experiences through real-time user clustering with Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/how-coinbase-provides-trustworthy-financial-experiences-through-real-time-user-clustering-with-amazon-neptune/"
-    },
-    {
-        "title": "Using attribute-based access control for tag-based access authorization with Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/using-attribute-based-access-control-for-tag-based-access-authorization-with-amazon-dynamodb/"
     }
 ]
