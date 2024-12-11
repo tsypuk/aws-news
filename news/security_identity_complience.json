@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing an enhanced version of the AWS Secrets Manager transform: AWS::SecretsManager-2024-09-16",
+        "link": "https://aws.amazon.com/blogs/security/introducing-an-enhanced-version-of-the-aws-secrets-manager-transform-awssecretsmanager-2024-09-16/"
+    },
+    {
+        "title": "AWS-LC FIPS 3.0: First cryptographic library to include ML-KEM in FIPS 140-3 validation",
+        "link": "https://aws.amazon.com/blogs/security/aws-lc-fips-3-0-first-cryptographic-library-to-include-ml-kem-in-fips-140-3-validation/"
+    },
+    {
         "title": "AWS Network Firewall Geographic IP Filtering launch",
         "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-geographic-ip-filtering-launch/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Adding threat detection to custom authentication flow with Amazon Cognito advanced security features",
         "link": "https://aws.amazon.com/blogs/security/adding-threat-detection-to-custom-authentication-flow-with-amazon-cognito-advanced-security-features/"
-    },
-    {
-        "title": "Spring 2024 PCI DSS and 3DS compliance packages available now",
-        "link": "https://aws.amazon.com/blogs/security/spring-2024-pci-dss-and-3ds-compliance-packages-available-now/"
-    },
-    {
-        "title": "How to implement trusted identity propagation for applications protected by Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/security/how-to-implement-trusted-identity-propagation-for-applications-protected-by-amazon-cognito/"
     }
 ]

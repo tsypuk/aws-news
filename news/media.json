@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Account vending by integrating ServiceNow with AWS Control Tower Account Factory for Terraform",
+        "link": "https://aws.amazon.com/blogs/mt/aws-account-vending-by-integrating-servicenow-with-aws-control-tower-account-factory-for-terraform/"
+    },
+    {
         "title": "Top Announcements for AWS Cloud Operations at re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/mt/top-announcements-for-aws-cloud-operations-at-reinvent-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Support for Amazon CloudWatch Evidently ending soon",
         "link": "https://aws.amazon.com/blogs/mt/support-for-amazon-cloudwatch-evidently-ending-soon/"
-    },
-    {
-        "title": "Streamline change processes \u00adand improve governance with AWS Well-Architected",
-        "link": "https://aws.amazon.com/blogs/mt/streamline-change-processes-and-improve-governance-with-aws-well-architected/"
     }
 ]

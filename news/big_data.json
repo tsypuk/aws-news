@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run Apache Spark Structured Streaming jobs at scale on Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-structured-streaming-jobs-at-scale-on-amazon-emr-serverless/"
+    },
+    {
+        "title": "Federate to Amazon Redshift Query Editor v2 with Microsoft Entra ID",
+        "link": "https://aws.amazon.com/blogs/big-data/federate-to-amazon-redshift-query-editor-v2-with-microsoft-entra-id/"
+    },
+    {
         "title": "Build Write-Audit-Publish pattern with Apache Iceberg branching and AWS Glue Data Quality",
         "link": "https://aws.amazon.com/blogs/big-data/build-write-audit-publish-pattern-with-apache-iceberg-branching-and-aws-glue-data-quality/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Develop a business chargeback model within your organization using Amazon Redshift multi-warehouse writes",
         "link": "https://aws.amazon.com/blogs/big-data/develop-a-business-chargeback-model-within-your-organization-using-amazon-redshift-multi-warehouse-writes/"
-    },
-    {
-        "title": "Unlocking near real-time analytics with petabytes of transaction data using Amazon Aurora Zero-ETL integration with Amazon Redshift and dbt Cloud",
-        "link": "https://aws.amazon.com/blogs/big-data/unlocking-near-real-time-analytics-with-petabytes-of-transaction-data-using-amazon-aurora-zero-etl-integration-with-amazon-redshift-and-dbt-cloud/"
-    },
-    {
-        "title": "Intel Accelerators on Amazon OpenSearch Service improve price-performance on vector search by up to 51%",
-        "link": "https://aws.amazon.com/blogs/big-data/intel-accelerators-on-amazon-opensearch-service-improve-price-performance-on-vector-search-by-up-to-51/"
     }
 ]

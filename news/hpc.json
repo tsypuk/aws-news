@@ -1,5 +1,9 @@
 [
     {
+        "title": "How BAM supercharged large scale research with AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/how-bam-supercharged-large-scale-research-with-aws-batch/"
+    },
+    {
         "title": "Accelerating file reads with a storage caching server",
         "link": "https://aws.amazon.com/blogs/hpc/accelerating-file-reads-with-a-storage-caching-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Harnessing the power of agent-based modeling for equity market simulation and strategy testing",
         "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-agent-based-modeling-for-equity-market-simulation-and-strategy-testing/"
-    },
-    {
-        "title": "Customizing your HPC environment: building AMIs for AWS Parallel Computing Service",
-        "link": "https://aws.amazon.com/blogs/hpc/customizing-your-hpc-environment-building-amis-for-aws-parallel-computing-service/"
     }
 ]

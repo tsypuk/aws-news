@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon SES configuration for SAP ABAP Systems \u2013 Part II",
+        "link": "https://aws.amazon.com/blogs/awsforsap/amazon-ses-configuration-for-sap-abap-systems-part-ii/"
+    },
+    {
         "title": "migration support service for RISE with SAP on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/migration-support-service-for-rise-with-sap-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "End-to-End Observability for SAP on AWS: Part 2 \u2013 SAP Network Latency Monitoring",
         "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-2-sap-network-latency-monitoring/"
-    },
-    {
-        "title": "Supercharge your SAP BTP Apps with AWS Services and SAP PrivateLink",
-        "link": "https://aws.amazon.com/blogs/awsforsap/supercharge-your-sap-btp-apps-with-aws-services-and-sap-privatelink/"
     }
 ]
