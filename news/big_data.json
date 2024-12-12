@@ -1,5 +1,9 @@
 [
     {
+        "title": "An integrated experience for all your data and AI with Amazon SageMaker Unified Studio (preview)",
+        "link": "https://aws.amazon.com/blogs/big-data/an-integrated-experience-for-all-your-data-and-ai-with-amazon-sagemaker-unified-studio-preview/"
+    },
+    {
         "title": "Run Apache Spark Structured Streaming jobs at scale on Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-structured-streaming-jobs-at-scale-on-amazon-emr-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon EMR streamlines big data processing with simplified Amazon S3 Glacier access",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-streamlines-big-data-processing-with-simplified-amazon-s3-glacier-access/"
-    },
-    {
-        "title": "Develop a business chargeback model within your organization using Amazon Redshift multi-warehouse writes",
-        "link": "https://aws.amazon.com/blogs/big-data/develop-a-business-chargeback-model-within-your-organization-using-amazon-redshift-multi-warehouse-writes/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to Make Simple Email Service Resilient Across Two AWS Regions with Global Endpoints",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-make-simple-email-service-resilient-across-two-aws-regions-with-global-endpoints/"
+    },
+    {
         "title": "Simplify Multi-Region Email Sending with Simple Email Service\u2019s Deterministic Easy DKIM",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/simplify-multi-region-email-sending-with-simple-email-services-deterministic-easy-dkim/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Archiving and sending to final SMTP server",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/archiving-and-sending-to-final-smtp-server/"
-    },
-    {
-        "title": "How to use SES Mail Manager SMTP Relay action to deliver inbound email to Google Workspace and Microsoft 365",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-use-ses-mail-manager-smtp-relay-action-to-deliver-inbound-email-to-google-workspace-and-microsoft-365/"
     }
 ]

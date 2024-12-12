@@ -1,5 +1,9 @@
 [
     {
+        "title": "Winners announced in the Airbus-BMW Group Quantum Computing Challenge",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/winners-announced-in-the-airbus-bmw-group-quantum-computing-challenge/"
+    },
+    {
         "title": "Quantum-amenable pruning of large language models and large vision models using block coordinate descent",
         "link": "https://aws.amazon.com/blogs/quantum-computing/quantum-amenable-pruning-of-large-language-models-and-large-vision-models-using-block-coordinate-descent/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Monitoring a quantum network on AWS",
         "link": "https://aws.amazon.com/blogs/quantum-computing/monitoring-a-quantum-network-on-aws/"
-    },
-    {
-        "title": "Amazon Braket launches the Rigetti Ankaa-2 superconducting device",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-the-rigetti-ankaa-2-superconducting-device-2/"
     }
 ]

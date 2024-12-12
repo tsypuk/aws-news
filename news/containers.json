@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating from x86 to AWS Graviton on Amazon EKS using Karpenter",
+        "link": "https://aws.amazon.com/blogs/containers/migrating-from-x86-to-aws-graviton-on-amazon-eks-using-karpenter/"
+    },
+    {
         "title": "Getting started with Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/getting-started-with-amazon-eks-auto-mode/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon EKS and Kubernetes sessions at AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2024/"
-    },
-    {
-        "title": "Amazon EKS now supports Amazon Application Recovery Controller",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-amazon-application-recovery-controller/"
     }
 ]

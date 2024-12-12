@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate your AWS Graviton adoption with the AWS Graviton Savings Dashboard",
+        "link": "https://aws.amazon.com/blogs/compute/accelerate-your-aws-graviton-adoption-with-the-aws-graviton-savings-dashboard/"
+    },
+    {
         "title": "NEW: Simplifying the use of third-party block storage with AWS Outposts",
         "link": "https://aws.amazon.com/blogs/compute/new-simplifying-the-use-of-third-party-block-storage-with-aws-outposts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing an enhanced in-console editing experience for AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/introducing-an-enhanced-in-console-editing-experience-for-aws-lambda/"
-    },
-    {
-        "title": "Simplifying Lambda function development using CloudWatch Logs Live Tail and Metrics Insights",
-        "link": "https://aws.amazon.com/blogs/compute/simplifying-lambda-function-development-using-cloudwatch-logs-live-tail-and-metrics-insights/"
     }
 ]

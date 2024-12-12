@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing Cross-Region Connectivity for AWS PrivateLink",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-region-connectivity-for-aws-privatelink/"
+    },
+    {
+        "title": "Encrypt DNS queries using DNS-over-HTTPS (DoH) with Amazon Route 53 Resolver Endpoints",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/encrypt-dns-queries-using-dns-over-https-doh-with-amazon-route-53-resolver-endpoints/"
+    },
+    {
+        "title": "Demystifying AWS Data Transfer services to build secure and reliable applications",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/demystifying-aws-data-transfer-services-to-build-secure-and-reliable-applications/"
+    },
+    {
         "title": "Extend SaaS Capabilities Across AWS Accounts Using AWS PrivateLink support for VPC Resources",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extend-saas-capabilities-across-aws-accounts-using-aws-privatelink-support-for-vpc-resources/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Unlock self-service, enterprise-grade VPC capabilities with seamless integrations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/unlock-self-service-enterprise-grade-vpc-capabilities-with-seamless-integrations/"
-    },
-    {
-        "title": "Network observability for modern applications",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-observability-for-modern-applications/"
-    },
-    {
-        "title": "How to dynamically adapt your response to changing threat levels using AWS WAF",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-dynamically-adapt-your-response-to-changing-threat-levels-using-aws-waf/"
-    },
-    {
-        "title": "Introducing security group referencing for AWS Transit Gateway",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-security-group-referencing-for-aws-transit-gateway/"
     }
 ]

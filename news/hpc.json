@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlock large-scale autonomous driving simulations on AWS with IPG",
+        "link": "https://aws.amazon.com/blogs/hpc/unlock-large-scale-autonomous-driving-simulations-on-aws-with-ipg/"
+    },
+    {
         "title": "How BAM supercharged large scale research with AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/how-bam-supercharged-large-scale-research-with-aws-batch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "LLMs: the new frontier in generative agent-based simulation",
         "link": "https://aws.amazon.com/blogs/hpc/llms-the-new-frontier-in-generative-agent-based-simulation/"
-    },
-    {
-        "title": "Harnessing the power of agent-based modeling for equity market simulation and strategy testing",
-        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-agent-based-modeling-for-equity-market-simulation-and-strategy-testing/"
     }
 ]

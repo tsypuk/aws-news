@@ -1,5 +1,21 @@
 [
     {
+        "title": "How AWS sales uses Amazon Q Business for customer engagement",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-sales-uses-amazon-q-business-for-customer-engagement/"
+    },
+    {
+        "title": "Discover insights from your Amazon Aurora PostgreSQL database using the Amazon Q Business connector",
+        "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-your-amazon-aurora-postgresql-database-using-the-amazon-q-business-connector/"
+    },
+    {
+        "title": "How Tealium built a chatbot evaluation platform with Ragas and Auto-Instruct using AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-tealium-built-a-chatbot-evaluation-platform-with-ragas-and-auto-instruct-using-aws-generative-ai-services/"
+    },
+    {
+        "title": "EBSCOlearning scales assessment generation for their online learning content with generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ebscolearning-scales-assessment-generation-for-their-online-learning-content-with-generative-ai/"
+    },
+    {
         "title": "Pixtral 12B is now available on Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/pixtral-12b-is-now-available-on-amazon-sagemaker-jumpstart/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Building\u00a0Generative AI and ML solutions faster with AI apps from AWS partners using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-generative-ai-and-ml-solutions-faster-with-ai-apps-from-aws-partners-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Query structured data from Amazon Q Business using Amazon QuickSight integration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/query-structured-data-from-amazon-q-business-using-amazon-quicksight-integration/"
-    },
-    {
-        "title": "Elevate customer experience by using the Amazon Q Business custom plugin for New Relic AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-customer-experience-by-using-the-amazon-q-business-custom-plugin-for-new-relic-ai/"
-    },
-    {
-        "title": "Amazon SageMaker launches the updated inference optimization toolkit for generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-launches-the-updated-inference-optimization-toolkit-for-generative-ai/"
-    },
-    {
-        "title": "Syngenta develops a generative AI assistant to support sales representatives using Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/syngenta-develops-a-generative-ai-assistant-to-support-sales-representatives-using-amazon-bedrock-agents/"
     }
 ]
