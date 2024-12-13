@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS Verified Access in a TIC 3.0 architecture",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-verified-access-in-a-tic-3-0-architecture/"
+    },
+    {
+        "title": "Agile satellite communication ground systems with Amazon EC2 F2 FPGA solutions",
+        "link": "https://aws.amazon.com/blogs/publicsector/agile-satellite-communication-ground-systems-with-amazon-ec2-f2-fpga-solutions/"
+    },
+    {
         "title": "The importance of democratizing generative AI to fulfill national security missions: Insights from AWS executive Ash Thankey",
         "link": "https://aws.amazon.com/blogs/publicsector/the-importance-of-democratizing-generative-ai-to-fulfill-national-security-missions-insights-from-aws-executive-ash-thankey/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamlining naturalization applications with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/streamlining-naturalization-applications-with-amazon-bedrock/"
-    },
-    {
-        "title": "The need for a Cloud Center of Excellence in digital transformation",
-        "link": "https://aws.amazon.com/blogs/publicsector/the-need-for-a-cloud-center-of-excellence-in-digital-transformation/"
-    },
-    {
-        "title": "How Penn State built an all-in-one campus resource app on Modo Labs\u2019 development platform using AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-penn-state-built-an-all-in-one-campus-resource-app-on-modo-labs-development-platform-using-aws/"
     }
 ]

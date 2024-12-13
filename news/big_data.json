@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building end-to-end data lineage for one-time and complex queries using Amazon Athena, Amazon Redshift, Amazon Neptune and dbt",
+        "link": "https://aws.amazon.com/blogs/big-data/building-end-to-end-data-lineage-for-one-time-and-complex-queries-using-amazon-athena-amazon-redshift-amazon-neptune-and-dbt/"
+    },
+    {
+        "title": "Accelerate Amazon Redshift secure data use with Satori \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-amazon-redshift-secure-data-use-with-satori-part-2/"
+    },
+    {
         "title": "An integrated experience for all your data and AI with Amazon SageMaker Unified Studio (preview)",
         "link": "https://aws.amazon.com/blogs/big-data/an-integrated-experience-for-all-your-data-and-ai-with-amazon-sagemaker-unified-studio-preview/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing the HubSpot connector for AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-the-hubspot-connector-for-aws-glue/"
-    },
-    {
-        "title": "Scaling RISE with SAP data and AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/scaling-rise-with-sap-data-and-aws-glue/"
-    },
-    {
-        "title": "Amazon EMR streamlines big data processing with simplified Amazon S3 Glacier access",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-streamlines-big-data-processing-with-simplified-amazon-s3-glacier-access/"
     }
 ]

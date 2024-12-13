@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the AWS Network Firewall CloudWatch Dashboard",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-network-firewall-cloudwatch-dashboard/"
+    },
+    {
         "title": "Securing the future: building a culture of security",
         "link": "https://aws.amazon.com/blogs/security/securing-the-future-building-a-culture-of-security/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unauthorized tactic spotlight: Initial access through a third-party identity provider",
         "link": "https://aws.amazon.com/blogs/security/unauthorized-tactic-spotlight-initial-access-through-a-third-party-identity-provider/"
-    },
-    {
-        "title": "New AWS Secure Builder training available through SANS Institute",
-        "link": "https://aws.amazon.com/blogs/security/new-aws-secure-builder-training-available-through-sans-institute/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK \u2013 Part 2: ModelBuilder",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-2-modelbuilder/"
+    },
+    {
+        "title": "Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK \u2013 Part 1: ModelTrainer",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-1-modeltrainer/"
+    },
+    {
+        "title": "Amazon Q Apps supports customization and governance of generative AI-powered apps",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-apps-supports-customization-and-governance-of-generative-ai-powered-apps/"
+    },
+    {
+        "title": "Answer questions from tables embedded in documents with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/answer-questions-from-tables-embedded-in-documents-with-amazon-q-business/"
+    },
+    {
         "title": "How AWS sales uses Amazon Q Business for customer engagement",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-sales-uses-amazon-q-business-for-customer-engagement/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "A guide to Amazon Bedrock Model Distillation (preview)",
         "link": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-amazon-bedrock-model-distillation-preview/"
-    },
-    {
-        "title": "Build generative AI applications quickly with Amazon Bedrock IDE in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-applications-quickly-with-amazon-bedrock-ide-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Scale ML workflows with Amazon SageMaker Studio and Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scale-ml-workflows-with-amazon-sagemaker-studio-and-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Introducing Amazon Kendra GenAI Index \u2013 Enhanced semantic search and retrieval capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-genai-index-enhanced-semantic-search-and-retrieval-capabilities/"
-    },
-    {
-        "title": "Building\u00a0Generative AI and ML solutions faster with AI apps from AWS partners using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-generative-ai-and-ml-solutions-faster-with-ai-apps-from-aws-partners-using-amazon-sagemaker/"
     }
 ]

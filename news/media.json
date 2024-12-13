@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using Terraform with Landing Zone Accelerator on AWS",
+        "link": "https://aws.amazon.com/blogs/mt/using-terraform-with-landing-zone-accelerator-on-aws/"
+    },
+    {
+        "title": "Detect and respond to security threats in near real-time using Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/detect-and-respond-to-security-threats-in-near-real-time-using-amazon-managed-grafana/"
+    },
+    {
         "title": "Achieve cost effective cloud operations with AWS Managed Services",
         "link": "https://aws.amazon.com/blogs/mt/achieve-cost-effective-cloud-operations-with-aws-managed-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Strengthen application resilience with myApplications and AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/strengthen-application-resilience-with-myapplications-and-aws-resilience-hub/"
-    },
-    {
-        "title": "Sign-in to AWS Console Mobile Application with an AWS Access Portal or third-party IdP URL",
-        "link": "https://aws.amazon.com/blogs/mt/sign-in-to-aws-console-mobile-application-with-an-aws-access-portal-or-third-party-idp-url/"
-    },
-    {
-        "title": "Exploring AWS Config data using Amazon Athena and Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/mt/exploring-aws-config-data-using-amazon-athena-and-amazon-managed-grafana/"
     }
 ]
