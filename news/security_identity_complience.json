@@ -1,5 +1,9 @@
 [
     {
+        "title": "Generative AI adoption and compliance: Simplifying the path forward with AWS Audit Manager",
+        "link": "https://aws.amazon.com/blogs/security/generative-ai-adoption-and-compliance-simplifying-the-path-forward-with-aws-audit-manager/"
+    },
+    {
         "title": "Introducing the AWS Network Firewall CloudWatch Dashboard",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-network-firewall-cloudwatch-dashboard/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement effective data authorization mechanisms to secure your data used in generative AI applications",
         "link": "https://aws.amazon.com/blogs/security/implement-effective-data-authorization-mechanisms-to-secure-your-data-used-in-generative-ai-applications/"
-    },
-    {
-        "title": "Unauthorized tactic spotlight: Initial access through a third-party identity provider",
-        "link": "https://aws.amazon.com/blogs/security/unauthorized-tactic-spotlight-initial-access-through-a-third-party-identity-provider/"
     }
 ]

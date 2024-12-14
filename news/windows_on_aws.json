@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate SCIM provisioning from Active Directory to IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-scim-provisioning-from-active-directory-to-iam-identity-center/"
+    },
+    {
         "title": ".NET observability with Amazon CloudWatch Application Signals",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/dotnet-observability-cloudwatch-application-signals/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Enhance security of your AWS app integration with AWS Managed Microsoft AD",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/enhance-security-of-your-aws-app-integration-with-aws-managed-microsoft-ad/"
-    },
-    {
-        "title": "Accelerate Remote Desktop Gateway deployments with AWS Launch Wizard",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-remote-desktop-gateway-deployments-with-aws-launch-wizard/"
     }
 ]

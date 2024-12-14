@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernize email sending with Amazon Simple Email Service and Proofpoint SER",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/modernize-email-sending-with-amazon-simple-email-service-and-proofpoint-ser/"
+    },
+    {
         "title": "How to Make Simple Email Service Resilient Across Two AWS Regions with Global Endpoints",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-make-simple-email-service-resilient-across-two-aws-regions-with-global-endpoints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Wickr achieves DoD Impact Level 4 and 5 authorization",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-wickr-achieves-dod-impact-level-4-and-5-authorization/"
-    },
-    {
-        "title": "Archiving and sending to final SMTP server",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/archiving-and-sending-to-final-smtp-server/"
     }
 ]

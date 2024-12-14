@@ -1,5 +1,25 @@
 [
     {
+        "title": "How Amazon trains sequential ensemble models at scale with Amazon SageMaker Pipelines",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-trains-sequential-ensemble-models-at-scale-with-amazon-sagemaker-pipelines/"
+    },
+    {
+        "title": "Implementing login node load balancing in SageMaker HyperPod for enhanced multi-user experience",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-login-node-load-balancing-in-sagemaker-hyperpod-for-enhanced-multi-user-experience/"
+    },
+    {
+        "title": "How Clearwater Analytics is revolutionizing investment management with generative AI and Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-clearwater-analytics-is-revolutionizing-investment-management-with-generative-ai-and-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "How Twitch used agentic workflow with RAG on Amazon Bedrock to supercharge ad sales",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-twitch-used-agentic-workflow-with-rag-on-amazon-bedrock-to-supercharge-ad-sales/"
+    },
+    {
+        "title": "Accelerate analysis and discovery of cancer biomarkers with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-analysis-and-discovery-of-cancer-biomarkers-with-amazon-bedrock-agents/"
+    },
+    {
         "title": "Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK \u2013 Part 2: ModelBuilder",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-2-modelbuilder/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Deploy RAG applications on Amazon SageMaker JumpStart using FAISS",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-rag-applications-on-amazon-sagemaker-jumpstart-using-faiss/"
-    },
-    {
-        "title": "Speed up your cluster procurement time with Amazon SageMaker HyperPod training plans",
-        "link": "https://aws.amazon.com/blogs/machine-learning/speed-up-your-cluster-procurement-time-with-amazon-sagemaker-hyperpod-training-plans/"
-    },
-    {
-        "title": "Amazon Bedrock Marketplace now includes NVIDIA models: Introducing NVIDIA Nemotron-4 NIM microservices",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-marketplace-now-includes-nvidia-models-introducing-nvidia-nemotron-4-nim-microservices/"
-    },
-    {
-        "title": "Real value, real time: Production AI with Amazon SageMaker and Tecton",
-        "link": "https://aws.amazon.com/blogs/machine-learning/real-value-real-time-production-ai-with-amazon-sagemaker-and-tecton/"
-    },
-    {
-        "title": "Use Amazon Bedrock tooling with Amazon SageMaker JumpStart models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-tooling-with-amazon-sagemaker-jumpstart-models/"
-    },
-    {
-        "title": "A guide to Amazon Bedrock Model Distillation (preview)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-amazon-bedrock-model-distillation-preview/"
     }
 ]
