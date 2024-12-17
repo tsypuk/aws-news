@@ -1,5 +1,21 @@
 [
     {
+        "title": "Authenticate Amazon RDS for Db2 instances using on-premises Microsoft Active Directory and Kerberos",
+        "link": "https://aws.amazon.com/blogs/database/authenticate-amazon-rds-for-db2-instances-using-on-premises-microsoft-active-directory-and-kerberos/"
+    },
+    {
+        "title": "FundApps\u2019s journey from SQL Server to Amazon Aurora Serverless v2 with Babelfish",
+        "link": "https://aws.amazon.com/blogs/database/fundappss-journey-from-sql-server-to-amazon-aurora-serverless-v2-with-babelfish/"
+    },
+    {
+        "title": "Shrink storage volumes for your RDS databases and optimize your infrastructure costs",
+        "link": "https://aws.amazon.com/blogs/database/shrink-storage-volumes-for-your-rds-databases-and-optimize-your-infrastructure-costs/"
+    },
+    {
+        "title": "Best practices for creating a VPC for Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/best-practices-for-creating-a-vpc-for-amazon-rds-for-db2/"
+    },
+    {
         "title": "How the Amazon TimeHub team designed a recovery and validation framework for their data replication framework: Part 4",
         "link": "https://aws.amazon.com/blogs/database/how-the-amazon-timehub-team-designed-a-recovery-and-validation-framework-for-their-data-replication-framework-part-4/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "New \u2013 Accelerate database modernization with generative AI using AWS Database Migration Service Schema Conversion",
         "link": "https://aws.amazon.com/blogs/database/new-accelerate-database-modernization-with-generative-ai-using-aws-database-migration-service-schema-conversion/"
-    },
-    {
-        "title": "Introducing Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/introducing-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Automate database object deployments in Amazon Aurora using AWS CodePipeline",
-        "link": "https://aws.amazon.com/blogs/database/automate-database-object-deployments-in-amazon-aurora-using-aws-codepipeline/"
-    },
-    {
-        "title": "Migrate time series data to Amazon Timestream for LiveAnalytics using AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/migrate-time-series-data-to-amazon-timestream-for-liveanalytics-using-aws-dms/"
-    },
-    {
-        "title": "Run event-driven stored procedures with AWS Lambda for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/run-event-driven-stored-procedures-with-aws-lambda-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql/"
     }
 ]

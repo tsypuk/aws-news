@@ -1,5 +1,17 @@
 [
     {
+        "title": "Llama 3.3 70B now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/llama-3-3-70b-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "AWS re:Invent 2024 Highlights: Top takeaways from Swami Sivasubramanian to help customers manage generative AI at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-reinvent-2024-highlights-top-takeaways-from-swami-sivasubramanian-to-help-customers-manage-generative-ai-at-scale/"
+    },
+    {
+        "title": "Multi-tenant RAG with Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-with-amazon-bedrock-knowledge-bases/"
+    },
+    {
         "title": "How Amazon trains sequential ensemble models at scale with Amazon SageMaker Pipelines",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-trains-sequential-ensemble-models-at-scale-with-amazon-sagemaker-pipelines/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Accelerating ML experimentation with enhanced security: AWS PrivateLink support for Amazon SageMaker with MLflow",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ml-experimentation-with-enhanced-security-aws-privatelink-support-for-amazon-sagemaker-with-mlflow/"
-    },
-    {
-        "title": "Mistral-NeMo-Instruct-2407 and Mistral-NeMo-Base-2407 are now available on SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mistral-nemo-instruct-2407-and-mistral-nemo-base-2407-are-now-available-on-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Advancing AI trust with new responsible AI tools, capabilities, and resources",
-        "link": "https://aws.amazon.com/blogs/machine-learning/advancing-ai-trust-with-new-responsible-ai-tools-capabilities-and-resources/"
-    },
-    {
-        "title": "Deploy RAG applications on Amazon SageMaker JumpStart using FAISS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-rag-applications-on-amazon-sagemaker-jumpstart-using-faiss/"
     }
 ]

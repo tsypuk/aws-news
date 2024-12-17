@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enforce resource configuration to control access to new features with AWS",
+        "link": "https://aws.amazon.com/blogs/security/enforce-resource-configuration-to-control-access-to-new-features-with-aws/"
+    },
+    {
+        "title": "AWS KMS: How many keys do I need?",
+        "link": "https://aws.amazon.com/blogs/security/aws-kms-how-many-keys-do-i-need/"
+    },
+    {
         "title": "Generative AI adoption and compliance: Simplifying the path forward with AWS Audit Manager",
         "link": "https://aws.amazon.com/blogs/security/generative-ai-adoption-and-compliance-simplifying-the-path-forward-with-aws-audit-manager/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Maximize your cloud security experience at AWS re:Invent 2024: A comprehensive guide to security sessions",
         "link": "https://aws.amazon.com/blogs/security/maximize-your-cloud-security-experience-at-aws-reinvent-2024-a-comprehensive-guide-to-security-sessions/"
-    },
-    {
-        "title": "Amazon Inspector suppression rules best practices for AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/security/amazon-inspector-suppression-rules-best-practices-for-aws-organizations/"
-    },
-    {
-        "title": "Implement effective data authorization mechanisms to secure your data used in generative AI applications",
-        "link": "https://aws.amazon.com/blogs/security/implement-effective-data-authorization-mechanisms-to-secure-your-data-used-in-generative-ai-applications/"
     }
 ]
