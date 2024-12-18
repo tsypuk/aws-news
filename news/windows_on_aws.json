@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to federate into AWS from Azure DevOps using OpenID Connect",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-federate-into-aws-from-azure-devops-using-openid-connect/"
+    },
+    {
         "title": "Automate SCIM provisioning from Active Directory to IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-scim-provisioning-from-active-directory-to-iam-identity-center/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to optimize costs for Microsoft workloads on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-optimize-costs-for-microsoft-workloads-on-aws/"
-    },
-    {
-        "title": "Enhance security of your AWS app integration with AWS Managed Microsoft AD",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/enhance-security-of-your-aws-app-integration-with-aws-managed-microsoft-ad/"
     }
 ]

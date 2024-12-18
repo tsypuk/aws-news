@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to detect and monitor Amazon Simple Storage Service (S3) access with AWS CloudTrail and Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-detect-and-monitor-amazon-simple-storage-service-s3-access-with-aws-cloudtrail-and-amazon-cloudwatch/"
+    },
+    {
         "title": "Using Terraform with Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/mt/using-terraform-with-landing-zone-accelerator-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Stripe architected massive scale observability solution on AWS",
         "link": "https://aws.amazon.com/blogs/mt/how-stripe-architected-massive-scale-observability-solution-on-aws/"
-    },
-    {
-        "title": "Strengthen application resilience with myApplications and AWS Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/mt/strengthen-application-resilience-with-myapplications-and-aws-resilience-hub/"
     }
 ]

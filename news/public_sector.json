@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS launches Skills to Jobs Tech Alliance Program in Brazil",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-launches-skills-to-jobs-tech-alliance-program-in-brazil/"
+    },
+    {
+        "title": "Reimagining unemployment contact centers",
+        "link": "https://aws.amazon.com/blogs/publicsector/reimagining-unemployment-contact-centers/"
+    },
+    {
+        "title": "Unlocking healthcare data with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/publicsector/unlocking-healthcare-data-with-amazon-q-business/"
+    },
+    {
         "title": "Operationalizing SAS on AWS with the American College of Radiology",
         "link": "https://aws.amazon.com/blogs/publicsector/operationalizing-sas-on-aws-with-the-american-college-of-radiology/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Moving from AWS CodeCommit or Amazon S3 to external configuration repositories for Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/moving-from-aws-codecommit-or-amazon-s3-to-external-configuration-repositories-for-landing-zone-accelerator-on-aws/"
-    },
-    {
-        "title": "How an open source EMR system has transformed patient healthcare in more than 50 countries",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-an-open-source-emr-system-has-transformed-patient-healthcare-in-more-than-50-countries/"
-    },
-    {
-        "title": "How Amazon Bedrock helped the UK\u2019s Governors for Schools generate meaningful insights",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-amazon-bedrock-helped-the-uks-governors-for-schools-generate-meaningful-insights/"
-    },
-    {
-        "title": "Building your first generative AI conversational experience on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-your-first-generative-ai-conversational-experience-on-aws/"
     }
 ]

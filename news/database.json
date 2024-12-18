@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrating Oracle Databases from Exadata to Amazon RDS for Oracle: Addressing Performance Considerations",
+        "link": "https://aws.amazon.com/blogs/database/migrating-oracle-databases-from-exadata-to-amazon-rds-for-oracle-addressing-performance-considerations/"
+    },
+    {
+        "title": "Reduce latency and cost in read-heavy applications using Amazon DynamoDB Accelerator",
+        "link": "https://aws.amazon.com/blogs/database/reduce-latency-and-cost-in-read-heavy-applications-using-amazon-dynamodb-accelerator/"
+    },
+    {
         "title": "Authenticate Amazon RDS for Db2 instances using on-premises Microsoft Active Directory and Kerberos",
         "link": "https://aws.amazon.com/blogs/database/authenticate-amazon-rds-for-db2-instances-using-on-premises-microsoft-active-directory-and-kerberos/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate pre-checks for your Amazon RDS for MySQL major version upgrade",
         "link": "https://aws.amazon.com/blogs/database/automate-pre-checks-for-your-amazon-rds-for-mysql-major-version-upgrade/"
-    },
-    {
-        "title": "Concurrency control in Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/concurrency-control-in-amazon-aurora-dsql/"
-    },
-    {
-        "title": "New \u2013 Accelerate database modernization with generative AI using AWS Database Migration Service Schema Conversion",
-        "link": "https://aws.amazon.com/blogs/database/new-accelerate-database-modernization-with-generative-ai-using-aws-database-migration-service-schema-conversion/"
     }
 ]

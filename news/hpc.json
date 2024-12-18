@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run protein folding on AWS with Quantori",
+        "link": "https://aws.amazon.com/blogs/hpc/run-protein-folding-on-aws-with-quantori/"
+    },
+    {
         "title": "Unlock large-scale autonomous driving simulations on AWS with IPG",
         "link": "https://aws.amazon.com/blogs/hpc/unlock-large-scale-autonomous-driving-simulations-on-aws-with-ipg/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Performance gains with AWS Graviton4 \u2013 a DevitoPRO case study",
         "link": "https://aws.amazon.com/blogs/hpc/performance-gains-with-aws-graviton4-a-devitopro-case-study/"
-    },
-    {
-        "title": "LLMs: the new frontier in generative agent-based simulation",
-        "link": "https://aws.amazon.com/blogs/hpc/llms-the-new-frontier-in-generative-agent-based-simulation/"
     }
 ]

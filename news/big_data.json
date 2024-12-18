@@ -1,5 +1,17 @@
 [
     {
+        "title": "Recap of Amazon Redshift key product announcements in 2024",
+        "link": "https://aws.amazon.com/blogs/big-data/recap-of-amazon-redshift-key-product-announcements-in-2024/"
+    },
+    {
+        "title": "How DeNA Co., Ltd. accelerated anonymized data quality tests up to 100 times faster using Amazon Redshift Serverless and dbt",
+        "link": "https://aws.amazon.com/blogs/big-data/how-dena-co-ltd-accelerated-anonymized-data-quality-tests-up-to-100-times-faster-using-amazon-redshift-serverless-and-dbt/"
+    },
+    {
+        "title": "Top 6 game changers from AWS that redefine streaming data",
+        "link": "https://aws.amazon.com/blogs/big-data/top-6-game-changers-from-aws-that-redefine-streaming-data/"
+    },
+    {
         "title": "Introducing a new unified data connection experience with Amazon SageMaker Lakehouse unified data connectivity",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-a-new-unified-data-connection-experience-with-amazon-sagemaker-lakehouse-data-connectivity/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Catalog and govern Amazon Athena federated queries with Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/catalog-and-govern-amazon-athena-federated-queries-with-amazon-sagemaker-lakehouse/"
-    },
-    {
-        "title": "The next generation of Amazon SageMaker: The center for all your data, analytics, and AI",
-        "link": "https://aws.amazon.com/blogs/big-data/the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/"
-    },
-    {
-        "title": "How ANZ Institutional Division built a federated data platform to enable their domain teams to build data products to support business outcomes",
-        "link": "https://aws.amazon.com/blogs/big-data/how-anz-institutional-division-built-a-federated-data-platform-to-enable-their-domain-teams-to-build-data-products-to-support-business-outcomes/"
-    },
-    {
-        "title": "Introducing AWS Glue Data Catalog automation for table statistics collection for improved query performance on Amazon Redshift and Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-data-catalog-automation-for-table-statistics-collection-for-improved-query-performance-on-amazon-redshift-and-amazon-athena/"
     }
 ]
