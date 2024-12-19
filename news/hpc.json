@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrating Research and Engineering Studio in Trusted Research Environments built on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/integrating-research-and-engineering-studio-in-trusted-research-environments-built-on-aws/"
+    },
+    {
         "title": "Run protein folding on AWS with Quantori",
         "link": "https://aws.amazon.com/blogs/hpc/run-protein-folding-on-aws-with-quantori/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A guide to identity management in Research and Engineering Studio on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/a-guide-to-identity-management-in-research-and-engineering-studio-on-aws/"
-    },
-    {
-        "title": "Performance gains with AWS Graviton4 \u2013 a DevitoPRO case study",
-        "link": "https://aws.amazon.com/blogs/hpc/performance-gains-with-aws-graviton4-a-devitopro-case-study/"
     }
 ]

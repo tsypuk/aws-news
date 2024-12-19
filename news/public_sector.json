@@ -1,5 +1,9 @@
 [
     {
+        "title": "Continuous monitoring and governance: AWS best practices for keeping your data secure during the holidays",
+        "link": "https://aws.amazon.com/blogs/publicsector/continuous-monitoring-and-governance-aws-best-practices-for-keeping-your-data-secure-during-the-holidays/"
+    },
+    {
         "title": "AWS launches Skills to Jobs Tech Alliance Program in Brazil",
         "link": "https://aws.amazon.com/blogs/publicsector/aws-launches-skills-to-jobs-tech-alliance-program-in-brazil/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS announces Satellite Resiliency for AWS Outposts",
         "link": "https://aws.amazon.com/blogs/publicsector/aws-announces-satellite-resiliency-for-aws-outposts/"
-    },
-    {
-        "title": "Moving from AWS CodeCommit or Amazon S3 to external configuration repositories for Landing Zone Accelerator on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/moving-from-aws-codecommit-or-amazon-s3-to-external-configuration-repositories-for-landing-zone-accelerator-on-aws/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize Amazon RDS performance with io2 Block Express storage for production workloads",
+        "link": "https://aws.amazon.com/blogs/database/optimize-amazon-rds-performance-with-io2-block-express-storage-for-production-workloads/"
+    },
+    {
+        "title": "How Monzo Bank reduced cost of TTL from time series index tables in Amazon Keyspaces",
+        "link": "https://aws.amazon.com/blogs/database/how-monzo-bank-reduced-cost-of-ttl-from-time-series-index-tables-in-amazon-keyspaces/"
+    },
+    {
         "title": "Migrating Oracle Databases from Exadata to Amazon RDS for Oracle: Addressing Performance Considerations",
         "link": "https://aws.amazon.com/blogs/database/migrating-oracle-databases-from-exadata-to-amazon-rds-for-oracle-addressing-performance-considerations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Prevent transaction ID wraparound by using postgres_get_av_diag() for monitoring autovacuum",
         "link": "https://aws.amazon.com/blogs/database/prevent-transaction-id-wraparound-by-using-postgres_get_av_diag-for-monitoring-autovacuum/"
-    },
-    {
-        "title": "From caching to real-time analytics: Essential use cases for Amazon ElastiCache for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/from-caching-to-real-time-analytics-essential-use-cases-for-amazon-elasticache-for-valkey/"
-    },
-    {
-        "title": "Automate pre-checks for your Amazon RDS for MySQL major version upgrade",
-        "link": "https://aws.amazon.com/blogs/database/automate-pre-checks-for-your-amazon-rds-for-mysql-major-version-upgrade/"
     }
 ]

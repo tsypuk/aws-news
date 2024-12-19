@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Fastweb fine-tuned the Mistral model using Amazon SageMaker HyperPod as a first step to build an Italian large language model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-fastweb-fine-tuned-the-mistral-model-using-amazon-sagemaker-hyperpod-as-a-first-step-to-build-an-italian-large-language-model/"
+    },
+    {
+        "title": "Using natural language in Amazon Q Business: From searching and creating ServiceNow incidents and knowledge articles to generating insights",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-natural-language-in-amazon-q-business-from-searching-and-creating-servicenow-incidents-and-knowledge-articles-to-generating-insights/"
+    },
+    {
         "title": "Simplify multimodal generative AI with Amazon Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/simplify-multimodal-generative-ai-with-amazon-bedrock-data-automation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "EBSCOlearning scales assessment generation for their online learning content with generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/ebscolearning-scales-assessment-generation-for-their-online-learning-content-with-generative-ai/"
-    },
-    {
-        "title": "Pixtral 12B is now available on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pixtral-12b-is-now-available-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Talk to your slide deck using multimodal foundation models on Amazon Bedrock \u2013 Part 3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/talk-to-your-slide-deck-using-multimodal-foundation-models-on-amazon-bedrock-part-3/"
     }
 ]

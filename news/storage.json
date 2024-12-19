@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline search and item-level recovery with AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/streamline-search-and-item-level-recovery-with-aws-backup/"
+    },
+    {
         "title": "Adapting to change with data patterns on AWS: Aggregate, curate, and extend",
         "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-aggregate-curate-and-extend/"
     },
@@ -32,7 +36,7 @@
         "link": "https://aws.amazon.com/blogs/storage/manage-costs-for-replicated-delete-markers-in-a-disaster-recovery-setup-on-amazon-s3/"
     },
     {
-        "title": "Migrating data access and Azure Active Directory with Amazon FSx for NetApp ONTAP",
+        "title": "Migrating data access and Microsoft Active Directory with Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/migrating-data-access-and-azure-ad-with-amazon-fsx-for-netapp-ontap/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Analyze access patterns and use the most cost-effective Amazon S3 storage class",
         "link": "https://aws.amazon.com/blogs/storage/analyze-access-patterns-and-use-the-most-cost-effective-amazon-s3-storage-class/"
-    },
-    {
-        "title": "Access a point in time with Amazon S3 Object Lambda",
-        "link": "https://aws.amazon.com/blogs/storage/access-a-point-in-time-with-amazon-s3-object-lambda/"
     }
 ]

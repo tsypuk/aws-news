@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Amplify Hosting Adds Web Application Firewall Protection \u2013 Public Preview",
+        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-hosting-adds-web-application-firewall-protection-public-preview/"
+    },
+    {
         "title": "Working with AWS AppSync Events: Real-time Web Games with Chat",
         "link": "https://aws.amazon.com/blogs/mobile/working-with-aws-appsync-events-real-time-web-games-with-chat/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New in AWS Amplify: Integrate with SQL databases, OIDC/SAML providers, and the AWS CDK",
         "link": "https://aws.amazon.com/blogs/mobile/new-in-aws-amplify-integrate-with-sql-databases-oidc-saml-providers-and-the-aws-cdk/"
-    },
-    {
-        "title": "New in AWS Amplify: Expanded Fullstack Deployment Capabilities for Teams of All Sizes",
-        "link": "https://aws.amazon.com/blogs/mobile/team-workflows-amplify/"
     }
 ]
