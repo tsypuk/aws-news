@@ -1,5 +1,9 @@
 [
     {
+        "title": "QORPO brings generative AI features to AneeMate with AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/qorpo-brings-generative-ai-features-to-aneemate-with-aws/"
+    },
+    {
         "title": "Modernize game backend services with AWS Global Accelerator",
         "link": "https://aws.amazon.com/blogs/gametech/modernize-game-backend-services-with-aws-global-accelerator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How The Pok\u00e9mon Company International Orchestrates Zero-Downtime Deployments for Pok\u00e9mon TCG Live \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/gametech/how-the-pokemon-company-international-orchestrates-zero-downtime-deployments-for-pokemon-tcg-live-part-1/"
-    },
-    {
-        "title": "Gaming Analytics: Leveraging AWS Glue and Amazon Redshift Spectrum for Player Insights",
-        "link": "https://aws.amazon.com/blogs/gametech/gaming-analytics-leveraging-aws-glue-and-amazon-redshift-spectrum-for-player-insights/"
     }
 ]

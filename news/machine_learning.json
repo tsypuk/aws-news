@@ -1,5 +1,17 @@
 [
     {
+        "title": "Add a generative AI experience to your website or web application with Amazon Q embedded",
+        "link": "https://aws.amazon.com/blogs/machine-learning/add-a-generative-ai-experience-to-your-website-or-web-application-with-amazon-q-embedded/"
+    },
+    {
+        "title": "An introduction to preparing your own dataset for LLM training",
+        "link": "https://aws.amazon.com/blogs/machine-learning/an-introduction-to-preparing-your-own-dataset-for-llm-training/"
+    },
+    {
+        "title": "Design multi-agent orchestration with reasoning using Amazon Bedrock and open source frameworks",
+        "link": "https://aws.amazon.com/blogs/machine-learning/design-multi-agent-orchestration-with-reasoning-using-amazon-bedrock-and-open-source-frameworks/"
+    },
+    {
         "title": "How Fastweb fine-tuned the Mistral model using Amazon SageMaker HyperPod as a first step to build an Italian large language model",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-fastweb-fine-tuned-the-mistral-model-using-amazon-sagemaker-hyperpod-as-a-first-step-to-build-an-italian-large-language-model/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How AWS sales uses Amazon Q Business for customer engagement",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-sales-uses-amazon-q-business-for-customer-engagement/"
-    },
-    {
-        "title": "Discover insights from your Amazon Aurora PostgreSQL database using the Amazon Q Business connector",
-        "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-your-amazon-aurora-postgresql-database-using-the-amazon-q-business-connector/"
-    },
-    {
-        "title": "How Tealium built a chatbot evaluation platform with Ragas and Auto-Instruct using AWS generative AI services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-tealium-built-a-chatbot-evaluation-platform-with-ragas-and-auto-instruct-using-aws-generative-ai-services/"
-    },
-    {
-        "title": "EBSCOlearning scales assessment generation for their online learning content with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ebscolearning-scales-assessment-generation-for-their-online-learning-content-with-generative-ai/"
     }
 ]

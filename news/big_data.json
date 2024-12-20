@@ -1,5 +1,17 @@
 [
     {
+        "title": "HEMA accelerates their data governance journey with Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/hema-accelerates-their-data-governance-journey-with-amazon-datazone/"
+    },
+    {
+        "title": "Accelerate queries on Apache Iceberg tables through AWS Glue auto compaction",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-queries-on-apache-iceberg-tables-through-aws-glue-auto-compaction/"
+    },
+    {
+        "title": "Implement a custom subscription workflow for unmanaged Amazon S3 assets published with Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-a-custom-subscription-workflow-for-unmanaged-amazon-s3-assets-published-with-amazon-datazone/"
+    },
+    {
         "title": "Enhancing Search Relevancy with Cohere Rerank 3.5 and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/enhancing-search-relevancy-with-cohere-rerank-3-5-and-amazon-opensearch-service/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Use open table format libraries on AWS Glue 5.0 for Apache Spark",
         "link": "https://aws.amazon.com/blogs/big-data/use-open-table-format-libraries-on-aws-glue-5-0-for-apache-spark/"
-    },
-    {
-        "title": "Introducing AWS Glue 5.0 for Apache Spark",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-5-0-for-apache-spark/"
-    },
-    {
-        "title": "Read and write S3 Iceberg table using AWS Glue Iceberg Rest Catalog from Open Source Apache Spark",
-        "link": "https://aws.amazon.com/blogs/big-data/read-and-write-s3-iceberg-table-using-aws-glue-iceberg-rest-catalog-from-open-source-apache-spark/"
-    },
-    {
-        "title": "Author visual ETL flows on Amazon SageMaker Unified Studio (preview)",
-        "link": "https://aws.amazon.com/blogs/big-data/author-visual-etl-flows-on-amazon-sagemaker-unified-studio/"
     }
 ]

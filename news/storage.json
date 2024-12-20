@@ -1,5 +1,13 @@
 [
     {
+        "title": "Understanding and monitoring latency for Amazon EBS volumes using Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/storage/understanding-and-monitoring-latency-for-amazon-ebs-volumes-using-amazon-cloudwatch/"
+    },
+    {
+        "title": "Enhance logs for AWS Elastic Disaster Recovery with CloudWatch Log Insights",
+        "link": "https://aws.amazon.com/blogs/storage/enhance-aws-replication-log-insights-for-aws-elastic-disaster-recovery/"
+    },
+    {
         "title": "Streamline search and item-level recovery with AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/streamline-search-and-item-level-recovery-with-aws-backup/"
     },
@@ -10,10 +18,6 @@
     {
         "title": "Enhance business continuity within an Availability Zone using AWS Elastic Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/storage/enhance-business-continuity-within-an-availability-zone-using-aws-elastic-disaster-recovery/"
-    },
-    {
-        "title": "Enhance AWS Replication Log Insights for AWS Elastic Disaster Recovery",
-        "link": "https://aws.amazon.com/blogs/storage/enhance-aws-replication-log-insights-for-aws-elastic-disaster-recovery/"
     },
     {
         "title": "Analyzing Amazon S3 Metadata with Amazon Athena and Amazon QuickSight",
@@ -74,9 +78,5 @@
     {
         "title": "Modernizing on-premises applications using Amazon Elastic Kubernetes Service and Amazon Elastic File System",
         "link": "https://aws.amazon.com/blogs/storage/modernizing-on-premises-applications-using-amazon-elastic-kubernetes-service-and-amazon-elastic-file-system/"
-    },
-    {
-        "title": "Analyze access patterns and use the most cost-effective Amazon S3 storage class",
-        "link": "https://aws.amazon.com/blogs/storage/analyze-access-patterns-and-use-the-most-cost-effective-amazon-s3-storage-class/"
     }
 ]

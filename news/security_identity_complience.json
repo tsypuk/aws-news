@@ -1,5 +1,21 @@
 [
     {
+        "title": "AWS completes the CCCS PBHVA assessment with 149 services and features in scope",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-cccs-pbhva-assessment-with-149-services-and-features-in-scope/"
+    },
+    {
+        "title": "2024 ISO and CSA STAR certificates now available with two additional services",
+        "link": "https://aws.amazon.com/blogs/security/2024-iso-and-csa-star-certificates-now-available-with-two-additional-services/"
+    },
+    {
+        "title": "Updated PCI DSS and PCI PIN compliance packages now available",
+        "link": "https://aws.amazon.com/blogs/security/updated-pci-dss-and-pci-pin-compliance-packages-now-available/"
+    },
+    {
+        "title": "Fall 2024 SOC 1, 2, and 3 reports now available with 183 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/fall-2024-soc-1-2-and-3-reports-now-available-with-183-services-in-scope/"
+    },
+    {
         "title": "AWS named Leader in the 2024 ISG Provider Lens report for Sovereign Cloud Infrastructure Services (EU)",
         "link": "https://aws.amazon.com/blogs/security/aws-named-leader-in-the-2024-isg-provider-lens-report-for-sovereign-cloud-infrastructure-services-eu/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Important changes to CloudTrail events for AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/modifications-to-aws-cloudtrail-event-data-of-iam-identity-center/"
-    },
-    {
-        "title": "Threat modeling your generative AI workload to evaluate security risk",
-        "link": "https://aws.amazon.com/blogs/security/threat-modeling-your-generative-ai-workload-to-evaluate-security-risk/"
-    },
-    {
-        "title": "Secure by Design: AWS enhances centralized security controls as MFA requirements expand",
-        "link": "https://aws.amazon.com/blogs/security/secure-by-design-aws-enhances-centralized-security-controls-as-mfa-requirements-expand/"
-    },
-    {
-        "title": "Updated whitepaper: Architecting for PCI DSS Segmentation and Scoping on AWS",
-        "link": "https://aws.amazon.com/blogs/security/updated-whitepaper-architecting-for-pci-dss-segmentation-and-scoping-on-aws/"
-    },
-    {
-        "title": "Discover duplicate AWS Config rules for streamlined compliance",
-        "link": "https://aws.amazon.com/blogs/security/discover-duplicate-aws-config-rules-for-streamlined-compliance/"
     }
 ]
