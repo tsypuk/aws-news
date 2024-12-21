@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS launches enhanced AWS Resource Explorer features for new resource insights",
+        "link": "https://aws.amazon.com/blogs/mt/aws-launches-enhanced-aws-resource-explorer-features-for-new-resource-insights/"
+    },
+    {
         "title": "Troubleshooting AWS Systems Manager patching made easy with Amazon Bedrock\u2019s automated recommendations",
         "link": "https://aws.amazon.com/blogs/mt/troubleshooting-aws-systems-manager-patching-made-easy-with-amazon-bedrocks-automated-recommendations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining the Correction of Errors process using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mt/streamlining-the-correction-of-errors-process-using-amazon-bedrock/"
-    },
-    {
-        "title": "Scaling AWS Control Tower controls using Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/mt/scaling-aws-control-tower-controls-using-amazon-bedrock-agents/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Adapting to change with data patterns on AWS: The \u201cextend\u201d cloud data pattern",
+        "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-extend-cloud-data-pattern/"
+    },
+    {
+        "title": "Adapting to change with data patterns on AWS: The \u201caggregate\u201d cloud data pattern",
+        "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-aggregate-cloud-data-pattern/"
+    },
+    {
+        "title": "Adapting to change with data patterns on AWS: The \u201ccurate\u201d cloud data pattern",
+        "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-curate-cloud-data-pattern/"
+    },
+    {
         "title": "Understanding and monitoring latency for Amazon EBS volumes using Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/storage/understanding-and-monitoring-latency-for-amazon-ebs-volumes-using-amazon-cloudwatch/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Seamless migration from any VMware environment to Amazon FSx for NetApp ONTAP and Amazon EC2",
         "link": "https://aws.amazon.com/blogs/storage/seamless-migration-from-any-vmware-environment-to-amazon-fsx-for-netapp-ontap-and-amazon-ec2/"
-    },
-    {
-        "title": "Derive insights from AWS DataSync task reports using AWS Glue, Amazon Athena, and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/storage/derive-insights-from-aws-datasync-task-reports-using-aws-glue-amazon-athena-and-amazon-quicksight/"
-    },
-    {
-        "title": "Migrate data from Dropbox to Amazon S3 using Rclone",
-        "link": "https://aws.amazon.com/blogs/storage/migrate-data-from-dropbox-to-amazon-s3-using-rclone/"
-    },
-    {
-        "title": "Modernizing on-premises applications using Amazon Elastic Kubernetes Service and Amazon Elastic File System",
-        "link": "https://aws.amazon.com/blogs/storage/modernizing-on-premises-applications-using-amazon-elastic-kubernetes-service-and-amazon-elastic-file-system/"
     }
 ]

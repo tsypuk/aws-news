@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Q data integration adds DataFrame support and in-prompt context-aware job creation",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-q-data-integration-adds-dataframe-support-and-in-prompt-context-aware-job-creation/"
+    },
+    {
+        "title": "Jumia builds a next-generation data platform with metadata-driven specification frameworks",
+        "link": "https://aws.amazon.com/blogs/big-data/jumia-builds-a-next-generation-data-platform-with-metadata-driven-specification-frameworks/"
+    },
+    {
         "title": "HEMA accelerates their data governance journey with Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/hema-accelerates-their-data-governance-journey-with-amazon-datazone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify data access for your enterprise using Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-data-access-for-your-enterprise-using-amazon-sagemaker-lakehouse/"
-    },
-    {
-        "title": "Enforce fine-grained access control on data lake tables using AWS Glue 5.0 integrated with AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/enforce-fine-grained-access-control-on-data-lake-tables-using-aws-glue-5-0-integrated-with-aws-lake-formation/"
-    },
-    {
-        "title": "Use open table format libraries on AWS Glue 5.0 for Apache Spark",
-        "link": "https://aws.amazon.com/blogs/big-data/use-open-table-format-libraries-on-aws-glue-5-0-for-apache-spark/"
     }
 ]

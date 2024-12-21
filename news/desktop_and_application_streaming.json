@@ -1,5 +1,13 @@
 [
     {
+        "title": "Visualize Amazon WorkSpaces Utilization With Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/visualize-amazon-workspaces-utilization-with-amazon-quicksight/"
+    },
+    {
+        "title": "Announcing support for Amazon WorkSpaces Personal with AWS Global Accelerator",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-support-for-amazon-workspaces-personal-with-aws-global-accelerator/"
+    },
+    {
         "title": "Deploy the Cost Optimizer for Amazon WorkSpaces in a highly-regulated environment.",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/deploy-the-cost-optimizer-for-amazon-workspaces-in-a-highly-regulated-environment/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing native Entra ID and Intune support for Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-native-entra-id-and-intune-support-for-amazon-workspaces/"
-    },
-    {
-        "title": "New Omnissa Horizon 8 features supported by Amazon WorkSpaces Core",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/new-omnissa-horizon-8-features-supported-by-amazon-workspaces-core/"
-    },
-    {
-        "title": "Citrix announces general availability of Citrix DaaS on Amazon WorkSpaces Core",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-general-availability-of-citrix-daas-on-amazon-workspaces-core/"
     }
 ]
