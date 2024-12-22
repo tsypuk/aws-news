@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2024-12-210.1.0) - 2024-12-21
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2024-12-220.1.0) - 2024-12-22
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/40c361c492987d6fafe477460e40f51cb9f497df...ver-2024-12-21)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/9c7e9243541400818c7d9594a608126168ae801b...ver-2024-12-22)</small>
 
 ### Docs
 
-- updated AWS news - aws_marketplace,aws_partner_network,big_data,contact_center,desktop_and_application_streaming,industries,media,public_sector,storage - 2024-12-21 ([566cc85](https://github.com/tsypuk/aws-news/commit/566cc85f9229caadf36833856fb840f721229475) by Roman Tsypuk).
+- updated AWS news - aws_marketplace,industries,media - 2024-12-22 ([d406564](https://github.com/tsypuk/aws-news/commit/d4065644e434950a62527678c83561462ecdadc3) by Roman Tsypuk).
 
