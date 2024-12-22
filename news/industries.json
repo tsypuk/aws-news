@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamlining Financial Operations: Leveraging Stripe event destinations with Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/industries/streamlining-financial-operations-leveraging-stripe-event-destinations-with-amazon-eventbridge/"
+    },
+    {
+        "title": "Navigating the Cloud: Joby Aviation\u2019s PLM migration to AWS",
+        "link": "https://aws.amazon.com/blogs/industries/navigating-the-cloud-joby-aviations-plm-migration-to-aws/"
+    },
+    {
         "title": "Reduce semiconductor design costs using Amazon EC2 Spot and Exostellar Infrastructure Optimizer",
         "link": "https://aws.amazon.com/blogs/industries/reduce-semiconductor-design-costs-using-amazon-ec2-spot-and-exostellar-infrastructure-optimizer/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Deploy infrastructure for telecom workloads in an air-gapped AWS environment",
         "link": "https://aws.amazon.com/blogs/industries/deploy-infrastructure-for-telecom-workloads-in-an-air-gapped-aws-environment/"
-    },
-    {
-        "title": "Traeger Serves Up Hot Marketing with Headless CMS Thanks to AWS and Amplience",
-        "link": "https://aws.amazon.com/blogs/industries/traeger-serves-up-hot-marketing-with-headless-cms-thanks-to-aws-and-amplience/"
-    },
-    {
-        "title": "Healthcare and Life Sciences: Top 10 announcements from AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/industries/healthcare-and-life-sciences-top-10-announcements-from-aws-reinvent-2024/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting started with Amazon Q Developer operational investigations",
+        "link": "https://aws.amazon.com/blogs/mt/getting-started-with-amazon-q-developer-operational-investigations/"
+    },
+    {
         "title": "AWS launches enhanced AWS Resource Explorer features for new resource insights",
         "link": "https://aws.amazon.com/blogs/mt/aws-launches-enhanced-aws-resource-explorer-features-for-new-resource-insights/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS Fault Injection Service Actions to Inject Chaos in Lambda functions",
         "link": "https://aws.amazon.com/blogs/mt/introducing-aws-fault-injection-service-actions-to-inject-chaos-in-lambda-functions/"
-    },
-    {
-        "title": "Streamlining the Correction of Errors process using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/mt/streamlining-the-correction-of-errors-process-using-amazon-bedrock/"
     }
 ]
