@@ -1,5 +1,17 @@
 [
     {
+        "title": "Comparison of test_decoding and pglogical plugins in Amazon Aurora PostgreSQL for data migration using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/comparison-of-test_decoding-and-pglogical-plugins-in-amazon-aurora-postgresql-for-data-migration-using-aws-dms/"
+    },
+    {
+        "title": "Enhance the reliability of airlines\u2019 mission-critical baggage handling using Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/enhance-the-reliability-of-airlines-mission-critical-baggage-handling-using-amazon-dynamodb/"
+    },
+    {
+        "title": "Enhancing performance of Amazon RDS for Oracle with NVMe SSD hosted Smart Flash Cache and Temporary Tablespaces",
+        "link": "https://aws.amazon.com/blogs/database/enhancing-performance-of-amazon-rds-for-oracle-with-nvme-ssd-hosted-smart-flash-cache-and-temporary-tablespaces/"
+    },
+    {
         "title": "Amazon DynamoDB re:Invent 2024 recap",
         "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-reinvent-2024-recap/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Capture data changes while restoring an Amazon DynamoDB table",
         "link": "https://aws.amazon.com/blogs/database/capture-data-changes-while-restoring-an-amazon-dynamodb-table/"
-    },
-    {
-        "title": "Best practices for maintenance activities in Amazon RDS for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-maintenance-activities-in-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Using RDS Proxy with Amazon RDS Multi-AZ DB instance deployment to improve planned failover time",
-        "link": "https://aws.amazon.com/blogs/database/using-rds-proxy-with-amazon-rds-multi-az-db-instance-deployment-to-improve-planned-failover-time/"
-    },
-    {
-        "title": "How Firmex used AWS SCT and AWS DMS to move 65,000 on-premises Microsoft SQL Server databases to an Amazon Aurora PostgreSQL cluster",
-        "link": "https://aws.amazon.com/blogs/database/how-firmex-used-aws-sct-and-aws-dms-to-move-65000-on-premises-microsoft-sql-server-databases-to-an-amazon-aurora-postgresql-cluster/"
     }
 ]

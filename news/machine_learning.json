@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using transcription confidence scores to improve slot filling in Amazon Lex",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-transcription-confidence-scores-to-improve-slot-filling-in-amazon-lex/"
+    },
+    {
+        "title": "Improving Retrieval Augmented Generation accuracy with GraphRAG",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improving-retrieval-augmented-generation-accuracy-with-graphrag/"
+    },
+    {
         "title": "Add a generative AI experience to your website or web application with Amazon Q embedded",
         "link": "https://aws.amazon.com/blogs/machine-learning/add-a-generative-ai-experience-to-your-website-or-web-application-with-amazon-q-embedded/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Q Apps supports customization and governance of generative AI-powered apps",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-apps-supports-customization-and-governance-of-generative-ai-powered-apps/"
-    },
-    {
-        "title": "Answer questions from tables embedded in documents with Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/answer-questions-from-tables-embedded-in-documents-with-amazon-q-business/"
-    },
-    {
-        "title": "How AWS sales uses Amazon Q Business for customer engagement",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-sales-uses-amazon-q-business-for-customer-engagement/"
     }
 ]

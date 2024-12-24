@@ -1,5 +1,9 @@
 [
     {
+        "title": "Fitch Group achieves multi-Region resiliency for mission-critical Kafka infrastructure with Amazon MSK Replicator",
+        "link": "https://aws.amazon.com/blogs/big-data/fitch-group-achieves-multi-region-resiliency-for-mission-critical-kafka-infrastructure-with-amazon-msk-replicator/"
+    },
+    {
         "title": "Amazon Q data integration adds DataFrame support and in-prompt context-aware job creation",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-q-data-integration-adds-dataframe-support-and-in-prompt-context-aware-job-creation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How REA Group approaches Amazon MSK cluster capacity planning",
         "link": "https://aws.amazon.com/blogs/big-data/how-rea-group-approaches-amazon-msk-cluster-capacity-planning/"
-    },
-    {
-        "title": "Simplify data access for your enterprise using Amazon SageMaker Lakehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-data-access-for-your-enterprise-using-amazon-sagemaker-lakehouse/"
     }
 ]

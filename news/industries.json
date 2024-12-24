@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS re:Invent 2024 recap for the Automotive Industry",
+        "link": "https://aws.amazon.com/blogs/industries/aws-reinvent-2024-recap-for-the-automotive-industry/"
+    },
+    {
         "title": "Streamlining Financial Operations: Leveraging Stripe event destinations with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/industries/streamlining-financial-operations-leveraging-stripe-event-destinations-with-amazon-eventbridge/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "re:Invent 2024 recap for the manufacturing industry",
         "link": "https://aws.amazon.com/blogs/industries/reinvent-2024-wrap-up-for-the-manufacturing-industry/"
-    },
-    {
-        "title": "Deploy infrastructure for telecom workloads in an air-gapped AWS environment",
-        "link": "https://aws.amazon.com/blogs/industries/deploy-infrastructure-for-telecom-workloads-in-an-air-gapped-aws-environment/"
     }
 ]
