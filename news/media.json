@@ -1,5 +1,13 @@
 [
     {
+        "title": "Delegated Administrators Guide to Effective Controls in AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/mt/delegated-administrators-guide-to-effective-controls-in-aws-organizations/"
+    },
+    {
+        "title": "AWS Organizations, moving an organization member account to another organization: Part 1",
+        "link": "https://aws.amazon.com/blogs/mt/aws-organizations-moving-an-organization-member-account-to-another-organization-part-1/"
+    },
+    {
         "title": "Getting started with Amazon Q Developer operational investigations",
         "link": "https://aws.amazon.com/blogs/mt/getting-started-with-amazon-q-developer-operational-investigations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Cigna Implemented a Multi-Region Centralized Alerting System on AWS",
         "link": "https://aws.amazon.com/blogs/mt/how-cigna-implemented-a-multi-region-centralized-alerting-system-on-aws/"
-    },
-    {
-        "title": "Operational Best Practices for FedRAMP Compliance in AWS GovCloud with AWS Config",
-        "link": "https://aws.amazon.com/blogs/mt/operational-best-practices-for-fedramp-compliance-in-aws-govcloud-with-aws-config/"
-    },
-    {
-        "title": "Introducing AWS Fault Injection Service Actions to Inject Chaos in Lambda functions",
-        "link": "https://aws.amazon.com/blogs/mt/introducing-aws-fault-injection-service-actions-to-inject-chaos-in-lambda-functions/"
     }
 ]

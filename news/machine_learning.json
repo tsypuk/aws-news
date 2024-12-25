@@ -1,5 +1,9 @@
 [
     {
+        "title": "PEFT fine tuning of Llama 3 on SageMaker HyperPod with AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/peft-fine-tuning-of-llama-3-on-sagemaker-hyperpod-with-aws-trainium/"
+    },
+    {
         "title": "Using transcription confidence scores to improve slot filling in Amazon Lex",
         "link": "https://aws.amazon.com/blogs/machine-learning/using-transcription-confidence-scores-to-improve-slot-filling-in-amazon-lex/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK \u2013 Part 1: ModelTrainer",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-1-modeltrainer/"
-    },
-    {
-        "title": "Amazon Q Apps supports customization and governance of generative AI-powered apps",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-apps-supports-customization-and-governance-of-generative-ai-powered-apps/"
     }
 ]
