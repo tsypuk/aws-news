@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve Amazon Timestream for InfluxDB security posture by automating rotation for long-lived credentials",
+        "link": "https://aws.amazon.com/blogs/database/improve-amazon-timestream-for-influxdb-security-posture-by-automating-rotation-for-long-lived-credentials/"
+    },
+    {
         "title": "Comparison of test_decoding and pglogical plugins in Amazon Aurora PostgreSQL for data migration using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/comparison-of-test_decoding-and-pglogical-plugins-in-amazon-aurora-postgresql-for-data-migration-using-aws-dms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scaling to 70M users: How Flo Health optimized Amazon DynamoDB for cost and performance",
         "link": "https://aws.amazon.com/blogs/database/scaling-to-70m-users-how-flo-health-optimized-amazon-dynamodb-for-cost-and-performance/"
-    },
-    {
-        "title": "Capture data changes while restoring an Amazon DynamoDB table",
-        "link": "https://aws.amazon.com/blogs/database/capture-data-changes-while-restoring-an-amazon-dynamodb-table/"
     }
 ]
