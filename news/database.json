@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implement automatic conflict detection and resolution for Oracle GoldenGate bi-directional replication between Amazon RDS for Oracle databases",
+        "link": "https://aws.amazon.com/blogs/database/implement-automatic-conflict-detection-and-resolution-for-oracle-goldengate-bi-directional-replication-between-amazon-rds-for-oracle-databases/"
+    },
+    {
         "title": "Improve Amazon Timestream for InfluxDB security posture by automating rotation for long-lived credentials",
         "link": "https://aws.amazon.com/blogs/database/improve-amazon-timestream-for-influxdb-security-posture-by-automating-rotation-for-long-lived-credentials/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Join your Amazon RDS for Db2 instances across accounts to a single shared domain",
         "link": "https://aws.amazon.com/blogs/database/join-your-amazon-rds-for-db2-instances-across-accounts-to-a-single-shared-domain/"
-    },
-    {
-        "title": "Scaling to 70M users: How Flo Health optimized Amazon DynamoDB for cost and performance",
-        "link": "https://aws.amazon.com/blogs/database/scaling-to-70m-users-how-flo-health-optimized-amazon-dynamodb-for-cost-and-performance/"
     }
 ]
