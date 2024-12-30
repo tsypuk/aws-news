@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/0.1.0) - 2024-12-29
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/0.1.0) - 2024-12-30
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/d78558542c3c08565f9d9eec73aca1bd2096decf...0.1.0)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/39fbb4bc0eb6aeafaab88e1fd38a8059a3b7d2c9...0.1.0)</small>
 
