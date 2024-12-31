@@ -1,5 +1,13 @@
 [
     {
+        "title": "Dynamic data masking in Amazon RDS for PostgreSQL, Amazon Aurora PostgreSQL, and Babelfish for Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/dynamic-data-masking-in-amazon-rds-for-postgresql-amazon-aurora-postgresql-and-babelfish-for-aurora-postgresql/"
+    },
+    {
+        "title": "Monitoring your Amazon Aurora PostgreSQL-Compatible and Amazon RDS PostgreSQL from integer sequence overflow",
+        "link": "https://aws.amazon.com/blogs/database/monitoring-your-amazon-aurora-postgresql-compatible-and-amazon-rds-postgresql-from-integer-sequence-overflow/"
+    },
+    {
         "title": "Implement automatic conflict detection and resolution for Oracle GoldenGate bi-directional replication between Amazon RDS for Oracle databases",
         "link": "https://aws.amazon.com/blogs/database/implement-automatic-conflict-detection-and-resolution-for-oracle-goldengate-bi-directional-replication-between-amazon-rds-for-oracle-databases/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How the Amazon TimeHub team designed resiliency and high availability for their data replication framework: Part 2",
         "link": "https://aws.amazon.com/blogs/database/how-the-amazon-timehub-team-designed-resiliency-and-high-availability-for-their-data-replication-framework-part-2/"
-    },
-    {
-        "title": "Understand the benefits of physical replication in Amazon RDS for PostgreSQL Blue/Green Deployments",
-        "link": "https://aws.amazon.com/blogs/database/understand-the-benefits-of-physical-replication-in-amazon-rds-for-postgresql-blue-green-deployments/"
-    },
-    {
-        "title": "Join your Amazon RDS for Db2 instances across accounts to a single shared domain",
-        "link": "https://aws.amazon.com/blogs/database/join-your-amazon-rds-for-db2-instances-across-accounts-to-a-single-shared-domain/"
     }
 ]
