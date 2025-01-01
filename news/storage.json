@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing for multi-account scenarios using AWS Disaster Recovery Service",
+        "link": "https://aws.amazon.com/blogs/storage/designing-for-multi-account-scenarios-using-aws-disaster-recovery-service/"
+    },
+    {
         "title": "Backing up Oracle databases to Amazon S3 at scale",
         "link": "https://aws.amazon.com/blogs/storage/backing-up-oracle-databases-to-amazon-s3-at-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Snow device updates",
         "link": "https://aws.amazon.com/blogs/storage/aws-snow-device-updates/"
-    },
-    {
-        "title": "How Delhivery migrated 500 TB of data across AWS Regions using Amazon S3 Replication",
-        "link": "https://aws.amazon.com/blogs/storage/how-dehlivery-migrated-500-tb-of-data-across-aws-regions-using-amazon-s3-replication/"
     }
 ]
