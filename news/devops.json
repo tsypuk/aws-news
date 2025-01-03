@@ -1,5 +1,13 @@
 [
     {
+        "title": "The most visited DevOps and Developer Productivity blog posts in 2024",
+        "link": "https://aws.amazon.com/blogs/devops/the-most-visited-devops-and-developer-productivity-blog-posts-in-2024-copy/"
+    },
+    {
+        "title": "re:Invent 2024 DevOps and Developer Productivity Playlist",
+        "link": "https://aws.amazon.com/blogs/devops/reinvent-2024-devops-and-developer-productivity-playlist/"
+    },
+    {
         "title": "Leverage powerful generative-AI capabilities for Java development in the Eclipse IDE public preview",
         "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-eclipse-preview/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing the new Amazon Q Developer experience in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/devops/introducing-the-new-amazon-q-developer-experience-in-aws-lambda/"
-    },
-    {
-        "title": "Enhance release control with AWS CodePipeline stage-level conditions",
-        "link": "https://aws.amazon.com/blogs/devops/enhance-release-control-with-aws-codepipeline-stage-level-conditions/"
-    },
-    {
-        "title": "Instant Well-Architected CDK Resources with Solutions Constructs Factories",
-        "link": "https://aws.amazon.com/blogs/devops/instant-well-architected-cdk-resources-with-solutions-constructs-factories/"
     }
 ]

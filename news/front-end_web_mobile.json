@@ -1,5 +1,13 @@
 [
     {
+        "title": "The most visited Front-end Web and Mobile blog posts in 2024",
+        "link": "https://aws.amazon.com/blogs/mobile/the-most-visited-front-end-web-and-mobile-blog-posts-in-2024/"
+    },
+    {
+        "title": "re:Invent 2024 Front-end Web and Mobile Playlist",
+        "link": "https://aws.amazon.com/blogs/mobile/reinvent-2024-front-end-web-and-mobile-playlist/"
+    },
+    {
         "title": "AWS Amplify Hosting Adds Web Application Firewall Protection \u2013 Public Preview",
         "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-hosting-adds-web-application-firewall-protection-public-preview/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Deploying a web application using AWS Amplify Gen 2 with GitLab as the Repository on AWS",
         "link": "https://aws.amazon.com/blogs/mobile/deploying-a-web-application-using-aws-amplify-gen-2-with-gitlab-as-the-repository-on-aws/"
-    },
-    {
-        "title": "Best practices for AWS AppSync GraphQL APIs",
-        "link": "https://aws.amazon.com/blogs/mobile/best-practices-for-aws-appsync-graphql-apis/"
-    },
-    {
-        "title": "New in AWS Amplify: Integrate with SQL databases, OIDC/SAML providers, and the AWS CDK",
-        "link": "https://aws.amazon.com/blogs/mobile/new-in-aws-amplify-integrate-with-sql-databases-oidc-saml-providers-and-the-aws-cdk/"
     }
 ]
