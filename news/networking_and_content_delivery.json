@@ -1,5 +1,9 @@
 [
     {
+        "title": "Configuring Amazon Application Recovery Controller zonal autoshift observer notifications",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-amazon-application-recovery-controller-zonal-autoshift-observer-notifications/"
+    },
+    {
         "title": "Introducing Cross-Region Connectivity for AWS PrivateLink",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-region-connectivity-for-aws-privatelink/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing web application user experiences with AWS WAF JavaScript integrations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-web-application-user-experiences-with-aws-waf-javascript-integrations/"
-    },
-    {
-        "title": "Unlock self-service, enterprise-grade VPC capabilities with seamless integrations",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/unlock-self-service-enterprise-grade-vpc-capabilities-with-seamless-integrations/"
     }
 ]

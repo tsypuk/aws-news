@@ -1,5 +1,9 @@
 [
     {
+        "title": "Jumpstart Your AWS for SAP Journey: Automated SAP S/4HANA Fully-Activated Appliance deployment for quick evaluation and fit-gap analysis",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automated-sap-s4hana-fully-activated-appliance-deployment/"
+    },
+    {
         "title": "Amazon SES configuration for SAP ABAP Systems \u2013 Part II",
         "link": "https://aws.amazon.com/blogs/awsforsap/amazon-ses-configuration-for-sap-abap-systems-part-ii/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build SAP Golden AMIs with EC2 Image Builder and Ansible",
         "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-golden-amis-with-ec2-image-builder-and-ansible/"
-    },
-    {
-        "title": "End-to-End Observability for SAP on AWS: Part 2 \u2013 SAP Network Latency Monitoring",
-        "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-2-sap-network-latency-monitoring/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "The benefits of an email-based AI virtual assistant on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/the-benefits-of-an-email-based-ai-virtual-assistant-on-aws/"
+    },
+    {
+        "title": "Precise Software Solutions implements ML as a service on AWS to save time and money for federal agency",
+        "link": "https://aws.amazon.com/blogs/publicsector/precise-software-solutions-implements-ml-as-a-service-on-aws-to-save-time-and-money-for-federal-agency/"
+    },
+    {
         "title": "Aligning cloud adoption with business outcomes, organizational capabilities, and governance through a CCoE",
         "link": "https://aws.amazon.com/blogs/publicsector/aligning-cloud-adoption-with-business-outcomes-organizational-capabilities-and-governance-through-a-ccoe/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to build a multilingual document summarization application using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/how-to-build-a-multilingual-document-summarization-application-using-amazon-bedrock/"
-    },
-    {
-        "title": "39 new or updated datasets available on the Registry of Open Data on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/39-new-or-updated-datasets-available-on-the-registry-of-open-data-on-aws/"
-    },
-    {
-        "title": "Migrating to a multi-account strategy for public sector customers",
-        "link": "https://aws.amazon.com/blogs/publicsector/migrating-to-a-multi-account-strategy-for-public-sector-customers/"
     }
 ]

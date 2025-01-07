@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize your container workloads for sustainability",
+        "link": "https://aws.amazon.com/blogs/containers/optimize-your-container-workloads-for-sustainability/"
+    },
+    {
         "title": "Announcing Bottlerocket FIPS variants",
         "link": "https://aws.amazon.com/blogs/containers/announcing-bottlerocket-fips-variants/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Monitoring and automating recovery from AZ impairments in Amazon EKS with Istio and ARC Zonal Shift",
         "link": "https://aws.amazon.com/blogs/containers/monitoring-and-automating-recovery-from-az-impairments-in-amazon-eks-with-istio-and-arc-zonal-shift/"
-    },
-    {
-        "title": "Amazon EKS enhances Kubernetes control plane observability",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-enhances-kubernetes-control-plane-observability/"
     }
 ]

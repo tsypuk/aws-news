@@ -1,5 +1,9 @@
 [
     {
+        "title": "Efficiently build and tune custom log anomaly detection models with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-build-and-tune-custom-log-anomaly-detection-models-with-amazon-sagemaker/"
+    },
+    {
         "title": "Optimizing costs of generative AI applications on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-of-generative-ai-applications-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate analysis and discovery of cancer biomarkers with Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-analysis-and-discovery-of-cancer-biomarkers-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Accelerate your ML lifecycle using the new and improved Amazon SageMaker Python SDK \u2013 Part 2: ModelBuilder",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-ml-lifecycle-using-the-new-and-improved-amazon-sagemaker-python-sdk-part-2-modelbuilder/"
     }
 ]

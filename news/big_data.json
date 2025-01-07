@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ingest data from Google Analytics 4 and Google Sheets to Amazon Redshift using Amazon AppFlow",
+        "link": "https://aws.amazon.com/blogs/big-data/ingest-data-from-google-analytics-4-and-google-sheets-to-amazon-redshift-using-amazon-appflow/"
+    },
+    {
         "title": "Amazon EMR 7.5 runtime for Apache Spark and Iceberg can run Spark workloads 3.6 times faster than Spark 3.5.3 and Iceberg 1.6.1",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-7-5-runtime-for-apache-spark-and-iceberg-can-run-spark-workloads-3-6-times-faster-than-spark-3-5-3-and-iceberg-1-6-1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build Write-Audit-Publish pattern with Apache Iceberg branching and AWS Glue Data Quality",
         "link": "https://aws.amazon.com/blogs/big-data/build-write-audit-publish-pattern-with-apache-iceberg-branching-and-aws-glue-data-quality/"
-    },
-    {
-        "title": "Implement historical record lookup and Slowly Changing Dimensions Type-2 using Apache Iceberg",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-historical-record-lookup-and-slowly-changing-dimensions-type-2-using-apache-iceberg/"
     }
 ]
