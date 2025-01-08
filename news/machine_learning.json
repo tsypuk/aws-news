@@ -1,5 +1,21 @@
 [
     {
+        "title": "Align and monitor your Amazon Bedrock powered insurance assistance chatbot to responsible AI principles with AWS Audit Manager",
+        "link": "https://aws.amazon.com/blogs/machine-learning/align-and-monitor-your-amazon-bedrock-powered-insurance-assistance-chatbot-to-responsible-ai-principles-with-aws-audit-manager/"
+    },
+    {
+        "title": "London Stock Exchange Group uses Amazon Q Business to enhance post-trade client services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/london-stock-exchange-group-uses-amazon-q-business-to-enhance-post-trade-client-services/"
+    },
+    {
+        "title": "Evaluate large language models for your machine translation tasks on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-large-language-models-for-your-machine-translation-tasks-on-aws/"
+    },
+    {
+        "title": "Parameta accelerates client email resolution with Amazon Bedrock Flows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/parameta-accelerates-client-email-resolution-with-amazon-bedrock-flows/"
+    },
+    {
         "title": "Efficiently build and tune custom log anomaly detection models with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-build-and-tune-custom-log-anomaly-detection-models-with-amazon-sagemaker/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Amazon trains sequential ensemble models at scale with Amazon SageMaker Pipelines",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-trains-sequential-ensemble-models-at-scale-with-amazon-sagemaker-pipelines/"
-    },
-    {
-        "title": "Implementing login node load balancing in SageMaker HyperPod for enhanced multi-user experience",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-login-node-load-balancing-in-sagemaker-hyperpod-for-enhanced-multi-user-experience/"
-    },
-    {
-        "title": "How Clearwater Analytics is revolutionizing investment management with generative AI and Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-clearwater-analytics-is-revolutionizing-investment-management-with-generative-ai-and-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "How Twitch used agentic workflow with RAG on Amazon Bedrock to supercharge ad sales",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-twitch-used-agentic-workflow-with-rag-on-amazon-bedrock-to-supercharge-ad-sales/"
-    },
-    {
-        "title": "Accelerate analysis and discovery of cancer biomarkers with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-analysis-and-discovery-of-cancer-biomarkers-with-amazon-bedrock-agents/"
     }
 ]

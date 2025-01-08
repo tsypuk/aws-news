@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing configurable point-in-time recovery periods for Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/announcing-configurable-point-in-time-recovery-periods-for-amazon-dynamodb/"
+    },
+    {
         "title": "Querying and writing to MySQL and MariaDB from Amazon Aurora and Amazon RDS for PostgreSQL using the mysql_fdw extension, Part 2: Handling foreign objects",
         "link": "https://aws.amazon.com/blogs/database/querying-and-writing-to-mysql-and-mariadb-from-amazon-aurora-and-amazon-rds-for-postgresql-using-the-mysql_fdw-extension-part-2-handling-foreign-objects/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How the Amazon TimeHub team designed a recovery and validation framework for their data replication framework: Part 4",
         "link": "https://aws.amazon.com/blogs/database/how-the-amazon-timehub-team-designed-a-recovery-and-validation-framework-for-their-data-replication-framework-part-4/"
-    },
-    {
-        "title": "How the Amazon TimeHub team handled disruption in AWS DMS CDC task caused by Oracle RESETLOGS: Part 3",
-        "link": "https://aws.amazon.com/blogs/database/how-the-amazon-timehub-team-handled-disruption-in-aws-dms-cdc-task-caused-by-oracle-resetlogs-part-3/"
     }
 ]

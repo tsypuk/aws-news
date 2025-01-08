@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a scalable IoT system for connected air purifiers on AWS IoT: Blueair (a Unilever company)",
+        "link": "https://aws.amazon.com/blogs/iot/building-a-scalable-iot-system-for-connected-air-purifiers-on-aws-iot-blueair-a-unilever-company/"
+    },
+    {
         "title": "Unlocking the Power of Edge Intelligence with AWS",
         "link": "https://aws.amazon.com/blogs/iot/unlocking-real-time-intelligence-at-the-edge-with-awss-connected-edge-intelligence/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Delivering an integrated approach to safety: How AWS workforce safety solutions make work safer",
         "link": "https://aws.amazon.com/blogs/iot/delivering-an-integrated-approach-to-safety-how-aws-workforce-safety-solutions-make-work-safer/"
-    },
-    {
-        "title": "How Volta Trucks built a connected vehicle platform using AWS IoT FleetWise",
-        "link": "https://aws.amazon.com/blogs/iot/how-volta-trucks-built-a-connected-vehicle-platform-using-aws-iot-fleetwise/"
     }
 ]
