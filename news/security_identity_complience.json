@@ -1,5 +1,13 @@
 [
     {
+        "title": "New AWS Skill Builder course available: Securing Generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/security/new-aws-skill-builder-course-available-securing-generative-ai-on-aws/"
+    },
+    {
+        "title": "Customize the scope of IAM Access Analyzer unused access analysis",
+        "link": "https://aws.amazon.com/blogs/security/customize-the-scope-of-iam-access-analyzer-unused-access-analysis/"
+    },
+    {
         "title": "How to enhance Amazon Macie data discovery capabilities using Amazon Textract",
         "link": "https://aws.amazon.com/blogs/security/how-to-enhance-amazon-macie-data-discovery-capabilities-using-amazon-textract/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Federated access to Amazon Athena using AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/federated-access-to-amazon-athena-using-aws-iam-identity-center/"
-    },
-    {
-        "title": "Secure root user access for member accounts in AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/security/secure-root-user-access-for-member-accounts-in-aws-organizations/"
-    },
-    {
-        "title": "Securing the RAG ingestion pipeline: Filtering mechanisms",
-        "link": "https://aws.amazon.com/blogs/security/securing-the-rag-ingestion-pipeline-filtering-mechanisms/"
     }
 ]

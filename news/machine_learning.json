@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlock cost-effective AI inference using Amazon Bedrock serverless capabilities with an Amazon SageMaker trained model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-cost-effective-ai-inference-using-amazon-bedrock-serverless-capabilities-with-an-amazon-sagemaker-trained-model/"
+    },
+    {
         "title": "Align and monitor your Amazon Bedrock powered insurance assistance chatbot to responsible AI principles with AWS Audit Manager",
         "link": "https://aws.amazon.com/blogs/machine-learning/align-and-monitor-your-amazon-bedrock-powered-insurance-assistance-chatbot-to-responsible-ai-principles-with-aws-audit-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Multi-tenant RAG with Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-with-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "How Amazon trains sequential ensemble models at scale with Amazon SageMaker Pipelines",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-trains-sequential-ensemble-models-at-scale-with-amazon-sagemaker-pipelines/"
     }
 ]

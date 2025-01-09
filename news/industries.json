@@ -1,5 +1,21 @@
 [
     {
+        "title": "How Aquis created a cloud-native exchange to meet the highest regulatory requirements on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-aquis-created-a-cloud-native-exchange-to-meet-the-highest-regulatory-requirements-on-aws/"
+    },
+    {
+        "title": "Modern AWS Data Strategy and Architecture for banking using BIAN Framework",
+        "link": "https://aws.amazon.com/blogs/industries/modern-aws-data-strategy-and-architecture-for-banking-using-bian-framework/"
+    },
+    {
+        "title": "AWS Responds to Basel Committee on Banking Supervision (BCBS) on Principles for the sound management of third-party risk",
+        "link": "https://aws.amazon.com/blogs/industries/aws-responds-to-basel-committee-on-banking-supervision-bcbs-on-principles-for-the-sound-management-of-third-party-risk/"
+    },
+    {
+        "title": "AstraZeneca fine-tunes genomics foundation models with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/industries/astrazeneca-fine-tunes-genomics-foundation-models-with-amazon-sagemaker/"
+    },
+    {
         "title": "Revolutionizing automotive software development with Intel and AWS",
         "link": "https://aws.amazon.com/blogs/industries/revolutionizing-automotive-software-development-with-intel-and-aws/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "AWS re:Invent 2024 recap for the Automotive Industry",
         "link": "https://aws.amazon.com/blogs/industries/aws-reinvent-2024-recap-for-the-automotive-industry/"
-    },
-    {
-        "title": "Streamlining Financial Operations: Leveraging Stripe event destinations with Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/industries/streamlining-financial-operations-leveraging-stripe-event-destinations-with-amazon-eventbridge/"
-    },
-    {
-        "title": "Navigating the Cloud: Joby Aviation\u2019s PLM migration to AWS",
-        "link": "https://aws.amazon.com/blogs/industries/navigating-the-cloud-joby-aviations-plm-migration-to-aws/"
-    },
-    {
-        "title": "Reduce semiconductor design costs using Amazon EC2 Spot and Exostellar Infrastructure Optimizer",
-        "link": "https://aws.amazon.com/blogs/industries/reduce-semiconductor-design-costs-using-amazon-ec2-spot-and-exostellar-infrastructure-optimizer/"
-    },
-    {
-        "title": "Expanding Moeve\u2019s Energy Parks with a bring-your-own-map tracking solution",
-        "link": "https://aws.amazon.com/blogs/industries/expanding-moeves-energy-parks-with-a-bring-your-own-map-tracking-solution/"
     }
 ]

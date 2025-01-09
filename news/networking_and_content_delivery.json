@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyzing AWS Transit Gateway Data Processing charges with cost allocation tags",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/analyzing-aws-transit-gateway-data-processing-charges-with-cost-allocation-tags/"
+    },
+    {
         "title": "Configuring Amazon Application Recovery Controller zonal autoshift observer notifications",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-amazon-application-recovery-controller-zonal-autoshift-observer-notifications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving security and performance with additional DNS resource record types in Amazon Route 53",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/improving-security-and-performance-with-additional-dns-resource-record-types-in-amazon-route-53/"
-    },
-    {
-        "title": "Optimizing web application user experiences with AWS WAF JavaScript integrations",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-web-application-user-experiences-with-aws-waf-javascript-integrations/"
     }
 ]

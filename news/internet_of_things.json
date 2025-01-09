@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a proof-of-concept IoT solution in under 3 hours with the AWS IoT Device Client",
+        "link": "https://aws.amazon.com/blogs/iot/build-a-proof-of-concept-iot-solution-in-under-3-hours-with-the-aws-iot-device-client/"
+    },
+    {
         "title": "Building a scalable IoT system for connected air purifiers on AWS IoT: Blueair (a Unilever company)",
         "link": "https://aws.amazon.com/blogs/iot/building-a-scalable-iot-system-for-connected-air-purifiers-on-aws-iot-blueair-a-unilever-company/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to synchronize AWS IoT SiteWise assets and data across AWS accounts",
         "link": "https://aws.amazon.com/blogs/iot/how-to-synchronize-aws-iot-sitewise-assets-and-data-across-aws-accounts/"
-    },
-    {
-        "title": "Delivering an integrated approach to safety: How AWS workforce safety solutions make work safer",
-        "link": "https://aws.amazon.com/blogs/iot/delivering-an-integrated-approach-to-safety-how-aws-workforce-safety-solutions-make-work-safer/"
     }
 ]
