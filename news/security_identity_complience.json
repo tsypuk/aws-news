@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing a city-sized event: How Amazon integrates physical and logical security at re:Invent",
+        "link": "https://aws.amazon.com/blogs/security/securing-a-city-sized-event-how-amazon-integrates-physical-and-logical-security-at-reinvent/"
+    },
+    {
         "title": "New AWS Skill Builder course available: Securing Generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/security/new-aws-skill-builder-course-available-securing-generative-ai-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Exploring the benefits of artificial intelligence while maintaining digital sovereignty",
         "link": "https://aws.amazon.com/blogs/security/exploring-benefits-of-artificial-intelligence-while-maintaining-digital-sovereignty/"
-    },
-    {
-        "title": "Federated access to Amazon Athena using AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/federated-access-to-amazon-athena-using-aws-iam-identity-center/"
     }
 ]

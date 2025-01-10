@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build an Amazon Bedrock based digital lending solution on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-amazon-bedrock-based-digital-lending-solution-on-aws/"
+    },
+    {
+        "title": "Build AI-powered malware analysis using Amazon Bedrock with Deep Instinct",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-malware-analysis-using-amazon-bedrock-with-deep-instinct/"
+    },
+    {
+        "title": "Email your conversations from Amazon Q",
+        "link": "https://aws.amazon.com/blogs/machine-learning/email-your-conversations-from-amazon-q/"
+    },
+    {
         "title": "Unlock cost-effective AI inference using Amazon Bedrock serverless capabilities with an Amazon SageMaker trained model",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlock-cost-effective-ai-inference-using-amazon-bedrock-serverless-capabilities-with-an-amazon-sagemaker-trained-model/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How TUI uses Amazon Bedrock to scale content creation and enhance hotel descriptions in under 10 seconds",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-tui-uses-amazon-bedrock-to-scale-content-creation-and-enhance-hotel-descriptions-in-under-10-seconds/"
-    },
-    {
-        "title": "Llama 3.3 70B now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/llama-3-3-70b-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "AWS re:Invent 2024 Highlights: Top takeaways from Swami Sivasubramanian to help customers manage generative AI at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-reinvent-2024-highlights-top-takeaways-from-swami-sivasubramanian-to-help-customers-manage-generative-ai-at-scale/"
-    },
-    {
-        "title": "Multi-tenant RAG with Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-with-amazon-bedrock-knowledge-bases/"
     }
 ]

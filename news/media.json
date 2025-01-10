@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enforcing enterprise-wide preventive controls with AWS Organizations.",
+        "link": "https://aws.amazon.com/blogs/mt/enforcing-enterprise-wide-preventive-controls-with-aws-organizations/"
+    },
+    {
         "title": "Implementing recommended experiments using the AWS Resilience Hub console",
         "link": "https://aws.amazon.com/blogs/mt/implementing-recommended-experiments-using-the-aws-resilience-hub-console/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Know Before You Go \u2013 AWS re:Invent 2024 Cloud Governance and Compliance",
         "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2024-cloud-governance-and-compliance/"
-    },
-    {
-        "title": "Operations re:Imagined \u2013 Know Before You Go \u2013 AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/mt/operations-reimagined-know-before-you-go-aws-reinvent-2024/"
     }
 ]
