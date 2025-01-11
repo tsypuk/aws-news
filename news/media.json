@@ -1,6 +1,10 @@
 [
     {
-        "title": "Enforcing enterprise-wide preventive controls with AWS Organizations.",
+        "title": "Get Operational Insights Fast with AWS Health and Amazon Q",
+        "link": "https://aws.amazon.com/blogs/mt/get-operational-insights-fast-with-aws-health-and-amazon-q/"
+    },
+    {
+        "title": "Enforcing enterprise-wide preventive controls with AWS Organizations",
         "link": "https://aws.amazon.com/blogs/mt/enforcing-enterprise-wide-preventive-controls-with-aws-organizations/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Manage AMI updates for AWS Auto Scaling groups with AWS Lambda and AWS Systems Manager",
         "link": "https://aws.amazon.com/blogs/mt/manage-ami-updates-for-aws-auto-scaling-groups-with-aws-lambda-and-aws-systems-manager/"
-    },
-    {
-        "title": "Know Before You Go \u2013 AWS re:Invent 2024 Cloud Governance and Compliance",
-        "link": "https://aws.amazon.com/blogs/mt/know-before-you-go-aws-reinvent-2024-cloud-governance-and-compliance/"
     }
 ]

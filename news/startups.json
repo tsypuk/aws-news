@@ -1304,10 +1304,6 @@
         "link": "https://aws.amazon.com/blogs/startups/migrating-web-services-from-amazon-lightsail-to-ec2/"
     },
     {
-        "title": "Why Omnilytics Moved its E-commerce Platform to be All-In on AWS",
-        "link": "https://aws.amazon.com/blogs/startups/why-omnilytics-moved-its-e-commerce-platform-to-be-all-in-on-aws/"
-    },
-    {
         "title": "AWS Healthcare Response Part 5: Collaborative Mental Health Support",
         "link": "https://aws.amazon.com/blogs/startups/aws-healthcare-response-mental-health-support/"
     },
@@ -1598,5 +1594,9 @@
     {
         "title": "Upbeat on AI: FinTechs Forecast Rebound Informed with Deep Learning",
         "link": "https://aws.amazon.com/blogs/startups/upbeat-on-ai-fintechs-forecast-rebound-informed-with-deep-learning/"
+    },
+    {
+        "title": "How Backbase Leveraged EC2 Hibernation to Reduce Compute Spending by 30%",
+        "link": "https://aws.amazon.com/blogs/startups/how-backbase-used-ec2-to-reduce-computing-costs/"
     }
 ]
