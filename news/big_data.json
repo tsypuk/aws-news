@@ -1,5 +1,9 @@
 [
     {
+        "title": "Batch data ingestion into Amazon OpenSearch Service using AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/batch-data-ingestion-into-amazon-opensearch-service-using-aws-glue/"
+    },
+    {
         "title": "Build a high-performance quant research platform with Apache Iceberg",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-high-performance-quant-research-platform-with-apache-iceberg/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate Amazon Redshift secure data use with Satori \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-amazon-redshift-secure-data-use-with-satori-part-2/"
-    },
-    {
-        "title": "An integrated experience for all your data and AI with Amazon SageMaker Unified Studio (preview)",
-        "link": "https://aws.amazon.com/blogs/big-data/an-integrated-experience-for-all-your-data-and-ai-with-amazon-sagemaker-unified-studio-preview/"
     }
 ]

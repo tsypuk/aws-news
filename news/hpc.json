@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scalable Cryo-EM on AWS Parallel Computing Service (PCS)",
+        "link": "https://aws.amazon.com/blogs/hpc/scalable-cryo-em-on-aws-parallel-computing-service-pcs/"
+    },
+    {
         "title": "Integrating Research and Engineering Studio in Trusted Research Environments built on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/integrating-research-and-engineering-studio-in-trusted-research-environments-built-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Terraform to deploy a complete AWS Batch environment on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/hpc/use-terraform-to-deploy-a-complete-aws-batch-environment-on-amazon-eks/"
-    },
-    {
-        "title": "A guide to identity management in Research and Engineering Studio on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/a-guide-to-identity-management-in-research-and-engineering-studio-on-aws/"
     }
 ]
