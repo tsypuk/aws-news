@@ -1,5 +1,9 @@
 [
     {
+        "title": "Updating your AWS Elastic Disaster Recovery settings at scale with the DRS Settings Tool",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/updating-your-aws-elastic-disaster-recovery-settings-at-scale-with-the-drs-settings-tool/"
+    },
+    {
         "title": "A practical guide to getting started with policy as code",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/a-practical-guide-to-getting-started-with-policy-as-code/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate IAM credential reports for large AWS Organizations",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-iam-credential-reports-for-large-aws-organizations/"
-    },
-    {
-        "title": "Automate prework to save time deploying an Amazon EKS Kubernetes cluster",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-prework-to-save-time-deploying-amazon-eks-kubernetes-cluster/"
     }
 ]

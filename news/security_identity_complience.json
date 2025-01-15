@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS achieves HDS certification for 24 AWS Regions",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-hds-certification-for-24-aws-regions/"
+    },
+    {
+        "title": "How to implement IAM policy checks with Visual Studio Code and IAM Access Analyzer",
+        "link": "https://aws.amazon.com/blogs/security/how-to-implement-iam-policy-checks-with-visual-studio-code-and-iam-access-analyzer/"
+    },
+    {
         "title": "AWS re:Invent 2024: Security, identity, and compliance recap",
         "link": "https://aws.amazon.com/blogs/security/aws-reinvent-2024-security-identity-and-compliance-recap/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS-LC FIPS 3.0: First cryptographic library to include ML-KEM in FIPS 140-3 validation",
         "link": "https://aws.amazon.com/blogs/security/aws-lc-fips-3-0-first-cryptographic-library-to-include-ml-kem-in-fips-140-3-validation/"
-    },
-    {
-        "title": "AWS Network Firewall Geographic IP Filtering launch",
-        "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-geographic-ip-filtering-launch/"
-    },
-    {
-        "title": "AWS post-quantum cryptography migration plan",
-        "link": "https://aws.amazon.com/blogs/security/aws-post-quantum-cryptography-migration-plan/"
     }
 ]

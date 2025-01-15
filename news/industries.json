@@ -1,5 +1,13 @@
 [
     {
+        "title": "Designing an integrated production monitoring and analytics platform to improve Jobs Per Hour and rework ratio",
+        "link": "https://aws.amazon.com/blogs/industries/designing-an-integrated-production-monitoring-and-analytics-platform-to-improve-jobs-per-hour-and-rework-ratio/"
+    },
+    {
+        "title": "How Yahoo DSP Supercharged Their Advertising Tech with AWS Graviton processors",
+        "link": "https://aws.amazon.com/blogs/industries/how-yahoo-dsp-supercharged-their-advertising-tech-with-aws-graviton-processors/"
+    },
+    {
         "title": "Using generative AI to create test cases for software requirements",
         "link": "https://aws.amazon.com/blogs/industries/using-generative-ai-to-create-test-cases-for-software-requirements/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "AWS Responds to Basel Committee on Banking Supervision (BCBS) on Principles for the sound management of third-party risk",
         "link": "https://aws.amazon.com/blogs/industries/aws-responds-to-basel-committee-on-banking-supervision-bcbs-on-principles-for-the-sound-management-of-third-party-risk/"
-    },
-    {
-        "title": "AstraZeneca fine-tunes genomics foundation models with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/industries/astrazeneca-fine-tunes-genomics-foundation-models-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Revolutionizing automotive software development with Intel and AWS",
-        "link": "https://aws.amazon.com/blogs/industries/revolutionizing-automotive-software-development-with-intel-and-aws/"
     }
 ]

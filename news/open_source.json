@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS CDK is splitting Construct Library and CLI",
+        "link": "https://aws.amazon.com/blogs/opensource/aws-cdk-is-splitting-construct-library-and-cli/"
+    },
+    {
         "title": "Shaping the future of CDK together",
         "link": "https://aws.amazon.com/blogs/opensource/shaping-the-future-of-cdk-together/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Lean Into Verified Software Development",
         "link": "https://aws.amazon.com/blogs/opensource/lean-into-verified-software-development/"
-    },
-    {
-        "title": "Why AWS Supports Valkey",
-        "link": "https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/"
     }
 ]

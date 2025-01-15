@@ -1,5 +1,9 @@
 [
     {
+        "title": "Juicebox recruits Amazon OpenSearch Service for improved talent search",
+        "link": "https://aws.amazon.com/blogs/big-data/juicebox-recruits-amazon-opensearch-service-for-improved-talent-search/"
+    },
+    {
         "title": "Batch data ingestion into Amazon OpenSearch Service using AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/batch-data-ingestion-into-amazon-opensearch-service-using-aws-glue/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building end-to-end data lineage for one-time and complex queries using Amazon Athena, Amazon Redshift, Amazon Neptune and dbt",
         "link": "https://aws.amazon.com/blogs/big-data/building-end-to-end-data-lineage-for-one-time-and-complex-queries-using-amazon-athena-amazon-redshift-amazon-neptune-and-dbt/"
-    },
-    {
-        "title": "Accelerate Amazon Redshift secure data use with Satori \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-amazon-redshift-secure-data-use-with-satori-part-2/"
     }
 ]

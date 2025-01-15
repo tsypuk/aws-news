@@ -1,5 +1,9 @@
 [
     {
+        "title": "Now open \u2014 AWS Mexico (Central) Region",
+        "link": "https://aws.amazon.com/blogs/aws/now-open-aws-mexico-central-region/"
+    },
+    {
         "title": "AWS Weekly Roundup: New Asia Pacific Region, DynamoDB updates, Amazon Q developer, and more (January 13, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-asia-pacific-region-dynamodb-updates-amazon-q-developer-and-more-january-13-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Maximize accelerator utilization for model development with new Amazon SageMaker HyperPod task governance",
         "link": "https://aws.amazon.com/blogs/aws/maximize-accelerator-utilization-for-model-development-with-new-amazon-sagemaker-hyperpod-task-governance/"
-    },
-    {
-        "title": "Amazon SageMaker Lakehouse integrated access controls now available in Amazon Athena federated queries",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-sagemaker-lakehouse-integrated-access-controls-now-available-in-amazon-athena-federated-queries/"
     }
 ]

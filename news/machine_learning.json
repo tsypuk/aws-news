@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement RAG while meeting data residency requirements using AWS hybrid and edge services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-rag-while-meeting-data-residency-requirements-using-aws-hybrid-and-edge-services/"
+    },
+    {
+        "title": "Unlocking complex problem-solving with multi-agent collaboration on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-complex-problem-solving-with-multi-agent-collaboration-on-amazon-bedrock/"
+    },
+    {
         "title": "How BQA streamlines education quality reporting using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-bqa-streamlines-education-quality-reporting-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Design multi-agent orchestration with reasoning using Amazon Bedrock and open source frameworks",
         "link": "https://aws.amazon.com/blogs/machine-learning/design-multi-agent-orchestration-with-reasoning-using-amazon-bedrock-and-open-source-frameworks/"
-    },
-    {
-        "title": "How Fastweb fine-tuned the Mistral model using Amazon SageMaker HyperPod as a first step to build an Italian large language model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-fastweb-fine-tuned-the-mistral-model-using-amazon-sagemaker-hyperpod-as-a-first-step-to-build-an-italian-large-language-model/"
-    },
-    {
-        "title": "Using natural language in Amazon Q Business: From searching and creating ServiceNow incidents and knowledge articles to generating insights",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-natural-language-in-amazon-q-business-from-searching-and-creating-servicenow-incidents-and-knowledge-articles-to-generating-insights/"
     }
 ]
