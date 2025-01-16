@@ -1,5 +1,9 @@
 [
     {
+        "title": "JSON serialization using Serde Rust crates in Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/json-serialization-using-serde-rust-crates-in-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Migrate spatial columns from Oracle to Amazon Aurora PostgreSQL or Amazon RDS for PostgreSQL using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/migrate-spatial-columns-from-oracle-to-amazon-aurora-postgresql-or-amazon-rds-for-postgresql-using-aws-dms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "FundApps\u2019s journey from SQL Server to Amazon Aurora Serverless v2 with Babelfish",
         "link": "https://aws.amazon.com/blogs/database/fundappss-journey-from-sql-server-to-amazon-aurora-serverless-v2-with-babelfish/"
-    },
-    {
-        "title": "Shrink storage volumes for your RDS databases and optimize your infrastructure costs",
-        "link": "https://aws.amazon.com/blogs/database/shrink-storage-volumes-for-your-rds-databases-and-optimize-your-infrastructure-costs/"
     }
 ]

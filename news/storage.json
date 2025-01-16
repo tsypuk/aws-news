@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cost-optimized log aggregation and archival in Amazon S3 using s3tar",
+        "link": "https://aws.amazon.com/blogs/storage/cost-optimized-log-aggregation-and-archival-in-amazon-s3-using-s3tar/"
+    },
+    {
         "title": "Designing for multi-account scenarios using AWS Disaster Recovery Service",
         "link": "https://aws.amazon.com/blogs/storage/designing-for-multi-account-scenarios-using-aws-disaster-recovery-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance resource selection in AWS Backup Policies in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/storage/enhance-resource-selection-in-aws-backup-policies-in-aws-organization/"
-    },
-    {
-        "title": "AWS Snow device updates",
-        "link": "https://aws.amazon.com/blogs/storage/aws-snow-device-updates/"
     }
 ]

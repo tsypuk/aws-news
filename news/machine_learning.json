@@ -1,5 +1,13 @@
 [
     {
+        "title": "HCLTech\u2019s AWS powered AutoWise Companion: A seamless experience for informed automotive buyer decisions with data-driven design",
+        "link": "https://aws.amazon.com/blogs/machine-learning/hcltechs-aws-powered-autowise-companion-a-seamless-experience-for-informed-automotive-buyer-decisions-with-data-driven-design/"
+    },
+    {
+        "title": "Mitigating risk: AWS backbone network traffic prediction using GraphStorm",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mitigating-risk-aws-backbone-network-traffic-prediction-using-graphstorm/"
+    },
+    {
         "title": "Implement RAG while meeting data residency requirements using AWS hybrid and edge services",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-rag-while-meeting-data-residency-requirements-using-aws-hybrid-and-edge-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Add a generative AI experience to your website or web application with Amazon Q embedded",
         "link": "https://aws.amazon.com/blogs/machine-learning/add-a-generative-ai-experience-to-your-website-or-web-application-with-amazon-q-embedded/"
-    },
-    {
-        "title": "An introduction to preparing your own dataset for LLM training",
-        "link": "https://aws.amazon.com/blogs/machine-learning/an-introduction-to-preparing-your-own-dataset-for-llm-training/"
-    },
-    {
-        "title": "Design multi-agent orchestration with reasoning using Amazon Bedrock and open source frameworks",
-        "link": "https://aws.amazon.com/blogs/machine-learning/design-multi-agent-orchestration-with-reasoning-using-amazon-bedrock-and-open-source-frameworks/"
     }
 ]
