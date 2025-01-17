@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless ICYMI Q4 2024",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2024/"
+    },
+    {
         "title": "Implementing backup for workloads running on AWS Outposts servers",
         "link": "https://aws.amazon.com/blogs/compute/implementing-backup-for-workloads-running-on-aws-outposts-servers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The attendee\u2019s guide to the AWS re:Invent 2024 Compute track",
         "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2024-compute-track/"
-    },
-    {
-        "title": "Introducing an enhanced local IDE experience for AWS Lambda developers",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-an-enhanced-local-ide-experience-for-aws-lambda-developers/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate topic provisioning and configuration using Terraform with Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-topic-provisioning-and-configuration-using-terraform-with-amazon-msk/"
+    },
+    {
         "title": "How EUROGATE established a data mesh architecture using Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/how-eurogate-established-a-data-mesh-architecture-using-amazon-datazone/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Top 6 game changers from AWS that redefine streaming data",
         "link": "https://aws.amazon.com/blogs/big-data/top-6-game-changers-from-aws-that-redefine-streaming-data/"
-    },
-    {
-        "title": "Introducing a new unified data connection experience with Amazon SageMaker Lakehouse unified data connectivity",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-a-new-unified-data-connection-experience-with-amazon-sagemaker-lakehouse-data-connectivity/"
     }
 ]

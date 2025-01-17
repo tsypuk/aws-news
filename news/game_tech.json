@@ -1,5 +1,9 @@
 [
     {
+        "title": "The Gang readies to scale its games catalog with LootLocker and AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/the-gang-readies-to-scale-its-games-catalog-with-lootlocker-and-aws/"
+    },
+    {
         "title": "Developer\u2019s Guide to operate game servers on Kubernetes \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/gametech/developers-guide-to-operate-game-servers-on-kubernetes-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Game On-Demand: Unlocking Cost-Efficient Cloud Gaming with Amazon EC2\u2019s Pay-as-You-Go Model using Steam",
         "link": "https://aws.amazon.com/blogs/gametech/game-on-demand-unlocking-cost-efficient-cloud-gaming-with-amazon-ec2s-pay-as-you-go-model-using-steam/"
-    },
-    {
-        "title": "How The Pok\u00e9mon Company International Orchestrates Zero-Downtime Deployments for Pok\u00e9mon TCG Live \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/gametech/how-the-pokemon-company-international-orchestrates-zero-downtime-deployments-for-pokemon-tcg-live-part-2/"
     }
 ]

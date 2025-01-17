@@ -1,5 +1,9 @@
 [
     {
+        "title": "Preventing unintended encryption of Amazon S3 objects",
+        "link": "https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/"
+    },
+    {
         "title": "AWS achieves HDS certification for 24 AWS Regions",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-hds-certification-for-24-aws-regions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing an enhanced version of the AWS Secrets Manager transform: AWS::SecretsManager-2024-09-16",
         "link": "https://aws.amazon.com/blogs/security/introducing-an-enhanced-version-of-the-aws-secrets-manager-transform-awssecretsmanager-2024-09-16/"
-    },
-    {
-        "title": "AWS-LC FIPS 3.0: First cryptographic library to include ML-KEM in FIPS 140-3 validation",
-        "link": "https://aws.amazon.com/blogs/security/aws-lc-fips-3-0-first-cryptographic-library-to-include-ml-kem-in-fips-140-3-validation/"
     }
 ]
