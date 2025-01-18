@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Orca Security optimized their Amazon Neptune database performance",
+        "link": "https://aws.amazon.com/blogs/database/how-orca-security-optimized-their-amazon-neptune-database-performance/"
+    },
+    {
+        "title": "Monitor server-side latency for Amazon ElastiCache for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/monitor-server-side-latency-for-amazon-elasticache-for-valkey/"
+    },
+    {
+        "title": "Monitor server-side latency for Amazon MemoryDB for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/monitor-server-side-latency-for-amazon-memorydb-for-valkey/"
+    },
+    {
         "title": "JSON serialization using Serde Rust crates in Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/json-serialization-using-serde-rust-crates-in-amazon-rds-for-postgresql/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Migrating Oracle Databases from Exadata to Amazon RDS for Oracle: Addressing Performance Considerations",
         "link": "https://aws.amazon.com/blogs/database/migrating-oracle-databases-from-exadata-to-amazon-rds-for-oracle-addressing-performance-considerations/"
-    },
-    {
-        "title": "Reduce latency and cost in read-heavy applications using Amazon DynamoDB Accelerator",
-        "link": "https://aws.amazon.com/blogs/database/reduce-latency-and-cost-in-read-heavy-applications-using-amazon-dynamodb-accelerator/"
-    },
-    {
-        "title": "Authenticate Amazon RDS for Db2 instances using on-premises Microsoft Active Directory and Kerberos",
-        "link": "https://aws.amazon.com/blogs/database/authenticate-amazon-rds-for-db2-instances-using-on-premises-microsoft-active-directory-and-kerberos/"
-    },
-    {
-        "title": "FundApps\u2019s journey from SQL Server to Amazon Aurora Serverless v2 with Babelfish",
-        "link": "https://aws.amazon.com/blogs/database/fundappss-journey-from-sql-server-to-amazon-aurora-serverless-v2-with-babelfish/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS and NANOG join forces: Unlocking IPv6 potential with the IPv6 Clinic at NANOG 93",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-and-nanog-join-forces-unlocking-ipv6-potential-with-the-ipv6-clinic-at-nanog-93/"
+    },
+    {
         "title": "How Northwestern Mutual optimized and improved efficiency with Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-northwestern-mutual-optimized-and-improved-efficiency-with-amazon-route-53-profiles/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon VPC Lattice DNS migration strategies and best practices",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-vpc-lattice-dns-migration-strategies-and-best-practices/"
-    },
-    {
-        "title": "Accelerate IPv6 application migration with AWS PrivateLink and dual stack Network Load Balancers UDP support",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/accelerate-ipv6-application-migration-with-aws-privatelink-and-dual-stack-network-load-balancers-udp-support/"
     }
 ]
