@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: New AWS Mexico (Central) Region, simultaneous sign-in for multiple AWS accounts, and more (January 20, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-mexico-central-region-simultaneous-sign-in-for-multiple-aws-accounts-and-more-january-20-2025/"
+    },
+    {
         "title": "Now open \u2014 AWS Mexico (Central) Region",
         "link": "https://aws.amazon.com/blogs/aws/now-open-aws-mexico-central-region/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Meet your training timelines and budgets with new Amazon SageMaker HyperPod flexible training plans",
         "link": "https://aws.amazon.com/blogs/aws/meet-your-training-timelines-and-budgets-with-new-amazon-sagemaker-hyperpod-flexible-training-plans/"
-    },
-    {
-        "title": "Maximize accelerator utilization for model development with new Amazon SageMaker HyperPod task governance",
-        "link": "https://aws.amazon.com/blogs/aws/maximize-accelerator-utilization-for-model-development-with-new-amazon-sagemaker-hyperpod-task-governance/"
     }
 ]
