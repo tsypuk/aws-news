@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automated Security Monitoring for RISE with SAP and SAP BTP on AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automated-security-monitoring-for-rise-with-sap-and-sap-btp-on-aws/"
+    },
+    {
         "title": "Jumpstart Your AWS for SAP Journey: Automated SAP S/4HANA Fully-Activated Appliance deployment for quick evaluation and fit-gap analysis",
         "link": "https://aws.amazon.com/blogs/awsforsap/automated-sap-s4hana-fully-activated-appliance-deployment/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate deployment of SAP Web Dispatcher using AWS Launch Wizard for SAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-deployment-of-sap-web-dispatcher-using-aws-launch-wizard-for-sap/"
-    },
-    {
-        "title": "Build SAP Golden AMIs with EC2 Image Builder and Ansible",
-        "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-golden-amis-with-ec2-image-builder-and-ansible/"
     }
 ]

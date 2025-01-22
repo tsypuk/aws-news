@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a serverless cloud-native EDI solution with AWS: Part 2",
+        "link": "https://aws.amazon.com/blogs/industries/building-a-serverless-cloud-native-edi-solution-with-aws-part-2/"
+    },
+    {
         "title": "Architecting operational models for private MEC using AWS Hybrid and Edge services with Verizon private 5G networks",
         "link": "https://aws.amazon.com/blogs/industries/architecting-operational-models-for-private-mec-using-aws-hybrid-and-edge-services-with-verizon-private-5g-networks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How fabric AI Order Cloud Spells Success with ESW on AWS",
         "link": "https://aws.amazon.com/blogs/industries/how-fabric-ai-order-cloud-spells-success-with-esw-on-aws/"
-    },
-    {
-        "title": "Modern AWS Data Strategy and Architecture for banking using BIAN Framework",
-        "link": "https://aws.amazon.com/blogs/industries/modern-aws-data-strategy-and-architecture-for-banking-using-bian-framework/"
     }
 ]

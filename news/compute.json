@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing cross-account targets for Amazon EventBridge Event Buses",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-cross-account-targets-for-amazon-eventbridge-event-buses/"
+    },
+    {
         "title": "Serverless ICYMI Q4 2024",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2024/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Retaining Optimize CPUs configuration during Amazon EC2 scaling to save on licensing costs",
         "link": "https://aws.amazon.com/blogs/compute/retaining-optimize-cpus-configuration-during-amazon-ec2-scaling-to-save-on-licensing-costs/"
-    },
-    {
-        "title": "The attendee\u2019s guide to the AWS re:Invent 2024 Compute track",
-        "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2024-compute-track/"
     }
 ]

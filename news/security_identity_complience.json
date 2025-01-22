@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using OSCAL to express Canadian cybersecurity requirements as compliance-as-code",
+        "link": "https://aws.amazon.com/blogs/security/using-oscal-to-express-canadian-cybersecurity-requirements-as-compliance-as-code/"
+    },
+    {
+        "title": "Safeguard your generative AI workloads from prompt injections",
+        "link": "https://aws.amazon.com/blogs/security/safeguard-your-generative-ai-workloads-from-prompt-injections/"
+    },
+    {
         "title": "Preventing unintended encryption of Amazon S3 objects",
         "link": "https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing the AWS Network Firewall CloudWatch Dashboard",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-network-firewall-cloudwatch-dashboard/"
-    },
-    {
-        "title": "Securing the future: building a culture of security",
-        "link": "https://aws.amazon.com/blogs/security/securing-the-future-building-a-culture-of-security/"
-    },
-    {
-        "title": "Introducing an enhanced version of the AWS Secrets Manager transform: AWS::SecretsManager-2024-09-16",
-        "link": "https://aws.amazon.com/blogs/security/introducing-an-enhanced-version-of-the-aws-secrets-manager-transform-awssecretsmanager-2024-09-16/"
     }
 ]
