@@ -1,5 +1,13 @@
 [
     {
+        "title": "Network latency concepts and best practices for a resilient architecture",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-latency-concepts-and-best-practices-for-a-resilient-architecture/"
+    },
+    {
+        "title": "Enabling end-to-end encryption with Amazon VPC Lattice TLS Passthrough",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-end-to-end-encryption-with-amazon-vpc-lattice-tls-passthrough/"
+    },
+    {
         "title": "AWS and NANOG join forces: Unlocking IPv6 potential with the IPv6 Clinic at NANOG 93",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-and-nanog-join-forces-unlocking-ipv6-potential-with-the-ipv6-clinic-at-nanog-93/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building a global, low-latency NTP service with static IP addresses",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-global-low-latency-ntp-service-with-static-ip-addresses/"
-    },
-    {
-        "title": "Securing PartyRock: How we protect Amazon Bedrock endpoints using AWS WAF",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-partyrock-how-we-protect-amazon-bedrock-endpoints-using-aws-waf/"
-    },
-    {
-        "title": "Amazon VPC Lattice DNS migration strategies and best practices",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-vpc-lattice-dns-migration-strategies-and-best-practices/"
     }
 ]

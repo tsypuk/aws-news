@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing multi-turn conversation with an agent node for Amazon Bedrock Flows (preview)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-multi-turn-conversation-with-an-agent-node-for-amazon-bedrock-flows-preview/"
+    },
+    {
+        "title": "Video security analysis for privileged access management using generative AI and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/video-security-analysis-for-privileged-access-management-using-generative-ai-and-amazon-bedrock/"
+    },
+    {
+        "title": "How Cato Networks uses Amazon Bedrock to transform free text search into structured GraphQL queries",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-cato-networks-uses-amazon-bedrock-to-transform-free-text-search-into-structured-graphql-queries/"
+    },
+    {
         "title": "Solve forecasting challenges for the retail and CPG industry using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/solve-forecasting-challenges-for-the-retail-and-cpg-industry-using-amazon-sagemaker-canvas/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Parameta accelerates client email resolution with Amazon Bedrock Flows",
         "link": "https://aws.amazon.com/blogs/machine-learning/parameta-accelerates-client-email-resolution-with-amazon-bedrock-flows/"
-    },
-    {
-        "title": "Efficiently build and tune custom log anomaly detection models with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-build-and-tune-custom-log-anomaly-detection-models-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Optimizing costs of generative AI applications on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-of-generative-ai-applications-on-aws/"
-    },
-    {
-        "title": "PEFT fine tuning of Llama 3 on SageMaker HyperPod with AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/peft-fine-tuning-of-llama-3-on-sagemaker-hyperpod-with-aws-trainium/"
     }
 ]
