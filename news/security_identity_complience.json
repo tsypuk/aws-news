@@ -1,5 +1,9 @@
 [
     {
+        "title": "CCN releases guide for Spain\u2019s ENS landing zones using Landing Zone Accelerator on AWS",
+        "link": "https://aws.amazon.com/blogs/security/ccn-releases-guide-for-spains-ens-landing-zones-using-landing-zone-accelerator-on-aws/"
+    },
+    {
         "title": "Using OSCAL to express Canadian cybersecurity requirements as compliance-as-code",
         "link": "https://aws.amazon.com/blogs/security/using-oscal-to-express-canadian-cybersecurity-requirements-as-compliance-as-code/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Generative AI adoption and compliance: Simplifying the path forward with AWS Audit Manager",
         "link": "https://aws.amazon.com/blogs/security/generative-ai-adoption-and-compliance-simplifying-the-path-forward-with-aws-audit-manager/"
-    },
-    {
-        "title": "Introducing the AWS Network Firewall CloudWatch Dashboard",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-network-firewall-cloudwatch-dashboard/"
     }
 ]

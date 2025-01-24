@@ -1,5 +1,9 @@
 [
     {
+        "title": "Access Amazon S3 Iceberg tables from Databricks using AWS Glue Iceberg REST Catalog in Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/access-amazon-s3-iceberg-tables-from-databricks-using-aws-glue-iceberg-rest-catalog-in-amazon-sagemaker-lakehouse/"
+    },
+    {
         "title": "Generate vector embeddings for your data using AWS Lambda as a processor for Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/generate-vector-embeddings-for-your-data-using-aws-lambda-as-a-processor-for-amazon-opensearch-ingestion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Recap of Amazon Redshift key product announcements in 2024",
         "link": "https://aws.amazon.com/blogs/big-data/recap-of-amazon-redshift-key-product-announcements-in-2024/"
-    },
-    {
-        "title": "How DeNA Co., Ltd. accelerated anonymized data quality tests up to 100 times faster using Amazon Redshift Serverless and dbt",
-        "link": "https://aws.amazon.com/blogs/big-data/how-dena-co-ltd-accelerated-anonymized-data-quality-tests-up-to-100-times-faster-using-amazon-redshift-serverless-and-dbt/"
     }
 ]

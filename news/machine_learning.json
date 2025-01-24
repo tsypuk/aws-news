@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamline custom environment provisioning for Amazon SageMaker Studio: An automated CI/CD pipeline approach",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-custom-environment-provisioning-for-amazon-sagemaker-studio-an-automated-ci-cd-pipeline-approach/"
+    },
+    {
+        "title": "Enhance your customer\u2019s omnichannel experience with Amazon Bedrock and Amazon Lex",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-your-customers-omnichannel-experience-with-amazon-bedrock-and-amazon-lex/"
+    },
+    {
         "title": "Introducing multi-turn conversation with an agent node for Amazon Bedrock Flows (preview)",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-multi-turn-conversation-with-an-agent-node-for-amazon-bedrock-flows-preview/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "London Stock Exchange Group uses Amazon Q Business to enhance post-trade client services",
         "link": "https://aws.amazon.com/blogs/machine-learning/london-stock-exchange-group-uses-amazon-q-business-to-enhance-post-trade-client-services/"
-    },
-    {
-        "title": "Evaluate large language models for your machine translation tasks on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-large-language-models-for-your-machine-translation-tasks-on-aws/"
-    },
-    {
-        "title": "Parameta accelerates client email resolution with Amazon Bedrock Flows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/parameta-accelerates-client-email-resolution-with-amazon-bedrock-flows/"
     }
 ]
