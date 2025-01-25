@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Iterate.ai uses Amazon MemoryDB to accelerate and cost-optimize their workforce management conversational AI agent",
+        "link": "https://aws.amazon.com/blogs/database/how-iterate-ai-uses-amazon-memorydb-to-accelerate-and-cost-optimize-their-workforce-management-conversational-ai-agent/"
+    },
+    {
         "title": "Diving deep into the new Amazon Aurora Global Database writer endpoint",
         "link": "https://aws.amazon.com/blogs/database/diving-deep-into-the-new-amazon-aurora-global-database-writer-endpoint/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing performance of Amazon RDS for Oracle with NVMe SSD hosted Smart Flash Cache and Temporary Tablespaces",
         "link": "https://aws.amazon.com/blogs/database/enhancing-performance-of-amazon-rds-for-oracle-with-nvme-ssd-hosted-smart-flash-cache-and-temporary-tablespaces/"
-    },
-    {
-        "title": "Amazon DynamoDB re:Invent 2024 recap",
-        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-reinvent-2024-recap/"
     }
 ]
