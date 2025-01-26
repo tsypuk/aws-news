@@ -1,5 +1,13 @@
 [
     {
+        "title": "Manage third party applications in Windows Server nodes using AWS System Manager and Chocolatey",
+        "link": "https://aws.amazon.com/blogs/mt/manage-third-party-application-installation-versioning-and-updates-in-windows-server-nodes-using-aws-system-manager-and-chocolatey/"
+    },
+    {
+        "title": "Assess, Audit, and Evaluate AWS Resources Against AWS Sustainability Best Practices",
+        "link": "https://aws.amazon.com/blogs/mt/assess-audit-and-evaluate-aws-resources-against-aws-sustainability-best-practices/"
+    },
+    {
         "title": "Operations transformation to navigate the VMware migration to AWS",
         "link": "https://aws.amazon.com/blogs/mt/operations-transformation-to-navigate-the-vmware-migration-to-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Achieve cost effective cloud operations with AWS Managed Services",
         "link": "https://aws.amazon.com/blogs/mt/achieve-cost-effective-cloud-operations-with-aws-managed-services/"
-    },
-    {
-        "title": "AWS Account vending by integrating ServiceNow with AWS Control Tower Account Factory for Terraform",
-        "link": "https://aws.amazon.com/blogs/mt/aws-account-vending-by-integrating-servicenow-with-aws-control-tower-account-factory-for-terraform/"
-    },
-    {
-        "title": "Top Announcements for AWS Cloud Operations at re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/mt/top-announcements-for-aws-cloud-operations-at-reinvent-2024/"
     }
 ]
