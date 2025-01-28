@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly roundup: EventBridge, SNS FIFO, Amazon Corretto, Amazon Connect, Amazon Bedrock, and more",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-eventbridge-sns-fifo-amazon-corretto-amazon-connect-amazon-bedrock-and-more/"
+    },
+    {
         "title": "Luma AI\u2019s Ray2 video model is now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/luma-ai-ray-2-video-model-is-now-available-in-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reduce costs and latency with Amazon Bedrock Intelligent Prompt Routing and prompt caching (preview)",
         "link": "https://aws.amazon.com/blogs/aws/reduce-costs-and-latency-with-amazon-bedrock-intelligent-prompt-routing-and-prompt-caching-preview/"
-    },
-    {
-        "title": "Amazon Bedrock Marketplace: Access over 100 foundation models in one place",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-marketplace-access-over-100-foundation-models-in-one-place/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Announcing upcoming changes to the AWS Security Token Service global endpoint",
+        "link": "https://aws.amazon.com/blogs/security/announcing-upcoming-changes-to-the-aws-security-token-service-global-endpoint/"
+    },
+    {
+        "title": "Building a culture of security: AWS partners with the BBC",
+        "link": "https://aws.amazon.com/blogs/security/building-a-culture-of-security-aws-partners-with-the-bbc/"
+    },
+    {
+        "title": "2024 C5 Type 2 attestation report available with 179 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/2024-c5-type-2-attestation-report-available-with-179-services-in-scope/"
+    },
+    {
         "title": "CCN releases guide for Spain\u2019s ENS landing zones using Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/security/ccn-releases-guide-for-spains-ens-landing-zones-using-landing-zone-accelerator-on-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AWS named Leader in the 2024 ISG Provider Lens report for Sovereign Cloud Infrastructure Services (EU)",
         "link": "https://aws.amazon.com/blogs/security/aws-named-leader-in-the-2024-isg-provider-lens-report-for-sovereign-cloud-infrastructure-services-eu/"
-    },
-    {
-        "title": "Enforce resource configuration to control access to new features with AWS",
-        "link": "https://aws.amazon.com/blogs/security/enforce-resource-configuration-to-control-access-to-new-features-with-aws/"
-    },
-    {
-        "title": "AWS KMS: How many keys do I need?",
-        "link": "https://aws.amazon.com/blogs/security/aws-kms-how-many-keys-do-i-need/"
-    },
-    {
-        "title": "Generative AI adoption and compliance: Simplifying the path forward with AWS Audit Manager",
-        "link": "https://aws.amazon.com/blogs/security/generative-ai-adoption-and-compliance-simplifying-the-path-forward-with-aws-audit-manager/"
     }
 ]

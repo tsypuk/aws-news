@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improving API performance at Sonar with Lambda SnapStart and Micronaut",
+        "link": "https://aws.amazon.com/blogs/opensource/improving-api-performance-at-sonar-with-lambda-snapstart-and-micronaut/"
+    },
+    {
         "title": "AWS CDK is splitting Construct Library and CLI",
         "link": "https://aws.amazon.com/blogs/opensource/aws-cdk-is-splitting-construct-library-and-cli/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Flowpipe: A Cloud Scripting Engine for DevOps Workflows",
         "link": "https://aws.amazon.com/blogs/opensource/flowpipe-a-cloud-scripting-engine-for-devops-workflows/"
-    },
-    {
-        "title": "Lean Into Verified Software Development",
-        "link": "https://aws.amazon.com/blogs/opensource/lean-into-verified-software-development/"
     }
 ]

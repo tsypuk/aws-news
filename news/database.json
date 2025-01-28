@@ -1,5 +1,13 @@
 [
     {
+        "title": "Oracle Application Express for Amazon RDS for Oracle demystified",
+        "link": "https://aws.amazon.com/blogs/database/oracle-application-express-for-amazon-rds-for-oracle-demystified/"
+    },
+    {
+        "title": "Introducing the GraphRAG Toolkit",
+        "link": "https://aws.amazon.com/blogs/database/introducing-the-graphrag-toolkit/"
+    },
+    {
         "title": "How Iterate.ai uses Amazon MemoryDB to accelerate and cost-optimize their workforce management conversational AI agent",
         "link": "https://aws.amazon.com/blogs/database/how-iterate-ai-uses-amazon-memorydb-to-accelerate-and-cost-optimize-their-workforce-management-conversational-ai-agent/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Comparison of test_decoding and pglogical plugins in Amazon Aurora PostgreSQL for data migration using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/comparison-of-test_decoding-and-pglogical-plugins-in-amazon-aurora-postgresql-for-data-migration-using-aws-dms/"
-    },
-    {
-        "title": "Enhance the reliability of airlines\u2019 mission-critical baggage handling using Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/enhance-the-reliability-of-airlines-mission-critical-baggage-handling-using-amazon-dynamodb/"
-    },
-    {
-        "title": "Enhancing performance of Amazon RDS for Oracle with NVMe SSD hosted Smart Flash Cache and Temporary Tablespaces",
-        "link": "https://aws.amazon.com/blogs/database/enhancing-performance-of-amazon-rds-for-oracle-with-nvme-ssd-hosted-smart-flash-cache-and-temporary-tablespaces/"
     }
 ]

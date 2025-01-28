@@ -1,5 +1,13 @@
 [
     {
+        "title": "Create a SageMaker inference endpoint with custom model & extended container",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-sagemaker-inference-endpoint-with-custom-model-extended-container/"
+    },
+    {
+        "title": "Image and video prompt engineering for Amazon Nova Canvas and Amazon Nova Reel",
+        "link": "https://aws.amazon.com/blogs/machine-learning/image-and-video-prompt-engineering-for-amazon-nova-canvas-and-amazon-nova-reel/"
+    },
+    {
         "title": "Security best practices to consider while fine-tuning models in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/security-best-practices-to-consider-while-fine-tuning-models-in-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build AI-powered malware analysis using Amazon Bedrock with Deep Instinct",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-malware-analysis-using-amazon-bedrock-with-deep-instinct/"
-    },
-    {
-        "title": "Email your conversations from Amazon Q",
-        "link": "https://aws.amazon.com/blogs/machine-learning/email-your-conversations-from-amazon-q/"
-    },
-    {
-        "title": "Unlock cost-effective AI inference using Amazon Bedrock serverless capabilities with an Amazon SageMaker trained model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-cost-effective-ai-inference-using-amazon-bedrock-serverless-capabilities-with-an-amazon-sagemaker-trained-model/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Load Balancer Migration to AWS: Recommended Strategies and Best Practices",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/load-balancer-migration-to-aws-recommended-strategies-and-best-practices-2/"
+    },
+    {
         "title": "Network latency concepts and best practices for a resilient architecture",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-latency-concepts-and-best-practices-for-a-resilient-architecture/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate Amazon ECS service communication to Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-amazon-ecs-service-communication-to-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Building a global, low-latency NTP service with static IP addresses",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-global-low-latency-ntp-service-with-static-ip-addresses/"
     }
 ]
