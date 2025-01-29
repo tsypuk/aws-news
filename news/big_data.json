@@ -1,5 +1,9 @@
 [
     {
+        "title": "How MuleSoft achieved cloud excellence through an event-driven Amazon Redshift lakehouse architecture",
+        "link": "https://aws.amazon.com/blogs/big-data/how-mulesoft-achieved-cloud-excellence-through-an-event-driven-amazon-redshift-lakehouse-architecture/"
+    },
+    {
         "title": "OpenSearch Vector Engine is now disk-optimized for low cost, accurate vector search",
         "link": "https://aws.amazon.com/blogs/big-data/opensearch-vector-engine-is-now-disk-optimized-for-low-cost-accurate-vector-search/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing Search Relevancy with Cohere Rerank 3.5 and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/enhancing-search-relevancy-with-cohere-rerank-3-5-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Introducing the new Amazon Kinesis source connector for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-new-amazon-kinesis-source-connector-for-apache-flink/"
     }
 ]

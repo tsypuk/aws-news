@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Load Balancer Capacity Unit Reservation to prepare for sharp increases in traffic",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-load-balancer-capacity-unit-reservation-to-prepare-for-sharp-increases-in-traffic/"
+    },
+    {
         "title": "Load Balancer Migration to AWS: Recommended Strategies and Best Practices",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/load-balancer-migration-to-aws-recommended-strategies-and-best-practices-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing VPC Security with Amazon VPC Block Public Access",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-block-public-access/"
-    },
-    {
-        "title": "Migrate Amazon ECS service communication to Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-amazon-ecs-service-communication-to-amazon-vpc-lattice/"
     }
 ]

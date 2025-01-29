@@ -1,5 +1,17 @@
 [
     {
+        "title": "Develop a RAG-based application using Amazon Aurora with Amazon Kendra",
+        "link": "https://aws.amazon.com/blogs/machine-learning/develop-a-rag-based-application-using-amazon-aurora-with-amazon-kendra/"
+    },
+    {
+        "title": "Optimizing AI responsiveness: A practical guide to Amazon Bedrock latency-optimized inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-ai-responsiveness-a-practical-guide-to-amazon-bedrock-latency-optimized-inference/"
+    },
+    {
+        "title": "Track LLM model evaluation using Amazon SageMaker managed MLflow and FMEval",
+        "link": "https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/"
+    },
+    {
         "title": "Create a SageMaker inference endpoint with custom model & extended container",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-sagemaker-inference-endpoint-with-custom-model-extended-container/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How BQA streamlines education quality reporting using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-bqa-streamlines-education-quality-reporting-using-amazon-bedrock/"
-    },
-    {
-        "title": "Boosting team innovation, productivity, and knowledge sharing with Amazon Q Business \u2013 Web experience",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-team-innovation-productivity-and-knowledge-sharing-with-amazon-q-business-web-experience/"
-    },
-    {
-        "title": "Build an Amazon Bedrock based digital lending solution on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-amazon-bedrock-based-digital-lending-solution-on-aws/"
-    },
-    {
-        "title": "Build AI-powered malware analysis using Amazon Bedrock with Deep Instinct",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-malware-analysis-using-amazon-bedrock-with-deep-instinct/"
     }
 ]

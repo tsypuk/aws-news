@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to configure Microsoft Remote Desktop Services using user-based subscription licenses with AWS License Manager",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-configure-microsoft-remote-desktop-services-using-user-based-subscription-licenses-with-aws-license-manager/"
+    },
+    {
         "title": "Continuous Replication to Amazon RDS for SQL Server from Azure SQL",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/continuous-replication-to-amazon-rds-for-sql-server-from-azure-sql/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Reserve your seat: Microsoft workloads on AWS sessions at re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reserve-your-seat-microsoft-workloads-on-aws-sessions-at-reinvent-2024/"
-    },
-    {
-        "title": "Accelerate VMware to AWS Migration with Trianz\u2019s Rapid Migration Offer and Concierto platform",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-vmware-to-aws-migration-with-trianzs-rapid-migration-offer-and-concierto-platform/"
     }
 ]
