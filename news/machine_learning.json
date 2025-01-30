@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deploy DeepSeek-R1 Distilled Llama models in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-llama-models-in-amazon-bedrock/"
+    },
+    {
+        "title": "Generative AI operating models in enterprise organizations with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-operating-models-in-enterprise-organizations-with-amazon-bedrock/"
+    },
+    {
         "title": "Develop a RAG-based application using Amazon Aurora with Amazon Kendra",
         "link": "https://aws.amazon.com/blogs/machine-learning/develop-a-rag-based-application-using-amazon-aurora-with-amazon-kendra/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implement RAG while meeting data residency requirements using AWS hybrid and edge services",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-rag-while-meeting-data-residency-requirements-using-aws-hybrid-and-edge-services/"
-    },
-    {
-        "title": "Unlocking complex problem-solving with multi-agent collaboration on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-complex-problem-solving-with-multi-agent-collaboration-on-amazon-bedrock/"
-    },
-    {
-        "title": "How BQA streamlines education quality reporting using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-bqa-streamlines-education-quality-reporting-using-amazon-bedrock/"
     }
 ]

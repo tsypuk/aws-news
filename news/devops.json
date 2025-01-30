@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the AWS CDK Glue L2 Construct",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-glue-l2-construct/"
+    },
+    {
         "title": "Effortlessly execute AWS CLI commands using natural language with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/effortlessly-execute-aws-cli-commands-using-natural-language-with-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leverage Amazon Q Developer and AWS Chatbot within Slack",
         "link": "https://aws.amazon.com/blogs/devops/leverage-amazon-q-developer-and-aws-chatbot-within-slack/"
-    },
-    {
-        "title": "Diving Deeper into Projen: Exploring Advanced Features",
-        "link": "https://aws.amazon.com/blogs/devops/diving-deeper-into-projen-exploring-advanced-features/"
     }
 ]

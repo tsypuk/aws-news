@@ -1,5 +1,9 @@
 [
     {
+        "title": "Hybrid big data analytics with Amazon EMR on AWS Outposts",
+        "link": "https://aws.amazon.com/blogs/big-data/hybrid-big-data-analytics-with-amazon-emr-on-aws-outposts/"
+    },
+    {
         "title": "How MuleSoft achieved cloud excellence through an event-driven Amazon Redshift lakehouse architecture",
         "link": "https://aws.amazon.com/blogs/big-data/how-mulesoft-achieved-cloud-excellence-through-an-event-driven-amazon-redshift-lakehouse-architecture/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement a custom subscription workflow for unmanaged Amazon S3 assets published with Amazon DataZone",
         "link": "https://aws.amazon.com/blogs/big-data/implement-a-custom-subscription-workflow-for-unmanaged-amazon-s3-assets-published-with-amazon-datazone/"
-    },
-    {
-        "title": "Enhancing Search Relevancy with Cohere Rerank 3.5 and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/enhancing-search-relevancy-with-cohere-rerank-3-5-and-amazon-opensearch-service/"
     }
 ]
