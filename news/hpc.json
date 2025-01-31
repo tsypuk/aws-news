@@ -1,5 +1,9 @@
 [
     {
+        "title": "Three recipes you don\u2019t want to miss for AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/three-recipes-you-dont-want-to-miss-for-aws-parallel-computing-service/"
+    },
+    {
         "title": "How Caris Life Sciences processed 400,000 RNAseq samples in 2.5 days with AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/how-caris-life-sciences-processed-400000-rnaseq-samples-in-2-5-days-with-aws-batch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simulating complex systems with LLM-driven agents: leveraging AWS ParallelCluster for scalable AI experiments",
         "link": "https://aws.amazon.com/blogs/hpc/simulating-complex-systems-with-llm-driven-agents-leveraging-aws-parallelcluster-for-scalable-ai-experiments/"
-    },
-    {
-        "title": "Automotive component design at Nifco using generative AI and diffusion models",
-        "link": "https://aws.amazon.com/blogs/hpc/automotive-component-design-at-nifco-using-generative-ai-and-diffusion-models/"
     }
 ]

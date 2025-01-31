@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Redshift enhances security by changing default behavior in 2025",
+        "link": "https://aws.amazon.com/blogs/security/amazon-redshift-enhances-security-by-changing-default-behavior-in-2025/"
+    },
+    {
+        "title": "How to deploy an Amazon OpenSearch cluster to ingest logs from Amazon Security Lake",
+        "link": "https://aws.amazon.com/blogs/security/how-to-deploy-an-amazon-opensearch-cluster-to-ingest-logs-from-amazon-security-lake/"
+    },
+    {
         "title": "Updated whitepaper available: Aligning to the NIST Cybersecurity Framework in the AWS Cloud",
         "link": "https://aws.amazon.com/blogs/security/updated-whitepaper-available-aligning-to-the-nist-cybersecurity-framework-in-the-aws-cloud/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to enhance Amazon Macie data discovery capabilities using Amazon Textract",
         "link": "https://aws.amazon.com/blogs/security/how-to-enhance-amazon-macie-data-discovery-capabilities-using-amazon-textract/"
-    },
-    {
-        "title": "AWS completes the CCCS PBHVA assessment with 149 services and features in scope",
-        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-cccs-pbhva-assessment-with-149-services-and-features-in-scope/"
-    },
-    {
-        "title": "2024 ISO and CSA STAR certificates now available with two additional services",
-        "link": "https://aws.amazon.com/blogs/security/2024-iso-and-csa-star-certificates-now-available-with-two-additional-services/"
     }
 ]

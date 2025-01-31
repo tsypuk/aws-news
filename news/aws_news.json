@@ -1,5 +1,9 @@
 [
     {
+        "title": "DeepSeek-R1 models now available on AWS",
+        "link": "https://aws.amazon.com/blogs/aws/deepseek-r1-models-now-available-on-aws/"
+    },
+    {
         "title": "AWS Weekly roundup: EventBridge, SNS FIFO, Amazon Corretto, Amazon Connect, Amazon Bedrock, and more",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-eventbridge-sns-fifo-amazon-corretto-amazon-connect-amazon-bedrock-and-more/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New Amazon Bedrock capabilities enhance data processing and retrieval",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-bedrock-capabilities-enhance-data-processing-and-retrieval/"
-    },
-    {
-        "title": "Reduce costs and latency with Amazon Bedrock Intelligent Prompt Routing and prompt caching (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/reduce-costs-and-latency-with-amazon-bedrock-intelligent-prompt-routing-and-prompt-caching-preview/"
     }
 ]

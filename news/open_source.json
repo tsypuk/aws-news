@@ -1,5 +1,9 @@
 [
     {
+        "title": "Kube Resource Orchestrator, From Experiment to Community Project",
+        "link": "https://aws.amazon.com/blogs/opensource/kube-resource-orchestrator-from-experiment-to-community-project/"
+    },
+    {
         "title": "Improving API performance at Sonar with Lambda SnapStart and Micronaut",
         "link": "https://aws.amazon.com/blogs/opensource/improving-api-performance-at-sonar-with-lambda-snapstart-and-micronaut/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing Network Resilience with Istio on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/opensource/enhancing-network-resilience-with-istio-on-amazon-eks/"
-    },
-    {
-        "title": "Flowpipe: A Cloud Scripting Engine for DevOps Workflows",
-        "link": "https://aws.amazon.com/blogs/opensource/flowpipe-a-cloud-scripting-engine-for-devops-workflows/"
     }
 ]

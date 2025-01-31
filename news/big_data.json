@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Open Universities Australia modernized their data platform and significantly reduced their ETL costs with AWS Cloud Development Kit and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/big-data/how-open-universities-australia-modernized-their-data-platform-and-significantly-reduced-their-etl-costs-with-aws-cloud-development-kit-and-aws-step-functions/"
+    },
+    {
         "title": "Hybrid big data analytics with Amazon EMR on AWS Outposts",
         "link": "https://aws.amazon.com/blogs/big-data/hybrid-big-data-analytics-with-amazon-emr-on-aws-outposts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate queries on Apache Iceberg tables through AWS Glue auto compaction",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-queries-on-apache-iceberg-tables-through-aws-glue-auto-compaction/"
-    },
-    {
-        "title": "Implement a custom subscription workflow for unmanaged Amazon S3 assets published with Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-a-custom-subscription-workflow-for-unmanaged-amazon-s3-assets-published-with-amazon-datazone/"
     }
 ]

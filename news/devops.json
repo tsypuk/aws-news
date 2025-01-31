@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing Code Generation with Real-Time Execution in Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/enhancing-code-generation-with-real-time-execution-in-amazon-q-developer/"
+    },
+    {
         "title": "Announcing the AWS CDK Glue L2 Construct",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-glue-l2-construct/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Semantic Versioning to Simplify Release Management",
         "link": "https://aws.amazon.com/blogs/devops/using-semantic-versioning-to-simplify-release-management/"
-    },
-    {
-        "title": "Leverage Amazon Q Developer and AWS Chatbot within Slack",
-        "link": "https://aws.amazon.com/blogs/devops/leverage-amazon-q-developer-and-aws-chatbot-within-slack/"
     }
 ]
