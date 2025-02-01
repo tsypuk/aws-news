@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrating custom metadata with Amazon S3 Metadata",
+        "link": "https://aws.amazon.com/blogs/storage/integrating-custom-metadata-with-amazon-s3-metadata/"
+    },
+    {
+        "title": "Enhancing resource-level permission for creating an Amazon EBS volume from a snapshot",
+        "link": "https://aws.amazon.com/blogs/storage/enhancing-resource-level-permission-for-creating-an-amazon-ebs-volume-from-a-snapshot/"
+    },
+    {
         "title": "Design patterns for multi-tenant access control on Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/design-patterns-for-multi-tenant-access-control-on-amazon-s3/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Amazon S3 Tables use compaction to improve query performance by up to 3 times",
         "link": "https://aws.amazon.com/blogs/storage/how-amazon-s3-tables-use-compaction-to-improve-query-performance-by-up-to-3-times/"
-    },
-    {
-        "title": "Manage costs for replicated delete markers in a disaster recovery setup on Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/manage-costs-for-replicated-delete-markers-in-a-disaster-recovery-setup-on-amazon-s3/"
-    },
-    {
-        "title": "Migrating data access and Microsoft Active Directory with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/migrating-data-access-and-azure-ad-with-amazon-fsx-for-netapp-ontap/"
     }
 ]

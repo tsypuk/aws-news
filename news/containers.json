@@ -1,5 +1,9 @@
 [
     {
+        "title": "Organizational best practices for implementing EKS Anywhere at scale",
+        "link": "https://aws.amazon.com/blogs/containers/organizational-best-practices-for-implementing-eks-anywhere-at-scale/"
+    },
+    {
         "title": "A deep dive into Amazon EKS Hybrid Nodes",
         "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-amazon-eks-hybrid-nodes/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Optimize compute resources on Amazon ECS with Predictive Scaling",
         "link": "https://aws.amazon.com/blogs/containers/optimize-compute-resources-on-amazon-ecs-with-predictive-scaling/"
-    },
-    {
-        "title": "How HP achieved 40% improvement in Kubernetes node utilization on Amazon EKS using Karpenter",
-        "link": "https://aws.amazon.com/blogs/containers/how-hp-achieved-40-improvement-in-kubernetes-node-utilization-utilization-on-amazon-eks-using-karpenter/"
     }
 ]

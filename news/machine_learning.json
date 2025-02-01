@@ -1,5 +1,21 @@
 [
     {
+        "title": "Harnessing Amazon Bedrock generative AI for resilient supply chain",
+        "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-amazon-bedrock-generative-ai-for-resilient-supply-chain/"
+    },
+    {
+        "title": "How Travelers Insurance classified emails with Amazon Bedrock and prompt engineering",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-travelers-insurance-classified-emails-with-amazon-bedrock-and-prompt-engineering/"
+    },
+    {
+        "title": "Accelerate digital pathology slide annotation workflows on AWS using H-optimus-0",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-digital-pathology-slide-annotation-workflows-on-aws-using-h-optimus-0/"
+    },
+    {
+        "title": "DeepSeek-R1 model now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deepseek-r1-model-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Streamline grant proposal reviews using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/streamline-grant-proposal-reviews-using-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Cato Networks uses Amazon Bedrock to transform free text search into structured GraphQL queries",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-cato-networks-uses-amazon-bedrock-to-transform-free-text-search-into-structured-graphql-queries/"
-    },
-    {
-        "title": "Solve forecasting challenges for the retail and CPG industry using Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/solve-forecasting-challenges-for-the-retail-and-cpg-industry-using-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Enabling generative AI self-service using Amazon Lex, Amazon Bedrock, and ServiceNow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enabling-generative-ai-self-service-using-amazon-lex-amazon-bedrock-and-servicenow/"
-    },
-    {
-        "title": "How Kyndryl integrated ServiceNow and Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-kyndryl-integrated-servicenow-and-amazon-q-business/"
-    },
-    {
-        "title": "HCLTech\u2019s AWS powered AutoWise Companion: A seamless experience for informed automotive buyer decisions with data-driven design",
-        "link": "https://aws.amazon.com/blogs/machine-learning/hcltechs-aws-powered-autowise-companion-a-seamless-experience-for-informed-automotive-buyer-decisions-with-data-driven-design/"
     }
 ]

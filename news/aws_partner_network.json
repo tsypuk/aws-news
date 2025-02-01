@@ -1,5 +1,21 @@
 [
     {
+        "title": "The Apiphani Data Pipeline and AWS Services Industrialize Data Delivery for BI, ML, and AI",
+        "link": "https://aws.amazon.com/blogs/apn/the-apiphani-data-pipeline-and-aws-services-industrialize-data-delivery-for-bi-ml-and-ai/"
+    },
+    {
+        "title": "Choosing the Right Tool: Selecting Machine Learning or Generative AI for Optimal Results",
+        "link": "https://aws.amazon.com/blogs/apn/choosing-the-right-tool-selecting-machine-learning-or-generative-ai-for-optimal-results/"
+    },
+    {
+        "title": "Providing Standalone 5G Services with RADCOM Assurance on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/providing-standalone-5g-services-radcom-assurance-aws/"
+    },
+    {
+        "title": "Enhancing Document Fraud Detection in Financial Services with Fortiro and AWS",
+        "link": "https://aws.amazon.com/blogs/apn/enhancing-document-fraud-detection-in-financial-services-with-fortiro-and-aws/"
+    },
+    {
         "title": "Enhancing Amazon EKS Security with SentinelOne\u2019s Real-Time eBPF Protection on AWS",
         "link": "https://aws.amazon.com/blogs/apn/enhancing-amazon-eks-security-with-sentinelones-real-time-ebpf-protection-on-aws/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Renova Expedites and Scales Advanced Driver Assistance Systems (ADAS) using Amazon Elastic Kubernetes Service (Amazon EKS)",
         "link": "https://aws.amazon.com/blogs/apn/renova-expedites-and-scales-advanced-driver-assistance-systems-adas-using-amazon-elastic-kubernetes-service-amazon-eks/"
-    },
-    {
-        "title": "How NewEdge Services used AWS to apply an ArcGIS GeoEvent Server at Lower Neches Valley Authority",
-        "link": "https://aws.amazon.com/blogs/apn/how-newedge-services-used-aws-to-apply-an-arcgis-geoevent-server-at-lower-neches-valley-authority/"
-    },
-    {
-        "title": "Strategy to Build Generative AI Practice for Partners",
-        "link": "https://aws.amazon.com/blogs/apn/strategy-to-build-generative-ai-practice-for-partners/"
-    },
-    {
-        "title": "Enhancing Total Experience in Contact Centers with TCS solution Powered by Generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/enhancing-total-experience-in-contact-centers-with-tcs-solution-powered-by-generative-ai-on-aws/"
-    },
-    {
-        "title": "Enhance Automotive After-Sales service experience using Generative AI powered Tech Mahindra iXRT Solution",
-        "link": "https://aws.amazon.com/blogs/apn/enhance-automotive-after-sales-service-experience-using-generative-ai-powered-tech-mahindra-ixrt-solution/"
     }
 ]
