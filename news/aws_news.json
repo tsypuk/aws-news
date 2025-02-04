@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: DeepSeek-R1, S3 Metadata, Elastic Beanstalk updates, and more (February 3, 2024)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-deepseek-r1-s3-metadata-elastic-beanstalk-updates-and-more-february-3-2024/"
+    },
+    {
         "title": "DeepSeek-R1 models now available on AWS",
         "link": "https://aws.amazon.com/blogs/aws/deepseek-r1-models-now-available-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Bedrock Guardrails now supports multimodal toxicity detection with image support (preview)",
         "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-now-supports-multimodal-toxicity-detection-with-image-support/"
-    },
-    {
-        "title": "New Amazon Bedrock capabilities enhance data processing and retrieval",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-bedrock-capabilities-enhance-data-processing-and-retrieval/"
     }
 ]

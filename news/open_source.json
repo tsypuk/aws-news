@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Qonto\u2019s Prometheus RDS Exporter \u2013 An Open Source Solution to Enhance Monitoring Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-qontos-prometheus-rds-exporter-an-open-source-solution-to-enhance-monitoring-amazon-rds/"
+    },
+    {
         "title": "Kube Resource Orchestrator, From Experiment to Community Project",
         "link": "https://aws.amazon.com/blogs/opensource/kube-resource-orchestrator-from-experiment-to-community-project/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon Timestream for InfluxDB: A managed service for the popular open source time-series database",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-amazon-timestream-for-influxdb-a-managed-service-for-the-popular-open-source-time-series-database/"
-    },
-    {
-        "title": "Enhancing Network Resilience with Istio on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/opensource/enhancing-network-resilience-with-istio-on-amazon-eks/"
     }
 ]

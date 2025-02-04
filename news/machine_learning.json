@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate video Q&A workflows using Amazon Bedrock Knowledge Bases, Amazon Transcribe, and thoughtful UX design",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-video-qa-workflows-using-amazon-bedrock-knowledge-bases-amazon-transcribe-and-thoughtful-ux-design/"
+    },
+    {
+        "title": "Boost team innovation, productivity, and knowledge sharing with Amazon Q Apps",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-team-innovation-productivity-and-knowledge-sharing-with-amazon-q-apps/"
+    },
+    {
         "title": "Harnessing Amazon Bedrock generative AI for resilient supply chain",
         "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-amazon-bedrock-generative-ai-for-resilient-supply-chain/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing multi-turn conversation with an agent node for Amazon Bedrock Flows (preview)",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-multi-turn-conversation-with-an-agent-node-for-amazon-bedrock-flows-preview/"
-    },
-    {
-        "title": "Video security analysis for privileged access management using generative AI and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/video-security-analysis-for-privileged-access-management-using-generative-ai-and-amazon-bedrock/"
-    },
-    {
-        "title": "How Cato Networks uses Amazon Bedrock to transform free text search into structured GraphQL queries",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-cato-networks-uses-amazon-bedrock-to-transform-free-text-search-into-structured-graphql-queries/"
     }
 ]

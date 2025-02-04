@@ -1,5 +1,13 @@
 [
     {
+        "title": "2024: A year of innovation and growth for Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/2024-a-year-of-innovation-and-growth-for-amazon-dynamodb/"
+    },
+    {
+        "title": "Gather organization-wide Amazon RDS orphan snapshot insights using AWS Step Functions and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/database/gather-organization-wide-amazon-rds-orphan-snapshot-insights-using-aws-step-functions-and-amazon-quicksight/"
+    },
+    {
         "title": "How Aqua Security exports query data from Amazon Aurora to deliver value to their customers at scale",
         "link": "https://aws.amazon.com/blogs/database/how-aqua-security-exports-query-data-from-amazon-aurora-to-deliver-value-to-their-customers-at-scale/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Dynamic data masking in Amazon RDS for PostgreSQL, Amazon Aurora PostgreSQL, and Babelfish for Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/dynamic-data-masking-in-amazon-rds-for-postgresql-amazon-aurora-postgresql-and-babelfish-for-aurora-postgresql/"
-    },
-    {
-        "title": "Monitoring your Amazon Aurora PostgreSQL-Compatible and Amazon RDS PostgreSQL from integer sequence overflow",
-        "link": "https://aws.amazon.com/blogs/database/monitoring-your-amazon-aurora-postgresql-compatible-and-amazon-rds-postgresql-from-integer-sequence-overflow/"
-    },
-    {
-        "title": "Implement automatic conflict detection and resolution for Oracle GoldenGate bi-directional replication between Amazon RDS for Oracle databases",
-        "link": "https://aws.amazon.com/blogs/database/implement-automatic-conflict-detection-and-resolution-for-oracle-goldengate-bi-directional-replication-between-amazon-rds-for-oracle-databases/"
     }
 ]
