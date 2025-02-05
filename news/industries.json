@@ -1,5 +1,17 @@
 [
     {
+        "title": "DORA scenario testing with AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/industries/dora-scenario-testing-with-aws-fault-injection-service/"
+    },
+    {
+        "title": "Automated networking with shared VPCs at Swisscom",
+        "link": "https://aws.amazon.com/blogs/industries/automated-networking-with-shared-vpcs-at-swisscom/"
+    },
+    {
+        "title": "How Woodside built a Level 3.5 OT DMZ on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-woodside-built-a-level-3-5-ot-dmz-on-aws/"
+    },
+    {
         "title": "AWS for Healthcare at ECR 2025: Advancing Sustainable Medical Imaging",
         "link": "https://aws.amazon.com/blogs/industries/aws-for-healthcare-at-ecr-2025-advancing-sustainable-medical-imaging/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Financial Market Infrastructure Providers Cloud Adoption Trends for The First Half of 2024",
         "link": "https://aws.amazon.com/blogs/industries/financial-market-infrastructure-providers-cloud-adoption-trends-for-2024/"
-    },
-    {
-        "title": "Life Sciences and Healthcare Predictive Analytics with Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/industries/life-sciences-and-healthcare-predictive-analytics-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Building a serverless cloud-native EDI solution with AWS: Part 2",
-        "link": "https://aws.amazon.com/blogs/industries/building-a-serverless-cloud-native-edi-solution-with-aws-part-2/"
-    },
-    {
-        "title": "Architecting operational models for private MEC using AWS Hybrid and Edge services with Verizon private 5G networks",
-        "link": "https://aws.amazon.com/blogs/industries/architecting-operational-models-for-private-mec-using-aws-hybrid-and-edge-services-with-verizon-private-5g-networks/"
     }
 ]
