@@ -1,5 +1,13 @@
 [
     {
+        "title": "Fine-tune and host SDXL models cost-effectively with AWS Inferentia2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-host-sdxl-models-cost-effectively-with-aws-inferentia2/"
+    },
+    {
+        "title": "How Aetion is using generative AI and Amazon Bedrock to translate scientific intent to results",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-aetion-is-using-generative-ai-and-amazon-bedrock-to-translate-scientific-intent-to-results/"
+    },
+    {
         "title": "Trellix lowers cost, increases speed, and adds delivery flexibility with cost-effective and performant Amazon Nova Micro and Amazon Nova Lite models",
         "link": "https://aws.amazon.com/blogs/machine-learning/trellix-lowers-cost-increases-speed-and-adds-delivery-flexibility-with-cost-effective-and-performant-amazon-nova-micro-and-amazon-nova-lite-models/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Track LLM model evaluation using Amazon SageMaker managed MLflow and FMEval",
         "link": "https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/"
-    },
-    {
-        "title": "Create a SageMaker inference endpoint with custom model & extended container",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-sagemaker-inference-endpoint-with-custom-model-extended-container/"
-    },
-    {
-        "title": "Image and video prompt engineering for Amazon Nova Canvas and Amazon Nova Reel",
-        "link": "https://aws.amazon.com/blogs/machine-learning/image-and-video-prompt-engineering-for-amazon-nova-canvas-and-amazon-nova-reel/"
     }
 ]

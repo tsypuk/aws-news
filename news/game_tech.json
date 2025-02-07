@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon GameLift achieves 100 million concurrently connected users per game",
+        "link": "https://aws.amazon.com/blogs/gametech/amazon-gamelift-achieves-100-million-concurrently-connected-users-per-game/"
+    },
+    {
         "title": "Level-Up Mood Board Creation with Miro and Amazon Bedrock \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/gametech/level-up-mood-board-creation-with-miro-and-amazon-bedrock-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS gears up for action-packed Gamescom and Devcom 2024",
         "link": "https://aws.amazon.com/blogs/gametech/aws-gears-up-for-action-packed-gamescom-and-devcom-2024/"
-    },
-    {
-        "title": "Harmony Games Deploys a Fully Custom Game Backend Utilizing AWS Cloud Development Kit (AWS CDK)",
-        "link": "https://aws.amazon.com/blogs/gametech/harmony-games-deploys-a-fully-custom-game-backend-utilizing-aws-cloud-development-kit-aws-cdk/"
     }
 ]

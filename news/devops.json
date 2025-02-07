@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing AWS CloudFormation Stack Refactoring",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring/"
+    },
+    {
         "title": "Enhancing Code Generation with Real-Time Execution in Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/enhancing-code-generation-with-real-time-execution-in-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A new AWS CDK L2 construct for Amazon CloudFront Origin Access Control (OAC)",
         "link": "https://aws.amazon.com/blogs/devops/a-new-aws-cdk-l2-construct-for-amazon-cloudfront-origin-access-control-oac/"
-    },
-    {
-        "title": "Using Semantic Versioning to Simplify Release Management",
-        "link": "https://aws.amazon.com/blogs/devops/using-semantic-versioning-to-simplify-release-management/"
     }
 ]
