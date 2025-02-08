@@ -1,5 +1,9 @@
 [
     {
+        "title": "Learning AWS best practices from Amazon Q in the Console",
+        "link": "https://aws.amazon.com/blogs/devops/learning-aws-best-practices-from-amazon-q-in-the-console/"
+    },
+    {
         "title": "Introducing AWS CloudFormation Stack Refactoring",
         "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Amazon Q reduced the time Amazon developers spent waiting for technical answers by 450k hours this year",
         "link": "https://aws.amazon.com/blogs/devops/reducing-time-spent-waiting-with-amazon-q/"
-    },
-    {
-        "title": "A new AWS CDK L2 construct for Amazon CloudFront Origin Access Control (OAC)",
-        "link": "https://aws.amazon.com/blogs/devops/a-new-aws-cdk-l2-construct-for-amazon-cloudfront-origin-access-control-oac/"
     }
 ]

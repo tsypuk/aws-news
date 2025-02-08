@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use DeepSeek with Amazon OpenSearch Service vector database and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/use-deepseek-with-amazon-opensearch-service-vector-database-and-amazon-sagemaker/"
+    },
+    {
         "title": "Handle errors in Apache Flink applications on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/error-handling-in-apache-flink-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Jumia builds a next-generation data platform with metadata-driven specification frameworks",
         "link": "https://aws.amazon.com/blogs/big-data/jumia-builds-a-next-generation-data-platform-with-metadata-driven-specification-frameworks/"
-    },
-    {
-        "title": "HEMA accelerates their data governance journey with Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/hema-accelerates-their-data-governance-journey-with-amazon-datazone/"
     }
 ]

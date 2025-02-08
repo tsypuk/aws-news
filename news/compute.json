@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing JSONL support with Step Functions Distributed Map",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-jsonl-support-with-step-functions-distributed-map/"
+    },
+    {
         "title": "Automating Notifications for Future-Dated Amazon EC2 Capacity Reservation State Changes",
         "link": "https://aws.amazon.com/blogs/compute/automating-notifications-for-future-dated-amazon-ec2-capacity-reservation-state-changes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reduce your Microsoft licensing costs by upgrading to 4th generation AMD processors",
         "link": "https://aws.amazon.com/blogs/compute/reduce-your-microsoft-licensing-costs-by-upgrading-to-4th-generation-amd-processors/"
-    },
-    {
-        "title": "Efficiently monitor your On Demand Capacity Reservations (ODCR) by Grouping on CloudWatch Dimensions",
-        "link": "https://aws.amazon.com/blogs/compute/efficiently-monitor-your-on-demand-capacity-reservations-odcr-by-grouping-on-cloudwatch-dimensions/"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Governing the ML lifecycle at scale, Part 4: Scaling MLOps with security and governance controls",
+        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-4-scaling-mlops-with-security-and-governance-controls/"
+    },
+    {
+        "title": "Accelerate your Amazon Q implementation: starter kits for SMBs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-amazon-q-implementation-starter-kits-for-smbs/"
+    },
+    {
+        "title": "Building the future of construction analytics: CONXAI\u2019s AI inference on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-the-future-of-construction-analytics-conxais-ai-inference-on-amazon-eks/"
+    },
+    {
+        "title": "How Untold Studios empowers artists with an AI assistant built on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-untold-studios-empowers-artists-with-an-ai-assistant-built-on-amazon-bedrock/"
+    },
+    {
+        "title": "Protect your DeepSeek model deployments with Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/protect-your-deepseek-model-deployments-with-amazon-bedrock-guardrails/"
+    },
+    {
         "title": "Fine-tune and host SDXL models cost-effectively with AWS Inferentia2",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-host-sdxl-models-cost-effectively-with-aws-inferentia2/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Aetion is using generative AI and Amazon Bedrock to unlock hidden insights about patient populations",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-aetion-is-using-generative-ai-and-amazon-bedrock-to-unlock-hidden-insights-about-patient-populations/"
-    },
-    {
-        "title": "Deploy DeepSeek-R1 distilled Llama models with Amazon Bedrock Custom Model Import",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-llama-models-with-amazon-bedrock-custom-model-import/"
-    },
-    {
-        "title": "Generative AI operating models in enterprise organizations with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-operating-models-in-enterprise-organizations-with-amazon-bedrock/"
-    },
-    {
-        "title": "Develop a RAG-based application using Amazon Aurora with Amazon Kendra",
-        "link": "https://aws.amazon.com/blogs/machine-learning/develop-a-rag-based-application-using-amazon-aurora-with-amazon-kendra/"
-    },
-    {
-        "title": "Optimizing AI responsiveness: A practical guide to Amazon Bedrock latency-optimized inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-ai-responsiveness-a-practical-guide-to-amazon-bedrock-latency-optimized-inference/"
-    },
-    {
-        "title": "Track LLM model evaluation using Amazon SageMaker managed MLflow and FMEval",
-        "link": "https://aws.amazon.com/blogs/machine-learning/track-llm-model-evaluation-using-amazon-sagemaker-managed-mlflow-and-fmeval/"
     }
 ]
