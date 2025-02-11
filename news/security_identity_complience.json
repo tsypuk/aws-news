@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing ASCP integration with Pod Identity: Enhanced security for secrets management in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/security/announcing-ascp-integration-with-pod-identity-enhanced-security-for-secrets-management-in-amazon-eks/"
+    },
+    {
         "title": "Enhancing telecom security with AWS",
         "link": "https://aws.amazon.com/blogs/security/enhancing-telecom-security-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS achieves HDS certification for 24 AWS Regions",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-hds-certification-for-24-aws-regions/"
-    },
-    {
-        "title": "How to implement IAM policy checks with Visual Studio Code and IAM Access Analyzer",
-        "link": "https://aws.amazon.com/blogs/security/how-to-implement-iam-policy-checks-with-visual-studio-code-and-iam-access-analyzer/"
     }
 ]
