@@ -1,5 +1,9 @@
 [
     {
+        "title": "Timestamp writes for write hedging in Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/timestamp-writes-for-write-hedging-in-amazon-dynamodb/"
+    },
+    {
         "title": "Simplify database authentication management with the Amazon Aurora PostgreSQL pg_ad_mapping extension",
         "link": "https://aws.amazon.com/blogs/database/simplify-database-authentication-management-with-the-amazon-aurora-postgresql-pg_ad_mapping-extension/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Vacasa\u2019s migration to Amazon Aurora for a more efficient Property Management System",
         "link": "https://aws.amazon.com/blogs/database/vacasas-migration-to-amazon-aurora-for-a-more-efficient-property-management-system/"
-    },
-    {
-        "title": "Announcing configurable point-in-time recovery periods for Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/announcing-configurable-point-in-time-recovery-periods-for-amazon-dynamodb/"
     }
 ]

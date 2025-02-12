@@ -1,5 +1,13 @@
 [
     {
+        "title": "Establishing a robust cloud platform and operational model through the CCoE",
+        "link": "https://aws.amazon.com/blogs/publicsector/establishing-a-robust-cloud-platform-and-operational-model-through-the-ccoe/"
+    },
+    {
+        "title": "Data ingress and egress through Trusted Research Environments and other secure enclaves",
+        "link": "https://aws.amazon.com/blogs/publicsector/data-ingress-and-egress-through-trusted-research-environments-and-other-secure-enclaves/"
+    },
+    {
         "title": "Building zero trust for the Department of Defense: Insights from Les Call, Director of the DoD CIO ZT PfMO",
         "link": "https://aws.amazon.com/blogs/publicsector/building-zero-trust-for-the-department-of-defense-insights-from-les-call-director-of-the-dod-cio-zt-pfmo/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS helps empower small businesses at annual TribalNet conference",
         "link": "https://aws.amazon.com/blogs/publicsector/aws-helps-empower-small-businesses-at-annual-tribalnet-conference/"
-    },
-    {
-        "title": "Rapidly develop fully functional web applications with AWS App Studio",
-        "link": "https://aws.amazon.com/blogs/publicsector/rapidly-develop-fully-functional-web-applications-with-aws-app-studio/"
-    },
-    {
-        "title": "Strengthen foundation model queries through Amazon Bedrock-Amazon Alexa integration",
-        "link": "https://aws.amazon.com/blogs/publicsector/strengthen-foundation-model-queries-through-amazon-bedrock-amazon-alexa-integration/"
     }
 ]

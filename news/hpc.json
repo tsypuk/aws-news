@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using the Terraform AWS Cloud Control provider for managing AWS Batch resources",
+        "link": "https://aws.amazon.com/blogs/hpc/using-the-terraform-aws-cloud-control-provider-for-managing-aws-batch-resources/"
+    },
+    {
         "title": "Adding configurable namespaces, persistent volume claims, and other features for AWS Batch on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/hpc/adding-configurable-namespaces-persistent-volume-claims-and-other-features-for-aws-batch-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migration options for NICE EnginFrame Views customers",
         "link": "https://aws.amazon.com/blogs/hpc/migration-options-for-nice-enginframe-views-customers/"
-    },
-    {
-        "title": "Designing better catalysts with HPC \u2013 DIC, SandboxAQ, and AWS collaborate for record quantum chemistry computation",
-        "link": "https://aws.amazon.com/blogs/hpc/designing-better-catalysts-with-high-performance-computing-on-aws/"
     }
 ]

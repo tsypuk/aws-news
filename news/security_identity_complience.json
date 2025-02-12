@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing least privilege access for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/security/implementing-least-privilege-access-for-amazon-bedrock/"
+    },
+    {
         "title": "Announcing ASCP integration with Pod Identity: Enhanced security for secrets management in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/security/announcing-ascp-integration-with-pod-identity-enhanced-security-for-secrets-management-in-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Preventing unintended encryption of Amazon S3 objects",
         "link": "https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/"
-    },
-    {
-        "title": "AWS achieves HDS certification for 24 AWS Regions",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-hds-certification-for-24-aws-regions/"
     }
 ]

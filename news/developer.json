@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrating AWS with .NET Aspire",
+        "link": "https://aws.amazon.com/blogs/developer/integrating-aws-with-net-aspire/"
+    },
+    {
+        "title": "Updating AWS SDK defaults \u2013 AWS STS service endpoint and Retry Strategy",
+        "link": "https://aws.amazon.com/blogs/developer/updating-aws-sdk-defaults-aws-sts-service-endpoint-and-retry-strategy/"
+    },
+    {
         "title": "Introducing Automatic Request Batching for Amazon SQS in the AWS Java SDK 2.x",
         "link": "https://aws.amazon.com/blogs/developer/introducing-automatic-request-batching-for-amazon-sqs-in-the-aws-java-sdk-2-x/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing the end of support for Node.js 16.x in the AWS SDK for JavaScript (v3)",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-node-js-16-x-in-the-aws-sdk-for-javascript-v3/"
-    },
-    {
-        "title": "Introducing the AWS Message Processing Framework for .NET (Preview)",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-message-processing-framework-for-net-preview/"
-    },
-    {
-        "title": "Announcing end-of-support for AWS SDK for JavaScript v2 effective September 8, 2025",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-javascript-v2/"
     }
 ]
