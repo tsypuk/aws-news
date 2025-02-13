@@ -1,5 +1,21 @@
 [
     {
+        "title": "Fine-tune LLMs with synthetic data for context-based Q&A using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llms-with-synthetic-data-for-context-based-qa-using-amazon-bedrock/"
+    },
+    {
+        "title": "Achieve ~2x speed-up in LLM inference with Medusa-1 on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-2x-speed-up-in-llm-inference-with-medusa-1-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "LLM-as-a-judge on Amazon Bedrock Model Evaluation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/"
+    },
+    {
+        "title": "From concept to reality: Navigating the Journey of RAG from proof of concept to production",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-concept-to-reality-navigating-the-journey-of-rag-from-proof-of-concept-to-production/"
+    },
+    {
         "title": "Meta SAM 2.1 is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/meta-sam-2-1-is-now-available-in-amazon-sagemaker-jumpstart/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Aetion is using generative AI and Amazon Bedrock to translate scientific intent to results",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-aetion-is-using-generative-ai-and-amazon-bedrock-to-translate-scientific-intent-to-results/"
-    },
-    {
-        "title": "Trellix lowers cost, increases speed, and adds delivery flexibility with cost-effective and performant Amazon Nova Micro and Amazon Nova Lite models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/trellix-lowers-cost-increases-speed-and-adds-delivery-flexibility-with-cost-effective-and-performant-amazon-nova-micro-and-amazon-nova-lite-models/"
-    },
-    {
-        "title": "OfferUp improved local results by 54% and relevance recall by 27% with multimodal search on Amazon Bedrock and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/offerup-improved-local-results-by-54-and-relevance-recall-by-27-with-multimodal-search-on-amazon-bedrock-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Enhancing LLM Capabilities with NeMo Guardrails on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-llm-capabilities-with-nemo-guardrails-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Build a multi-interface AI assistant using Amazon Q and Slack with Amazon CloudFront clickable references from an Amazon S3 bucket",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-interface-ai-assistant-using-amazon-q-and-slack-with-amazon-cloudfront-clickable-references-from-an-amazon-s3-bucket/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "The importance of encryption and how AWS can help",
+        "link": "https://aws.amazon.com/blogs/security/importance-of-encryption-and-how-aws-can-help/"
+    },
+    {
         "title": "Implementing least privilege access for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/security/implementing-least-privilege-access-for-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Safeguard your generative AI workloads from prompt injections",
         "link": "https://aws.amazon.com/blogs/security/safeguard-your-generative-ai-workloads-from-prompt-injections/"
-    },
-    {
-        "title": "Preventing unintended encryption of Amazon S3 objects",
-        "link": "https://aws.amazon.com/blogs/security/preventing-unintended-encryption-of-amazon-s3-objects/"
     }
 ]
