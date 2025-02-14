@@ -1,5 +1,21 @@
 [
     {
+        "title": "Reinventing CPQ with Knowledge Base and Chatbot at Zilliant",
+        "link": "https://aws.amazon.com/blogs/industries/reinventing-cpq-with-knowledge-base-and-chatbot-at-zilliant/"
+    },
+    {
+        "title": "Transforming Healthcare: Strategic Advantage of AWS for EHR Migration",
+        "link": "https://aws.amazon.com/blogs/industries/transforming-healthcare-strategic-advantage-of-aws-for-ehr-migration/"
+    },
+    {
+        "title": "Yahoo DSP Ad Targeting Uses Amazon SageMaker To Reduce Operating Cost and Increase Audience Reach",
+        "link": "https://aws.amazon.com/blogs/industries/yahoo-dsp-ad-targeting-team-uses-amazon-sagemaker-to-reduce-operating-cost-and-increase-audience-reach/"
+    },
+    {
+        "title": "Deploying a Statistical Compute Environment using R on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/industries/deploying-a-statistical-compute-environment-using-r-on-amazon-eks/"
+    },
+    {
         "title": "AWS heads to Nashville for ViVE 2025",
         "link": "https://aws.amazon.com/blogs/industries/aws-heads-to-nashville-for-vive-2025/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "No-Code ML Approach to Predict Heart Disease with Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/industries/no-code-ml-approach-to-predict-heart-disease-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "WNS Malkom accelerates shipping operations with AWS Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/wns-malkom-accelerates-shipping-operations-with-aws-bedrock/"
-    },
-    {
-        "title": "DORA scenario testing with AWS Fault Injection Service",
-        "link": "https://aws.amazon.com/blogs/industries/dora-scenario-testing-with-aws-fault-injection-service/"
-    },
-    {
-        "title": "Automated networking with shared VPCs at Swisscom",
-        "link": "https://aws.amazon.com/blogs/industries/automated-networking-with-shared-vpcs-at-swisscom/"
-    },
-    {
-        "title": "How Woodside built a Level 3.5 OT DMZ on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-woodside-built-a-level-3-5-ot-dmz-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How GaadiBazaar reduced database costs by 40% with Aurora MySQL Serverless",
+        "link": "https://aws.amazon.com/blogs/database/how-gaadibazaar-reduced-database-costs-by-40-with-aurora-mysql-serverless/"
+    },
+    {
         "title": "Timestamp writes for write hedging in Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/timestamp-writes-for-write-hedging-in-amazon-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate spatial columns from Oracle to Amazon Aurora PostgreSQL or Amazon RDS for PostgreSQL using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/migrate-spatial-columns-from-oracle-to-amazon-aurora-postgresql-or-amazon-rds-for-postgresql-using-aws-dms/"
-    },
-    {
-        "title": "Vacasa\u2019s migration to Amazon Aurora for a more efficient Property Management System",
-        "link": "https://aws.amazon.com/blogs/database/vacasas-migration-to-amazon-aurora-for-a-more-efficient-property-management-system/"
     }
 ]

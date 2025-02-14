@@ -1,5 +1,9 @@
 [
     {
+        "title": "Local testing to cloud deployment: development workflows in Amazon GameLift",
+        "link": "https://aws.amazon.com/blogs/gametech/local-testing-to-cloud-deployment-development-workflows-in-amazon-gamelift/"
+    },
+    {
         "title": "Amazon GameLift achieves 100 million concurrently connected users per game",
         "link": "https://aws.amazon.com/blogs/gametech/amazon-gamelift-achieves-100-million-concurrently-connected-users-per-game/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modulate scales ToxMod AI voice chat moderation tool with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/modulate-scales-toxmod-ai-voice-chat-moderation-tool-with-aws/"
-    },
-    {
-        "title": "AWS gears up for action-packed Gamescom and Devcom 2024",
-        "link": "https://aws.amazon.com/blogs/gametech/aws-gears-up-for-action-packed-gamescom-and-devcom-2024/"
     }
 ]

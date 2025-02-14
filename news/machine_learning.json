@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a dynamic, role-based AI agent using Amazon Bedrock inline agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-dynamic-role-based-ai-agent-using-amazon-bedrock-inline-agents/"
+    },
+    {
+        "title": "Use language embeddings for zero-shot classification and semantic search with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-language-embeddings-for-zero-shot-classification-and-semantic-search-with-amazon-bedrock/"
+    },
+    {
         "title": "Fine-tune LLMs with synthetic data for context-based Q&A using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llms-with-synthetic-data-for-context-based-qa-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Protect your DeepSeek model deployments with Amazon Bedrock Guardrails",
         "link": "https://aws.amazon.com/blogs/machine-learning/protect-your-deepseek-model-deployments-with-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "Fine-tune and host SDXL models cost-effectively with AWS Inferentia2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-host-sdxl-models-cost-effectively-with-aws-inferentia2/"
-    },
-    {
-        "title": "How Aetion is using generative AI and Amazon Bedrock to translate scientific intent to results",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-aetion-is-using-generative-ai-and-amazon-bedrock-to-translate-scientific-intent-to-results/"
     }
 ]
