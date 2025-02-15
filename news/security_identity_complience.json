@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to restrict Amazon S3 bucket access to a specific IAM role",
+        "link": "https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/"
+    },
+    {
+        "title": "Introducing the AWS Trust Center",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-trust-center/"
+    },
+    {
         "title": "The importance of encryption and how AWS can help",
         "link": "https://aws.amazon.com/blogs/security/importance-of-encryption-and-how-aws-can-help/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "CCN releases guide for Spain\u2019s ENS landing zones using Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/security/ccn-releases-guide-for-spains-ens-landing-zones-using-landing-zone-accelerator-on-aws/"
-    },
-    {
-        "title": "Using OSCAL to express Canadian cybersecurity requirements as compliance-as-code",
-        "link": "https://aws.amazon.com/blogs/security/using-oscal-to-express-canadian-cybersecurity-requirements-as-compliance-as-code/"
-    },
-    {
-        "title": "Safeguard your generative AI workloads from prompt injections",
-        "link": "https://aws.amazon.com/blogs/security/safeguard-your-generative-ai-workloads-from-prompt-injections/"
     }
 ]

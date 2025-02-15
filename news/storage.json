@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protect Oracle Databases on Amazon EC2 using NetApp SnapCenter with Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/protect-your-oracle-databases-on-amazon-ec2-using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Integrating custom metadata with Amazon S3 Metadata",
         "link": "https://aws.amazon.com/blogs/storage/integrating-custom-metadata-with-amazon-s3-metadata/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Uncover new performance insights using Amazon EBS detailed performance statistics",
         "link": "https://aws.amazon.com/blogs/storage/uncover-new-performance-insights-using-amazon-ebs-detailed-performance-statistics/"
-    },
-    {
-        "title": "How Amazon S3 Tables use compaction to improve query performance by up to 3 times",
-        "link": "https://aws.amazon.com/blogs/storage/how-amazon-s3-tables-use-compaction-to-improve-query-performance-by-up-to-3-times/"
     }
 ]

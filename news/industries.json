@@ -1,5 +1,17 @@
 [
     {
+        "title": "Enhancing Life Sciences Operations with Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/industries/enhancing-life-sciences-operations-with-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Build a Unified Patient Index Using AWS Entity Resolution",
+        "link": "https://aws.amazon.com/blogs/industries/build-a-unified-patient-index-using-aws-entity-resolution/"
+    },
+    {
+        "title": "Event-driven medical imaging with AWS HealthImaging and Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/industries/event-driven-medical-imaging-with-aws-healthimaging-and-amazon-eventbridge/"
+    },
+    {
         "title": "Reinventing CPQ with Knowledge Base and Chatbot at Zilliant",
         "link": "https://aws.amazon.com/blogs/industries/reinventing-cpq-with-knowledge-base-and-chatbot-at-zilliant/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Expanding Epic on AWS: New database sizing enables larger healthcare deployments",
         "link": "https://aws.amazon.com/blogs/industries/expanding-epic-on-aws-new-database-sizing-enables-larger-healthcare-deployments/"
-    },
-    {
-        "title": "Accelerating Genomic Data Discovery with AI-Powered Natural Language Queries",
-        "link": "https://aws.amazon.com/blogs/industries/accelerating-genomic-data-discovery-with-ai-powered-natural-language-queries/"
-    },
-    {
-        "title": "How Rivian transformed its Autonomy data ingestion with AWS Data Transfer Terminal",
-        "link": "https://aws.amazon.com/blogs/industries/how-rivian-transformed-its-autonomy-data-ingestion-with-aws-data-transfer-terminal/"
-    },
-    {
-        "title": "No-Code ML Approach to Predict Heart Disease with Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/industries/no-code-ml-approach-to-predict-heart-disease-with-amazon-sagemaker-canvas/"
     }
 ]
