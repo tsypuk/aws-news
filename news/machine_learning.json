@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Amazon Rekognition to improve bicycle safety",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-to-improve-bicycle-safety/"
+    },
+    {
         "title": "Build a dynamic, role-based AI agent using Amazon Bedrock inline agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-dynamic-role-based-ai-agent-using-amazon-bedrock-inline-agents/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Untold Studios empowers artists with an AI assistant built on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-untold-studios-empowers-artists-with-an-ai-assistant-built-on-amazon-bedrock/"
-    },
-    {
-        "title": "Protect your DeepSeek model deployments with Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/protect-your-deepseek-model-deployments-with-amazon-bedrock-guardrails/"
     }
 ]
