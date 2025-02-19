@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamline DNS management for AWS PrivateLink deployment with Amazon Route 53 Profiles",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-dns-management-for-aws-privatelink-deployment-with-amazon-route-53-profiles/"
+    },
+    {
+        "title": "Enhance your Security Posture and Reduce False Positives using Client JA3 Fingerprint and HTTP Header Order",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhance-your-security-posture-and-reduce-false-positives-using-client-ja3-fingerprint-and-http-header-order/"
+    },
+    {
         "title": "Exploring new subnet management capabilities of Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-new-subnet-management-capabilities-of-network-load-balancer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify Amazon VPC security groups management with VPC associations and security groups sharing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-amazon-vpc-security-groups-management-with-vpc-associations-and-security-groups-sharing/"
-    },
-    {
-        "title": "Using cross-zone load balancing with zonal shift",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-cross-zone-load-balancing-with-zonal-shift/"
-    },
-    {
-        "title": "Introducing CloudFront Virtual Private Cloud (VPC) Origins: Shield your web applications from public internet",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudfront-virtual-private-cloud-vpc-origins-shield-your-web-applications-from-public-internet/"
     }
 ]

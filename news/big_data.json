@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Redshift announces history mode for zero-ETL integrations to simplify historical data tracking and analysis",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-announces-history-mode-for-zero-etl-integrations-to-simplify-historical-data-tracking-and-analysis/"
+    },
+    {
+        "title": "Streamline AWS WAF log analysis with Apache Iceberg and Amazon Data Firehose",
+        "link": "https://aws.amazon.com/blogs/big-data/streamline-aws-waf-log-analysis-with-apache-iceberg-and-amazon-data-firehose/"
+    },
+    {
         "title": "Migrate from Standard brokers to Express brokers in Amazon MSK using Amazon MSK Replicator",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-from-standard-brokers-to-express-brokers-in-amazon-msk-using-amazon-msk-replicator/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use CI/CD best practices to automate Amazon OpenSearch Service cluster management operations",
         "link": "https://aws.amazon.com/blogs/big-data/use-ci-cd-best-practices-to-automate-amazon-opensearch-service-cluster-management-operations/"
-    },
-    {
-        "title": "Ingest data from Google Analytics 4 and Google Sheets to Amazon Redshift using Amazon AppFlow",
-        "link": "https://aws.amazon.com/blogs/big-data/ingest-data-from-google-analytics-4-and-google-sheets-to-amazon-redshift-using-amazon-appflow/"
-    },
-    {
-        "title": "Amazon EMR 7.5 runtime for Apache Spark and Iceberg can run Spark workloads 3.6 times faster than Spark 3.5.3 and Iceberg 1.6.1",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-7-5-runtime-for-apache-spark-and-iceberg-can-run-spark-workloads-3-6-times-faster-than-spark-3-5-3-and-iceberg-1-6-1/"
     }
 ]

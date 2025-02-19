@@ -1,5 +1,9 @@
 [
     {
+        "title": "IAM Compute Roles for Server-Side Rendering with AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/iam-compute-roles-for-server-side-rendering-with-aws-amplify-hosting/"
+    },
+    {
         "title": "Build a Scalable Search Solution with AWS Amplify and OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/mobile/build-a-scalable-search-solution-with-aws-amplify-and-opensearch-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New features for Amplify Functions: Scheduling and Log Streaming",
         "link": "https://aws.amazon.com/blogs/mobile/new-features-for-amplify-functions-scheduling-and-log-streaming/"
-    },
-    {
-        "title": "Add multiple storage buckets to your app using AWS Amplify \u2013 NEW",
-        "link": "https://aws.amazon.com/blogs/mobile/add-multiple-storage-buckets-amplify/"
     }
 ]

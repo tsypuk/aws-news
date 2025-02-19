@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harnessing the power of agent-based models for mitigating supply chain risks and managing costs",
+        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-agent-based-models-for-mitigating-supply-chain-risks-and-managing-costs/"
+    },
+    {
         "title": "Using the Terraform AWS Cloud Control provider for managing AWS Batch resources",
         "link": "https://aws.amazon.com/blogs/hpc/using-the-terraform-aws-cloud-control-provider-for-managing-aws-batch-resources/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cross-account HPC cluster monitoring using Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/hpc/cross-account-hpc-cluster-monitoring-using-amazon-eventbridge/"
-    },
-    {
-        "title": "Migration options for NICE EnginFrame Views customers",
-        "link": "https://aws.amazon.com/blogs/hpc/migration-options-for-nice-enginframe-views-customers/"
     }
 ]
