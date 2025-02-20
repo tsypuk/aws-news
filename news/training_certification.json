@@ -1,6 +1,10 @@
 [
     {
-        "title": "New Free Digital Course: AWS Well-Architected for Enterprises",
+        "title": "AWS Partner Network: Essential training resources for ISV partners",
+        "link": "https://aws.amazon.com/blogs/training-and-certification/training-resources-for-isv-partners/"
+    },
+    {
+        "title": "New free digital course: AWS Well-Architected for Enterprises",
         "link": "https://aws.amazon.com/blogs/training-and-certification/well-architected-for-enterprises/"
     },
     {
@@ -34,9 +38,5 @@
     {
         "title": "Accelerate your VMware journey with AWS Training",
         "link": "https://aws.amazon.com/blogs/training-and-certification/accelerate-your-vmware-journey-with-aws-training/"
-    },
-    {
-        "title": "Upskill your team for generative AI projects with AWS Training",
-        "link": "https://aws.amazon.com/blogs/training-and-certification/upskill-your-team-for-generative-ai-projects-with-aws-training/"
     }
 ]

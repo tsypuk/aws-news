@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build verifiable explainability into financial services workflows with Automated Reasoning checks for Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-verifiable-explainability-into-financial-services-workflows-with-automated-reasoning-checks-for-amazon-bedrock-guardrails/"
+    },
+    {
+        "title": "Best practices for Amazon SageMaker HyperPod task governance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-task-governance/"
+    },
+    {
         "title": "How Formula 1\u00ae uses generative AI to accelerate race-day issue resolution",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-formula-1-uses-generative-ai-to-accelerate-race-day-issue-resolution/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Governing the ML lifecycle at scale, Part 4: Scaling MLOps with security and governance controls",
         "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-4-scaling-mlops-with-security-and-governance-controls/"
-    },
-    {
-        "title": "Accelerate your Amazon Q implementation: starter kits for SMBs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-amazon-q-implementation-starter-kits-for-smbs/"
-    },
-    {
-        "title": "Building the future of construction analytics: CONXAI\u2019s AI inference on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-the-future-of-construction-analytics-conxais-ai-inference-on-amazon-eks/"
     }
 ]

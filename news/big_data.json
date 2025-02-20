@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance your workload resilience with new Amazon EMR instance fleet features",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-your-workload-resilience-with-new-amazon-emr-instance-fleet-features/"
+    },
+    {
         "title": "Amazon Redshift announces history mode for zero-ETL integrations to simplify historical data tracking and analysis",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-announces-history-mode-for-zero-etl-integrations-to-simplify-historical-data-tracking-and-analysis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cost Optimized Vector Database: Introduction to Amazon OpenSearch Service quantization techniques",
         "link": "https://aws.amazon.com/blogs/big-data/cost-optimized-vector-database-introduction-to-amazon-opensearch-service-quantization-techniques/"
-    },
-    {
-        "title": "Use CI/CD best practices to automate Amazon OpenSearch Service cluster management operations",
-        "link": "https://aws.amazon.com/blogs/big-data/use-ci-cd-best-practices-to-automate-amazon-opensearch-service-cluster-management-operations/"
     }
 ]

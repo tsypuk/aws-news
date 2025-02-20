@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dynamically reconfigure your AWS Outposts capacity using Capacity Tasks",
+        "link": "https://aws.amazon.com/blogs/compute/dynamically-reconfigure-your-aws-outposts-capacity-using-capacity-tasks/"
+    },
+    {
         "title": "Introducing JSONL support with Step Functions Distributed Map",
         "link": "https://aws.amazon.com/blogs/compute/introducing-jsonl-support-with-step-functions-distributed-map/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Python 3.13 runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/python-3-13-runtime-now-available-in-aws-lambda/"
-    },
-    {
-        "title": "Reduce your Microsoft licensing costs by upgrading to 4th generation AMD processors",
-        "link": "https://aws.amazon.com/blogs/compute/reduce-your-microsoft-licensing-costs-by-upgrading-to-4th-generation-amd-processors/"
     }
 ]

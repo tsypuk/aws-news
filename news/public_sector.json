@@ -1,5 +1,9 @@
 [
     {
+        "title": "Well-rounded technical architecture for a RAG implementation on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/well-rounded-technical-architecture-for-a-rag-implementation-on-aws/"
+    },
+    {
         "title": "Reduce IT costs by implementing automatic shutdown for Amazon EC2 instances",
         "link": "https://aws.amazon.com/blogs/publicsector/reduce-it-costs-by-implementing-automatic-shutdown-for-amazon-ec2-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transforming government application systems using intelligent document processing on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/transforming-government-application-systems-using-intelligent-document-processing-on-aws/"
-    },
-    {
-        "title": "Enhance productivity with Amazon Bedrock Agents and Powertools for AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/publicsector/enhance-productivity-with-amazon-bedrock-agents-and-powertools-for-aws-lambda/"
     }
 ]

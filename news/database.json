@@ -1,5 +1,9 @@
 [
     {
+        "title": "Manage users and privileges in Amazon RDS Custom for Oracle with Multitenant option",
+        "link": "https://aws.amazon.com/blogs/database/manage-users-and-privileges-in-amazon-rds-custom-for-oracle-with-multitenant-option/"
+    },
+    {
         "title": "How GaadiBazaar reduced database costs by 40% with Aurora MySQL Serverless",
         "link": "https://aws.amazon.com/blogs/database/how-gaadibazaar-reduced-database-costs-by-40-with-aurora-mysql-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "JSON serialization using Serde Rust crates in Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/json-serialization-using-serde-rust-crates-in-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "Migrate spatial columns from Oracle to Amazon Aurora PostgreSQL or Amazon RDS for PostgreSQL using AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/migrate-spatial-columns-from-oracle-to-amazon-aurora-postgresql-or-amazon-rds-for-postgresql-using-aws-dms/"
     }
 ]
