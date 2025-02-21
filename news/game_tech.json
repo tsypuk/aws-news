@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cost optimize your Minecraft Java EC2 Server",
+        "link": "https://aws.amazon.com/blogs/gametech/cost-optimize-your-minecraft-java-ec2-server/"
+    },
+    {
         "title": "Local testing to cloud deployment: development workflows in Amazon GameLift",
         "link": "https://aws.amazon.com/blogs/gametech/local-testing-to-cloud-deployment-development-workflows-in-amazon-gamelift/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Hybrid game server hosting with Amazon GameLift Anywhere",
         "link": "https://aws.amazon.com/blogs/gametech/hybrid-game-server-hosting-with-amazon-gamelift-anywhere/"
-    },
-    {
-        "title": "Modulate scales ToxMod AI voice chat moderation tool with AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/modulate-scales-toxmod-ai-voice-chat-moderation-tool-with-aws/"
     }
 ]

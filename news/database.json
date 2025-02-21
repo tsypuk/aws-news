@@ -1,5 +1,13 @@
 [
     {
+        "title": "Multi-tenant vector search with Amazon Aurora PostgreSQL and Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/database/multi-tenant-vector-search-with-amazon-aurora-postgresql-and-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Self-managed multi-tenant vector search with Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/self-managed-multi-tenant-vector-search-with-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Manage users and privileges in Amazon RDS Custom for Oracle with Multitenant option",
         "link": "https://aws.amazon.com/blogs/database/manage-users-and-privileges-in-amazon-rds-custom-for-oracle-with-multitenant-option/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Monitor server-side latency for Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/monitor-server-side-latency-for-amazon-elasticache-for-valkey/"
-    },
-    {
-        "title": "Monitor server-side latency for Amazon MemoryDB for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/monitor-server-side-latency-for-amazon-memorydb-for-valkey/"
-    },
-    {
-        "title": "JSON serialization using Serde Rust crates in Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/json-serialization-using-serde-rust-crates-in-amazon-rds-for-postgresql/"
     }
 ]

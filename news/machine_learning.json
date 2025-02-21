@@ -1,5 +1,13 @@
 [
     {
+        "title": "Generate synthetic counterparty (CR) risk data with generative AI using Amazon Bedrock LLMs and RAG",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-synthetic-counterparty-cr-risk-data-with-generative-ai-using-amazon-bedrock-llms-and-rag/"
+    },
+    {
+        "title": "Turbocharging premium audit capabilities with the power of generative AI: Verisk\u2019s journey toward a sophisticated conversational chat platform to enhance customer support",
+        "link": "https://aws.amazon.com/blogs/machine-learning/turbocharging-premium-audit-capabilities-with-the-power-of-generative-ai-verisks-journey-toward-a-sophisticated-conversational-chat-platform-to-enhance-customer-support/"
+    },
+    {
         "title": "Build verifiable explainability into financial services workflows with Automated Reasoning checks for Amazon Bedrock Guardrails",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-verifiable-explainability-into-financial-services-workflows-with-automated-reasoning-checks-for-amazon-bedrock-guardrails/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate bulk image editing with Crop.photo and Amazon Rekognition",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-bulk-image-editing-with-crop-photo-and-amazon-rekognition/"
-    },
-    {
-        "title": "Revolutionizing business processes with Amazon Bedrock and Appian\u2019s generative AI skills",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-business-processes-with-amazon-bedrock-and-appians-generative-ai-skills/"
-    },
-    {
-        "title": "Governing the ML lifecycle at scale, Part 4: Scaling MLOps with security and governance controls",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governing-the-ml-lifecycle-at-scale-part-4-scaling-mlops-with-security-and-governance-controls/"
     }
 ]
