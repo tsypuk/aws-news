@@ -1,5 +1,9 @@
 [
     {
+        "title": "From log analysis to rule creation: How AWS Network Firewall automates domain-based security for outbound traffic",
+        "link": "https://aws.amazon.com/blogs/security/from-log-analysis-to-rule-creation-how-aws-network-firewall-automates-domain-based-security-for-outbound-traffic/"
+    },
+    {
         "title": "How to restrict Amazon S3 bucket access to a specific IAM role",
         "link": "https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "2024 C5 Type 2 attestation report available with 179 services in scope",
         "link": "https://aws.amazon.com/blogs/security/2024-c5-type-2-attestation-report-available-with-179-services-in-scope/"
-    },
-    {
-        "title": "CCN releases guide for Spain\u2019s ENS landing zones using Landing Zone Accelerator on AWS",
-        "link": "https://aws.amazon.com/blogs/security/ccn-releases-guide-for-spains-ens-landing-zones-using-landing-zone-accelerator-on-aws/"
     }
 ]

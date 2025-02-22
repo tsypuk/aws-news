@@ -1,5 +1,29 @@
 [
     {
+        "title": "How Rocket Companies modernized their data science solution on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-rocket-companies-modernized-their-data-science-solution-on-aws/"
+    },
+    {
+        "title": "AWS and DXC collaborate to deliver customizable, near real-time voice-to-voice translation capabilities for Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-and-dxc-collaborate-to-deliver-customizable-near-real-time-voice-to-voice-translation-capabilities-for-amazon-connect/"
+    },
+    {
+        "title": "Orchestrate an intelligent document processing workflow using tools in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/orchestrate-an-intelligent-document-processing-workflow-using-tools-in-amazon-bedrock/"
+    },
+    {
+        "title": "Reducing hallucinations in LLM agents with a verified semantic cache using Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-llm-agents-with-a-verified-semantic-cache-using-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "LLM continuous self-instruct fine-tuning framework powered by a compound AI system on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/llm-continuous-self-instruct-fine-tuning-framework-powered-by-a-compound-ai-system-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Maximize your file server data\u2019s potential by using Amazon Q Business on Amazon FSx for Windows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/maximize-your-file-server-datas-potential-by-using-amazon-q-business-on-amazon-fsx-for-windows/"
+    },
+    {
         "title": "Generate synthetic counterparty (CR) risk data with generative AI using Amazon Bedrock LLMs and RAG",
         "link": "https://aws.amazon.com/blogs/machine-learning/generate-synthetic-counterparty-cr-risk-data-with-generative-ai-using-amazon-bedrock-llms-and-rag/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Falcon 3 models now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/falcon-3-models-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Building a virtual meteorologist using Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-virtual-meteorologist-using-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Amazon Q Business simplifies integration of enterprise knowledge bases at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-business-simplifies-integration-of-enterprise-knowledge-bases-at-scale/"
-    },
-    {
-        "title": "Faster distributed graph neural network training with GraphStorm v0.4",
-        "link": "https://aws.amazon.com/blogs/machine-learning/faster-distributed-graph-neural-network-training-with-graphstorm-v0-4/"
-    },
-    {
-        "title": "Transforming credit decisions using generative AI with Rich Data Co and AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-credit-decisions-using-generative-ai-with-rich-data-co-and-aws/"
-    },
-    {
-        "title": "Build agentic AI solutions with DeepSeek-R1, CrewAI, and Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-ai-solutions-with-deepseek-r1-crewai-and-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Automate bulk image editing with Crop.photo and Amazon Rekognition",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-bulk-image-editing-with-crop-photo-and-amazon-rekognition/"
     }
 ]
