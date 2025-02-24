@@ -1,9 +1,5 @@
 [
     {
-        "title": "Best practices to respond to security risks across your AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/mt/best-practices-to-respond-to-security-risks-across-your-aws-organizations/"
-    },
-    {
         "title": "Automating Cost Optimization Governance with AWS Config",
         "link": "https://aws.amazon.com/blogs/mt/automating-cost-optimization-governance-with-aws-config/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Troubleshooting AWS Systems Manager patching made easy with Amazon Bedrock\u2019s automated recommendations",
         "link": "https://aws.amazon.com/blogs/mt/troubleshooting-aws-systems-manager-patching-made-easy-with-amazon-bedrocks-automated-recommendations/"
+    },
+    {
+        "title": "How to detect and monitor Amazon Simple Storage Service (S3) access with AWS CloudTrail and Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/mt/how-to-detect-and-monitor-amazon-simple-storage-service-s3-access-with-aws-cloudtrail-and-amazon-cloudwatch/"
     }
 ]
