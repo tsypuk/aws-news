@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mistral-Small-24B-Instruct-2501 is now available on SageMaker Jumpstart and Amazon Bedrock Marketplace",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mistral-small-24b-instruct-2501-is-now-available-on-sagemaker-jumpstart-and-amazon-bedrock-marketplace/"
+    },
+    {
         "title": "How Rocket Companies modernized their data science solution on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-rocket-companies-modernized-their-data-science-solution-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Meta SAM 2.1 is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/meta-sam-2-1-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Falcon 3 models now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/falcon-3-models-now-available-in-amazon-sagemaker-jumpstart/"
     }
 ]

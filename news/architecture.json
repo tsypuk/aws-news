@@ -1,5 +1,9 @@
 [
     {
+        "title": "WellRight modernizes to an event-driven architecture to manage bursty and unpredictable traffic",
+        "link": "https://aws.amazon.com/blogs/architecture/wellright-modernizes-to-an-event-driven-architecture-to-manage-bursty-and-unpredictable-traffic/"
+    },
+    {
         "title": "Realizing twelve-factors with the AWS Well-Architected Framework",
         "link": "https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Banfico built an Open Banking and Payment Services Directive (PSD2) compliance solution on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/how-banfico-built-an-open-banking-and-payment-services-directive-psd2-compliance-solution-on-aws/"
-    },
-    {
-        "title": "Let\u2019s Architect! Building multi-tenant SaaS systems",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-building-multi-tenant-saas-systems/"
     }
 ]
