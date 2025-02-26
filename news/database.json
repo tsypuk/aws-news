@@ -1,5 +1,9 @@
 [
     {
+        "title": "Perform minor/major version upgrades for Amazon Aurora MySQL Global Database with minimum downtime",
+        "link": "https://aws.amazon.com/blogs/database/perform-minor-major-version-upgrades-for-amazon-aurora-mysql-global-database-with-minimum-downtime/"
+    },
+    {
         "title": "How Mindbody improved query latency and optimized costs using Amazon Aurora PostgreSQL Optimized Reads",
         "link": "https://aws.amazon.com/blogs/database/how-mindbody-improved-query-latency-and-optimized-costs-using-amazon-aurora-postgresql-optimized-reads/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Skello uses AWS DMS to synchronize data from a monolithic application to microservices",
         "link": "https://aws.amazon.com/blogs/database/how-skello-uses-aws-dms-to-synchronize-data-from-a-monolithic-application-to-microservices/"
-    },
-    {
-        "title": "How Orca Security optimized their Amazon Neptune database performance",
-        "link": "https://aws.amazon.com/blogs/database/how-orca-security-optimized-their-amazon-neptune-database-performance/"
     }
 ]

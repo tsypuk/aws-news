@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing Security with AWS Verified Access and Microsoft Entra ID Integration",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-security-with-aws-verified-access-and-microsoft-entra-id-integration/"
+    },
+    {
         "title": "Streamline DNS management for AWS PrivateLink deployment with Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-dns-management-for-aws-privatelink-deployment-with-amazon-route-53-profiles/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Charting your AWS Networking journey at re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/charting-your-aws-networking-journey-at-reinvent-2024/"
-    },
-    {
-        "title": "Simplify Amazon VPC security groups management with VPC associations and security groups sharing",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-amazon-vpc-security-groups-management-with-vpc-associations-and-security-groups-sharing/"
     }
 ]

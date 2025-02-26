@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building and operating data pipelines at scale using CI/CD, Amazon MWAA and Apache Spark on Amazon EMR by Wipro",
+        "link": "https://aws.amazon.com/blogs/big-data/building-and-operating-data-pipelines-at-scale-using-ci-cd-amazon-mwaa-and-apache-spark-on-amazon-emr-by-wipro/"
+    },
+    {
         "title": "Supercharge your RAG applications with Amazon OpenSearch Service and Aryn DocParse",
         "link": "https://aws.amazon.com/blogs/big-data/supercharge-your-rag-applications-with-amazon-opensearch-service-and-aryn-docparse/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Juicebox recruits Amazon OpenSearch Service\u2019s vector database for improved talent search",
         "link": "https://aws.amazon.com/blogs/big-data/juicebox-recruits-amazon-opensearch-service-for-improved-talent-search/"
-    },
-    {
-        "title": "Batch data ingestion into Amazon OpenSearch Service using AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/batch-data-ingestion-into-amazon-opensearch-service-using-aws-glue/"
     }
 ]

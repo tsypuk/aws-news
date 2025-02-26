@@ -1,5 +1,17 @@
 [
     {
+        "title": "How IDIADA optimized its intelligent chatbot with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-idiada-optimized-its-intelligent-chatbot-with-amazon-bedrock/"
+    },
+    {
+        "title": "Accelerate IaC troubleshooting with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-iac-troubleshooting-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Derive generative AI powered insights from Alation Cloud Services using Amazon Q Business Custom Connector",
+        "link": "https://aws.amazon.com/blogs/machine-learning/derive-generative-ai-powered-insights-from-alation-cloud-services-using-amazon-q-business-custom-connector/"
+    },
+    {
         "title": "Mistral-Small-24B-Instruct-2501 is now available on SageMaker Jumpstart and Amazon Bedrock Marketplace",
         "link": "https://aws.amazon.com/blogs/machine-learning/mistral-small-24b-instruct-2501-is-now-available-on-sagemaker-jumpstart-and-amazon-bedrock-marketplace/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Achieve ~2x speed-up in LLM inference with Medusa-1 on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/achieve-2x-speed-up-in-llm-inference-with-medusa-1-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "LLM-as-a-judge on Amazon Bedrock Model Evaluation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/"
-    },
-    {
-        "title": "From concept to reality: Navigating the Journey of RAG from proof of concept to production",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-concept-to-reality-navigating-the-journey-of-rag-from-proof-of-concept-to-production/"
-    },
-    {
-        "title": "Meta SAM 2.1 is now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/meta-sam-2-1-is-now-available-in-amazon-sagemaker-jumpstart/"
     }
 ]
