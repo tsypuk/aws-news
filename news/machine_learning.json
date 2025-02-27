@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Pattern PXM\u2019s Content Brief is driving conversion on ecommerce marketplaces using AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-pattern-pxms-content-brief-is-driving-conversion-on-ecommerce-marketplaces-using-ai/"
+    },
+    {
+        "title": "How to configure cross-account model deployment using Amazon Bedrock Custom Model Import",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-to-configure-cross-account-model-deployment-using-amazon-bedrock-custom-model-import/"
+    },
+    {
+        "title": "ByteDance processes billions of daily videos using their multimodal video understanding models on AWS Inferentia2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bytedance-processes-billions-of-daily-videos-using-their-multimodal-video-understanding-models-on-aws-inferentia2/"
+    },
+    {
         "title": "How IDIADA optimized its intelligent chatbot with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-idiada-optimized-its-intelligent-chatbot-with-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build a dynamic, role-based AI agent using Amazon Bedrock inline agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-dynamic-role-based-ai-agent-using-amazon-bedrock-inline-agents/"
-    },
-    {
-        "title": "Use language embeddings for zero-shot classification and semantic search with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-language-embeddings-for-zero-shot-classification-and-semantic-search-with-amazon-bedrock/"
-    },
-    {
-        "title": "Fine-tune LLMs with synthetic data for context-based Q&A using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llms-with-synthetic-data-for-context-based-qa-using-amazon-bedrock/"
-    },
-    {
-        "title": "Achieve ~2x speed-up in LLM inference with Medusa-1 on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/achieve-2x-speed-up-in-llm-inference-with-medusa-1-on-amazon-sagemaker-ai/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Chatbot is now named Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/aws-chatbot-is-now-named-amazon-q-developer/"
+    },
+    {
         "title": "Announcing CDK Garbage Collection",
         "link": "https://aws.amazon.com/blogs/devops/announcing-cdk-garbage-collection/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Proactively validate your AWS CloudFormation templates with AWS Lambda",
         "link": "https://aws.amazon.com/blogs/devops/proactively-validate-your-aws-cloudformation-templates-with-aws-lambda/"
-    },
-    {
-        "title": "Introducing a managed hook for Guard",
-        "link": "https://aws.amazon.com/blogs/devops/introducing-a-managed-hook-for-guard/"
     }
 ]

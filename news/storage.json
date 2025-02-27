@@ -1,5 +1,9 @@
 [
     {
+        "title": "Event-driven framework to integrate AWS Backup service with CSPM tools",
+        "link": "https://aws.amazon.com/blogs/storage/event-driven-framework-to-integrate-aws-backup-service-with-cspm-tools/"
+    },
+    {
         "title": "Optimizing Amazon FSx for Lustre storage consumption using automatic data tiering with Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/optimizing-fsx-for-lustre-storage-consumption-using-automatic-data-tiering-with-amazon-s3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adapting to change with data patterns on AWS: Aggregate, curate, and extend",
         "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-aggregate-curate-and-extend/"
-    },
-    {
-        "title": "Enhance business continuity within an Availability Zone using AWS Elastic Disaster Recovery",
-        "link": "https://aws.amazon.com/blogs/storage/enhance-business-continuity-within-an-availability-zone-using-aws-elastic-disaster-recovery/"
     }
 ]
