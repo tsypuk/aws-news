@@ -1,5 +1,9 @@
 [
     {
+        "title": "Near real-time dashboards from a source database to a cloud data warehouse on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/near-real-time-dashboards-from-a-source-database-to-a-cloud-data-warehouse-on-aws/"
+    },
+    {
         "title": "Anthology launches omnichannel student services transformation with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/publicsector/anthology-launches-omnichannel-student-services-transformation-with-amazon-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using AWS for EHDS: A technical guide to building a secure health data platform",
         "link": "https://aws.amazon.com/blogs/publicsector/using-aws-for-ehds-a-technical-guide-to-building-a-secure-health-data-platform/"
-    },
-    {
-        "title": "Data dissemination for public sector on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/data-dissemination-for-public-sector-on-aws/"
     }
 ]

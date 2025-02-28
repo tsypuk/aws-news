@@ -1,5 +1,13 @@
 [
     {
+        "title": "Governing streaming data in Amazon DataZone with the Data Solutions Framework on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/governing-streaming-data-in-amazon-datazone-with-the-data-solutions-framework-on-aws/"
+    },
+    {
+        "title": "Amazon Prime Video advances search for sports using Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-prime-video-advances-search-for-sports-using-amazon-opensearch-service/"
+    },
+    {
         "title": "Top analytics announcements of AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/big-data/top-analytics-announcements-of-aws-reinvent-2024/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Access Apache Iceberg tables in Amazon S3 from Databricks using AWS Glue Iceberg REST Catalog in Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/access-amazon-s3-iceberg-tables-from-databricks-using-aws-glue-iceberg-rest-catalog-in-amazon-sagemaker-lakehouse/"
-    },
-    {
-        "title": "Generate vector embeddings for your data using AWS Lambda as a processor for Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/generate-vector-embeddings-for-your-data-using-aws-lambda-as-a-processor-for-amazon-opensearch-ingestion/"
-    },
-    {
-        "title": "Automate topic provisioning and configuration using Terraform with Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-topic-provisioning-and-configuration-using-terraform-with-amazon-msk/"
     }
 ]

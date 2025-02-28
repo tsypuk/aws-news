@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to use rate-limited resources in AWS Batch jobs with resource aware scheduling",
+        "link": "https://aws.amazon.com/blogs/hpc/how-to-use-rate-limited-resources-in-aws-batch-jobs-with-resource-aware-scheduling/"
+    },
+    {
         "title": "Predict the unpredictable: Disrupting drug lead optimization using quantum mechanics simulation in the cloud",
         "link": "https://aws.amazon.com/blogs/hpc/predict-the-unpredictable-disrupting-drug-lead-optimization-using-quantum-mechanics-simulation-in-the-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing compute-intensive tasks on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/optimizing-compute-intensive-tasks-on-aws/"
-    },
-    {
-        "title": "Building your digital twin solution using the Digital Twin Framework on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/building-your-digital-twin-solution-using-the-digital-twin-framework-on-aws/"
     }
 ]

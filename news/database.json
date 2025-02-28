@@ -1,11 +1,11 @@
 [
     {
-        "title": "Upgrade strategies for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL 12",
-        "link": "https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-12/"
+        "title": "Migrate very large databases to Amazon Aurora MySQL using MyDumper and MyLoader",
+        "link": "https://aws.amazon.com/blogs/database/migrate-very-large-databases-to-amazon-aurora-mysql-using-mydumper-and-myloader/"
     },
     {
-        "title": "Perform minor/major version upgrades for Amazon Aurora MySQL Global Database with minimum downtime",
-        "link": "https://aws.amazon.com/blogs/database/perform-minor-major-version-upgrades-for-amazon-aurora-mysql-global-database-with-minimum-downtime/"
+        "title": "Upgrade strategies for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL 12",
+        "link": "https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-12/"
     },
     {
         "title": "How Mindbody improved query latency and optimized costs using Amazon Aurora PostgreSQL Optimized Reads",

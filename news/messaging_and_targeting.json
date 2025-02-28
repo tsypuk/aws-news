@@ -1,5 +1,13 @@
 [
     {
+        "title": "A Guide to SMS Short Codes with AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/guide-to-sms-short-codes-with-aws-end-user-messaging/"
+    },
+    {
+        "title": "A Guide to Optimizing SMS Delivery and Best Practices",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-optimizing-sms-delivery-and-best-practices/"
+    },
+    {
         "title": "Update on Support for Amazon Chime",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build a Two-Way Email-to-SMS Service with Amazon SES and Amazon End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-a-two-way-email-to-sms-service-with-amazon-ses-and-amazon-end-user-messaging/"
-    },
-    {
-        "title": "10DLC Registration Best Practices to Send SMS with AWS End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/10dlc-registration-best-practices-to-send-sms-with-aws-end-user-messaging/"
-    },
-    {
-        "title": "How to Create a Big Yellow Taxi to Help Protect Amazon WorkMail",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-create-a-big-yellow-taxi-to-help-protect-amazon-workmail/"
     }
 ]

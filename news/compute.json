@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining AMI creation with EC2 Image Builder components in AWS Marketplace",
+        "link": "https://aws.amazon.com/blogs/compute/streamliningamicreationwith-ec2imagebuilder/"
+    },
+    {
         "title": "Dynamically reconfigure your AWS Outposts capacity using Capacity Tasks",
         "link": "https://aws.amazon.com/blogs/compute/dynamically-reconfigure-your-aws-outposts-capacity-using-capacity-tasks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using zonal shift with Amazon EC2 Auto Scaling",
         "link": "https://aws.amazon.com/blogs/compute/using-zonal-shift-with-amazon-ec2-auto-scaling/"
-    },
-    {
-        "title": "Python 3.13 runtime now available in AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/python-3-13-runtime-now-available-in-aws-lambda/"
     }
 ]
