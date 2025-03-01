@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices to respond to security risks across AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/mt/best-practices-to-respond-to-security-risks-across-your-aws-organizations/"
+    },
+    {
         "title": "Unlock deeper insights and faster investigations with AWS CloudTrail Lake",
         "link": "https://aws.amazon.com/blogs/mt/unlock-deeper-insights-and-faster-investigations-with-aws-cloudtrail-lake/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS launches enhanced AWS Resource Explorer features for new resource insights",
         "link": "https://aws.amazon.com/blogs/mt/aws-launches-enhanced-aws-resource-explorer-features-for-new-resource-insights/"
-    },
-    {
-        "title": "Troubleshooting AWS Systems Manager patching made easy with Amazon Bedrock\u2019s automated recommendations",
-        "link": "https://aws.amazon.com/blogs/mt/troubleshooting-aws-systems-manager-patching-made-easy-with-amazon-bedrocks-automated-recommendations/"
     }
 ]
