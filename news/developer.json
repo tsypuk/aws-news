@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building and Debugging .NET Lambda applications with .NET Aspire (Part 1)",
+        "link": "https://aws.amazon.com/blogs/developer/building-lambda-with-aspire-part-1/"
+    },
+    {
         "title": "Integrating AWS with .NET Aspire",
         "link": "https://aws.amazon.com/blogs/developer/integrating-aws-with-net-aspire/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the end-of-support for PHP runtimes 8.0.x and below in the AWS SDK for PHP",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-php-runtimes-8-0-x-and-below-in-the-aws-sdk-for-php/"
-    },
-    {
-        "title": "Announcing the end of support for Node.js 16.x in the AWS SDK for JavaScript (v3)",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-node-js-16-x-in-the-aws-sdk-for-javascript-v3/"
     }
 ]

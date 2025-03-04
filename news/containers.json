@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS at KubeCon + CloudNativeCon Europe 2025",
+        "link": "https://aws.amazon.com/blogs/containers/aws-at-kubecon-cloudnativecon-europe-2025/"
+    },
+    {
         "title": "Automating AL2023 custom hardened AMI updates for Amazon EKS managed nodes",
         "link": "https://aws.amazon.com/blogs/containers/automating-al2023-custom-hardened-ami-updates-for-amazon-eks-managed-nodes/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Transforming Istio into an enterprise-ready service mesh for Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/transforming-istio-into-an-enterprise-ready-service-mesh-for-amazon-ecs/"
-    },
-    {
-        "title": "Unlocking Benefits with Bottlerocket: A Purpose-Built Container OS",
-        "link": "https://aws.amazon.com/blogs/containers/benefiting-from-bottlerocket-an-open-source-container-optimized-operating-system/"
     }
 ]

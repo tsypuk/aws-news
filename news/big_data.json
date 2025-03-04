@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch Service vector database capabilities revisited",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-vector-database-capabilities-revisited/"
+    },
+    {
         "title": "Design patterns for implementing Hive Metastore for Amazon EMR on EKS",
         "link": "https://aws.amazon.com/blogs/big-data/design-patterns-for-implementing-hive-metastore-for-amazon-emr-on-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How MuleSoft achieved cloud excellence through an event-driven Amazon Redshift lakehouse architecture",
         "link": "https://aws.amazon.com/blogs/big-data/how-mulesoft-achieved-cloud-excellence-through-an-event-driven-amazon-redshift-lakehouse-architecture/"
-    },
-    {
-        "title": "OpenSearch Vector Engine is now disk-optimized for low cost, accurate vector search",
-        "link": "https://aws.amazon.com/blogs/big-data/opensearch-vector-engine-is-now-disk-optimized-for-low-cost-accurate-vector-search/"
     }
 ]

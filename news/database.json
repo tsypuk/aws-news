@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automate Amazon RDS credential rotation with AWS Secrets Manager for primary instances with read replicas",
+        "link": "https://aws.amazon.com/blogs/database/automate-amazon-rds-credential-rotation-with-aws-secrets-manager-for-primary-instances-with-read-replicas/"
+    },
+    {
+        "title": "Customer-managed process for configuring Kerberos authentication on an Amazon RDS for SQL Server DB instance, joined to a self-managed Active Directory",
+        "link": "https://aws.amazon.com/blogs/database/customer-managed-process-for-configuring-kerberos-authentication-on-an-amazon-rds-for-sql-server-db-instance-joined-to-a-self-managed-active-directory/"
+    },
+    {
         "title": "Migrate very large databases to Amazon Aurora MySQL using MyDumper and MyLoader",
         "link": "https://aws.amazon.com/blogs/database/migrate-very-large-databases-to-amazon-aurora-mysql-using-mydumper-and-myloader/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Diving deep into the new Amazon Aurora Global Database writer endpoint",
         "link": "https://aws.amazon.com/blogs/database/diving-deep-into-the-new-amazon-aurora-global-database-writer-endpoint/"
-    },
-    {
-        "title": "Use Amazon Neptune Analytics to analyze relationships in your data faster, Part 2: Enhancing fraud detection with Parquet and CSV import and export",
-        "link": "https://aws.amazon.com/blogs/database/use-amazon-neptune-analytics-to-analyze-relationships-in-your-data-faster-part-2-enhancing-fraud-detection-with-parquet-and-csv-import-and-export/"
-    },
-    {
-        "title": "Use Amazon Neptune Analytics to analyze relationships in your data faster, Part 1: Introducing Parquet and CSV import and export",
-        "link": "https://aws.amazon.com/blogs/database/use-amazon-neptune-analytics-to-analyze-relationships-in-your-data-faster-part-1-introducing-parquet-and-csv-import-and-export/"
     }
 ]
