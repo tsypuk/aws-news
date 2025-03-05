@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting for seamless on-premises connectivity with AWS Outposts servers",
+        "link": "https://aws.amazon.com/blogs/compute/architecting-for-seamless-on-premises-connectivity-with-aws-outposts-servers/"
+    },
+    {
         "title": "Streamlining AMI creation with EC2 Image Builder components in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/compute/streamliningamicreationwith-ec2imagebuilder/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The serverless attendee\u2019s guide to AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/compute/the-serverless-attendees-guide-to-aws-reinvent-2024/"
-    },
-    {
-        "title": "Using zonal shift with Amazon EC2 Auto Scaling",
-        "link": "https://aws.amazon.com/blogs/compute/using-zonal-shift-with-amazon-ec2-auto-scaling/"
     }
 ]

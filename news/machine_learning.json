@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate AWS Well-Architected reviews with Generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-aws-well-architected-reviews-with-generative-ai/"
+    },
+    {
+        "title": "Dynamic metadata filtering for Amazon Bedrock Knowledge Bases with LangChain",
+        "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-metadata-filtering-for-amazon-bedrock-knowledge-bases-with-langchain/"
+    },
+    {
         "title": "Customize DeepSeek-R1 distilled models using Amazon SageMaker HyperPod recipes \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/machine-learning/customize-deepseek-r1-distilled-models-using-amazon-sagemaker-hyperpod-recipes-part-1/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS and DXC collaborate to deliver customizable, near real-time voice-to-voice translation capabilities for Amazon Connect",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-and-dxc-collaborate-to-deliver-customizable-near-real-time-voice-to-voice-translation-capabilities-for-amazon-connect/"
-    },
-    {
-        "title": "Orchestrate an intelligent document processing workflow using tools in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/orchestrate-an-intelligent-document-processing-workflow-using-tools-in-amazon-bedrock/"
-    },
-    {
-        "title": "Reducing hallucinations in LLM agents with a verified semantic cache using Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-llm-agents-with-a-verified-semantic-cache-using-amazon-bedrock-knowledge-bases/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How BMW uses AWS to scale and automate SDV with virtual ECUs",
+        "link": "https://aws.amazon.com/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/"
+    },
+    {
         "title": "How Volkswagen and AWS built end-to-end MLOps for Digital Production Platform",
         "link": "https://aws.amazon.com/blogs/industries/how-volkswagen-and-aws-built-end-end-mlops-for-digital-production-platform/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Fast-tracking the Healthcare AI Roadmap: AWS Health Data Accelerator",
         "link": "https://aws.amazon.com/blogs/industries/fast-tracking-the-healthcare-ai-roadmap-aws-health-data-accelerator/"
-    },
-    {
-        "title": "Accelerating generator interconnection study with serverless workflow and elastic HPC",
-        "link": "https://aws.amazon.com/blogs/industries/accelerating-generator-interconnection-study-with-serverless-workflow-and-elastic-hpc/"
     }
 ]

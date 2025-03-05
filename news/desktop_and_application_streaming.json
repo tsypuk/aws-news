@@ -1,5 +1,9 @@
 [
     {
+        "title": "Navigating the Windows 10 to 11 Migration for Amazon WorkSpaces Personal",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/navigating-the-windows-10-to-11-migration-for-amazon-workspaces-personal/"
+    },
+    {
         "title": "Identifying Amazon WorkSpaces clients in your environment that are approaching end of life (EOL)",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/identifying-amazon-workspaces-clients-in-your-environment-that-are-approaching-end-of-life-eol/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Utilizing CloudWatch Internet Monitor with Amazon WorkSpaces Personal",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/utilizing-cloudwatch-internet-monitor-with-amazon-workspaces-personal/"
-    },
-    {
-        "title": "Enhanced management for Amazon WorkSpaces Personal with ControlUp",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enhanced-management-for-amazon-workspaces-personal-with-controlup/"
     }
 ]
