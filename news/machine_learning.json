@@ -1,5 +1,17 @@
 [
     {
+        "title": "Innovating at speed: BMW\u2019s generative AI solution for cloud incident analysis",
+        "link": "https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/"
+    },
+    {
+        "title": "Time series forecasting with LLM-based foundation models and scalable AIOps on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/time-series-forecasting-with-llm-based-foundation-models-and-scalable-aiops-on-aws/"
+    },
+    {
+        "title": "Ground truth generation and review best practices for evaluating generative AI question-answering with FMEval",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ground-truth-generation-and-review-best-practices-for-evaluating-generative-ai-question-answering-with-fmeval/"
+    },
+    {
         "title": "Accelerate AWS Well-Architected reviews with Generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-aws-well-architected-reviews-with-generative-ai/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Derive generative AI powered insights from Alation Cloud Services using Amazon Q Business Custom Connector",
         "link": "https://aws.amazon.com/blogs/machine-learning/derive-generative-ai-powered-insights-from-alation-cloud-services-using-amazon-q-business-custom-connector/"
-    },
-    {
-        "title": "Mistral-Small-24B-Instruct-2501 is now available on SageMaker Jumpstart and Amazon Bedrock Marketplace",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mistral-small-24b-instruct-2501-is-now-available-on-sagemaker-jumpstart-and-amazon-bedrock-marketplace/"
-    },
-    {
-        "title": "How Rocket Companies modernized their data science solution on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-rocket-companies-modernized-their-data-science-solution-on-aws/"
-    },
-    {
-        "title": "AWS and DXC collaborate to deliver customizable, near real-time voice-to-voice translation capabilities for Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-and-dxc-collaborate-to-deliver-customizable-near-real-time-voice-to-voice-translation-capabilities-for-amazon-connect/"
     }
 ]

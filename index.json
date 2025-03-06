@@ -2,280 +2,280 @@
     {
         "name": "architecture",
         "size": 4833,
-        "timestamp": 1741138920.0999255,
-        "utc": "2025-03-05T01:42:00.099926+00:00",
+        "timestamp": 1741225343.2721643,
+        "utc": "2025-03-06T01:42:23.272164+00:00",
         "hash": "e84aac2d8894e6c5b560ea9cb848449fa6cb486d606d879867620ab9944f8ff4",
         "path": "https://blog.tsypuk.com/aws-news/news/architecture.json"
     },
     {
         "name": "aws_cost_management",
         "size": 2,
-        "timestamp": 1741138920.1419253,
-        "utc": "2025-03-05T01:42:00.141925+00:00",
+        "timestamp": 1741225343.4551642,
+        "utc": "2025-03-06T01:42:23.455164+00:00",
         "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "path": "https://blog.tsypuk.com/aws-news/news/aws_cost_management.json"
     },
     {
         "name": "aws_partner_network",
         "size": 4962,
-        "timestamp": 1741138920.3949242,
-        "utc": "2025-03-05T01:42:00.394924+00:00",
+        "timestamp": 1741225344.4711635,
+        "utc": "2025-03-06T01:42:24.471164+00:00",
         "hash": "651345772c3334c02b300acd6214c071f371453bca61cb1ef50cbc9cc2392540",
         "path": "https://blog.tsypuk.com/aws-news/news/aws_partner_network.json"
     },
     {
         "name": "aws_marketplace",
         "size": 4981,
-        "timestamp": 1741138920.6099231,
-        "utc": "2025-03-05T01:42:00.609923+00:00",
+        "timestamp": 1741225345.4021628,
+        "utc": "2025-03-06T01:42:25.402163+00:00",
         "hash": "6a8a6a35f559da128846b7ca48a065a0deaf5107ce81cf2ccae1057de2f3b610",
         "path": "https://blog.tsypuk.com/aws-news/news/aws_marketplace.json"
     },
     {
         "name": "aws_news",
         "size": 5109,
-        "timestamp": 1741138920.7979221,
-        "utc": "2025-03-05T01:42:00.797922+00:00",
+        "timestamp": 1741225346.2511623,
+        "utc": "2025-03-06T01:42:26.251162+00:00",
         "hash": "d218d8469915d32e88627b541ff14aaf7f892e79f94c628bb4c1ce2af0809875",
         "path": "https://blog.tsypuk.com/aws-news/news/aws_news.json"
     },
     {
         "name": "big_data",
-        "size": 5329,
-        "timestamp": 1741138921.0879207,
-        "utc": "2025-03-05T01:42:01.087921+00:00",
-        "hash": "5a6b504812501559b52f2a98c41c11cedadcc03c2d05e8e91146f9a108be4910",
+        "size": 5283,
+        "timestamp": 1741225347.5091615,
+        "utc": "2025-03-06T01:42:27.509161+00:00",
+        "hash": "d18ea9a208bf091d0ae9590e79b1d368cea6ee4a447361e20982901b3f82122e",
         "path": "https://blog.tsypuk.com/aws-news/news/big_data.json"
     },
     {
         "name": "business_productivity",
         "size": 4911,
-        "timestamp": 1741138921.21492,
-        "utc": "2025-03-05T01:42:01.214920+00:00",
+        "timestamp": 1741225348.164161,
+        "utc": "2025-03-06T01:42:28.164161+00:00",
         "hash": "8f5bf1ba091017b2367fcdfa7ba4ab026041ac9b90a2b3cf2135a76fb8af4c48",
         "path": "https://blog.tsypuk.com/aws-news/news/business_productivity.json"
     },
     {
         "name": "compute",
         "size": 4465,
-        "timestamp": 1741138921.4649189,
-        "utc": "2025-03-05T01:42:01.464919+00:00",
+        "timestamp": 1741225349.1931605,
+        "utc": "2025-03-06T01:42:29.193161+00:00",
         "hash": "6a199296b834c1c40e8dd171f0bae7979b3b988da3b303ebf59839a15ed42bf0",
         "path": "https://blog.tsypuk.com/aws-news/news/compute.json"
     },
     {
         "name": "contact_center",
         "size": 4699,
-        "timestamp": 1741138921.654918,
-        "utc": "2025-03-05T01:42:01.654918+00:00",
+        "timestamp": 1741225350.0371604,
+        "utc": "2025-03-06T01:42:30.037160+00:00",
         "hash": "c95dcdf83d3c7367a43ca3ccb08d1653c2a99857a6f7862154d698da90abca1f",
         "path": "https://blog.tsypuk.com/aws-news/news/contact_center.json"
     },
     {
         "name": "containers",
-        "size": 2058,
-        "timestamp": 1741138921.8399172,
-        "utc": "2025-03-05T01:42:01.839917+00:00",
-        "hash": "61de1315da6c8a37962f652ab64998c21f0f43f46286e22b944d126923bae53a",
+        "size": 2118,
+        "timestamp": 1741225350.76216,
+        "utc": "2025-03-06T01:42:30.762160+00:00",
+        "hash": "143a8bd591cd5a780578f6088ad253f5d43cbc01ddeec5f2e43af4b7b8143473",
         "path": "https://blog.tsypuk.com/aws-news/news/containers.json"
     },
     {
         "name": "database",
         "size": 5283,
-        "timestamp": 1741138922.1429157,
-        "utc": "2025-03-05T01:42:02.142916+00:00",
+        "timestamp": 1741225351.9971595,
+        "utc": "2025-03-06T01:42:31.997159+00:00",
         "hash": "70f9196369fe02c75a51c807b0e47f62aaa8de7d528a9c64ab8f47c3d7f0678e",
         "path": "https://blog.tsypuk.com/aws-news/news/database.json"
     },
     {
         "name": "desktop_and_application_streaming",
         "size": 5236,
-        "timestamp": 1741138922.320915,
-        "utc": "2025-03-05T01:42:02.320915+00:00",
+        "timestamp": 1741225352.7251592,
+        "utc": "2025-03-06T01:42:32.725159+00:00",
         "hash": "e07c261e617504a5586c4e8f913a4df000cce415dd75ea41190dcfd6d081b451",
         "path": "https://blog.tsypuk.com/aws-news/news/desktop_and_application_streaming.json"
     },
     {
         "name": "developer",
         "size": 3947,
-        "timestamp": 1741138922.480914,
-        "utc": "2025-03-05T01:42:02.480914+00:00",
+        "timestamp": 1741225353.1141589,
+        "utc": "2025-03-06T01:42:33.114159+00:00",
         "hash": "0ace19eb96f64b2c16d8a311f594dc503f4902b10d257314a71d9dde2fd0db44",
         "path": "https://blog.tsypuk.com/aws-news/news/developer.json"
     },
     {
         "name": "devops",
         "size": 4295,
-        "timestamp": 1741138922.6879132,
-        "utc": "2025-03-05T01:42:02.687913+00:00",
+        "timestamp": 1741225353.5701587,
+        "utc": "2025-03-06T01:42:33.570159+00:00",
         "hash": "4acf5003cd5578bdad761d315934acd1dc14053f8d226fb4bc78493dbb9506b2",
         "path": "https://blog.tsypuk.com/aws-news/news/devops.json"
     },
     {
         "name": "enterprise_strategy",
         "size": 4147,
-        "timestamp": 1741138922.8069127,
-        "utc": "2025-03-05T01:42:02.806913+00:00",
+        "timestamp": 1741225353.9661586,
+        "utc": "2025-03-06T01:42:33.966159+00:00",
         "hash": "70b90a807581642d3c408fa262b7ecd5866cbde8eabfa73862034bc380079868",
         "path": "https://blog.tsypuk.com/aws-news/news/enterprise_strategy.json"
     },
     {
         "name": "front-end_web_mobile",
         "size": 4549,
-        "timestamp": 1741138923.0409114,
-        "utc": "2025-03-05T01:42:03.040911+00:00",
+        "timestamp": 1741225354.9551582,
+        "utc": "2025-03-06T01:42:34.955158+00:00",
         "hash": "729c3fa86db0e914777b7a94edd84a069d6cee316107b8f9436e93b5b8b793c0",
         "path": "https://blog.tsypuk.com/aws-news/news/front-end_web_mobile.json"
     },
     {
         "name": "game_tech",
         "size": 4501,
-        "timestamp": 1741138923.2189105,
-        "utc": "2025-03-05T01:42:03.218910+00:00",
+        "timestamp": 1741225355.785158,
+        "utc": "2025-03-06T01:42:35.785158+00:00",
         "hash": "5fb5496206e604c90297a762ac65f7d4b80a5593d0b37bddbaa07cf2e0007cdd",
         "path": "https://blog.tsypuk.com/aws-news/news/game_tech.json"
     },
     {
         "name": "hpc",
         "size": 4881,
-        "timestamp": 1741138923.4029098,
-        "utc": "2025-03-05T01:42:03.402910+00:00",
+        "timestamp": 1741225356.6911573,
+        "utc": "2025-03-06T01:42:36.691157+00:00",
         "hash": "36ef7c288ff929e4da042d1ecf980fdef9cfa47567e2fe645b2ff06f907fbde9",
         "path": "https://blog.tsypuk.com/aws-news/news/hpc.json"
     },
     {
         "name": "infra_and_automation",
         "size": 5061,
-        "timestamp": 1741138923.6859083,
-        "utc": "2025-03-05T01:42:03.685908+00:00",
+        "timestamp": 1741225357.8081565,
+        "utc": "2025-03-06T01:42:37.808156+00:00",
         "hash": "2b73c1d25763408a55d7af417b05f7005f85852d144db2403293c7154d83b07d",
         "path": "https://blog.tsypuk.com/aws-news/news/infra_and_automation.json"
     },
     {
         "name": "industries",
-        "size": 2296,
-        "timestamp": 1741138923.8219075,
-        "utc": "2025-03-05T01:42:03.821908+00:00",
-        "hash": "3157ae539a69e5891b3d30760ddaed48b7288645139250255e036c9df3a2246f",
+        "size": 2267,
+        "timestamp": 1741225358.1581564,
+        "utc": "2025-03-06T01:42:38.158156+00:00",
+        "hash": "64b003b81e9c06f158ee84178a4a97e440341a26293421fa1a33198e06eae888",
         "path": "https://blog.tsypuk.com/aws-news/news/industries.json"
     },
     {
         "name": "internet_of_things",
         "size": 4594,
-        "timestamp": 1741138924.0569062,
-        "utc": "2025-03-05T01:42:04.056906+00:00",
+        "timestamp": 1741225359.1681557,
+        "utc": "2025-03-06T01:42:39.168156+00:00",
         "hash": "022db2cf4da324df250ad332d5c1b00e2a068ea15df070fbad26e33905df784d",
         "path": "https://blog.tsypuk.com/aws-news/news/internet_of_things.json"
     },
     {
         "name": "machine_learning",
-        "size": 5249,
-        "timestamp": 1741138924.334905,
-        "utc": "2025-03-05T01:42:04.334905+00:00",
-        "hash": "a0ea397f4c5833cc693141700c52cf5bb77fef3ac146ec6cb106f136bdbc204b",
+        "size": 5209,
+        "timestamp": 1741225359.7501554,
+        "utc": "2025-03-06T01:42:39.750155+00:00",
+        "hash": "2919d7cdd5118c0c297bcd59a6ca299183b74105e254f24f76882319b6493c5e",
         "path": "https://blog.tsypuk.com/aws-news/news/machine_learning.json"
     },
     {
         "name": "media",
         "size": 4747,
-        "timestamp": 1741138924.5909035,
-        "utc": "2025-03-05T01:42:04.590904+00:00",
+        "timestamp": 1741225360.8211546,
+        "utc": "2025-03-06T01:42:40.821155+00:00",
         "hash": "6c7919435fc13af69395a4503143d1c6707592f5a48cf27ffef8a183d34d3919",
         "path": "https://blog.tsypuk.com/aws-news/news/media.json"
     },
     {
         "name": "messaging_and_targeting",
         "size": 4924,
-        "timestamp": 1741138924.7909024,
-        "utc": "2025-03-05T01:42:04.790902+00:00",
+        "timestamp": 1741225361.6981542,
+        "utc": "2025-03-06T01:42:41.698154+00:00",
         "hash": "58ecb2175b8180daa801cfa92e0ceba1ff1403b88df8018377002fbe30674b04",
         "path": "https://blog.tsypuk.com/aws-news/news/messaging_and_targeting.json"
     },
     {
         "name": "networking_and_content_delivery",
         "size": 5537,
-        "timestamp": 1741138925.0219011,
-        "utc": "2025-03-05T01:42:05.021901+00:00",
+        "timestamp": 1741225362.7431536,
+        "utc": "2025-03-06T01:42:42.743154+00:00",
         "hash": "a35c87ab099e5262deaac7e0e2feeeb930ea40fa4c766e1ac5eece4a00b0cd1f",
         "path": "https://blog.tsypuk.com/aws-news/news/networking_and_content_delivery.json"
     },
     {
         "name": "open_source",
         "size": 4497,
-        "timestamp": 1741138925.1789005,
-        "utc": "2025-03-05T01:42:05.178900+00:00",
+        "timestamp": 1741225363.1351533,
+        "utc": "2025-03-06T01:42:43.135153+00:00",
         "hash": "4a9a864e46e8a60b7a048bd17f3ac0f16085bfadec64e6617a4a7ddc45ac39ee",
         "path": "https://blog.tsypuk.com/aws-news/news/open_source.json"
     },
     {
         "name": "public_sector",
-        "size": 5257,
-        "timestamp": 1741138925.3698993,
-        "utc": "2025-03-05T01:42:05.369899+00:00",
-        "hash": "7da82d0ce2e623b418f5ae28be7fef8b40884bce6b4d44edd723705f72427fc1",
+        "size": 5251,
+        "timestamp": 1741225363.9701526,
+        "utc": "2025-03-06T01:42:43.970153+00:00",
+        "hash": "cffe6d932708462753fa3ccd01b6078ab312554b976f0b6846ddb33152ec6f97",
         "path": "https://blog.tsypuk.com/aws-news/news/public_sector.json"
     },
     {
         "name": "quantum_computing",
         "size": 2597,
-        "timestamp": 1741138925.5068986,
-        "utc": "2025-03-05T01:42:05.506899+00:00",
+        "timestamp": 1741225364.708152,
+        "utc": "2025-03-06T01:42:44.708152+00:00",
         "hash": "a623ed12bfd625d3857165d2f68bfb2af087a8fdd8d8962e8bcb6c63db0c2dbb",
         "path": "https://blog.tsypuk.com/aws-news/news/quantum_computing.json"
     },
     {
         "name": "robotics",
         "size": 2150,
-        "timestamp": 1741138925.625898,
-        "utc": "2025-03-05T01:42:05.625898+00:00",
+        "timestamp": 1741225365.2481518,
+        "utc": "2025-03-06T01:42:45.248152+00:00",
         "hash": "baf4e5670c7101132337b97f24607d3dd8939192f492050db99ca4b06cb941aa",
         "path": "https://blog.tsypuk.com/aws-news/news/robotics.json"
     },
     {
         "name": "sap",
         "size": 4851,
-        "timestamp": 1741138925.9358964,
-        "utc": "2025-03-05T01:42:05.935896+00:00",
+        "timestamp": 1741225365.8431513,
+        "utc": "2025-03-06T01:42:45.843151+00:00",
         "hash": "697947e5a17fb35b3b8775e800cbefa1674c9f1ad0e55332a66483ee96b3511c",
         "path": "https://blog.tsypuk.com/aws-news/news/sap.json"
     },
     {
         "name": "security_identity_complience",
-        "size": 4803,
-        "timestamp": 1741138926.177895,
-        "utc": "2025-03-05T01:42:06.177895+00:00",
-        "hash": "ae5b406e11e60a064be41ca46069f53a4b68365d566bd9e70140c452113fa0b0",
+        "size": 5013,
+        "timestamp": 1741225366.349151,
+        "utc": "2025-03-06T01:42:46.349151+00:00",
+        "hash": "ec148124ffff71adb2f217548829e798868ff5877beeffcb0cb142dcbc2ea494",
         "path": "https://blog.tsypuk.com/aws-news/news/security_identity_complience.json"
     },
     {
         "name": "startups",
         "size": 89681,
-        "timestamp": 1741138927.857886,
-        "utc": "2025-03-05T01:42:07.857886+00:00",
+        "timestamp": 1741225370.083148,
+        "utc": "2025-03-06T01:42:50.083148+00:00",
         "hash": "40f2041abb7a97afa8c25e253657dc77ea8259f19162dd3924598ff190c09cba",
         "path": "https://blog.tsypuk.com/aws-news/news/startups.json"
     },
     {
         "name": "storage",
         "size": 4952,
-        "timestamp": 1741138928.1138847,
-        "utc": "2025-03-05T01:42:08.113885+00:00",
+        "timestamp": 1741225371.1021473,
+        "utc": "2025-03-06T01:42:51.102147+00:00",
         "hash": "984659cce3d29cd132d207f2923e94058e815a3a249bd97779afca796bab9074",
         "path": "https://blog.tsypuk.com/aws-news/news/storage.json"
     },
     {
         "name": "training_certification",
         "size": 2020,
-        "timestamp": 1741138928.2118843,
-        "utc": "2025-03-05T01:42:08.211884+00:00",
+        "timestamp": 1741225371.542147,
+        "utc": "2025-03-06T01:42:51.542147+00:00",
         "hash": "e412db9441c0c6f3e2850e0fa5da070ddfb4f61f7dda04817c8e037e6265f424",
         "path": "https://blog.tsypuk.com/aws-news/news/training_certification.json"
     },
     {
         "name": "windows_on_aws",
         "size": 2494,
-        "timestamp": 1741138928.3578835,
-        "utc": "2025-03-05T01:42:08.357883+00:00",
+        "timestamp": 1741225371.9291468,
+        "utc": "2025-03-06T01:42:51.929147+00:00",
         "hash": "9eda652756bbe4b90135a3033741a377c66da31a261aa0b8ddbc3beddf57da84",
         "path": "https://blog.tsypuk.com/aws-news/news/windows_on_aws.json"
     }

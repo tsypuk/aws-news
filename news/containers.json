@@ -1,5 +1,13 @@
 [
     {
+        "title": "Modify Amazon EBS volumes on Kubernetes with Volume Attributes Classes",
+        "link": "https://aws.amazon.com/blogs/containers/modify-amazon-ebs-volumes-on-kubernetes-with-volume-attributes-classes/"
+    },
+    {
+        "title": "End of support notifications and enhanced discoverability for Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/end-of-support-notifications-and-enhanced-discoverability-for-amazon-eks/"
+    },
+    {
         "title": "AWS at KubeCon + CloudNativeCon Europe 2025",
         "link": "https://aws.amazon.com/blogs/containers/aws-at-kubecon-cloudnativecon-europe-2025/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Migrating from x86 to AWS Graviton on Amazon EKS using Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/migrating-from-x86-to-aws-graviton-on-amazon-eks-using-karpenter/"
-    },
-    {
-        "title": "Getting started with Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/containers/getting-started-with-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Transforming Istio into an enterprise-ready service mesh for Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/containers/transforming-istio-into-an-enterprise-ready-service-mesh-for-amazon-ecs/"
     }
 ]
