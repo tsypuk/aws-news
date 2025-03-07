@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a secure data visualization application using the Amazon Redshift Data API with AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-secure-data-visualization-application-using-the-amazon-redshift-data-api-with-aws-iam-identity-center/"
+    },
+    {
         "title": "Cross-account data collaboration with Amazon DataZone and AWS analytical tools",
         "link": "https://aws.amazon.com/blogs/big-data/cross-account-data-collaboration-with-amazon-datazone-and-aws-analytical-tools/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Open Universities Australia modernized their data platform and significantly reduced their ETL costs with AWS Cloud Development Kit and AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/big-data/how-open-universities-australia-modernized-their-data-platform-and-significantly-reduced-their-etl-costs-with-aws-cloud-development-kit-and-aws-step-functions/"
-    },
-    {
-        "title": "Hybrid big data analytics with Amazon EMR on AWS Outposts",
-        "link": "https://aws.amazon.com/blogs/big-data/hybrid-big-data-analytics-with-amazon-emr-on-aws-outposts/"
     }
 ]

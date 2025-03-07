@@ -1,5 +1,9 @@
 [
     {
+        "title": "A lightning fast, new agentic coding experience within the Amazon Q Developer CLI",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/"
+    },
+    {
         "title": "Best practices for rapidly deploying Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-for-rapidly-deploying-landing-zone-accelerator-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Your DevOps and Developer Productivity guide to 2024 re:Invent",
         "link": "https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-2024-reinvent/"
-    },
-    {
-        "title": "Introducing AWS CloudFormation Hooks invoked via AWS Cloud Control API (CCAPI)",
-        "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-hooks-invoked-via-aws-cloud-control-api-ccapi/"
     }
 ]

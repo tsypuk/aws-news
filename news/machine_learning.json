@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a Multi-Agent System with LangGraph and Mistral on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-system-with-langgraph-and-mistral-on-aws/"
+    },
+    {
+        "title": "Evaluate RAG responses with Amazon Bedrock, LlamaIndex and RAGAS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-rag-responses-with-amazon-bedrock-llamaindex-and-ragas/"
+    },
+    {
         "title": "Innovating at speed: BMW\u2019s generative AI solution for cloud incident analysis",
         "link": "https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How IDIADA optimized its intelligent chatbot with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-idiada-optimized-its-intelligent-chatbot-with-amazon-bedrock/"
-    },
-    {
-        "title": "Accelerate IaC troubleshooting with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-iac-troubleshooting-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Derive generative AI powered insights from Alation Cloud Services using Amazon Q Business Custom Connector",
-        "link": "https://aws.amazon.com/blogs/machine-learning/derive-generative-ai-powered-insights-from-alation-cloud-services-using-amazon-q-business-custom-connector/"
     }
 ]
