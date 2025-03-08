@@ -1,5 +1,9 @@
 [
     {
+        "title": "Long-term backup options for Amazon RDS and Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/long-term-backup-options-for-amazon-rds-and-amazon-aurora/"
+    },
+    {
         "title": "Automate Amazon RDS credential rotation with AWS Secrets Manager for primary instances with read replicas",
         "link": "https://aws.amazon.com/blogs/database/automate-amazon-rds-credential-rotation-with-aws-secrets-manager-for-primary-instances-with-read-replicas/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Iterate.ai uses Amazon MemoryDB to accelerate and cost-optimize their workforce management conversational AI agent",
         "link": "https://aws.amazon.com/blogs/database/how-iterate-ai-uses-amazon-memorydb-to-accelerate-and-cost-optimize-their-workforce-management-conversational-ai-agent/"
-    },
-    {
-        "title": "Diving deep into the new Amazon Aurora Global Database writer endpoint",
-        "link": "https://aws.amazon.com/blogs/database/diving-deep-into-the-new-amazon-aurora-global-database-writer-endpoint/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Express brokers for Amazon MSK: Turbo-charged Kafka scaling with up to 20 times faster performance",
+        "link": "https://aws.amazon.com/blogs/big-data/express-brokers-for-amazon-msk-turbo-charged-kafka-scaling-with-up-to-20-times-faster-performance/"
+    },
+    {
         "title": "Build a secure data visualization application using the Amazon Redshift Data API with AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-secure-data-visualization-application-using-the-amazon-redshift-data-api-with-aws-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Handle errors in Apache Flink applications on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/error-handling-in-apache-flink-applications/"
-    },
-    {
-        "title": "How Open Universities Australia modernized their data platform and significantly reduced their ETL costs with AWS Cloud Development Kit and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/big-data/how-open-universities-australia-modernized-their-data-platform-and-significantly-reduced-their-etl-costs-with-aws-cloud-development-kit-and-aws-step-functions/"
     }
 ]

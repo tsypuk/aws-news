@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to run CUDA-Q programs on Amazon Braket notebook instances",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/how-to-run-cuda-q-programs-on-amazon-braket-notebook-instances/"
+    },
+    {
         "title": "Winners announced in the Airbus-BMW Group Quantum Computing Challenge",
         "link": "https://aws.amazon.com/blogs/quantum-computing/winners-announced-in-the-airbus-bmw-group-quantum-computing-challenge/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon Braket as an educational tool for quantum computing: the Capstone project at the University of Washington",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-as-an-educational-tool-for-quantum-computing-the-capstone-project-at-the-university-of-washington/"
-    },
-    {
-        "title": "Monitoring a quantum network on AWS",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/monitoring-a-quantum-network-on-aws/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Power utility monitoring and maintenance with AWS IoT and SAP integration",
+        "link": "https://aws.amazon.com/blogs/industries/power-utility-monitoring-and-maintenance-with-aws-iot-and-sap-integration/"
+    },
+    {
+        "title": "Accelerating Fraud Detection in Financial Services with NVIDIA RAPIDS\u2122 Accelerator for Apache Spark on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/accelerating-fraud-detection-in-financial-services-with-rapids-accelerator-for-apache-spark-on-aws/"
+    },
+    {
         "title": "Extending factory edge data to the cloud with MQTT enabled AWS IoT SiteWise gateways",
         "link": "https://aws.amazon.com/blogs/industries/mqtt-aws-iot-sitewise-gateways/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Automated remediation: Securing the Volkswagen AWS landing zone at scale",
         "link": "https://aws.amazon.com/blogs/industries/automated-remediation-securing-the-volkswagen-aws-landing-zone-at-scale/"
-    },
-    {
-        "title": "Tapestry Makes Enterprise Knowledge More Accessible Using Generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/tapestry-makes-enterprise-knowledge-more-accessible-using-generative-ai-on-aws/"
-    },
-    {
-        "title": "AWS Mainframe Modernization: transforming telco from legacy constraints to digital innovation",
-        "link": "https://aws.amazon.com/blogs/industries/aws-mainframe-modernization-transforming-telco-from-legacy-constraints-to-digital-innovation/"
     }
 ]

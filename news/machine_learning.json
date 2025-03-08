@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerating insurance policy reviews with generative AI: Verisk\u2019s Mozart companion",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-insurance-policy-reviews-with-generative-ai-verisks-mozart-companion/"
+    },
+    {
+        "title": "Announcing general availability of Amazon Bedrock Knowledge Bases GraphRAG with Amazon Neptune Analytics",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-general-availability-of-amazon-bedrock-knowledge-bases-graphrag-with-amazon-neptune-analytics/"
+    },
+    {
         "title": "Build a Multi-Agent System with LangGraph and Mistral on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-system-with-langgraph-and-mistral-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to configure cross-account model deployment using Amazon Bedrock Custom Model Import",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-to-configure-cross-account-model-deployment-using-amazon-bedrock-custom-model-import/"
-    },
-    {
-        "title": "ByteDance processes billions of daily videos using their multimodal video understanding models on AWS Inferentia2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bytedance-processes-billions-of-daily-videos-using-their-multimodal-video-understanding-models-on-aws-inferentia2/"
-    },
-    {
-        "title": "How IDIADA optimized its intelligent chatbot with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-idiada-optimized-its-intelligent-chatbot-with-amazon-bedrock/"
     }
 ]
