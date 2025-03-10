@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ola Hallengren\u2019s SQL Server Maintenance Solution in AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/ola-hallengrens-sql-server-maintenance-solution-in-aws/"
+    },
+    {
         "title": "How to configure Microsoft Remote Desktop Services using user-based subscription licenses with AWS License Manager",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-configure-microsoft-remote-desktop-services-using-user-based-subscription-licenses-with-aws-license-manager/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "MultiCloud cost visibility with Amazon QuickSight and FOCUS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/multicloud-cost-visibility-with-amazon-quicksight-and-focus/"
-    },
-    {
-        "title": "Reserve your seat: Microsoft workloads on AWS sessions at re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reserve-your-seat-microsoft-workloads-on-aws-sessions-at-reinvent-2024/"
     }
 ]
