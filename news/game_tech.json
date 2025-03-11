@@ -1,5 +1,9 @@
 [
     {
+        "title": "Faster multiplayer hosting with containers on Amazon GameLift Servers",
+        "link": "https://aws.amazon.com/blogs/gametech/faster-multiplayer-hosting-with-containers-on-amazon-gamelift-servers/"
+    },
+    {
         "title": "Jackbox Games unlocks new opportunities with Amazon GameLift Streams",
         "link": "https://aws.amazon.com/blogs/gametech/jackbox-games-unlocks-new-opportunities-with-amazon-gamelift-streams/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Electronic Arts streamlines game patching with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/electronic-arts-streamlines-game-patching-with-aws/"
-    },
-    {
-        "title": "Launching Ghostbusters: Rise of the Ghost Lord \u2013 How nDreams scale tested with AWS Fargate",
-        "link": "https://aws.amazon.com/blogs/gametech/launching-ghostbusters-rise-of-the-ghost-lord-how-ndreams-scale-tested-with-aws-fargate/"
     }
 ]

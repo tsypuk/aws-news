@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying Multi-App Management in AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/simplifying-multi-app-management-in-aws-amplify-hosting/"
+    },
+    {
         "title": "IAM Compute Roles for Server-Side Rendering with AWS Amplify Hosting",
         "link": "https://aws.amazon.com/blogs/mobile/iam-compute-roles-for-server-side-rendering-with-aws-amplify-hosting/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to Build Next.js Apps with Authentication using AWS Amplify and Auth0",
         "link": "https://aws.amazon.com/blogs/mobile/how-to-build-next-js-apps-with-authentication-using-aws-amplify-and-auth0/"
-    },
-    {
-        "title": "New features for Amplify Functions: Scheduling and Log Streaming",
-        "link": "https://aws.amazon.com/blogs/mobile/new-features-for-amplify-functions-scheduling-and-log-streaming/"
     }
 ]

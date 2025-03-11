@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlock the power of optimization in Amazon Redshift Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-the-power-of-optimization-in-amazon-redshift-serverless/"
+    },
+    {
         "title": "Express brokers for Amazon MSK: Turbo-charged Kafka scaling with up to 20 times faster performance",
         "link": "https://aws.amazon.com/blogs/big-data/express-brokers-for-amazon-msk-turbo-charged-kafka-scaling-with-up-to-20-times-faster-performance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use DeepSeek with Amazon OpenSearch Service vector database and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/use-deepseek-with-amazon-opensearch-service-vector-database-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Handle errors in Apache Flink applications on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/error-handling-in-apache-flink-applications/"
     }
 ]

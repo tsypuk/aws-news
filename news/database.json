@@ -1,5 +1,9 @@
 [
     {
+        "title": "Demystifying Amazon DynamoDB on-demand capacity mode",
+        "link": "https://aws.amazon.com/blogs/database/demystifying-amazon-dynamodb-on-demand-capacity-mode/"
+    },
+    {
         "title": "Long-term backup options for Amazon RDS and Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/long-term-backup-options-for-amazon-rds-and-amazon-aurora/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the GraphRAG Toolkit",
         "link": "https://aws.amazon.com/blogs/database/introducing-the-graphrag-toolkit/"
-    },
-    {
-        "title": "How Iterate.ai uses Amazon MemoryDB to accelerate and cost-optimize their workforce management conversational AI agent",
-        "link": "https://aws.amazon.com/blogs/database/how-iterate-ai-uses-amazon-memorydb-to-accelerate-and-cost-optimize-their-workforce-management-conversational-ai-agent/"
     }
 ]

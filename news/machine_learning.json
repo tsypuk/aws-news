@@ -1,5 +1,17 @@
 [
     {
+        "title": "Transforming financial analysis with CreditAI on Amazon Bedrock: Octus\u2019s journey with AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-financial-analysis-with-creditai-on-amazon-bedrock-octuss-journey-with-aws/"
+    },
+    {
+        "title": "Optimize reasoning models like DeepSeek with prompt optimization on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-reasoning-models-like-deepseek-with-prompt-optimization-on-amazon-bedrock/"
+    },
+    {
+        "title": "Amazon Bedrock announces general availability of multi-agent collaboration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-announces-general-availability-of-multi-agent-collaboration/"
+    },
+    {
         "title": "Accelerating insurance policy reviews with generative AI: Verisk\u2019s Mozart companion",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-insurance-policy-reviews-with-generative-ai-verisks-mozart-companion/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Evaluate healthcare generative AI applications using LLM-as-a-judge on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-healthcare-generative-ai-applications-using-llm-as-a-judge-on-aws/"
-    },
-    {
-        "title": "AWS DeepRacer: Closing time at AWS re:Invent 2024 \u2013How did that physical racing go?",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-closing-time-at-aws-reinvent-2024-how-did-that-physical-racing-go/"
-    },
-    {
-        "title": "How Pattern PXM\u2019s Content Brief is driving conversion on ecommerce marketplaces using AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-pattern-pxms-content-brief-is-driving-conversion-on-ecommerce-marketplaces-using-ai/"
-    },
-    {
-        "title": "How to configure cross-account model deployment using Amazon Bedrock Custom Model Import",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-to-configure-cross-account-model-deployment-using-amazon-bedrock-custom-model-import/"
     }
 ]

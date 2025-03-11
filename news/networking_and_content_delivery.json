@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Glovo is protecting their public APIs with a combination of AWS Edge Services",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-glovo-is-protecting-their-public-apis-with-a-combination-of-aws-edge-services/"
+    },
+    {
         "title": "How to use AWS WAF Bot Control for Targeted Bots signals and mitigate evasive bots with adaptive user experience",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-use-aws-waf-bot-control-for-targeted-bots-signals-and-mitigate-evasive-bots-with-adaptive-user-experience/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Extend SaaS Capabilities Across AWS Accounts Using AWS PrivateLink support for VPC Resources",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extend-saas-capabilities-across-aws-accounts-using-aws-privatelink-support-for-vpc-resources/"
-    },
-    {
-        "title": "Amazon VPC Lattice: modernize and simplify your enterprise network architectures",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-vpc-vattice-modernize-and-simplify-your-enterprise-network-architectures/"
     }
 ]

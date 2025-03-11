@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying IAM Permissions for Amazon EKS Addons with EKS Pod Identity",
+        "link": "https://aws.amazon.com/blogs/containers/simplifying-iam-permissions-for-amazon-eks-addons-with-eks-pod-identity/"
+    },
+    {
         "title": "Modify Amazon EBS volumes on Kubernetes with Volume Attributes Classes",
         "link": "https://aws.amazon.com/blogs/containers/modify-amazon-ebs-volumes-on-kubernetes-with-volume-attributes-classes/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Announcing Bottlerocket FIPS variants",
         "link": "https://aws.amazon.com/blogs/containers/announcing-bottlerocket-fips-variants/"
-    },
-    {
-        "title": "Migrating from x86 to AWS Graviton on Amazon EKS using Karpenter",
-        "link": "https://aws.amazon.com/blogs/containers/migrating-from-x86-to-aws-graviton-on-amazon-eks-using-karpenter/"
     }
 ]
