@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve quantum workload performance with Q-CTRL\u2019s Fire Opal error suppression for IonQ processors on Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/improve-quantum-workload-performance-with-fire-opal-error-suppression-for-ionq-processors-on-amazon-braket/"
+    },
+    {
         "title": "How to run CUDA-Q programs on Amazon Braket notebook instances",
         "link": "https://aws.amazon.com/blogs/quantum-computing/how-to-run-cuda-q-programs-on-amazon-braket-notebook-instances/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Take quantum computing from theory to practice with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/take-quantum-computing-from-theory-to-practice-with-amazon-braket/"
-    },
-    {
-        "title": "Amazon Braket as an educational tool for quantum computing: the Capstone project at the University of Washington",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-as-an-educational-tool-for-quantum-computing-the-capstone-project-at-the-university-of-washington/"
     }
 ]

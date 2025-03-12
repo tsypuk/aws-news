@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build an enterprise API management solution using Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/architecture/build-an-enterprise-api-management-solution-using-amazon-api-gateway/"
+    },
+    {
         "title": "Training a call center fraud detection model for IVR calls with Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/architecture/training-a-call-center-fraud-detection-model-for-ivr-calls-with-amazon-sagemaker-canvas/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating multi-AZ high availability for WebLogic administration server with DNS: Part 2",
         "link": "https://aws.amazon.com/blogs/architecture/automating-multi-az-high-availability-for-weblogic-administration-server-with-dns-part-2/"
-    },
-    {
-        "title": "How CyberArk is streamlining serverless governance by codifying architectural blueprints",
-        "link": "https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/"
     }
 ]

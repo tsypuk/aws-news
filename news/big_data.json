@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing Adobe Marketo Engage Data Analysis with AWS Glue Integration",
+        "link": "https://aws.amazon.com/blogs/big-data/enhancing-adobe-marketo-engage-data-analysis-with-aws-glue-integration/"
+    },
+    {
         "title": "Unlock the power of optimization in Amazon Redshift Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-the-power-of-optimization-in-amazon-redshift-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Redshift Serverless adds higher base capacity of up to 1024 RPUs",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-serverless-adds-higher-base-capacity-of-up-to-1024-rpus/"
-    },
-    {
-        "title": "Use DeepSeek with Amazon OpenSearch Service vector database and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/use-deepseek-with-amazon-opensearch-service-vector-database-and-amazon-sagemaker/"
     }
 ]

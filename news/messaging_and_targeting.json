@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate the Creation & Rotation of Amazon Simple Email Service SMTP Credentials",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-the-creation-rotation-of-amazon-simple-email-service-smtp-credentials/"
+    },
+    {
         "title": "A Guide to SMS Short Codes with AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/guide-to-sms-short-codes-with-aws-end-user-messaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Wickr recognized in The Forrester Wave for Secure Communications Solutions",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-wickr-recognized-in-the-forrester-wave-for-secure-communications-solutions/"
-    },
-    {
-        "title": "Build a Two-Way Email-to-SMS Service with Amazon SES and Amazon End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-a-two-way-email-to-sms-service-with-amazon-ses-and-amazon-end-user-messaging/"
     }
 ]

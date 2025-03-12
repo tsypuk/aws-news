@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build High-Performance Unreal Engine Studios with Rem\u0101ngu 2.0 and AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/build-high-performance-unreal-engine-studios-with-remangu-2-0-and-aws/"
+    },
+    {
         "title": "Faster multiplayer hosting with containers on Amazon GameLift Servers",
         "link": "https://aws.amazon.com/blogs/gametech/faster-multiplayer-hosting-with-containers-on-amazon-gamelift-servers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Code Wizards load tested Heroic Labs\u2019 Nakama to two million concurrent players with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/how-code-wizards-load-tested-heroic-labs-nakama-to-two-million-concurrent-players-with-aws/"
-    },
-    {
-        "title": "Electronic Arts streamlines game patching with AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/electronic-arts-streamlines-game-patching-with-aws/"
     }
 ]

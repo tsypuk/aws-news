@@ -1,5 +1,9 @@
 [
     {
+        "title": "Efficiently manage Amazon EC2 On-Demand Capacity Reservations (ODCRs) with split, move, and modify",
+        "link": "https://aws.amazon.com/blogs/compute/efficiently-manage-amazon-ec2-on-demand-capacity-reservations-odcrs-with-split-move-and-modify/"
+    },
+    {
         "title": "Introducing an enhanced local IDE experience for AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/introducing-an-enhanced-local-ide-experience-for-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Node.js 22 runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/node-js-22-runtime-now-available-in-aws-lambda/"
-    },
-    {
-        "title": "Implementing custom domain names for private endpoints with Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-custom-domain-names-for-private-endpoints-with-amazon-api-gateway/"
     }
 ]

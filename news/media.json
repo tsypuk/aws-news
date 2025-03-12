@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Hapag-Lloyd automated incident management using AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/mt/how-hapag-lloyd-automated-incident-management-using-aws-step-functions/"
+    },
+    {
         "title": "Best practices to respond to security risks across AWS Organizations",
         "link": "https://aws.amazon.com/blogs/mt/best-practices-to-respond-to-security-risks-across-your-aws-organizations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with Amazon Q Developer operational investigations",
         "link": "https://aws.amazon.com/blogs/mt/getting-started-with-amazon-q-developer-operational-investigations/"
-    },
-    {
-        "title": "AWS launches enhanced AWS Resource Explorer features for new resource insights",
-        "link": "https://aws.amazon.com/blogs/mt/aws-launches-enhanced-aws-resource-explorer-features-for-new-resource-insights/"
     }
 ]

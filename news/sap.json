@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate Start/Stop of SAP NetWeaver ABAP applications based on HANA database using AWS Systems Manager for SAP",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automate-start-stop-of-sap-netweaver-abap-applications-based-on-hana-database-using-aws-systems-manager-for-sap/"
+    },
+    {
         "title": "Harness Amazon Bedrock Agents to Manage SAP Instances",
         "link": "https://aws.amazon.com/blogs/awsforsap/harness-amazon-bedrock-agents-to-manage-sap-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Increase Availability of SAP Convergent Mediation using AWS Auto Scaling",
         "link": "https://aws.amazon.com/blogs/awsforsap/increase-availability-of-sap-convergent-mediation-using-aws-auto-scaling/"
-    },
-    {
-        "title": "Power your business with secure and scalable generative AI services from AWS and SAP",
-        "link": "https://aws.amazon.com/blogs/awsforsap/power-your-business-with-secure-and-scalable-generative-ai-services-from-aws-and-sap/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing the end of support for Node.js 14.x and 16.x in AWS CDK",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-14-x-and-16-x-in-aws-cdk/"
+    },
+    {
+        "title": "Take control of your code with Amazon Q Developer\u2019s new context features",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developers-new-context-features/"
+    },
+    {
         "title": "A lightning fast, new agentic coding experience within the Amazon Q Developer CLI",
         "link": "https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How SmugMug Increased Data Modeling Productivity with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/how-smugmug-increased-data-modeling-productivity-with-amazon-q-developer/"
-    },
-    {
-        "title": "Dissecting the Performance Gains in Amazon Q Developer agent for code transformation",
-        "link": "https://aws.amazon.com/blogs/devops/dissecting-the-performance-gains-in-amazon-q-developer-agent-for-code-transformation/"
-    },
-    {
-        "title": "Your DevOps and Developer Productivity guide to 2024 re:Invent",
-        "link": "https://aws.amazon.com/blogs/devops/your-devops-and-developer-productivity-guide-to-2024-reinvent/"
     }
 ]
