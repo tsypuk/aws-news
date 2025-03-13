@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing support for upgrades to Java 21 in Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/"
+    },
+    {
         "title": "Announcing the end of support for Node.js 14.x and 16.x in AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-14-x-and-16-x-in-aws-cdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyzing your AWS Cost Explorer data with Amazon Q Developer: Now Generally Available",
         "link": "https://aws.amazon.com/blogs/devops/analyzing-your-aws-cost-explorer-data-with-amazon-q-developer-now-generally-available/"
-    },
-    {
-        "title": "How SmugMug Increased Data Modeling Productivity with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/how-smugmug-increased-data-modeling-productivity-with-amazon-q-developer/"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "title": "Real-time monitoring of AWS Elastic Disaster Recovery using AWS Chatbot",
-        "link": "https://aws.amazon.com/blogs/storage/real-time-monitoring-of-elastic-disaster-recovery-using-aws-chatbot/"
-    },
-    {
         "title": "Build a data lake for streaming data with Amazon S3 Tables and Amazon Data Firehose",
         "link": "https://aws.amazon.com/blogs/storage/build-a-data-lake-for-streaming-data-with-amazon-s3-tables-and-amazon-data-firehose/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Enhance logs for AWS Elastic Disaster Recovery with CloudWatch Log Insights",
         "link": "https://aws.amazon.com/blogs/storage/enhance-aws-replication-log-insights-for-aws-elastic-disaster-recovery/"
+    },
+    {
+        "title": "Streamline search and item-level recovery with AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/streamline-search-and-item-level-recovery-with-aws-backup/"
     }
 ]

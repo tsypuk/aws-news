@@ -1,5 +1,9 @@
 [
     {
+        "title": "Adding functionality to your applications using multiple containers in AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/adding-functionality-to-your-applications-using-multiple-containers-in-aws-batch/"
+    },
+    {
         "title": "Enhancing Equity Strategy Backtesting with Synthetic Data: An Agent-Based Model Approach \u2013 part 2",
         "link": "https://aws.amazon.com/blogs/hpc/enhancing-equity-strategy-backtesting-with-synthetic-data-an-agent-based-model-approach-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "On-demand visual login nodes \u2013 using RES with AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/on-demand-visual-login-nodes-using-res-with-aws-parallel-computing-service/"
-    },
-    {
-        "title": "Building a secure and compliant HPC environment on AWS following NIST SP 800-223",
-        "link": "https://aws.amazon.com/blogs/hpc/building-a-secure-and-compliant-hpc-environment-on-aws-following-nist-sp-800-223/"
     }
 ]

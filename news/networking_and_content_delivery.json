@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Resilient IPv6 Network with SD-WANs and AWS Cloud WAN Connect with GRE",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resilient-ipv6-network-with-sd-wans-and-aws-cloud-wan-connect-with-gre/"
+    },
+    {
         "title": "How Glovo is protecting their public APIs with a combination of AWS Edge Services",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-glovo-is-protecting-their-public-apis-with-a-combination-of-aws-edge-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Demystifying AWS Data Transfer services to build secure and reliable applications",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/demystifying-aws-data-transfer-services-to-build-secure-and-reliable-applications/"
-    },
-    {
-        "title": "Extend SaaS Capabilities Across AWS Accounts Using AWS PrivateLink support for VPC Resources",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extend-saas-capabilities-across-aws-accounts-using-aws-privatelink-support-for-vpc-resources/"
     }
 ]
