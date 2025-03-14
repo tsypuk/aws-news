@@ -1,5 +1,13 @@
 [
     {
+        "title": "Multiple database support on Amazon RDS for Db2 DB instance",
+        "link": "https://aws.amazon.com/blogs/database/multiple-database-support-on-amazon-rds-for-db2-db-instance/"
+    },
+    {
+        "title": "Build resilient Oracle Database workloads on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/database/build-resilient-oracle-database-workloads-on-amazon-ec2/"
+    },
+    {
         "title": "Demystifying Amazon DynamoDB on-demand capacity mode",
         "link": "https://aws.amazon.com/blogs/database/demystifying-amazon-dynamodb-on-demand-capacity-mode/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Monitor the health of Amazon Aurora PostgreSQL instances in large-scale deployments",
         "link": "https://aws.amazon.com/blogs/database/monitor-the-health-of-amazon-aurora-postgresql-instances-in-large-scale-deployments/"
-    },
-    {
-        "title": "Oracle Application Express for Amazon RDS for Oracle demystified",
-        "link": "https://aws.amazon.com/blogs/database/oracle-application-express-for-amazon-rds-for-oracle-demystified/"
-    },
-    {
-        "title": "Introducing the GraphRAG Toolkit",
-        "link": "https://aws.amazon.com/blogs/database/introducing-the-graphrag-toolkit/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building multi-arch containers with GitHub Actions in AWS",
+        "link": "https://aws.amazon.com/blogs/containers/building-multi-arch-containers-with-github-actions-in-aws/"
+    },
+    {
+        "title": "Part 1: Introduction to observing machine learning workloads on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/part-1-introduction-to-observing-machine-learning-workloads-on-amazon-eks/"
+    },
+    {
         "title": "Simplifying IAM Permissions for Amazon EKS Addons with EKS Pod Identity",
         "link": "https://aws.amazon.com/blogs/containers/simplifying-iam-permissions-for-amazon-eks-addons-with-eks-pod-identity/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "How webMethods iPaaS built a multi-tenant SaaS platform on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/how-webmethods-ipaas-built-a-multi-tenant-saas-platform-on-amazon-eks/"
-    },
-    {
-        "title": "Optimize your container workloads for sustainability",
-        "link": "https://aws.amazon.com/blogs/containers/optimize-your-container-workloads-for-sustainability/"
-    },
-    {
-        "title": "Announcing Bottlerocket FIPS variants",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-bottlerocket-fips-variants/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Collaborate and build faster with Amazon SageMaker Unified Studio, now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/collaborate-and-build-faster-with-amazon-sagemaker-unified-studio-now-generally-available/"
+    },
+    {
+        "title": "Amazon S3 Tables integration with Amazon SageMaker Lakehouse is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-integration-with-amazon-sagemaker-lakehouse-is-now-generally-available/"
+    },
+    {
         "title": "DeepSeek-R1 now available as a fully managed serverless model in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/aws/deepseek-r1-now-available-as-a-fully-managed-serverless-model-in-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Now open \u2014 AWS Mexico (Central) Region",
         "link": "https://aws.amazon.com/blogs/aws/now-open-aws-mexico-central-region/"
-    },
-    {
-        "title": "AWS Weekly Roundup: New Asia Pacific Region, DynamoDB updates, Amazon Q developer, and more (January 13, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-asia-pacific-region-dynamodb-updates-amazon-q-developer-and-more-january-13-2025/"
-    },
-    {
-        "title": "Announcing the new AWS Asia Pacific (Thailand) Region",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-the-new-aws-asia-pacific-thailand-region/"
     }
 ]

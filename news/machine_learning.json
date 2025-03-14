@@ -1,5 +1,29 @@
 [
     {
+        "title": "How GoDaddy built a category generation system at scale with batch inference for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-built-a-category-generation-system-at-scale-with-batch-inference-for-amazon-bedrock/"
+    },
+    {
+        "title": "Benchmarking customized models on Amazon Bedrock using LLMPerf and LiteLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-customized-models-on-amazon-bedrock-using-llmperf-and-litellm/"
+    },
+    {
+        "title": "Creating asynchronous AI agents with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/creating-asynchronous-ai-agents-with-amazon-bedrock/"
+    },
+    {
+        "title": "How to run Qwen 2.5 on AWS AI chips using Hugging Face libraries",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/"
+    },
+    {
+        "title": "Revolutionizing customer service: MaestroQA\u2019s integration with Amazon Bedrock for actionable insight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-customer-service-maestroqas-integration-with-amazon-bedrock-for-actionable-insight/"
+    },
+    {
+        "title": "Optimize hosting DeepSeek-R1 distilled models with Hugging Face TGI on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-hosting-deepseek-r1-distilled-models-with-hugging-face-tgi-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Exploring creative possibilities: A visual guide to Amazon Nova Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/exploring-creative-possibilities-a-visual-guide-to-amazon-nova-canvas/"
     },
@@ -20,7 +44,7 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-financial-analysis-with-creditai-on-amazon-bedrock-octuss-journey-with-aws/"
     },
     {
-        "title": "Optimize reasoning models like DeepSeek with prompt optimization on Amazon Bedrock",
+        "title": "Optimize reasoning models like DeepSeek with Prompt Optimization on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-reasoning-models-like-deepseek-with-prompt-optimization-on-amazon-bedrock/"
     },
     {
@@ -54,29 +78,5 @@
     {
         "title": "Ground truth generation and review best practices for evaluating generative AI question-answering with FMEval",
         "link": "https://aws.amazon.com/blogs/machine-learning/ground-truth-generation-and-review-best-practices-for-evaluating-generative-ai-question-answering-with-fmeval/"
-    },
-    {
-        "title": "Accelerate AWS Well-Architected reviews with Generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-aws-well-architected-reviews-with-generative-ai/"
-    },
-    {
-        "title": "Dynamic metadata filtering for Amazon Bedrock Knowledge Bases with LangChain",
-        "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-metadata-filtering-for-amazon-bedrock-knowledge-bases-with-langchain/"
-    },
-    {
-        "title": "Customize DeepSeek-R1 distilled models using Amazon SageMaker HyperPod recipes \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-deepseek-r1-distilled-models-using-amazon-sagemaker-hyperpod-recipes-part-1/"
-    },
-    {
-        "title": "Reduce conversational AI response time through inference at the edge with AWS Local Zones",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-conversational-ai-response-time-through-inference-at-the-edge-with-aws-local-zones/"
-    },
-    {
-        "title": "Pixtral-12B-2409 is now available on Amazon Bedrock Marketplace",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pixtral-12b-2409-is-now-available-on-amazon-bedrock-marketplace/"
-    },
-    {
-        "title": "Streamline work insights with the Amazon Q Business connector for Smartsheet",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-work-insights-with-the-amazon-q-business-connector-for-smartsheet/"
     }
 ]

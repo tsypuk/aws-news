@@ -1,5 +1,13 @@
 [
     {
+        "title": "Secure cloud innovation starts at re:Inforce 2025",
+        "link": "https://aws.amazon.com/blogs/security/secure-cloud-innovation-starts-at-reinforce-2025/"
+    },
+    {
+        "title": "Manage authorization within a containerized workload using Amazon Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/security/manage-authorization-within-a-containerized-workload-using-amazon-verified-permissions/"
+    },
+    {
         "title": "AWS completes the annual Dubai Electronic Security Centre certification audit to operate as a Tier 1 cloud service provider in the Emirate of Dubai",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-dubai-electronic-security-centre-certification-audit-to-operate-as-a-tier-1-cloud-service-provider-in-the-emirate-of-dubai-2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Redshift enhances security by changing default behavior in 2025",
         "link": "https://aws.amazon.com/blogs/security/amazon-redshift-enhances-security-by-changing-default-behavior-in-2025/"
-    },
-    {
-        "title": "How to deploy an Amazon OpenSearch cluster to ingest logs from Amazon Security Lake",
-        "link": "https://aws.amazon.com/blogs/security/how-to-deploy-an-amazon-opensearch-cluster-to-ingest-logs-from-amazon-security-lake/"
-    },
-    {
-        "title": "Updated whitepaper available: Aligning to the NIST Cybersecurity Framework in the AWS Cloud",
-        "link": "https://aws.amazon.com/blogs/security/updated-whitepaper-available-aligning-to-the-nist-cybersecurity-framework-in-the-aws-cloud/"
     }
 ]
