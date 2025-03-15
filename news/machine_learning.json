@@ -1,5 +1,13 @@
 [
     {
+        "title": "Getting started with computer use in Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-computer-use-in-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Evaluating RAG applications with Amazon Bedrock knowledge base evaluation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-rag-applications-with-amazon-bedrock-knowledge-base-evaluation/"
+    },
+    {
         "title": "How GoDaddy built a category generation system at scale with batch inference for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-built-a-category-generation-system-at-scale-with-batch-inference-for-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Innovating at speed: BMW\u2019s generative AI solution for cloud incident analysis",
         "link": "https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/"
-    },
-    {
-        "title": "Time series forecasting with LLM-based foundation models and scalable AIOps on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/time-series-forecasting-with-llm-based-foundation-models-and-scalable-aiops-on-aws/"
-    },
-    {
-        "title": "Ground truth generation and review best practices for evaluating generative AI question-answering with FMEval",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ground-truth-generation-and-review-best-practices-for-evaluating-generative-ai-question-answering-with-fmeval/"
     }
 ]

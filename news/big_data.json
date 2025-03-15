@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architect fault-tolerant applications with instance fleets on Amazon EMR on EC2",
+        "link": "https://aws.amazon.com/blogs/big-data/architect-fault-tolerant-applications-with-instance-fleets-on-amazon-emr-on-ec2/"
+    },
+    {
         "title": "Accelerate analytics and AI innovation with the next generation of Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-analytics-and-ai-innovation-with-the-next-generation-of-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance your workload resilience with new Amazon EMR instance fleet features",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-your-workload-resilience-with-new-amazon-emr-instance-fleet-features/"
-    },
-    {
-        "title": "Amazon Redshift announces history mode for zero-ETL integrations to simplify historical data tracking and analysis",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-announces-history-mode-for-zero-etl-integrations-to-simplify-historical-data-tracking-and-analysis/"
     }
 ]

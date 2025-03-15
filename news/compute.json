@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing a serverless architecture to detect absence of Guardrails in Amazon Bedrock inference API calls",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-a-serverless-architecture-to-detect-absence-of-guardrails-in-amazon-bedrock-inference-api-calls/"
+    },
+    {
         "title": "Efficiently manage Amazon EC2 On-Demand Capacity Reservations (ODCRs) with split, move, and modify",
         "link": "https://aws.amazon.com/blogs/compute/efficiently-manage-amazon-ec2-on-demand-capacity-reservations-odcrs-with-split-move-and-modify/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing new Event Source Mapping (ESM) metrics for AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/introducing-new-event-source-mapping-esm-metrics-for-aws-lambda/"
-    },
-    {
-        "title": "Node.js 22 runtime now available in AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/node-js-22-runtime-now-available-in-aws-lambda/"
     }
 ]
