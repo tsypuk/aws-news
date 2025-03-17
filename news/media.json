@@ -1,5 +1,9 @@
 [
     {
+        "title": "Manage and view your AWS Health notifications in AWS User Notifications service",
+        "link": "https://aws.amazon.com/blogs/mt/manage-and-view-your-aws-health-notifications-in-aws-user-notifications-service/"
+    },
+    {
         "title": "How Hapag-Lloyd automated incident management using AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/mt/how-hapag-lloyd-automated-incident-management-using-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Organizations, moving an organization member account to another organization: Part 1",
         "link": "https://aws.amazon.com/blogs/mt/aws-organizations-moving-an-organization-member-account-to-another-organization-part-1/"
-    },
-    {
-        "title": "Getting started with Amazon Q Developer operational investigations",
-        "link": "https://aws.amazon.com/blogs/mt/getting-started-with-amazon-q-developer-operational-investigations/"
     }
 ]
