@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS KMS CloudWatch metrics help you better track and understand how your KMS keys are being used",
+        "link": "https://aws.amazon.com/blogs/security/aws-kms-cloudwatch-metrics-help-you-better-track-and-understand-how-your-kms-keys-are-being-used/"
+    },
+    {
         "title": "Secure cloud innovation starts at re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/secure-cloud-innovation-starts-at-reinforce-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement effective data authorization mechanisms to secure your data used in generative AI applications \u2013 part 2",
         "link": "https://aws.amazon.com/blogs/security/implement-effective-data-authorization-mechanisms-to-secure-your-data-used-in-generative-ai-applications-part-2/"
-    },
-    {
-        "title": "Amazon Redshift enhances security by changing default behavior in 2025",
-        "link": "https://aws.amazon.com/blogs/security/amazon-redshift-enhances-security-by-changing-default-behavior-in-2025/"
     }
 ]

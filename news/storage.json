@@ -1,5 +1,9 @@
 [
     {
+        "title": "Seamless streaming to Amazon S3 Tables with StreamNative Ursa Engine",
+        "link": "https://aws.amazon.com/blogs/storage/seamless-streaming-to-amazon-s3-tables-with-streamnative-ursa-engine/"
+    },
+    {
         "title": "Connect Snowflake to S3 Tables using the SageMaker Lakehouse Iceberg REST endpoint",
         "link": "https://aws.amazon.com/blogs/storage/connect-snowflake-to-s3-tables-using-the-sagemaker-lakehouse-iceberg-rest-endpoint/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adapting to change with data patterns on AWS: The \u201ccurate\u201d cloud data pattern",
         "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-curate-cloud-data-pattern/"
-    },
-    {
-        "title": "Understanding and monitoring latency for Amazon EBS volumes using Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/storage/understanding-and-monitoring-latency-for-amazon-ebs-volumes-using-amazon-cloudwatch/"
     }
 ]

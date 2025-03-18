@@ -1,5 +1,9 @@
 [
     {
+        "title": "Handling billions of invocations \u2013 best practices from AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/"
+    },
+    {
         "title": "Implementing a serverless architecture to detect absence of Guardrails in Amazon Bedrock inference API calls",
         "link": "https://aws.amazon.com/blogs/compute/implementing-a-serverless-architecture-to-detect-absence-of-guardrails-in-amazon-bedrock-inference-api-calls/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplifying developer experience with variables and JSONata in AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/simplifying-developer-experience-with-variables-and-jsonata-in-aws-step-functions/"
-    },
-    {
-        "title": "Introducing new Event Source Mapping (ESM) metrics for AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-new-event-source-mapping-esm-metrics-for-aws-lambda/"
     }
 ]

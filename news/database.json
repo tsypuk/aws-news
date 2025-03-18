@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use pgactive for rolling major version upgrades in Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/use-pgactive-for-rolling-major-version-upgrades-in-amazon-rds-for-postgresql/"
+    },
+    {
+        "title": "Grouping database tables in AWS DMS tasks for Oracle source engine",
+        "link": "https://aws.amazon.com/blogs/database/grouping-database-tables-in-aws-dms-tasks-for-oracle-source-engine/"
+    },
+    {
         "title": "Amazon DocumentDB Quick Start: Zero Setup with AWS CloudShell",
         "link": "https://aws.amazon.com/blogs/database/amazon-documentdb-quick-start-zero-setup-with-aws-cloudshell/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "2024: A year of innovation and growth for Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/2024-a-year-of-innovation-and-growth-for-amazon-dynamodb/"
-    },
-    {
-        "title": "Gather organization-wide Amazon RDS orphan snapshot insights using AWS Step Functions and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/database/gather-organization-wide-amazon-rds-orphan-snapshot-insights-using-aws-step-functions-and-amazon-quicksight/"
-    },
-    {
-        "title": "How Aqua Security exports query data from Amazon Aurora to deliver value to their customers at scale",
-        "link": "https://aws.amazon.com/blogs/database/how-aqua-security-exports-query-data-from-amazon-aurora-to-deliver-value-to-their-customers-at-scale/"
     }
 ]

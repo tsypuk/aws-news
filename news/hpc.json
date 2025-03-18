@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scale Reinforcement Learning with AWS Batch Multi-Node Parallel Jobs",
+        "link": "https://aws.amazon.com/blogs/hpc/scale-reinforcement-learning-with-aws-batch-multi-node-parallel-jobs/"
+    },
+    {
         "title": "Adding functionality to your applications using multiple containers in AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/adding-functionality-to-your-applications-using-multiple-containers-in-aws-batch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Advancing research in the cloud: AWS announces expanded training resources",
         "link": "https://aws.amazon.com/blogs/hpc/advancing-research-in-the-cloud-aws-announces-expanded-training-resources/"
-    },
-    {
-        "title": "On-demand visual login nodes \u2013 using RES with AWS Parallel Computing Service",
-        "link": "https://aws.amazon.com/blogs/hpc/on-demand-visual-login-nodes-using-res-with-aws-parallel-computing-service/"
     }
 ]

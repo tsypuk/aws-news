@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harness Amazon Q Business power with Microsoft SharePoint for enterprise search",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-microsoft-sharepoint-for-enterprise-search/"
+    },
+    {
         "title": "Ola Hallengren\u2019s SQL Server Maintenance Solution in AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/ola-hallengrens-sql-server-maintenance-solution-in-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Event-driven Active Directory domain join with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/event-driven-active-directory-domain-join-with-amazon-eventbridge/"
-    },
-    {
-        "title": "MultiCloud cost visibility with Amazon QuickSight and FOCUS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/multicloud-cost-visibility-with-amazon-quicksight-and-focus/"
     }
 ]
