@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enable single-sign-on for Amazon WorkMail with IAM Identity Center and Okta Universal Directory",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enable-single-sign-on-for-amazon-workmail-with-iam-identity-center-and-okta-universal-directory/"
+    },
+    {
         "title": "Visually build telephony applications with AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/visually-build-telephony-applications-with-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify Multi-Region Email Sending with Simple Email Service\u2019s Deterministic Easy DKIM",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/simplify-multi-region-email-sending-with-simple-email-services-deterministic-easy-dkim/"
-    },
-    {
-        "title": "re:Invent 2024: Your guide to AWS\u2019s biggest event with Amazon SES and AWS End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/reinvent-2024-your-amazon-ses-aws-end-user-messaging-guide-to-awss-biggest-event/"
     }
 ]

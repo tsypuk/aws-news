@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining access to tabular datasets stored in Amazon S3 Tables with DuckDB",
+        "link": "https://aws.amazon.com/blogs/storage/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/"
+    },
+    {
         "title": "Seamless streaming to Amazon S3 Tables with StreamNative Ursa Engine",
         "link": "https://aws.amazon.com/blogs/storage/seamless-streaming-to-amazon-s3-tables-with-streamnative-ursa-engine/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adapting to change with data patterns on AWS: The \u201caggregate\u201d cloud data pattern",
         "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-aggregate-cloud-data-pattern/"
-    },
-    {
-        "title": "Adapting to change with data patterns on AWS: The \u201ccurate\u201d cloud data pattern",
-        "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-curate-cloud-data-pattern/"
     }
 ]

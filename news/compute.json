@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating your on-premises workloads to AWS Outposts Rack",
+        "link": "https://aws.amazon.com/blogs/compute/migrating-your-on-premises-workloads-to-aws-outposts-rack-2/"
+    },
+    {
         "title": "Handling billions of invocations \u2013 best practices from AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating event validation with Amazon EventBridge Schema Discovery",
         "link": "https://aws.amazon.com/blogs/compute/automating-event-validation-with-amazon-eventbridge-schema-discovery/"
-    },
-    {
-        "title": "Simplifying developer experience with variables and JSONata in AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/compute/simplifying-developer-experience-with-variables-and-jsonata-in-aws-step-functions/"
     }
 ]

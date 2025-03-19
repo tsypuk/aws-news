@@ -1,5 +1,29 @@
 [
     {
+        "title": "Running NVIDIA NeMo 2.0 Framework on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "NeMo Retriever Llama 3.2 text embedding and reranking NVIDIA NIM microservices now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nemo-retriever-llama-3-2-text-embedding-and-reranking-nvidia-nim-microservices-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Amazon Bedrock Guardrails announces IAM Policy-based enforcement to deliver safe AI interactions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-announces-iam-policy-based-enforcement-to-deliver-safe-ai-interactions/"
+    },
+    {
+        "title": "Build your gen AI\u2013based text-to-SQL application using RAG, powered by Amazon Bedrock (Claude 3 Sonnet and Amazon Titan for embedding)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-your-gen-ai-based-text-to-sql-application-using-rag-powered-by-amazon-bedrock-claude-3-sonnet-and-amazon-titan-for-embedding/"
+    },
+    {
+        "title": "Unleash AI innovation with Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Revolutionizing clinical trials with the power of voice and AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-clinical-trials-with-the-power-of-voice-and-ai/"
+    },
+    {
         "title": "Intelligent healthcare assistants: Empowering stakeholders with personalized support and data-driven insights",
         "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-healthcare-assistants-empowering-stakeholders-with-personalized-support-and-data-driven-insights/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Transforming financial analysis with CreditAI on Amazon Bedrock: Octus\u2019s journey with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-financial-analysis-with-creditai-on-amazon-bedrock-octuss-journey-with-aws/"
-    },
-    {
-        "title": "Optimize reasoning models like DeepSeek with Prompt Optimization on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-reasoning-models-like-deepseek-with-prompt-optimization-on-amazon-bedrock/"
-    },
-    {
-        "title": "Amazon Bedrock announces general availability of multi-agent collaboration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-announces-general-availability-of-multi-agent-collaboration/"
-    },
-    {
-        "title": "Accelerating insurance policy reviews with generative AI: Verisk\u2019s Mozart companion",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-insurance-policy-reviews-with-generative-ai-verisks-mozart-companion/"
-    },
-    {
-        "title": "Announcing general availability of Amazon Bedrock Knowledge Bases GraphRAG with Amazon Neptune Analytics",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-general-availability-of-amazon-bedrock-knowledge-bases-graphrag-with-amazon-neptune-analytics/"
-    },
-    {
-        "title": "Build a Multi-Agent System with LangGraph and Mistral on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-system-with-langgraph-and-mistral-on-aws/"
-    },
-    {
-        "title": "Evaluate RAG responses with Amazon Bedrock, LlamaIndex and RAGAS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-rag-responses-with-amazon-bedrock-llamaindex-and-ragas/"
     }
 ]

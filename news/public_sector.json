@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS accelerates digital public infrastructure adoption with automation",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-accelerates-dpi-adoption-for-citizen-services-through-automation/"
+    },
+    {
+        "title": "Funding, innovation, AI and more: What to expect at AWS Imagine Nonprofit 2025",
+        "link": "https://aws.amazon.com/blogs/publicsector/artificial-intelligence-funding-innovation-what-to-expect-at-aws-imagine-nonprofit-2025/"
+    },
+    {
         "title": "AWS Marketplace assessed \u2018Awardable\u2019 for DoD work in the P1 Solutions Marketplace",
         "link": "https://aws.amazon.com/blogs/publicsector/aws-marketplace-assessed-awardable-for-dod-work-in-the-p1-solutions-marketplace/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Well-rounded technical architecture for a RAG implementation on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/well-rounded-technical-architecture-for-a-rag-implementation-on-aws/"
-    },
-    {
-        "title": "Reduce IT costs by implementing automatic shutdown for Amazon EC2 instances",
-        "link": "https://aws.amazon.com/blogs/publicsector/reduce-it-costs-by-implementing-automatic-shutdown-for-amazon-ec2-instances/"
-    },
-    {
-        "title": "Benchmark Education accelerates grading and boosts student feedback with generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/benchmark-education-accelerates-grading-and-boosts-student-feedback-with-generative-ai-on-aws/"
     }
 ]

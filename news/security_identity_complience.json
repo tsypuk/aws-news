@@ -1,5 +1,13 @@
 [
     {
+        "title": "2024 H2 IRAP report is now available on AWS Artifact for Australian customers",
+        "link": "https://aws.amazon.com/blogs/security/2024-h2-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
+    },
+    {
+        "title": "AWS completes the annual UAE Information Assurance Regulation compliance assessment",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-uae-information-assurance-regulation-compliance-assessment-2/"
+    },
+    {
         "title": "AWS KMS CloudWatch metrics help you better track and understand how your KMS keys are being used",
         "link": "https://aws.amazon.com/blogs/security/aws-kms-cloudwatch-metrics-help-you-better-track-and-understand-how-your-kms-keys-are-being-used/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS renews MTCS Level 3 certification under the SS584:2020 standard",
         "link": "https://aws.amazon.com/blogs/security/aws-renews-mtcs-level-3-certification-under-the-ss5842020-standard/"
-    },
-    {
-        "title": "How AWS Network Firewall session state replication maximizes high availability for your application traffic",
-        "link": "https://aws.amazon.com/blogs/security/how-aws-network-firewall-session-state-replication-maximizes-high-availability-for-your-application-traffic/"
-    },
-    {
-        "title": "Implement effective data authorization mechanisms to secure your data used in generative AI applications \u2013 part 2",
-        "link": "https://aws.amazon.com/blogs/security/implement-effective-data-authorization-mechanisms-to-secure-your-data-used-in-generative-ai-applications-part-2/"
     }
 ]
