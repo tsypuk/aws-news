@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run GenAI inference across environments with Amazon EKS Hybrid Nodes",
+        "link": "https://aws.amazon.com/blogs/containers/run-genai-inference-across-environments-with-amazon-eks-hybrid-nodes/"
+    },
+    {
         "title": "Building multi-arch containers with GitHub Actions in AWS",
         "link": "https://aws.amazon.com/blogs/containers/building-multi-arch-containers-with-github-actions-in-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "A deep dive into Amazon EKS Hybrid Nodes",
         "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-amazon-eks-hybrid-nodes/"
-    },
-    {
-        "title": "How webMethods iPaaS built a multi-tenant SaaS platform on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/how-webmethods-ipaas-built-a-multi-tenant-saas-platform-on-amazon-eks/"
     }
 ]

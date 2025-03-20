@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon CloudWatch Application Signals adds runtime metrics support for Java, Python and .Net applications",
+        "link": "https://aws.amazon.com/blogs/mt/launch-blog-aws-cloudwatch-application-signals-adds-runtime-metrics-support-for-java-python-and-net-applications/"
+    },
+    {
         "title": "Manage and view your AWS Health notifications in AWS User Notifications service",
         "link": "https://aws.amazon.com/blogs/mt/manage-and-view-your-aws-health-notifications-in-aws-user-notifications-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Delegated Administrators Guide to Effective Controls in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/mt/delegated-administrators-guide-to-effective-controls-in-aws-organizations/"
-    },
-    {
-        "title": "AWS Organizations, moving an organization member account to another organization: Part 1",
-        "link": "https://aws.amazon.com/blogs/mt/aws-organizations-moving-an-organization-member-account-to-another-organization-part-1/"
     }
 ]

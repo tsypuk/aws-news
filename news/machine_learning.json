@@ -1,5 +1,17 @@
 [
     {
+        "title": "Integrate generative AI capabilities into Microsoft Office using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-generative-ai-capabilities-into-microsoft-office-using-amazon-bedrock/"
+    },
+    {
+        "title": "From innovation to impact: How AWS and NVIDIA enable real-world generative AI success",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-innovation-to-impact-how-aws-and-nvidia-enable-real-world-generative-ai-success/"
+    },
+    {
+        "title": "Amazon Q Business now available in Europe (Ireland) AWS Region",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-business-now-available-in-europe-ireland-aws-region/"
+    },
+    {
         "title": "Running NVIDIA NeMo 2.0 Framework on Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Benchmarking Amazon Nova and GPT-4o models with FloTorch",
         "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-amazon-nova-and-gpt-4o-models-with-flotorch/"
-    },
-    {
-        "title": "Deploy DeepSeek-R1 distilled models on Amazon SageMaker using a Large Model Inference container",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-models-on-amazon-sagemaker-using-a-large-model-inference-container/"
-    },
-    {
-        "title": "From fridge to table: Use Amazon Rekognition and Amazon Bedrock to generate recipes and combat food waste",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-fridge-to-table-use-amazon-rekognition-and-amazon-bedrock-to-generate-recipes-and-combat-food-waste/"
-    },
-    {
-        "title": "Transforming financial analysis with CreditAI on Amazon Bedrock: Octus\u2019s journey with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-financial-analysis-with-creditai-on-amazon-bedrock-octuss-journey-with-aws/"
     }
 ]
