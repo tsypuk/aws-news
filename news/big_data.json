@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing vector search with UltraWarm in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-vector-search-with-ultrawarm-in-amazon-opensearch-service/"
+    },
+    {
+        "title": "Build a data lakehouse in a hybrid Environment using Amazon EMR Serverless, Apache DolphinScheduler, and TiDB",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-data-lakehouse-in-a-hybrid-environment-using-amazon-emr-serverless-apache-dolphinscheduler-and-tidb/"
+    },
+    {
         "title": "Implement Amazon EMR HBase Graceful Scaling",
         "link": "https://aws.amazon.com/blogs/big-data/implement-amazon-emr-hbase-graceful-scaling/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building and operating data pipelines at scale using CI/CD, Amazon MWAA and Apache Spark on Amazon EMR by Wipro",
         "link": "https://aws.amazon.com/blogs/big-data/building-and-operating-data-pipelines-at-scale-using-ci-cd-amazon-mwaa-and-apache-spark-on-amazon-emr-by-wipro/"
-    },
-    {
-        "title": "Supercharge your RAG applications with Amazon OpenSearch Service and Aryn DocParse",
-        "link": "https://aws.amazon.com/blogs/big-data/supercharge-your-rag-applications-with-amazon-opensearch-service-and-aryn-docparse/"
-    },
-    {
-        "title": "Improve search results for AI using Amazon OpenSearch Service as a vector database with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-search-results-for-ai-using-amazon-opensearch-service-as-a-vector-database-with-amazon-bedrock/"
     }
 ]

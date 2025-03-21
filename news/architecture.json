@@ -1,5 +1,13 @@
 [
     {
+        "title": "Master architecture decision records (ADRs): Best practices for effective decision-making",
+        "link": "https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/"
+    },
+    {
+        "title": "Pilot light with reserved capacity: How to optimize DR cost using On-Demand Capacity Reservations",
+        "link": "https://aws.amazon.com/blogs/architecture/pilot-light-with-reserved-capacity-how-to-optimize-dr-cost-using-on-demand-capacity-reservations/"
+    },
+    {
         "title": "Build an enterprise API management solution using Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/architecture/build-an-enterprise-api-management-solution-using-amazon-api-gateway/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Channel deflection from voice to chat using Amazon Connect",
         "link": "https://aws.amazon.com/blogs/architecture/channel-deflection-from-voice-to-chat-using-amazon-connect/"
-    },
-    {
-        "title": "Let\u2019s Architect! Modern data architectures",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-modern-data-architectures-2/"
-    },
-    {
-        "title": "Automating multi-AZ high availability for WebLogic administration server with DNS: Part 2",
-        "link": "https://aws.amazon.com/blogs/architecture/automating-multi-az-high-availability-for-weblogic-administration-server-with-dns-part-2/"
     }
 ]

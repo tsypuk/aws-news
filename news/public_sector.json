@@ -1,5 +1,17 @@
 [
     {
+        "title": "How to safeguard healthcare data privacy using Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-to-safeguard-healthcare-data-privacy-using-amazon-bedrock-guardrails/"
+    },
+    {
+        "title": "How AWS can help partners grow in the Middle East",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-aws-can-help-partners-grow-in-the-middle-east/"
+    },
+    {
+        "title": "City resilience in wartime and DPI scoop Future of Government Awards 2025",
+        "link": "https://aws.amazon.com/blogs/publicsector/city-resilience-in-wartime-and-dpi-scoop-future-of-government-awards-2025/"
+    },
+    {
         "title": "AWS accelerates digital public infrastructure adoption with automation",
         "link": "https://aws.amazon.com/blogs/publicsector/aws-accelerates-dpi-adoption-for-citizen-services-through-automation/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Near real-time dashboards from a source database to a cloud data warehouse on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/near-real-time-dashboards-from-a-source-database-to-a-cloud-data-warehouse-on-aws/"
-    },
-    {
-        "title": "Anthology launches omnichannel student services transformation with Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/publicsector/anthology-launches-omnichannel-student-services-transformation-with-amazon-connect/"
-    },
-    {
-        "title": "NATO\u2019s march to multi-domain operations: Transforming the alliance with hyperscale cloud",
-        "link": "https://aws.amazon.com/blogs/publicsector/nato-march-to-multi-domain-operations-transforming-the-alliance-with-hyperscale-cloud/"
-    },
-    {
-        "title": "Well-rounded technical architecture for a RAG implementation on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/well-rounded-technical-architecture-for-a-rag-implementation-on-aws/"
     }
 ]

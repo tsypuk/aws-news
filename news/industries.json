@@ -1,5 +1,9 @@
 [
     {
+        "title": "Distributed inference with collaborative AI agents for Telco-powered Smart-X",
+        "link": "https://aws.amazon.com/blogs/industries/distributed-inference-with-collaborative-ai-agents-for-telco-powered-smart-x/"
+    },
+    {
         "title": "How TCS\u2019s Intelligent Power Plant solution on AWS helps utilities optimize operations and drive energy transition",
         "link": "https://aws.amazon.com/blogs/industries/how-tcss-intelligent-power-plant-solution-on-aws-helps-utilities-optimize-operations-and-drive-energy-transition/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerating Fraud Detection in Financial Services with NVIDIA RAPIDS\u2122 Accelerator for Apache Spark on AWS",
         "link": "https://aws.amazon.com/blogs/industries/accelerating-fraud-detection-in-financial-services-with-rapids-accelerator-for-apache-spark-on-aws/"
-    },
-    {
-        "title": "Extending factory edge data to the cloud with MQTT enabled AWS IoT SiteWise gateways",
-        "link": "https://aws.amazon.com/blogs/industries/mqtt-aws-iot-sitewise-gateways/"
     }
 ]
