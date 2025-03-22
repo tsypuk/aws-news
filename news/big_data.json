@@ -1,5 +1,9 @@
 [
     {
+        "title": "Connect, share, and query where your data sits using Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/connect-share-and-query-where-your-data-sits-using-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "Introducing vector search with UltraWarm in Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-vector-search-with-ultrawarm-in-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Web Services\u00a0named a\u00a0Leader in the 2024 Gartner Magic Quadrant for Data Integration Tools",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-web-services-named-a-leader-in-the-2024-gartner-magic-quadrant-for-data-integration-tools/"
-    },
-    {
-        "title": "Building and operating data pipelines at scale using CI/CD, Amazon MWAA and Apache Spark on Amazon EMR by Wipro",
-        "link": "https://aws.amazon.com/blogs/big-data/building-and-operating-data-pipelines-at-scale-using-ci-cd-amazon-mwaa-and-apache-spark-on-amazon-emr-by-wipro/"
     }
 ]

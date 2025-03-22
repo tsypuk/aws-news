@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build a generative AI enabled virtual IT troubleshooting assistant using Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-enabled-virtual-it-troubleshooting-assistant-using-amazon-q-business/"
+    },
+    {
+        "title": "Process formulas and charts with Anthropic\u2019s Claude on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/process-formulas-and-charts-with-anthropics-claude-on-amazon-bedrock/"
+    },
+    {
+        "title": "Automate IT operations with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-it-operations-with-amazon-bedrock-agents/"
+    },
+    {
         "title": "Streamline AWS resource troubleshooting with Amazon Bedrock Agents and AWS Support Automation Workflows",
         "link": "https://aws.amazon.com/blogs/machine-learning/streamline-aws-resource-troubleshooting-with-amazon-bedrock-agents-and-aws-support-automation-workflows/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How GoDaddy built a category generation system at scale with batch inference for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-built-a-category-generation-system-at-scale-with-batch-inference-for-amazon-bedrock/"
-    },
-    {
-        "title": "Benchmarking customized models on Amazon Bedrock using LLMPerf and LiteLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-customized-models-on-amazon-bedrock-using-llmperf-and-litellm/"
-    },
-    {
-        "title": "Creating asynchronous AI agents with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/creating-asynchronous-ai-agents-with-amazon-bedrock/"
-    },
-    {
-        "title": "How to run Qwen 2.5 on AWS AI chips using Hugging Face libraries",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-to-run-qwen-2-5-on-aws-ai-chips-using-hugging-face-libraries/"
     }
 ]

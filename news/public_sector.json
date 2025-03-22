@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Fair Trade USA uses AWS to improve working conditions for farmers",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-fair-trade-usa-uses-aws-to-improve-working-conditions-for-farmers/"
+    },
+    {
         "title": "How to safeguard healthcare data privacy using Amazon Bedrock Guardrails",
         "link": "https://aws.amazon.com/blogs/publicsector/how-to-safeguard-healthcare-data-privacy-using-amazon-bedrock-guardrails/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securely running AI algorithms for 100,000 users on private data",
         "link": "https://aws.amazon.com/blogs/publicsector/securely-running-ai-algorithms-for-100000-users-on-private-data/"
-    },
-    {
-        "title": "Near real-time dashboards from a source database to a cloud data warehouse on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/near-real-time-dashboards-from-a-source-database-to-a-cloud-data-warehouse-on-aws/"
     }
 ]
