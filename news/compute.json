@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing network traffic inspection on AWS Outposts rack",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-network-traffic-inspection-on-aws-outposts-rack-2/"
+    },
+    {
         "title": "Optimizing network footprint in serverless applications",
         "link": "https://aws.amazon.com/blogs/compute/optimizing-network-footprint-in-serverless-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Provisioned Mode for Kafka Event Source Mappings with AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/introducing-provisioned-mode-for-kafka-event-source-mappings-with-aws-lambda/"
-    },
-    {
-        "title": "Implementing transactions using JMS2.0 in Amazon MQ for ActiveMQ",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-transactions-using-jms2-0-in-amazon-mq-for-activemq/"
     }
 ]
