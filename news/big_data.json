@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Amazon S3 Tables with Amazon Redshift to query Apache Iceberg tables",
+        "link": "https://aws.amazon.com/blogs/big-data/using-amazon-s3-tables-with-amazon-redshift-to-query-apache-iceberg-tables/"
+    },
+    {
         "title": "Connect, share, and query where your data sits using Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/connect-share-and-query-where-your-data-sits-using-amazon-sagemaker-unified-studio/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Top analytics announcements of AWS re:Invent 2024",
         "link": "https://aws.amazon.com/blogs/big-data/top-analytics-announcements-of-aws-reinvent-2024/"
-    },
-    {
-        "title": "Amazon Web Services\u00a0named a\u00a0Leader in the 2024 Gartner Magic Quadrant for Data Integration Tools",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-web-services-named-a-leader-in-the-2024-gartner-magic-quadrant-for-data-integration-tools/"
     }
 ]

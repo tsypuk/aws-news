@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Next-Gen AI Education through GoML and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/apn/building-next-gen-ai-education-through-goml-and-amazon-bedrock/"
+    },
+    {
         "title": "Unlocking the power of Splunk with Amazon Bedrock \u2013 Build AI assistant using agents",
         "link": "https://aws.amazon.com/blogs/apn/unlocking-the-power-of-splunk-with-amazon-bedrock-an-agentic-ai-approach-to-build-customized-splunk-assistants-using-bedrock-agents/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Seeq\u2019s Advanced Analytics on AWS boosts Manufacturing Sustainability",
         "link": "https://aws.amazon.com/blogs/apn/seeqs-advanced-analytics-on-aws-boosts-manufacturing-sustainability/"
-    },
-    {
-        "title": "Every Microsecond Counts: YugabyteDB Boosts Performance with Amazon Time Sync",
-        "link": "https://aws.amazon.com/blogs/apn/when-every-microsecond-counts-yugabytedb-amazon-time-sync-service-database-performance/"
     }
 ]
