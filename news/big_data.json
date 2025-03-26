@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build multi-Region resilient Apache Kafka applications with identical topic names using Amazon MSK and Amazon MSK Replicator",
+        "link": "https://aws.amazon.com/blogs/big-data/build-multi-region-resilient-apache-kafka-applications-with-identical-topic-names-using-amazon-msk-and-amazon-msk-replicator/"
+    },
+    {
         "title": "Using Amazon S3 Tables with Amazon Redshift to query Apache Iceberg tables",
         "link": "https://aws.amazon.com/blogs/big-data/using-amazon-s3-tables-with-amazon-redshift-to-query-apache-iceberg-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Prime Video advances search for sports using Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-prime-video-advances-search-for-sports-using-amazon-opensearch-service/"
-    },
-    {
-        "title": "Top analytics announcements of AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/big-data/top-analytics-announcements-of-aws-reinvent-2024/"
     }
 ]

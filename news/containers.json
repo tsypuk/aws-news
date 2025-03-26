@@ -1,5 +1,9 @@
 [
     {
+        "title": "Effortless application modernization: migrate to Amazon EKS with existing NLB setup",
+        "link": "https://aws.amazon.com/blogs/containers/effortless-application-modernization-migrate-to-amazon-eks-with-existing-nlb-setup/"
+    },
+    {
         "title": "Run GenAI inference across environments with Amazon EKS Hybrid Nodes",
         "link": "https://aws.amazon.com/blogs/containers/run-genai-inference-across-environments-with-amazon-eks-hybrid-nodes/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Organizational best practices for implementing EKS Anywhere at scale",
         "link": "https://aws.amazon.com/blogs/containers/organizational-best-practices-for-implementing-eks-anywhere-at-scale/"
-    },
-    {
-        "title": "A deep dive into Amazon EKS Hybrid Nodes",
-        "link": "https://aws.amazon.com/blogs/containers/a-deep-dive-into-amazon-eks-hybrid-nodes/"
     }
 ]

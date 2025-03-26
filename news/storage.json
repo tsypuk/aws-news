@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Bridgewater maintains data consistency across Regions using Amazon S3 Replication",
+        "link": "https://aws.amazon.com/blogs/storage/how-bridgewater-maintains-data-consistency-across-regions-using-amazon-s3-replication/"
+    },
+    {
         "title": "Streamlining access to tabular datasets stored in Amazon S3 Tables with DuckDB",
         "link": "https://aws.amazon.com/blogs/storage/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adapting to change with data patterns on AWS: The \u201cextend\u201d cloud data pattern",
         "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-extend-cloud-data-pattern/"
-    },
-    {
-        "title": "Adapting to change with data patterns on AWS: The \u201caggregate\u201d cloud data pattern",
-        "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-aggregate-cloud-data-pattern/"
     }
 ]
