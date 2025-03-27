@@ -1,5 +1,9 @@
 [
     {
+        "title": "Setting file system-wide soft and hard quotas on Amazon Elastic File System (EFS)",
+        "link": "https://aws.amazon.com/blogs/storage/setting-file-system-wide-soft-and-hard-quotas-on-amazon-elastic-file-system-efs/"
+    },
+    {
         "title": "How Bridgewater maintains data consistency across Regions using Amazon S3 Replication",
         "link": "https://aws.amazon.com/blogs/storage/how-bridgewater-maintains-data-consistency-across-regions-using-amazon-s3-replication/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Backing up Oracle databases to Amazon S3 at scale",
         "link": "https://aws.amazon.com/blogs/storage/backing-up-oracle-databases-to-amazon-s3-at-scale/"
-    },
-    {
-        "title": "Adapting to change with data patterns on AWS: The \u201cextend\u201d cloud data pattern",
-        "link": "https://aws.amazon.com/blogs/storage/adapting-to-change-with-data-patterns-on-aws-the-extend-cloud-data-pattern/"
     }
 ]

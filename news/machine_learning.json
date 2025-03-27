@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon SageMaker JumpStart adds fine-tuning support for models in a private model hub",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/"
+    },
+    {
+        "title": "Generative AI-powered game design: Accelerating early development with Stability AI models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generative-ai-powered-game-design-accelerating-early-development-with-stability-ai-models-on-amazon-bedrock/"
+    },
+    {
         "title": "Amazon Bedrock launches Session Management APIs for generative AI applications (Preview)",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-launches-session-management-apis-for-generative-ai-applications-preview/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build your gen AI\u2013based text-to-SQL application using RAG, powered by Amazon Bedrock (Claude 3 Sonnet and Amazon Titan for embedding)",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-your-gen-ai-based-text-to-sql-application-using-rag-powered-by-amazon-bedrock-claude-3-sonnet-and-amazon-titan-for-embedding/"
-    },
-    {
-        "title": "Unleash AI innovation with Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unleash-ai-innovation-with-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Revolutionizing clinical trials with the power of voice and AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-clinical-trials-with-the-power-of-voice-and-ai/"
     }
 ]

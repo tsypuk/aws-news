@@ -1,5 +1,17 @@
 [
     {
+        "title": "Enhancing cloud security in AI/ML: The little pickle story",
+        "link": "https://aws.amazon.com/blogs/security/enhancing-cloud-security-in-ai-ml-the-little-pickle-story/"
+    },
+    {
+        "title": "Winter 2024 SOC 1 report is now available with 183 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/winter-2024-soc-1-report-is-now-available-with-183-services-in-scope/"
+    },
+    {
+        "title": "Effectively implementing resource control policies in a multi-account environment",
+        "link": "https://aws.amazon.com/blogs/security/effectively-implementing-resource-controls-policies-in-a-multi-account-environment/"
+    },
+    {
         "title": "Use AWS service reference information to automate policy management workflows",
         "link": "https://aws.amazon.com/blogs/security/use-aws-service-reference-information-to-automate-policy-management-workflows/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Announcing ASCP integration with Pod Identity: Enhanced security for secrets management in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/security/announcing-ascp-integration-with-pod-identity-enhanced-security-for-secrets-management-in-amazon-eks/"
-    },
-    {
-        "title": "Enhancing telecom security with AWS",
-        "link": "https://aws.amazon.com/blogs/security/enhancing-telecom-security-with-aws/"
-    },
-    {
-        "title": "2024 PiTuKri ISAE 3000 Type II attestation report available with 179 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/2024-pitukri-isae-3000-type-ii-attestation-report-available-with-179-services-in-scope/"
-    },
-    {
-        "title": "2024 FINMA ISAE 3000 Type II attestation report available with 179 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/2024-finma-isae-3000-type-ii-attestation-report-available-with-179-services-in-scope/"
     }
 ]

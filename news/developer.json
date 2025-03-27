@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the Developer Preview of Amazon S3 Transfer Manager in Rust",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-developer-preview-of-amazon-s3-transfer-manager-in-rust/"
+    },
+    {
         "title": "Building and Debugging .NET Lambda applications with .NET Aspire (Part 2)",
         "link": "https://aws.amazon.com/blogs/developer/building-lambda-with-aspire-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Preview Release of the Migration Tool for the AWS SDK for Java 2.x",
         "link": "https://aws.amazon.com/blogs/developer/preview-release-of-the-migration-tool-for-the-aws-sdk-for-java-2-x/"
-    },
-    {
-        "title": "The AWS SDK for Java 1.x is in maintenance mode, effective July 31, 2024",
-        "link": "https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-is-in-maintenance-mode-effective-july-31-2024/"
     }
 ]

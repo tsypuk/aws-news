@@ -1,5 +1,9 @@
 [
     {
+        "title": "Firewall support for AWS Amplify hosted sites",
+        "link": "https://aws.amazon.com/blogs/aws/firewall-support-for-aws-amplify-hosted-sites/"
+    },
+    {
         "title": "Detailed geographic information for all AWS Regions and Availability Zones is now available",
         "link": "https://aws.amazon.com/blogs/aws/now-available-geography-information-for-all-aws-regions-and-availability-zones/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: DeepSeek-R1, S3 Metadata, Elastic Beanstalk updates, and more (February 3, 2024)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-deepseek-r1-s3-metadata-elastic-beanstalk-updates-and-more-february-3-2024/"
-    },
-    {
-        "title": "DeepSeek-R1 models now available on AWS",
-        "link": "https://aws.amazon.com/blogs/aws/deepseek-r1-models-now-available-on-aws/"
     }
 ]
