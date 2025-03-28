@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating CI with AWS CodeBuild: Parallel test execution now available",
+        "link": "https://aws.amazon.com/blogs/aws/accelerating-ci-with-aws-codebuild-parallel-test-execution-now-available/"
+    },
+    {
         "title": "Firewall support for AWS Amplify hosted sites",
         "link": "https://aws.amazon.com/blogs/aws/firewall-support-for-aws-amplify-hosted-sites/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS CodeBuild for macOS adds support for Fastlane",
         "link": "https://aws.amazon.com/blogs/aws/codebuild-for-macos-adds-support-for-fastlane/"
-    },
-    {
-        "title": "AWS Weekly Roundup: DeepSeek-R1, S3 Metadata, Elastic Beanstalk updates, and more (February 3, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-deepseek-r1-s3-metadata-elastic-beanstalk-updates-and-more-february-3-2024/"
     }
 ]

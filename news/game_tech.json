@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS GDC 2025 Highlights",
+        "link": "https://aws.amazon.com/blogs/gametech/aws-gdc-2025-highlights/"
+    },
+    {
         "title": "FotMob delivers near real-time football updates to millions of fans with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/fotmob-delivers-near-real-time-football-updates-to-millions-of-fans-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leverage fully-managed containers to host multiplayer games at global scale on Amazon GameLift",
         "link": "https://aws.amazon.com/blogs/gametech/leverage-fully-managed-containers-to-host-multiplayer-games-at-global-scale-on-amazon-gamelift/"
-    },
-    {
-        "title": "How Good Job Games Accelerates 43% with AWS Build Pipeline",
-        "link": "https://aws.amazon.com/blogs/gametech/how-good-job-games-accelerates-43-with-aws-build-pipeline/"
     }
 ]

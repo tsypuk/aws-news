@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance customer experience with an integrated AI assistant",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/enhance-customer-experience-with-an-integrated-ai-assistant/"
+    },
+    {
         "title": "Updating your AWS Elastic Disaster Recovery settings at scale with the DRS Settings Tool",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/updating-your-aws-elastic-disaster-recovery-settings-at-scale-with-the-drs-settings-tool/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Create AMIs with AWS CodePipeline",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/create-amis-with-aws-codepipeline/"
-    },
-    {
-        "title": "Automate IAM credential reports for large AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-iam-credential-reports-for-large-aws-organizations/"
     }
 ]
