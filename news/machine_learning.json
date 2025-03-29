@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-image-content-filters-provide-industry-leading-safeguards-helping-customer-block-up-to-88-of-harmful-multimodal-content-generally-available-today/"
+    },
+    {
         "title": "Integrating custom dependencies in Amazon SageMaker Canvas workflows",
         "link": "https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Q Business now available in Europe (Ireland) AWS Region",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-business-now-available-in-europe-ireland-aws-region/"
-    },
-    {
-        "title": "Running NVIDIA NeMo 2.0 Framework on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/running-nvidia-nemo-2-0-framework-on-amazon-sagemaker-hyperpod/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS continues to support government cloud security and shape FedRAMP\u2019s evolution toward automated compliance",
+        "link": "https://aws.amazon.com/blogs/security/aws-continues-to-support-government-cloud-security-and-shape-fedramps-evolution-toward-automated-compliance/"
+    },
+    {
         "title": "Enhancing cloud security in AI/ML: The little pickle story",
         "link": "https://aws.amazon.com/blogs/security/enhancing-cloud-security-in-ai-ml-the-little-pickle-story/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing least privilege access for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/security/implementing-least-privilege-access-for-amazon-bedrock/"
-    },
-    {
-        "title": "Announcing ASCP integration with Pod Identity: Enhanced security for secrets management in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/security/announcing-ascp-integration-with-pod-identity-enhanced-security-for-secrets-management-in-amazon-eks/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Calling all SAP ABAP developers \u2014 You are invited to the Amazon Bedrock Party!",
+        "link": "https://aws.amazon.com/blogs/awsforsap/calling-all-sap-abap-developers-you-are-invited-to-the-amazon-bedrock-party-2/"
+    },
+    {
         "title": "Automate Start/Stop of SAP NetWeaver ABAP applications based on HANA database using AWS Systems Manager for SAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/automate-start-stop-of-sap-netweaver-abap-applications-based-on-hana-database-using-aws-systems-manager-for-sap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve your productivity with Amazon Q and Bedrock for SAP use cases",
         "link": "https://aws.amazon.com/blogs/awsforsap/improve-your-productivity-with-amazon-q-and-bedrock-for-sap-use-cases/"
-    },
-    {
-        "title": "Increase Availability of SAP Convergent Mediation using AWS Auto Scaling",
-        "link": "https://aws.amazon.com/blogs/awsforsap/increase-availability-of-sap-convergent-mediation-using-aws-auto-scaling/"
     }
 ]

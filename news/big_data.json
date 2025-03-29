@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance governance with metadata enforcement rules in Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-governance-with-metadata-enforcement-rules-in-amazon-sagemaker/"
+    },
+    {
         "title": "Build multi-Region resilient Apache Kafka applications with identical topic names using Amazon MSK and Amazon MSK Replicator",
         "link": "https://aws.amazon.com/blogs/big-data/build-multi-region-resilient-apache-kafka-applications-with-identical-topic-names-using-amazon-msk-and-amazon-msk-replicator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Governing streaming data in Amazon DataZone with the Data Solutions Framework on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/governing-streaming-data-in-amazon-datazone-with-the-data-solutions-framework-on-aws/"
-    },
-    {
-        "title": "Amazon Prime Video advances search for sports using Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-prime-video-advances-search-for-sports-using-amazon-opensearch-service/"
     }
 ]
