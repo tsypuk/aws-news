@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build agentic systems with CrewAI and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-systems-with-crewai-and-amazon-bedrock/"
+    },
+    {
         "title": "Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-image-content-filters-provide-industry-leading-safeguards-helping-customer-block-up-to-88-of-harmful-multimodal-content-generally-available-today/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "From innovation to impact: How AWS and NVIDIA enable real-world generative AI success",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-innovation-to-impact-how-aws-and-nvidia-enable-real-world-generative-ai-success/"
-    },
-    {
-        "title": "Amazon Q Business now available in Europe (Ireland) AWS Region",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-q-business-now-available-in-europe-ireland-aws-region/"
     }
 ]

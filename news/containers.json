@@ -1,5 +1,13 @@
 [
     {
+        "title": "Under the hood: Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-auto-mode/"
+    },
+    {
+        "title": "Announcing Amazon EKS community Add-ons catalog",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-community-add-ons-catalog/"
+    },
+    {
         "title": "Effortless application modernization: migrate to Amazon EKS with existing NLB setup",
         "link": "https://aws.amazon.com/blogs/containers/effortless-application-modernization-migrate-to-amazon-eks-with-existing-nlb-setup/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "AWS at KubeCon + CloudNativeCon Europe 2025",
         "link": "https://aws.amazon.com/blogs/containers/aws-at-kubecon-cloudnativecon-europe-2025/"
-    },
-    {
-        "title": "Automating AL2023 custom hardened AMI updates for Amazon EKS managed nodes",
-        "link": "https://aws.amazon.com/blogs/containers/automating-al2023-custom-hardened-ami-updates-for-amazon-eks-managed-nodes/"
-    },
-    {
-        "title": "Organizational best practices for implementing EKS Anywhere at scale",
-        "link": "https://aws.amazon.com/blogs/containers/organizational-best-practices-for-implementing-eks-anywhere-at-scale/"
     }
 ]

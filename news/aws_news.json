@@ -1,5 +1,17 @@
 [
     {
+        "title": "Accelerate operational analytics with Amazon Q Developer in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-operational-analytics-with-amazon-q-developer-in-amazon-opensearch-service/"
+    },
+    {
+        "title": "Amazon API Gateway now supports dual-stack (IPv4 and IPv6) endpoints",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-api-gateway-now-supports-dual-stack-ipv4-and-ipv6-endpoints/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Amazon Bedrock, Amazon QuickSight, AWS Amplify, and more (March 31, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-amazon-quicksight-aws-amplify-and-more-march-31-2025/"
+    },
+    {
         "title": "Accelerating CI with AWS CodeBuild: Parallel test execution now available",
         "link": "https://aws.amazon.com/blogs/aws/accelerating-ci-with-aws-codebuild-parallel-test-execution-now-available/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AWS Weekly Roundup: AWS Developer Day, Trust Center, Well-Architected for Enterprises, and more (Feb 17, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-developer-day-trust-center-well-architected-for-enterprises-and-more-feb-17-2025/"
-    },
-    {
-        "title": "AWS CloudTrail network activity events for VPC endpoints now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/aws-cloudtrail-network-activity-events-for-vpc-endpoints-now-generally-available/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Step Functions, AWS CloudFormation, Amazon Q Developer, and more (February 10, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-step-functions-aws-cloudformation-amazon-q-developer-and-more-february-10-2024/"
-    },
-    {
-        "title": "AWS CodeBuild for macOS adds support for Fastlane",
-        "link": "https://aws.amazon.com/blogs/aws/codebuild-for-macos-adds-support-for-fastlane/"
     }
 ]

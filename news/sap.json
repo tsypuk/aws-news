@@ -1,5 +1,9 @@
 [
     {
+        "title": "Terraform your SAP Infrastructure on AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/terraform-your-sap-infrastructure-on-aws-2/"
+    },
+    {
         "title": "Calling all SAP ABAP developers \u2014 You are invited to the Amazon Bedrock Party!",
         "link": "https://aws.amazon.com/blogs/awsforsap/calling-all-sap-abap-developers-you-are-invited-to-the-amazon-bedrock-party-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve supply chain resiliency and optimize costs using AWS Supply Chain with SAP S/4HANA",
         "link": "https://aws.amazon.com/blogs/awsforsap/improve-supply-chain-resiliency-and-optimize-costs-using-aws-supply-chain-with-sap-s-4hana/"
-    },
-    {
-        "title": "Improve your productivity with Amazon Q and Bedrock for SAP use cases",
-        "link": "https://aws.amazon.com/blogs/awsforsap/improve-your-productivity-with-amazon-q-and-bedrock-for-sap-use-cases/"
     }
 ]

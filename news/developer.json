@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the AWS IoT Device SDK for Swift (Developer Preview)",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-iot-device-sdk-for-swift-developer-preview/"
+    },
+    {
         "title": "AWS SDK for Ruby: Deprecating Ruby 2.5 & 2.6 Runtime Supports and Future Compatibility",
         "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-ruby-deprecating-ruby-2-5-2-6-runtime-supports-and-future-compatibility/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Preview 1 of AWS SDK for .NET V4",
         "link": "https://aws.amazon.com/blogs/developer/preview-1-of-aws-sdk-for-net-v4/"
-    },
-    {
-        "title": "The AWS SDK for Java 1.x will no longer support Java 7",
-        "link": "https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-will-no-longer-support-java-7/"
     }
 ]
