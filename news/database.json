@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using StatsD for monitoring Oracle databases running on Amazon RDS or Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/database/using-statsd-for-monitoring-oracle-databases-running-on-amazon-rds-or-amazon-ec2/"
+    },
+    {
         "title": "Optimizing cost savings: The advantage of Amazon Aurora over self-managed open source databases",
         "link": "https://aws.amazon.com/blogs/database/optimizing-cost-savings-the-advantage-of-amazon-aurora-over-self-managed-open-source-databases/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Multi-tenant vector search with Amazon Aurora PostgreSQL and Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/database/multi-tenant-vector-search-with-amazon-aurora-postgresql-and-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Self-managed multi-tenant vector search with Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/self-managed-multi-tenant-vector-search-with-amazon-aurora-postgresql/"
     }
 ]

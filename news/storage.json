@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce costs with customized delete protection for Amazon EBS Snapshots and EBS-backed AMIs",
+        "link": "https://aws.amazon.com/blogs/storage/reduce-costs-with-customized-delete-protection-for-amazon-ebs-snapshots-and-ebs-backed-amis/"
+    },
+    {
         "title": "Setting file system-wide soft and hard quotas on Amazon Elastic File System (EFS)",
         "link": "https://aws.amazon.com/blogs/storage/setting-file-system-wide-soft-and-hard-quotas-on-amazon-elastic-file-system-efs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Designing for multi-account scenarios using AWS Disaster Recovery Service",
         "link": "https://aws.amazon.com/blogs/storage/designing-for-multi-account-scenarios-using-aws-disaster-recovery-service/"
-    },
-    {
-        "title": "Backing up Oracle databases to Amazon S3 at scale",
-        "link": "https://aws.amazon.com/blogs/storage/backing-up-oracle-databases-to-amazon-s3-at-scale/"
     }
 ]

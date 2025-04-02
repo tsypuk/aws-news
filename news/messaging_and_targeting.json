@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating Sender ID Configuration for SMS with AWS End User Messaging APIs",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automating-sender-id-configuration-for-sms-with-aws-end-user-messaging-apis/"
+    },
+    {
         "title": "Building a voice interface for generative AI assistants",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-voice-interface-for-genai-assistant/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance Your Email Campaigns using Amazon SES SendBulkEmail APIs Inline Templates",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-your-email-campaigns-using-amazon-ses-sendbulkemail-apis-inline-templates/"
-    },
-    {
-        "title": "Modernize email sending with Amazon Simple Email Service and Proofpoint SER",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/modernize-email-sending-with-amazon-simple-email-service-and-proofpoint-ser/"
     }
 ]

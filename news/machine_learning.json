@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing AWS MCP Servers for code assistants (Part 1)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/"
+    },
+    {
+        "title": "Harness the power of MCP servers with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Generate compliant content with Amazon Bedrock and ConstitutionalChain",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-compliant-content-with-amazon-bedrock-and-constitutionalchain/"
+    },
+    {
+        "title": "Minimize generative AI hallucinations with Amazon Bedrock Automated Reasoning checks",
+        "link": "https://aws.amazon.com/blogs/machine-learning/minimize-generative-ai-hallucinations-with-amazon-bedrock-automated-reasoning-checks/"
+    },
+    {
+        "title": "AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-app-studio-introduces-a-prebuilt-solutions-catalog-and-cross-instance-import-and-export/"
+    },
+    {
         "title": "Build agentic systems with CrewAI and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-systems-with-crewai-and-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Streamline AWS resource troubleshooting with Amazon Bedrock Agents and AWS Support Automation Workflows",
         "link": "https://aws.amazon.com/blogs/machine-learning/streamline-aws-resource-troubleshooting-with-amazon-bedrock-agents-and-aws-support-automation-workflows/"
-    },
-    {
-        "title": "Create generative AI agents that interact with your companies\u2019 systems in a few clicks using Amazon Bedrock in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-generative-ai-agents-that-interact-with-your-companies-systems-in-a-few-clicks-using-amazon-bedrock-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Asure\u2019s approach to enhancing their call center experience using generative AI and Amazon Q in QuickSight",
-        "link": "https://aws.amazon.com/blogs/machine-learning/asures-approach-to-enhancing-their-call-center-experience-using-generative-ai-and-amazon-q-in-quicksight/"
-    },
-    {
-        "title": "Unleashing the multimodal power of Amazon Bedrock Data Automation to transform unstructured data into actionable insights",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-the-multimodal-power-of-amazon-bedrock-data-automation-to-transform-unstructured-data-into-actionable-insights/"
-    },
-    {
-        "title": "Integrate generative AI capabilities into Microsoft Office using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-generative-ai-capabilities-into-microsoft-office-using-amazon-bedrock/"
-    },
-    {
-        "title": "From innovation to impact: How AWS and NVIDIA enable real-world generative AI success",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-innovation-to-impact-how-aws-and-nvidia-enable-real-world-generative-ai-success/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance resiliency and data protection for SAP HANA high-availability deployments with Amazon Backup for SAP HANA",
+        "link": "https://aws.amazon.com/blogs/awsforsap/enhance-resiliency-and-data-protection-for-sap-hana-high-availability-deployments-with-amazon-backup-for-sap-hana/"
+    },
+    {
         "title": "Terraform your SAP Infrastructure on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/terraform-your-sap-infrastructure-on-aws-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance your SAP Observability using Amazon Managed Prometheus and Grafana",
         "link": "https://aws.amazon.com/blogs/awsforsap/enhance-your-sap-observability-using-amazon-managed-prometheus-and-amazon-managed-grafana/"
-    },
-    {
-        "title": "Improve supply chain resiliency and optimize costs using AWS Supply Chain with SAP S/4HANA",
-        "link": "https://aws.amazon.com/blogs/awsforsap/improve-supply-chain-resiliency-and-optimize-costs-using-aws-supply-chain-with-sap-s-4hana/"
     }
 ]
