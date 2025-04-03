@@ -1,5 +1,13 @@
 [
     {
+        "title": "Ray jobs on Amazon SageMaker HyperPod: scalable and resilient distributed AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ray-jobs-on-amazon-sagemaker-hyperpod-scalable-and-resilient-distributed-ai/"
+    },
+    {
+        "title": "Using Large Language Models on Amazon Bedrock for multi-step task execution",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-large-language-models-on-amazon-bedrock-for-multi-step-task-execution/"
+    },
+    {
         "title": "Introducing AWS MCP Servers for code assistants (Part 1)",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Process formulas and charts with Anthropic\u2019s Claude on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/process-formulas-and-charts-with-anthropics-claude-on-amazon-bedrock/"
-    },
-    {
-        "title": "Automate IT operations with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-it-operations-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Streamline AWS resource troubleshooting with Amazon Bedrock Agents and AWS Support Automation Workflows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-aws-resource-troubleshooting-with-amazon-bedrock-agents-and-aws-support-automation-workflows/"
     }
 ]

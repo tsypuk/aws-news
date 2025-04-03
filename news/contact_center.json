@@ -1,5 +1,9 @@
 [
     {
+        "title": "Insights and learnings from Amazon Q in Connect at NatWest",
+        "link": "https://aws.amazon.com/blogs/contact-center/insights-and-learning-of-amazon-q-in-connect-at-natwest/"
+    },
+    {
         "title": "Salesforce Contact Center with Amazon Connect: Streamlining omnichannel customer engagement",
         "link": "https://aws.amazon.com/blogs/contact-center/salesforce-contact-center-with-amazon-connect-streamlining-omnichannel-customer-engagement/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for handling email messages within a flow",
         "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-handling-email-messages-within-a-flow/"
-    },
-    {
-        "title": "Transform customer data into personalized customer experiences with Amazon Connect Customer Profiles and Outbound Campaigns",
-        "link": "https://aws.amazon.com/blogs/contact-center/transform-customer-data-into-personalized-customer-experiences-with-amazon-connect-customer-profiles-and-outbound-campaigns/"
     }
 ]

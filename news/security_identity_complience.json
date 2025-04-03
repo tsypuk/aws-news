@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS achieves Cloud Security Assurance Program (CSAP) low-tier certification in AWS Seoul Region",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-cloud-security-assurance-program-csap-low-tier-certification-in-aws-seoul-region/"
+    },
+    {
+        "title": "Planning for your IAM Roles Anywhere deployment",
+        "link": "https://aws.amazon.com/blogs/security/planning-for-your-iam-roles-anywhere-deployment/"
+    },
+    {
         "title": "AWS continues to support government cloud security and shape FedRAMP\u2019s evolution toward automated compliance",
         "link": "https://aws.amazon.com/blogs/security/aws-continues-to-support-government-cloud-security-and-shape-fedramps-evolution-toward-automated-compliance/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing the AWS Trust Center",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-trust-center/"
-    },
-    {
-        "title": "The importance of encryption and how AWS can help",
-        "link": "https://aws.amazon.com/blogs/security/importance-of-encryption-and-how-aws-can-help/"
-    },
-    {
-        "title": "Implementing least privilege access for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/security/implementing-least-privilege-access-for-amazon-bedrock/"
     }
 ]

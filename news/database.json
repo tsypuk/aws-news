@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve PostgreSQL performance using the pgstattuple extension",
+        "link": "https://aws.amazon.com/blogs/database/improve-postgresql-performance-using-the-pgstattuple-extension/"
+    },
+    {
         "title": "Using StatsD for monitoring Oracle databases running on Amazon RDS or Amazon EC2",
         "link": "https://aws.amazon.com/blogs/database/using-statsd-for-monitoring-oracle-databases-running-on-amazon-rds-or-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Mindbody improved query latency and optimized costs using Amazon Aurora PostgreSQL Optimized Reads",
         "link": "https://aws.amazon.com/blogs/database/how-mindbody-improved-query-latency-and-optimized-costs-using-amazon-aurora-postgresql-optimized-reads/"
-    },
-    {
-        "title": "Multi-tenant vector search with Amazon Aurora PostgreSQL and Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/database/multi-tenant-vector-search-with-amazon-aurora-postgresql-and-amazon-bedrock-knowledge-bases/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Achieving CIS Compliance for Amazon EC2 Instances with GYTPOL",
+        "link": "https://aws.amazon.com/blogs/apn/achieving-cis-compliance-for-amazon-ec2-instances-with-gytpol/"
+    },
+    {
+        "title": "Improving MongoDB Atlas Search Elasticity with Amazon S3",
+        "link": "https://aws.amazon.com/blogs/apn/improving-mongodb-atlas-search-elasticity-with-amazon-s3/"
+    },
+    {
         "title": "Say Hello to 208 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in March",
         "link": "https://aws.amazon.com/blogs/apn/say-hello-to-208-new-aws-competency-service-delivery-service-ready-and-msp-partners-added-in-march/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerating Product Research and Design with Generative AI",
         "link": "https://aws.amazon.com/blogs/apn/accelerating-product-research-and-design-with-generative-ai/"
-    },
-    {
-        "title": "How Thales Enables PCI-DSS Compliance with a Tokenization Solution on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/how-thales-enables-pci-dss-compliance-with-a-tokenization-solution-on-aws/"
-    },
-    {
-        "title": "New Generative AI Customer Research: AWS Partner Opportunities in the Evolving Generative AI Landscape",
-        "link": "https://aws.amazon.com/blogs/apn/new-generative-ai-customer-research-aws-partner-opportunities-in-the-evolving-generative-ai-landscape/"
     }
 ]
