@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build low-latency, resilient applications with Amazon MemoryDB Multi-Region",
+        "link": "https://aws.amazon.com/blogs/database/build-low-latency-resilient-applications-with-amazon-memorydb-multi-region/"
+    },
+    {
         "title": "Improve PostgreSQL performance using the pgstattuple extension",
         "link": "https://aws.amazon.com/blogs/database/improve-postgresql-performance-using-the-pgstattuple-extension/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Upgrade strategies for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL 12",
         "link": "https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-12/"
-    },
-    {
-        "title": "How Mindbody improved query latency and optimized costs using Amazon Aurora PostgreSQL Optimized Reads",
-        "link": "https://aws.amazon.com/blogs/database/how-mindbody-improved-query-latency-and-optimized-costs-using-amazon-aurora-postgresql-optimized-reads/"
     }
 ]
