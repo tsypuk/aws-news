@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deploy Amazon EKS advanced data protection using NetApp Trident AWS Marketplace EKS add-on and Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/deploy-amazon-eks-advanced-data-protection-using-netapp-trident-aws-marketplace-eks-add-on-and-amazon-fsx-for-netapp-ontap/"
+    },
+    {
+        "title": "How to launch a SaaS product in AWS Marketplace",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-launch-a-saas-product-in-aws-marketplace/"
+    },
+    {
         "title": "Choosing the right fulfillment option for your SaaS product in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/choosing-the-right-fulfillment-option-for-your-saas-product-in-aws-marketplace/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Expanded purchase order functionality in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/expanded-purchase-order-functionality-in-aws-marketplace/"
-    },
-    {
-        "title": "AWS Marketplace product management for sellers using Postman API Collections",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/aws-marketplace-product-management-for-sellers-using-postman-api-collections/"
-    },
-    {
-        "title": "Learn how CloudSmart Insight\u2019s private offer campaign uses AWS Marketplace APIs for targeted engagement",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/cloudsmart-insights-private-offer-campaign-uses-aws-marketplace-apis-targeted-engagement/"
     }
 ]

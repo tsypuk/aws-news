@@ -1,5 +1,9 @@
 [
     {
+        "title": "Working with OEM Agent software for Amazon RDS for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/working-with-oem-agent-software-for-amazon-rds-for-oracle/"
+    },
+    {
         "title": "Build low-latency, resilient applications with Amazon MemoryDB Multi-Region",
         "link": "https://aws.amazon.com/blogs/database/build-low-latency-resilient-applications-with-amazon-memorydb-multi-region/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate very large databases to Amazon Aurora MySQL using MyDumper and MyLoader",
         "link": "https://aws.amazon.com/blogs/database/migrate-very-large-databases-to-amazon-aurora-mysql-using-mydumper-and-myloader/"
-    },
-    {
-        "title": "Upgrade strategies for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL 12",
-        "link": "https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-12/"
     }
 ]
