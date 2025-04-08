@@ -1,5 +1,17 @@
 [
     {
+        "title": "Announcing the General Availability of the Amazon EventBridge Scheduler L2 Construct",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-general-availability-of-the-amazon-eventbridge-scheduler-l2-construct/"
+    },
+    {
+        "title": "Converting embedded SQL in Java applications with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/converting-embedded-sql-in-java-applications-with-amazon-q-developer/"
+    },
+    {
+        "title": "Introducing the quick start experience for Amazon Q Developer Pro",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-the-quick-start-experience-for-amazon-q-developer-pro/"
+    },
+    {
         "title": "How generative AI is transforming developer workflows at Amazon",
         "link": "https://aws.amazon.com/blogs/devops/how-generative-ai-is-transforming-developer-workflows-at-amazon/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Learning AWS best practices from Amazon Q in the Console",
         "link": "https://aws.amazon.com/blogs/devops/learning-aws-best-practices-from-amazon-q-in-the-console/"
-    },
-    {
-        "title": "Introducing AWS CloudFormation Stack Refactoring",
-        "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring/"
-    },
-    {
-        "title": "Enhancing Code Generation with Real-Time Execution in Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/enhancing-code-generation-with-real-time-execution-in-amazon-q-developer/"
-    },
-    {
-        "title": "Announcing the AWS CDK Glue L2 Construct",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-glue-l2-construct/"
     }
 ]

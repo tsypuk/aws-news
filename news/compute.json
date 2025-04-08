@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless ICYMI 2025 Q1",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-2025-q1/"
+    },
+    {
         "title": "Anchoring AWS Outposts servers with AWS Direct Connect",
         "link": "https://aws.amazon.com/blogs/compute/anchoring-aws-outposts-servers-with-aws-direct-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "NEW: Simplifying the use of third-party block storage with AWS Outposts",
         "link": "https://aws.amazon.com/blogs/compute/new-simplifying-the-use-of-third-party-block-storage-with-aws-outposts/"
-    },
-    {
-        "title": "Faster scaling with Amazon EC2 Auto Scaling Target Tracking",
-        "link": "https://aws.amazon.com/blogs/compute/faster-scaling-with-amazon-ec2-auto-scaling-target-tracking/"
     }
 ]

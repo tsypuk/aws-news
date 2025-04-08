@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS completes the 2025 Cyber Essentials Plus certification",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2025-cyber-essentials-plus-certification/"
+    },
+    {
+        "title": "ML-KEM post-quantum TLS now supported in AWS KMS, ACM, and Secrets Manager",
+        "link": "https://aws.amazon.com/blogs/security/ml-kem-post-quantum-tls-now-supported-in-aws-kms-acm-and-secrets-manager/"
+    },
+    {
         "title": "AWS achieves Cloud Security Assurance Program (CSAP) low-tier certification in AWS Seoul Region",
         "link": "https://aws.amazon.com/blogs/security/aws-achieves-cloud-security-assurance-program-csap-low-tier-certification-in-aws-seoul-region/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "From log analysis to rule creation: How AWS Network Firewall automates domain-based security for outbound traffic",
         "link": "https://aws.amazon.com/blogs/security/from-log-analysis-to-rule-creation-how-aws-network-firewall-automates-domain-based-security-for-outbound-traffic/"
-    },
-    {
-        "title": "How to restrict Amazon S3 bucket access to a specific IAM role",
-        "link": "https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/"
-    },
-    {
-        "title": "Introducing the AWS Trust Center",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-trust-center/"
     }
 ]

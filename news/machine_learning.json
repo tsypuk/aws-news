@@ -1,5 +1,21 @@
 [
     {
+        "title": "Llama 4 family of models from Meta are now available in SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/llama-4-family-of-models-from-meta-are-now-available-in-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Multi-tenancy in RAG applications in a single Amazon Bedrock knowledge base with metadata filtering",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenancy-in-rag-applications-in-a-single-amazon-bedrock-knowledge-base-with-metadata-filtering/"
+    },
+    {
+        "title": "Effectively use prompt caching on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/effectively-use-prompt-caching-on-amazon-bedrock/"
+    },
+    {
+        "title": "Advanced tracing and evaluation of generative AI agents using LangChain and Amazon SageMaker AI MLFlow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/advanced-tracing-and-evaluation-of-generative-ai-agents-using-langchain-and-amazon-sagemaker-ai-mlflow/"
+    },
+    {
         "title": "Prompting for the best price-performance",
         "link": "https://aws.amazon.com/blogs/machine-learning/prompting-for-the-best-price-performance/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-image-content-filters-provide-industry-leading-safeguards-helping-customer-block-up-to-88-of-harmful-multimodal-content-generally-available-today/"
-    },
-    {
-        "title": "Integrating custom dependencies in Amazon SageMaker Canvas workflows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrating-custom-dependencies-in-amazon-sagemaker-canvas-workflows/"
-    },
-    {
-        "title": "Generate training data and cost-effectively train categorical models with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-training-data-and-cost-effectively-train-categorical-models-with-amazon-bedrock/"
-    },
-    {
-        "title": "Enable Amazon Bedrock cross-Region inference in multi-account environments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enable-amazon-bedrock-cross-region-inference-in-multi-account-environments/"
-    },
-    {
-        "title": "Amazon SageMaker JumpStart adds fine-tuning support for models in a private model hub",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-adds-fine-tuning-support-for-models-in-a-private-model-hub/"
     }
 ]

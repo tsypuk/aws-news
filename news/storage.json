@@ -1,5 +1,9 @@
 [
     {
+        "title": "Real-time monitoring of AWS Elastic Disaster Recovery using Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/storage/real-time-monitoring-of-elastic-disaster-recovery-using-amazon-q-developer/"
+    },
+    {
         "title": "Reduce costs with customized delete protection for Amazon EBS Snapshots and EBS-backed AMIs",
         "link": "https://aws.amazon.com/blogs/storage/reduce-costs-with-customized-delete-protection-for-amazon-ebs-snapshots-and-ebs-backed-amis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cost-optimized log aggregation and archival in Amazon S3 using s3tar",
         "link": "https://aws.amazon.com/blogs/storage/cost-optimized-log-aggregation-and-archival-in-amazon-s3-using-s3tar/"
-    },
-    {
-        "title": "Designing for multi-account scenarios using AWS Disaster Recovery Service",
-        "link": "https://aws.amazon.com/blogs/storage/designing-for-multi-account-scenarios-using-aws-disaster-recovery-service/"
     }
 ]
