@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enriching and customizing notifications with Amazon EventBridge Pipes",
+        "link": "https://aws.amazon.com/blogs/compute/enriching-and-customizing-notifications-with-amazon-eventbridge-pipes/"
+    },
+    {
         "title": "Serverless ICYMI 2025 Q1",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-2025-q1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate your AWS Graviton adoption with the AWS Graviton Savings Dashboard",
         "link": "https://aws.amazon.com/blogs/compute/accelerate-your-aws-graviton-adoption-with-the-aws-graviton-savings-dashboard/"
-    },
-    {
-        "title": "NEW: Simplifying the use of third-party block storage with AWS Outposts",
-        "link": "https://aws.amazon.com/blogs/compute/new-simplifying-the-use-of-third-party-block-storage-with-aws-outposts/"
     }
 ]

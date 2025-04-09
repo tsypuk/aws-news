@@ -1,5 +1,9 @@
 [
     {
+        "title": "The frugal HPC architect \u2013 ensuring effective FinOps for HPC workloads at scale",
+        "link": "https://aws.amazon.com/blogs/hpc/the-frugal-hpc-architect-ensuring-effective-finops-for-hpc-workloads-at-scale/"
+    },
+    {
         "title": "Introducing Riskthinking.AI Climate Earth Digital Twin on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/introducing-riskthinking-ai-climate-earth-digital-twin-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How BAM supercharged large scale research with AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/how-bam-supercharged-large-scale-research-with-aws-batch/"
-    },
-    {
-        "title": "Accelerating file reads with a storage caching server",
-        "link": "https://aws.amazon.com/blogs/hpc/accelerating-file-reads-with-a-storage-caching-server/"
     }
 ]

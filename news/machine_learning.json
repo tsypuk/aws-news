@@ -1,5 +1,13 @@
 [
     {
+        "title": "How iFood built a platform to run hundreds of machine learning models with Amazon SageMaker Inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-ifood-built-a-platform-to-run-hundreds-of-machine-learning-models-with-amazon-sagemaker-inference/"
+    },
+    {
+        "title": "Build an enterprise synthetic data strategy using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-synthetic-data-strategy-using-amazon-bedrock/"
+    },
+    {
         "title": "Llama 4 family of models from Meta are now available in SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/llama-4-family-of-models-from-meta-are-now-available-in-sagemaker-jumpstart/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-app-studio-introduces-a-prebuilt-solutions-catalog-and-cross-instance-import-and-export/"
-    },
-    {
-        "title": "Build agentic systems with CrewAI and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-systems-with-crewai-and-amazon-bedrock/"
-    },
-    {
-        "title": "Amazon Bedrock Guardrails image content filters provide industry-leading safeguards, helping customer block up to 88% of harmful multimodal content: Generally available today",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-image-content-filters-provide-industry-leading-safeguards-helping-customer-block-up-to-88-of-harmful-multimodal-content-generally-available-today/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Exploring Data Transfer Costs for AWS Network Load Balancers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-data-transfer-costs-for-aws-network-load-balancers/"
+    },
+    {
+        "title": "Securing your web applications and optimizing their performance with AWS Application Load Balancer",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-your-web-applications-and-optimizing-their-performance-with-aws-application-load-balancer/"
+    },
+    {
         "title": "Using Amazon Route 53 Resolver DNS Firewall to detect malicious domains",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-amazon-route-53-resolver-dns-firewall-to-detect-malicious-domains/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Configuring Amazon Application Recovery Controller zonal autoshift observer notifications",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-amazon-application-recovery-controller-zonal-autoshift-observer-notifications/"
-    },
-    {
-        "title": "Introducing Cross-Region Connectivity for AWS PrivateLink",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-region-connectivity-for-aws-privatelink/"
-    },
-    {
-        "title": "Encrypt DNS queries using DNS-over-HTTPS (DoH) with Amazon Route 53 Resolver Endpoints",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/encrypt-dns-queries-using-dns-over-https-doh-with-amazon-route-53-resolver-endpoints/"
     }
 ]
