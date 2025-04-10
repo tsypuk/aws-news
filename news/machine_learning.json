@@ -1,5 +1,17 @@
 [
     {
+        "title": "Implement human-in-the-loop confirmation with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-human-in-the-loop-confirmation-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Boost team productivity with Amazon Q Business Insights",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-team-productivity-with-amazon-q-business-insights/"
+    },
+    {
+        "title": "Multi-LLM routing strategies for generative AI applications on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-llm-routing-strategies-for-generative-ai-applications-on-aws/"
+    },
+    {
         "title": "How iFood built a platform to run hundreds of machine learning models with Amazon SageMaker Inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-ifood-built-a-platform-to-run-hundreds-of-machine-learning-models-with-amazon-sagemaker-inference/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Harness the power of MCP servers with Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Generate compliant content with Amazon Bedrock and ConstitutionalChain",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-compliant-content-with-amazon-bedrock-and-constitutionalchain/"
-    },
-    {
-        "title": "Minimize generative AI hallucinations with Amazon Bedrock Automated Reasoning checks",
-        "link": "https://aws.amazon.com/blogs/machine-learning/minimize-generative-ai-hallucinations-with-amazon-bedrock-automated-reasoning-checks/"
-    },
-    {
-        "title": "AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-app-studio-introduces-a-prebuilt-solutions-catalog-and-cross-instance-import-and-export/"
     }
 ]

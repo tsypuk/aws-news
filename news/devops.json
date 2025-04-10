@@ -1,5 +1,9 @@
 [
     {
+        "title": "Speaking Your Language: Expanded language support in Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-global-capabilities/"
+    },
+    {
         "title": "Using the Amazon Q Developer command line transformation tool",
         "link": "https://aws.amazon.com/blogs/devops/using-amazon-q-developer-cli-for-custom-java-application-transformations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline Development with New Amazon Q Developer Agents",
         "link": "https://aws.amazon.com/blogs/devops/streamline-development-with-new-amazon-q-developer-agents/"
-    },
-    {
-        "title": "Deploying and Managing Application Configurations using AWS AppConfig",
-        "link": "https://aws.amazon.com/blogs/devops/deploying-and-managing-application-configurations-using-aws-appconfig/"
     }
 ]

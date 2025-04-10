@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize Amazon VPC Flow Logs analysis with Cribl Stream sampling",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/optimize-amazon-vpc-flow-logs-analysis-with-cribl-stream-sampling/"
+    },
+    {
         "title": "Deploy Amazon EKS advanced data protection using NetApp Trident AWS Marketplace EKS add-on and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/deploy-amazon-eks-advanced-data-protection-using-netapp-trident-aws-marketplace-eks-add-on-and-amazon-fsx-for-netapp-ontap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Know before you go: AWS re:Invent 2024 for AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/know-before-you-go-aws-reinvent-2024-for-aws-marketplace/"
-    },
-    {
-        "title": "Expanded purchase order functionality in AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/expanded-purchase-order-functionality-in-aws-marketplace/"
     }
 ]
