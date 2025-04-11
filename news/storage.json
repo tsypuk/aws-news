@@ -1,5 +1,9 @@
 [
     {
+        "title": "Prime Video improved stream analytics performance with Amazon S3 Express One Zone",
+        "link": "https://aws.amazon.com/blogs/storage/prime-video-improved-stream-analytics-performance-with-amazon-s3-express-one-zone/"
+    },
+    {
         "title": "Real-time monitoring of AWS Elastic Disaster Recovery using Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/storage/real-time-monitoring-of-elastic-disaster-recovery-using-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Archiving relational databases to Amazon S3 Glacier storage classes for cost optimization",
         "link": "https://aws.amazon.com/blogs/storage/archiving-relational-databases-to-amazon-s3-glacier-storage-classes-for-cost-optimization/"
-    },
-    {
-        "title": "Cost-optimized log aggregation and archival in Amazon S3 using s3tar",
-        "link": "https://aws.amazon.com/blogs/storage/cost-optimized-log-aggregation-and-archival-in-amazon-s3-using-s3tar/"
     }
 ]

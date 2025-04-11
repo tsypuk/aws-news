@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Heroku migrated hundreds of thousands of self-managed PostgreSQL databases to Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/how-heroku-migrated-hundreds-of-thousands-of-self-managed-postgresql-databases-to-amazon-aurora/"
+    },
+    {
         "title": "Using generative AI and Amazon Bedrock to generate SPARQL queries to discover protein functional information with UniProtKB and Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/using-generative-ai-and-amazon-bedrock-to-generate-sparql-queries-to-discover-protein-functional-information-with-uniprotkb-and-amazon-neptune/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate Amazon RDS credential rotation with AWS Secrets Manager for primary instances with read replicas",
         "link": "https://aws.amazon.com/blogs/database/automate-amazon-rds-credential-rotation-with-aws-secrets-manager-for-primary-instances-with-read-replicas/"
-    },
-    {
-        "title": "Customer-managed process for configuring Kerberos authentication on an Amazon RDS for SQL Server DB instance, joined to a self-managed Active Directory",
-        "link": "https://aws.amazon.com/blogs/database/customer-managed-process-for-configuring-kerberos-authentication-on-an-amazon-rds-for-sql-server-db-instance-joined-to-a-self-managed-active-directory/"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Reduce ML training costs with Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-ml-training-costs-with-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Model customization, RAG, or both: A case study with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/model-customization-rag-or-both-a-case-study-with-amazon-nova/"
+    },
+    {
+        "title": "Generate user-personalized communication with Amazon Personalize and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-user-personalized-communication-with-amazon-personalize-and-amazon-bedrock/"
+    },
+    {
+        "title": "Automating regulatory compliance: A multi-agent solution using Amazon Bedrock and CrewAI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automating-regulatory-compliance-a-multi-agent-solution-using-amazon-bedrock-and-crewai/"
+    },
+    {
+        "title": "Pixtral Large is now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pixtral-large-is-now-available-in-amazon-bedrock/"
+    },
+    {
         "title": "Implement human-in-the-loop confirmation with Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-human-in-the-loop-confirmation-with-amazon-bedrock-agents/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Shaping the future: OMRON\u2019s data-driven journey with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/shaping-the-future-omrons-data-driven-journey-with-aws/"
-    },
-    {
-        "title": "AI Workforce: using AI and Drones to simplify infrastructure inspections",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-workforce-using-ai-and-drones-to-simplify-infrastructure-inspections/"
-    },
-    {
-        "title": "Ray jobs on Amazon SageMaker HyperPod: scalable and resilient distributed AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ray-jobs-on-amazon-sagemaker-hyperpod-scalable-and-resilient-distributed-ai/"
-    },
-    {
-        "title": "Using Large Language Models on Amazon Bedrock for multi-step task execution",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-large-language-models-on-amazon-bedrock-for-multi-step-task-execution/"
-    },
-    {
-        "title": "Introducing AWS MCP Servers for code assistants (Part 1)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/"
-    },
-    {
-        "title": "Harness the power of MCP servers with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/"
     }
 ]

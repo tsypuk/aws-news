@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS recognized as a leader in 2025 Forrester Wave for Contact Center as a Service with Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/forresterwave2025/"
+    },
+    {
         "title": "Insights and learnings from Amazon Q in Connect at NatWest",
         "link": "https://aws.amazon.com/blogs/contact-center/insights-and-learning-of-amazon-q-in-connect-at-natwest/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementation of DevSecOps Ecosystem for Amazon Connect at NatWest",
         "link": "https://aws.amazon.com/blogs/contact-center/implementation-of-devsecops-ecosystem-for-amazon-connect-at-natwest/"
-    },
-    {
-        "title": "Best practices for handling email messages within a flow",
-        "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-handling-email-messages-within-a-flow/"
     }
 ]
