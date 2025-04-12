@@ -1,5 +1,29 @@
 [
     {
+        "title": "Scaling AWS Fault Injection Service Across Your Organization And Regions",
+        "link": "https://aws.amazon.com/blogs/mt/scaling-aws-fault-injection-service-across-your-organization-and-regions/"
+    },
+    {
+        "title": "Scaling AWS Fault Injection Service Across Your Organization And Accounts",
+        "link": "https://aws.amazon.com/blogs/mt/scaling-aws-fault-injection-service-across-your-organization-and-accounts/"
+    },
+    {
+        "title": "Scaling AWS Fault Injection Service Across Your Organization Using Account Controls",
+        "link": "https://aws.amazon.com/blogs/mt/scaling-aws-fault-injection-service-across-your-organization-using-account-controls/"
+    },
+    {
+        "title": "New AWS Fault Injection Service recovery action for zonal autoshift",
+        "link": "https://aws.amazon.com/blogs/mt/testing-application-recovery-controller-zonal-autoshift-made-easy-with-aws-fault-injection-service/"
+    },
+    {
+        "title": "Analyze Azure Audit Logs with CloudTrail Lake",
+        "link": "https://aws.amazon.com/blogs/mt/analyze-azure-audit-logs-with-cloudtrail-lake/"
+    },
+    {
+        "title": "Unlock the Power of AWS Config: Centralized Compliance and Resource Management",
+        "link": "https://aws.amazon.com/blogs/mt/unlock-the-power-of-aws-config-centralized-compliance-and-resource-management/"
+    },
+    {
         "title": "Simplify AWS Cost Data Analysis with Amazon Q in QuickSight",
         "link": "https://aws.amazon.com/blogs/mt/simplify-aws-cost-data-analysis-with-amazon-q-and-quicksight/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Resolve your AWS incidents faster by automatically engaging AWS Managed Services",
         "link": "https://aws.amazon.com/blogs/mt/resolve-your-aws-incidents-faster-by-automatically-engaging-aws-managed-services/"
-    },
-    {
-        "title": "Limit interactive session commands by groups of users using AWS Systems Manager",
-        "link": "https://aws.amazon.com/blogs/mt/limit-ssm-interactive-session-commands-by-users/"
-    },
-    {
-        "title": "Get Operational Insights Fast with AWS Health and Amazon Q",
-        "link": "https://aws.amazon.com/blogs/mt/get-operational-insights-fast-with-aws-health-and-amazon-q/"
-    },
-    {
-        "title": "Enforcing enterprise-wide preventive controls with AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/mt/enforcing-enterprise-wide-preventive-controls-with-aws-organizations/"
-    },
-    {
-        "title": "Implementing recommended experiments using the AWS Resilience Hub console",
-        "link": "https://aws.amazon.com/blogs/mt/implementing-recommended-experiments-using-the-aws-resilience-hub-console/"
-    },
-    {
-        "title": "Implementing recommended experiments using AWS Resilience Hub APIs",
-        "link": "https://aws.amazon.com/blogs/mt/implementing-recommended-experiments-using-aws-resilience-hub-apis/"
-    },
-    {
-        "title": "Automate Systems Manager patching reports via email and Slack notifications in an AWS Organization",
-        "link": "https://aws.amazon.com/blogs/mt/automate-systems-manager-patching-reports-via-email-and-slack-notifications-in-an-aws-organization/"
     }
 ]

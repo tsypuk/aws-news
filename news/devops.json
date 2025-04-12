@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying Code Documentation with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/simplifying-code-documentation-with-amazon-q-developer/"
+    },
+    {
         "title": "Announcing inline chat in Eclipse with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/announcing-inline-chat-in-eclipse-with-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing CDK Garbage Collection",
         "link": "https://aws.amazon.com/blogs/devops/announcing-cdk-garbage-collection/"
-    },
-    {
-        "title": "AWS CloudFormation: 2024 Year in Review",
-        "link": "https://aws.amazon.com/blogs/devops/aws-cloudformation-2024-year-in-review/"
     }
 ]

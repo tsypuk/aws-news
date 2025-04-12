@@ -1,5 +1,9 @@
 [
     {
+        "title": "Revolutionizing SAP Application Access Security Beyond Traditional VPNs",
+        "link": "https://aws.amazon.com/blogs/awsforsap/revolutionizing-sap-application-access-security-beyond-traditional-vpns/"
+    },
+    {
         "title": "Enhance resiliency and data protection for SAP HANA high-availability deployments with Amazon Backup for SAP HANA",
         "link": "https://aws.amazon.com/blogs/awsforsap/enhance-resiliency-and-data-protection-for-sap-hana-high-availability-deployments-with-amazon-backup-for-sap-hana/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve your SAP business process resilience with Amazon CloudWatch Application Insights",
         "link": "https://aws.amazon.com/blogs/awsforsap/improve-your-sap-business-process-resilience-with-amazon-cloudwatch-application-insights/"
-    },
-    {
-        "title": "Enhance your SAP Observability using Amazon Managed Prometheus and Grafana",
-        "link": "https://aws.amazon.com/blogs/awsforsap/enhance-your-sap-observability-using-amazon-managed-prometheus-and-amazon-managed-grafana/"
     }
 ]
