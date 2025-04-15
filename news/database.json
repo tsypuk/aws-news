@@ -1,5 +1,9 @@
 [
     {
+        "title": "Challenges and strategies of migrating a high-throughput relational database",
+        "link": "https://aws.amazon.com/blogs/database/challenges-and-strategies-of-migrating-a-high-throughput-relational-database/"
+    },
+    {
         "title": "How Heroku migrated hundreds of thousands of self-managed PostgreSQL databases to Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/how-heroku-migrated-hundreds-of-thousands-of-self-managed-postgresql-databases-to-amazon-aurora/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Long-term backup options for Amazon RDS and Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/long-term-backup-options-for-amazon-rds-and-amazon-aurora/"
-    },
-    {
-        "title": "Automate Amazon RDS credential rotation with AWS Secrets Manager for primary instances with read replicas",
-        "link": "https://aws.amazon.com/blogs/database/automate-amazon-rds-credential-rotation-with-aws-secrets-manager-for-primary-instances-with-read-replicas/"
     }
 ]

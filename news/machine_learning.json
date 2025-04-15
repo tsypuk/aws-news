@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build multi-agent systems with LangGraph and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-systems-with-langgraph-and-amazon-bedrock/"
+    },
+    {
+        "title": "Dynamic text-to-SQL for enterprise workloads with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-text-to-sql-for-enterprise-workloads-with-amazon-bedrock-agents/"
+    },
+    {
         "title": "Building an AIOps chatbot with Amazon Q Business custom plugins",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-an-aiops-chatbot-with-amazon-q-business-custom-plugins/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Prompting for the best price-performance",
         "link": "https://aws.amazon.com/blogs/machine-learning/prompting-for-the-best-price-performance/"
-    },
-    {
-        "title": "Evaluate models or RAG systems using Amazon Bedrock Evaluations \u2013 Now generally available",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-models-or-rag-systems-using-amazon-bedrock-evaluations-now-generally-available/"
-    },
-    {
-        "title": "Fine-tune large language models with reinforcement learning from human or AI feedback",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-large-language-models-with-reinforcement-learning-from-human-or-ai-feedback/"
     }
 ]
