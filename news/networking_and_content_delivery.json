@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying Egress Inspection with AWS Cloud WAN Service Insertion for Greenfield Deployments",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplifying-egress-inspection-with-aws-cloud-wan-service-insertion-for-greenfield-deployments/"
+    },
+    {
         "title": "Exploring Data Transfer Costs for AWS Network Load Balancers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-data-transfer-costs-for-aws-network-load-balancers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyzing AWS Transit Gateway Data Processing charges with cost allocation tags",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/analyzing-aws-transit-gateway-data-processing-charges-with-cost-allocation-tags/"
-    },
-    {
-        "title": "Configuring Amazon Application Recovery Controller zonal autoshift observer notifications",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-amazon-application-recovery-controller-zonal-autoshift-observer-notifications/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Characteristics of financial services HPC workloads in the cloud",
+        "link": "https://aws.amazon.com/blogs/hpc/characteristics-of-financial-services-hpc-workloads-in-the-cloud/"
+    },
+    {
         "title": "The frugal HPC architect \u2013 ensuring effective FinOps for HPC workloads at scale",
         "link": "https://aws.amazon.com/blogs/hpc/the-frugal-hpc-architect-ensuring-effective-finops-for-hpc-workloads-at-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlock large-scale autonomous driving simulations on AWS with IPG",
         "link": "https://aws.amazon.com/blogs/hpc/unlock-large-scale-autonomous-driving-simulations-on-aws-with-ipg/"
-    },
-    {
-        "title": "How BAM supercharged large scale research with AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/how-bam-supercharged-large-scale-research-with-aws-batch/"
     }
 ]

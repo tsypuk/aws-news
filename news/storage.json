@@ -1,5 +1,9 @@
 [
     {
+        "title": "Validate recovery readiness with AWS Backup restore testing",
+        "link": "https://aws.amazon.com/blogs/storage/validate-recovery-readiness-with-aws-backup-restore-testing/"
+    },
+    {
         "title": "Prime Video improved stream analytics performance with Amazon S3 Express One Zone",
         "link": "https://aws.amazon.com/blogs/storage/prime-video-improved-stream-analytics-performance-with-amazon-s3-express-one-zone/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing data transfers for high throughput life science instruments using AWS DataSync",
         "link": "https://aws.amazon.com/blogs/storage/optimizing-data-transfers-for-high-throughput-life-science-instruments-using-aws-datasync/"
-    },
-    {
-        "title": "Archiving relational databases to Amazon S3 Glacier storage classes for cost optimization",
-        "link": "https://aws.amazon.com/blogs/storage/archiving-relational-databases-to-amazon-s3-glacier-storage-classes-for-cost-optimization/"
     }
 ]

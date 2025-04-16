@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to support OpenID AuthZEN requests with Amazon Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/security/how-to-support-openid-authzen-requests-with-amazon-verified-permissions/"
+    },
+    {
         "title": "Enhanced Network Security Control: Flow Management with AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/enhanced-network-security-control-flow-management-with-aws-network-firewall/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Support Canada\u2019s CCCS PBHVA overlay compliance with the Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/security/support-canadas-cccs-pbhva-overlay-compliance-with-the-landing-zone-accelerator-on-aws/"
-    },
-    {
-        "title": "Four ways to grant cross-account access in AWS",
-        "link": "https://aws.amazon.com/blogs/security/four-ways-to-grant-cross-account-access-in-aws/"
     }
 ]

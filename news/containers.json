@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the Amazon EKS Auto Mode workshop",
+        "link": "https://aws.amazon.com/blogs/containers/introducing-the-amazon-eks-auto-mode-workshop/"
+    },
+    {
         "title": "AWS recognized as Leader in 2024-25 Omdia Universe for Cloud Container Management & Services",
         "link": "https://aws.amazon.com/blogs/containers/aws-recognized-as-leader-in-2024-25-omdia-universe-for-cloud-container-management-services/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Modify Amazon EBS volumes on Kubernetes with Volume Attributes Classes",
         "link": "https://aws.amazon.com/blogs/containers/modify-amazon-ebs-volumes-on-kubernetes-with-volume-attributes-classes/"
-    },
-    {
-        "title": "End of support notifications and enhanced discoverability for Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/end-of-support-notifications-and-enhanced-discoverability-for-amazon-eks/"
     }
 ]

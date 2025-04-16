@@ -1,5 +1,13 @@
 [
     {
+        "title": "Seamless migration: Securely transitioning large IoT fleets to AWS",
+        "link": "https://aws.amazon.com/blogs/iot/seamless-migration-securely-transitioning-large-iot-fleets-to-aws/"
+    },
+    {
+        "title": "AWS IoT Greengrass nucleus lite \u2013 Revolutionizing edge computing on resource-constrained devices",
+        "link": "https://aws.amazon.com/blogs/iot/aws-iot-greengrass-nucleus-lite-revolutionizing-edge-computing-on-resource-constrained-devices/"
+    },
+    {
         "title": "Introducing managed integrations for AWS IoT Device Management (Preview)",
         "link": "https://aws.amazon.com/blogs/iot/introducing-managed-integrations-for-aws-iot-device-management/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Emerging Architecture Patterns for Integrating IoT and generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/iot/emerging-architecture-patterns-for-integrating-iot-and-generative-ai-on-aws/"
-    },
-    {
-        "title": "Improved Utility Asset Management and Maintenance using AWS IoT and GenAI Technologies",
-        "link": "https://aws.amazon.com/blogs/iot/improved-utility-asset-management-and-maintenance-using-aws-iot-and-genai-technologies/"
-    },
-    {
-        "title": "Accelerate AWS IoT SiteWise insights with Edge2Web Power Tools",
-        "link": "https://aws.amazon.com/blogs/iot/accelerate-aws-iot-sitewise-insights-with-edge2web-power-tools/"
     }
 ]
