@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automate Amazon EKS troubleshooting using an Amazon Bedrock agentic workflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-eks-troubleshooting-using-an-amazon-bedrock-agentic-workflow/"
+    },
+    {
+        "title": "Host concurrent LLMs with LoRAX",
+        "link": "https://aws.amazon.com/blogs/machine-learning/host-concurrent-llms-with-lorax/"
+    },
+    {
+        "title": "Build a computer vision-based asset inventory application with low or no training",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-based-asset-inventory-application-with-low-or-no-training/"
+    },
+    {
         "title": "Clario enhances the quality of the clinical trial documentation process with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/clario-enhances-the-quality-of-the-clinical-trial-documentation-process-with-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How iFood built a platform to run hundreds of machine learning models with Amazon SageMaker Inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-ifood-built-a-platform-to-run-hundreds-of-machine-learning-models-with-amazon-sagemaker-inference/"
-    },
-    {
-        "title": "Build an enterprise synthetic data strategy using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-synthetic-data-strategy-using-amazon-bedrock/"
-    },
-    {
-        "title": "Llama 4 family of models from Meta are now available in SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/llama-4-family-of-models-from-meta-are-now-available-in-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Multi-tenancy in RAG applications in a single Amazon Bedrock knowledge base with metadata filtering",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenancy-in-rag-applications-in-a-single-amazon-bedrock-knowledge-base-with-metadata-filtering/"
     }
 ]

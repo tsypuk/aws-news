@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrate your Spring Boot application with Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/integrate-your-spring-boot-application-with-amazon-elasticache/"
+    },
+    {
         "title": "How Amazon Finance Automation built an operational data store with AWS purpose built databases to power critical finance applications",
         "link": "https://aws.amazon.com/blogs/database/how-amazon-finance-automation-built-an-operational-data-store-with-aws-purpose-built-databases-to-power-critical-finance-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build resilient Oracle Database workloads on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/database/build-resilient-oracle-database-workloads-on-amazon-ec2/"
-    },
-    {
-        "title": "Demystifying Amazon DynamoDB on-demand capacity mode",
-        "link": "https://aws.amazon.com/blogs/database/demystifying-amazon-dynamodb-on-demand-capacity-mode/"
     }
 ]

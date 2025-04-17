@@ -1,5 +1,9 @@
 [
     {
+        "title": "Tagging governance using AWS Organizations in the public sector",
+        "link": "https://aws.amazon.com/blogs/publicsector/tagging-governance-using-aws-organizations-in-the-public-sector/"
+    },
+    {
         "title": "How AWS IoT services address NIST 800-183: Networks of \u2018Things\u2019",
         "link": "https://aws.amazon.com/blogs/publicsector/how-aws-iot-services-address-nist-800-183-networks-of-things/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "UTHealth Houston\u2019s iDFax revolutionizes medical fax management with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/uthealth-houstons-idfax-revolutionizes-medical-fax-management-with-amazon-bedrock/"
-    },
-    {
-        "title": "Building an AI coding assistant on AWS: A guide for federal agencies",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-an-ai-coding-assistant-on-aws-a-guide-for-federal-agencies/"
     }
 ]
