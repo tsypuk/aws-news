@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate your analytics with Amazon S3 Tables and Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-analytics-with-amazon-s3-tables-and-amazon-sagemaker-lakehouse/"
+    },
+    {
         "title": "Build unified pipelines spanning multiple AWS accounts and Regions with Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/build-unified-pipelines-spanning-multiple-aws-accounts-and-regions-with-amazon-mwaa/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy real-time analytics with StarTree for managed Apache Pinot on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/deploy-real-time-analytics-with-startree-for-managed-apache-pinot-on-aws/"
-    },
-    {
-        "title": "Develop and test AWS Glue 5.0 jobs locally using a Docker container",
-        "link": "https://aws.amazon.com/blogs/big-data/develop-and-test-aws-glue-5-0-jobs-locally-using-a-docker-container/"
     }
 ]

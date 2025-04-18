@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing AWS Security Reference Architecture Code Examples for Generative AI",
+        "link": "https://aws.amazon.com/blogs/security/announcing-aws-security-reference-architecture-code-examples-for-generative-ai/"
+    },
+    {
+        "title": "How to help prevent hotlinking using referer checking, AWS WAF, and Amazon CloudFront",
+        "link": "https://aws.amazon.com/blogs/security/how-to-prevent-hotlinking-by-using-aws-waf-amazon-cloudfront-and-referer-checking/"
+    },
+    {
         "title": "How to support OpenID AuthZEN requests with Amazon Verified Permissions",
         "link": "https://aws.amazon.com/blogs/security/how-to-support-openid-authzen-requests-with-amazon-verified-permissions/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS completes the annual Dubai Electronic Security Centre certification audit to operate as a Tier 1 cloud service provider in the Emirate of Dubai",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-dubai-electronic-security-centre-certification-audit-to-operate-as-a-tier-1-cloud-service-provider-in-the-emirate-of-dubai-2/"
-    },
-    {
-        "title": "2025 ISO and CSA STAR certificates now available with four additional services",
-        "link": "https://aws.amazon.com/blogs/security/2025-iso-and-csa-star-certificates-now-available-with-four-additional-services/"
-    },
-    {
-        "title": "Support Canada\u2019s CCCS PBHVA overlay compliance with the Landing Zone Accelerator on AWS",
-        "link": "https://aws.amazon.com/blogs/security/support-canadas-cccs-pbhva-overlay-compliance-with-the-landing-zone-accelerator-on-aws/"
     }
 ]

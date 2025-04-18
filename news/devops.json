@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing General Availability of GitLab Duo with Amazon Q",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-general-availability-of-gitlab-duo-with-amazon-q/"
+    },
+    {
         "title": "Accelerate large-scale modernization of .NET, mainframe, and VMware workloads using Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-large-scale-modernization-of-net-mainframe-and-vmware-workloads-using-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A lightning fast, new agentic coding experience within the Amazon Q Developer CLI",
         "link": "https://aws.amazon.com/blogs/devops/introducing-the-enhanced-command-line-interface-in-amazon-q-developer/"
-    },
-    {
-        "title": "Best practices for rapidly deploying Landing Zone Accelerator on AWS",
-        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-rapidly-deploying-landing-zone-accelerator-on-aws/"
     }
 ]
