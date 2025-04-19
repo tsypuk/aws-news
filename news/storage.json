@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protecting data using Autonomous Ransomware Protection on Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/protecting-data-using-autonomous-ransomware-protection-on-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Migrating files to FSx for Windows File Server using Robocopy",
         "link": "https://aws.amazon.com/blogs/storage/migrating-files-to-fsx-for-windows-file-server-using-robocopy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing resource-level permission for creating an Amazon EBS volume from a snapshot",
         "link": "https://aws.amazon.com/blogs/storage/enhancing-resource-level-permission-for-creating-an-amazon-ebs-volume-from-a-snapshot/"
-    },
-    {
-        "title": "Design patterns for multi-tenant access control on Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/design-patterns-for-multi-tenant-access-control-on-amazon-s3/"
     }
 ]

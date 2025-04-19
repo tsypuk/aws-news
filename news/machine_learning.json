@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a FinOps agent using Amazon Bedrock with multi-agent capability and Amazon Nova as the foundation model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-with-multi-agent-capability-and-amazon-nova-as-the-foundation-model/"
+    },
+    {
+        "title": "Stream ingest data from Kafka to Amazon Bedrock Knowledge Bases using custom connectors",
+        "link": "https://aws.amazon.com/blogs/machine-learning/stream-ingest-data-from-kafka-to-amazon-bedrock-knowledge-bases-using-custom-connectors/"
+    },
+    {
         "title": "Add Zoom as a data accessor to your Amazon Q index",
         "link": "https://aws.amazon.com/blogs/machine-learning/add-zoom-as-a-data-accessor-to-your-amazon-q-index/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Generate user-personalized communication with Amazon Personalize and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/generate-user-personalized-communication-with-amazon-personalize-and-amazon-bedrock/"
-    },
-    {
-        "title": "Automating regulatory compliance: A multi-agent solution using Amazon Bedrock and CrewAI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automating-regulatory-compliance-a-multi-agent-solution-using-amazon-bedrock-and-crewai/"
-    },
-    {
-        "title": "Pixtral Large is now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pixtral-large-is-now-available-in-amazon-bedrock/"
     }
 ]

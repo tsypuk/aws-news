@@ -1,5 +1,13 @@
 [
     {
+        "title": "Powering a Generative AI Platform Using Amazon DocumentDB with tresle.ai",
+        "link": "https://aws.amazon.com/blogs/apn/powering-a-generative-ai-platform-using-amazon-documentdb-with-tresle-ai/"
+    },
+    {
+        "title": "Accelerate Cloud Transformation using Hyper-Automation and Zero-Code Migrations with Concierto Migrate and AWS",
+        "link": "https://aws.amazon.com/blogs/apn/accelerate-cloud-transformation-using-hyper-automation-and-zero-code-migrations-with-concierto-migrate-and-aws/"
+    },
+    {
         "title": "Build Production-Ready Generative AI Applications with Orkes and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/build-production-ready-generative-ai-applications-with-orkes-and-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building Next-Gen AI Education through GoML and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/building-next-gen-ai-education-through-goml-and-amazon-bedrock/"
-    },
-    {
-        "title": "Unlocking the power of Splunk with Amazon Bedrock \u2013 Build AI assistant using agents",
-        "link": "https://aws.amazon.com/blogs/apn/unlocking-the-power-of-splunk-with-amazon-bedrock-an-agentic-ai-approach-to-build-customized-splunk-assistants-using-bedrock-agents/"
-    },
-    {
-        "title": "Generative AI in the Contact Center: Enabling Super Agents, Dynamic Supervisors, and Empowered Customers",
-        "link": "https://aws.amazon.com/blogs/apn/generative-ai-in-the-contact-center-enabling-super-agents-dynamic-supervisors-and-empowered-customers/"
     }
 ]

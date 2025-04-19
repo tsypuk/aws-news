@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify ALB\u2019s public IP address assignment with VPC IPAM",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-albs-public-ip-address-assignment-with-vpc-ipam/"
+    },
+    {
         "title": "Simplifying Egress Inspection with AWS Cloud WAN Service Insertion for Greenfield Deployments",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplifying-egress-inspection-with-aws-cloud-wan-service-insertion-for-greenfield-deployments/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Northwestern Mutual optimized and improved efficiency with Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-northwestern-mutual-optimized-and-improved-efficiency-with-amazon-route-53-profiles/"
-    },
-    {
-        "title": "Analyzing AWS Transit Gateway Data Processing charges with cost allocation tags",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/analyzing-aws-transit-gateway-data-processing-charges-with-cost-allocation-tags/"
     }
 ]
