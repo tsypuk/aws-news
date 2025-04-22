@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon Bedrock Prompt Optimization Drives LLM Applications Innovation for Yuewen Group",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-optimization-drives-llm-applications-innovation-for-yuewen-group/"
+    },
+    {
+        "title": "Build a location-aware agent using Amazon Bedrock Agents and Foursquare APIs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-location-aware-agent-using-amazon-bedrock-agents-and-foursquare-apis/"
+    },
+    {
+        "title": "Build an automated generative AI solution evaluation pipeline with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-automated-generative-ai-solution-evaluation-pipeline-with-amazon-nova/"
+    },
+    {
         "title": "Build a FinOps agent using Amazon Bedrock with multi-agent capability and Amazon Nova as the foundation model",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-with-multi-agent-capability-and-amazon-nova-as-the-foundation-model/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Racing beyond DeepRacer: Debut of the AWS LLM League",
         "link": "https://aws.amazon.com/blogs/machine-learning/racing-beyond-deepracer-debut-of-the-aws-llm-league/"
-    },
-    {
-        "title": "Reduce ML training costs with Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-ml-training-costs-with-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Model customization, RAG, or both: A case study with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/model-customization-rag-or-both-a-case-study-with-amazon-nova/"
-    },
-    {
-        "title": "Generate user-personalized communication with Amazon Personalize and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-user-personalized-communication-with-amazon-personalize-and-amazon-bedrock/"
     }
 ]

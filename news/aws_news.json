@@ -1,5 +1,13 @@
 [
     {
+        "title": "New Amazon EC2 Graviton4-based instances with NVMe SSD storage",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Upcoming AWS Summits, Amazon Q Developer, Amazon CloudFront updates, and more (April 21, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-upcoming-aws-summits-amazon-q-developer-amazon-cloudfront-updates-and-more-april-21-2025/"
+    },
+    {
         "title": "AWS Weekly Roundup: Amazon S3 Express One Zone price cuts, Pixtral Large on Amazon Bedrock, Amazon Nova Sonic, and more (April 14, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-review-amazon-s3-express-one-zone-price-cuts-pixtral-large-on-amazon-bedrock-amazon-nova-sonic-and-more-april-14-2025/"
     },
@@ -60,7 +68,7 @@
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-omdia-recognition-amazon-bedrock-rag-evaluation-international-womens-day-events-and-more-march-24-2025/"
     },
     {
-        "title": "AWS Weekly Roundup: AWS Pi Day, Amazon Bedrock multi-agent collaboration, Amazon SageMaker Unified Studio, Amazon S3 Tables, and more",
+        "title": "AWS Weekly Roundup: AWS Pi Day, Amazon Bedrock multi-agent collaboration, Amazon SageMaker Unified Studio, Amazon S3 Tables, and more (March 17, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-pi-day-amazon-bedrock-multi-agent-collaboration-amazon-sagemaker-unified-studio-amazon-s3-tables-and-more/"
     },
     {
@@ -70,13 +78,5 @@
     {
         "title": "Collaborate and build faster with Amazon SageMaker Unified Studio, now generally available",
         "link": "https://aws.amazon.com/blogs/aws/collaborate-and-build-faster-with-amazon-sagemaker-unified-studio-now-generally-available/"
-    },
-    {
-        "title": "Amazon S3 Tables integration with Amazon SageMaker Lakehouse is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-integration-with-amazon-sagemaker-lakehouse-is-now-generally-available/"
-    },
-    {
-        "title": "DeepSeek-R1 now available as a fully managed serverless model in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/deepseek-r1-now-available-as-a-fully-managed-serverless-model-in-amazon-bedrock/"
     }
 ]

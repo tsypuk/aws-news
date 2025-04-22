@@ -1,5 +1,17 @@
 [
     {
+        "title": "Migrate SQL Server user databases from Amazon EC2 to Amazon RDS Custom using Amazon EBS snapshots",
+        "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-user-databases-from-amazon-ec2-to-amazon-rds-custom-using-amazon-ebs-snapshots/"
+    },
+    {
+        "title": "Choose the right throughput strategy for Amazon DynamoDB applications",
+        "link": "https://aws.amazon.com/blogs/database/choose-the-right-throughput-strategy-for-amazon-dynamodb-applications/"
+    },
+    {
+        "title": "Best practices to handle AWS DMS tasks during PostgreSQL upgrades",
+        "link": "https://aws.amazon.com/blogs/database/best-practices-to-handle-aws-dms-tasks-during-postgresql-upgrades/"
+    },
+    {
         "title": "Integrate your Spring Boot application with Amazon ElastiCache",
         "link": "https://aws.amazon.com/blogs/database/integrate-your-spring-boot-application-with-amazon-elasticache/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Grouping database tables in AWS DMS tasks for Oracle source engine",
         "link": "https://aws.amazon.com/blogs/database/grouping-database-tables-in-aws-dms-tasks-for-oracle-source-engine/"
-    },
-    {
-        "title": "Amazon DocumentDB Quick Start: Zero Setup with AWS CloudShell",
-        "link": "https://aws.amazon.com/blogs/database/amazon-documentdb-quick-start-zero-setup-with-aws-cloudshell/"
-    },
-    {
-        "title": "Multiple database support on Amazon RDS for Db2 DB instance",
-        "link": "https://aws.amazon.com/blogs/database/multiple-database-support-on-amazon-rds-for-db2-db-instance/"
-    },
-    {
-        "title": "Build resilient Oracle Database workloads on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/database/build-resilient-oracle-database-workloads-on-amazon-ec2/"
     }
 ]

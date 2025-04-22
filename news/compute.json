@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining trace sampling behavior for AWS Lambda functions with AWS X-Ray",
+        "link": "https://aws.amazon.com/blogs/compute/streamlining-trace-sampling-behavior-for-aws-lambda-functions-with-aws-x-ray/"
+    },
+    {
         "title": "Powering generative AI/ML solutions with AWS Outposts Servers at Edge locations",
         "link": "https://aws.amazon.com/blogs/compute/powering-generative-ai-ml-solutions-with-aws-outposts-servers-at-edge-locations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless ICYMI Q4 2024",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2024/"
-    },
-    {
-        "title": "Implementing backup for workloads running on AWS Outposts servers",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-backup-for-workloads-running-on-aws-outposts-servers/"
     }
 ]

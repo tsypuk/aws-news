@@ -1,5 +1,9 @@
 [
     {
+        "title": "Read and write Apache Iceberg tables using AWS Lake Formation hybrid access mode",
+        "link": "https://aws.amazon.com/blogs/big-data/read-and-write-apache-iceberg-tables-using-aws-lake-formation-hybrid-access-mode/"
+    },
+    {
         "title": "Accelerate your analytics with Amazon S3 Tables and Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-analytics-with-amazon-s3-tables-and-amazon-sagemaker-lakehouse/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing end-of-support for Amazon Kinesis Client Library 1.x and Amazon Kinesis Producer Library 0.x effective January 30, 2026",
         "link": "https://aws.amazon.com/blogs/big-data/announcing-end-of-support-for-amazon-kinesis-client-library-1-x-and-amazon-kinesis-producer-library-0-x-effective-january-30-2026/"
-    },
-    {
-        "title": "Deploy real-time analytics with StarTree for managed Apache Pinot on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/deploy-real-time-analytics-with-startree-for-managed-apache-pinot-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Empower your teams with modern architecture governance",
+        "link": "https://aws.amazon.com/blogs/architecture/empower-your-teams-with-modern-architecture-governance/"
+    },
+    {
         "title": "How Smartsheet reduced latency and optimized costs in their serverless architecture",
         "link": "https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transform lease agreement workflows with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/architecture/transform-lease-agreement-workflows-with-amazon-bedrock/"
-    },
-    {
-        "title": "Efficient satellite imagery supply with AWS Serverless at BASF Digital Farming GmbH",
-        "link": "https://aws.amazon.com/blogs/architecture/efficient-satellite-imagery-supply-with-aws-serverless-at-basf-digital-farming-gmbh/"
     }
 ]
