@@ -1,5 +1,21 @@
 [
     {
+        "title": "Supercharge your LLM performance with Amazon SageMaker Large Model Inference container v15",
+        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-llm-performance-with-amazon-sagemaker-large-model-inference-container-v15/"
+    },
+    {
+        "title": "Accuracy evaluation framework for Amazon Q Business \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accuracy-evaluation-framework-for-amazon-q-business-part-2/"
+    },
+    {
+        "title": "Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/"
+    },
+    {
+        "title": "How Infosys improved accessibility for Event Knowledge using Amazon Nova Pro, Amazon Bedrock and Amazon Elemental Media Services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-improved-accessibility-for-event-knowledge-using-amazon-nova-pro-amazon-bedrock-and-amazon-elemental-media-services/"
+    },
+    {
         "title": "Amazon Bedrock Prompt Optimization Drives LLM Applications Innovation for Yuewen Group",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-optimization-drives-llm-applications-innovation-for-yuewen-group/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build multi-agent systems with LangGraph and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-systems-with-langgraph-and-amazon-bedrock/"
-    },
-    {
-        "title": "Dynamic text-to-SQL for enterprise workloads with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/dynamic-text-to-sql-for-enterprise-workloads-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Building an AIOps chatbot with Amazon Q Business custom plugins",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-aiops-chatbot-with-amazon-q-business-custom-plugins/"
-    },
-    {
-        "title": "How TransPerfect Improved Translation Quality and Efficiency Using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-transperfect-improved-translation-quality-and-efficiency-using-amazon-bedrock/"
-    },
-    {
-        "title": "Racing beyond DeepRacer: Debut of the AWS LLM League",
-        "link": "https://aws.amazon.com/blogs/machine-learning/racing-beyond-deepracer-debut-of-the-aws-llm-league/"
     }
 ]

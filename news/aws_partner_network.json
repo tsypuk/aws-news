@@ -1,5 +1,17 @@
 [
     {
+        "title": "AI-Driven DevOps: Quality and Compliance with Inflectra and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/apn/ai-driven-devops-quality-and-compliance-with-inflectra-and-amazon-bedrock/"
+    },
+    {
+        "title": "SecurityScorecard and AWS Fast Track Supply Chain Risk Management",
+        "link": "https://aws.amazon.com/blogs/apn/securityscorecard-and-aws-fast-track-supply-chain-risk-management/"
+    },
+    {
+        "title": "Event-driven Composable CDP Architecture Powered by Snowplow and Databricks",
+        "link": "https://aws.amazon.com/blogs/apn/event-driven-composable-cdp-architecture-powered-by-snowplow-and-databricks/"
+    },
+    {
         "title": "How to achieve both data privacy and utility on AWS with DataMasque",
         "link": "https://aws.amazon.com/blogs/apn/how-to-achieve-both-data-privacy-and-utility-on-aws-with-datamasque/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Say Hello to 208 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in March",
         "link": "https://aws.amazon.com/blogs/apn/say-hello-to-208-new-aws-competency-service-delivery-service-ready-and-msp-partners-added-in-march/"
-    },
-    {
-        "title": "How to Optimize AWS Cost Intelligence and Security Compliance with Kalos by Stratus10",
-        "link": "https://aws.amazon.com/blogs/apn/how-to-optimize-aws-cost-intelligence-and-security-compliance-with-kalos-by-stratus10/"
-    },
-    {
-        "title": "Application Portfolio Rationalization using Generative AI with NorthBay Solutions",
-        "link": "https://aws.amazon.com/blogs/apn/application-portfolio-rationalization-using-generative-ai-with-northbay-solutions/"
-    },
-    {
-        "title": "Elevating LLM Observability with Amazon Bedrock and Dynatrace",
-        "link": "https://aws.amazon.com/blogs/apn/elevating-llm-observability-with-amazon-bedrock-and-dynatrace/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate data pipeline creation with the new visual interface in Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-pipeline-creation-with-the-new-visual-interface-in-amazon-opensearch-ingestion/"
+    },
+    {
         "title": "Read and write Apache Iceberg tables using AWS Lake Formation hybrid access mode",
         "link": "https://aws.amazon.com/blogs/big-data/read-and-write-apache-iceberg-tables-using-aws-lake-formation-hybrid-access-mode/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate analytics and AI innovation with the next generation of Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-analytics-and-ai-innovation-with-the-next-generation-of-amazon-sagemaker/"
-    },
-    {
-        "title": "Announcing end-of-support for Amazon Kinesis Client Library 1.x and Amazon Kinesis Producer Library 0.x effective January 30, 2026",
-        "link": "https://aws.amazon.com/blogs/big-data/announcing-end-of-support-for-amazon-kinesis-client-library-1-x-and-amazon-kinesis-producer-library-0-x-effective-january-30-2026/"
     }
 ]

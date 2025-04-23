@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EKS introduces node monitoring and auto repair capabilities",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-node-monitoring-and-auto-repair-capabilities/"
+    },
+    {
         "title": "Introducing the Amazon EKS Auto Mode workshop",
         "link": "https://aws.amazon.com/blogs/containers/introducing-the-amazon-eks-auto-mode-workshop/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simplifying IAM Permissions for Amazon EKS Addons with EKS Pod Identity",
         "link": "https://aws.amazon.com/blogs/containers/simplifying-iam-permissions-for-amazon-eks-addons-with-eks-pod-identity/"
-    },
-    {
-        "title": "Modify Amazon EBS volumes on Kubernetes with Volume Attributes Classes",
-        "link": "https://aws.amazon.com/blogs/containers/modify-amazon-ebs-volumes-on-kubernetes-with-volume-attributes-classes/"
     }
 ]
