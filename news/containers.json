@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyzing Java applications performance with async-profiler in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/analyzing-java-applications-performance-async-profiler-amazon-eks/"
+    },
+    {
         "title": "Amazon EKS introduces node monitoring and auto repair capabilities",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-node-monitoring-and-auto-repair-capabilities/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Part 1: Introduction to observing machine learning workloads on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/part-1-introduction-to-observing-machine-learning-workloads-on-amazon-eks/"
-    },
-    {
-        "title": "Simplifying IAM Permissions for Amazon EKS Addons with EKS Pod Identity",
-        "link": "https://aws.amazon.com/blogs/containers/simplifying-iam-permissions-for-amazon-eks-addons-with-eks-pod-identity/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Application Performance Monitoring of AWS Lambda apps with Amazon CloudWatch Application Signals",
+        "link": "https://aws.amazon.com/blogs/mt/apm-of-aws-lambda-with-amazon-cloudwatch-application-signals/"
+    },
+    {
         "title": "Scaling AWS Fault Injection Service Across Your Organization And Regions",
         "link": "https://aws.amazon.com/blogs/mt/scaling-aws-fault-injection-service-across-your-organization-and-regions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Operations transformation to navigate the VMware migration to AWS",
         "link": "https://aws.amazon.com/blogs/mt/operations-transformation-to-navigate-the-vmware-migration-to-aws/"
-    },
-    {
-        "title": "Resolve your AWS incidents faster by automatically engaging AWS Managed Services",
-        "link": "https://aws.amazon.com/blogs/mt/resolve-your-aws-incidents-faster-by-automatically-engaging-aws-managed-services/"
     }
 ]

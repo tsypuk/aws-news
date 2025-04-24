@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build an AI-powered document processing platform with open source NER model and LLM on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-document-processing-platform-with-open-source-ner-model-and-llm-on-amazon-sagemaker/"
+    },
+    {
+        "title": "Protect sensitive data in RAG applications with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/protect-sensitive-data-in-rag-applications-with-amazon-bedrock/"
+    },
+    {
         "title": "Supercharge your LLM performance with Amazon SageMaker Large Model Inference container v15",
         "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-llm-performance-with-amazon-sagemaker-large-model-inference-container-v15/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Optimizing Mixtral 8x7B\u00a0on Amazon SageMaker with AWS Inferentia2",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mixtral-8x7b-on-amazon-sagemaker-with-aws-inferentia2/"
-    },
-    {
-        "title": "Elevate business productivity with Amazon Q and Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-business-productivity-with-amazon-q-and-amazon-connect/"
-    },
-    {
-        "title": "Build multi-agent systems with LangGraph and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-systems-with-langgraph-and-amazon-bedrock/"
     }
 ]

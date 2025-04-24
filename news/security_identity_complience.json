@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to import existing AWS Organizations SCPs and RCPs to CloudFormation",
+        "link": "https://aws.amazon.com/blogs/security/how-to-import-existing-aws-organizations-scps-and-rcps-to-cloudformation/"
+    },
+    {
         "title": "AWS empowers global security culture at Wicked6 Cyber Games",
         "link": "https://aws.amazon.com/blogs/security/aws-empowers-global-security-culture-at-wicked6-cyber-games/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure cloud innovation starts at re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/secure-cloud-innovation-starts-at-reinforce-2025/"
-    },
-    {
-        "title": "Manage authorization within a containerized workload using Amazon Verified Permissions",
-        "link": "https://aws.amazon.com/blogs/security/manage-authorization-within-a-containerized-workload-using-amazon-verified-permissions/"
     }
 ]
