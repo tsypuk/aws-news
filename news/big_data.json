@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon SageMaker Lakehouse now supports attribute-based access control",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-lakehouse-now-supports-attribute-based-access-control/"
+    },
+    {
         "title": "Accelerate data pipeline creation with the new visual interface in Amazon OpenSearch Ingestion",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-pipeline-creation-with-the-new-visual-interface-in-amazon-opensearch-ingestion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Architect fault-tolerant applications with instance fleets on Amazon EMR on EC2",
         "link": "https://aws.amazon.com/blogs/big-data/architect-fault-tolerant-applications-with-instance-fleets-on-amazon-emr-on-ec2/"
-    },
-    {
-        "title": "Accelerate analytics and AI innovation with the next generation of Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-analytics-and-ai-innovation-with-the-next-generation-of-amazon-sagemaker/"
     }
 ]

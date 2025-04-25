@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-1/"
+    },
+    {
         "title": "Harness Amazon Q Business power with Microsoft SharePoint for enterprise search",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-microsoft-sharepoint-for-enterprise-search/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Setting up Windows Server Failover Cluster shared storage on AWS Outposts rack",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/windows-server-failover-cluster-shared-storage-aws-outposts-rack/"
-    },
-    {
-        "title": "Event-driven Active Directory domain join with Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/event-driven-active-directory-domain-join-with-amazon-eventbridge/"
     }
 ]

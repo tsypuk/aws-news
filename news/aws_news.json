@@ -1,5 +1,13 @@
 [
     {
+        "title": "In the works \u2013 New Availability Zone in Maryland for US East (Northern Virginia) Region",
+        "link": "https://aws.amazon.com/blogs/aws/in-the-works-new-availability-zone-in-maryland-for-us-east-n-virginia-region/"
+    },
+    {
+        "title": "Enhance real-time applications with AWS AppSync Events data source integrations",
+        "link": "https://aws.amazon.com/blogs/aws/enhance-real-time-applications-with-aws-appsync-events-data-source-integrations/"
+    },
+    {
         "title": "New Amazon EC2 Graviton4-based instances with NVMe SSD storage",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Weekly Roundup: AWS Pi Day, Amazon Bedrock multi-agent collaboration, Amazon SageMaker Unified Studio, Amazon S3 Tables, and more (March 17, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-pi-day-amazon-bedrock-multi-agent-collaboration-amazon-sagemaker-unified-studio-amazon-s3-tables-and-more/"
-    },
-    {
-        "title": "AWS Pi Day 2025: Data foundation for analytics and AI",
-        "link": "https://aws.amazon.com/blogs/aws/aws-pi-day-data-foundation-for-analytics-and-ai/"
-    },
-    {
-        "title": "Collaborate and build faster with Amazon SageMaker Unified Studio, now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/collaborate-and-build-faster-with-amazon-sagemaker-unified-studio-now-generally-available/"
     }
 ]

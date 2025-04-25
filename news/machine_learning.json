@@ -1,5 +1,17 @@
 [
     {
+        "title": "Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/"
+    },
+    {
+        "title": "AWS Field Experience reduced cost and delivered low latency and high performance with Amazon Nova Lite foundation model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-field-experience-reduced-cost-and-delivered-low-latency-and-high-performance-with-amazon-nova-lite-foundation-model/"
+    },
+    {
+        "title": "Combine keyword and semantic search for text and images using Amazon Bedrock and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/machine-learning/combine-keyword-and-semantic-search-for-text-and-images-using-amazon-bedrock-and-amazon-opensearch-service/"
+    },
+    {
         "title": "Build an AI-powered document processing platform with open source NER model and LLM on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-document-processing-platform-with-open-source-ner-model-and-llm-on-amazon-sagemaker/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Host concurrent LLMs with LoRAX",
         "link": "https://aws.amazon.com/blogs/machine-learning/host-concurrent-llms-with-lorax/"
-    },
-    {
-        "title": "Build a computer vision-based asset inventory application with low or no training",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-based-asset-inventory-application-with-low-or-no-training/"
-    },
-    {
-        "title": "Clario enhances the quality of the clinical trial documentation process with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/clario-enhances-the-quality-of-the-clinical-trial-documentation-process-with-amazon-bedrock/"
-    },
-    {
-        "title": "Optimizing Mixtral 8x7B\u00a0on Amazon SageMaker with AWS Inferentia2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mixtral-8x7b-on-amazon-sagemaker-with-aws-inferentia2/"
     }
 ]
