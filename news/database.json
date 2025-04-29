@@ -1,5 +1,13 @@
 [
     {
+        "title": "Zupee implements Amazon Neptune to detect Wallet transaction anomalies in real time",
+        "link": "https://aws.amazon.com/blogs/database/zupee-implements-amazon-neptune-to-detect-wallet-transaction-anomalies-in-real-time/"
+    },
+    {
+        "title": "How Habby enhanced resiliency and system robustness using Valkey GLIDE and Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/how-habby-enhanced-resiliency-and-system-robustness-using-valkey-glide-and-amazon-elasticache/"
+    },
+    {
         "title": "Migrate SQL Server user databases from Amazon EC2 to Amazon RDS Custom using Amazon EBS snapshots",
         "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-user-databases-from-amazon-ec2-to-amazon-rds-custom-using-amazon-ebs-snapshots/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Improve cost visibility of an Amazon RDS multi-tenant instance with Performance Insights and Amazon Athena",
         "link": "https://aws.amazon.com/blogs/database/improve-cost-visibility-of-an-amazon-rds-multi-tenant-instance-with-performance-insights-and-amazon-athena/"
-    },
-    {
-        "title": "Use pgactive for rolling major version upgrades in Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/use-pgactive-for-rolling-major-version-upgrades-in-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "Grouping database tables in AWS DMS tasks for Oracle source engine",
-        "link": "https://aws.amazon.com/blogs/database/grouping-database-tables-in-aws-dms-tasks-for-oracle-source-engine/"
     }
 ]

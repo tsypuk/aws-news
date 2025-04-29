@@ -1,5 +1,17 @@
 [
     {
+        "title": "Access your existing data and resources through Amazon SageMaker Unified Studio, Part 1: AWS Glue Data Catalog and Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/access-your-existing-data-and-resources-through-amazon-sagemaker-unified-studio-part-1-aws-glue-data-catalog-and-amazon-redshift/"
+    },
+    {
+        "title": "Access your existing data and resources through Amazon SageMaker Unified Studio, Part 2: Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/access-your-existing-data-and-resources-through-amazon-sagemaker-unified-studio-part-2-amazon-s3-amazon-rds-amazon-dynamodb-and-amazon-emr/"
+    },
+    {
+        "title": "Melting the ice \u2014 How Natural Intelligence simplified a data lake migration to Apache Iceberg",
+        "link": "https://aws.amazon.com/blogs/big-data/melting-the-ice-how-natural-intelligence-simplified-a-data-lake-migration-to-apache-iceberg/"
+    },
+    {
         "title": "Amazon SageMaker Lakehouse now supports attribute-based access control",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-lakehouse-now-supports-attribute-based-access-control/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing vector search with UltraWarm in Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-vector-search-with-ultrawarm-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "Build a data lakehouse in a hybrid Environment using Amazon EMR Serverless, Apache DolphinScheduler, and TiDB",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-data-lakehouse-in-a-hybrid-environment-using-amazon-emr-serverless-apache-dolphinscheduler-and-tidb/"
-    },
-    {
-        "title": "Implement Amazon EMR HBase Graceful Scaling",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-amazon-emr-hbase-graceful-scaling/"
-    },
-    {
-        "title": "Architect fault-tolerant applications with instance fleets on Amazon EMR on EC2",
-        "link": "https://aws.amazon.com/blogs/big-data/architect-fault-tolerant-applications-with-instance-fleets-on-amazon-emr-on-ec2/"
     }
 ]

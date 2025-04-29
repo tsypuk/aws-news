@@ -1,5 +1,21 @@
 [
     {
+        "title": "Llama 4 models from Meta now available in Amazon Bedrock serverless",
+        "link": "https://aws.amazon.com/blogs/aws/llama-4-models-from-meta-now-available-in-amazon-bedrock-serverless/"
+    },
+    {
+        "title": "Reduce your operational overhead today with Amazon CloudFront SaaS Manager",
+        "link": "https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/"
+    },
+    {
+        "title": "Writer Palmyra X5 and X4 foundation models are now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/writer-palmyra-x5-and-x4-foundation-models-are-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Amazon Q Developer, AWS Account Management updates, and more (April 28, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-account-management-updates-and-more-april-28-2025/"
+    },
+    {
         "title": "In the works \u2013 New Availability Zone in Maryland for US East (Northern Virginia) Region",
         "link": "https://aws.amazon.com/blogs/aws/in-the-works-new-availability-zone-in-maryland-for-us-east-n-virginia-region/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Accelerating CI with AWS CodeBuild: Parallel test execution now available",
         "link": "https://aws.amazon.com/blogs/aws/accelerating-ci-with-aws-codebuild-parallel-test-execution-now-available/"
-    },
-    {
-        "title": "Firewall support for AWS Amplify hosted sites",
-        "link": "https://aws.amazon.com/blogs/aws/firewall-support-for-aws-amplify-hosted-sites/"
-    },
-    {
-        "title": "Detailed geographic information for all AWS Regions and Availability Zones is now available",
-        "link": "https://aws.amazon.com/blogs/aws/now-available-geography-information-for-all-aws-regions-and-availability-zones/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Omdia recognition, Amazon Bedrock RAG evaluation, International Women\u2019s Day events, and more (March 24, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-omdia-recognition-amazon-bedrock-rag-evaluation-international-womens-day-events-and-more-march-24-2025/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Pi Day, Amazon Bedrock multi-agent collaboration, Amazon SageMaker Unified Studio, Amazon S3 Tables, and more (March 17, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-pi-day-amazon-bedrock-multi-agent-collaboration-amazon-sagemaker-unified-studio-amazon-s3-tables-and-more/"
     }
 ]

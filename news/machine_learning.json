@@ -1,5 +1,13 @@
 [
     {
+        "title": "Customize Amazon Nova models to improve tool usage",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-to-improve-tool-usage/"
+    },
+    {
+        "title": "Evaluate Amazon Bedrock Agents with Ragas and LLM-as-a-judge",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-amazon-bedrock-agents-with-ragas-and-llm-as-a-judge/"
+    },
+    {
         "title": "Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale",
         "link": "https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Salesforce achieves high-performance model deployment with Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-achieves-high-performance-model-deployment-with-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Automate Amazon EKS troubleshooting using an Amazon Bedrock agentic workflow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-eks-troubleshooting-using-an-amazon-bedrock-agentic-workflow/"
-    },
-    {
-        "title": "Host concurrent LLMs with LoRAX",
-        "link": "https://aws.amazon.com/blogs/machine-learning/host-concurrent-llms-with-lorax/"
     }
 ]

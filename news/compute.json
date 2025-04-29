@@ -1,5 +1,9 @@
 [
     {
+        "title": "Maintaining spare capacity during host failures on AWS Outposts with dynamic monitoring",
+        "link": "https://aws.amazon.com/blogs/compute/maintaining-spare-capacity-during-host-failures-on-aws-outposts-with-dynamic-monitoring/"
+    },
+    {
         "title": "Streamlining trace sampling behavior for AWS Lambda functions with AWS X-Ray",
         "link": "https://aws.amazon.com/blogs/compute/streamlining-trace-sampling-behavior-for-aws-lambda-functions-with-aws-x-ray/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing cross-account targets for Amazon EventBridge Event Buses",
         "link": "https://aws.amazon.com/blogs/compute/introducing-cross-account-targets-for-amazon-eventbridge-event-buses/"
-    },
-    {
-        "title": "Serverless ICYMI Q4 2024",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2024/"
     }
 ]

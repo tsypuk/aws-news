@@ -1,5 +1,9 @@
 [
     {
+        "title": "Combining Snyk\u2019s Insight with Amazon Q Developer\u2019s Assistance to Streamline Secure Development",
+        "link": "https://aws.amazon.com/blogs/devops/combining-snyks-insight-with-amazon-q-developers-assistance-to-streamline-secure-development/"
+    },
+    {
         "title": "Amazon introduces SWE-PolyBench, a multilingual benchmark for AI Coding Agents",
         "link": "https://aws.amazon.com/blogs/devops/amazon-introduces-swe-polybench-a-multi-lingual-benchmark-for-ai-coding-agents/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the end of support for Node.js 14.x and 16.x in AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-14-x-and-16-x-in-aws-cdk/"
-    },
-    {
-        "title": "Take control of your code with Amazon Q Developer\u2019s new context features",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developers-new-context-features/"
     }
 ]

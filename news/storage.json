@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing restore testing for recovery validation using AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/implementing-restore-testing-for-recovery-validation-using-aws-backup/"
+    },
+    {
         "title": "How FICO modernizes file transfers with ETL automation using AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/how-fico-modernizes-file-transfers-with-etl-automation-using-aws-transfer-family/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Access data in Amazon S3 Tables using PyIceberg through the AWS Glue Iceberg REST endpoint",
         "link": "https://aws.amazon.com/blogs/storage/access-data-in-amazon-s3-tables-using-pyiceberg-through-the-aws-glue-iceberg-rest-endpoint/"
-    },
-    {
-        "title": "Protect Oracle Databases on Amazon EC2 using NetApp SnapCenter with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/protect-your-oracle-databases-on-amazon-ec2-using-netapp-snapcenter-with-amazon-fsx-for-netapp-ontap/"
     }
 ]
