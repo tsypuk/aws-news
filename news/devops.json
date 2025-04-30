@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context",
+        "link": "https://aws.amazon.com/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/"
+    },
+    {
         "title": "Combining Snyk\u2019s Insight with Amazon Q Developer\u2019s Assistance to Streamline Secure Development",
         "link": "https://aws.amazon.com/blogs/devops/combining-snyks-insight-with-amazon-q-developers-assistance-to-streamline-secure-development/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing support for upgrades to Java 21 in Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/"
-    },
-    {
-        "title": "Announcing the end of support for Node.js 14.x and 16.x in AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-14-x-and-16-x-in-aws-cdk/"
     }
 ]

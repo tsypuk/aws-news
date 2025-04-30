@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using AWS Backup and Oracle Fast Recovery Area on Amazon FSx for NetApp ONTAP for backup/restore of Oracle databases on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/storage/using-aws-backup-and-oracle-fast-recovery-area-on-amazon-fsx-for-netapp-ontap-for-backup-restore-of-oracle-databases-on-amazon-ec2/"
+    },
+    {
         "title": "Implementing restore testing for recovery validation using AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/implementing-restore-testing-for-recovery-validation-using-aws-backup/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlock higher performance for file system workloads with scalable metadata performance on Amazon FSx for Lustre",
         "link": "https://aws.amazon.com/blogs/storage/unlock-higher-performance-for-file-system-workloads-with-scalable-metadata-performance-on-amazon-fsx-for-lustre/"
-    },
-    {
-        "title": "Access data in Amazon S3 Tables using PyIceberg through the AWS Glue Iceberg REST endpoint",
-        "link": "https://aws.amazon.com/blogs/storage/access-data-in-amazon-s3-tables-using-pyiceberg-through-the-aws-glue-iceberg-rest-endpoint/"
     }
 ]

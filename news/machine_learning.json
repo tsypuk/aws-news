@@ -1,5 +1,17 @@
 [
     {
+        "title": "Responsible AI in action: How Data Reply red teaming supports generative AI safety on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-in-action-how-data-reply-red-teaming-supports-generative-ai-safety-on-aws/"
+    },
+    {
+        "title": "InterVision accelerates AI development using AWS LLM League and Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intervision-accelerates-ai-development-using-aws-llm-league-and-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Improve Amazon Nova migration performance with data-aware prompt optimization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-amazon-nova-migration-performance-with-data-aware-prompt-optimization/"
+    },
+    {
         "title": "Customize Amazon Nova models to improve tool usage",
         "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-to-improve-tool-usage/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Add Zoom as a data accessor to your Amazon Q index",
         "link": "https://aws.amazon.com/blogs/machine-learning/add-zoom-as-a-data-accessor-to-your-amazon-q-index/"
-    },
-    {
-        "title": "The future of quality assurance: Shift-left testing with QyrusAI and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-quality-assurance-shift-left-testing-with-qyrusai-and-amazon-bedrock/"
-    },
-    {
-        "title": "Automate video insights for contextual advertising using Amazon Bedrock Data Automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-video-insights-for-contextual-advertising-using-amazon-bedrock-data-automation/"
-    },
-    {
-        "title": "How Salesforce achieves high-performance model deployment with Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-achieves-high-performance-model-deployment-with-amazon-sagemaker-ai/"
     }
 ]

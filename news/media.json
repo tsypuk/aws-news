@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing Just-in-time node access using AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/mt/introducing-just-in-time-node-access-using-aws-systems-manager/"
+    },
+    {
+        "title": "Identifying resources driving Amazon CloudWatch GetMetricData charges using AWS CloudTrail",
+        "link": "https://aws.amazon.com/blogs/mt/identifying-resources-driving-amazon-cloudwatch-getmetricdata-charges-using-aws-cloudtrail/"
+    },
+    {
         "title": "Application Performance Monitoring of AWS Lambda apps with Amazon CloudWatch Application Signals",
         "link": "https://aws.amazon.com/blogs/mt/apm-of-aws-lambda-with-amazon-cloudwatch-application-signals/"
     },
@@ -17,7 +25,7 @@
     },
     {
         "title": "New AWS Fault Injection Service recovery action for zonal autoshift",
-        "link": "https://aws.amazon.com/blogs/mt/testing-application-recovery-controller-zonal-autoshift-made-easy-with-aws-fault-injection-service/"
+        "link": "https://aws.amazon.com/blogs/mt/new-aws-fault-injection-service-recovery-action-for-zonal-autoshift/"
     },
     {
         "title": "Analyze Azure Audit Logs with CloudTrail Lake",
@@ -70,13 +78,5 @@
     {
         "title": "Manage third party applications in Windows Server nodes using AWS System Manager and Chocolatey",
         "link": "https://aws.amazon.com/blogs/mt/manage-third-party-application-installation-versioning-and-updates-in-windows-server-nodes-using-aws-system-manager-and-chocolatey/"
-    },
-    {
-        "title": "Assess, Audit, and Evaluate AWS Resources Against AWS Sustainability Best Practices",
-        "link": "https://aws.amazon.com/blogs/mt/assess-audit-and-evaluate-aws-resources-against-aws-sustainability-best-practices/"
-    },
-    {
-        "title": "Operations transformation to navigate the VMware migration to AWS",
-        "link": "https://aws.amazon.com/blogs/mt/operations-transformation-to-navigate-the-vmware-migration-to-aws/"
     }
 ]

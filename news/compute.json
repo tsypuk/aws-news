@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimizing cold start performance of AWS Lambda using advanced priming strategies with SnapStart",
+        "link": "https://aws.amazon.com/blogs/compute/optimizing-cold-start-performance-of-aws-lambda-using-advanced-priming-strategies-with-snapstart/"
+    },
+    {
+        "title": "AWS Lambda standardizes billing for INIT Phase",
+        "link": "https://aws.amazon.com/blogs/compute/aws-lambda-standardizes-billing-for-init-phase/"
+    },
+    {
         "title": "Maintaining spare capacity during host failures on AWS Outposts with dynamic monitoring",
         "link": "https://aws.amazon.com/blogs/compute/maintaining-spare-capacity-during-host-failures-on-aws-outposts-with-dynamic-monitoring/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing JSONL support with Step Functions Distributed Map",
         "link": "https://aws.amazon.com/blogs/compute/introducing-jsonl-support-with-step-functions-distributed-map/"
-    },
-    {
-        "title": "Automating Notifications for Future-Dated Amazon EC2 Capacity Reservation State Changes",
-        "link": "https://aws.amazon.com/blogs/compute/automating-notifications-for-future-dated-amazon-ec2-capacity-reservation-state-changes/"
-    },
-    {
-        "title": "Introducing cross-account targets for Amazon EventBridge Event Buses",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-cross-account-targets-for-amazon-eventbridge-event-buses/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Flutter UKI optimizes data pipelines with AWS Managed Workflows for Apache Airflow",
+        "link": "https://aws.amazon.com/blogs/big-data/how-flutter-uki-optimizes-data-pipelines-with-aws-managed-workflows-for-apache-airflow/"
+    },
+    {
+        "title": "How BMW Group built a serverless terabyte-scale data transformation architecture with dbt and Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/how-bmw-group-built-a-serverless-terabyte-scale-data-transformation-architecture-with-dbt-and-amazon-athena/"
+    },
+    {
+        "title": "Best practices for least privilege configuration in Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-least-privilege-configuration-in-amazon-mwaa/"
+    },
+    {
         "title": "Access your existing data and resources through Amazon SageMaker Unified Studio, Part 1: AWS Glue Data Catalog and Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/access-your-existing-data-and-resources-through-amazon-sagemaker-unified-studio-part-1-aws-glue-data-catalog-and-amazon-redshift/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build multi-Region resilient Apache Kafka applications with identical topic names using Amazon MSK and Amazon MSK Replicator",
         "link": "https://aws.amazon.com/blogs/big-data/build-multi-region-resilient-apache-kafka-applications-with-identical-topic-names-using-amazon-msk-and-amazon-msk-replicator/"
-    },
-    {
-        "title": "Using Amazon S3 Tables with Amazon Redshift to query Apache Iceberg tables",
-        "link": "https://aws.amazon.com/blogs/big-data/using-amazon-s3-tables-with-amazon-redshift-to-query-apache-iceberg-tables/"
-    },
-    {
-        "title": "Connect, share, and query where your data sits using Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/connect-share-and-query-where-your-data-sits-using-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Introducing vector search with UltraWarm in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-vector-search-with-ultrawarm-in-amazon-opensearch-service/"
     }
 ]
