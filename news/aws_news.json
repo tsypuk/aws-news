@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Nova Premier: Our most capable model for complex tasks and teacher for model distillation",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation/"
+    },
+    {
         "title": "Announcing second-generation AWS Outposts racks with breakthrough performance and scalability on-premises",
         "link": "https://aws.amazon.com/blogs/aws/announcing-second-generation-aws-outposts-racks-with-breakthrough-performance-and-scalability-on-premises/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon API Gateway now supports dual-stack (IPv4 and IPv6) endpoints",
         "link": "https://aws.amazon.com/blogs/aws/amazon-api-gateway-now-supports-dual-stack-ipv4-and-ipv6-endpoints/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon Bedrock, Amazon QuickSight, AWS Amplify, and more (March 31, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-amazon-quicksight-aws-amplify-and-more-march-31-2025/"
     }
 ]

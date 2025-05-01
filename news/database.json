@@ -1,5 +1,9 @@
 [
     {
+        "title": "Data masking and performance improvements in AWS DMS 3.5.4",
+        "link": "https://aws.amazon.com/blogs/database/data-masking-and-performance-improvements-in-aws-dms-3-5-4/"
+    },
+    {
         "title": "Zupee implements Amazon Neptune to detect Wallet transaction anomalies in real time",
         "link": "https://aws.amazon.com/blogs/database/zupee-implements-amazon-neptune-to-detect-wallet-transaction-anomalies-in-real-time/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scheduled scaling of Amazon Aurora Serverless with Amazon EventBridge Scheduler",
         "link": "https://aws.amazon.com/blogs/database/scheduled-scaling-of-amazon-aurora-serverless-with-amazon-eventbridge-scheduler/"
-    },
-    {
-        "title": "Improve cost visibility of an Amazon RDS multi-tenant instance with Performance Insights and Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/database/improve-cost-visibility-of-an-amazon-rds-multi-tenant-instance-with-performance-insights-and-amazon-athena/"
     }
 ]

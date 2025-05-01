@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to use AWS Transfer Family and GuardDuty for malware protection",
+        "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-transfer-family-and-guardduty-for-malware-protection/"
+    },
+    {
         "title": "How to import existing AWS Organizations SCPs and RCPs to CloudFormation",
         "link": "https://aws.amazon.com/blogs/security/how-to-import-existing-aws-organizations-scps-and-rcps-to-cloudformation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS KMS CloudWatch metrics help you better track and understand how your KMS keys are being used",
         "link": "https://aws.amazon.com/blogs/security/aws-kms-cloudwatch-metrics-help-you-better-track-and-understand-how-your-kms-keys-are-being-used/"
-    },
-    {
-        "title": "Secure cloud innovation starts at re:Inforce 2025",
-        "link": "https://aws.amazon.com/blogs/security/secure-cloud-innovation-starts-at-reinforce-2025/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS\u2019s Well-Architected Framework Transformed by Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/awss-well-architected-framework-transformed-by-amazon-q-developer/"
+    },
+    {
+        "title": "Migrating a CDK v1 Application to CDK v2 with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/migrating-a-cdk-v1-application-to-cdk-v2-with-amazon-q-developer/"
+    },
+    {
         "title": "Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context",
         "link": "https://aws.amazon.com/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing the AWS CDK L2 Construct for Amazon Cognito Identity Pools",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-aws-cdk-l2-construct-for-amazon-cognito-identity-pools/"
-    },
-    {
-        "title": "Watch the recordings from AWS Developer Day 2025",
-        "link": "https://aws.amazon.com/blogs/devops/watch-the-recordings-from-aws-developer-day-2025/"
-    },
-    {
-        "title": "Announcing support for upgrades to Java 21 in Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-support-for-upgrades-to-java-21-in-amazon-q-developer/"
     }
 ]

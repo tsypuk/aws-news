@@ -1,5 +1,9 @@
 [
     {
+        "title": "Visualizing network performance of your AWS Cloud workloads with Network Flow Monitor",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/visualizing-network-performance-of-your-aws-cloud-workloads-with-network-flow-monitor/"
+    },
+    {
         "title": "Streamlining network deployments using AWS Cloud Control",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamlining-network-deployments-using-aws-cloud-control/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enabling end-to-end encryption with Amazon VPC Lattice TLS Passthrough",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-end-to-end-encryption-with-amazon-vpc-lattice-tls-passthrough/"
-    },
-    {
-        "title": "AWS and NANOG join forces: Unlocking IPv6 potential with the IPv6 Clinic at NANOG 93",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-and-nanog-join-forces-unlocking-ipv6-potential-with-the-ipv6-clinic-at-nanog-93/"
     }
 ]

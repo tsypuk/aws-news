@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to strengthen Cloud Security with Pulumi ESC and AWS Secrets Manager",
+        "link": "https://aws.amazon.com/blogs/apn/how-to-strengthen-cloud-security-with-pulumi-esc-and-aws-secrets-manager/"
+    },
+    {
         "title": "Protect DeepSeek model deployments with Protect AI and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/protect-deepseek-model-deployments-with-protect-ai-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Personalize Amazon Connect customer interactions in real-time using Tealium and AI",
         "link": "https://aws.amazon.com/blogs/apn/personalize-amazon-connect-customer-interactions-in-real-time-using-tealium-and-ai/"
-    },
-    {
-        "title": "Streamline mNGS analysis with Micronbrane Medical and Basepair on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/streamline-mngs-analysis-with-micronbrane-medical-and-basepair-on-aws/"
     }
 ]
