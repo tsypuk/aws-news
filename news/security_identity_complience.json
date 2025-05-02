@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use an Amazon Bedrock powered chatbot with Amazon Security Lake to help investigate incidents",
+        "link": "https://aws.amazon.com/blogs/security/use-an-amazon-bedrock-powered-chatbot-with-amazon-security-lake-to-help-investigate-incidents/"
+    },
+    {
         "title": "How to use AWS Transfer Family and GuardDuty for malware protection",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-transfer-family-and-guardduty-for-malware-protection/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS completes the annual UAE Information Assurance Regulation compliance assessment",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-annual-uae-information-assurance-regulation-compliance-assessment-2/"
-    },
-    {
-        "title": "AWS KMS CloudWatch metrics help you better track and understand how your KMS keys are being used",
-        "link": "https://aws.amazon.com/blogs/security/aws-kms-cloudwatch-metrics-help-you-better-track-and-understand-how-your-kms-keys-are-being-used/"
     }
 ]

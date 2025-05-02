@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Lambda introduces tiered pricing for Amazon CloudWatch logs and additional logging destinations",
+        "link": "https://aws.amazon.com/blogs/compute/aws-lambda-introduces-tiered-pricing-for-amazon-cloudwatch-logs-and-additional-logging-destinations/"
+    },
+    {
         "title": "Integrating aggregators and Quick Service Restaurants with AWS serverless architectures",
         "link": "https://aws.amazon.com/blogs/compute/integrating-aggregators-and-quick-service-restaurants-with-aws-serverless-architectures/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining AMI creation with EC2 Image Builder components in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/compute/streamliningamicreationwith-ec2imagebuilder/"
-    },
-    {
-        "title": "Dynamically reconfigure your AWS Outposts capacity using Capacity Tasks",
-        "link": "https://aws.amazon.com/blogs/compute/dynamically-reconfigure-your-aws-outposts-capacity-using-capacity-tasks/"
     }
 ]

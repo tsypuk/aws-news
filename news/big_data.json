@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build end-to-end Apache Spark pipelines with Amazon MWAA, Batch Processing Gateway, and Amazon EMR on EKS clusters",
+        "link": "https://aws.amazon.com/blogs/big-data/build-end-to-end-apache-spark-pipelines-with-amazon-mwaa-batch-processing-gateway-and-amazon-emr-on-eks-clusters/"
+    },
+    {
         "title": "Unified scheduling for visual ETL flows and query books in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/unified-scheduling-for-visual-etl-flows-and-query-books-in-amazon-sagemaker-unified-studio/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Correlate telemetry data with Amazon OpenSearch Service and Amazon Managed Grafana",
         "link": "https://aws.amazon.com/blogs/big-data/correlate-telemetry-data-with-amazon-opensearch-service-and-amazon-managed-grafana/"
-    },
-    {
-        "title": "Enhance governance with metadata enforcement rules in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-governance-with-metadata-enforcement-rules-in-amazon-sagemaker/"
     }
 ]
