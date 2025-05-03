@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch Service launches flow builder to empower rapid AI search innovation",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-launches-flow-builder-to-empower-rapid-ai-search-innovation/"
+    },
+    {
         "title": "Build end-to-end Apache Spark pipelines with Amazon MWAA, Batch Processing Gateway, and Amazon EMR on EKS clusters",
         "link": "https://aws.amazon.com/blogs/big-data/build-end-to-end-apache-spark-pipelines-with-amazon-mwaa-batch-processing-gateway-and-amazon-emr-on-eks-clusters/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize multimodal search using the TwelveLabs Embed API and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-multimodal-search-using-the-twelvelabs-embed-api-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Correlate telemetry data with Amazon OpenSearch Service and Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/big-data/correlate-telemetry-data-with-amazon-opensearch-service-and-amazon-managed-grafana/"
     }
 ]

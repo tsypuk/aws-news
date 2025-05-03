@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrate multiple identity providers with AWS IAM Identity Center using Okta",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-multiple-identity-providers-with-aws-iam-identity-center-using-okta/"
+    },
+    {
         "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-1/"
     },
@@ -34,9 +38,5 @@
     {
         "title": ".NET observability with Amazon CloudWatch Application Signals",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/dotnet-observability-cloudwatch-application-signals/"
-    },
-    {
-        "title": "Setting up Windows Server Failover Cluster shared storage on AWS Outposts rack",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/windows-server-failover-cluster-shared-storage-aws-outposts-rack/"
     }
 ]

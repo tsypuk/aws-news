@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS secures internet routing with RPKI plus security checks",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-secures-internet-routing-with-rpki-plus-security-checks/"
+    },
+    {
+        "title": "Simplify hybrid inspection using AWS Cloud WAN service insertion",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-hybrid-inspection-using-aws-cloud-wan-service-insertion/"
+    },
+    {
         "title": "Visualizing network performance of your AWS Cloud workloads with Network Flow Monitor",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/visualizing-network-performance-of-your-aws-cloud-workloads-with-network-flow-monitor/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Load Balancer Migration to AWS: Recommended Strategies and Best Practices",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/load-balancer-migration-to-aws-recommended-strategies-and-best-practices-2/"
-    },
-    {
-        "title": "Network latency concepts and best practices for a resilient architecture",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-latency-concepts-and-best-practices-for-a-resilient-architecture/"
-    },
-    {
-        "title": "Enabling end-to-end encryption with Amazon VPC Lattice TLS Passthrough",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-end-to-end-encryption-with-amazon-vpc-lattice-tls-passthrough/"
     }
 ]

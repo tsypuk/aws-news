@@ -1,5 +1,9 @@
 [
     {
+        "title": "Graph-powered authorization: Relationship based access control for access management",
+        "link": "https://aws.amazon.com/blogs/database/graph-powered-authorization-relationship-based-access-control-for-access-management/"
+    },
+    {
         "title": "Data masking and performance improvements in AWS DMS 3.5.4",
         "link": "https://aws.amazon.com/blogs/database/data-masking-and-performance-improvements-in-aws-dms-3-5-4/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrate natural language processing and generative AI with relational databases",
         "link": "https://aws.amazon.com/blogs/database/integrate-natural-language-processing-and-generative-ai-with-relational-databases/"
-    },
-    {
-        "title": "Scheduled scaling of Amazon Aurora Serverless with Amazon EventBridge Scheduler",
-        "link": "https://aws.amazon.com/blogs/database/scheduled-scaling-of-amazon-aurora-serverless-with-amazon-eventbridge-scheduler/"
     }
 ]
