@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building secure guardrails for Amazon ECS with AWS IAM and AWS CloudFormation Guard",
+        "link": "https://aws.amazon.com/blogs/containers/building-secure-guardrails-for-amazon-ecs-with-aws-iam-and-aws-cloudformation-guard/"
+    },
+    {
         "title": "Analyzing Java applications performance with async-profiler in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/analyzing-java-applications-performance-async-profiler-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Building multi-arch containers with GitHub Actions in AWS",
         "link": "https://aws.amazon.com/blogs/containers/building-multi-arch-containers-with-github-actions-in-aws/"
-    },
-    {
-        "title": "Part 1: Introduction to observing machine learning workloads on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/part-1-introduction-to-observing-machine-learning-workloads-on-amazon-eks/"
     }
 ]
