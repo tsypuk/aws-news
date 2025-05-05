@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-05-040.1.0) - 2025-05-04
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-05-050.1.0) - 2025-05-05
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/42d552778639b673a41abb03dff89e902f2bcedb...ver-2025-05-04)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/c09ea31d00791c14da2a9dd64f1c79f93ca870ef...ver-2025-05-05)</small>
 
 ### Docs
 
-- updated AWS news - aws_partner_network,database - 2025-05-04 ([efb7199](https://github.com/tsypuk/aws-news/commit/efb7199bddf47486338ef9f2aca7d0f30d8b14d6) by Roman Tsypuk).
+- updated AWS news - containers - 2025-05-05 ([1a6a437](https://github.com/tsypuk/aws-news/commit/1a6a437c1770c0fbbe41fb1abd7d1005458ce56f) by Roman Tsypuk).
 
