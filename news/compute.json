@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring network traffic in AWS Lambda functions",
+        "link": "https://aws.amazon.com/blogs/compute/monitoring-network-traffic-in-aws-lambda-functions/"
+    },
+    {
         "title": "AWS Lambda introduces tiered pricing for Amazon CloudWatch logs and additional logging destinations",
         "link": "https://aws.amazon.com/blogs/compute/aws-lambda-introduces-tiered-pricing-for-amazon-cloudwatch-logs-and-additional-logging-destinations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Architecting for seamless on-premises connectivity with AWS Outposts servers",
         "link": "https://aws.amazon.com/blogs/compute/architecting-for-seamless-on-premises-connectivity-with-aws-outposts-servers/"
-    },
-    {
-        "title": "Streamlining AMI creation with EC2 Image Builder components in AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/compute/streamliningamicreationwith-ec2imagebuilder/"
     }
 ]

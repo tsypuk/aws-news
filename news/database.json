@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS DMS implementation guide: Building resilient database migrations through testing, monitoring, and SOPs",
+        "link": "https://aws.amazon.com/blogs/database/aws-dms-implementation-guide-building-resilient-database-migrations-through-testing-monitoring-and-sops/"
+    },
+    {
         "title": "Understanding transaction visibility in PostgreSQL clusters with read replicas",
         "link": "https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Up and running with Apache OFBiz and Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/up-and-running-with-apache-ofbiz-and-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Transition a pivot query that includes dynamic columns from SQL Server to PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/transition-a-pivot-query-that-includes-dynamic-columns-from-sql-server-to-postgresql/"
     }
 ]

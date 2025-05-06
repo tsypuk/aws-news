@@ -1,5 +1,9 @@
 [
     {
+        "title": "Manage Custom AWS Config Rules with Remediation Using AWS Config Conformance Pack",
+        "link": "https://aws.amazon.com/blogs/mt/manage-custom-aws-config-rules-with-remediation-using-conformance-packs/"
+    },
+    {
         "title": "Tracing ETL Workloads using AWS X-Ray and AWS Distro for OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/mt/tracing-etl-workloads-using-aws-x-ray-and-aws-distro-for-opentelemetry/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance your global network performance: A deep dive into Internet Monitor\u2019s new optimization tools",
         "link": "https://aws.amazon.com/blogs/mt/enhance-your-global-network-performance-a-deep-dive-into-internet-monitors-new-optimization-tools/"
-    },
-    {
-        "title": "Increase SAP workloads scalability and resiliency with AWS native Application Load Balancer",
-        "link": "https://aws.amazon.com/blogs/mt/increase-sap-workloads-scalability-and-resiliency-with-aws-native-application-load-balancer/"
     }
 ]
