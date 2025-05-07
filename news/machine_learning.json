@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use custom metrics to evaluate your generative AI application with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-custom-metrics-to-evaluate-your-generative-ai-application-with-amazon-bedrock/"
+    },
+    {
         "title": "Build a gen AI\u2013powered financial assistant with Amazon Bedrock multi-agent collaboration",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-gen-ai-powered-financial-assistant-with-amazon-bedrock-multi-agent-collaboration/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Combine keyword and semantic search for text and images using Amazon Bedrock and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/machine-learning/combine-keyword-and-semantic-search-for-text-and-images-using-amazon-bedrock-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Build an AI-powered document processing platform with open source NER model and LLM on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-document-processing-platform-with-open-source-ner-model-and-llm-on-amazon-sagemaker/"
     }
 ]

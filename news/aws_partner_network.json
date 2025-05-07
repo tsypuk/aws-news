@@ -1,5 +1,13 @@
 [
     {
+        "title": "Ingest and Enrich Security Findings Delivered by Amazon EventBridge with Dynatrace",
+        "link": "https://aws.amazon.com/blogs/apn/ingest-and-enrich-security-findings-delivered-by-amazon-eventbridge-with-dynatrace/"
+    },
+    {
+        "title": "The Future of Hyper-Personalization Powered by Braze and AWS Generative AI",
+        "link": "https://aws.amazon.com/blogs/apn/the-future-of-hyper-personalization-powered-by-braze-and-aws-generative-ai/"
+    },
+    {
         "title": "Building Resilient Distributed Systems with Temporal and AWS",
         "link": "https://aws.amazon.com/blogs/apn/building-resilient-distributed-systems-with-temporal-and-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Modernize your MES Workloads using Containers: K\u00f6rber\u2019s Werum PAS-X MES Suite on AWS Outposts",
         "link": "https://aws.amazon.com/blogs/apn/modernize-your-mes-workloads-using-containers-korbers-werum-pas-x-mes-suite-on-aws-outposts/"
-    },
-    {
-        "title": "Transform Large Language Model Observability with Langfuse",
-        "link": "https://aws.amazon.com/blogs/apn/transform-large-language-model-observability-with-langfuse/"
-    },
-    {
-        "title": "StrongDM\u2019s Just-in-Time Access Is Key for Zero Trust Security in AWS",
-        "link": "https://aws.amazon.com/blogs/apn/strongdms-just-in-time-access-is-key-for-zero-trust-security-in-aws/"
     }
 ]
