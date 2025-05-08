@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the end of support for AWS DynamoDB Session State Provider",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-aws-dynamodb-session-state-provider/"
+    },
+    {
         "title": "General Availability of AWS SDK for .NET V4.0",
         "link": "https://aws.amazon.com/blogs/developer/general-availability-of-aws-sdk-for-net-v4-0/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Linux Support Updates for AWS CLI v2",
         "link": "https://aws.amazon.com/blogs/developer/linux-support-updates-for-aws-cli-v2/"
-    },
-    {
-        "title": "Notice of upcoming major version 5 of AWS Tools for PowerShell",
-        "link": "https://aws.amazon.com/blogs/developer/notice-of-upcoming-major-version-5-of-aws-tools-for-powershell/"
     }
 ]

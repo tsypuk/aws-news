@@ -1,5 +1,9 @@
 [
     {
+        "title": "In the works \u2013 AWS South America (Chile) Region",
+        "link": "https://aws.amazon.com/blogs/aws/coming-soon-aws-south-america-chile-region/"
+    },
+    {
         "title": "Accelerate the transfer of data from an Amazon EBS snapshot to a new EBS volume",
         "link": "https://aws.amazon.com/blogs/aws/accelerate-the-transfer-of-data-from-an-amazon-ebs-snapshot-to-a-new-ebs-volume/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Bedrock Guardrails enhances generative AI application safety with new capabilities",
         "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-enhances-generative-ai-application-safety-with-new-capabilities/"
-    },
-    {
-        "title": "Amazon Nova Reel 1.1: Featuring up to 2-minutes multi-shot videos",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/"
     }
 ]

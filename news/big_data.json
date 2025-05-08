@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate replication of row-level security from AWS Lake Formation to Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-replication-of-row-level-security-from-aws-lake-formation-to-amazon-quicksight/"
+    },
+    {
         "title": "Amazon OpenSearch Service launches flow builder to empower rapid AI search innovation",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-launches-flow-builder-to-empower-rapid-ai-search-innovation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance Agentforce data security with Private Connect for Salesforce Data Cloud and Amazon Redshift \u2013 Part 3",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-agentforce-data-security-with-private-connect-for-salesforce-data-cloud-and-amazon-redshift-part-3/"
-    },
-    {
-        "title": "Optimize multimodal search using the TwelveLabs Embed API and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-multimodal-search-using-the-twelvelabs-embed-api-and-amazon-opensearch-service/"
     }
 ]

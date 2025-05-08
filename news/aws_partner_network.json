@@ -1,5 +1,13 @@
 [
     {
+        "title": "Prevent Secret Sprawl with HCP Vault Radar",
+        "link": "https://aws.amazon.com/blogs/apn/prevent-secret-sprawl-with-hcp-vault-radar/"
+    },
+    {
+        "title": "Digitalizing Batch Records in Pharmaceutical Production with Aizon",
+        "link": "https://aws.amazon.com/blogs/apn/digitalizing-batch-records-in-pharmaceutical-production-with-aizon/"
+    },
+    {
         "title": "Ingest and Enrich Security Findings Delivered by Amazon EventBridge with Dynatrace",
         "link": "https://aws.amazon.com/blogs/apn/ingest-and-enrich-security-findings-delivered-by-amazon-eventbridge-with-dynatrace/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate Cloud Transformation using Hyper-Automation and Zero-Code Migrations with Concierto Migrate and AWS",
         "link": "https://aws.amazon.com/blogs/apn/accelerate-cloud-transformation-using-hyper-automation-and-zero-code-migrations-with-concierto-migrate-and-aws/"
-    },
-    {
-        "title": "Build Production-Ready Generative AI Applications with Orkes and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/apn/build-production-ready-generative-ai-applications-with-orkes-and-amazon-bedrock/"
-    },
-    {
-        "title": "Modernize your MES Workloads using Containers: K\u00f6rber\u2019s Werum PAS-X MES Suite on AWS Outposts",
-        "link": "https://aws.amazon.com/blogs/apn/modernize-your-mes-workloads-using-containers-korbers-werum-pas-x-mes-suite-on-aws-outposts/"
     }
 ]
