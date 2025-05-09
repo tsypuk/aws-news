@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy to ARM-Based Compute with AWS Deploy Tool for .NET",
+        "link": "https://aws.amazon.com/blogs/developer/deploy-to-arm-based-compute-with-aws-deploy-tool-for-net/"
+    },
+    {
         "title": "Announcing the end of support for AWS DynamoDB Session State Provider",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-aws-dynamodb-session-state-provider/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing Observability in the AWS SDK for .NET with OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/developer/enhancing-observability-in-the-aws-sdk-for-net-with-opentelemetry/"
-    },
-    {
-        "title": "Linux Support Updates for AWS CLI v2",
-        "link": "https://aws.amazon.com/blogs/developer/linux-support-updates-for-aws-cli-v2/"
     }
 ]
