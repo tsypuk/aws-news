@@ -1,5 +1,17 @@
 [
     {
+        "title": "Configure cross-account access of Amazon SageMaker Lakehouse multi-catalog tables using AWS Glue 5.0 Spark",
+        "link": "https://aws.amazon.com/blogs/big-data/configure-cross-account-access-of-amazon-sagemaker-lakehouse-multi-catalog-tables-using-aws-glue-5-0-spark/"
+    },
+    {
+        "title": "Introducing Amazon Q Developer in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-q-developer-in-amazon-opensearch-service/"
+    },
+    {
+        "title": "Accelerate lightweight analytics using PyIceberg with AWS Lambda and an AWS Glue Iceberg REST endpoint",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-lightweight-analytics-using-pyiceberg-with-aws-lambda-and-an-aws-glue-iceberg-rest-endpoint/"
+    },
+    {
         "title": "Save big on OpenSearch: Unleashing Intel AVX-512 for binary vector performance",
         "link": "https://aws.amazon.com/blogs/big-data/save-big-on-opensearch-unleashing-intel-avx-512-for-binary-vector-performance/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Integrate ThoughtSpot with Amazon Redshift using AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-thoughtspot-with-amazon-redshift-using-aws-iam-identity-center/"
-    },
-    {
-        "title": "Streamline data discovery with precise technical identifier search in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/streamline-data-discovery-with-precise-technical-identifier-search-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Process millions of observability events with Apache Flink and write directly to Prometheus",
-        "link": "https://aws.amazon.com/blogs/big-data/process-millions-of-observability-events-with-apache-flink-and-write-directly-to-prometheus/"
-    },
-    {
-        "title": "Manage concurrent write conflicts in Apache Iceberg on the AWS Glue Data Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/manage-concurrent-write-conflicts-in-apache-iceberg-on-the-aws-glue-data-catalog/"
     }
 ]

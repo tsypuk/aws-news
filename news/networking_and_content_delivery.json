@@ -1,5 +1,13 @@
 [
     {
+        "title": "United Airlines implement enterprise-wide resilience program with AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/united-airlines-implement-enterprise-wide-resilience-program-with-aws/"
+    },
+    {
+        "title": "How Salesforce Business Technology uses AWS Direct Connect SiteLink for reliable global connectivity",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-salesforce-business-technology-uses-aws-direct-connect-sitelink-for-reliable-global-connectivity/"
+    },
+    {
         "title": "Building your first AWS WAF web ACL to protect against evolving threats",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-your-first-aws-waf-web-acl-to-protect-against-evolving-threats/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhance your Security Posture and Reduce False Positives using Client JA3 Fingerprint and HTTP Header Order",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhance-your-security-posture-and-reduce-false-positives-using-client-ja3-fingerprint-and-http-header-order/"
-    },
-    {
-        "title": "Exploring new subnet management capabilities of Network Load Balancer",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-new-subnet-management-capabilities-of-network-load-balancer/"
-    },
-    {
-        "title": "AWS Verified Access support for non-HTTP resources is now generally available",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-verified-access-support-for-non-http-resources-is-now-generally-available/"
     }
 ]
