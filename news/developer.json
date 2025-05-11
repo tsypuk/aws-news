@@ -1,5 +1,9 @@
 [
     {
+        "title": "Arctic: Automated Desktop Application Testing",
+        "link": "https://aws.amazon.com/blogs/developer/arctic-automated-desktop-application-testing/"
+    },
+    {
         "title": "Deploy to ARM-Based Compute with AWS Deploy Tool for .NET",
         "link": "https://aws.amazon.com/blogs/developer/deploy-to-arm-based-compute-with-aws-deploy-tool-for-net/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing General Availability of the AWS SDK for Swift",
         "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/"
-    },
-    {
-        "title": "Enhancing Observability in the AWS SDK for .NET with OpenTelemetry",
-        "link": "https://aws.amazon.com/blogs/developer/enhancing-observability-in-the-aws-sdk-for-net-with-opentelemetry/"
     }
 ]
