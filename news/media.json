@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automate registering Windows managed nodes with AWS Systems Manager",
+        "link": "https://aws.amazon.com/blogs/mt/automate-registering-windows-managed-nodes-with-aws-systems-manager/"
+    },
+    {
+        "title": "Build Golden Images with CIS Linux Build Kit  within Amazon EC2 Image Builder",
+        "link": "https://aws.amazon.com/blogs/mt/build-golden-images-with-cis-linux-build-kit-within-amazon-ec2-image-builder/"
+    },
+    {
+        "title": "Announcing AWS CloudTrail network activity events for VPC Endpoints",
+        "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-network-activity-events-for-vpc-endpoints/"
+    },
+    {
         "title": "Manage Custom AWS Config Rules with Remediation Using AWS Config Conformance Pack",
         "link": "https://aws.amazon.com/blogs/mt/manage-custom-aws-config-rules-with-remediation-using-conformance-packs/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Best practices to respond to security risks across AWS Organizations",
         "link": "https://aws.amazon.com/blogs/mt/best-practices-to-respond-to-security-risks-across-your-aws-organizations/"
-    },
-    {
-        "title": "Unlock deeper insights and faster investigations with AWS CloudTrail Lake",
-        "link": "https://aws.amazon.com/blogs/mt/unlock-deeper-insights-and-faster-investigations-with-aws-cloudtrail-lake/"
-    },
-    {
-        "title": "Automating Cost Optimization Governance with AWS Config",
-        "link": "https://aws.amazon.com/blogs/mt/automating-cost-optimization-governance-with-aws-config/"
-    },
-    {
-        "title": "Enhance your global network performance: A deep dive into Internet Monitor\u2019s new optimization tools",
-        "link": "https://aws.amazon.com/blogs/mt/enhance-your-global-network-performance-a-deep-dive-into-internet-monitors-new-optimization-tools/"
     }
 ]
