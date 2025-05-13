@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build an intelligent community agent to revolutionize IT support with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-community-agent-to-revolutionize-it-support-with-amazon-q-business/"
+    },
+    {
         "title": "Elevate marketing intelligence with Amazon Bedrock and LLMs for content creation, sentiment analysis, and campaign performance evaluation",
         "link": "https://aws.amazon.com/blogs/machine-learning/elevate-marketing-intelligence-with-amazon-bedrock-and-llms-for-content-creation-sentiment-analysis-and-campaign-performance-evaluation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Evaluate Amazon Bedrock Agents with Ragas and LLM-as-a-judge",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-amazon-bedrock-agents-with-ragas-and-llm-as-a-judge/"
-    },
-    {
-        "title": "Enterprise-grade natural language to SQL generation using LLMs: Balancing accuracy, latency, and scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enterprise-grade-natural-language-to-sql-generation-using-llms-balancing-accuracy-latency-and-scale/"
     }
 ]

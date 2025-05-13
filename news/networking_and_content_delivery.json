@@ -1,5 +1,13 @@
 [
     {
+        "title": "Performance and metrics enhancements for AWS Transit Gateway and AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/performance-and-metrics-enhancements-for-aws-transit-gateway-and-aws-cloud-wan/"
+    },
+    {
+        "title": "Introducing Amazon Route 53 authoritative DNS service for public hosted zones in AWS GovCloud (US) Regions",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-route-53-authoritative-dns-service-for-public-hosted-zones-in-aws-govcloud-us-regions/"
+    },
+    {
         "title": "United Airlines implement enterprise-wide resilience program with AWS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/united-airlines-implement-enterprise-wide-resilience-program-with-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhancing Security with AWS Verified Access and Microsoft Entra ID Integration",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-security-with-aws-verified-access-and-microsoft-entra-id-integration/"
-    },
-    {
-        "title": "Streamline DNS management for AWS PrivateLink deployment with Amazon Route 53 Profiles",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-dns-management-for-aws-privatelink-deployment-with-amazon-route-53-profiles/"
-    },
-    {
-        "title": "Enhance your Security Posture and Reduce False Positives using Client JA3 Fingerprint and HTTP Header Order",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhance-your-security-posture-and-reduce-false-positives-using-client-ja3-fingerprint-and-http-header-order/"
     }
 ]

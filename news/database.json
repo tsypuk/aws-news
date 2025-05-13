@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ingest CSV data to Amazon DynamoDB using AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/database/ingest-csv-data-to-amazon-dynamodb-using-aws-lambda/"
+    },
+    {
         "title": "Perform OS upgrades for Amazon RDS Custom for SQL Server CEV with Multi-AZ",
         "link": "https://aws.amazon.com/blogs/database/perform-os-upgrades-for-amazon-rds-custom-for-sql-server-cev-with-multi-az/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve PostgreSQL performance using the pgstattuple extension",
         "link": "https://aws.amazon.com/blogs/database/improve-postgresql-performance-using-the-pgstattuple-extension/"
-    },
-    {
-        "title": "Using StatsD for monitoring Oracle databases running on Amazon RDS or Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/database/using-statsd-for-monitoring-oracle-databases-running-on-amazon-rds-or-amazon-ec2/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Monitoring and optimizing the cost of the unused access analyzer in IAM Access Analyzer",
+        "link": "https://aws.amazon.com/blogs/security/monitoring-and-optimizing-the-cost-of-the-unused-access-analyzer-in-iam-access-analyzer/"
+    },
+    {
+        "title": "Implementing safety guardrails for applications using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/security/implementing-safety-guardrails-for-applications-using-amazon-sagemaker/"
+    },
+    {
         "title": "How to manage migration of hsm1.medium CloudHSM clusters to hsm2m.medium",
         "link": "https://aws.amazon.com/blogs/security/how-to-manage-migration-of-hsm1-medium-cloudhsm-clusters-to-hsm2m-medium/"
     },
@@ -10,10 +18,6 @@
     {
         "title": "AWS renews its AAA Pinakes rating for the Spanish financial sector",
         "link": "https://aws.amazon.com/blogs/security/aws-renews-its-aaa-pinakes-rating-for-the-spanish-financial-sector/"
-    },
-    {
-        "title": "Introducing the AWS User Guide to Governance, Risk and Compliance for Responsible AI Adoption within Financial Services Industries",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption-within-financial-services-industries/"
     },
     {
         "title": "Introducing the AWS Zero Trust Accelerator for Government",
@@ -74,9 +78,5 @@
     {
         "title": "AWS continues to support government cloud security and shape FedRAMP\u2019s evolution toward automated compliance",
         "link": "https://aws.amazon.com/blogs/security/aws-continues-to-support-government-cloud-security-and-shape-fedramps-evolution-toward-automated-compliance/"
-    },
-    {
-        "title": "Enhancing cloud security in AI/ML: The little pickle story",
-        "link": "https://aws.amazon.com/blogs/security/enhancing-cloud-security-in-ai-ml-the-little-pickle-story/"
     }
 ]
