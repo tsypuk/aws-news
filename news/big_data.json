@@ -1,5 +1,9 @@
 [
     {
+        "title": "Zero-copy, Coordination-free approach to OpenSearch Snapshots",
+        "link": "https://aws.amazon.com/blogs/big-data/zero-copy-coordination-free-approach-to-opensearch-snapshots/"
+    },
+    {
         "title": "Enhance governance with asset type usage policies in Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-governance-with-asset-type-usage-policies-in-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Read and write Apache Iceberg tables using AWS Lake Formation hybrid access mode",
         "link": "https://aws.amazon.com/blogs/big-data/read-and-write-apache-iceberg-tables-using-aws-lake-formation-hybrid-access-mode/"
-    },
-    {
-        "title": "Accelerate your analytics with Amazon S3 Tables and Amazon SageMaker Lakehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-analytics-with-amazon-s3-tables-and-amazon-sagemaker-lakehouse/"
     }
 ]

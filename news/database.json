@@ -1,5 +1,13 @@
 [
     {
+        "title": "Scaling Amazon RDS for MySQL performance for Careem\u2019s digital platform on AWS",
+        "link": "https://aws.amazon.com/blogs/database/scaling-amazon-rds-for-mysql-performance-for-careems-digital-platform-on-aws/"
+    },
+    {
+        "title": "Amazon CloudWatch Database Insights applied in real scenarios",
+        "link": "https://aws.amazon.com/blogs/database/amazon-cloudwatch-database-insights-applied-in-real-scenarios/"
+    },
+    {
         "title": "Ingest CSV data to Amazon DynamoDB using AWS Lambda",
         "link": "https://aws.amazon.com/blogs/database/ingest-csv-data-to-amazon-dynamodb-using-aws-lambda/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Working with OEM Agent software for Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/working-with-oem-agent-software-for-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Build low-latency, resilient applications with Amazon MemoryDB Multi-Region",
-        "link": "https://aws.amazon.com/blogs/database/build-low-latency-resilient-applications-with-amazon-memorydb-multi-region/"
-    },
-    {
-        "title": "Improve PostgreSQL performance using the pgstattuple extension",
-        "link": "https://aws.amazon.com/blogs/database/improve-postgresql-performance-using-the-pgstattuple-extension/"
     }
 ]

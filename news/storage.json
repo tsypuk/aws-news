@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Pendulum achieves 6x faster processing and 40% cost reduction with Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/how-pendulum-achieves-6x-faster-processing-and-40-cost-reduction-with-amazon-s3-tables/"
+    },
+    {
         "title": "Bringing more to the table: How Amazon S3 Tables rapidly delivered new capabilities in the first 5 months",
         "link": "https://aws.amazon.com/blogs/storage/bringing-more-to-the-table-how-amazon-s3-tables-rapidly-delivered-new-capabilities-in-the-first-5-months/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Event-driven framework to integrate AWS Backup service with CSPM tools",
         "link": "https://aws.amazon.com/blogs/storage/event-driven-framework-to-integrate-aws-backup-service-with-cspm-tools/"
-    },
-    {
-        "title": "Optimizing Amazon FSx for Lustre storage consumption using automatic data tiering with Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/optimizing-fsx-for-lustre-storage-consumption-using-automatic-data-tiering-with-amazon-s3/"
     }
 ]

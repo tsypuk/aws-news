@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhanced remote desktop experience: Amazon DCV with Amazon Linux 2023",
+        "link": "https://aws.amazon.com/blogs/compute/enhanced-remote-desktop-experience-amazon-dcv-with-amazon-linux-2023/"
+    },
+    {
         "title": "Monitoring network traffic in AWS Lambda functions",
         "link": "https://aws.amazon.com/blogs/compute/monitoring-network-traffic-in-aws-lambda-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing an enhanced local IDE experience for AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/introducing-an-enhanced-local-ide-experience-for-aws-step-functions/"
-    },
-    {
-        "title": "Architecting for seamless on-premises connectivity with AWS Outposts servers",
-        "link": "https://aws.amazon.com/blogs/compute/architecting-for-seamless-on-premises-connectivity-with-aws-outposts-servers/"
     }
 ]

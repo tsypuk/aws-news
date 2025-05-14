@@ -1,5 +1,17 @@
 [
     {
+        "title": "Securing Amazon Bedrock Agents: A guide to safeguarding against indirect prompt injections",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agents-a-guide-to-safeguarding-against-indirect-prompt-injections/"
+    },
+    {
+        "title": "Build scalable containerized RAG based generative AI applications in AWS using Amazon EKS with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-scalable-containerized-rag-based-generative-ai-applications-in-aws-using-amazon-eks-with-amazon-bedrock/"
+    },
+    {
+        "title": "How Hexagon built an AI assistant using AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-hexagon-built-an-ai-assistant-using-aws-generative-ai-services/"
+    },
+    {
         "title": "Build an intelligent community agent to revolutionize IT support with Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-community-agent-to-revolutionize-it-support-with-amazon-q-business/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "InterVision accelerates AI development using AWS LLM League and Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/intervision-accelerates-ai-development-using-aws-llm-league-and-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Improve Amazon Nova migration performance with data-aware prompt optimization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-amazon-nova-migration-performance-with-data-aware-prompt-optimization/"
-    },
-    {
-        "title": "Customize Amazon Nova models to improve tool usage",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-to-improve-tool-usage/"
-    },
-    {
-        "title": "Evaluate Amazon Bedrock Agents with Ragas and LLM-as-a-judge",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-amazon-bedrock-agents-with-ragas-and-llm-as-a-judge/"
     }
 ]

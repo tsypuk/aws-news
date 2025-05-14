@@ -1,7 +1,15 @@
 [
     {
+        "title": "Maximize Marketing Impact with an AI-Driven Composable CDP powered by GrowthLoop and AWS",
+        "link": "https://aws.amazon.com/blogs/apn/maximize-marketing-impact-with-an-ai-driven-composable-cdp-powered-by-growthloop-and-aws/"
+    },
+    {
         "title": "Building a Veeam powered Backup as a Service using AWS",
         "link": "https://aws.amazon.com/blogs/apn/building-a-veeam-powered-backup-as-a-service-using-aws/"
+    },
+    {
+        "title": "Running GenAI Inference with AWS Graviton and Arcee AI Models",
+        "link": "https://aws.amazon.com/blogs/apn/running-genai-inference-with-aws-graviton-and-arcee-ai-models/"
     },
     {
         "title": "Prevent Secret Sprawl with HCP Vault Radar",
@@ -22,10 +30,6 @@
     {
         "title": "Building Resilient Distributed Systems with Temporal and AWS",
         "link": "https://aws.amazon.com/blogs/apn/building-resilient-distributed-systems-with-temporal-and-aws/"
-    },
-    {
-        "title": "Maximize Marketing Impact with an AI-Driven Composable CDP powered by GrowthLoop and AWS",
-        "link": "https://aws.amazon.com/blogs/apn/maximize-marketing-impact-with-an-ai-driven-composable-cdp-powered-by-growthloop-and-aws/"
     },
     {
         "title": "Next-Generation Data Integration with AWS Data Services and Dataddo",
@@ -74,9 +78,5 @@
     {
         "title": "How to achieve both data privacy and utility on AWS with DataMasque",
         "link": "https://aws.amazon.com/blogs/apn/how-to-achieve-both-data-privacy-and-utility-on-aws-with-datamasque/"
-    },
-    {
-        "title": "Powering a Generative AI Platform Using Amazon DocumentDB with tresle.ai",
-        "link": "https://aws.amazon.com/blogs/apn/powering-a-generative-ai-platform-using-amazon-documentdb-with-tresle-ai/"
     }
 ]
