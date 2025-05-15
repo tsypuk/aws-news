@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understanding Amazon S3 client-side encryption options",
+        "link": "https://aws.amazon.com/blogs/storage/understanding-amazon-s3-client-side-encryption-options/"
+    },
+    {
         "title": "How Pendulum achieves 6x faster processing and 40% cost reduction with Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/how-pendulum-achieves-6x-faster-processing-and-40-cost-reduction-with-amazon-s3-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a data lake for streaming data with Amazon S3 Tables and Amazon Data Firehose",
         "link": "https://aws.amazon.com/blogs/storage/build-a-data-lake-for-streaming-data-with-amazon-s3-tables-and-amazon-data-firehose/"
-    },
-    {
-        "title": "Event-driven framework to integrate AWS Backup service with CSPM tools",
-        "link": "https://aws.amazon.com/blogs/storage/event-driven-framework-to-integrate-aws-backup-service-with-cspm-tools/"
     }
 ]

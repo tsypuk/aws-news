@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify AWS AppSync Events integration with Powertools for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/mobile/simplify-aws-appsync-events-integration-with-powertools-for-aws-lambda/"
+    },
+    {
         "title": "From Build to Embed: Creating and Embedding GenAI Apps with AWS Amplify, CDK, and Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/mobile/from-build-to-embed-creating-and-embedding-genai-apps-with-aws-amplify-cdk-and-amazon-q-business/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build fullstack AI apps in minutes with the new Amplify AI Kit",
         "link": "https://aws.amazon.com/blogs/mobile/build-fullstack-ai-apps-in-minutes-with-the-new-amplify-ai-kit/"
-    },
-    {
-        "title": "The frontend web and mobile app developer\u2019s guide to AWS re:Invent 2024",
-        "link": "https://aws.amazon.com/blogs/mobile/the-frontend-web-and-mobile-app-developers-guide-to-aws-reinvent-2024/"
     }
 ]

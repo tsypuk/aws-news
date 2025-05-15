@@ -1,5 +1,9 @@
 [
     {
+        "title": "Compliant and Cost-Effective Microsoft Dynamics 365 CE Implementation on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/compliant-and-cost-effective-microsoft-dynamics-365-ce-implementation-on-aws/"
+    },
+    {
         "title": "Integrate multiple identity providers with AWS IAM Identity Center using Okta",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-multiple-identity-providers-with-aws-iam-identity-center-using-okta/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automate SCIM provisioning from Active Directory to IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-scim-provisioning-from-active-directory-to-iam-identity-center/"
-    },
-    {
-        "title": ".NET observability with Amazon CloudWatch Application Signals",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/dotnet-observability-cloudwatch-application-signals/"
     }
 ]

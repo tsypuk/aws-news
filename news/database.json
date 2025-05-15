@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create a unit testing framework for PostgreSQL using the pgTAP extension",
+        "link": "https://aws.amazon.com/blogs/database/create-a-unit-testing-framework-for-postgresql-using-the-pgtap-extension/"
+    },
+    {
         "title": "Scaling Amazon RDS for MySQL performance for Careem\u2019s digital platform on AWS",
         "link": "https://aws.amazon.com/blogs/database/scaling-amazon-rds-for-mysql-performance-for-careems-digital-platform-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using generative AI and Amazon Bedrock to generate SPARQL queries to discover protein functional information with UniProtKB and Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/using-generative-ai-and-amazon-bedrock-to-generate-sparql-queries-to-discover-protein-functional-information-with-uniprotkb-and-amazon-neptune/"
-    },
-    {
-        "title": "Working with OEM Agent software for Amazon RDS for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/working-with-oem-agent-software-for-amazon-rds-for-oracle/"
     }
 ]

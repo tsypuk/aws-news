@@ -1,5 +1,17 @@
 [
     {
+        "title": "Cost-effective AI image generation with PixArt-\u03a3 inference on AWS Trainium and AWS Inferentia",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-ai-image-generation-with-pixart-%CF%83-inference-on-aws-trainium-and-aws-inferentia/"
+    },
+    {
+        "title": "Customize DeepSeek-R1 671b model using Amazon SageMaker HyperPod recipes \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-deepseek-r1-671b-model-using-amazon-sagemaker-hyperpod-recipes-part-2/"
+    },
+    {
+        "title": "Build a financial research assistant using Amazon Q Business and Amazon QuickSight for generative AI\u2013powered insights",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-financial-research-assistant-using-amazon-q-business-and-amazon-quicksight-for-generative-ai-powered-insights/"
+    },
+    {
         "title": "Securing Amazon Bedrock Agents: A guide to safeguarding against indirect prompt injections",
         "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agents-a-guide-to-safeguarding-against-indirect-prompt-injections/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "FloQast builds an AI-powered accounting transformation solution with Anthropic\u2019s Claude 3 on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/floqast-builds-an-ai-powered-accounting-transformation-solution-with-anthropics-claude-3-on-amazon-bedrock/"
-    },
-    {
-        "title": "Insights in implementing production-ready solutions with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/insights-in-implementing-production-ready-solutions-with-generative-ai/"
-    },
-    {
-        "title": "Responsible AI in action: How Data Reply red teaming supports generative AI safety on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-in-action-how-data-reply-red-teaming-supports-generative-ai-safety-on-aws/"
-    },
-    {
-        "title": "InterVision accelerates AI development using AWS LLM League and Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intervision-accelerates-ai-development-using-aws-llm-league-and-amazon-sagemaker-ai/"
     }
 ]
