@@ -1,7 +1,19 @@
 [
     {
-        "title": "Cost-effective AI image generation with PixArt-\u03a3 inference on AWS Trainium and AWS Inferentia",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-ai-image-generation-with-pixart-%CF%83-inference-on-aws-trainium-and-aws-inferentia/"
+        "title": "How Apoidea Group enhances visual information extraction from banking documents with multimodal models using LLaMA-Factory on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-apoidea-group-enhances-visual-information-extraction-from-banking-documents-with-multimodal-models-using-llama-factory-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "How Qualtrics built Socrates: An AI platform powered by Amazon SageMaker and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-qualtrics-built-socrates-an-ai-platform-powered-by-amazon-sagemaker-and-amazon-bedrock/"
+    },
+    {
+        "title": "Vxceed secures transport operations with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/vxceed-secures-transport-operations-with-amazon-bedrock/"
+    },
+    {
+        "title": "Cost-effective AI image generation with PixArt-Sigma inference on AWS Trainium and AWS Inferentia",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-ai-image-generation-with-pixart-sigma-inference-on-aws-trainium-and-aws-inferentia/"
     },
     {
         "title": "Customize DeepSeek-R1 671b model using Amazon SageMaker HyperPod recipes \u2013 Part 2",
@@ -66,17 +78,5 @@
     {
         "title": "Autonomous mortgage processing using Amazon Bedrock Data Automation and Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-mortgage-processing-using-amazon-bedrock-data-automation-and-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Amazon Bedrock Model Distillation: Boost function calling accuracy while reducing cost and latency",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-model-distillation-boost-function-calling-accuracy-while-reducing-cost-and-latency/"
-    },
-    {
-        "title": "Build public-facing generative AI applications using Amazon Q Business for anonymous users",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-public-facing-generative-ai-applications-using-amazon-q-business-for-anonymous-users/"
-    },
-    {
-        "title": "FloQast builds an AI-powered accounting transformation solution with Anthropic\u2019s Claude 3 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/floqast-builds-an-ai-powered-accounting-transformation-solution-with-anthropics-claude-3-on-amazon-bedrock/"
     }
 ]

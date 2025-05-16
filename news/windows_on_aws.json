@@ -1,5 +1,13 @@
 [
     {
+        "title": "Why organizations around the world are choosing AWS Transform for .NET",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/why-organizations-around-the-world-are-choosing-aws-transform-for-net/"
+    },
+    {
+        "title": "How The Hartford jumpstarted .NET modernization with AWS Transform",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-the-hartford-jumpstarted-net-modernization-with-aws-transform/"
+    },
+    {
         "title": "Compliant and Cost-Effective Microsoft Dynamics 365 CE Implementation on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/compliant-and-cost-effective-microsoft-dynamics-365-ce-implementation-on-aws/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "License enforcement and tracking for multiple accounts with AWS organizations based on AMI",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/license-enforcement-and-tracking-for-multiple-accounts-with-aws-organizations-based-on-ami/"
-    },
-    {
-        "title": "How to federate into AWS from Azure DevOps using OpenID Connect",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-federate-into-aws-from-azure-devops-using-openid-connect/"
-    },
-    {
-        "title": "Automate SCIM provisioning from Active Directory to IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-scim-provisioning-from-active-directory-to-iam-identity-center/"
     }
 ]

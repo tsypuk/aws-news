@@ -1,5 +1,21 @@
 [
     {
+        "title": "New Amazon EC2 P6-B200 instances powered by NVIDIA Blackwell GPUs to accelerate AI innovations",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-p6-b200-instances-powered-by-nvidia-blackwell-gpus-to-accelerate-ai-innovations/"
+    },
+    {
+        "title": "Accelerate CI/CD pipelines with the new AWS CodeBuild Docker Server capability",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-ci-cd-pipelines-with-the-new-aws-codebuild-docker-server-capability/"
+    },
+    {
+        "title": "Accelerate the modernization of Mainframe and VMware workloads with AWS Transform",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-the-modernization-of-mainframe-and-vmware-workloads-with-aws-transform/"
+    },
+    {
+        "title": "AWS Transform for .NET, the first agentic AI service for modernizing .NET applications at scale",
+        "link": "https://aws.amazon.com/blogs/aws/aws-transform-for-net-the-first-agentic-ai-service-for-modernizing-net-applications-at-scale/"
+    },
+    {
         "title": "AWS Weekly Roundup: South America expansion, Q Developer in OpenSearch, and more (May 12, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-south-america-expansion-q-developer-in-opensearch-and-more-may-12-2025/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Upcoming AWS Summits, Amazon Q Developer, Amazon CloudFront updates, and more (April 21, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-upcoming-aws-summits-amazon-q-developer-amazon-cloudfront-updates-and-more-april-21-2025/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon S3 Express One Zone price cuts, Pixtral Large on Amazon Bedrock, Amazon Nova Sonic, and more (April 14, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-review-amazon-s3-express-one-zone-price-cuts-pixtral-large-on-amazon-bedrock-amazon-nova-sonic-and-more-april-14-2025/"
-    },
-    {
-        "title": "Announcing up to 85% price reductions for Amazon S3 Express One Zone",
-        "link": "https://aws.amazon.com/blogs/aws/up-to-85-price-reductions-for-amazon-s3-express-one-zone/"
-    },
-    {
-        "title": "AWS announces Pixtral Large 25.02 model in Amazon Bedrock serverless",
-        "link": "https://aws.amazon.com/blogs/aws/aws-announces-pixtral-large-25-02-model-in-amazon-bedrock-serverless/"
-    },
-    {
-        "title": "Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/"
     }
 ]

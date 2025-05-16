@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing managed accounting for AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/introducing-managed-accounting-for-aws-parallel-computing-service/"
+    },
+    {
         "title": "AI-Enhanced Subsurface Infrastructure Mapping on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/ai-enhanced-subsurface-infrastructure-mapping-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Caris Life Sciences processed 400,000 RNAseq samples in 2.5 days with AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/how-caris-life-sciences-processed-400000-rnaseq-samples-in-2-5-days-with-aws-batch/"
-    },
-    {
-        "title": "Smashing computational barriers: data-driven ball-impact modeling on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/smashing-computational-barriers-data-driven-ball-impact-modeling-on-aws/"
     }
 ]

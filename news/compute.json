@@ -1,5 +1,9 @@
 [
     {
+        "title": "Powering hybrid workloads with Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/compute/powering-hybrid-workloads-with-amazon-api-gateway/"
+    },
+    {
         "title": "Securing Amazon S3 presigned URLs for serverless applications",
         "link": "https://aws.amazon.com/blogs/compute/securing-amazon-s3-presigned-urls-for-serverless-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing a serverless architecture to detect absence of Guardrails in Amazon Bedrock inference API calls",
         "link": "https://aws.amazon.com/blogs/compute/implementing-a-serverless-architecture-to-detect-absence-of-guardrails-in-amazon-bedrock-inference-api-calls/"
-    },
-    {
-        "title": "Efficiently manage Amazon EC2 On-Demand Capacity Reservations (ODCRs) with split, move, and modify",
-        "link": "https://aws.amazon.com/blogs/compute/efficiently-manage-amazon-ec2-on-demand-capacity-reservations-odcrs-with-split-move-and-modify/"
     }
 ]

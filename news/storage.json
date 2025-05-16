@@ -1,5 +1,9 @@
 [
     {
+        "title": "Expedite VMware migration to Amazon EC2 and Amazon FSx for NetApp ONTAP using the BlueXP workload factory migration advisor",
+        "link": "https://aws.amazon.com/blogs/storage/expedite-vmware-migration-to-amazon-ec2-and-amazon-fsx-for-netapp-ontap-using-bluexp-workload-factory-for-aws-migration-advisor/"
+    },
+    {
         "title": "Understanding Amazon S3 client-side encryption options",
         "link": "https://aws.amazon.com/blogs/storage/understanding-amazon-s3-client-side-encryption-options/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a managed Apache Iceberg data lake using Starburst and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/build-a-managed-apache-iceberg-data-lake-using-starburst-and-amazon-s3-tables/"
-    },
-    {
-        "title": "Build a data lake for streaming data with Amazon S3 Tables and Amazon Data Firehose",
-        "link": "https://aws.amazon.com/blogs/storage/build-a-data-lake-for-streaming-data-with-amazon-s3-tables-and-amazon-data-firehose/"
     }
 ]
