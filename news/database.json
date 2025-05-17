@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon DynamoDB data modeling for Multi-tenancy \u2013 Part 3",
+        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-data-modeling-for-multi-tenancy-part-3/"
+    },
+    {
+        "title": "Amazon DynamoDB data modeling for Multi-Tenancy \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-data-modeling-for-multi-tenancy-part-2/"
+    },
+    {
+        "title": "Amazon DynamoDB data modeling for Multi-Tenancy \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-data-modeling-for-multi-tenancy-part-1/"
+    },
+    {
         "title": "Create a unit testing framework for PostgreSQL using the pgTAP extension",
         "link": "https://aws.amazon.com/blogs/database/create-a-unit-testing-framework-for-postgresql-using-the-pgtap-extension/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Amazon Finance Automation built an operational data store with AWS purpose built databases to power critical finance applications",
         "link": "https://aws.amazon.com/blogs/database/how-amazon-finance-automation-built-an-operational-data-store-with-aws-purpose-built-databases-to-power-critical-finance-applications/"
-    },
-    {
-        "title": "Challenges and strategies of migrating a high-throughput relational database",
-        "link": "https://aws.amazon.com/blogs/database/challenges-and-strategies-of-migrating-a-high-throughput-relational-database/"
-    },
-    {
-        "title": "How Heroku migrated hundreds of thousands of self-managed PostgreSQL databases to Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/how-heroku-migrated-hundreds-of-thousands-of-self-managed-postgresql-databases-to-amazon-aurora/"
-    },
-    {
-        "title": "Using generative AI and Amazon Bedrock to generate SPARQL queries to discover protein functional information with UniProtKB and Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/using-generative-ai-and-amazon-bedrock-to-generate-sparql-queries-to-discover-protein-functional-information-with-uniprotkb-and-amazon-neptune/"
     }
 ]

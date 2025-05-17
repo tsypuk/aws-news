@@ -1,5 +1,13 @@
 [
     {
+        "title": "How LaunchDarkly migrated to Amazon MWAA to achieve efficiency and scale",
+        "link": "https://aws.amazon.com/blogs/big-data/how-launchdarkly-migrated-to-amazon-mwaa-to-achieve-efficiency-and-scale/"
+    },
+    {
+        "title": "Simplify enterprise data access using the Amazon Redshift integration with Amazon S3 Access Grants",
+        "link": "https://aws.amazon.com/blogs/big-data/simplify-enterprise-data-access-using-the-amazon-redshift-integration-with-amazon-s3-access-grants/"
+    },
+    {
         "title": "Access Amazon Redshift Managed Storage tables through Apache Spark on AWS Glue and Amazon EMR using Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/access-amazon-redshift-managed-storage-tables-through-apache-spark-on-aws-glue-and-amazon-emr-using-amazon-sagemaker-lakehouse/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Melting the ice \u2014 How Natural Intelligence simplified a data lake migration to Apache Iceberg",
         "link": "https://aws.amazon.com/blogs/big-data/melting-the-ice-how-natural-intelligence-simplified-a-data-lake-migration-to-apache-iceberg/"
-    },
-    {
-        "title": "Amazon SageMaker Lakehouse now supports attribute-based access control",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-lakehouse-now-supports-attribute-based-access-control/"
-    },
-    {
-        "title": "Accelerate data pipeline creation with the new visual interface in Amazon OpenSearch Ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-pipeline-creation-with-the-new-visual-interface-in-amazon-opensearch-ingestion/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Set up a custom plugin on Amazon Q Business and authenticate with Amazon Cognito to interact with backend systems",
+        "link": "https://aws.amazon.com/blogs/machine-learning/set-up-a-custom-plugin-on-amazon-q-business-and-authenticate-with-amazon-cognito-to-interact-with-backend-systems/"
+    },
+    {
+        "title": "Detect hallucinations for RAG-based systems",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems/"
+    },
+    {
+        "title": "AWS machine learning supports Scuderia Ferrari HP pit stop analysis",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-supports-scuderia-ferrari-hp-pit-stop-analysis/"
+    },
+    {
+        "title": "Accelerate edge AI development with SiMa.ai Edgematic with a seamless AWS integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-edge-ai-development-with-sima-ai-edgematic-with-a-seamless-aws-integration/"
+    },
+    {
         "title": "How Apoidea Group enhances visual information extraction from banking documents with multimodal models using LLaMA-Factory on Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-apoidea-group-enhances-visual-information-extraction-from-banking-documents-with-multimodal-models-using-llama-factory-on-amazon-sagemaker-hyperpod/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Get faster and actionable AWS Trusted Advisor insights to make data-driven decisions using Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/get-faster-and-actionable-aws-trusted-advisor-insights-to-make-data-driven-decisions-using-amazon-q-business/"
-    },
-    {
-        "title": "Best practices for Meta Llama 3.2 multimodal fine-tuning on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-meta-llama-3-2-multimodal-fine-tuning-on-amazon-bedrock/"
-    },
-    {
-        "title": "Extend large language models powered by Amazon SageMaker AI using Model Context Protocol",
-        "link": "https://aws.amazon.com/blogs/machine-learning/extend-large-language-models-powered-by-amazon-sagemaker-ai-using-model-context-protocol/"
-    },
-    {
-        "title": "Automate document translation and standardization with Amazon Bedrock and Amazon Translate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-translation-and-standardization-with-amazon-bedrock-and-amazon-translate/"
-    },
-    {
-        "title": "Autonomous mortgage processing using Amazon Bedrock Data Automation and Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-mortgage-processing-using-amazon-bedrock-data-automation-and-amazon-bedrock-agents/"
     }
 ]
