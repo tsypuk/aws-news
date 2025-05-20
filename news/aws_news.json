@@ -1,5 +1,17 @@
 [
     {
+        "title": "Join AWS Cloud Infrastructure Day to learn cutting-edge innovations building global cloud infrastructure",
+        "link": "https://aws.amazon.com/blogs/aws/join-aws-cloud-infrastructure-day-to-learn-cutting-edge-innovations-building-global-cloud-infrastructure/"
+    },
+    {
+        "title": "Amazon Inspector enhances container security by mapping Amazon ECR images to running containers",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-inspector-enhances-container-security-by-mapping-amazon-ecr-images-to-running-containers/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Strands Agents, AWS Transform, Amazon Bedrock Guardrails, AWS CodeBuild, and more (May 19, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-strands-agents-aws-transform-amazon-bedrock-guardrails-aws-codebuild-and-more-may-19-2025/"
+    },
+    {
         "title": "New Amazon EC2 P6-B200 instances powered by NVIDIA Blackwell GPUs to accelerate AI innovations",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-p6-b200-instances-powered-by-nvidia-blackwell-gpus-to-accelerate-ai-innovations/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "In the works \u2013 New Availability Zone in Maryland for US East (Northern Virginia) Region",
         "link": "https://aws.amazon.com/blogs/aws/in-the-works-new-availability-zone-in-maryland-for-us-east-n-virginia-region/"
-    },
-    {
-        "title": "Enhance real-time applications with AWS AppSync Events data source integrations",
-        "link": "https://aws.amazon.com/blogs/aws/enhance-real-time-applications-with-aws-appsync-events-data-source-integrations/"
-    },
-    {
-        "title": "New Amazon EC2 Graviton4-based instances with NVMe SSD storage",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Upcoming AWS Summits, Amazon Q Developer, Amazon CloudFront updates, and more (April 21, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-upcoming-aws-summits-amazon-q-developer-amazon-cloudfront-updates-and-more-april-21-2025/"
     }
 ]

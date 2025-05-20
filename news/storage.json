@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running I/O intensive workloads on PostgreSQL with Amazon EBS io2 Block Express",
+        "link": "https://aws.amazon.com/blogs/storage/running-i-o-intensive-workloads-on-postgresql-with-amazon-ebs-io2-block-express/"
+    },
+    {
         "title": "Using Amazon S3 Express One Zone as a caching layer for S3 Standard",
         "link": "https://aws.amazon.com/blogs/storage/using-amazon-s3-express-one-zone-as-a-caching-layer-for-s3-standard/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Seamless streaming to Amazon S3 Tables with StreamNative Ursa Engine",
         "link": "https://aws.amazon.com/blogs/storage/seamless-streaming-to-amazon-s3-tables-with-streamnative-ursa-engine/"
-    },
-    {
-        "title": "Connect Snowflake to S3 Tables using the SageMaker Lakehouse Iceberg REST endpoint",
-        "link": "https://aws.amazon.com/blogs/storage/connect-snowflake-to-s3-tables-using-the-sagemaker-lakehouse-iceberg-rest-endpoint/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Open Protocols for Agent Interoperability Part 1: Inter-Agent Communication on MCP",
+        "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/"
+    },
+    {
         "title": "Introducing Strands Agents, an Open Source AI Agents SDK",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Diving into OCI Image and Distribution 1.1 Support in Amazon ECR",
         "link": "https://aws.amazon.com/blogs/opensource/diving-into-oci-image-and-distribution-1-1-support-in-amazon-ecr/"
-    },
-    {
-        "title": "Amazon\u2019s Exabyte-Scale Migration from Apache Spark to Ray on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/"
     }
 ]
