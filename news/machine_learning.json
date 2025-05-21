@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a domain\u2010aware data preprocessing pipeline: A multi\u2010agent collaboration approach",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-domain%E2%80%90aware-data-preprocessing-pipeline-a-multi%E2%80%90agent-collaboration-approach/"
+    },
+    {
+        "title": "Automating complex document processing: How Onity Group built an intelligent solution using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automating-complex-document-processing-how-onity-group-built-an-intelligent-solution-using-amazon-bedrock/"
+    },
+    {
         "title": "HERE Technologies boosts developer productivity with new generative AI-powered coding assistant",
         "link": "https://aws.amazon.com/blogs/machine-learning/here-technologies-boosts-developer-productivity-with-new-generative-ai-powered-coding-assistant/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use custom metrics to evaluate your generative AI application with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-custom-metrics-to-evaluate-your-generative-ai-application-with-amazon-bedrock/"
-    },
-    {
-        "title": "Build a gen AI\u2013powered financial assistant with Amazon Bedrock multi-agent collaboration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-gen-ai-powered-financial-assistant-with-amazon-bedrock-multi-agent-collaboration/"
-    },
-    {
-        "title": "WordFinder app: Harnessing generative AI on AWS for aphasia communication",
-        "link": "https://aws.amazon.com/blogs/machine-learning/wordfinder-app-harnessing-generative-ai-on-aws-for-aphasia-communication/"
     }
 ]

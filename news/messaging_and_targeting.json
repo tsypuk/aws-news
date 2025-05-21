@@ -1,9 +1,5 @@
 [
     {
-        "title": "Migrating from Amazon Pinpoint SMS v1 API to AWS End User Messaging SMS & Voice v2 API",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/migrating-from-amazon-pinpoint-to-aws-end-user-messaging/"
-    },
-    {
         "title": "Navigate Bulk Sender Requirements with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/navigate-bulk-sender-requirements-with-amazon-ses/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Automate workflows with WhatsApp using AWS End User Messaging Social",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/whatsapp-aws-end-user-messaging-social/"
+    },
+    {
+        "title": "Cyber Security Cloud, Inc. accelerates sales with CloudSmart Insights and Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/cyber-security-cloud-inc-accelerates-sales-with-cloudsmart-insights-and-amazon-ses/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Empower financial analytics by creating structured knowledge bases using Amazon Bedrock and Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/empower-financial-analytics-by-creating-structured-knowledge-bases-using-amazon-bedrock-and-amazon-redshift/"
+    },
+    {
         "title": "How LaunchDarkly migrated to Amazon MWAA to achieve efficiency and scale",
         "link": "https://aws.amazon.com/blogs/big-data/how-launchdarkly-migrated-to-amazon-mwaa-to-achieve-efficiency-and-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Access your existing data and resources through Amazon SageMaker Unified Studio, Part 2: Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR",
         "link": "https://aws.amazon.com/blogs/big-data/access-your-existing-data-and-resources-through-amazon-sagemaker-unified-studio-part-2-amazon-s3-amazon-rds-amazon-dynamodb-and-amazon-emr/"
-    },
-    {
-        "title": "Melting the ice \u2014 How Natural Intelligence simplified a data lake migration to Apache Iceberg",
-        "link": "https://aws.amazon.com/blogs/big-data/melting-the-ice-how-natural-intelligence-simplified-a-data-lake-migration-to-apache-iceberg/"
     }
 ]
