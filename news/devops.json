@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Q Developer CLI supports image inputs in your terminal",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-cli-supports-image-inputs-in-your-terminal/"
+    },
+    {
         "title": "Exploring the latest features of the Amazon Q Developer CLI",
         "link": "https://aws.amazon.com/blogs/devops/exploring-the-latest-features-of-the-amazon-q-developer-cli/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the General Availability of the Amazon EventBridge Scheduler L2 Construct",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-general-availability-of-the-amazon-eventbridge-scheduler-l2-construct/"
-    },
-    {
-        "title": "Converting embedded SQL in Java applications with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/converting-embedded-sql-in-java-applications-with-amazon-q-developer/"
     }
 ]

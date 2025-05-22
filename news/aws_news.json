@@ -1,5 +1,13 @@
 [
     {
+        "title": "Centralize visibility of Kubernetes clusters across AWS Regions and accounts with EKS Dashboard",
+        "link": "https://aws.amazon.com/blogs/aws/centralize-visibility-of-kubernetes-clusters-across-aws-regions-and-accounts-with-eks-dashboard/"
+    },
+    {
+        "title": "Configure System Integrity Protection (SIP) on Amazon EC2 Mac instances",
+        "link": "https://aws.amazon.com/blogs/aws/configure-system-integrity-protection-sip-on-amazon-ec2-mac-instances/"
+    },
+    {
         "title": "Introducing the AWS Product Lifecycle page and AWS service availability updates",
         "link": "https://aws.amazon.com/blogs/aws/introducing-the-aws-product-lifecycle-page-and-aws-service-availability-updates/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Reduce your operational overhead today with Amazon CloudFront SaaS Manager",
         "link": "https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/"
-    },
-    {
-        "title": "Writer Palmyra X5 and X4 foundation models are now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/writer-palmyra-x5-and-x4-foundation-models-are-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon Q Developer, AWS Account Management updates, and more (April 28, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-account-management-updates-and-more-april-28-2025/"
     }
 ]
