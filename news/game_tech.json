@@ -1,5 +1,9 @@
 [
     {
+        "title": "Game developer\u2019s guide to Amazon Aurora Serverless v2",
+        "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-aurora-serverless-v2/"
+    },
+    {
         "title": "Shiny Shoe launches Monster Train 2 on AWS",
         "link": "https://aws.amazon.com/blogs/gametech/shiny-shoe-launches-monster-train-2-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modernize game backend services with AWS Global Accelerator",
         "link": "https://aws.amazon.com/blogs/gametech/modernize-game-backend-services-with-aws-global-accelerator/"
-    },
-    {
-        "title": "Using generative AI to analyze game reviews from players and press",
-        "link": "https://aws.amazon.com/blogs/gametech/using-generative-ai-to-analyze-game-reviews-from-players-and-press/"
     }
 ]

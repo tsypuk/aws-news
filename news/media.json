@@ -1,5 +1,9 @@
 [
     {
+        "title": "Gain Compliance Insights in your AWS Environment Using Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/mt/gain-compliance-insights-in-your-aws-environment-using-amazon-q-business/"
+    },
+    {
         "title": "Maximizing Multi-Region Resilience with AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/maximizing-multi-region-resilience-with-aws-resilience-hub/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon CloudWatch Application Signals adds runtime metrics support for Java, Python and .Net applications",
         "link": "https://aws.amazon.com/blogs/mt/launch-blog-aws-cloudwatch-application-signals-adds-runtime-metrics-support-for-java-python-and-net-applications/"
-    },
-    {
-        "title": "Manage and view your AWS Health notifications in AWS User Notifications service",
-        "link": "https://aws.amazon.com/blogs/mt/manage-and-view-your-aws-health-notifications-in-aws-user-notifications-service/"
     }
 ]

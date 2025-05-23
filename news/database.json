@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Aurora Global Database introduces support for up to 10 secondary Regions",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-global-database-introduces-support-for-up-to-10-secondary-regions/"
+    },
+    {
         "title": "How to configure a Linked Server between Amazon RDS for SQL Server and Teradata database",
         "link": "https://aws.amazon.com/blogs/database/how-to-configure-a-linked-server-between-amazon-rds-for-sql-server-and-teradata-database/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Habby enhanced resiliency and system robustness using Valkey GLIDE and Amazon ElastiCache",
         "link": "https://aws.amazon.com/blogs/database/how-habby-enhanced-resiliency-and-system-robustness-using-valkey-glide-and-amazon-elasticache/"
-    },
-    {
-        "title": "Migrate SQL Server user databases from Amazon EC2 to Amazon RDS Custom using Amazon EBS snapshots",
-        "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-user-databases-from-amazon-ec2-to-amazon-rds-custom-using-amazon-ebs-snapshots/"
     }
 ]

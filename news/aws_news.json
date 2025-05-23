@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Claude 4 in Amazon Bedrock, the most powerful models for coding from Anthropic",
+        "link": "https://aws.amazon.com/blogs/aws/claude-opus-4-anthropics-most-powerful-model-for-coding-is-now-in-amazon-bedrock/"
+    },
+    {
         "title": "Centralize visibility of Kubernetes clusters across AWS Regions and accounts with EKS Dashboard",
         "link": "https://aws.amazon.com/blogs/aws/centralize-visibility-of-kubernetes-clusters-across-aws-regions-and-accounts-with-eks-dashboard/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Llama 4 models from Meta now available in Amazon Bedrock serverless",
         "link": "https://aws.amazon.com/blogs/aws/llama-4-models-from-meta-now-available-in-amazon-bedrock-serverless/"
-    },
-    {
-        "title": "Reduce your operational overhead today with Amazon CloudFront SaaS Manager",
-        "link": "https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/"
     }
 ]

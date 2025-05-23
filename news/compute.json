@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to secure your instances with multi-factor authentication",
+        "link": "https://aws.amazon.com/blogs/compute/how-to-secure-your-instances-with-multi-factor-authentication/"
+    },
+    {
         "title": "Powering hybrid workloads with Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/compute/powering-hybrid-workloads-with-amazon-api-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Handling billions of invocations \u2013 best practices from AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/"
-    },
-    {
-        "title": "Implementing a serverless architecture to detect absence of Guardrails in Amazon Bedrock inference API calls",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-a-serverless-architecture-to-detect-absence-of-guardrails-in-amazon-bedrock-inference-api-calls/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize query responses with user feedback using Amazon Bedrock embedding and few-shot prompting",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-query-responses-with-user-feedback-using-amazon-bedrock-embedding-and-few-shot-prompting/"
+    },
+    {
+        "title": "Boosting team productivity with Amazon Q Business Microsoft 365 integrations for Microsoft 365 Outlook and Word",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-team-productivity-with-amazon-q-business-microsoft-365-integrations-for-microsoft-365-outlook-and-word/"
+    },
+    {
         "title": "Integrate Amazon Bedrock Agents with Slack",
         "link": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-bedrock-agents-with-slack/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Hexagon built an AI assistant using AWS generative AI services",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-hexagon-built-an-ai-assistant-using-aws-generative-ai-services/"
-    },
-    {
-        "title": "Build an intelligent community agent to revolutionize IT support with Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-community-agent-to-revolutionize-it-support-with-amazon-q-business/"
-    },
-    {
-        "title": "Elevate marketing intelligence with Amazon Bedrock and LLMs for content creation, sentiment analysis, and campaign performance evaluation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/elevate-marketing-intelligence-with-amazon-bedrock-and-llms-for-content-creation-sentiment-analysis-and-campaign-performance-evaluation/"
     }
 ]
