@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlocking the power of Amazon Q Developer: Metrics-driven strategies for better AI coding",
+        "link": "https://aws.amazon.com/blogs/devops/unlocking-the-power-of-amazon-q-developer-metrics-driven-strategies-for-better-ai-coding/"
+    },
+    {
         "title": "Amazon Q Developer CLI supports image inputs in your terminal",
         "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-cli-supports-image-inputs-in-your-terminal/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using the Amazon Q Developer command line transformation tool",
         "link": "https://aws.amazon.com/blogs/devops/using-amazon-q-developer-cli-for-custom-java-application-transformations/"
-    },
-    {
-        "title": "Announcing the General Availability of the Amazon EventBridge Scheduler L2 Construct",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-the-general-availability-of-the-amazon-eventbridge-scheduler-l2-construct/"
     }
 ]

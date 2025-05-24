@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrating ServiceNow OT Asset Workspaces with AWS IoT SiteWise Asset Models",
+        "link": "https://aws.amazon.com/blogs/iot/integrating-servicenow-ot-asset-workspaces-with-aws-iot-sitewise-asset-models/"
+    },
+    {
         "title": "Seamless migration: Securely transitioning large IoT fleets to AWS",
         "link": "https://aws.amazon.com/blogs/iot/seamless-migration-securely-transitioning-large-iot-fleets-to-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing the future of mobility: UNECE WP.29 and AWS IoT for connected vehicle cybersecurity",
         "link": "https://aws.amazon.com/blogs/iot/securing-the-future-of-mobility-unece-wp-29-and-aws-iot-for-connected-vehicle-cybersecurity/"
-    },
-    {
-        "title": "Emerging Architecture Patterns for Integrating IoT and generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/iot/emerging-architecture-patterns-for-integrating-iot-and-generative-ai-on-aws/"
     }
 ]

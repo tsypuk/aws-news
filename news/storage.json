@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing stateful storage lifecycle on AWS with Kubernetes and Salesforce",
+        "link": "https://aws.amazon.com/blogs/storage/optimizing-stateful-storage-lifecycle-on-aws-with-kubernetes-and-salesforce/"
+    },
+    {
         "title": "Running I/O intensive workloads on PostgreSQL with Amazon EBS io2 Block Express",
         "link": "https://aws.amazon.com/blogs/storage/running-i-o-intensive-workloads-on-postgresql-with-amazon-ebs-io2-block-express/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining access to tabular datasets stored in Amazon S3 Tables with DuckDB",
         "link": "https://aws.amazon.com/blogs/storage/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/"
-    },
-    {
-        "title": "Seamless streaming to Amazon S3 Tables with StreamNative Ursa Engine",
-        "link": "https://aws.amazon.com/blogs/storage/seamless-streaming-to-amazon-s3-tables-with-streamnative-ursa-engine/"
     }
 ]

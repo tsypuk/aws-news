@@ -1,5 +1,13 @@
 [
     {
+        "title": "Siemens unlocks their video stock with Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/industries/siemens-unlocks-video-stock-with-amazon-bda/"
+    },
+    {
+        "title": "Reimagining Mental Healthcare: Technology as a Catalyst for Change",
+        "link": "https://aws.amazon.com/blogs/industries/reimagining-mental-healthcare-technology-as-a-catalyst-for-change/"
+    },
+    {
         "title": "Genentech reimagines insights from unstructured data using generative Artificial Intelligence",
         "link": "https://aws.amazon.com/blogs/industries/genentech-reimagines-insights-from-unstructured-data-using-generative-artificial-intelligence/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Generative AI powered Virtual Data Rooms for Energy",
         "link": "https://aws.amazon.com/blogs/industries/generative-ai-powered-virtual-data-rooms-for-energy/"
-    },
-    {
-        "title": "Maximizing seismic insights: how Petrobras uses S-Cube\u2019s cloud native XWI solution built on AWS Graviton",
-        "link": "https://aws.amazon.com/blogs/industries/maximizing-seismic-insights-how-petrobras-uses-s-cubes-cloud-native-xwi-solution-built-on-aws-graviton/"
-    },
-    {
-        "title": "Audi & Reply: Scaling a GenAI multi-agent devbot from Pilot to Production-Ready",
-        "link": "https://aws.amazon.com/blogs/industries/audi-reply-scaling-a-genai-multi-agent-devbot-from-pilot-to-production-ready/"
     }
 ]

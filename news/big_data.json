@@ -1,5 +1,9 @@
 [
     {
+        "title": "OpenSearch UI: Six months in review",
+        "link": "https://aws.amazon.com/blogs/big-data/opensearch-ui-six-months-in-review/"
+    },
+    {
         "title": "Scalable analytics and centralized governance for Apache Iceberg tables using Amazon S3 Tables and Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/scalable-analytics-and-centralized-governance-for-apache-iceberg-tables-using-amazon-s3-tables-and-amazon-redshift/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for least privilege configuration in Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-least-privilege-configuration-in-amazon-mwaa/"
-    },
-    {
-        "title": "Access your existing data and resources through Amazon SageMaker Unified Studio, Part 1: AWS Glue Data Catalog and Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/access-your-existing-data-and-resources-through-amazon-sagemaker-unified-studio-part-1-aws-glue-data-catalog-and-amazon-redshift/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-increases-voice-virtual-assistant-performance-using-genesys-amazon-lex-and-amazon-quicksight/"
+    },
+    {
         "title": "Optimize query responses with user feedback using Amazon Bedrock embedding and few-shot prompting",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-query-responses-with-user-feedback-using-amazon-bedrock-embedding-and-few-shot-prompting/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build scalable containerized RAG based generative AI applications in AWS using Amazon EKS with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-scalable-containerized-rag-based-generative-ai-applications-in-aws-using-amazon-eks-with-amazon-bedrock/"
-    },
-    {
-        "title": "How Hexagon built an AI assistant using AWS generative AI services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-hexagon-built-an-ai-assistant-using-aws-generative-ai-services/"
     }
 ]
