@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transforming Maya\u2019s API management with Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/"
+    },
+    {
         "title": "How Smartsheet boosts developer productivity with Amazon Bedrock and Roo Code",
         "link": "https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Nielsen uses serverless concepts on Amazon EKS for big data processing with Spark workloads",
         "link": "https://aws.amazon.com/blogs/architecture/how-nielsen-uses-serverless-concepts-on-amazon-eks-for-big-data-processing-with-spark-workloads/"
-    },
-    {
-        "title": "Top Architecture Blog Posts of 2024",
-        "link": "https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2024/"
     }
 ]

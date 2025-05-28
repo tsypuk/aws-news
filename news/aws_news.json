@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Aurora DSQL, the fastest serverless distributed SQL database is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/"
+    },
+    {
         "title": "AWS Weekly Roundup: Claude 4 in Amazon Bedrock, EKS Dashboard, community events, and more (May 26, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-4-in-amazon-bedrock-eks-dashboard-community-events-and-more-may-26-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Nova Premier: Our most capable model for complex tasks and teacher for model distillation",
         "link": "https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation/"
-    },
-    {
-        "title": "Announcing second-generation AWS Outposts racks with breakthrough performance and scalability on-premises",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-second-generation-aws-outposts-racks-with-breakthrough-performance-and-scalability-on-premises/"
     }
 ]

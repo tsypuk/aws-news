@@ -1,5 +1,21 @@
 [
     {
+        "title": "Building a multi-tenant FHIR server with AWS HealthLake",
+        "link": "https://aws.amazon.com/blogs/industries/building-a-multi-tenant-fhir-server-with-aws-healthlake/"
+    },
+    {
+        "title": "Manufacturing Track Highlights from the AWS Life Sciences Symposium 2025",
+        "link": "https://aws.amazon.com/blogs/industries/manufacturing-track-highlights-from-the-aws-life-sciences-symposium-2025/"
+    },
+    {
+        "title": "Helping Accelerate AUTOSAR development for Software Defined Vehicles with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/industries/helping-accelerate-autosar-development-for-software-defined-vehicles-with-amazon-q-developer/"
+    },
+    {
+        "title": "How Ogury is tackling signal loss in digital advertising with AI-powered persona targeting using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/industries/how-ogury-is-addressing-signal-loss-in-digital-advertising-with-ai-powered-persona-targeting-using-amazon-bedrock/"
+    },
+    {
         "title": "Siemens unlocks their video stock with Amazon Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/industries/siemens-unlocks-video-stock-with-amazon-bda/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "7th Annual AWS Life Sciences Symposium",
         "link": "https://aws.amazon.com/blogs/industries/7th-annual-aws-life-sciences-symposium/"
-    },
-    {
-        "title": "Cost Optimization for Healthcare on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/cost-optimization-for-healthcare-on-aws/"
-    },
-    {
-        "title": "Accelerating Life Sciences Innovation with Agentic AI on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/accelerating-life-sciences-innovation-with-agentic-ai-on-aws/"
-    },
-    {
-        "title": "Harnessing the power of pLTE and AWS Cloud to optimize AMI 2.0 outcomes",
-        "link": "https://aws.amazon.com/blogs/industries/harnessing-the-power-of-plte-and-aws-cloud-to-optimize-ami-2-0-outcomes/"
-    },
-    {
-        "title": "Generative AI powered Virtual Data Rooms for Energy",
-        "link": "https://aws.amazon.com/blogs/industries/generative-ai-powered-virtual-data-rooms-for-energy/"
     }
 ]

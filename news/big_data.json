@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unify streaming and analytical data with Amazon Data Firehose and Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/big-data/unify-streaming-and-analytical-data-with-amazon-data-firehose-and-amazon-sagemaker-lakehouse/"
+    },
+    {
         "title": "OpenSearch UI: Six months in review",
         "link": "https://aws.amazon.com/blogs/big-data/opensearch-ui-six-months-in-review/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How BMW Group built a serverless terabyte-scale data transformation architecture with dbt and Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/how-bmw-group-built-a-serverless-terabyte-scale-data-transformation-architecture-with-dbt-and-amazon-athena/"
-    },
-    {
-        "title": "Best practices for least privilege configuration in Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-least-privilege-configuration-in-amazon-mwaa/"
     }
 ]

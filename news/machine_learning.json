@@ -1,5 +1,13 @@
 [
     {
+        "title": "New Amazon Bedrock Data Automation capabilities streamline video and audio analysis",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-amazon-bedrock-data-automation-capabilities-streamline-video-and-audio-analysis/"
+    },
+    {
+        "title": "GuardianGamer scales family-safe cloud gaming with AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/guardiangamer-scales-family-safe-cloud-gaming-with-aws/"
+    },
+    {
         "title": "Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-increases-voice-virtual-assistant-performance-using-genesys-amazon-lex-and-amazon-quicksight/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build a financial research assistant using Amazon Q Business and Amazon QuickSight for generative AI\u2013powered insights",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-financial-research-assistant-using-amazon-q-business-and-amazon-quicksight-for-generative-ai-powered-insights/"
-    },
-    {
-        "title": "Securing Amazon Bedrock Agents: A guide to safeguarding against indirect prompt injections",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agents-a-guide-to-safeguarding-against-indirect-prompt-injections/"
-    },
-    {
-        "title": "Build scalable containerized RAG based generative AI applications in AWS using Amazon EKS with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-scalable-containerized-rag-based-generative-ai-applications-in-aws-using-amazon-eks-with-amazon-bedrock/"
     }
 ]

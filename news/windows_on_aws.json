@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harness Amazon Q Business power with Amazon FSx file server for enterprise search.",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-amazon-fsx-file-server-for-enterprise-search/"
+    },
+    {
         "title": "Running SQL Server Stretch Failover Cluster Instance on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-sql-server-stretch-failover-cluster-instance-on-amazon-ec2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to configure Microsoft Remote Desktop Services using user-based subscription licenses with AWS License Manager",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-configure-microsoft-remote-desktop-services-using-user-based-subscription-licenses-with-aws-license-manager/"
-    },
-    {
-        "title": "Continuous Replication to Amazon RDS for SQL Server from Azure SQL",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/continuous-replication-to-amazon-rds-for-sql-server-from-azure-sql/"
     }
 ]
