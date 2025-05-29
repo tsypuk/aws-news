@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing fleet operations using Amazon SageMaker AI and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/"
+    },
+    {
         "title": "Transforming Maya\u2019s API management with Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use generative AI on AWS for efficient clinical document analysis",
         "link": "https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/"
-    },
-    {
-        "title": "How Nielsen uses serverless concepts on Amazon EKS for big data processing with Spark workloads",
-        "link": "https://aws.amazon.com/blogs/architecture/how-nielsen-uses-serverless-concepts-on-amazon-eks-for-big-data-processing-with-spark-workloads/"
     }
 ]

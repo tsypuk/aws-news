@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlock self-serve streaming SQL with Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-self-serve-streaming-sql-with-amazon-managed-service-for-apache-flink/"
+    },
+    {
         "title": "Unify streaming and analytical data with Amazon Data Firehose and Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/unify-streaming-and-analytical-data-with-amazon-data-firehose-and-amazon-sagemaker-lakehouse/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Flutter UKI optimizes data pipelines with AWS Managed Workflows for Apache Airflow",
         "link": "https://aws.amazon.com/blogs/big-data/how-flutter-uki-optimizes-data-pipelines-with-aws-managed-workflows-for-apache-airflow/"
-    },
-    {
-        "title": "How BMW Group built a serverless terabyte-scale data transformation architecture with dbt and Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/how-bmw-group-built-a-serverless-terabyte-scale-data-transformation-architecture-with-dbt-and-amazon-athena/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing Team Workloads in shared Amazon EKS cluster using Loft vCluster and Argo CD for better cost optimization and operational efficiency",
+        "link": "https://aws.amazon.com/blogs/containers/managing-team-workloads-in-shared-amazon-eks-cluster-using-loft-vcluster-and-argo-cd-for-better-cost-optimization-and-operational-efficiency/"
+    },
+    {
         "title": "Streamline multi-environment deployments with Amazon EKS Blueprints and CDK pipelines",
         "link": "https://aws.amazon.com/blogs/containers/streamline-multi-environment-deployments-with-amazon-eks-blueprints-and-cdk-pipelines/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Announcing Amazon EKS community Add-ons catalog",
         "link": "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-community-add-ons-catalog/"
-    },
-    {
-        "title": "Effortless application modernization: migrate to Amazon EKS with existing NLB setup",
-        "link": "https://aws.amazon.com/blogs/containers/effortless-application-modernization-migrate-to-amazon-eks-with-existing-nlb-setup/"
     }
 ]

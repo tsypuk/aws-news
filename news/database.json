@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automate Amazon RDS for PostgreSQL major or minor version upgrade using AWS Systems Manager and Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/database/automate-amazon-rds-for-postgresql-major-or-minor-version-upgrade-using-aws-systems-manager-and-amazon-ec2/"
+    },
+    {
+        "title": "Supercharging vector search performance and relevance with pgvector 0.8.0 on Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/supercharging-vector-search-performance-and-relevance-with-pgvector-0-8-0-on-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Explore the new openCypher custom functions and subquery support in Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/explore-the-new-opencypher-custom-functions-and-subquery-support-in-amazon-neptune/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS DMS implementation guide: Building resilient database migrations through testing, monitoring, and SOPs",
         "link": "https://aws.amazon.com/blogs/database/aws-dms-implementation-guide-building-resilient-database-migrations-through-testing-monitoring-and-sops/"
-    },
-    {
-        "title": "Understanding transaction visibility in PostgreSQL clusters with read replicas",
-        "link": "https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/"
-    },
-    {
-        "title": "Graph-powered authorization: Relationship based access control for access management",
-        "link": "https://aws.amazon.com/blogs/database/graph-powered-authorization-relationship-based-access-control-for-access-management/"
     }
 ]

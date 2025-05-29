@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling out-of-band management for third-party appliances in AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-out-of-band-management-for-third-party-appliances-in-aws-cloud-wan/"
+    },
+    {
         "title": "CORS configuration through Amazon CloudFront",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cors-configuration-through-amazon-cloudfront/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Glovo is protecting their public APIs with a combination of AWS Edge Services",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-glovo-is-protecting-their-public-apis-with-a-combination-of-aws-edge-services/"
-    },
-    {
-        "title": "How to use AWS WAF Bot Control for Targeted Bots signals and mitigate evasive bots with adaptive user experience",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-use-aws-waf-bot-control-for-targeted-bots-signals-and-mitigate-evasive-bots-with-adaptive-user-experience/"
     }
 ]

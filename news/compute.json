@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing multi-account activity monitoring with event-driven architectures",
+        "link": "https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/"
+    },
+    {
         "title": "Control instance placement using Asset Level Capacity Management for AWS Outposts",
         "link": "https://aws.amazon.com/blogs/compute/control-instance-placement-using-asset-level-capacity-management-for-aws-outposts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing network footprint in serverless applications",
         "link": "https://aws.amazon.com/blogs/compute/optimizing-network-footprint-in-serverless-applications/"
-    },
-    {
-        "title": "Migrating your on-premises workloads to AWS Outposts Rack (update)",
-        "link": "https://aws.amazon.com/blogs/compute/migrating-your-on-premises-workloads-to-aws-outposts-rack-2/"
     }
 ]

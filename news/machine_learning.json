@@ -1,5 +1,29 @@
 [
     {
+        "title": "Part 3: Building an AI-powered assistant for investment research with multi-agent collaboration in Amazon Bedrock and Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/part-3-building-an-ai-powered-assistant-for-investment-research-with-multi-agent-collaboration-in-amazon-bedrock-and-amazon-bedrock-data-automation/"
+    },
+    {
+        "title": "A generative AI prototype with Amazon Bedrock transforms life sciences and the genome analysis process",
+        "link": "https://aws.amazon.com/blogs/machine-learning/a-generative-ai-prototype-with-amazon-bedrock-transforms-life-sciences-and-the-genome-analysis-process/"
+    },
+    {
+        "title": "Gemma 3 27B model now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/gemma-3-27b-model-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Building a multimodal RAG based application using Amazon Bedrock Data Automation and Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-multimodal-rag-based-application-using-amazon-bedrock-data-automation-and-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Tailoring foundation models for your business needs: A comprehensive guide to RAG, fine-tuning, and hybrid approaches",
+        "link": "https://aws.amazon.com/blogs/machine-learning/tailoring-foundation-models-for-your-business-needs-a-comprehensive-guide-to-rag-fine-tuning-and-hybrid-approaches/"
+    },
+    {
+        "title": "How Rufus doubled their inference speed and handled Prime Day traffic with AWS AI chips and parallel decoding",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-rufus-doubled-their-inference-speed-and-handled-prime-day-traffic-with-aws-ai-chips-and-parallel-decoding/"
+    },
+    {
         "title": "New Amazon Bedrock Data Automation capabilities streamline video and audio analysis",
         "link": "https://aws.amazon.com/blogs/machine-learning/new-amazon-bedrock-data-automation-capabilities-streamline-video-and-audio-analysis/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Accelerate edge AI development with SiMa.ai Edgematic with a seamless AWS integration",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-edge-ai-development-with-sima-ai-edgematic-with-a-seamless-aws-integration/"
-    },
-    {
-        "title": "How Apoidea Group enhances visual information extraction from banking documents with multimodal models using LLaMA-Factory on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-apoidea-group-enhances-visual-information-extraction-from-banking-documents-with-multimodal-models-using-llama-factory-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "How Qualtrics built Socrates: An AI platform powered by Amazon SageMaker and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-qualtrics-built-socrates-an-ai-platform-powered-by-amazon-sagemaker-and-amazon-bedrock/"
-    },
-    {
-        "title": "Vxceed secures transport operations with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/vxceed-secures-transport-operations-with-amazon-bedrock/"
-    },
-    {
-        "title": "Cost-effective AI image generation with PixArt-Sigma inference on AWS Trainium and AWS Inferentia",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-ai-image-generation-with-pixart-sigma-inference-on-aws-trainium-and-aws-inferentia/"
-    },
-    {
-        "title": "Customize DeepSeek-R1 671b model using Amazon SageMaker HyperPod recipes \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-deepseek-r1-671b-model-using-amazon-sagemaker-hyperpod-recipes-part-2/"
-    },
-    {
-        "title": "Build a financial research assistant using Amazon Q Business and Amazon QuickSight for generative AI\u2013powered insights",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-financial-research-assistant-using-amazon-q-business-and-amazon-quicksight-for-generative-ai-powered-insights/"
     }
 ]

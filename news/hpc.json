@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhanced Performance for Whisper Audio Transcription on AWS Batch and AWS Inferentia",
+        "link": "https://aws.amazon.com/blogs/hpc/enhanced-performance-for-whisper-audio-transcription-on-aws-batch-and-aws-inferentia/"
+    },
+    {
         "title": "How to migrate a VeriFire Emulator design from F1 to F2 Instances",
         "link": "https://aws.amazon.com/blogs/hpc/how-to-migrate-a-verifire-emulator-design-from-f1-to-to-f2-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adding configurable namespaces, persistent volume claims, and other features for AWS Batch on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/hpc/adding-configurable-namespaces-persistent-volume-claims-and-other-features-for-aws-batch-on-amazon-eks/"
-    },
-    {
-        "title": "Three recipes you don\u2019t want to miss for AWS Parallel Computing Service",
-        "link": "https://aws.amazon.com/blogs/hpc/three-recipes-you-dont-want-to-miss-for-aws-parallel-computing-service/"
     }
 ]
