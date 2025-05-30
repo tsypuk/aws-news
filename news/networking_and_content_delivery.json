@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing DNS resolution with Amazon VPC Lattice and VPC resources",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/managing-dns-resolution-with-amazon-vpc-lattice-and-vpc-resources/"
+    },
+    {
         "title": "Enabling out-of-band management for third-party appliances in AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-out-of-band-management-for-third-party-appliances-in-aws-cloud-wan/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building Resilient IPv6 Network with SD-WANs and AWS Cloud WAN Connect with GRE",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resilient-ipv6-network-with-sd-wans-and-aws-cloud-wan-connect-with-gre/"
-    },
-    {
-        "title": "How Glovo is protecting their public APIs with a combination of AWS Edge Services",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-glovo-is-protecting-their-public-apis-with-a-combination-of-aws-edge-services/"
     }
 ]

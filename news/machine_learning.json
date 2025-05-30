@@ -1,5 +1,21 @@
 [
     {
+        "title": "Revolutionizing earth observation with geospatial foundation models on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-earth-observation-with-geospatial-foundation-models-on-aws/"
+    },
+    {
+        "title": "Create an agentic RAG application for advanced knowledge discovery with LlamaIndex, and Mistral in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-an-agentic-rag-application-for-advanced-knowledge-discovery-with-llamaindex-and-mistral-in-amazon-bedrock/"
+    },
+    {
+        "title": "Text-to-image basics with Amazon Nova Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/text-to-image-basics-with-amazon-nova-canvas/"
+    },
+    {
+        "title": "Real-world applications of Amazon Nova Canvas for interior design and product photography",
+        "link": "https://aws.amazon.com/blogs/machine-learning/real-world-applications-of-amazon-nova-canvas-for-interior-design-and-product-photography/"
+    },
+    {
         "title": "Part 3: Building an AI-powered assistant for investment research with multi-agent collaboration in Amazon Bedrock and Amazon Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/part-3-building-an-ai-powered-assistant-for-investment-research-with-multi-agent-collaboration-in-amazon-bedrock-and-amazon-bedrock-data-automation/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "HERE Technologies boosts developer productivity with new generative AI-powered coding assistant",
         "link": "https://aws.amazon.com/blogs/machine-learning/here-technologies-boosts-developer-productivity-with-new-generative-ai-powered-coding-assistant/"
-    },
-    {
-        "title": "Set up a custom plugin on Amazon Q Business and authenticate with Amazon Cognito to interact with backend systems",
-        "link": "https://aws.amazon.com/blogs/machine-learning/set-up-a-custom-plugin-on-amazon-q-business-and-authenticate-with-amazon-cognito-to-interact-with-backend-systems/"
-    },
-    {
-        "title": "Detect hallucinations for RAG-based systems",
-        "link": "https://aws.amazon.com/blogs/machine-learning/detect-hallucinations-for-rag-based-systems/"
-    },
-    {
-        "title": "AWS machine learning supports Scuderia Ferrari HP pit stop analysis",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-supports-scuderia-ferrari-hp-pit-stop-analysis/"
-    },
-    {
-        "title": "Accelerate edge AI development with SiMa.ai Edgematic with a seamless AWS integration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-edge-ai-development-with-sima-ai-edgematic-with-a-seamless-aws-integration/"
     }
 ]

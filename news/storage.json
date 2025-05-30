@@ -1,5 +1,17 @@
 [
     {
+        "title": "University of California Irvine backs up petabytes of research data to AWS",
+        "link": "https://aws.amazon.com/blogs/storage/university-of-california-irvine-backs-up-petabytes-of-research-data-to-aws/"
+    },
+    {
+        "title": "How to consume tabular data from Amazon S3 Tables for insights and business reporting",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-consume-tabular-data-from-amazon-s3-tables-for-insights-and-business-reporting/"
+    },
+    {
+        "title": "Automating paper-to-electronic healthcare claims processing with AWS",
+        "link": "https://aws.amazon.com/blogs/storage/automating-paper-to-electronic-healthcare-claims-processing-with-aws/"
+    },
+    {
         "title": "Optimizing stateful storage lifecycle on AWS with Kubernetes and Salesforce",
         "link": "https://aws.amazon.com/blogs/storage/optimizing-stateful-storage-lifecycle-on-aws-with-kubernetes-and-salesforce/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Reduce costs with customized delete protection for Amazon EBS Snapshots and EBS-backed AMIs",
         "link": "https://aws.amazon.com/blogs/storage/reduce-costs-with-customized-delete-protection-for-amazon-ebs-snapshots-and-ebs-backed-amis/"
-    },
-    {
-        "title": "Setting file system-wide soft and hard quotas on Amazon Elastic File System (EFS)",
-        "link": "https://aws.amazon.com/blogs/storage/setting-file-system-wide-soft-and-hard-quotas-on-amazon-elastic-file-system-efs/"
-    },
-    {
-        "title": "How Bridgewater maintains data consistency across Regions using Amazon S3 Replication",
-        "link": "https://aws.amazon.com/blogs/storage/how-bridgewater-maintains-data-consistency-across-regions-using-amazon-s3-replication/"
-    },
-    {
-        "title": "Streamlining access to tabular datasets stored in Amazon S3 Tables with DuckDB",
-        "link": "https://aws.amazon.com/blogs/storage/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon FSx for Lustre launches new storage class with the lowest-cost and only fully elastic Lustre \ufb01le storage",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-adds-new-storage-class-with-the-lowest-cost-and-only-fully-elastic-lustre-file-storage/"
+    },
+    {
+        "title": "Enhance AI-assisted development with Amazon ECS, Amazon EKS and AWS Serverless MCP server",
+        "link": "https://aws.amazon.com/blogs/aws/enhance-ai-assisted-development-with-amazon-ecs-amazon-eks-and-aws-serverless-mcp-server/"
+    },
+    {
         "title": "Amazon Aurora DSQL, the fastest serverless distributed SQL database is now generally available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Q Developer in GitHub (in preview) accelerates code generation",
         "link": "https://aws.amazon.com/blogs/aws/amazon-q-developer-in-github-now-in-preview-with-code-generation-review-and-legacy-transformation-capabilities/"
-    },
-    {
-        "title": "Amazon Q Developer elevates the IDE experience with new agentic coding experience",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-q-developer-elevates-the-ide-experience-with-new-agentic-coding-experience/"
-    },
-    {
-        "title": "Amazon Nova Premier: Our most capable model for complex tasks and teacher for model distillation",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation/"
     }
 ]

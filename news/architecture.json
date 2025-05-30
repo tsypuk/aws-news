@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improving platform resilience at Cash App",
+        "link": "https://aws.amazon.com/blogs/architecture/improving-platform-resilience-at-cash-app/"
+    },
+    {
         "title": "Optimizing fleet operations using Amazon SageMaker AI and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Create a serverless custom retry mechanism for stateless queue consumers",
         "link": "https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/"
-    },
-    {
-        "title": "Use generative AI on AWS for efficient clinical document analysis",
-        "link": "https://aws.amazon.com/blogs/architecture/use-generative-ai-on-aws-for-efficient-clinical-document-analysis/"
     }
 ]

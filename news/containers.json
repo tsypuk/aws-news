@@ -1,5 +1,21 @@
 [
     {
+        "title": "Introducing AI on EKS: powering scalable AI workloads with Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/introducing-ai-on-eks-powering-scalable-ai-workloads-with-amazon-eks/"
+    },
+    {
+        "title": "Automating AI-assisted container deployments with the Amazon ECS MCP Server",
+        "link": "https://aws.amazon.com/blogs/containers/automating-ai-assisted-container-deployments-with-amazon-ecs-mcp-server/"
+    },
+    {
+        "title": "Optimizing data lakes with Amazon S3 Tables and Apache Spark on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/optimizing-data-lakes-with-amazon-s3-tables-and-apache-spark-on-amazon-eks/"
+    },
+    {
+        "title": "Accelerating application development with the Amazon EKS MCP server",
+        "link": "https://aws.amazon.com/blogs/containers/accelerating-application-development-with-the-amazon-eks-model-context-protocol-server/"
+    },
+    {
         "title": "Managing Team Workloads in shared Amazon EKS cluster using Loft vCluster and Argo CD for better cost optimization and operational efficiency",
         "link": "https://aws.amazon.com/blogs/containers/managing-team-workloads-in-shared-amazon-eks-cluster-using-loft-vcluster-and-argo-cd-for-better-cost-optimization-and-operational-efficiency/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Amazon EKS introduces node monitoring and auto repair capabilities",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-node-monitoring-and-auto-repair-capabilities/"
-    },
-    {
-        "title": "Introducing the Amazon EKS Auto Mode workshop",
-        "link": "https://aws.amazon.com/blogs/containers/introducing-the-amazon-eks-auto-mode-workshop/"
-    },
-    {
-        "title": "AWS recognized as Leader in 2024-25 Omdia Universe for Cloud Container Management & Services",
-        "link": "https://aws.amazon.com/blogs/containers/aws-recognized-as-leader-in-2024-25-omdia-universe-for-cloud-container-management-services/"
-    },
-    {
-        "title": "Under the hood: Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Announcing Amazon EKS community Add-ons catalog",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-community-add-ons-catalog/"
     }
 ]
