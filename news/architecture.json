@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/"
+    },
+    {
         "title": "Improving platform resilience at Cash App",
         "link": "https://aws.amazon.com/blogs/architecture/improving-platform-resilience-at-cash-app/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Realizing twelve-factors with the AWS Well-Architected Framework",
         "link": "https://aws.amazon.com/blogs/architecture/realizing-twelve-factors-with-the-aws-well-architected-framework/"
-    },
-    {
-        "title": "Create a serverless custom retry mechanism for stateless queue consumers",
-        "link": "https://aws.amazon.com/blogs/architecture/create-a-serverless-custom-retry-mechanism-for-stateless-queue-consumers/"
     }
 ]

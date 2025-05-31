@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practice configuration of Amazon FSx for NetApp ONTAP for Microsoft SQL Server workloads",
+        "link": "https://aws.amazon.com/blogs/storage/best-practice-configuration-of-amazon-fsx-for-netapp-ontap-for-microsoft-sql-server-workloads/"
+    },
+    {
         "title": "University of California Irvine backs up petabytes of research data to AWS",
         "link": "https://aws.amazon.com/blogs/storage/university-of-california-irvine-backs-up-petabytes-of-research-data-to-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Real-time monitoring of AWS Elastic Disaster Recovery using Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/storage/real-time-monitoring-of-elastic-disaster-recovery-using-amazon-q-developer/"
-    },
-    {
-        "title": "Reduce costs with customized delete protection for Amazon EBS Snapshots and EBS-backed AMIs",
-        "link": "https://aws.amazon.com/blogs/storage/reduce-costs-with-customized-delete-protection-for-amazon-ebs-snapshots-and-ebs-backed-amis/"
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "title": "Deploy Amazon SageMaker Projects with Terraform Cloud",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-projects-with-terraform-cloud/"
+    },
+    {
+        "title": "How ZURU improved the accuracy of floor plan generation by 109% using Amazon Bedrock and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-zuru-improved-the-accuracy-of-floor-plan-generation-by-109-using-amazon-bedrock-and-amazon-sagemaker/"
+    },
+    {
+        "title": "Going beyond AI assistants: Examples from Amazon.com reinventing industries with generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/going-beyond-ai-assistants-examples-from-amazon-com-reinventing-industries-with-generative-ai/"
+    },
+    {
+        "title": "Architect a mature generative AI foundation on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/architect-a-mature-generative-ai-foundation-on-aws/"
+    },
+    {
+        "title": "Using Amazon OpenSearch ML connector APIs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-opensearch-ml-connector-apis/"
+    },
+    {
+        "title": "Bridging the gap between development and production: Seamless model lifecycle management with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bridging-the-gap-between-development-and-production-seamless-model-lifecycle-management-with-amazon-bedrock/"
+    },
+    {
         "title": "Revolutionizing earth observation with geospatial foundation models on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-earth-observation-with-geospatial-foundation-models-on-aws/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Optimize query responses with user feedback using Amazon Bedrock embedding and few-shot prompting",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-query-responses-with-user-feedback-using-amazon-bedrock-embedding-and-few-shot-prompting/"
-    },
-    {
-        "title": "Boosting team productivity with Amazon Q Business Microsoft 365 integrations for Microsoft 365 Outlook and Word",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boosting-team-productivity-with-amazon-q-business-microsoft-365-integrations-for-microsoft-365-outlook-and-word/"
-    },
-    {
-        "title": "Integrate Amazon Bedrock Agents with Slack",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-bedrock-agents-with-slack/"
-    },
-    {
-        "title": "Secure distributed logging in scalable multi-account deployments using Amazon Bedrock and LangChain",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-distributed-logging-in-scalable-multi-account-deployments-using-amazon-bedrock-and-langchain/"
-    },
-    {
-        "title": "Build a domain\u2010aware data preprocessing pipeline: A multi\u2010agent collaboration approach",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-domain%E2%80%90aware-data-preprocessing-pipeline-a-multi%E2%80%90agent-collaboration-approach/"
-    },
-    {
-        "title": "Automating complex document processing: How Onity Group built an intelligent solution using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automating-complex-document-processing-how-onity-group-built-an-intelligent-solution-using-amazon-bedrock/"
-    },
-    {
-        "title": "HERE Technologies boosts developer productivity with new generative AI-powered coding assistant",
-        "link": "https://aws.amazon.com/blogs/machine-learning/here-technologies-boosts-developer-productivity-with-new-generative-ai-powered-coding-assistant/"
     }
 ]

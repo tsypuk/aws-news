@@ -1,5 +1,9 @@
 [
     {
+        "title": "PackScan: Building real-time sort center analytics with AWS Services",
+        "link": "https://aws.amazon.com/blogs/big-data/packscan-building-real-time-sort-center-analytics-with-aws-services/"
+    },
+    {
         "title": "How Airties achieved scalability and cost-efficiency by moving from Kafka to Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/how-airties-achieved-scalability-and-cost-efficiency-by-moving-from-kafka-to-amazon-kinesis-data-streams/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build end-to-end Apache Spark pipelines with Amazon MWAA, Batch Processing Gateway, and Amazon EMR on EKS clusters",
         "link": "https://aws.amazon.com/blogs/big-data/build-end-to-end-apache-spark-pipelines-with-amazon-mwaa-batch-processing-gateway-and-amazon-emr-on-eks-clusters/"
-    },
-    {
-        "title": "Unified scheduling for visual ETL flows and query books in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/unified-scheduling-for-visual-etl-flows-and-query-books-in-amazon-sagemaker-unified-studio/"
     }
 ]

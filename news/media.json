@@ -1,5 +1,9 @@
 [
     {
+        "title": "Visualizing Amazon DynamoDB data with Amazon OpenSearch Service and Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/visualizing-amazon-dynamodb-data-with-amazon-opensearch-service-and-amazon-managed-grafana/"
+    },
+    {
         "title": "Gain Compliance Insights in your AWS Environment Using Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/mt/gain-compliance-insights-in-your-aws-environment-using-amazon-q-business/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor AWS Transit Gateway Flow Logs centrally using Amazon Managed Grafana",
         "link": "https://aws.amazon.com/blogs/mt/monitor-aws-transit-gateway-flow-logs-centrally-using-amazon-managed-grafana/"
-    },
-    {
-        "title": "Amazon CloudWatch Application Signals adds runtime metrics support for Java, Python and .Net applications",
-        "link": "https://aws.amazon.com/blogs/mt/launch-blog-aws-cloudwatch-application-signals-adds-runtime-metrics-support-for-java-python-and-net-applications/"
     }
 ]

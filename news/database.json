@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a multi-Region session store with Amazon ElastiCache for Valkey Global Datastore",
+        "link": "https://aws.amazon.com/blogs/database/build-a-multi-region-session-store-with-amazon-elasticache-for-valkey-global-datastore/"
+    },
+    {
         "title": "Automate Amazon RDS for PostgreSQL major or minor version upgrade using AWS Systems Manager and Amazon EC2",
         "link": "https://aws.amazon.com/blogs/database/automate-amazon-rds-for-postgresql-major-or-minor-version-upgrade-using-aws-systems-manager-and-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Extract and migrate data from nested tables with user-defined nested types from Oracle to PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/extract-and-migrate-data-from-nested-tables-with-user-defined-nested-types-from-oracle-to-postgresql/"
-    },
-    {
-        "title": "AWS DMS implementation guide: Building resilient database migrations through testing, monitoring, and SOPs",
-        "link": "https://aws.amazon.com/blogs/database/aws-dms-implementation-guide-building-resilient-database-migrations-through-testing-monitoring-and-sops/"
     }
 ]
