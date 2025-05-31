@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-05-300.1.0) - 2025-05-30
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-05-310.1.0) - 2025-05-31
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/9c838930f015538da3344a548b99aefedf29242a...ver-2025-05-30)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/6dc5812e1bc38841e80aedb119a204e3c154776e...ver-2025-05-31)</small>
 
 ### Docs
 
-- updated AWS news - architecture,aws_news,big_data,compute,containers,front-end_web_mobile,industries,machine_learning,networking_and_content_delivery,public_sector,storage - 2025-05-30 ([3d134bb](https://github.com/tsypuk/aws-news/commit/3d134bbd579cce76768cde5a87fb9819a5f1ee3b) by Roman Tsypuk).
+- updated AWS news - architecture,big_data,database,devops,industries,machine_learning,media,public_sector,storage,training_certification - 2025-05-31 ([f6989c0](https://github.com/tsypuk/aws-news/commit/f6989c06b02ed8bcc90e84c29e1041853d129767) by Roman Tsypuk).
 
