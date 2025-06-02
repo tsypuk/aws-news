@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline and secure access to shared services and resources with Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-and-secure-access-to-shared-services-and-resources-with-amazon-vpc-lattice/"
+    },
+    {
         "title": "Managing DNS resolution with Amazon VPC Lattice and VPC resources",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/managing-dns-resolution-with-amazon-vpc-lattice-and-vpc-resources/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using Amazon Route 53 Resolver DNS Firewall to detect malicious domains",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-amazon-route-53-resolver-dns-firewall-to-detect-malicious-domains/"
-    },
-    {
-        "title": "Building Resilient IPv6 Network with SD-WANs and AWS Cloud WAN Connect with GRE",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resilient-ipv6-network-with-sd-wans-and-aws-cloud-wan-connect-with-gre/"
     }
 ]
