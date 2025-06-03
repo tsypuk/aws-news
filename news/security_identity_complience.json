@@ -1,5 +1,9 @@
 [
     {
+        "title": "A deep dive into data protection sessions at AWS re:Inforce 2025",
+        "link": "https://aws.amazon.com/blogs/security/a-deep-dive-into-data-protection-sessions-at-aws-reinforce-2025/"
+    },
+    {
         "title": "Application security at re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/application-security-at-reinforce-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to import existing AWS Organizations SCPs and RCPs to CloudFormation",
         "link": "https://aws.amazon.com/blogs/security/how-to-import-existing-aws-organizations-scps-and-rcps-to-cloudformation/"
-    },
-    {
-        "title": "AWS empowers global security culture at Wicked6 Cyber Games",
-        "link": "https://aws.amazon.com/blogs/security/aws-empowers-global-security-culture-at-wicked6-cyber-games/"
     }
 ]

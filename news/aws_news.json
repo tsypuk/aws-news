@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Amazon Aurora DSQL, MCP Servers, Amazon FSx, AI on EKS, and more (June 2, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-aurora-dsql-mcp-servers-amazon-fsx-ai-on-eks-and-more-june-2-2025/"
+    },
+    {
         "title": "Amazon FSx for Lustre launches new storage class with the lowest-cost and only fully elastic Lustre \ufb01le storage",
         "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-adds-new-storage-class-with-the-lowest-cost-and-only-fully-elastic-lustre-file-storage/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Amazon Nova Premier, Amazon Q Developer, Amazon Q CLI, Amazon CloudFront, AWS Outposts, and more (May 5, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-nova-premier-amazon-q-developer-amazon-q-cli-amazon-cloudfront-aws-outposts-and-more-may-5-2025/"
-    },
-    {
-        "title": "Amazon Q Developer in GitHub (in preview) accelerates code generation",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-q-developer-in-github-now-in-preview-with-code-generation-review-and-legacy-transformation-capabilities/"
     }
 ]

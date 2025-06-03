@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating SQL Server Point-in-Time Recovery Using EBS Snapshots",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automating-sql-server-point-in-time-recovery-using-ebs-snapshots/"
+    },
+    {
         "title": "How to Use ACM PCA Connector for AD to enable LDAPS for Your Self-Managed AD",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-acm-pca-connector-for-ad-to-enable-ldaps-for-your-self-managed-ad/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Harness Amazon Q Business power with Microsoft SharePoint for enterprise search",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-microsoft-sharepoint-for-enterprise-search/"
-    },
-    {
-        "title": "Ola Hallengren\u2019s SQL Server Maintenance Solution in AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/ola-hallengrens-sql-server-maintenance-solution-in-aws/"
     }
 ]

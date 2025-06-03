@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build GraphRAG applications using Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-graphrag-applications-using-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Streamline personalization development: How automated ML workflows accelerate Amazon Personalize implementation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-personalization-development-how-automated-ml-workflows-accelerate-amazon-personalize-implementation/"
+    },
+    {
+        "title": "Fast-track SOP processing using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fast-track-sop-processing-using-amazon-bedrock/"
+    },
+    {
         "title": "Deploy Amazon SageMaker Projects with Terraform Cloud",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-projects-with-terraform-cloud/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "New Amazon Bedrock Data Automation capabilities streamline video and audio analysis",
         "link": "https://aws.amazon.com/blogs/machine-learning/new-amazon-bedrock-data-automation-capabilities-streamline-video-and-audio-analysis/"
-    },
-    {
-        "title": "GuardianGamer scales family-safe cloud gaming with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/guardiangamer-scales-family-safe-cloud-gaming-with-aws/"
-    },
-    {
-        "title": "Principal Financial Group increases Voice Virtual Assistant performance using Genesys, Amazon Lex, and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-increases-voice-virtual-assistant-performance-using-genesys-amazon-lex-and-amazon-quicksight/"
-    },
-    {
-        "title": "Optimize query responses with user feedback using Amazon Bedrock embedding and few-shot prompting",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-query-responses-with-user-feedback-using-amazon-bedrock-embedding-and-few-shot-prompting/"
     }
 ]
