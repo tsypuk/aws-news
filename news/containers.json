@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deep Dive: Amazon EKS Dashboard for Visibility into Multi-Cluster Operations and Governance",
+        "link": "https://aws.amazon.com/blogs/containers/deep-dive-amazon-eks-dashboard-for-visibility-into-multi-cluster-operations-and-governance/"
+    },
+    {
         "title": "Introducing AI on EKS: powering scalable AI workloads with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/introducing-ai-on-eks-powering-scalable-ai-workloads-with-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Analyzing Java applications performance with async-profiler in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/analyzing-java-applications-performance-async-profiler-amazon-eks/"
-    },
-    {
-        "title": "Amazon EKS introduces node monitoring and auto repair capabilities",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-node-monitoring-and-auto-repair-capabilities/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dynamically routing requests with Amazon API Gateway routing rules",
+        "link": "https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/"
+    },
+    {
         "title": "Introducing AWS Serverless MCP Server: AI-powered development for modern applications",
         "link": "https://aws.amazon.com/blogs/compute/introducing-aws-serverless-mcp-server-ai-powered-development-for-modern-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Anchoring AWS Outposts servers with AWS Direct Connect",
         "link": "https://aws.amazon.com/blogs/compute/anchoring-aws-outposts-servers-with-aws-direct-connect/"
-    },
-    {
-        "title": "Simplifying private API integrations with Amazon EventBridge and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/compute/simplifying-private-api-integrations-with-amazon-eventbridge-and-aws-step-functions-2/"
     }
 ]

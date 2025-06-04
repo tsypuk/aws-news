@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing managed query results for Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-managed-query-results-for-amazon-athena/"
+    },
+    {
+        "title": "Build a centralized observability platform for Apache Spark on Amazon EMR on EKS using external Spark History Server",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-centralized-observability-platform-for-apache-spark-on-amazon-emr-on-eks-using-external-spark-history-server/"
+    },
+    {
+        "title": "Architecture patterns to optimize Amazon Redshift performance at scale",
+        "link": "https://aws.amazon.com/blogs/big-data/architecture-patterns-to-optimize-amazon-redshift-performance-at-scale/"
+    },
+    {
         "title": "Best practices for upgrading Amazon MWAA environments",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-upgrading-amazon-mwaa-environments/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Petabyte-scale data migration made simple: AppsFlyer\u2019s best practice journey with Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/petabyte-scale-data-migration-made-simple-appsflyers-best-practice-journey-with-amazon-emr-serverless/"
-    },
-    {
-        "title": "Configure cross-account access of Amazon SageMaker Lakehouse multi-catalog tables using AWS Glue 5.0 Spark",
-        "link": "https://aws.amazon.com/blogs/big-data/configure-cross-account-access-of-amazon-sagemaker-lakehouse-multi-catalog-tables-using-aws-glue-5-0-spark/"
-    },
-    {
-        "title": "Introducing Amazon Q Developer in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-q-developer-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "Accelerate lightweight analytics using PyIceberg with AWS Lambda and an AWS Glue Iceberg REST endpoint",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-lightweight-analytics-using-pyiceberg-with-aws-lambda-and-an-aws-glue-iceberg-rest-endpoint/"
     }
 ]

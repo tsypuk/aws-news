@@ -1,5 +1,9 @@
 [
     {
+        "title": "Design and build IPv6 internet inspection architectures on AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/design-and-build-ipv6-internet-inspection-architectures-on-aws/"
+    },
+    {
         "title": "Streamline and secure access to shared services and resources with Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-and-secure-access-to-shared-services-and-resources-with-amazon-vpc-lattice/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing your web applications and optimizing their performance with AWS Application Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-your-web-applications-and-optimizing-their-performance-with-aws-application-load-balancer/"
-    },
-    {
-        "title": "Using Amazon Route 53 Resolver DNS Firewall to detect malicious domains",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-amazon-route-53-resolver-dns-firewall-to-detect-malicious-domains/"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Build a secure AWS foundation in under 60 minutes: A guide for public sector organizations",
+        "link": "https://aws.amazon.com/blogs/publicsector/build-a-secure-aws-foundation-in-under-60-minutes-a-guide-for-public-sector-organizations/"
+    },
+    {
+        "title": "AWS recognized by GovRAMP",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-recognized-by-govramp/"
+    },
+    {
+        "title": "Enhancing public safety operations with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/publicsector/enhancing-public-safety-operations-with-amazon-bedrock/"
+    },
+    {
+        "title": "Customizing isolated JupyterLab environments in Amazon SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/publicsector/customizing-isolated-jupyterlab-environments-in-amazon-sagemaker-studio/"
+    },
+    {
+        "title": "Building machine learning operations framework with Amazon SageMaker: Technical Safety BC\u2019s Journey",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-machine-learning-operations-framework-with-amazon-sagemaker-technical-safety-bcs-journey/"
+    },
+    {
         "title": "Educating for a greener future: Saving the Earth one migration at a time with AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/26338-2/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Explore AI innovations, enhance your cloud skills, and expand your network at AWS Summit Washington, DC 2025",
         "link": "https://aws.amazon.com/blogs/publicsector/explore-ai-innovations-enhance-your-cloud-skills-and-expand-your-network-at-aws-summit-washington-dc-2025/"
-    },
-    {
-        "title": "How public safety agencies can meet AI data security requirements",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-public-safety-agencies-can-meet-ai-data-security-requirements/"
-    },
-    {
-        "title": "HSR.health and AWS to pilot test Amazon Nova for healthcare AI",
-        "link": "https://aws.amazon.com/blogs/publicsector/hsr-health-and-aws-to-pilot-test-amazon-nova-for-healthcare-ai/"
-    },
-    {
-        "title": "California Credit Union enhances disaster recovery and backup of Fiserv DNA core banking system on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/california-credit-union-enhances-disaster-recovery-and-backup-of-fiserv-dna-core-banking-system-on-aws/"
-    },
-    {
-        "title": "Improving weather forecasting accuracy using Amazon AppStream 2.0 graphic-intensive instances",
-        "link": "https://aws.amazon.com/blogs/publicsector/improving-weather-forecasting-accuracy-using-amazon-appstream-2-0-graphic-intensive-instances/"
-    },
-    {
-        "title": "Chaos engineering made clear: Generate AWS FIS experiments using natural language through Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/publicsector/chaos-engineering-made-clear-generate-aws-fis-experiments-using-natural-language-through-amazon-bedrock/"
     }
 ]

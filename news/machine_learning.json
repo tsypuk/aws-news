@@ -1,5 +1,17 @@
 [
     {
+        "title": "Unlocking the power of Model Context Protocol (MCP) on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-power-of-model-context-protocol-mcp-on-aws/"
+    },
+    {
+        "title": "Build a scalable AI assistant to help refugees using AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-assistant-to-help-refugees-using-aws/"
+    },
+    {
+        "title": "Enhanced diagnostics flow with LLM and Amazon Bedrock agent integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-diagnostics-flow-with-llm-and-amazon-bedrock-agent-integration/"
+    },
+    {
         "title": "Build GraphRAG applications using Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-graphrag-applications-using-amazon-bedrock-knowledge-bases/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Building a multimodal RAG based application using Amazon Bedrock Data Automation and Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-a-multimodal-rag-based-application-using-amazon-bedrock-data-automation-and-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Tailoring foundation models for your business needs: A comprehensive guide to RAG, fine-tuning, and hybrid approaches",
-        "link": "https://aws.amazon.com/blogs/machine-learning/tailoring-foundation-models-for-your-business-needs-a-comprehensive-guide-to-rag-fine-tuning-and-hybrid-approaches/"
-    },
-    {
-        "title": "How Rufus doubled their inference speed and handled Prime Day traffic with AWS AI chips and parallel decoding",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-rufus-doubled-their-inference-speed-and-handled-prime-day-traffic-with-aws-ai-chips-and-parallel-decoding/"
-    },
-    {
-        "title": "New Amazon Bedrock Data Automation capabilities streamline video and audio analysis",
-        "link": "https://aws.amazon.com/blogs/machine-learning/new-amazon-bedrock-data-automation-capabilities-streamline-video-and-audio-analysis/"
     }
 ]

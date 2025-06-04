@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing vehicle identification numbers with Virtual IDs in connected vehicle platforms with AWS IoT",
+        "link": "https://aws.amazon.com/blogs/iot/securing-vehicle-identification-numbers-with-virtual-ids-in-connected-vehicle-platforms-with-aws-iot/"
+    },
+    {
         "title": "Integrating ServiceNow OT Asset Workspaces with AWS IoT SiteWise Asset Models",
         "link": "https://aws.amazon.com/blogs/iot/integrating-servicenow-ot-asset-workspaces-with-aws-iot-sitewise-asset-models/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Connected utility solutions for water and gas metering with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/connected-utility-solutions-for-water-and-gas-metering-with-aws-iot/"
-    },
-    {
-        "title": "Securing the future of mobility: UNECE WP.29 and AWS IoT for connected vehicle cybersecurity",
-        "link": "https://aws.amazon.com/blogs/iot/securing-the-future-of-mobility-unece-wp-29-and-aws-iot-for-connected-vehicle-cybersecurity/"
     }
 ]

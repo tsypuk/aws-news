@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Novo Nordisk, Columbia University and AWS collaborated to create OpenFold3",
+        "link": "https://aws.amazon.com/blogs/hpc/how-novo-nordisk-columbia-university-and-aws-collaborated-to-create-openfold3/"
+    },
+    {
         "title": "Enhanced Performance for Whisper Audio Transcription on AWS Batch and AWS Inferentia",
         "link": "https://aws.amazon.com/blogs/hpc/enhanced-performance-for-whisper-audio-transcription-on-aws-batch-and-aws-inferentia/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using the Terraform AWS Cloud Control provider for managing AWS Batch resources",
         "link": "https://aws.amazon.com/blogs/hpc/using-the-terraform-aws-cloud-control-provider-for-managing-aws-batch-resources/"
-    },
-    {
-        "title": "Adding configurable namespaces, persistent volume claims, and other features for AWS Batch on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/hpc/adding-configurable-namespaces-persistent-volume-claims-and-other-features-for-aws-batch-on-amazon-eks/"
     }
 ]

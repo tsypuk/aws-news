@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing just-in-time privileged access to AWS with Microsoft Entra and AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/implementing-just-in-time-privileged-access-to-aws-with-microsoft-entra-and-aws-iam-identity-center/"
+    },
+    {
         "title": "A deep dive into data protection sessions at AWS re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/a-deep-dive-into-data-protection-sessions-at-aws-reinforce-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use AWS Transfer Family and GuardDuty for malware protection",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-transfer-family-and-guardduty-for-malware-protection/"
-    },
-    {
-        "title": "How to import existing AWS Organizations SCPs and RCPs to CloudFormation",
-        "link": "https://aws.amazon.com/blogs/security/how-to-import-existing-aws-organizations-scps-and-rcps-to-cloudformation/"
     }
 ]
