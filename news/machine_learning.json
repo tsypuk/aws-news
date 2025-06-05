@@ -1,5 +1,17 @@
 [
     {
+        "title": "Impel enhances automotive dealership customer experience with fine-tuned LLMs on Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/impel-enhances-automotive-dealership-customer-experience-with-fine-tuned-llms-on-amazon-sagemaker/"
+    },
+    {
+        "title": "How climate tech startups are building foundation models with Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-climate-tech-startups-are-building-foundation-models-with-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Supercharge your development with Claude Code and Amazon Bedrock prompt caching",
+        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-development-with-claude-code-and-amazon-bedrock-prompt-caching/"
+    },
+    {
         "title": "Unlocking the power of Model Context Protocol (MCP) on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-power-of-model-context-protocol-mcp-on-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Part 3: Building an AI-powered assistant for investment research with multi-agent collaboration in Amazon Bedrock and Amazon Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/part-3-building-an-ai-powered-assistant-for-investment-research-with-multi-agent-collaboration-in-amazon-bedrock-and-amazon-bedrock-data-automation/"
-    },
-    {
-        "title": "A generative AI prototype with Amazon Bedrock transforms life sciences and the genome analysis process",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-generative-ai-prototype-with-amazon-bedrock-transforms-life-sciences-and-the-genome-analysis-process/"
-    },
-    {
-        "title": "Gemma 3 27B model now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/gemma-3-27b-model-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Building a multimodal RAG based application using Amazon Bedrock Data Automation and Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-multimodal-rag-based-application-using-amazon-bedrock-data-automation-and-amazon-bedrock-knowledge-bases/"
     }
 ]

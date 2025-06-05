@@ -1,5 +1,17 @@
 [
     {
+        "title": "Real-time Iceberg ingestion with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/real-time-iceberg-ingestion-with-aws-dms/"
+    },
+    {
+        "title": "Migrate Google Cloud SQL for PostgreSQL to Amazon RDS and Amazon Aurora using pglogical",
+        "link": "https://aws.amazon.com/blogs/database/migrate-google-cloud-sql-for-postgresql-to-amazon-rds-and-amazon-aurora-using-pglogical/"
+    },
+    {
+        "title": "Upgrade your Amazon DynamoDB global tables to the current version",
+        "link": "https://aws.amazon.com/blogs/database/upgrade-your-dynamodb-global-tables-to-the-current-version/"
+    },
+    {
         "title": "Streamline code conversion and testing from Microsoft SQL Server and Oracle to PostgreSQL with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/streamline-code-conversion-and-testing-from-microsoft-sql-server-and-oracle-to-postgresql-with-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Create a unit testing framework for PostgreSQL using the pgTAP extension",
         "link": "https://aws.amazon.com/blogs/database/create-a-unit-testing-framework-for-postgresql-using-the-pgtap-extension/"
-    },
-    {
-        "title": "Scaling Amazon RDS for MySQL performance for Careem\u2019s digital platform on AWS",
-        "link": "https://aws.amazon.com/blogs/database/scaling-amazon-rds-for-mysql-performance-for-careems-digital-platform-on-aws/"
-    },
-    {
-        "title": "Amazon CloudWatch Database Insights applied in real scenarios",
-        "link": "https://aws.amazon.com/blogs/database/amazon-cloudwatch-database-insights-applied-in-real-scenarios/"
-    },
-    {
-        "title": "Ingest CSV data to Amazon DynamoDB using AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/database/ingest-csv-data-to-amazon-dynamodb-using-aws-lambda/"
     }
 ]
