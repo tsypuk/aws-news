@@ -1,5 +1,17 @@
 [
     {
+        "title": "Modernize and migrate on-premises fraud detection machine learning workflows to Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/modernize-and-migrate-on-premises-fraud-detection-machine-learning-workflows-to-amazon-sagemaker/"
+    },
+    {
+        "title": "Contextual retrieval in Anthropic using Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/contextual-retrieval-in-anthropic-using-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Impel enhances automotive dealership customer experience with fine-tuned LLMs on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/impel-enhances-automotive-dealership-customer-experience-with-fine-tuned-llms-on-amazon-sagemaker/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Create an agentic RAG application for advanced knowledge discovery with LlamaIndex, and Mistral in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-an-agentic-rag-application-for-advanced-knowledge-discovery-with-llamaindex-and-mistral-in-amazon-bedrock/"
-    },
-    {
-        "title": "Text-to-image basics with Amazon Nova Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/text-to-image-basics-with-amazon-nova-canvas/"
-    },
-    {
-        "title": "Real-world applications of Amazon Nova Canvas for interior design and product photography",
-        "link": "https://aws.amazon.com/blogs/machine-learning/real-world-applications-of-amazon-nova-canvas-for-interior-design-and-product-photography/"
-    },
-    {
-        "title": "Part 3: Building an AI-powered assistant for investment research with multi-agent collaboration in Amazon Bedrock and Amazon Bedrock Data Automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/part-3-building-an-ai-powered-assistant-for-investment-research-with-multi-agent-collaboration-in-amazon-bedrock-and-amazon-bedrock-data-automation/"
     }
 ]

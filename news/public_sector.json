@@ -1,5 +1,9 @@
 [
     {
+        "title": "ZTAG-I, a reference zero trust architecture for the US federal government",
+        "link": "https://aws.amazon.com/blogs/publicsector/ztag-i-a-reference-zero-trust-architecture-for-the-us-federal-government/"
+    },
+    {
         "title": "Detect and investigate Amazon EC2 malware with Amazon GuardDuty and Amazon Detective",
         "link": "https://aws.amazon.com/blogs/publicsector/detect-and-investigate-amazon-ec2-malware-with-amazon-guardduty-and-amazon-detective/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Digital sovereignty to take center stage: What to expect at AWS Summit Hamburg 2025",
         "link": "https://aws.amazon.com/blogs/publicsector/digital-sovereignty-to-take-center-stage-what-to-expect-at-aws-summit-hamburg-2025/"
-    },
-    {
-        "title": "The AWS approach to social value in UK Public Sector: Creating lasting impact through technology",
-        "link": "https://aws.amazon.com/blogs/publicsector/the-aws-approach-to-social-value-in-uk-public-sector-creating-lasting-impact-through-technology/"
     }
 ]

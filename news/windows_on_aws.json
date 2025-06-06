@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to use persistent storage with AWS Elastic Beanstalk Windows deployment.",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-persistent-storage-with-aws-elastic-beanstalk-windows-deployment/"
+    },
+    {
         "title": "Automating SQL Server Point-in-Time Recovery Using EBS Snapshots",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automating-sql-server-point-in-time-recovery-using-ebs-snapshots/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-1/"
-    },
-    {
-        "title": "Harness Amazon Q Business power with Microsoft SharePoint for enterprise search",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-microsoft-sharepoint-for-enterprise-search/"
     }
 ]

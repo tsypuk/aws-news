@@ -1,5 +1,9 @@
 [
     {
+        "title": "Many voices, one community: Three themes from RSA Conference 2025",
+        "link": "https://aws.amazon.com/blogs/security/many-voices-one-community-three-themes-from-rsa-conference-2025/"
+    },
+    {
         "title": "Implementing just-in-time privileged access to AWS with Microsoft Entra and AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/implementing-just-in-time-privileged-access-to-aws-with-microsoft-entra-and-aws-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use an Amazon Bedrock powered chatbot with Amazon Security Lake to help investigate incidents",
         "link": "https://aws.amazon.com/blogs/security/use-an-amazon-bedrock-powered-chatbot-with-amazon-security-lake-to-help-investigate-incidents/"
-    },
-    {
-        "title": "How to use AWS Transfer Family and GuardDuty for malware protection",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-aws-transfer-family-and-guardduty-for-malware-protection/"
     }
 ]

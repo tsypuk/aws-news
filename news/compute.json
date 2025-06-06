@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing ODCR usage through AI-powered capacity insights",
+        "link": "https://aws.amazon.com/blogs/compute/optimizing-odcr-usage-through-ai-powered-capacity-insights/"
+    },
+    {
         "title": "Dynamically routing requests with Amazon API Gateway routing rules",
         "link": "https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless ICYMI 2025 Q1",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-2025-q1/"
-    },
-    {
-        "title": "Anchoring AWS Outposts servers with AWS Direct Connect",
-        "link": "https://aws.amazon.com/blogs/compute/anchoring-aws-outposts-servers-with-aws-direct-connect/"
     }
 ]
