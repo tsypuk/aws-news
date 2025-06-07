@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating .NET modernization with AWS Transform for .NET and CAST",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerating-net-modernization-with-aws-transform-for-net-and-cast/"
+    },
+    {
         "title": "How to use persistent storage with AWS Elastic Beanstalk Windows deployment.",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-persistent-storage-with-aws-elastic-beanstalk-windows-deployment/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Integrate multiple identity providers with AWS IAM Identity Center using Okta",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-multiple-identity-providers-with-aws-iam-identity-center-using-okta/"
-    },
-    {
-        "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-1/"
     }
 ]
