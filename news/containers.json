@@ -1,5 +1,9 @@
 [
     {
+        "title": "Maximizing GPU Utilization using NVIDIA Run:ai in Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/maximizing-gpu-utilization-using-nvidia-runai-in-amazon-eks/"
+    },
+    {
         "title": "Deep Dive: Amazon EKS Dashboard for Visibility into Multi-Cluster Operations and Governance",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-amazon-eks-dashboard-for-visibility-into-multi-cluster-operations-and-governance/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Building secure guardrails for Amazon ECS with AWS IAM and AWS CloudFormation Guard",
         "link": "https://aws.amazon.com/blogs/containers/building-secure-guardrails-for-amazon-ecs-with-aws-iam-and-aws-cloudformation-guard/"
-    },
-    {
-        "title": "Analyzing Java applications performance with async-profiler in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/analyzing-java-applications-performance-async-profiler-amazon-eks/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to estimate Amazon Bedrock costs for public sector applications",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-to-estimate-amazon-bedrock-costs-for-public-sector-applications/"
+    },
+    {
+        "title": "AWS HealthLake launches in the EU: Unlocking the future of interoperability and FHIR-based innovation",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-healthlake-launches-in-the-eu-unlocking-the-future-of-interoperability-and-fhir-based-innovation/"
+    },
+    {
         "title": "AWS Health Data & AI Day Dublin 2025: EHDS implementation and healthcare innovation",
         "link": "https://aws.amazon.com/blogs/publicsector/aws-health-data-ai-day-dublin-2025-ehds-implementation-and-healthcare-innovation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Discover how nonprofits can utilize no-code machine learning with Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/publicsector/discover-how-nonprofits-can-utilize-no-code-machine-learning-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Greenwood Genetic Center transforms genomic medicine on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/greenwood-genetic-center-transforms-genomic-medicine-on-aws/"
-    },
-    {
-        "title": "5 steps for building a VMware transition strategy for public sector customers",
-        "link": "https://aws.amazon.com/blogs/publicsector/5-steps-for-building-a-vmware-transition-strategy-for-public-sector-customers/"
     }
 ]

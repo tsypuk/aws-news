@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building intelligent AI voice agents with Pipecat and Amazon Bedrock \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-1/"
+    },
+    {
+        "title": "Stream multi-channel audio to Amazon Transcribe using the Web Audio API",
+        "link": "https://aws.amazon.com/blogs/machine-learning/stream-multi-channel-audio-to-amazon-transcribe-using-the-web-audio-api/"
+    },
+    {
+        "title": "How Kepler democratized AI access and enhanced client services with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-kepler-democratized-ai-access-and-enhanced-client-services-with-amazon-q-business/"
+    },
+    {
         "title": "Build a serverless audio summarization solution with Amazon Bedrock and Whisper",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-audio-summarization-solution-with-amazon-bedrock-and-whisper/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Deploy Amazon SageMaker Projects with Terraform Cloud",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-projects-with-terraform-cloud/"
-    },
-    {
-        "title": "How ZURU improved the accuracy of floor plan generation by 109% using Amazon Bedrock and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-zuru-improved-the-accuracy-of-floor-plan-generation-by-109-using-amazon-bedrock-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Going beyond AI assistants: Examples from Amazon.com reinventing industries with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/going-beyond-ai-assistants-examples-from-amazon-com-reinventing-industries-with-generative-ai/"
-    },
-    {
-        "title": "Architect a mature generative AI foundation on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/architect-a-mature-generative-ai-foundation-on-aws/"
     }
 ]

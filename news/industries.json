@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Zurich Insurance is becoming an AI-led insurer using Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/industries/how-zurich-insurance-is-becoming-an-ai-led-insurer-using-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Volvo Cars Streamlines In-Vehicle Software Testing with AWS Graviton on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/industries/volvo-cars-streamlines-in-vehicle-software-testing-with-aws-graviton-on-amazon-eks/"
+    },
+    {
         "title": "Reduce Genomic Discovery Time and Costs with AWS HealthOmics Run Analyzer",
         "link": "https://aws.amazon.com/blogs/industries/reduce-genomic-discovery-time-and-costs-aws-healthomics-run-analyzer/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Highlights from the 2025 AWS Life Sciences Symposium\u2019s Commercialization track",
         "link": "https://aws.amazon.com/blogs/industries/highlights-from-the-2025-aws-life-sciences-symposiums-commercialization-track/"
-    },
-    {
-        "title": "On-device SLMs with agentic orchestration for hyper-personalized customer experiences in telecom",
-        "link": "https://aws.amazon.com/blogs/industries/on-device-slms-with-agentic-orchestration-for-hyper-personalized-customer-experiences-in-telecom/"
-    },
-    {
-        "title": "Using Amazon Q in healthcare organizations",
-        "link": "https://aws.amazon.com/blogs/industries/using-amazon-q-in-healthcare-organizations/"
     }
 ]
