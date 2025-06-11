@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing centralized and distributed network connectivity patterns for Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/designing-centralized-and-distributed-network-connectivity-patterns-for-amazon-opensearch-serverless/"
+    },
+    {
         "title": "Simplify real-time analytics with zero-ETL from Amazon DynamoDB to Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-real-time-analytics-with-zero-etl-from-amazon-dynamodb-to-amazon-sagemaker-lakehouse/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify enterprise data access using the Amazon Redshift integration with Amazon S3 Access Grants",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-enterprise-data-access-using-the-amazon-redshift-integration-with-amazon-s3-access-grants/"
-    },
-    {
-        "title": "Access Amazon Redshift Managed Storage tables through Apache Spark on AWS Glue and Amazon EMR using Amazon SageMaker Lakehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/access-amazon-redshift-managed-storage-tables-through-apache-spark-on-aws-glue-and-amazon-emr-using-amazon-sagemaker-lakehouse/"
     }
 ]

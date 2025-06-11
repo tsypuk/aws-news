@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building identity-first security: A guide to the Identity and Access Management track at AWS re:Inforce 2025",
+        "link": "https://aws.amazon.com/blogs/security/building-identity-first-security-a-guide-to-the-identity-and-access-management-track-at-aws-reinforce-2025/"
+    },
+    {
         "title": "Building secure foundations: A guide to network and infrastructure security at AWS re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/building-secure-foundations-a-guide-to-network-and-infrastructure-security-at-aws-reinforce-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to manage migration of hsm1.medium CloudHSM clusters to hsm2m.medium",
         "link": "https://aws.amazon.com/blogs/security/how-to-manage-migration-of-hsm1-medium-cloudhsm-clusters-to-hsm2m-medium/"
-    },
-    {
-        "title": "AWS expands Spain\u2019s ENS High certification across 174 services",
-        "link": "https://aws.amazon.com/blogs/security/aws-expands-spains-ens-high-certification-across-174-services/"
     }
 ]

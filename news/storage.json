@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate data transfers and migrations with AWS DataSync and Terraform",
+        "link": "https://aws.amazon.com/blogs/storage/automate-data-transfers-and-migrations-with-aws-datasync-and-terraform/"
+    },
+    {
         "title": "Best practice configuration of Amazon FSx for NetApp ONTAP for Microsoft SQL Server workloads",
         "link": "https://aws.amazon.com/blogs/storage/best-practice-configuration-of-amazon-fsx-for-netapp-ontap-for-microsoft-sql-server-workloads/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Prime Video improved stream analytics performance with Amazon S3 Express One Zone",
         "link": "https://aws.amazon.com/blogs/storage/prime-video-improved-stream-analytics-performance-with-amazon-s3-express-one-zone/"
-    },
-    {
-        "title": "Real-time monitoring of AWS Elastic Disaster Recovery using Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/storage/real-time-monitoring-of-elastic-disaster-recovery-using-amazon-q-developer/"
     }
 ]
