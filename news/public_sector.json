@@ -1,5 +1,21 @@
 [
     {
+        "title": "New AWS WickrGov offerings to enable secure, compliant communication on multiple devices",
+        "link": "https://aws.amazon.com/blogs/publicsector/new-aws-wickrgov-offerings-to-enable-secure-compliant-communication-on-multiple-devices/"
+    },
+    {
+        "title": "Accelerating government innovation: Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
+        "link": "https://aws.amazon.com/blogs/publicsector/accelerating-government-innovation-amazon-bedrock-models-get-fedramp-high-and-dod-il-4-5-approval-in-aws-govcloud-us/"
+    },
+    {
+        "title": "Building trust in healthcare data: Real-world interoperability with AWS HealthLake and DataArt",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-trust-in-healthcare-data-real-world-interoperability-with-aws-healthlake-and-dataart/"
+    },
+    {
+        "title": "Transforming European healthcare: HippocrAItes\u2019 EHDS-ready health data platform",
+        "link": "https://aws.amazon.com/blogs/publicsector/transforming-european-healthcare-hippocraites-ehds-ready-health-data-platform/"
+    },
+    {
         "title": "Highlights from the 2025 AWS Summit Washington, DC keynote",
         "link": "https://aws.amazon.com/blogs/publicsector/highlights-from-the-2025-aws-summit-washington-dc-keynote/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Customizing isolated JupyterLab environments in Amazon SageMaker Studio",
         "link": "https://aws.amazon.com/blogs/publicsector/customizing-isolated-jupyterlab-environments-in-amazon-sagemaker-studio/"
-    },
-    {
-        "title": "Building machine learning operations framework with Amazon SageMaker: Technical Safety BC\u2019s Journey",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-machine-learning-operations-framework-with-amazon-sagemaker-technical-safety-bcs-journey/"
-    },
-    {
-        "title": "Educating for a greener future: Saving the Earth one migration at a time with AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/26338-2/"
-    },
-    {
-        "title": "Change.org\u2019s Ray-based recommender on Amazon EKS increases petition signatures by 30%",
-        "link": "https://aws.amazon.com/blogs/publicsector/change-orgs-ray-based-recommender-on-amazon-eks-increases-petition-signatures-by-30/"
-    },
-    {
-        "title": "AWS Professional Services collaborates with NOAA and GAMA-1 Technologies to expand NESDIS Common Cloud Framework capabilities",
-        "link": "https://aws.amazon.com/blogs/publicsector/aws-professional-services-collaborates-with-noaa-and-gama-1-technologies-to-expand-nesdis-common-cloud-framework-capabilities/"
     }
 ]

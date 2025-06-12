@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS completes Police-Assured Secure Facilities (PASF) audit in Europe (London) AWS Region",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-police-assured-secure-facilities-pasf-audit-in-europe-london-aws-region/"
+    },
+    {
         "title": "Building identity-first security: A guide to the Identity and Access Management track at AWS re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/building-identity-first-security-a-guide-to-the-identity-and-access-management-track-at-aws-reinforce-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing safety guardrails for applications using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/security/implementing-safety-guardrails-for-applications-using-amazon-sagemaker/"
-    },
-    {
-        "title": "How to manage migration of hsm1.medium CloudHSM clusters to hsm2m.medium",
-        "link": "https://aws.amazon.com/blogs/security/how-to-manage-migration-of-hsm1-medium-cloudhsm-clusters-to-hsm2m-medium/"
     }
 ]

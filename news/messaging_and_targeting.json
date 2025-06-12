@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring AWS End User Messaging SMS Registrations with Lambda",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/monitoring-aws-end-user-messaging-sms-registrations-with-lambda/"
+    },
+    {
         "title": "AWS End User Messaging SMS & Voice v2 API: A Migration Guide from v1",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-end-user-messaging-sms-and-voice-v2-api-a-migration-guide-from-v1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building AI-powered customer experiences using a modern communications hub",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-ai-powered-customer-experiences-using-a-modern-communications-hub/"
-    },
-    {
-        "title": "Automatizaci\u00f3n de flujos de trabajo con WhatsApp usando AWS End User Messaging Social",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automatizacion-de-flujos-de-trabajo-con-whatsapp-usando-aws-end-user-messaging-social/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Adobe enhances developer productivity using Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/adobe-enhances-developer-productivity-using-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Amazon Nova Lite enables Bito to offer a free tier option for its AI-powered code reviews",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-lite-enables-bito-to-offer-a-free-tier-option-for-its-ai-powered-code-reviews/"
+    },
+    {
+        "title": "How Gardenia Technologies helps customers create ESG disclosure reports 75% faster using agentic generative AI on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-gardenia-technologies-helps-customers-create-esg-disclosure-reports-75-faster-using-agentic-generative-ai-on-amazon-bedrock/"
+    },
+    {
+        "title": "NVIDIA Nemotron Super 49B and Nano 8B reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-super-49b-and-nano-8b-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Automate customer support with Amazon Bedrock, LangGraph, and Mistral models",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-customer-support-with-amazon-bedrock-langgraph-and-mistral-models/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How climate tech startups are building foundation models with Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-climate-tech-startups-are-building-foundation-models-with-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Supercharge your development with Claude Code and Amazon Bedrock prompt caching",
-        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-development-with-claude-code-and-amazon-bedrock-prompt-caching/"
-    },
-    {
-        "title": "Unlocking the power of Model Context Protocol (MCP) on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-power-of-model-context-protocol-mcp-on-aws/"
-    },
-    {
-        "title": "Build a scalable AI assistant to help refugees using AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-assistant-to-help-refugees-using-aws/"
-    },
-    {
-        "title": "Enhanced diagnostics flow with LLM and Amazon Bedrock agent integration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-diagnostics-flow-with-llm-and-amazon-bedrock-agent-integration/"
     }
 ]

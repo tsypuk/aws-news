@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy your first web application with Amazon GameLift Streams",
+        "link": "https://aws.amazon.com/blogs/gametech/deploy-your-first-web-application-with-amazon-gamelift-streams/"
+    },
+    {
         "title": "Amazon GameLift Servers Streamlines Integration with Unreal Engine 5",
         "link": "https://aws.amazon.com/blogs/gametech/amazon-gamelift-servers-streamlines-integration-with-unreal-engine-5/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The Gang readies to scale its games catalog with LootLocker and AWS",
         "link": "https://aws.amazon.com/blogs/gametech/the-gang-readies-to-scale-its-games-catalog-with-lootlocker-and-aws/"
-    },
-    {
-        "title": "Developer\u2019s Guide to operate game servers on Kubernetes \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/gametech/developers-guide-to-operate-game-servers-on-kubernetes-part-2/"
     }
 ]
