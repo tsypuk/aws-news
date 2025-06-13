@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the AWS Security Champion Knowledge Path and digital badge",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-security-champion-knowledge-path-and-digital-badge/"
+    },
+    {
         "title": "AWS completes Police-Assured Secure Facilities (PASF) audit in Europe (London) AWS Region",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-police-assured-secure-facilities-pasf-audit-in-europe-london-aws-region/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitoring and optimizing the cost of the unused access analyzer in IAM Access Analyzer",
         "link": "https://aws.amazon.com/blogs/security/monitoring-and-optimizing-the-cost-of-the-unused-access-analyzer-in-iam-access-analyzer/"
-    },
-    {
-        "title": "Implementing safety guardrails for applications using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/security/implementing-safety-guardrails-for-applications-using-amazon-sagemaker/"
     }
 ]

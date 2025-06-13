@@ -1,5 +1,9 @@
 [
     {
+        "title": "Validating event payload with Powertools for AWS Lambda (TypeScript)",
+        "link": "https://aws.amazon.com/blogs/compute/validating-event-payload-with-powertools-for-aws-lambda-typescript/"
+    },
+    {
         "title": "Optimizing ODCR usage through AI-powered capacity insights",
         "link": "https://aws.amazon.com/blogs/compute/optimizing-odcr-usage-through-ai-powered-capacity-insights/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enriching and customizing notifications with Amazon EventBridge Pipes",
         "link": "https://aws.amazon.com/blogs/compute/enriching-and-customizing-notifications-with-amazon-eventbridge-pipes/"
-    },
-    {
-        "title": "Serverless ICYMI 2025 Q1",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-2025-q1/"
     }
 ]

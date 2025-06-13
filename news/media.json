@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Indegene Optimizes User Experience with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/mt/transforming-healthcare-application-monitoring-indegenes-journey-with-amazon-cloudwatch/"
+    },
+    {
+        "title": "Exporting a subset of AWS CloudTrail Lake events to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/mt/exporting-a-subset-of-aws-cloudtrail-lake-events-to-amazon-s3/"
+    },
+    {
         "title": "New: AWS CloudTrail Lake Event Enrichment: Add Business Context to AWS Activity Logs",
         "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-lake-now-supports-event-enrichment-add-business-context-to-your-aws-activity-logs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Analyze Azure Audit Logs with CloudTrail Lake",
         "link": "https://aws.amazon.com/blogs/mt/analyze-azure-audit-logs-with-cloudtrail-lake/"
-    },
-    {
-        "title": "Unlock the Power of AWS Config: Centralized Compliance and Resource Management",
-        "link": "https://aws.amazon.com/blogs/mt/unlock-the-power-of-aws-config-centralized-compliance-and-resource-management/"
-    },
-    {
-        "title": "Simplify AWS Cost Data Analysis with Amazon Q in QuickSight",
-        "link": "https://aws.amazon.com/blogs/mt/simplify-aws-cost-data-analysis-with-amazon-q-and-quicksight/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing new application layer (L7) DDoS protections for AWS WAF and AWS Shield Advanced customers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-the-aws-waf-application-layer-ddos-protection/"
+    },
+    {
         "title": "Design and build IPv6 internet inspection architectures on AWS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/design-and-build-ipv6-internet-inspection-architectures-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Exploring Data Transfer Costs for AWS Network Load Balancers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-data-transfer-costs-for-aws-network-load-balancers/"
-    },
-    {
-        "title": "Securing your web applications and optimizing their performance with AWS Application Load Balancer",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-your-web-applications-and-optimizing-their-performance-with-aws-application-load-balancer/"
     }
 ]

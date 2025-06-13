@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows",
+        "link": "https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/"
+    },
+    {
+        "title": "Amazon Q Developer Java Upgrades: A Deep Dive into the New Selective Transformation Feature",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-java-upgrades-a-deep-dive-into-new-selective-transformation-feature/"
+    },
+    {
         "title": "Access Claude Sonnet 4 in Amazon Q Developer CLI",
         "link": "https://aws.amazon.com/blogs/devops/access-claude-sonnet-4-in-amazon-q-developer-cli/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing General Availability of GitLab Duo with Amazon Q",
         "link": "https://aws.amazon.com/blogs/devops/announcing-general-availability-of-gitlab-duo-with-amazon-q/"
-    },
-    {
-        "title": "Accelerate large-scale modernization of .NET, mainframe, and VMware workloads using Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-large-scale-modernization-of-net-mainframe-and-vmware-workloads-using-amazon-q-developer/"
-    },
-    {
-        "title": "Announcing the European region for Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-european-region/"
     }
 ]

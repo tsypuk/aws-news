@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerating Articul8\u2019s domain-specific model development with Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-articul8s-domain-specific-model-development-with-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "How VideoAmp uses Amazon Bedrock to power their media analytics interface",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-videoamp-uses-amazon-bedrock-to-power-their-media-analytics-interface/"
+    },
+    {
         "title": "Adobe enhances developer productivity using Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/machine-learning/adobe-enhances-developer-productivity-using-amazon-bedrock-knowledge-bases/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Impel enhances automotive dealership customer experience with fine-tuned LLMs on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/impel-enhances-automotive-dealership-customer-experience-with-fine-tuned-llms-on-amazon-sagemaker/"
-    },
-    {
-        "title": "How climate tech startups are building foundation models with Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-climate-tech-startups-are-building-foundation-models-with-amazon-sagemaker-hyperpod/"
     }
 ]
