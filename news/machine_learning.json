@@ -1,5 +1,25 @@
 [
     {
+        "title": "Deploy Qwen models with Amazon Bedrock Custom Model Import",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-qwen-models-with-amazon-bedrock-custom-model-import/"
+    },
+    {
+        "title": "Build generative AI solutions with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-solutions-with-amazon-bedrock/"
+    },
+    {
+        "title": "How Netsertive built a scalable AI assistant to extract meaningful insights from real-time data using Amazon Bedrock and Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-netsertive-built-a-scalable-ai-assistant-to-extract-meaningful-insights-from-real-time-data-using-amazon-bedrock-and-amazon-nova/"
+    },
+    {
+        "title": "Make videos accessible with automated audio descriptions using Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/make-videos-accessible-with-automated-audio-descriptions-using-amazon-nova/"
+    },
+    {
+        "title": "Training Llama 3.3 Swallow: A Japanese sovereign LLM on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/training-llama-3-3-swallow-a-japanese-sovereign-llm-on-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Accelerating Articul8\u2019s domain-specific model development with Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-articul8s-domain-specific-model-development-with-amazon-sagemaker-hyperpod/"
     },
@@ -36,7 +56,7 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/effective-cost-optimization-strategies-for-amazon-bedrock/"
     },
     {
-        "title": "How E.ON saves \u00a310 million annually with AI diagnostics for smart meters powered by Amazon Textract",
+        "title": "How E.ON plans to save \u00a310 million annually with AI diagnostics for smart meters powered by Amazon Textract",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-e-on-saves-10-million-annually-with-ai-diagnostics-for-smart-meters-powered-by-amazon-textract/"
     },
     {
@@ -58,25 +78,5 @@
     {
         "title": "Implement semantic video search using open source large vision models on Amazon SageMaker and Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-semantic-video-search-using-open-source-large-vision-models-on-amazon-sagemaker-and-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Multi-account support for Amazon SageMaker HyperPod task governance",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multi-account-support-for-amazon-sagemaker-hyperpod-task-governance/"
-    },
-    {
-        "title": "Build a Text-to-SQL solution for data consistency in generative AI using Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-text-to-sql-solution-for-data-consistency-in-generative-ai-using-amazon-nova/"
-    },
-    {
-        "title": "Modernize and migrate on-premises fraud detection machine learning workflows to Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/modernize-and-migrate-on-premises-fraud-detection-machine-learning-workflows-to-amazon-sagemaker/"
-    },
-    {
-        "title": "Contextual retrieval in Anthropic using Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/contextual-retrieval-in-anthropic-using-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/"
     }
 ]

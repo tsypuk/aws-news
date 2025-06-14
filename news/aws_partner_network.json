@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cyber recovery with AWS Elastic Disaster Recovery and Elastio Platform",
+        "link": "https://aws.amazon.com/blogs/apn/cyber-recovery-with-aws-elastic-disaster-recovery-and-elastio-platform/"
+    },
+    {
         "title": "Secure Digital Assets with Blockdaemon Builder Vault using AWS Nitro Enclaves",
         "link": "https://aws.amazon.com/blogs/apn/secure-digital-assets-with-blockdaemon-builder-vault-using-aws-nitro-enclaves/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building Resilient Distributed Systems with Temporal and AWS",
         "link": "https://aws.amazon.com/blogs/apn/building-resilient-distributed-systems-with-temporal-and-aws/"
-    },
-    {
-        "title": "Next-Generation Data Integration with AWS Data Services and Dataddo",
-        "link": "https://aws.amazon.com/blogs/apn/next-generation-data-integration-with-aws-data-services-and-dataddo/"
     }
 ]

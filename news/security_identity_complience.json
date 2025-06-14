@@ -1,5 +1,17 @@
 [
     {
+        "title": "How to create post-quantum signatures using AWS KMS and ML-DSA",
+        "link": "https://aws.amazon.com/blogs/security/how-to-create-post-quantum-signatures-using-aws-kms-and-ml-dsa/"
+    },
+    {
+        "title": "AI security strategies from Amazon and the CIA: Insights from AWS Summit Washington, DC",
+        "link": "https://aws.amazon.com/blogs/security/ai-security-strategies-from-amazon-and-the-cia-insights-from-aws-summit-washington-dc/"
+    },
+    {
+        "title": "AWS CIRT announces the launch of the Threat Technique Catalog for AWS",
+        "link": "https://aws.amazon.com/blogs/security/aws-cirt-announces-the-launch-of-the-threat-technique-catalog-for-aws/"
+    },
+    {
         "title": "Introducing the AWS Security Champion Knowledge Path and digital badge",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-security-champion-knowledge-path-and-digital-badge/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Protect against advanced DNS threats with Amazon Route 53 Resolver DNS Firewall",
         "link": "https://aws.amazon.com/blogs/security/protect-against-advanced-dns-threats-with-amazon-route-53-resolver-dns-firewall/"
-    },
-    {
-        "title": "AI lifecycle risk management: ISO/IEC 42001:2023 for AI governance",
-        "link": "https://aws.amazon.com/blogs/security/ai-lifecycle-risk-management-iso-iec-420012023-for-ai-governance/"
-    },
-    {
-        "title": "Mapping AWS security services to MITRE frameworks for threat detection and mitigation",
-        "link": "https://aws.amazon.com/blogs/security/mapping-aws-security-services-to-mitre-frameworks-for-threat-detection-and-mitigation/"
-    },
-    {
-        "title": "Monitoring and optimizing the cost of the unused access analyzer in IAM Access Analyzer",
-        "link": "https://aws.amazon.com/blogs/security/monitoring-and-optimizing-the-cost-of-the-unused-access-analyzer-in-iam-access-analyzer/"
     }
 ]

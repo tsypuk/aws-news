@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using Strands Agents with Claude 4 Interleaved Thinking",
+        "link": "https://aws.amazon.com/blogs/opensource/using-strands-agents-with-claude-4-interleaved-thinking/"
+    },
+    {
         "title": "GNOME has a new infrastructure partner: welcome AWS!",
         "link": "https://aws.amazon.com/blogs/opensource/gnome-has-a-new-infrastructure-partner-welcome-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Expedite Production Ready Distributed Application Development with Dapr on AWS",
         "link": "https://aws.amazon.com/blogs/opensource/expedite-production-ready-distributed-application-development-with-dapr-on-aws/"
-    },
-    {
-        "title": "Achieving Zero Trust Security on Amazon EKS with Istio",
-        "link": "https://aws.amazon.com/blogs/opensource/achieving-zero-trust-security-on-amazon-eks-with-istio/"
     }
 ]
