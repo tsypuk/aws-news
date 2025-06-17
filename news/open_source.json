@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Cedar Analysis: Open Source Tools for Verifying Authorization Policies",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-cedar-analysis-open-source-tools-for-verifying-authorization-policies/"
+    },
+    {
         "title": "Using Strands Agents with Claude 4 Interleaved Thinking",
         "link": "https://aws.amazon.com/blogs/opensource/using-strands-agents-with-claude-4-interleaved-thinking/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Welcomes the OpenSearch Software Foundation",
         "link": "https://aws.amazon.com/blogs/opensource/aws-welcomes-the-opensearch-foundation/"
-    },
-    {
-        "title": "Expedite Production Ready Distributed Application Development with Dapr on AWS",
-        "link": "https://aws.amazon.com/blogs/opensource/expedite-production-ready-distributed-application-development-with-dapr-on-aws/"
     }
 ]

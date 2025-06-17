@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting scalable checkpoint storage for large-scale ML training on AWS",
+        "link": "https://aws.amazon.com/blogs/storage/architecting-scalable-checkpoint-storage-for-large-scale-ml-training-on-aws/"
+    },
+    {
         "title": "Query Amazon S3 Tables from open source Trino using Apache Iceberg REST endpoint",
         "link": "https://aws.amazon.com/blogs/storage/query-amazon-s3-tables-from-open-source-trino-using-apache-iceberg-rest-endpoint/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How FICO modernizes file transfers with ETL automation using AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/how-fico-modernizes-file-transfers-with-etl-automation-using-aws-transfer-family/"
-    },
-    {
-        "title": "Enhancing resource-level permissions for copying Amazon EBS snapshots",
-        "link": "https://aws.amazon.com/blogs/storage/enhancing-resource-level-permissions-for-copying-amazon-ebs-snapshots/"
     }
 ]

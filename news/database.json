@@ -1,5 +1,13 @@
 [
     {
+        "title": "Native SQL Server replication options on Amazon RDS Custom for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/native-sql-server-replication-options-on-amazon-rds-custom-for-sql-server/"
+    },
+    {
+        "title": "Implement row-level security in Amazon Aurora MySQL and Amazon RDS for MySQL",
+        "link": "https://aws.amazon.com/blogs/database/implement-row-level-security-in-amazon-aurora-mysql-and-amazon-rds-for-mysql/"
+    },
+    {
         "title": "Understanding resource distribution and performance analysis using AWS DMS enhanced monitoring",
         "link": "https://aws.amazon.com/blogs/database/understanding-resource-distribution-and-performance-analysis-using-aws-dms-enhanced-monitoring/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Run SQL Server post-migration activities using Cloud Migration Factory on AWS",
         "link": "https://aws.amazon.com/blogs/database/run-sql-server-post-migration-activities-using-cloud-migration-factory-on-aws/"
-    },
-    {
-        "title": "Amazon Aurora Global Database introduces support for up to 10 secondary Regions",
-        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-global-database-introduces-support-for-up-to-10-secondary-regions/"
-    },
-    {
-        "title": "How to configure a Linked Server between Amazon RDS for SQL Server and Teradata database",
-        "link": "https://aws.amazon.com/blogs/database/how-to-configure-a-linked-server-between-amazon-rds-for-sql-server-and-teradata-database/"
     }
 ]

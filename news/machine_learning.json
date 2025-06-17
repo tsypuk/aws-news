@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Apollo Tyres is unlocking machine insights using agentic AI-powered Manufacturing Reasoner",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/"
+    },
+    {
+        "title": "Extend your Amazon Q Business with PagerDuty Advance data accessor",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extend-your-amazon-q-business-with-pagerduty-advance-data-accessor/"
+    },
+    {
+        "title": "Innovate business logic by implementing return of control in Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/innovate-business-logic-by-implementing-return-of-control-in-amazon-bedrock-agents/"
+    },
+    {
         "title": "Deploy Qwen models with Amazon Bedrock Custom Model Import",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-qwen-models-with-amazon-bedrock-custom-model-import/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Stream multi-channel audio to Amazon Transcribe using the Web Audio API",
         "link": "https://aws.amazon.com/blogs/machine-learning/stream-multi-channel-audio-to-amazon-transcribe-using-the-web-audio-api/"
-    },
-    {
-        "title": "How Kepler democratized AI access and enhanced client services with Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-kepler-democratized-ai-access-and-enhanced-client-services-with-amazon-q-business/"
-    },
-    {
-        "title": "Build a serverless audio summarization solution with Amazon Bedrock and Whisper",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-audio-summarization-solution-with-amazon-bedrock-and-whisper/"
-    },
-    {
-        "title": "Implement semantic video search using open source large vision models on Amazon SageMaker and Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-semantic-video-search-using-open-source-large-vision-models-on-amazon-sagemaker-and-amazon-opensearch-serverless/"
     }
 ]

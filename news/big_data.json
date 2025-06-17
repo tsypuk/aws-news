@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce time to access your transactional data for analytical processing using the power of Amazon SageMaker Lakehouse and zero-ETL",
+        "link": "https://aws.amazon.com/blogs/big-data/reduce-time-to-access-your-transactional-data-for-analytical-processing-using-the-power-of-amazon-sagemaker-lakehouse-and-zero-etl/"
+    },
+    {
         "title": "Enhance security and performance with TLS 1.3 and Perfect Forward Secrecy on Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-security-and-performance-with-tls-1-3-and-perfect-forward-secrecy-on-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scalable analytics and centralized governance for Apache Iceberg tables using Amazon S3 Tables and Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/scalable-analytics-and-centralized-governance-for-apache-iceberg-tables-using-amazon-s3-tables-and-amazon-redshift/"
-    },
-    {
-        "title": "Empower financial analytics by creating structured knowledge bases using Amazon Bedrock and Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/empower-financial-analytics-by-creating-structured-knowledge-bases-using-amazon-bedrock-and-amazon-redshift/"
     }
 ]

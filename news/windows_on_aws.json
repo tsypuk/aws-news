@@ -1,5 +1,13 @@
 [
     {
+        "title": "Containerize your legacy ASP.NET application in a few clicks using AWS Migration Hub Orchestrator",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-asp-net-application-using-aws-migration-hub-orchestrator/"
+    },
+    {
+        "title": "Testing 3-tier Windows app resilience on AWS with Resilience Testing",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-3-tier-windows-app-resilience-on-aws-with-resilience-testing/"
+    },
+    {
         "title": "Accelerating .NET modernization with AWS Transform for .NET and CAST",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerating-net-modernization-with-aws-transform-for-net-and-cast/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "How The Hartford jumpstarted .NET modernization with AWS Transform",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-the-hartford-jumpstarted-net-modernization-with-aws-transform/"
-    },
-    {
-        "title": "Compliant and Cost-Effective Microsoft Dynamics 365 CE Implementation on AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/compliant-and-cost-effective-microsoft-dynamics-365-ce-implementation-on-aws/"
-    },
-    {
-        "title": "Integrate multiple identity providers with AWS IAM Identity Center using Okta",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-multiple-identity-providers-with-aws-iam-identity-center-using-okta/"
     }
 ]
