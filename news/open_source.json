@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing AWS CDK Community Meetings",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-aws-cdk-community-meetings/"
+    },
+    {
+        "title": "Secure your Express application APIs in 5 minutes with Cedar",
+        "link": "https://aws.amazon.com/blogs/opensource/secure-your-application-apis-in-5-minutes-with-cedar/"
+    },
+    {
         "title": "Introducing Cedar Analysis: Open Source Tools for Verifying Authorization Policies",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-cedar-analysis-open-source-tools-for-verifying-authorization-policies/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhancing Developer Productivity: Finch\u2019s Support for Development Containers and the Finch Daemon",
         "link": "https://aws.amazon.com/blogs/opensource/enhancing-developer-productivity-finchs-support-for-development-containers-and-the-finch-daemon/"
-    },
-    {
-        "title": "Announcing Finch on Linux for Container Development",
-        "link": "https://aws.amazon.com/blogs/opensource/announcing-finch-on-linux-for-container-development/"
-    },
-    {
-        "title": "AWS Welcomes the OpenSearch Software Foundation",
-        "link": "https://aws.amazon.com/blogs/opensource/aws-welcomes-the-opensearch-foundation/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Protect on-premises VMware infrastructure with NetApp BlueXP Disaster Recovery, Amazon Elastic VMware Service, and Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/protect-on-premises-vmware-infrastructure-with-netapp-bluexp-disaster-recovery-amazon-elastic-vmware-service-and-amazon-fsx-for-netapp-ontap/"
+    },
+    {
+        "title": "Building multi-writer applications on Amazon S3 using native controls",
+        "link": "https://aws.amazon.com/blogs/storage/building-multi-writer-applications-on-amazon-s3-using-native-controls/"
+    },
+    {
         "title": "Architecting scalable checkpoint storage for large-scale ML training on AWS",
         "link": "https://aws.amazon.com/blogs/storage/architecting-scalable-checkpoint-storage-for-large-scale-ml-training-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Using AWS Backup and Oracle Fast Recovery Area on Amazon FSx for NetApp ONTAP for backup/restore of Oracle databases on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/storage/using-aws-backup-and-oracle-fast-recovery-area-on-amazon-fsx-for-netapp-ontap-for-backup-restore-of-oracle-databases-on-amazon-ec2/"
-    },
-    {
-        "title": "Implementing restore testing for recovery validation using AWS Backup",
-        "link": "https://aws.amazon.com/blogs/storage/implementing-restore-testing-for-recovery-validation-using-aws-backup/"
-    },
-    {
-        "title": "How FICO modernizes file transfers with ETL automation using AWS Transfer Family",
-        "link": "https://aws.amazon.com/blogs/storage/how-fico-modernizes-file-transfers-with-etl-automation-using-aws-transfer-family/"
     }
 ]

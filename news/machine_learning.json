@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Anomalo solves unstructured data quality issues to deliver trusted assets for AI with AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-anomalo-solves-unstructured-data-quality-issues-to-deliver-trusted-assets-for-ai-with-aws/"
+    },
+    {
+        "title": "An innovative financial services leader finds the right AI solution: Robinhood and Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/an-innovative-financial-services-leader-finds-the-right-ai-solution-robinhood-and-amazon-nova/"
+    },
+    {
+        "title": "Build conversational interfaces for structured data using Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-conversational-interfaces-for-structured-data-using-amazon-bedrock-knowledge-bases/"
+    },
+    {
         "title": "How Apollo Tyres is unlocking machine insights using agentic AI-powered Manufacturing Reasoner",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Effective cost optimization strategies for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/effective-cost-optimization-strategies-for-amazon-bedrock/"
-    },
-    {
-        "title": "How E.ON plans to save \u00a310 million annually with AI diagnostics for smart meters powered by Amazon Textract",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-e-on-saves-10-million-annually-with-ai-diagnostics-for-smart-meters-powered-by-amazon-textract/"
-    },
-    {
-        "title": "Building intelligent AI voice agents with Pipecat and Amazon Bedrock \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-1/"
-    },
-    {
-        "title": "Stream multi-channel audio to Amazon Transcribe using the Web Audio API",
-        "link": "https://aws.amazon.com/blogs/machine-learning/stream-multi-channel-audio-to-amazon-transcribe-using-the-web-audio-api/"
     }
 ]

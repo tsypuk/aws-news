@@ -1,5 +1,17 @@
 [
     {
+        "title": "Macquarie University accelerates cloud transformation with AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/macquarie-university-accelerates-cloud-transformation-with-aws/"
+    },
+    {
+        "title": "From local servers to global impact: How Learning Upgrade uses AWS to reach millions of learners in need",
+        "link": "https://aws.amazon.com/blogs/publicsector/from-local-servers-to-global-impact-how-learning-upgrade-uses-aws-to-reach-millions-of-learners-in-need/"
+    },
+    {
+        "title": "Create a multicloud FinOps dashboard with Amazon QuickSight using AWS services",
+        "link": "https://aws.amazon.com/blogs/publicsector/create-a-multicloud-finops-dashboard-with-amazon-quicksight-using-aws-services/"
+    },
+    {
         "title": "Empowering the public sector with Amazon Q Business: Best practices for security, efficiency, and scalability",
         "link": "https://aws.amazon.com/blogs/publicsector/empowering-the-public-sector-with-amazon-q-business-best-practices-for-security-efficiency-and-scalability/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "ZTAG-I, a reference zero trust architecture for the US federal government",
         "link": "https://aws.amazon.com/blogs/publicsector/ztag-i-a-reference-zero-trust-architecture-for-the-us-federal-government/"
-    },
-    {
-        "title": "Detect and investigate Amazon EC2 malware with Amazon GuardDuty and Amazon Detective",
-        "link": "https://aws.amazon.com/blogs/publicsector/detect-and-investigate-amazon-ec2-malware-with-amazon-guardduty-and-amazon-detective/"
-    },
-    {
-        "title": "Modernizing mission-critical Oracle E-Business Suite on AWS: A success story in migration and optimization",
-        "link": "https://aws.amazon.com/blogs/publicsector/modernizing-mission-critical-oracle-e-business-suite-on-aws-a-success-story-in-migration-and-optimization/"
-    },
-    {
-        "title": "Build a secure AWS foundation in under 60 minutes: A guide for public sector organizations",
-        "link": "https://aws.amazon.com/blogs/publicsector/build-a-secure-aws-foundation-in-under-60-minutes-a-guide-for-public-sector-organizations/"
     }
 ]

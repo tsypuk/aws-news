@@ -1,5 +1,25 @@
 [
     {
+        "title": "Secure your Express application APIs in minutes with Amazon Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/security/secure-your-express-application-apis-in-minutes-with-amazon-verified-permissions/"
+    },
+    {
+        "title": "Improve your security posture using Amazon threat intelligence on AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/security/improve-your-security-posture-using-amazon-threat-intelligence-on-aws-network-firewall/"
+    },
+    {
+        "title": "How AWS is simplifying security at scale: Four keys to faster innovation from AWS re:Inforce 2025",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-is-simplifying-security-at-scale-four-keys-to-faster-innovation-from-aws-reinforce-2025/"
+    },
+    {
+        "title": "Beyond compute: Shifting vulnerability detection left with Amazon Inspector code security capabilities",
+        "link": "https://aws.amazon.com/blogs/security/shifting-vulnerability-detection-left-with-amazon-inspector-code-security-capabilities/"
+    },
+    {
+        "title": "Introducing the new console experience for AWS WAF",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-new-console-experience-for-aws-waf/"
+    },
+    {
         "title": "How AWS improves active defense to empower customers",
         "link": "https://aws.amazon.com/blogs/security/how-aws-improves-active-defense-to-empower-customers/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Introducing new regional implementations of Landing Zone Accelerator on AWS to support digital sovereignty",
         "link": "https://aws.amazon.com/blogs/security/introducing-new-regional-implementations-of-landing-zone-accelerator-on-aws-to-support-digital-sovereignty/"
-    },
-    {
-        "title": "How to use the new AWS Secrets Manager Cost Allocation Tags feature",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-new-aws-secrets-manager-cost-allocation-tags-feature/"
-    },
-    {
-        "title": "Elevate your AI security: Must-see re:Inforce 2025 sessions",
-        "link": "https://aws.amazon.com/blogs/security/reinforce-2025-genai-sessions/"
-    },
-    {
-        "title": "Navigating the threat detection and incident response track at re:Inforce 2025",
-        "link": "https://aws.amazon.com/blogs/security/navigating-the-threat-detection-and-incident-response-track-at-reinforce-2025/"
-    },
-    {
-        "title": "How to automate incident response for Amazon EKS on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/security/how-to-automate-incident-response-for-amazon-eks-on-amazon-ec2/"
-    },
-    {
-        "title": "Introducing the AWS User Guide to Governance, Risk and Compliance for Responsible AI Adoption within Financial Services Industries",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption-within-financial-services-industries/"
     }
 ]
