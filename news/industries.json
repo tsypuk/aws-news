@@ -1,5 +1,13 @@
 [
     {
+        "title": "Health AI Hub accelerates healthcare innovation in Europe, Middle East, and Africa",
+        "link": "https://aws.amazon.com/blogs/industries/health-ai-hub/"
+    },
+    {
+        "title": "Synchronize keys automatically from payment HSMs to AWS Payment Cryptography",
+        "link": "https://aws.amazon.com/blogs/industries/synchronize-keys-automatically-from-payment-hsms-to-aws-payment-cryptography/"
+    },
+    {
         "title": "Enhance predictive maintenance with generative AI agents on AWS",
         "link": "https://aws.amazon.com/blogs/industries/enhance-predictive-maintenance-with-generative-ai-agents-on-aws/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Reduce Genomic Discovery Time and Costs with AWS HealthOmics Run Analyzer",
         "link": "https://aws.amazon.com/blogs/industries/reduce-genomic-discovery-time-and-costs-aws-healthomics-run-analyzer/"
-    },
-    {
-        "title": "Conquering Peak Retail Events with AWS",
-        "link": "https://aws.amazon.com/blogs/industries/conquering-peak-retail-events-with-aws/"
-    },
-    {
-        "title": "Scaling Backtesting for Algorithmic Trading with AWS and Coiled",
-        "link": "https://aws.amazon.com/blogs/industries/scaling-backtesting-for-algorithmic-trading-with-aws-and-coiled/"
     }
 ]

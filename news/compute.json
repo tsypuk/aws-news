@@ -1,5 +1,13 @@
 [
     {
+        "title": "Networking of Amazon MQ for RabbitMQ event source mapping for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/networking-of-amazon-mq-for-rabbitmq-event-source-mapping-for-aws-lambda/"
+    },
+    {
+        "title": "Amazon Linux 2023 achieves FIPS 140-3 validation",
+        "link": "https://aws.amazon.com/blogs/compute/amazon-linux-2023-achieves-fips-140-3-validation/"
+    },
+    {
         "title": "Validating event payload with Powertools for AWS Lambda (TypeScript)",
         "link": "https://aws.amazon.com/blogs/compute/validating-event-payload-with-powertools-for-aws-lambda-typescript/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamlining trace sampling behavior for AWS Lambda functions with AWS X-Ray",
         "link": "https://aws.amazon.com/blogs/compute/streamlining-trace-sampling-behavior-for-aws-lambda-functions-with-aws-x-ray/"
-    },
-    {
-        "title": "Powering generative AI/ML solutions with AWS Outposts Servers at Edge locations",
-        "link": "https://aws.amazon.com/blogs/compute/powering-generative-ai-ml-solutions-with-aws-outposts-servers-at-edge-locations/"
-    },
-    {
-        "title": "Enriching and customizing notifications with Amazon EventBridge Pipes",
-        "link": "https://aws.amazon.com/blogs/compute/enriching-and-customizing-notifications-with-amazon-eventbridge-pipes/"
     }
 ]

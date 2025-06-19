@@ -1,5 +1,9 @@
 [
     {
+        "title": "RocksDB 101: Optimizing stateful streaming in Apache Spark with Amazon EMR and AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/rocksdb-101-optimizing-stateful-streaming-in-apache-spark-with-amazon-emr-and-aws-glue/"
+    },
+    {
         "title": "Reduce time to access your transactional data for analytical processing using the power of Amazon SageMaker Lakehouse and zero-ETL",
         "link": "https://aws.amazon.com/blogs/big-data/reduce-time-to-access-your-transactional-data-for-analytical-processing-using-the-power-of-amazon-sagemaker-lakehouse-and-zero-etl/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "OpenSearch UI: Six months in review",
         "link": "https://aws.amazon.com/blogs/big-data/opensearch-ui-six-months-in-review/"
-    },
-    {
-        "title": "Scalable analytics and centralized governance for Apache Iceberg tables using Amazon S3 Tables and Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/scalable-analytics-and-centralized-governance-for-apache-iceberg-tables-using-amazon-s3-tables-and-amazon-redshift/"
     }
 ]

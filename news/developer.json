@@ -1,5 +1,9 @@
 [
     {
+        "title": "Upgrading your AWS SDK for Go from V1 to V2 with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/developer/upgrading-your-aws-sdk-for-go-from-v1-to-v2-with-amazon-q-developer/"
+    },
+    {
         "title": "Arctic: Automated Desktop Application Testing",
         "link": "https://aws.amazon.com/blogs/developer/arctic-automated-desktop-application-testing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the Developer Preview of DynamoDB Mapper for Kotlin",
         "link": "https://aws.amazon.com/blogs/developer/announcing-dev-preview-of-dynamodb-mapper-for-kotlin/"
-    },
-    {
-        "title": "Announcing General Availability of the AWS SDK for Swift",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/"
     }
 ]

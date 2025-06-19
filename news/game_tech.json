@@ -1,5 +1,9 @@
 [
     {
+        "title": "Host persistent world games on Amazon GameLift Servers",
+        "link": "https://aws.amazon.com/blogs/gametech/host-persistent-world-games-on-amazon-gamelift-servers/"
+    },
+    {
         "title": "Revolutionizing games with small language model AI companions",
         "link": "https://aws.amazon.com/blogs/gametech/revolutionizing-games-with-small-language-model-ai-companions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon GameLift achieves 100 million concurrently connected users per game",
         "link": "https://aws.amazon.com/blogs/gametech/amazon-gamelift-achieves-100-million-concurrently-connected-users-per-game/"
-    },
-    {
-        "title": "Level-Up Mood Board Creation with Miro and Amazon Bedrock \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/gametech/level-up-mood-board-creation-with-miro-and-amazon-bedrock-part-2/"
     }
 ]

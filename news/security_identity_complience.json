@@ -1,5 +1,9 @@
 [
     {
+        "title": "Empower AI agents with user context using Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/security/empower-ai-agents-with-user-context-using-amazon-cognito/"
+    },
+    {
         "title": "Secure your Express application APIs in minutes with Amazon Verified Permissions",
         "link": "https://aws.amazon.com/blogs/security/secure-your-express-application-apis-in-minutes-with-amazon-verified-permissions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Application security at re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/application-security-at-reinforce-2025/"
-    },
-    {
-        "title": "Introducing new regional implementations of Landing Zone Accelerator on AWS to support digital sovereignty",
-        "link": "https://aws.amazon.com/blogs/security/introducing-new-regional-implementations-of-landing-zone-accelerator-on-aws-to-support-digital-sovereignty/"
     }
 ]
