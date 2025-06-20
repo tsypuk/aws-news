@@ -1,5 +1,17 @@
 [
     {
+        "title": "Streamline Operational Troubleshooting with Amazon Q Developer CLI",
+        "link": "https://aws.amazon.com/blogs/devops/streamline-operational-troubleshooting-with-amazon-q-developer-cli/"
+    },
+    {
+        "title": "Announcing the new AWS CDK EKS v2 L2 Constructs",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-new-aws-cdk-eks-v2-l2-constructs/"
+    },
+    {
+        "title": "Accelerate development with secure access to Amazon Q Developer using PingIdentity",
+        "link": "https://aws.amazon.com/blogs/devops/accelerate-development-with-secure-access-to-amazon-q-developer-using-pingidentity/"
+    },
+    {
         "title": "Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows",
         "link": "https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context",
         "link": "https://aws.amazon.com/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/"
-    },
-    {
-        "title": "Combining Snyk\u2019s Insight with Amazon Q Developer\u2019s Assistance to Streamline Secure Development",
-        "link": "https://aws.amazon.com/blogs/devops/combining-snyks-insight-with-amazon-q-developers-assistance-to-streamline-secure-development/"
-    },
-    {
-        "title": "Amazon introduces SWE-PolyBench, a multilingual benchmark for AI Coding Agents",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-introduces-swe-polybench-a-multi-lingual-benchmark-for-ai-coding-agents/"
-    },
-    {
-        "title": "Announcing General Availability of GitLab Duo with Amazon Q",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-general-availability-of-gitlab-duo-with-amazon-q/"
     }
 ]

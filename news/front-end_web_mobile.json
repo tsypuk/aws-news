@@ -1,5 +1,9 @@
 [
     {
+        "title": "Offline caching with AWS Amplify, Tanstack, AppSync and MongoDB Atlas",
+        "link": "https://aws.amazon.com/blogs/mobile/offline-caching-with-aws-amplify-tanstack-appsync-and-mongodb-atlas/"
+    },
+    {
         "title": "Introducing Upgraded Build Instances on Amplify Hosting",
         "link": "https://aws.amazon.com/blogs/mobile/introducing-upgraded-build-instances-on-amplify-hosting/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Add a Conversational Interface to any Data Source",
         "link": "https://aws.amazon.com/blogs/mobile/add-a-conversational-interface-to-any-data-source/"
-    },
-    {
-        "title": "Create a Customized AI-Based Chat Interface With Your Application Data",
-        "link": "https://aws.amazon.com/blogs/mobile/create-a-customized-ai-based-chat-interface-with-your-application-data/"
     }
 ]

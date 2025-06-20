@@ -1,5 +1,13 @@
 [
     {
+        "title": "Secure access to a cross-account Amazon MSK cluster from Amazon MSK Connect using IAM authentication",
+        "link": "https://aws.amazon.com/blogs/big-data/secure-access-to-a-cross-account-amazon-msk-cluster-from-amazon-msk-connect-using-iam-authentication/"
+    },
+    {
+        "title": "Build a multi-Region analytics solution with Amazon Redshift, Amazon S3, and Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-multi-region-analytics-solution-with-amazon-redshift-amazon-s3-and-amazon-quicksight/"
+    },
+    {
         "title": "RocksDB 101: Optimizing stateful streaming in Apache Spark with Amazon EMR and AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/rocksdb-101-optimizing-stateful-streaming-in-apache-spark-with-amazon-emr-and-aws-glue/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Unlock self-serve streaming SQL with Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-self-serve-streaming-sql-with-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Unify streaming and analytical data with Amazon Data Firehose and Amazon SageMaker Lakehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/unify-streaming-and-analytical-data-with-amazon-data-firehose-and-amazon-sagemaker-lakehouse/"
-    },
-    {
-        "title": "OpenSearch UI: Six months in review",
-        "link": "https://aws.amazon.com/blogs/big-data/opensearch-ui-six-months-in-review/"
     }
 ]

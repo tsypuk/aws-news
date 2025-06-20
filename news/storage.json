@@ -1,5 +1,17 @@
 [
     {
+        "title": "KKCompany saves 93% on data storage by migrating music streaming services to AWS",
+        "link": "https://aws.amazon.com/blogs/storage/kkcompany-saves-93-on-data-storage-by-migrating-music-streaming-services-to-aws/"
+    },
+    {
+        "title": "Rapid monitoring of Amazon S3 bucket policy changes in AWS environments",
+        "link": "https://aws.amazon.com/blogs/storage/rapid-monitoring-of-amazon-s3-bucket-policy-changes-in-aws-environments/"
+    },
+    {
+        "title": "How Uniphore achieved 30% cost savings by modernizing Windows servers on AWS",
+        "link": "https://aws.amazon.com/blogs/storage/how-uniphore-achieved-30-cost-savings-by-modernizing-windows-servers-on-aws/"
+    },
+    {
         "title": "Protect on-premises VMware infrastructure with NetApp BlueXP Disaster Recovery, Amazon Elastic VMware Service, and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/protect-on-premises-vmware-infrastructure-with-netapp-bluexp-disaster-recovery-amazon-elastic-vmware-service-and-amazon-fsx-for-netapp-ontap/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Understanding Amazon S3 client-side encryption options",
         "link": "https://aws.amazon.com/blogs/storage/understanding-amazon-s3-client-side-encryption-options/"
-    },
-    {
-        "title": "How Pendulum achieves 6x faster processing and 40% cost reduction with Amazon S3 Tables",
-        "link": "https://aws.amazon.com/blogs/storage/how-pendulum-achieves-6x-faster-processing-and-40-cost-reduction-with-amazon-s3-tables/"
-    },
-    {
-        "title": "Bringing more to the table: How Amazon S3 Tables rapidly delivered new capabilities in the first 5 months",
-        "link": "https://aws.amazon.com/blogs/storage/bringing-more-to-the-table-how-amazon-s3-tables-rapidly-delivered-new-capabilities-in-the-first-5-months/"
-    },
-    {
-        "title": "Using AWS Backup and Oracle Fast Recovery Area on Amazon FSx for NetApp ONTAP for backup/restore of Oracle databases on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/storage/using-aws-backup-and-oracle-fast-recovery-area-on-amazon-fsx-for-netapp-ontap-for-backup-restore-of-oracle-databases-on-amazon-ec2/"
     }
 ]
