@@ -1,5 +1,9 @@
 [
     {
+        "title": "Stream data from Amazon MSK to Apache Iceberg tables in Amazon S3 and Amazon S3 Tables using Amazon Data Firehose",
+        "link": "https://aws.amazon.com/blogs/big-data/stream-data-from-amazon-msk-to-apache-iceberg-tables-in-amazon-s3-and-amazon-s3-tables-using-amazon-data-firehose/"
+    },
+    {
         "title": "Secure access to a cross-account Amazon MSK cluster from Amazon MSK Connect using IAM authentication",
         "link": "https://aws.amazon.com/blogs/big-data/secure-access-to-a-cross-account-amazon-msk-cluster-from-amazon-msk-connect-using-iam-authentication/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Airties achieved scalability and cost-efficiency by moving from Kafka to Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/how-airties-achieved-scalability-and-cost-efficiency-by-moving-from-kafka-to-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "Unlock self-serve streaming SQL with Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/unlock-self-serve-streaming-sql-with-amazon-managed-service-for-apache-flink/"
     }
 ]

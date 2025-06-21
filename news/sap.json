@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing Unicode Conversion Downtime for SAP Systems on Oracle to AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/optimizing-unicode-conversion-downtime-for-sap-systems-on-oracle-to-aws/"
+    },
+    {
         "title": "Modernizing SAP Procurement Processes with AWS Appflow, SAP BTP Integration Suite, and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/awsforsap/modernizing-sap-procurement-processes-with-aws-appflow-sap-btp-integration-suite-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Perform Cross-Region, Cross-Account Backup and Restore of SAP HANA database using AWS Backup for SAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/perform-cross-region-cross-account-backup-and-restore-of-sap-hana-database-using-aws-backup-for-sap/"
-    },
-    {
-        "title": "Automate and Optimize SAP Network Performance in a Multi-AZ deployment",
-        "link": "https://aws.amazon.com/blogs/awsforsap/automate-and-optimize-sap-network-performance-in-a-multi-az-deployment/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implement a rollback strategy for Amazon Aurora PostgreSQL upgrades using Amazon RDS Blue/Green deployments",
+        "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-for-amazon-aurora-postgresql-upgrades-using-amazon-rds-blue-green-deployments/"
+    },
+    {
         "title": "How an AWS customer in the learning services industry migrated and modernized SAP ASE to Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/how-an-aws-customer-in-the-learning-services-industry-migrated-and-modernized-sap-ase-to-amazon-aurora-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Supercharging vector search performance and relevance with pgvector 0.8.0 on Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/supercharging-vector-search-performance-and-relevance-with-pgvector-0-8-0-on-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Explore the new openCypher custom functions and subquery support in Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/explore-the-new-opencypher-custom-functions-and-subquery-support-in-amazon-neptune/"
     }
 ]
