@@ -6,11 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-06-220.1.0) - 2025-06-22
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/0.1.0) - 2025-06-23
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/d91ac0c1afa11df2e97ea1a5d9351941b9f08be0...ver-2025-06-22)</small>
-
-### Docs
-
-- updated AWS news - sap - 2025-06-22 ([a2f7737](https://github.com/tsypuk/aws-news/commit/a2f773768451feb81e12ecf899226227e5a871b8) by Roman Tsypuk).
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/3a84c0db3cf811126878e5e60d9466a8a5125289...0.1.0)</small>
 
