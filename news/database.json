@@ -1,5 +1,17 @@
 [
     {
+        "title": "Use Graph Machine Learning to detect fraud with Amazon Neptune Analytics and GraphStorm",
+        "link": "https://aws.amazon.com/blogs/database/use-graph-machine-learning-to-detect-fraud-with-amazon-neptune-analytics-and-graphstorm/"
+    },
+    {
+        "title": "Migrate a self-managed MySQL database to Amazon Aurora MySQL using AWS DMS homogeneous data migrations",
+        "link": "https://aws.amazon.com/blogs/database/migrate-a-self-managed-mysql-database-to-amazon-aurora-mysql-using-aws-dms-homogeneous-data-migrations/"
+    },
+    {
+        "title": "Things to consider when choosing between Oracle TDE and AWS KMS for encryption of data at rest for Amazon RDS for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/things-to-consider-when-choosing-between-oracle-tde-and-aws-kms-for-encryption-of-data-at-rest-for-amazon-rds-for-oracle/"
+    },
+    {
         "title": "Implement a rollback strategy for Amazon Aurora PostgreSQL upgrades using Amazon RDS Blue/Green deployments",
         "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-for-amazon-aurora-postgresql-upgrades-using-amazon-rds-blue-green-deployments/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implement prescription validation using Amazon Bedrock and Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/implement-prescription-validation-using-amazon-bedrock-and-amazon-dynamodb/"
-    },
-    {
-        "title": "Build a multi-Region session store with Amazon ElastiCache for Valkey Global Datastore",
-        "link": "https://aws.amazon.com/blogs/database/build-a-multi-region-session-store-with-amazon-elasticache-for-valkey-global-datastore/"
-    },
-    {
-        "title": "Automate Amazon RDS for PostgreSQL major or minor version upgrade using AWS Systems Manager and Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/database/automate-amazon-rds-for-postgresql-major-or-minor-version-upgrade-using-aws-systems-manager-and-amazon-ec2/"
-    },
-    {
-        "title": "Supercharging vector search performance and relevance with pgvector 0.8.0 on Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/supercharging-vector-search-performance-and-relevance-with-pgvector-0-8-0-on-amazon-aurora-postgresql/"
     }
 ]

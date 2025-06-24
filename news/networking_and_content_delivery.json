@@ -1,5 +1,13 @@
 [
     {
+        "title": "Securing Service Communications: Combining VPC Lattice with Network Firewall",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-service-communications-combining-vpc-lattice-with-network-firewall/"
+    },
+    {
+        "title": "Introducing security group referencing and enhanced DNS support for AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-security-group-referencing-and-enhanced-dns-support-for-aws-cloud-wan/"
+    },
+    {
         "title": "Introducing new application layer (L7) DDoS protections for AWS WAF and AWS Shield Advanced customers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-the-aws-waf-application-layer-ddos-protection/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify ALB\u2019s public IP address assignment with VPC IPAM",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-albs-public-ip-address-assignment-with-vpc-ipam/"
-    },
-    {
-        "title": "Simplifying Egress Inspection with AWS Cloud WAN Service Insertion for Greenfield Deployments",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplifying-egress-inspection-with-aws-cloud-wan-service-insertion-for-greenfield-deployments/"
-    },
-    {
-        "title": "Exploring Data Transfer Costs for AWS Network Load Balancers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/exploring-data-transfer-costs-for-aws-network-load-balancers/"
     }
 ]

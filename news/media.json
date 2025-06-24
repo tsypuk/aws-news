@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing Queries with Amazon Managed Prometheus",
+        "link": "https://aws.amazon.com/blogs/mt/optimizing-queries-with-amazon-managed-prometheus/"
+    },
+    {
         "title": "How Indegene Optimizes User Experience with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/how-indegene-optimize-user-experience-with-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New AWS Fault Injection Service recovery action for zonal autoshift",
         "link": "https://aws.amazon.com/blogs/mt/new-aws-fault-injection-service-recovery-action-for-zonal-autoshift/"
-    },
-    {
-        "title": "Analyze Azure Audit Logs with CloudTrail Lake",
-        "link": "https://aws.amazon.com/blogs/mt/analyze-azure-audit-logs-with-cloudtrail-lake/"
     }
 ]

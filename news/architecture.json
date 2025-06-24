@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Bedrock baseline architecture in an AWS landing zone",
+        "link": "https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/"
+    },
+    {
         "title": "Build a multi-Region AWS PrivateLink backed service with seamless failover",
         "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-region-aws-privatelink-backed-service-with-seamless-failover/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Pilot light with reserved capacity: How to optimize DR cost using On-Demand Capacity Reservations",
         "link": "https://aws.amazon.com/blogs/architecture/pilot-light-with-reserved-capacity-how-to-optimize-dr-cost-using-on-demand-capacity-reservations/"
-    },
-    {
-        "title": "Build an enterprise API management solution using Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/architecture/build-an-enterprise-api-management-solution-using-amazon-api-gateway/"
     }
 ]

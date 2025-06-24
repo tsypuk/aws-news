@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Tools for PowerShell V5 now Generally Available",
+        "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v5-now-generally-available/"
+    },
+    {
         "title": "Upgrading your AWS SDK for Go from V1 to V2 with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/developer/upgrading-your-aws-sdk-for-go-from-v1-to-v2-with-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "JSON Structured Logging for .NET Lambda Functions",
         "link": "https://aws.amazon.com/blogs/developer/structured-logging-for-net-lambda/"
-    },
-    {
-        "title": "Announcing the Developer Preview of DynamoDB Mapper for Kotlin",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-dev-preview-of-dynamodb-mapper-for-kotlin/"
     }
 ]

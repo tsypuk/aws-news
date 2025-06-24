@@ -1,5 +1,13 @@
 [
     {
+        "title": "No-code data preparation for time series forecasting using Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/no-code-data-preparation-for-time-series-forecasting-using-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Build an agentic multimodal AI assistant with Amazon Nova and Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-multimodal-ai-assistant-with-amazon-nova-and-amazon-bedrock-data-automation/"
+    },
+    {
         "title": "Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-video-generator-using-amazon-sagemaker-ai-and-cogvideox/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Training Llama 3.3 Swallow: A Japanese sovereign LLM on Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/training-llama-3-3-swallow-a-japanese-sovereign-llm-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Accelerating Articul8\u2019s domain-specific model development with Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-articul8s-domain-specific-model-development-with-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "How VideoAmp uses Amazon Bedrock to power their media analytics interface",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-videoamp-uses-amazon-bedrock-to-power-their-media-analytics-interface/"
     }
 ]
