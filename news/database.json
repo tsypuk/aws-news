@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize Amazon RDS Multi-AZ backups with incremental snapshots",
+        "link": "https://aws.amazon.com/blogs/database/optimize-amazon-rds-multi-az-backups-with-incremental-snapshots/"
+    },
+    {
+        "title": "Migrate io1 to io2 Block Express storage for Amazon RDS workloads using blue/green deployments",
+        "link": "https://aws.amazon.com/blogs/database/migrate-io1-to-io2-block-express-storage-for-amazon-rds-workloads-using-blue-green-deployments/"
+    },
+    {
         "title": "Use Graph Machine Learning to detect fraud with Amazon Neptune Analytics and GraphStorm",
         "link": "https://aws.amazon.com/blogs/database/use-graph-machine-learning-to-detect-fraud-with-amazon-neptune-analytics-and-graphstorm/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Upgrade your Amazon DynamoDB global tables to the current version",
         "link": "https://aws.amazon.com/blogs/database/upgrade-your-dynamodb-global-tables-to-the-current-version/"
-    },
-    {
-        "title": "Streamline code conversion and testing from Microsoft SQL Server and Oracle to PostgreSQL with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/streamline-code-conversion-and-testing-from-microsoft-sql-server-and-oracle-to-postgresql-with-amazon-bedrock/"
-    },
-    {
-        "title": "Implement prescription validation using Amazon Bedrock and Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/implement-prescription-validation-using-amazon-bedrock-and-amazon-dynamodb/"
     }
 ]

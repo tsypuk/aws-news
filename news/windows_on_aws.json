@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernize .NET applications at scale with AWS Transform for .NET",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-net-applications-at-scale-with-aws-transform-for-net/"
+    },
+    {
         "title": "Port your .NET Framework applications to Linux with AWS Transform for .NET",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/port-your-net-framework-applications-to-linux-with-aws-transform-for-net/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Running SQL Server Stretch Failover Cluster Instance on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-sql-server-stretch-failover-cluster-instance-on-amazon-ec2/"
-    },
-    {
-        "title": "Why organizations around the world are choosing AWS Transform for .NET",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/why-organizations-around-the-world-are-choosing-aws-transform-for-net/"
     }
 ]

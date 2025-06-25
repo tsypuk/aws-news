@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize HPC Workloads with the Updated AWS Well-Architected Lens",
+        "link": "https://aws.amazon.com/blogs/hpc/optimize-hpc-workloads-with-the-updated-aws-well-architected-lens/"
+    },
+    {
         "title": "Leveraging LLMs as an Augmentation to Traditional Hyperparameter Tuning",
         "link": "https://aws.amazon.com/blogs/hpc/leveraging-llms-as-an-augmentation-to-traditional-hyperparameter-tuning/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Predict the unpredictable: Disrupting drug lead optimization using quantum mechanics simulation in the cloud",
         "link": "https://aws.amazon.com/blogs/hpc/predict-the-unpredictable-disrupting-drug-lead-optimization-using-quantum-mechanics-simulation-in-the-cloud/"
-    },
-    {
-        "title": "Harnessing the power of agent-based models for mitigating supply chain risks and managing costs",
-        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-power-of-agent-based-models-for-mitigating-supply-chain-risks-and-managing-costs/"
     }
 ]

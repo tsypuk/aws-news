@@ -1,5 +1,21 @@
 [
     {
+        "title": "Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools",
+        "link": "https://aws.amazon.com/blogs/machine-learning/power-your-llm-training-and-evaluation-with-the-new-sagemaker-ai-generative-ai-tools/"
+    },
+    {
+        "title": "Amazon Bedrock Agents observability using Arize AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agents-observability-using-arize-ai/"
+    },
+    {
+        "title": "How SkillShow automates youth sports video processing using Amazon Transcribe",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-skillshow-automates-youth-sports-video-processing-using-amazon-transcribe/"
+    },
+    {
+        "title": "NewDay builds A Generative AI based Customer service Agent Assist with over 90% accuracy",
+        "link": "https://aws.amazon.com/blogs/machine-learning/newday-builds-a-generative-ai-based-customer-service-agent-assist-with-over-90-accuracy/"
+    },
+    {
         "title": "No-code data preparation for time series forecasting using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/no-code-data-preparation-for-time-series-forecasting-using-amazon-sagemaker-canvas/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Deploy Qwen models with Amazon Bedrock Custom Model Import",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-qwen-models-with-amazon-bedrock-custom-model-import/"
-    },
-    {
-        "title": "Build generative AI solutions with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-solutions-with-amazon-bedrock/"
-    },
-    {
-        "title": "How Netsertive built a scalable AI assistant to extract meaningful insights from real-time data using Amazon Bedrock and Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-netsertive-built-a-scalable-ai-assistant-to-extract-meaningful-insights-from-real-time-data-using-amazon-bedrock-and-amazon-nova/"
-    },
-    {
-        "title": "Make videos accessible with automated audio descriptions using Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/make-videos-accessible-with-automated-audio-descriptions-using-amazon-nova/"
-    },
-    {
-        "title": "Training Llama 3.3 Swallow: A Japanese sovereign LLM on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/training-llama-3-3-swallow-a-japanese-sovereign-llm-on-amazon-sagemaker-hyperpod/"
     }
 ]
