@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon OpenSearch Service 101: Create your first search application with OpenSearch",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-101-create-your-first-search-application-with-opensearch/"
+    },
+    {
+        "title": "Implement secure hybrid and multicloud log ingestion with Amazon OpenSearch Ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-secure-hybrid-and-multicloud-log-ingestion-with-amazon-opensearch-ingestion/"
+    },
+    {
         "title": "Capture data lineage from dbt, Apache Airflow, and Apache Spark with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/capture-data-lineage-from-dbt-apache-airflow-and-apache-spark-with-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/"
-    },
-    {
-        "title": "Enhancing data durability in Amazon EMR HBase on Amazon S3 with the Amazon EMR WAL feature",
-        "link": "https://aws.amazon.com/blogs/big-data/enhancing-data-durability-in-amazon-emr-hbase-on-amazon-s3-with-the-amazon-emr-wal-feature/"
-    },
-    {
-        "title": "Powering global payout intelligence: How MassPay uses Amazon Redshift Serverless and zero-ETL to drive deeper analytics.",
-        "link": "https://aws.amazon.com/blogs/big-data/powering-global-payout-intelligence-how-masspay-uses-amazon-redshift-serverless-and-zero-etl-to-drive-deeper-analytics/"
     }
 ]

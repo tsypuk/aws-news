@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build an intelligent multi-agent business expert using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-multi-agent-business-expert-using-amazon-bedrock/"
+    },
+    {
+        "title": "Driving cost-efficiency and speed in claims data processing with Amazon Nova Micro and Amazon Nova Lite",
+        "link": "https://aws.amazon.com/blogs/machine-learning/driving-cost-efficiency-and-speed-in-claims-data-processing-with-amazon-nova-micro-and-amazon-nova-lite/"
+    },
+    {
         "title": "Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools",
         "link": "https://aws.amazon.com/blogs/machine-learning/power-your-llm-training-and-evaluation-with-the-new-sagemaker-ai-generative-ai-tools/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Extend your Amazon Q Business with PagerDuty Advance data accessor",
         "link": "https://aws.amazon.com/blogs/machine-learning/extend-your-amazon-q-business-with-pagerduty-advance-data-accessor/"
-    },
-    {
-        "title": "Innovate business logic by implementing return of control in Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/innovate-business-logic-by-implementing-return-of-control-in-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Deploy Qwen models with Amazon Bedrock Custom Model Import",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-qwen-models-with-amazon-bedrock-custom-model-import/"
     }
 ]

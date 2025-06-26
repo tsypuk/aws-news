@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy SQL Server Container Clusters using Amazon EKS and Amazon FSx for Windows",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploy-sql-server-container-clusters-using-amazon-eks-and-amazon-fsx-for-windows/"
+    },
+    {
         "title": "Modernize .NET applications at scale with AWS Transform for .NET",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-net-applications-at-scale-with-aws-transform-for-net/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Harness Amazon Q Business power with Amazon FSx file server for enterprise search.",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-amazon-fsx-file-server-for-enterprise-search/"
-    },
-    {
-        "title": "Running SQL Server Stretch Failover Cluster Instance on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-sql-server-stretch-failover-cluster-instance-on-amazon-ec2/"
     }
 ]

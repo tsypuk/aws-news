@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modeling a nitrogen-vacancy center with NVIDIA CUDA-Q Dynamics: University of Washington Capstone Project",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/modeling-a-nitrogen-vacancy-center-with-nvidia-cuda-q-dynamics-university-of-washington-capstone-project/"
+    },
+    {
         "title": "Fundamental Physics Simulations with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/fundamental-physics-simulations-with-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Assessing performance of a variational algorithm in presence of noise and quantum error mitigation",
         "link": "https://aws.amazon.com/blogs/quantum-computing/assessing-performance-of-a-variational-algorithm-in-presence-of-noise-and-quantum-error-mitigation/"
-    },
-    {
-        "title": "Accelerate quantum software development on Amazon Braket with Claude-3",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/accelerate-quantum-software-development-on-amazon-braket-with-claude-3/"
     }
 ]

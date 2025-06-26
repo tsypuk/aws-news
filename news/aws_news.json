@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon FSx for OpenZFS now supports Amazon S3 access without any data movement",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-openzfs-now-supports-amazon-s3-access-without-any-data-movement/"
+    },
+    {
         "title": "New: Improve Apache Iceberg query performance in Amazon S3 with sort and z-order compaction",
         "link": "https://aws.amazon.com/blogs/aws/new-improve-apache-iceberg-query-performance-in-amazon-s3-with-sort-and-z-order-compaction/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance AI-assisted development with Amazon ECS, Amazon EKS and AWS Serverless MCP server",
         "link": "https://aws.amazon.com/blogs/aws/enhance-ai-assisted-development-with-amazon-ecs-amazon-eks-and-aws-serverless-mcp-server/"
-    },
-    {
-        "title": "Amazon Aurora DSQL, the fastest serverless distributed SQL database is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/"
     }
 ]
