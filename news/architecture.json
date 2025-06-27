@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying sustainability reporting using AWS and generative AI in banking",
+        "link": "https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/"
+    },
+    {
         "title": "Amazon Bedrock baseline architecture in an AWS landing zone",
         "link": "https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Master architecture decision records (ADRs): Best practices for effective decision-making",
         "link": "https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/"
-    },
-    {
-        "title": "Pilot light with reserved capacity: How to optimize DR cost using On-Demand Capacity Reservations",
-        "link": "https://aws.amazon.com/blogs/architecture/pilot-light-with-reserved-capacity-how-to-optimize-dr-cost-using-on-demand-capacity-reservations/"
     }
 ]

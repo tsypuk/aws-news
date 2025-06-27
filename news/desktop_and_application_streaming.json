@@ -1,5 +1,9 @@
 [
     {
+        "title": "Connecting Amazon WorkSpaces Personal with AWS PrivateLink",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/connecting-amazon-workspaces-personal-with-aws-privatelink/"
+    },
+    {
         "title": "Healthcare Company Launches Rapid Self-Service Deployment and Improves Management of Thousands of Cloud Desktops Using Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/healthcare-company-launches-rapid-self-service-deployment-and-improves-management-of-thousands-of-cloud-desktops-using-amazon-workspaces/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize Amazon WorkSpaces Personal Performance with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-amazon-workspaces-personal-performance-with-amazon-cloudwatch/"
-    },
-    {
-        "title": "Ferrari and Bloomberg choose AWS for EUC",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/ferrari-and-bloomberg-choose-aws-for-euc/"
     }
 ]

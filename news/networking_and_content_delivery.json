@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building secure multicloud access with AWS Client VPN and AWS Site-to-Site VPN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-secure-multicloud-access-with-aws-client-vpn-and-aws-site-to-site-vpn/"
+    },
+    {
+        "title": "Addressing private IPv4 exhaustion with AWS Cloud WAN service insertion",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/addressing-private-ipv4-exhaustion-with-aws-cloud-wan-service-insertion/"
+    },
+    {
         "title": "Securing Service Communications: Combining VPC Lattice with Network Firewall",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-service-communications-combining-vpc-lattice-with-network-firewall/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Visualizing network performance of your AWS Cloud workloads with Network Flow Monitor",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/visualizing-network-performance-of-your-aws-cloud-workloads-with-network-flow-monitor/"
-    },
-    {
-        "title": "Streamlining network deployments using AWS Cloud Control",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamlining-network-deployments-using-aws-cloud-control/"
-    },
-    {
-        "title": "Simplify ALB\u2019s public IP address assignment with VPC IPAM",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-albs-public-ip-address-assignment-with-vpc-ipam/"
     }
 ]

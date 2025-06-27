@@ -1,5 +1,17 @@
 [
     {
+        "title": "Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/tailor-responsible-ai-with-new-safeguard-tiers-in-amazon-bedrock-guardrails/"
+    },
+    {
+        "title": "Structured data response with Amazon Bedrock: Prompt Engineering and Tool Use",
+        "link": "https://aws.amazon.com/blogs/machine-learning/structured-data-response-with-amazon-bedrock-prompt-engineering-and-tool-use/"
+    },
+    {
+        "title": "Using Amazon SageMaker AI Random Cut Forest for NASA\u2019s Blue Origin spacecraft sensor data",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-ai-random-cut-forest-for-nasas-blue-origin-spacecraft-sensor-data/"
+    },
+    {
         "title": "Build an intelligent multi-agent business expert using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-multi-agent-business-expert-using-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "An innovative financial services leader finds the right AI solution: Robinhood and Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/an-innovative-financial-services-leader-finds-the-right-ai-solution-robinhood-and-amazon-nova/"
-    },
-    {
-        "title": "Build conversational interfaces for structured data using Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-conversational-interfaces-for-structured-data-using-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "How Apollo Tyres is unlocking machine insights using agentic AI-powered Manufacturing Reasoner",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-apollo-tyres-is-unlocking-machine-insights-using-agentic-ai-powered-manufacturing-reasoner/"
-    },
-    {
-        "title": "Extend your Amazon Q Business with PagerDuty Advance data accessor",
-        "link": "https://aws.amazon.com/blogs/machine-learning/extend-your-amazon-q-business-with-pagerduty-advance-data-accessor/"
     }
 ]

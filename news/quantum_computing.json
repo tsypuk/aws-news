@@ -1,5 +1,9 @@
 [
     {
+        "title": "Experiment with dynamic circuits on IQM Garnet with Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/experiment-with-dynamic-circuits-on-iqm-garnet-with-amazon-braket/"
+    },
+    {
         "title": "Modeling a nitrogen-vacancy center with NVIDIA CUDA-Q Dynamics: University of Washington Capstone Project",
         "link": "https://aws.amazon.com/blogs/quantum-computing/modeling-a-nitrogen-vacancy-center-with-nvidia-cuda-q-dynamics-university-of-washington-capstone-project/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Options pricing using a quantum Monte Carlo algorithm on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/options-pricing-using-a-quantum-monte-carlo-algorithm-on-amazon-braket/"
-    },
-    {
-        "title": "Assessing performance of a variational algorithm in presence of noise and quantum error mitigation",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/assessing-performance-of-a-variational-algorithm-in-presence-of-noise-and-quantum-error-mitigation/"
     }
 ]

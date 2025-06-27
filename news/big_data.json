@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building serverless event streaming applications with Amazon MSK and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/big-data/building-serverless-event-streaming-applications-with-amazon-msk-and-aws-lambda/"
+    },
+    {
+        "title": "Enhance data ingestion performance in Amazon Redshift with concurrent inserts",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-data-ingestion-performance-in-amazon-redshift-with-concurrent-inserts/"
+    },
+    {
+        "title": "Introducing AWS Glue Data Catalog usage metrics for API usage",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-data-catalog-usage-metrics-for-api-usage/"
+    },
+    {
         "title": "Amazon OpenSearch Service 101: Create your first search application with OpenSearch",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-101-create-your-first-search-application-with-opensearch/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Centralize Apache Spark observability on Amazon EMR on EKS with external Spark History Server",
         "link": "https://aws.amazon.com/blogs/big-data/centralize-apache-spark-observability-on-amazon-emr-on-eks-with-external-spark-history-server/"
-    },
-    {
-        "title": "Architecture patterns to optimize Amazon Redshift performance at scale",
-        "link": "https://aws.amazon.com/blogs/big-data/architecture-patterns-to-optimize-amazon-redshift-performance-at-scale/"
-    },
-    {
-        "title": "Best practices for upgrading Amazon MWAA V1.x to V2.x",
-        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-upgrading-amazon-mwaa-environments/"
-    },
-    {
-        "title": "Build a secure serverless streaming pipeline with Amazon MSK Serverless, Amazon EMR Serverless and IAM",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-secure-serverless-streaming-pipeline-with-amazon-msk-serverless-amazon-emr-serverless-and-iam/"
     }
 ]
