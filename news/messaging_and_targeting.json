@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure collaboration and file sharing with AWS Wickr",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-collaboration-and-file-sharing-with-aws-wickr/"
+    },
+    {
         "title": "Enhance email authentication and deliverability with Amazon SES and Valimail",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-authentication-and-deliverability-with-amazon-ses-and-valimail/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Update on Support for Amazon Chime",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/"
-    },
-    {
-        "title": "Improving Security in Amazon WorkMail with MFA",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improving-security-in-amazon-workmail-with-mfa/"
     }
 ]

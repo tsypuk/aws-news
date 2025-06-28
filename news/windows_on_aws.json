@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Deploy SQL Server Container Clusters using Amazon EKS and Amazon FSx for Windows",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploy-sql-server-container-clusters-using-amazon-eks-and-amazon-fsx-for-windows/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to Use ACM PCA Connector for AD to enable LDAPS for Your Self-Managed AD",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-acm-pca-connector-for-ad-to-enable-ldaps-for-your-self-managed-ad/"
-    },
-    {
-        "title": "Harness Amazon Q Business power with Amazon FSx file server for enterprise search.",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/harness-amazon-q-business-power-with-amazon-fsx-file-server-for-enterprise-search/"
     }
 ]

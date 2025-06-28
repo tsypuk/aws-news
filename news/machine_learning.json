@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS costs estimation using Amazon Q CLI and AWS Cost Analysis MCP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-costs-estimation-using-amazon-q-cli-and-aws-cost-analysis-mcp/"
+    },
+    {
         "title": "Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails",
         "link": "https://aws.amazon.com/blogs/machine-learning/tailor-responsible-ai-with-new-safeguard-tiers-in-amazon-bedrock-guardrails/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Anomalo solves unstructured data quality issues to deliver trusted assets for AI with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-anomalo-solves-unstructured-data-quality-issues-to-deliver-trusted-assets-for-ai-with-aws/"
-    },
-    {
-        "title": "An innovative financial services leader finds the right AI solution: Robinhood and Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/an-innovative-financial-services-leader-finds-the-right-ai-solution-robinhood-and-amazon-nova/"
     }
 ]

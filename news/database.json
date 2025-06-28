@@ -1,5 +1,13 @@
 [
     {
+        "title": "Supercharging AWS database development with AWS MCP servers",
+        "link": "https://aws.amazon.com/blogs/database/supercharging-aws-database-development-with-aws-mcp-servers/"
+    },
+    {
+        "title": "Leveling up Amazon RDS with AWS Graviton4: Benchmarks",
+        "link": "https://aws.amazon.com/blogs/database/leveling-up-amazon-rds-with-aws-graviton4-benchmarks/"
+    },
+    {
         "title": "Use AWS FIS to test the resilience of self-managed Cassandra",
         "link": "https://aws.amazon.com/blogs/database/use-aws-fis-to-test-the-resilience-of-self-managed-cassandra/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamline Amazon Aurora database operations at scale: Introducing the AWS Database Acceleration Toolkit",
         "link": "https://aws.amazon.com/blogs/database/streamline-amazon-aurora-database-operations-at-scale-introducing-the-aws-database-acceleration-toolkit/"
-    },
-    {
-        "title": "Using the PostgreSQL extension tds_fdw to validate data migration from SQL Server to Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/using-the-postgresql-extension-tds_fdw-to-validate-data-migration-from-sql-server-to-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Real-time Iceberg ingestion with AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/real-time-iceberg-ingestion-with-aws-dms/"
     }
 ]
