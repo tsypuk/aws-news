@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transfer data from Amazon S3 to IoT Edge device",
+        "link": "https://aws.amazon.com/blogs/iot/transfer-data-from-amazon-s3-to-iot-edge-device/"
+    },
+    {
         "title": "Integrating ServiceNow OT Asset Workspaces with AWS IoT SiteWise Asset Models",
         "link": "https://aws.amazon.com/blogs/iot/integrating-servicenow-ot-asset-workspaces-with-aws-iot-sitewise-asset-models/"
     },
@@ -12,7 +16,7 @@
         "link": "https://aws.amazon.com/blogs/iot/aws-iot-greengrass-nucleus-lite-revolutionizing-edge-computing-on-resource-constrained-devices/"
     },
     {
-        "title": "Introducing managed integrations for AWS IoT Device Management (Preview)",
+        "title": "Introducing managed integrations for AWS IoT Device Management",
         "link": "https://aws.amazon.com/blogs/iot/introducing-managed-integrations-for-aws-iot-device-management/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Connected utility solutions for water and gas metering with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/connected-utility-solutions-for-water-and-gas-metering-with-aws-iot/"
-    },
-    {
-        "title": "Securing the future of mobility: UNECE WP.29 and AWS IoT for connected vehicle cybersecurity",
-        "link": "https://aws.amazon.com/blogs/iot/securing-the-future-of-mobility-unece-wp-29-and-aws-iot-for-connected-vehicle-cybersecurity/"
     }
 ]
