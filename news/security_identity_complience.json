@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Certificate Manager now supports exporting public certificates",
+        "link": "https://aws.amazon.com/blogs/security/aws-certificate-manager-now-supports-exporting-public-certificates/"
+    },
+    {
         "title": "CISPE Data Protection Code of Conduct Public Register now certifies 122 AWS services as adherent",
         "link": "https://aws.amazon.com/blogs/security/cispe-data-protection-code-of-conduct-public-register-now-certifies-122-aws-services-as-adherent/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Many voices, one community: Three themes from RSA Conference 2025",
         "link": "https://aws.amazon.com/blogs/security/many-voices-one-community-three-themes-from-rsa-conference-2025/"
-    },
-    {
-        "title": "Implementing just-in-time privileged access to AWS with Microsoft Entra and AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/implementing-just-in-time-privileged-access-to-aws-with-microsoft-entra-and-aws-iam-identity-center/"
     }
 ]

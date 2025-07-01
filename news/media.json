@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simulating partial failures with AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/mt/simulating-partial-failures-with-aws-fault-injection-service/"
+    },
+    {
         "title": "Observing Agentic AI workloads using Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/observing-agentic-ai-workloads-using-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scaling AWS Fault Injection Service Across Your Organization And Regions",
         "link": "https://aws.amazon.com/blogs/mt/scaling-aws-fault-injection-service-across-your-organization-and-regions/"
-    },
-    {
-        "title": "Scaling AWS Fault Injection Service Across Your Organization And Accounts",
-        "link": "https://aws.amazon.com/blogs/mt/scaling-aws-fault-injection-service-across-your-organization-and-accounts/"
     }
 ]

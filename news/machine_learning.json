@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-ai-inference-workflows-with-new-enhancements-to-the-amazon-sagemaker-python-sdk/"
+    },
+    {
+        "title": "Context extraction from image files in Amazon Q Business using LLMs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/context-extraction-from-image-files-in-amazon-q-business-using-llms/"
+    },
+    {
+        "title": "Build AWS architecture diagrams using Amazon Q CLI and MCP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-aws-architecture-diagrams-using-amazon-q-cli-and-mcp/"
+    },
+    {
         "title": "AWS costs estimation using Amazon Q CLI and AWS Cost Analysis MCP",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-costs-estimation-using-amazon-q-cli-and-aws-cost-analysis-mcp/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Meeting summarization and action item extraction with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/meeting-summarization-and-action-item-extraction-with-amazon-nova/"
-    },
-    {
-        "title": "Building a custom text-to-SQL agent using Amazon Bedrock and Converse API",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-text-to-sql-agent-using-amazon-bedrock-and-converse-api/"
-    },
-    {
-        "title": "Accelerate threat modeling with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-threat-modeling-with-generative-ai/"
-    },
-    {
-        "title": "How Anomalo solves unstructured data quality issues to deliver trusted assets for AI with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-anomalo-solves-unstructured-data-quality-issues-to-deliver-trusted-assets-for-ai-with-aws/"
     }
 ]

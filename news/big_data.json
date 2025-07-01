@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Redshift Python user-defined functions will reach end of support after June 30, 2026",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-python-user-defined-functions-will-reach-end-of-support-after-june-30-2026/"
+    },
+    {
+        "title": "Enforce table level access control on data lake tables using AWS Glue 5.0 with AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/enforce-table-level-access-control-on-data-lake-tables-using-aws-glue-5-0-with-aws-lake-formation/"
+    },
+    {
         "title": "Building serverless event streaming applications with Amazon MSK and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/big-data/building-serverless-event-streaming-applications-with-amazon-msk-and-aws-lambda/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Embracing event driven architecture to enhance resilience of data solutions built on Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/embracing-event-driven-architecture-to-enhance-resilience-of-data-solutions-built-on-amazon-sagemaker/"
-    },
-    {
-        "title": "Introducing managed query results for Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-managed-query-results-for-amazon-athena/"
-    },
-    {
-        "title": "Centralize Apache Spark observability on Amazon EMR on EKS with external Spark History Server",
-        "link": "https://aws.amazon.com/blogs/big-data/centralize-apache-spark-observability-on-amazon-emr-on-eks-with-external-spark-history-server/"
     }
 ]

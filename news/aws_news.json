@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build the highest resilience apps with multi-Region strong consistency in Amazon DynamoDB global tables",
+        "link": "https://aws.amazon.com/blogs/aws/build-the-highest-resilience-apps-with-multi-region-strong-consistency-in-amazon-dynamodb-global-tables/"
+    },
+    {
+        "title": "New Amazon EC2 C8gn instances powered by AWS Graviton4 offering up to 600Gbps network bandwidth",
+        "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Project Rainier, Amazon CloudWatch investigations, AWS MCP servers, and more (June 30, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-amazon-cloudwatch-investigations-aws-mcp-servers-and-more-june-30-2025/"
+    },
+    {
         "title": "Amazon FSx for OpenZFS now supports Amazon S3 access without any data movement",
         "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-openzfs-now-supports-amazon-s3-access-without-any-data-movement/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing our newest 2025 AWS Heroes cohort",
         "link": "https://aws.amazon.com/blogs/aws/introducing-our-newest-2025-aws-heroes-cohort/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon Aurora DSQL, MCP Servers, Amazon FSx, AI on EKS, and more (June 2, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-aurora-dsql-mcp-servers-amazon-fsx-ai-on-eks-and-more-june-2-2025/"
-    },
-    {
-        "title": "Amazon FSx for Lustre launches new storage class with the lowest-cost and only fully elastic Lustre \ufb01le storage",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-adds-new-storage-class-with-the-lowest-cost-and-only-fully-elastic-lustre-file-storage/"
-    },
-    {
-        "title": "Enhance AI-assisted development with Amazon ECS, Amazon EKS and AWS Serverless MCP server",
-        "link": "https://aws.amazon.com/blogs/aws/enhance-ai-assisted-development-with-amazon-ecs-amazon-eks-and-aws-serverless-mcp-server/"
     }
 ]
