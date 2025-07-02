@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing GenAI-powered business description recommendations for custom assets in Amazon SageMaker Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-genai-powered-business-description-recommendations-for-custom-assets-in-amazon-sagemaker-catalog/"
+    },
+    {
         "title": "Amazon Redshift Python user-defined functions will reach end of support after June 30, 2026",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-python-user-defined-functions-will-reach-end-of-support-after-june-30-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using AWS Glue Data Catalog views with Apache Spark in EMR Serverless and Glue 5.0",
         "link": "https://aws.amazon.com/blogs/big-data/using-aws-glue-data-catalog-views-with-apache-spark-in-emr-serverless-and-glue-5-0/"
-    },
-    {
-        "title": "Embracing event driven architecture to enhance resilience of data solutions built on Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/embracing-event-driven-architecture-to-enhance-resilience-of-data-solutions-built-on-amazon-sagemaker/"
     }
 ]

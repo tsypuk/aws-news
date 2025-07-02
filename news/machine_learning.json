@@ -1,5 +1,21 @@
 [
     {
+        "title": "Use Amazon SageMaker Unified Studio to build complex AI workflows using Amazon Bedrock Flows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-unified-studio-to-build-complex-ai-workflows-using-amazon-bedrock-flows/"
+    },
+    {
+        "title": "Accelerating AI innovation: Scale MCP servers for enterprise workloads with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-innovation-scale-mcp-servers-for-enterprise-workloads-with-amazon-bedrock/"
+    },
+    {
+        "title": "Choosing the right approach for generative AI-powered structured data retrieval",
+        "link": "https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/"
+    },
+    {
+        "title": "Revolutionizing drug data analysis using Amazon Bedrock multimodal RAG capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-drug-data-analysis-using-amazon-bedrock-multimodal-rag-capabilities/"
+    },
+    {
         "title": "Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-ai-inference-workflows-with-new-enhancements-to-the-amazon-sagemaker-python-sdk/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-video-generator-using-amazon-sagemaker-ai-and-cogvideox/"
-    },
-    {
-        "title": "Building trust in AI: The AWS approach to the EU AI Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-the-aws-approach-to-the-eu-ai-act/"
-    },
-    {
-        "title": "Update on the AWS DeepRacer Student Portal",
-        "link": "https://aws.amazon.com/blogs/machine-learning/update-on-the-aws-deepracer-student-portal/"
-    },
-    {
-        "title": "Accelerate foundation model training and inference with Amazon SageMaker HyperPod and Amazon SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-foundation-model-training-and-inference-with-amazon-sagemaker-hyperpod-and-amazon-sagemaker-studio/"
-    },
-    {
-        "title": "Meeting summarization and action item extraction with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/meeting-summarization-and-action-item-extraction-with-amazon-nova/"
     }
 ]

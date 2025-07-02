@@ -1,5 +1,9 @@
 [
     {
+        "title": "Operating BYOL Windows Server Workloads Effectively on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/operating-byol-windows-server-workloads-effectively-on-aws/"
+    },
+    {
         "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automating SQL Server Point-in-Time Recovery Using EBS Snapshots",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automating-sql-server-point-in-time-recovery-using-ebs-snapshots/"
-    },
-    {
-        "title": "How to Use ACM PCA Connector for AD to enable LDAPS for Your Self-Managed AD",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-acm-pca-connector-for-ad-to-enable-ldaps-for-your-self-managed-ad/"
     }
 ]

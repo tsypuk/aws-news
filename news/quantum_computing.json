@@ -1,5 +1,9 @@
 [
     {
+        "title": "Design quantum integrated circuits with open-source software DeviceLayout.jl from AWS",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/design-quantum-integrated-circuits-with-open-source-software-devicelayout-jl-from-aws/"
+    },
+    {
         "title": "Experiment with dynamic circuits on IQM Garnet with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/experiment-with-dynamic-circuits-on-iqm-garnet-with-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "AWS announces the Quantum Embark Program to help customers get ready for quantum computing",
         "link": "https://aws.amazon.com/blogs/quantum-computing/aws-announces-the-quantum-embark-program-to-help-customers-get-ready-for-quantum-computing/"
-    },
-    {
-        "title": "Assessing performance of a variational algorithm in presence of noise and quantum error mitigation",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/assessing-performance-of-a-variational-algorithm-in-presence-of-noise-and-quantum-error-mitigation/"
     }
 ]

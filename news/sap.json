@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build SAP applications faster with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-applications-faster-with-amazon-q-developer/"
+    },
+    {
+        "title": "Elevate User Experience and Security of Application Load Balancer for SAP workloads on AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/elevate-user-experience-and-security-of-application-load-balancer-for-sap-workloads-on-aws/"
+    },
+    {
         "title": "Building Enterprise-Ready Hybrid Network Connectivity on AWS for SAP Cloud ERP Private (formerly known as RISE with SAP)",
         "link": "https://aws.amazon.com/blogs/awsforsap/building-enterprise-ready-hybrid-network-connectivity-on-aws-for-sap-cloud-erp-private-formerly-known-as-rise-with-sap/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhance your business process resilience with Amazon CloudWatch Application Insights Observability for SAP High Availability \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/awsforsap/enhance-your-business-process-resilience-with-amazon-cloudwatch-application-insights-observability-for-sap-high-availability-part-2/"
-    },
-    {
-        "title": "Supercharge your SAP Composable Storefront with Amazon CloudFront",
-        "link": "https://aws.amazon.com/blogs/awsforsap/supercharge-your-sap-composable-storefront-with-amazon-cloudfront/"
-    },
-    {
-        "title": "Accelerate your RISE with SAP transformation with SAP Signavio on AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/awsforsap/accelerate-your-rise-with-sap-transformation-with-sap-signavio-on-aws-marketplace/"
     }
 ]

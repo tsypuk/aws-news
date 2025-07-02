@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve recovery resilience with AWS Backup support for Multi-party approval",
+        "link": "https://aws.amazon.com/blogs/storage/improve-recovery-resilience-with-aws-backup-support-for-multi-party-approval/"
+    },
+    {
         "title": "KKCompany saves 93% on data storage by migrating music streaming services to AWS",
         "link": "https://aws.amazon.com/blogs/storage/kkcompany-saves-93-on-data-storage-by-migrating-music-streaming-services-to-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Expedite VMware migration to Amazon EC2 and Amazon FSx for NetApp ONTAP using the BlueXP workload factory migration advisor",
         "link": "https://aws.amazon.com/blogs/storage/expedite-vmware-migration-to-amazon-ec2-and-amazon-fsx-for-netapp-ontap-using-bluexp-workload-factory-for-aws-migration-advisor/"
-    },
-    {
-        "title": "Understanding Amazon S3 client-side encryption options",
-        "link": "https://aws.amazon.com/blogs/storage/understanding-amazon-s3-client-side-encryption-options/"
     }
 ]
