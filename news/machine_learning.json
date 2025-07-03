@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-rag-in-production-environments-using-amazon-sagemaker-jumpstart-and-amazon-opensearch-service/"
+    },
+    {
+        "title": "Advancing AI agent governance with Boomi and AWS: A unified approach to observability and compliance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/advancing-ai-agent-governance-with-boomi-and-aws-a-unified-approach-to-observability-and-compliance/"
+    },
+    {
         "title": "Use Amazon SageMaker Unified Studio to build complex AI workflows using Amazon Bedrock Flows",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-unified-studio-to-build-complex-ai-workflows-using-amazon-bedrock-flows/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "No-code data preparation for time series forecasting using Amazon SageMaker Canvas",
         "link": "https://aws.amazon.com/blogs/machine-learning/no-code-data-preparation-for-time-series-forecasting-using-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Build an agentic multimodal AI assistant with Amazon Nova and Amazon Bedrock Data Automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-multimodal-ai-assistant-with-amazon-nova-and-amazon-bedrock-data-automation/"
-    },
-    {
-        "title": "Build a scalable AI video generator using Amazon SageMaker AI and CogVideoX",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-ai-video-generator-using-amazon-sagemaker-ai-and-cogvideox/"
     }
 ]

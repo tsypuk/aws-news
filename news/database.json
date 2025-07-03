@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS DMS validation: A custom serverless architecture",
+        "link": "https://aws.amazon.com/blogs/database/aws-dms-validation-a-custom-serverless-architecture/"
+    },
+    {
         "title": "Fluent Commerce\u2019s approach to near-zero downtime Amazon Aurora PostgreSQL upgrade at 32 TB scale using snapshots and AWS DMS ongoing replication",
         "link": "https://aws.amazon.com/blogs/database/fluent-commerces-approach-to-near-zero-downtime-amazon-aurora-postgresql-upgrade-at-32-tb-scale-using-snapshots-and-aws-dms-ongoing-replication/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement row-level security in Amazon Aurora MySQL and Amazon RDS for MySQL",
         "link": "https://aws.amazon.com/blogs/database/implement-row-level-security-in-amazon-aurora-mysql-and-amazon-rds-for-mysql/"
-    },
-    {
-        "title": "Understanding resource distribution and performance analysis using AWS DMS enhanced monitoring",
-        "link": "https://aws.amazon.com/blogs/database/understanding-resource-distribution-and-performance-analysis-using-aws-dms-enhanced-monitoring/"
     }
 ]

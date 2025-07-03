@@ -4,6 +4,10 @@
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/boost-application-performance-amazon-cloudfront-enables-https-record/"
     },
     {
+        "title": "Scaling your hybrid DNS setup with Amazon Route 53 Resolver endpoint metrics",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-your-hybrid-dns-setup-with-amazon-route-53-resolver-endpoint-metrics/"
+    },
+    {
         "title": "Building secure multicloud access with AWS Client VPN and AWS Site-to-Site VPN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-secure-multicloud-access-with-aws-client-vpn-and-aws-site-to-site-vpn/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS secures internet routing with RPKI plus security checks",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-secures-internet-routing-with-rpki-plus-security-checks/"
-    },
-    {
-        "title": "Simplify hybrid inspection using AWS Cloud WAN service insertion",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-hybrid-inspection-using-aws-cloud-wan-service-insertion/"
     }
 ]

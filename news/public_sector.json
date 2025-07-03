@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Customs and Border Protection uses cloud-based technologies to protect the nation",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-customs-and-border-protection-uses-cloud-based-technologies-to-protect-the-nation/"
+    },
+    {
+        "title": "Enabling the mission autonomy flywheel: The AWS four-phase approach to defense innovation",
+        "link": "https://aws.amazon.com/blogs/publicsector/enabling-the-mission-autonomy-flywheel-the-aws-four-phase-approach-to-defense-innovation/"
+    },
+    {
         "title": "How public authorities can improve the freedom of information request process using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/how-public-authorities-can-improve-the-freedom-of-information-request-process-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Empowering AWS Partners to expand their platforms globally",
         "link": "https://aws.amazon.com/blogs/publicsector/empowering-aws-partners-to-expand-their-platforms-globally/"
-    },
-    {
-        "title": "New AWS WickrGov offerings to enable secure, compliant communication on multiple devices",
-        "link": "https://aws.amazon.com/blogs/publicsector/new-aws-wickrgov-offerings-to-enable-secure-compliant-communication-on-multiple-devices/"
-    },
-    {
-        "title": "Accelerating government innovation: Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
-        "link": "https://aws.amazon.com/blogs/publicsector/accelerating-government-innovation-amazon-bedrock-models-get-fedramp-high-and-dod-il-4-5-approval-in-aws-govcloud-us/"
     }
 ]
