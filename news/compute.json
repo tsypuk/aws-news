@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless ICYMI Q2 2025",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2025/"
+    },
+    {
         "title": "AWS named a Leader in the 2025 Forrester Wave: Serverless Development Platforms",
         "link": "https://aws.amazon.com/blogs/compute/aws-named-a-leader-in-the-2025-forrester-wave-serverless-development-platforms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrating aggregators and Quick Service Restaurants with AWS serverless architectures",
         "link": "https://aws.amazon.com/blogs/compute/integrating-aggregators-and-quick-service-restaurants-with-aws-serverless-architectures/"
-    },
-    {
-        "title": "Optimizing cold start performance of AWS Lambda using advanced priming strategies with SnapStart",
-        "link": "https://aws.amazon.com/blogs/compute/optimizing-cold-start-performance-of-aws-lambda-using-advanced-priming-strategies-with-snapstart/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the latest AWS Well-Architected Framework: IoT Lens",
+        "link": "https://aws.amazon.com/blogs/iot/introducing-the-latest-aws-well-architected-framework-iot-lens/"
+    },
+    {
         "title": "Transfer data from Amazon S3 to IoT Edge device",
         "link": "https://aws.amazon.com/blogs/iot/transfer-data-from-amazon-s3-to-iot-edge-device/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modeling your industrial assets at scale using AWS IoT SiteWise",
         "link": "https://aws.amazon.com/blogs/iot/modeling-your-industrial-assets-at-scale-using-aws-iot-sitewise/"
-    },
-    {
-        "title": "Connected utility solutions for water and gas metering with AWS IoT",
-        "link": "https://aws.amazon.com/blogs/iot/connected-utility-solutions-for-water-and-gas-metering-with-aws-iot/"
     }
 ]

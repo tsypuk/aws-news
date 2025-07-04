@@ -1,5 +1,9 @@
 [
     {
+        "title": "Guide to IP and domain warming and migrating to Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/guide-to-ip-and-domain-warming-and-migrating-to-amazon-ses/"
+    },
+    {
         "title": "Secure collaboration and file sharing with AWS Wickr",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-collaboration-and-file-sharing-with-aws-wickr/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A Guide to Optimizing SMS Delivery and Best Practices",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-optimizing-sms-delivery-and-best-practices/"
-    },
-    {
-        "title": "Update on Support for Amazon Chime",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/"
     }
 ]

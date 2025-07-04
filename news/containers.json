@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improving Amazon ECS deployment consistency with SOCI Index Manifest v2",
+        "link": "https://aws.amazon.com/blogs/containers/improving-amazon-ecs-deployment-consistency-with-soci-index-manifest-v2/"
+    },
+    {
         "title": "Fully Sharded Data Parallel with Ray on Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/fully-sharded-data-parallel-with-ray-on-amazon-ecs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Managing Team Workloads in shared Amazon EKS cluster using Loft vCluster and Argo CD for better cost optimization and operational efficiency",
         "link": "https://aws.amazon.com/blogs/containers/managing-team-workloads-in-shared-amazon-eks-cluster-using-loft-vcluster-and-argo-cd-for-better-cost-optimization-and-operational-efficiency/"
-    },
-    {
-        "title": "Streamline multi-environment deployments with Amazon EKS Blueprints and CDK pipelines",
-        "link": "https://aws.amazon.com/blogs/containers/streamline-multi-environment-deployments-with-amazon-eks-blueprints-and-cdk-pipelines/"
     }
 ]

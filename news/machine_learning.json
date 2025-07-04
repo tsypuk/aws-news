@@ -1,5 +1,13 @@
 [
     {
+        "title": "Transforming network operations with AI: How Swisscom built a network assistant using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-network-operations-with-ai-how-swisscom-built-a-network-assistant-using-amazon-bedrock/"
+    },
+    {
+        "title": "End-to-End model training and deployment with Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-rag-in-production-environments-using-amazon-sagemaker-jumpstart-and-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How SkillShow automates youth sports video processing using Amazon Transcribe",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-skillshow-automates-youth-sports-video-processing-using-amazon-transcribe/"
-    },
-    {
-        "title": "NewDay builds A Generative AI based Customer service Agent Assist with over 90% accuracy",
-        "link": "https://aws.amazon.com/blogs/machine-learning/newday-builds-a-generative-ai-based-customer-service-agent-assist-with-over-90-accuracy/"
-    },
-    {
-        "title": "No-code data preparation for time series forecasting using Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/no-code-data-preparation-for-time-series-forecasting-using-amazon-sagemaker-canvas/"
     }
 ]

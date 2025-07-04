@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build conversational AI search with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/build-conversational-ai-search-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Enhance stability with dedicated cluster manager nodes using Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/enhance-stability-with-dedicated-cluster-manager-nodes-using-amazon-opensearch-service/"
+    },
+    {
+        "title": "Kaltura reduces observability operational costs by 60% with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/kaltura-reduces-observability-operational-costs-by-60-with-amazon-opensearch-service/"
+    },
+    {
         "title": "Introducing GenAI-powered business description recommendations for custom assets in Amazon SageMaker Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-genai-powered-business-description-recommendations-for-custom-assets-in-amazon-sagemaker-catalog/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Nexthink built real-time alerts with Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/how-nexthink-built-real-time-alerts-with-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Designing centralized and distributed network connectivity patterns for Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/designing-centralized-and-distributed-network-connectivity-patterns-for-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Simplify real-time analytics with zero-ETL from Amazon DynamoDB to Amazon SageMaker Lakehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-real-time-analytics-with-zero-etl-from-amazon-dynamodb-to-amazon-sagemaker-lakehouse/"
-    },
-    {
-        "title": "Using AWS Glue Data Catalog views with Apache Spark in EMR Serverless and Glue 5.0",
-        "link": "https://aws.amazon.com/blogs/big-data/using-aws-glue-data-catalog-views-with-apache-spark-in-emr-serverless-and-glue-5-0/"
     }
 ]
