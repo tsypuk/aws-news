@@ -1,5 +1,13 @@
 [
     {
+        "title": "Equinox Builds a Scalable, Repeatable Architecture Using AWS IoT Services",
+        "link": "https://aws.amazon.com/blogs/industries/equinox-builds-a-scalable-repeatable-architecture-using-aws-iot-services/"
+    },
+    {
+        "title": "How to Implement MLOps for Industry 4.0",
+        "link": "https://aws.amazon.com/blogs/industries/how-to-implement-mlops-for-industry-4-0/"
+    },
+    {
         "title": "Amazon Braket and Amazon Bedrock: quantum algorithms solving telco challenges \u2013 a case study on backhaul network upgrades",
         "link": "https://aws.amazon.com/blogs/industries/amazon-braket-and-amazon-bedrock-quantum-algorithms-solving-telco-challenges-a-case-study-on-backhaul-network-upgrades/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Synchronize keys automatically from payment HSMs to AWS Payment Cryptography",
         "link": "https://aws.amazon.com/blogs/industries/synchronize-keys-automatically-from-payment-hsms-to-aws-payment-cryptography/"
-    },
-    {
-        "title": "Enhance predictive maintenance with generative AI agents on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/enhance-predictive-maintenance-with-generative-ai-agents-on-aws/"
-    },
-    {
-        "title": "How to create a unified view of your consumer",
-        "link": "https://aws.amazon.com/blogs/industries/how-to-create-a-unified-view-of-your-consumer/"
     }
 ]

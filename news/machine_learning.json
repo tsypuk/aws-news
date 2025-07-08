@@ -1,5 +1,21 @@
 [
     {
+        "title": "How INRIX accelerates transportation planning with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-inrix-accelerates-transportation-planning-with-amazon-bedrock/"
+    },
+    {
+        "title": "Qwen3 family of reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/qwen3-family-of-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Build a just-in-time knowledge base with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-just-in-time-knowledge-base-with-amazon-bedrock/"
+    },
+    {
+        "title": "Agents as escalators: Real-time AI video monitoring with Amazon Bedrock Agents and video streams",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agents-as-escalators-real-time-ai-video-monitoring-with-amazon-bedrock-agents-and-video-streams/"
+    },
+    {
         "title": "Transforming network operations with AI: How Swisscom built a network assistant using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-network-operations-with-ai-how-swisscom-built-a-network-assistant-using-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build an intelligent multi-agent business expert using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-multi-agent-business-expert-using-amazon-bedrock/"
-    },
-    {
-        "title": "Driving cost-efficiency and speed in claims data processing with Amazon Nova Micro and Amazon Nova Lite",
-        "link": "https://aws.amazon.com/blogs/machine-learning/driving-cost-efficiency-and-speed-in-claims-data-processing-with-amazon-nova-micro-and-amazon-nova-lite/"
-    },
-    {
-        "title": "Power Your LLM Training and Evaluation with the New SageMaker AI Generative AI Tools",
-        "link": "https://aws.amazon.com/blogs/machine-learning/power-your-llm-training-and-evaluation-with-the-new-sagemaker-ai-generative-ai-tools/"
-    },
-    {
-        "title": "Amazon Bedrock Agents observability using Arize AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agents-observability-using-arize-ai/"
-    },
-    {
-        "title": "How SkillShow automates youth sports video processing using Amazon Transcribe",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-skillshow-automates-youth-sports-video-processing-using-amazon-transcribe/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extending SAP Field Service Management with AWS: A Clean Core Approach for Attachment Storage",
+        "link": "https://aws.amazon.com/blogs/awsforsap/extending-sap-field-service-management-with-aws-a-clean-core-approach-for-attachment-storage/"
+    },
+    {
         "title": "Build SAP applications faster with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-applications-faster-with-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the migration readiness accelerator for RISE with SAP on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/migration-readiness-accelerator-for-rise-with-sap-on-aws/"
-    },
-    {
-        "title": "Enhance your business process resilience with Amazon CloudWatch Application Insights Observability for SAP High Availability \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/awsforsap/enhance-your-business-process-resilience-with-amazon-cloudwatch-application-insights-observability-for-sap-high-availability-part-2/"
     }
 ]

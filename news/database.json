@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to evaluate throughput utilization for Amazon DynamoDB tables in provisioned mode",
+        "link": "https://aws.amazon.com/blogs/database/how-to-evaluate-throughput-utilization-for-amazon-dynamodb-tables-in-provisioned-mode/"
+    },
+    {
         "title": "SQL to NoSQL: Modernizing data access layer with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/sql-to-nosql-modernizing-data-access-layer-with-amazon-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement a rollback strategy for Amazon Aurora PostgreSQL upgrades using Amazon RDS Blue/Green deployments",
         "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-for-amazon-aurora-postgresql-upgrades-using-amazon-rds-blue-green-deployments/"
-    },
-    {
-        "title": "How an AWS customer in the learning services industry migrated and modernized SAP ASE to Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/how-an-aws-customer-in-the-learning-services-industry-migrated-and-modernized-sap-ase-to-amazon-aurora-postgresql/"
     }
 ]
