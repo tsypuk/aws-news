@@ -1,5 +1,29 @@
 [
     {
+        "title": "Accelerate AI development with Amazon Bedrock API keys",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/"
+    },
+    {
+        "title": "Accelerating data science innovation: How Bayer Crop Science used AWS AI/ML services to build their next-generation MLOps service",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-data-science-innovation-how-bayer-crop-science-used-aws-ai-ml-services-to-build-their-next-generation-mlops-service/"
+    },
+    {
+        "title": "Combat financial fraud with GraphRAG on Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/combat-financial-fraud-with-graphrag-on-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Classify call center conversations with Amazon Bedrock batch inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/classify-call-center-conversations-with-amazon-bedrock-batch-inference/"
+    },
+    {
+        "title": "Effective cross-lingual LLM evaluation with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/effective-cross-lingual-llm-evaluation-with-amazon-bedrock/"
+    },
+    {
+        "title": "Cohere Embed 4 multimodal embeddings model is now available on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-embed-4-multimodal-embeddings-model-is-now-available-on-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "How INRIX accelerates transportation planning with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-inrix-accelerates-transportation-planning-with-amazon-bedrock/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Context extraction from image files in Amazon Q Business using LLMs",
         "link": "https://aws.amazon.com/blogs/machine-learning/context-extraction-from-image-files-in-amazon-q-business-using-llms/"
-    },
-    {
-        "title": "Build AWS architecture diagrams using Amazon Q CLI and MCP",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-aws-architecture-diagrams-using-amazon-q-cli-and-mcp/"
-    },
-    {
-        "title": "AWS costs estimation using Amazon Q CLI and AWS Cost Analysis MCP",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-costs-estimation-using-amazon-q-cli-and-aws-cost-analysis-mcp/"
-    },
-    {
-        "title": "Tailor responsible AI with new safeguard tiers in Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/tailor-responsible-ai-with-new-safeguard-tiers-in-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "Structured data response with Amazon Bedrock: Prompt Engineering and Tool Use",
-        "link": "https://aws.amazon.com/blogs/machine-learning/structured-data-response-with-amazon-bedrock-prompt-engineering-and-tool-use/"
-    },
-    {
-        "title": "Using Amazon SageMaker AI Random Cut Forest for NASA\u2019s Blue Origin spacecraft sensor data",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-ai-random-cut-forest-for-nasas-blue-origin-spacecraft-sensor-data/"
-    },
-    {
-        "title": "Build an intelligent multi-agent business expert using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-multi-agent-business-expert-using-amazon-bedrock/"
     }
 ]

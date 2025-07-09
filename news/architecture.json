@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate and modernize VMware workloads with AWS Transform for VMware",
+        "link": "https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/"
+    },
+    {
         "title": "Simplifying sustainability reporting using AWS and generative AI in banking",
         "link": "https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "From virtual machine to Kubernetes to serverless: How dacadoo saved 78% on cloud costs and automated operations",
         "link": "https://aws.amazon.com/blogs/architecture/from-virtual-machine-to-kubernetes-to-serverless-how-dacadoo-saved-78-on-cloud-costs-and-automated-operations/"
-    },
-    {
-        "title": "Master architecture decision records (ADRs): Best practices for effective decision-making",
-        "link": "https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/"
     }
 ]

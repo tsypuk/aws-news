@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing Amazon Keyspaces CDC streams",
+        "link": "https://aws.amazon.com/blogs/database/introducing-amazon-keyspaces-cdc-streams/"
+    },
+    {
+        "title": "How Aqua Security automates fast clone orchestration on Amazon Aurora at scale",
+        "link": "https://aws.amazon.com/blogs/database/how-aqua-security-automates-fast-clone-orchestration-on-amazon-aurora-at-scale/"
+    },
+    {
+        "title": "How TalentNeuron optimized data operations and cut costs and modernized with Amazon Aurora I/O-Optimized",
+        "link": "https://aws.amazon.com/blogs/database/how-talentneuron-optimized-data-operations-and-cut-costs-and-modernized-with-amazon-aurora-i-o-optimized/"
+    },
+    {
         "title": "How to evaluate throughput utilization for Amazon DynamoDB tables in provisioned mode",
         "link": "https://aws.amazon.com/blogs/database/how-to-evaluate-throughput-utilization-for-amazon-dynamodb-tables-in-provisioned-mode/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Use Graph Machine Learning to detect fraud with Amazon Neptune Analytics and GraphStorm",
         "link": "https://aws.amazon.com/blogs/database/use-graph-machine-learning-to-detect-fraud-with-amazon-neptune-analytics-and-graphstorm/"
-    },
-    {
-        "title": "Migrate a self-managed MySQL database to Amazon Aurora MySQL using AWS DMS homogeneous data migrations",
-        "link": "https://aws.amazon.com/blogs/database/migrate-a-self-managed-mysql-database-to-amazon-aurora-mysql-using-aws-dms-homogeneous-data-migrations/"
-    },
-    {
-        "title": "Things to consider when choosing between Oracle TDE and AWS KMS for encryption of data at rest for Amazon RDS for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/things-to-consider-when-choosing-between-oracle-tde-and-aws-kms-for-encryption-of-data-at-rest-for-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Implement a rollback strategy for Amazon Aurora PostgreSQL upgrades using Amazon RDS Blue/Green deployments",
-        "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-for-amazon-aurora-postgresql-upgrades-using-amazon-rds-blue-green-deployments/"
     }
 ]

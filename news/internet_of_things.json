@@ -1,5 +1,9 @@
 [
     {
+        "title": "Efficient video streaming and vision AI at the edge with Realtek, Plumerai, and Amazon Kinesis Video Streams",
+        "link": "https://aws.amazon.com/blogs/iot/efficient-video-streaming-and-vision-ai-at-the-edge-with-realtek-plumerai-and-amazon-kinesis-video-streams/"
+    },
+    {
         "title": "Introducing the latest AWS Well-Architected Framework: IoT Lens",
         "link": "https://aws.amazon.com/blogs/iot/introducing-the-latest-aws-well-architected-framework-iot-lens/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reliable Airline Baggage Tracking Solution using AWS IoT and Amazon MSK",
         "link": "https://aws.amazon.com/blogs/iot/reliable-airline-baggage-tracking-solution-using-aws-iot-and-amazon-msk/"
-    },
-    {
-        "title": "Modeling your industrial assets at scale using AWS IoT SiteWise",
-        "link": "https://aws.amazon.com/blogs/iot/modeling-your-industrial-assets-at-scale-using-aws-iot-sitewise/"
     }
 ]

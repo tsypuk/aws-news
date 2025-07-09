@@ -1,5 +1,9 @@
 [
     {
+        "title": "Near real-time baggage operational insights for airlines using Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/near-real-time-baggage-operational-insights-for-airlines-using-amazon-kinesis-data-streams/"
+    },
+    {
         "title": "Overcome your Kafka Connect challenges with Amazon Data Firehose",
         "link": "https://aws.amazon.com/blogs/big-data/overcome-your-kafka-connect-challenges-with-amazon-data-firehose/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "RocksDB 101: Optimizing stateful streaming in Apache Spark with Amazon EMR and AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/rocksdb-101-optimizing-stateful-streaming-in-apache-spark-with-amazon-emr-and-aws-glue/"
-    },
-    {
-        "title": "Reduce time to access your transactional data for analytical processing using the power of Amazon SageMaker Lakehouse and zero-ETL",
-        "link": "https://aws.amazon.com/blogs/big-data/reduce-time-to-access-your-transactional-data-for-analytical-processing-using-the-power-of-amazon-sagemaker-lakehouse-and-zero-etl/"
     }
 ]

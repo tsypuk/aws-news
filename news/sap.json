@@ -1,5 +1,9 @@
 [
     {
+        "title": "Maximize the value of your SAP data using Amazon Q Business and Amazon Bedrock Generative AI \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/awsforsap/maximize-the-value-of-your-sap-data-using-amazon-q-business-and-amazon-bedrock-generative-ai-part-1/"
+    },
+    {
         "title": "Extending SAP Field Service Management with AWS: A Clean Core Approach for Attachment Storage",
         "link": "https://aws.amazon.com/blogs/awsforsap/extending-sap-field-service-management-with-aws-a-clean-core-approach-for-attachment-storage/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "migration support service for RISE with SAP on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/migration-support-service-for-rise-with-sap-on-aws/"
-    },
-    {
-        "title": "Introducing the migration readiness accelerator for RISE with SAP on AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/migration-readiness-accelerator-for-rise-with-sap-on-aws/"
     }
 ]
