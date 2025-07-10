@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using AWS IoT Device Management commands to simplify remote actions on IoT devices",
+        "link": "https://aws.amazon.com/blogs/iot/using-aws-iot-device-management-commands-to-simplify-remote-actions-on-iot-devices/"
+    },
+    {
         "title": "Efficient video streaming and vision AI at the edge with Realtek, Plumerai, and Amazon Kinesis Video Streams",
         "link": "https://aws.amazon.com/blogs/iot/efficient-video-streaming-and-vision-ai-at-the-edge-with-realtek-plumerai-and-amazon-kinesis-video-streams/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a connected car physical prototype with AWS IoT services",
         "link": "https://aws.amazon.com/blogs/iot/building-a-connected-car-physical-prototype-with-aws-iot-services/"
-    },
-    {
-        "title": "Reliable Airline Baggage Tracking Solution using AWS IoT and Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/iot/reliable-airline-baggage-tracking-solution-using-aws-iot-and-amazon-msk/"
     }
 ]

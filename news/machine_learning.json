@@ -1,5 +1,33 @@
 [
     {
+        "title": "AWS AI infrastructure with NVIDIA Blackwell: Two powerful compute solutions for the next frontier of AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-infrastructure-with-nvidia-blackwell-two-powerful-compute-solutions-for-the-next-frontier-of-ai/"
+    },
+    {
+        "title": "Unlock retail intelligence by transforming data into actionable insights using generative AI with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-retail-intelligence-by-transforming-data-into-actionable-insights-using-generative-ai-with-amazon-q-business/"
+    },
+    {
+        "title": "Democratize data for timely decisions with text-to-SQL at Parcel Perform",
+        "link": "https://aws.amazon.com/blogs/machine-learning/democratize-data-for-timely-decisions-with-text-to-sql-at-parcel-perform/"
+    },
+    {
+        "title": "Query Amazon Aurora PostgreSQL using Amazon Bedrock Knowledge Bases structured data",
+        "link": "https://aws.amazon.com/blogs/machine-learning/query-amazon-aurora-postgresql-using-amazon-bedrock-knowledge-bases-structured-data/"
+    },
+    {
+        "title": "Configure fine-grained access to Amazon Bedrock models using Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/configure-fine-grained-access-to-amazon-bedrock-models-using-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Improve conversational AI response times for enterprise applications with the Amazon Bedrock streaming API and AWS AppSync",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-conversational-ai-response-times-for-enterprise-applications-with-the-amazon-bedrock-streaming-api-and-aws-appsync/"
+    },
+    {
+        "title": "Scale generative AI use cases, Part 1: Multi-tenant hub and spoke architecture using AWS Transit Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-generative-ai-use-cases-part-1-multi-tenant-hub-and-spoke-architecture-using-aws-transit-gateway/"
+    },
+    {
         "title": "Accelerate AI development with Amazon Bedrock API keys",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-rag-in-production-environments-using-amazon-sagemaker-jumpstart-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Advancing AI agent governance with Boomi and AWS: A unified approach to observability and compliance",
-        "link": "https://aws.amazon.com/blogs/machine-learning/advancing-ai-agent-governance-with-boomi-and-aws-a-unified-approach-to-observability-and-compliance/"
-    },
-    {
-        "title": "Use Amazon SageMaker Unified Studio to build complex AI workflows using Amazon Bedrock Flows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-unified-studio-to-build-complex-ai-workflows-using-amazon-bedrock-flows/"
-    },
-    {
-        "title": "Accelerating AI innovation: Scale MCP servers for enterprise workloads with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-innovation-scale-mcp-servers-for-enterprise-workloads-with-amazon-bedrock/"
-    },
-    {
-        "title": "Choosing the right approach for generative AI-powered structured data retrieval",
-        "link": "https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/"
-    },
-    {
-        "title": "Revolutionizing drug data analysis using Amazon Bedrock multimodal RAG capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/revolutionizing-drug-data-analysis-using-amazon-bedrock-multimodal-rag-capabilities/"
-    },
-    {
-        "title": "Build and deploy AI inference workflows with new enhancements to the Amazon SageMaker Python SDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-ai-inference-workflows-with-new-enhancements-to-the-amazon-sagemaker-python-sdk/"
-    },
-    {
-        "title": "Context extraction from image files in Amazon Q Business using LLMs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/context-extraction-from-image-files-in-amazon-q-business-using-llms/"
     }
 ]

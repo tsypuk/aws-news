@@ -1,5 +1,9 @@
 [
     {
+        "title": "A Lemongrass success story: Enhancing Multi-Region SD-WAN failover with AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/a-lemongrass-success-story-enhancing-multi-region-sd-wan-failover-with-aws-cloud-wan/"
+    },
+    {
         "title": "Streamlining multi-VPC DNS management with Amazon Route 53 Profiles and interface VPC endpoint integration",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamlining-multi-vpc-dns-management-with-amazon-route-53-profiles-and-interface-vpc-endpoint-integration/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon Route 53 authoritative DNS service for public hosted zones in AWS GovCloud (US) Regions",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-route-53-authoritative-dns-service-for-public-hosted-zones-in-aws-govcloud-us-regions/"
-    },
-    {
-        "title": "United Airlines implement enterprise-wide resilience program with AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/united-airlines-implement-enterprise-wide-resilience-program-with-aws/"
     }
 ]

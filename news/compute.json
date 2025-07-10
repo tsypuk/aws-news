@@ -1,5 +1,9 @@
 [
     {
+        "title": "Orchestrating document processing with AWS AppSync Events and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/compute/orchestrating-document-processing-with-aws-appsync-events-and-amazon-bedrock/"
+    },
+    {
         "title": "Serverless ICYMI Q2 2025",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Lambda introduces tiered pricing for Amazon CloudWatch logs and additional logging destinations",
         "link": "https://aws.amazon.com/blogs/compute/aws-lambda-introduces-tiered-pricing-for-amazon-cloudwatch-logs-and-additional-logging-destinations/"
-    },
-    {
-        "title": "Integrating aggregators and Quick Service Restaurants with AWS serverless architectures",
-        "link": "https://aws.amazon.com/blogs/compute/integrating-aggregators-and-quick-service-restaurants-with-aws-serverless-architectures/"
     }
 ]
