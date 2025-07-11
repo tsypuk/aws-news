@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize your CAE/CFD workloads with Amazon FSx for Lustre Data Repository Association",
+        "link": "https://aws.amazon.com/blogs/hpc/optimize-your-cae-cfd-workloads-with-amazon-fsx-for-lustre-data-repository-association/"
+    },
+    {
         "title": "Optimize HPC Workloads with the Updated AWS Well-Architected Lens",
         "link": "https://aws.amazon.com/blogs/hpc/optimize-hpc-workloads-with-the-updated-aws-well-architected-lens/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use rate-limited resources in AWS Batch jobs with resource aware scheduling",
         "link": "https://aws.amazon.com/blogs/hpc/how-to-use-rate-limited-resources-in-aws-batch-jobs-with-resource-aware-scheduling/"
-    },
-    {
-        "title": "Predict the unpredictable: Disrupting drug lead optimization using quantum mechanics simulation in the cloud",
-        "link": "https://aws.amazon.com/blogs/hpc/predict-the-unpredictable-disrupting-drug-lead-optimization-using-quantum-mechanics-simulation-in-the-cloud/"
     }
 ]

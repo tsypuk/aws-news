@@ -1,5 +1,9 @@
 [
     {
+        "title": "How TEKsystems Modernized a University\u2019s Microsoft Workloads on AWS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-teksystems-modernized-a-universitys-microsoft-workloads-on-aws/"
+    },
+    {
         "title": "Operating BYOL Windows Server Workloads Effectively on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/operating-byol-windows-server-workloads-effectively-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to use persistent storage with AWS Elastic Beanstalk Windows deployment.",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-persistent-storage-with-aws-elastic-beanstalk-windows-deployment/"
-    },
-    {
-        "title": "Automating SQL Server Point-in-Time Recovery Using EBS Snapshots",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automating-sql-server-point-in-time-recovery-using-ebs-snapshots/"
     }
 ]

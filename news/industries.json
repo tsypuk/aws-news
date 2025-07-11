@@ -1,5 +1,9 @@
 [
     {
+        "title": "Energy Virtual Assistant: transforming utility customer service with AWS Generative AI",
+        "link": "https://aws.amazon.com/blogs/industries/energy-virtual-assistant-transforming-utility-customer-service-with-aws-generative-ai/"
+    },
+    {
         "title": "Equinox Builds a Scalable, Repeatable Architecture Using AWS IoT Services",
         "link": "https://aws.amazon.com/blogs/industries/equinox-builds-a-scalable-repeatable-architecture-using-aws-iot-services/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Health AI Hub accelerates healthcare innovation in Europe, Middle East, and Africa",
         "link": "https://aws.amazon.com/blogs/industries/health-ai-hub/"
-    },
-    {
-        "title": "Synchronize keys automatically from payment HSMs to AWS Payment Cryptography",
-        "link": "https://aws.amazon.com/blogs/industries/synchronize-keys-automatically-from-payment-hsms-to-aws-payment-cryptography/"
     }
 ]

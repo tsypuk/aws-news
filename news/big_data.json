@@ -1,5 +1,13 @@
 [
     {
+        "title": "Realizing ocean data democratization: Furuno Electric\u2019s initiatives using Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/realizing-ocean-data-democratization-furuno-electrics-initiatives-using-amazon-datazone/"
+    },
+    {
+        "title": "Geospatial data lakes with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/geospatial-data-lakes-with-amazon-redshift/"
+    },
+    {
         "title": "Develop and monitor a Spark application using existing data in Amazon S3 with Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/develop-and-monitor-a-spark-application-using-existing-data-in-amazon-s3-with-amazon-sagemaker-unified-studio/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Skroutz handles real-time schema evolution in Amazon Redshift with Debezium",
         "link": "https://aws.amazon.com/blogs/big-data/how-skroutz-handles-real-time-schema-evolution-in-amazon-redshift-with-debezium/"
-    },
-    {
-        "title": "Stream data from Amazon MSK to Apache Iceberg tables in Amazon S3 and Amazon S3 Tables using Amazon Data Firehose",
-        "link": "https://aws.amazon.com/blogs/big-data/stream-data-from-amazon-msk-to-apache-iceberg-tables-in-amazon-s3-and-amazon-s3-tables-using-amazon-data-firehose/"
-    },
-    {
-        "title": "Secure access to a cross-account Amazon MSK cluster from Amazon MSK Connect using IAM authentication",
-        "link": "https://aws.amazon.com/blogs/big-data/secure-access-to-a-cross-account-amazon-msk-cluster-from-amazon-msk-connect-using-iam-authentication/"
     }
 ]

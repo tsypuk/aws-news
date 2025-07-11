@@ -1,5 +1,13 @@
 [
     {
+        "title": "Evolve your Amazon DynamoDB table\u2019s data model",
+        "link": "https://aws.amazon.com/blogs/database/evolve-your-amazon-dynamodb-tables-data-model/"
+    },
+    {
+        "title": "Transform uncompressed Amazon DocumentDB data into compressed collections using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/transform-uncompressed-amazon-documentdb-data-into-compressed-collections-using-aws-dms/"
+    },
+    {
         "title": "Introducing Amazon Keyspaces CDC streams",
         "link": "https://aws.amazon.com/blogs/database/introducing-amazon-keyspaces-cdc-streams/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Optimize Amazon RDS Multi-AZ backups with incremental snapshots",
         "link": "https://aws.amazon.com/blogs/database/optimize-amazon-rds-multi-az-backups-with-incremental-snapshots/"
-    },
-    {
-        "title": "Migrate io1 to io2 Block Express storage for Amazon RDS workloads using blue/green deployments",
-        "link": "https://aws.amazon.com/blogs/database/migrate-io1-to-io2-block-express-storage-for-amazon-rds-workloads-using-blue-green-deployments/"
-    },
-    {
-        "title": "Use Graph Machine Learning to detect fraud with Amazon Neptune Analytics and GraphStorm",
-        "link": "https://aws.amazon.com/blogs/database/use-graph-machine-learning-to-detect-fraud-with-amazon-neptune-analytics-and-graphstorm/"
     }
 ]

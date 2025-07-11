@@ -1,5 +1,41 @@
 [
     {
+        "title": "New capabilities in Amazon SageMaker AI continue to transform how organizations develop AI models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-capabilities-in-amazon-sagemaker-ai-continue-to-transform-how-organizations-develop-ai-models/"
+    },
+    {
+        "title": "Accelerate foundation model development with one-click observability in Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-foundation-model-development-with-one-click-observability-in-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Accelerating generative AI development with fully managed MLflow 3.0 on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-development-with-fully-managed-mlflow-3-0-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Amazon SageMaker HyperPod launches model deployments to accelerate the generative AI model development lifecycle",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-hyperpod-launches-model-deployments-to-accelerate-the-generative-ai-model-development-lifecycle/"
+    },
+    {
+        "title": "Supercharge your AI workflows by connecting to SageMaker Studio from Visual Studio Code",
+        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-workflows-by-connecting-to-sagemaker-studio-from-visual-studio-code/"
+    },
+    {
+        "title": "Use K8sGPT and Amazon Bedrock for simplified Kubernetes cluster maintenance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-k8sgpt-and-amazon-bedrock-for-simplified-kubernetes-cluster-maintenance/"
+    },
+    {
+        "title": "How Rocket streamlines the home buying experience with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-rocket-streamlines-the-home-buying-experience-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Build an MCP application with Mistral models on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-mcp-application-with-mistral-models-on-aws/"
+    },
+    {
+        "title": "Build real-time conversational AI experiences using Amazon Nova Sonic and LiveKit",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-conversational-ai-experiences-using-amazon-nova-sonic-and-livekit/"
+    },
+    {
         "title": "AWS AI infrastructure with NVIDIA Blackwell: Two powerful compute solutions for the next frontier of AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-infrastructure-with-nvidia-blackwell-two-powerful-compute-solutions-for-the-next-frontier-of-ai/"
     },
@@ -42,41 +78,5 @@
     {
         "title": "Classify call center conversations with Amazon Bedrock batch inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/classify-call-center-conversations-with-amazon-bedrock-batch-inference/"
-    },
-    {
-        "title": "Effective cross-lingual LLM evaluation with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/effective-cross-lingual-llm-evaluation-with-amazon-bedrock/"
-    },
-    {
-        "title": "Cohere Embed 4 multimodal embeddings model is now available on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cohere-embed-4-multimodal-embeddings-model-is-now-available-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "How INRIX accelerates transportation planning with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-inrix-accelerates-transportation-planning-with-amazon-bedrock/"
-    },
-    {
-        "title": "Qwen3 family of reasoning models now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/qwen3-family-of-reasoning-models-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Build a just-in-time knowledge base with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-just-in-time-knowledge-base-with-amazon-bedrock/"
-    },
-    {
-        "title": "Agents as escalators: Real-time AI video monitoring with Amazon Bedrock Agents and video streams",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agents-as-escalators-real-time-ai-video-monitoring-with-amazon-bedrock-agents-and-video-streams/"
-    },
-    {
-        "title": "Transforming network operations with AI: How Swisscom built a network assistant using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-network-operations-with-ai-how-swisscom-built-a-network-assistant-using-amazon-bedrock/"
-    },
-    {
-        "title": "End-to-End model training and deployment with Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-model-training-and-deployment-with-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Optimize RAG in production environments using Amazon SageMaker JumpStart and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-rag-in-production-environments-using-amazon-sagemaker-jumpstart-and-amazon-opensearch-service/"
     }
 ]
