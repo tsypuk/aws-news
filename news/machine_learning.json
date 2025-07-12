@@ -1,5 +1,45 @@
 [
     {
+        "title": "Advanced fine-tuning methods on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-methods-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Streamline machine learning workflows with SkyPilot on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-machine-learning-workflows-with-skypilot-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/"
+    },
+    {
+        "title": "Build a conversational data assistant, Part 2 \u2013 Embedding generative business intelligence with Amazon Q in QuickSight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-2-embedding-generative-business-intelligence-with-amazon-q-in-quicksight/"
+    },
+    {
+        "title": "Build a conversational data assistant, Part 1: Text-to-SQL with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-1-text-to-sql-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "Implement user-level access control for multi-tenant ML platforms on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-user-level-access-control-for-multi-tenant-ml-platforms-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Long-running execution flows now supported in Amazon Bedrock Flows in public preview",
+        "link": "https://aws.amazon.com/blogs/machine-learning/long-running-execution-flows-now-supported-in-amazon-bedrock-flows-in-public-preview/"
+    },
+    {
+        "title": "Fraud detection empowered by federated learning with the Flower framework on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fraud-detection-empowered-by-federated-learning-with-the-flower-framework-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Building intelligent AI voice agents with Pipecat and Amazon Bedrock \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-ai-voice-agents-with-pipecat-and-amazon-bedrock-part-2/"
+    },
+    {
+        "title": "Uphold ethical standards in fashion using multimodal toxicity detection with Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/uphold-ethical-standards-in-fashion-using-multimodal-toxicity-detection-with-amazon-bedrock-guardrails/"
+    },
+    {
         "title": "New capabilities in Amazon SageMaker AI continue to transform how organizations develop AI models",
         "link": "https://aws.amazon.com/blogs/machine-learning/new-capabilities-in-amazon-sagemaker-ai-continue-to-transform-how-organizations-develop-ai-models/"
     },
@@ -38,45 +78,5 @@
     {
         "title": "AWS AI infrastructure with NVIDIA Blackwell: Two powerful compute solutions for the next frontier of AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-infrastructure-with-nvidia-blackwell-two-powerful-compute-solutions-for-the-next-frontier-of-ai/"
-    },
-    {
-        "title": "Unlock retail intelligence by transforming data into actionable insights using generative AI with Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-retail-intelligence-by-transforming-data-into-actionable-insights-using-generative-ai-with-amazon-q-business/"
-    },
-    {
-        "title": "Democratize data for timely decisions with text-to-SQL at Parcel Perform",
-        "link": "https://aws.amazon.com/blogs/machine-learning/democratize-data-for-timely-decisions-with-text-to-sql-at-parcel-perform/"
-    },
-    {
-        "title": "Query Amazon Aurora PostgreSQL using Amazon Bedrock Knowledge Bases structured data",
-        "link": "https://aws.amazon.com/blogs/machine-learning/query-amazon-aurora-postgresql-using-amazon-bedrock-knowledge-bases-structured-data/"
-    },
-    {
-        "title": "Configure fine-grained access to Amazon Bedrock models using Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/configure-fine-grained-access-to-amazon-bedrock-models-using-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Improve conversational AI response times for enterprise applications with the Amazon Bedrock streaming API and AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-conversational-ai-response-times-for-enterprise-applications-with-the-amazon-bedrock-streaming-api-and-aws-appsync/"
-    },
-    {
-        "title": "Scale generative AI use cases, Part 1: Multi-tenant hub and spoke architecture using AWS Transit Gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scale-generative-ai-use-cases-part-1-multi-tenant-hub-and-spoke-architecture-using-aws-transit-gateway/"
-    },
-    {
-        "title": "Accelerate AI development with Amazon Bedrock API keys",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/"
-    },
-    {
-        "title": "Accelerating data science innovation: How Bayer Crop Science used AWS AI/ML services to build their next-generation MLOps service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-data-science-innovation-how-bayer-crop-science-used-aws-ai-ml-services-to-build-their-next-generation-mlops-service/"
-    },
-    {
-        "title": "Combat financial fraud with GraphRAG on Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/combat-financial-fraud-with-graphrag-on-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Classify call center conversations with Amazon Bedrock batch inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/classify-call-center-conversations-with-amazon-bedrock-batch-inference/"
     }
 ]
