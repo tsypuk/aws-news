@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simulating Fluid Mechanics using Quantum Computing on Amazon Braket with Haiqu and Quanscient",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/simulating-fluid-mechanics-using-quantum-computing-on-amazon-braket-with-haiqu-and-quanscient/"
+    },
+    {
         "title": "Design quantum integrated circuits with open-source software DeviceLayout.jl from AWS",
         "link": "https://aws.amazon.com/blogs/quantum-computing/design-quantum-integrated-circuits-with-open-source-software-devicelayout-jl-from-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Advancing hybrid quantum computing research with Amazon Braket and NVIDIA CUDA-Q",
         "link": "https://aws.amazon.com/blogs/quantum-computing/advancing-hybrid-quantum-computing-research-with-amazon-braket-and-nvidia-cuda-q/"
-    },
-    {
-        "title": "AWS announces the Quantum Embark Program to help customers get ready for quantum computing",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/aws-announces-the-quantum-embark-program-to-help-customers-get-ready-for-quantum-computing/"
     }
 ]

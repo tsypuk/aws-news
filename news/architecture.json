@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Scale to Win uses AWS WAF to block DDoS events",
+        "link": "https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/"
+    },
+    {
         "title": "Migrate and modernize VMware workloads with AWS Transform for VMware",
         "link": "https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the Well-Architected Data Residency with Hybrid Cloud Services Lens",
         "link": "https://aws.amazon.com/blogs/architecture/announcing-the-well-architected-data-residency-with-hybrid-cloud-services-lens/"
-    },
-    {
-        "title": "From virtual machine to Kubernetes to serverless: How dacadoo saved 78% on cloud costs and automated operations",
-        "link": "https://aws.amazon.com/blogs/architecture/from-virtual-machine-to-kubernetes-to-serverless-how-dacadoo-saved-78-on-cloud-costs-and-automated-operations/"
     }
 ]

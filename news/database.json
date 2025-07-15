@@ -1,5 +1,13 @@
 [
     {
+        "title": "Configure Amazon RDS for Db2 standby replicas for high availability and faster disaster recovery",
+        "link": "https://aws.amazon.com/blogs/database/configure-amazon-rds-for-db2-standby-replicas-for-high-availability-and-faster-disaster-recovery/"
+    },
+    {
+        "title": "Amazon Aurora DSQL for gaming use cases",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-for-gaming-use-cases/"
+    },
+    {
         "title": "Evolve your Amazon DynamoDB table\u2019s data model",
         "link": "https://aws.amazon.com/blogs/database/evolve-your-amazon-dynamodb-tables-data-model/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use AWS FIS to test the resilience of self-managed Cassandra",
         "link": "https://aws.amazon.com/blogs/database/use-aws-fis-to-test-the-resilience-of-self-managed-cassandra/"
-    },
-    {
-        "title": "Building a job search engine  with PostgreSQL\u2019s advanced search features",
-        "link": "https://aws.amazon.com/blogs/database/building-a-job-search-engine-with-postgresqls-advanced-search-features/"
-    },
-    {
-        "title": "Optimize Amazon RDS Multi-AZ backups with incremental snapshots",
-        "link": "https://aws.amazon.com/blogs/database/optimize-amazon-rds-multi-az-backups-with-incremental-snapshots/"
     }
 ]

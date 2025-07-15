@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing the end of support for Node.js 18.x in AWS CDK",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-18-x-in-aws-cdk/"
+    },
+    {
+        "title": "Managing Amazon Q Developer Profiles and Customizations in Large Organizations",
+        "link": "https://aws.amazon.com/blogs/devops/managing-amazon-q-developer-profiles-and-customizations-in-large-organizations/"
+    },
+    {
         "title": "Streamline Operational Troubleshooting with Amazon Q Developer CLI",
         "link": "https://aws.amazon.com/blogs/devops/streamline-operational-troubleshooting-with-amazon-q-developer-cli/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "April 2025: A month of innovation for Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/april-2025-amazon-q-developer/"
-    },
-    {
-        "title": "Migrating a CDK v1 Application to CDK v2 with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/migrating-a-cdk-v1-application-to-cdk-v2-with-amazon-q-developer/"
-    },
-    {
-        "title": "Extend the Amazon Q Developer CLI with Model Context Protocol (MCP) for Richer Context",
-        "link": "https://aws.amazon.com/blogs/devops/extend-the-amazon-q-developer-cli-with-mcp/"
     }
 ]
