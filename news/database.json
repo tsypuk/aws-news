@@ -1,5 +1,9 @@
 [
     {
+        "title": "Volatility classification in PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/volatility-classification-in-postgresql/"
+    },
+    {
         "title": "Configure Amazon RDS for Db2 standby replicas for high availability and faster disaster recovery",
         "link": "https://aws.amazon.com/blogs/database/configure-amazon-rds-for-db2-standby-replicas-for-high-availability-and-faster-disaster-recovery/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Leveling up Amazon RDS with AWS Graviton4: Benchmarks",
         "link": "https://aws.amazon.com/blogs/database/leveling-up-amazon-rds-with-aws-graviton4-benchmarks/"
-    },
-    {
-        "title": "Use AWS FIS to test the resilience of self-managed Cassandra",
-        "link": "https://aws.amazon.com/blogs/database/use-aws-fis-to-test-the-resilience-of-self-managed-cassandra/"
     }
 ]

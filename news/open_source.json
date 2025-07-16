@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-1-0-production-ready-multi-agent-orchestration-made-simple/"
+    },
+    {
         "title": "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP",
         "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-3-strands-agents-mcp/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Verify the Safety of the Rust Standard Library",
         "link": "https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/"
-    },
-    {
-        "title": "OCSF Joins the Linux Foundation: Accelerating the Standardization of Cybersecurity Data",
-        "link": "https://aws.amazon.com/blogs/opensource/ocsf-joins-the-linux-foundation-accelerating-the-standardization-of-cybersecurity-data/"
     }
 ]

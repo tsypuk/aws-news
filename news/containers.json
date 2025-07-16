@@ -1,5 +1,13 @@
 [
     {
+        "title": "Under the hood: Amazon EKS ultra scale clusters",
+        "link": "https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-ultra-scale-clusters/"
+    },
+    {
+        "title": "Amazon EKS enables ultra scale AI/ML workloads with support for 100K nodes per cluster",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-enables-ultra-scale-ai-ml-workloads-with-support-for-100k-nodes-per-cluster/"
+    },
+    {
         "title": "Improving Amazon ECS deployment consistency with SOCI Index Manifest v2",
         "link": "https://aws.amazon.com/blogs/containers/improving-amazon-ecs-deployment-consistency-with-soci-index-manifest-v2/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Optimizing data lakes with Amazon S3 Tables and Apache Spark on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/optimizing-data-lakes-with-amazon-s3-tables-and-apache-spark-on-amazon-eks/"
-    },
-    {
-        "title": "Accelerating application development with the Amazon EKS MCP server",
-        "link": "https://aws.amazon.com/blogs/containers/accelerating-application-development-with-the-amazon-eks-model-context-protocol-server/"
-    },
-    {
-        "title": "Managing Team Workloads in shared Amazon EKS cluster using Loft vCluster and Argo CD for better cost optimization and operational efficiency",
-        "link": "https://aws.amazon.com/blogs/containers/managing-team-workloads-in-shared-amazon-eks-cluster-using-loft-vcluster-and-argo-cd-for-better-cost-optimization-and-operational-efficiency/"
     }
 ]

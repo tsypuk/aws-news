@@ -1,5 +1,29 @@
 [
     {
+        "title": "Streamline the path from data to insights with new Amazon SageMaker Catalog capabilities",
+        "link": "https://aws.amazon.com/blogs/aws/streamline-the-path-from-data-to-insights-with-new-amazon-sagemaker-capabilities/"
+    },
+    {
+        "title": "AWS Free Tier update: New customers can get started and explore AWS with up to $200 in credits",
+        "link": "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/"
+    },
+    {
+        "title": "Monitor and debug event-driven applications with new Amazon EventBridge logging",
+        "link": "https://aws.amazon.com/blogs/aws/monitor-and-debug-event-driven-applications-with-new-amazon-eventbridge-logging/"
+    },
+    {
+        "title": "Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/"
+    },
+    {
+        "title": "Amazon S3 Metadata now supports metadata for all your S3 objects",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-metadata-now-supports-metadata-for-all-your-s3-objects/"
+    },
+    {
+        "title": "TwelveLabs video understanding models are now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/twelvelabs-video-understanding-models-are-now-available-in-amazon-bedrock/"
+    },
+    {
         "title": "AWS Weekly Roundup: AWS Builder Center, Amazon Q, Oracle Database@AWS, and more (July 14, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-amazon-q-oracle-databaseaws-and-more-july-14-2025/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Amazon GuardDuty expands Extended Threat Detection coverage to Amazon EKS clusters",
         "link": "https://aws.amazon.com/blogs/aws/amazon-guardduty-expands-extended-threat-detection-coverage-to-amazon-eks-clusters/"
-    },
-    {
-        "title": "Unify your security with the new AWS Security Hub for risk prioritization and response at scale (Preview)",
-        "link": "https://aws.amazon.com/blogs/aws/unify-your-security-with-the-new-aws-security-hub-for-risk-prioritization-and-response-at-scale-preview/"
-    },
-    {
-        "title": "AWS Backup adds new Multi-party approval for logically air-gapped vaults",
-        "link": "https://aws.amazon.com/blogs/aws/aws-backup-adds-new-multi-party-approval-for-logically-air-gapped-vaults/"
-    },
-    {
-        "title": "New AWS Shield feature discovers network security issues before they can be exploited (Preview)",
-        "link": "https://aws.amazon.com/blogs/aws/new-aws-shield-feature-discovers-network-security-issues-before-they-can-be-exploited-preview/"
-    },
-    {
-        "title": "Amazon CloudFront simplifies web application delivery and security with new user-friendly interface",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-cloudfront-simplifies-web-application-delivery-and-security-with-new-user-friendly-interface/"
-    },
-    {
-        "title": "AWS Certificate Manager introduces exportable public SSL/TLS certificates to use anywhere",
-        "link": "https://aws.amazon.com/blogs/aws/aws-certificate-manager-introduces-exportable-public-ssl-tls-certificates-to-use-anywhere/"
-    },
-    {
-        "title": "Verify internal access to critical AWS resources with new IAM Access Analyzer capabilities",
-        "link": "https://aws.amazon.com/blogs/aws/verify-internal-access-to-critical-aws-resources-with-new-iam-access-analyzer-capabilities/"
     }
 ]

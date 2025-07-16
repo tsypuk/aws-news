@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing conversational AI for S3 Tables using Model Context Protocol (MCP)",
+        "link": "https://aws.amazon.com/blogs/storage/implementing-conversational-ai-for-s3-tables-using-model-context-protocol-mcp/"
+    },
+    {
         "title": "Cost-efficient backup archiving with Veeam Direct to Amazon S3 Glacier storage classes",
         "link": "https://aws.amazon.com/blogs/storage/cost-efficient-backup-archiving-with-veeam-direct-to-amazon-s3-glacier-storage-classes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing stateful storage lifecycle on AWS with Kubernetes and Salesforce",
         "link": "https://aws.amazon.com/blogs/storage/optimizing-stateful-storage-lifecycle-on-aws-with-kubernetes-and-salesforce/"
-    },
-    {
-        "title": "Running I/O intensive workloads on PostgreSQL with Amazon EBS io2 Block Express",
-        "link": "https://aws.amazon.com/blogs/storage/running-i-o-intensive-workloads-on-postgresql-with-amazon-ebs-io2-block-express/"
     }
 ]

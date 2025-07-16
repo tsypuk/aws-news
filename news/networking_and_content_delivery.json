@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securely Access Amazon FSx for Windows File Server using AWS Verified Access",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securely-access-amazon-fsx-for-windows-file-server-using-aws-verified-access/"
+    },
+    {
         "title": "A Lemongrass success story: Enhancing Multi-Region SD-WAN failover with AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/a-lemongrass-success-story-enhancing-multi-region-sd-wan-failover-with-aws-cloud-wan/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Performance and metrics enhancements for AWS Transit Gateway and AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/performance-and-metrics-enhancements-for-aws-transit-gateway-and-aws-cloud-wan/"
-    },
-    {
-        "title": "Introducing Amazon Route 53 authoritative DNS service for public hosted zones in AWS GovCloud (US) Regions",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-route-53-authoritative-dns-service-for-public-hosted-zones-in-aws-govcloud-us-regions/"
     }
 ]

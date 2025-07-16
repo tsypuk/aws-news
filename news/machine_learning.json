@@ -1,5 +1,29 @@
 [
     {
+        "title": "Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-amazon-opensearch-service-managed-cluster-as-vector-store/"
+    },
+    {
+        "title": "Monitor agents built on Amazon Bedrock with Datadog LLM Observability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-agents-built-on-amazon-bedrock-with-datadog-llm-observability/"
+    },
+    {
+        "title": "How PayU built a secure enterprise AI assistant using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-payu-built-a-secure-enterprise-ai-assistant-using-amazon-bedrock/"
+    },
+    {
+        "title": "Supercharge generative AI workflows with NVIDIA DGX Cloud on AWS and Amazon Bedrock Custom Model Import",
+        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-generative-ai-workflows-with-nvidia-dgx-cloud-on-aws-and-amazon-bedrock-custom-model-import/"
+    },
+    {
+        "title": "Accelerate generative AI inference with NVIDIA Dynamo and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-with-nvidia-dynamo-and-amazon-eks/"
+    },
+    {
+        "title": "AWS doubles investment in AWS Generative AI Innovation Center, marking two years of customer success",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/"
+    },
+    {
         "title": "Build AI-driven policy creation for vehicle data collection and automation using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-driven-policy-creation-for-vehicle-data-collection-and-automation-using-amazon-bedrock/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "New capabilities in Amazon SageMaker AI continue to transform how organizations develop AI models",
         "link": "https://aws.amazon.com/blogs/machine-learning/new-capabilities-in-amazon-sagemaker-ai-continue-to-transform-how-organizations-develop-ai-models/"
-    },
-    {
-        "title": "Accelerate foundation model development with one-click observability in Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-foundation-model-development-with-one-click-observability-in-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Accelerating generative AI development with fully managed MLflow 3.0 on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-development-with-fully-managed-mlflow-3-0-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Amazon SageMaker HyperPod launches model deployments to accelerate the generative AI model development lifecycle",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-hyperpod-launches-model-deployments-to-accelerate-the-generative-ai-model-development-lifecycle/"
-    },
-    {
-        "title": "Supercharge your AI workflows by connecting to SageMaker Studio from Visual Studio Code",
-        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-ai-workflows-by-connecting-to-sagemaker-studio-from-visual-studio-code/"
-    },
-    {
-        "title": "Use K8sGPT and Amazon Bedrock for simplified Kubernetes cluster maintenance",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-k8sgpt-and-amazon-bedrock-for-simplified-kubernetes-cluster-maintenance/"
-    },
-    {
-        "title": "How Rocket streamlines the home buying experience with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-rocket-streamlines-the-home-buying-experience-with-amazon-bedrock-agents/"
     }
 ]
