@@ -1,5 +1,9 @@
 [
     {
+        "title": "Multi-AZ deployment for Amazon RDS Custom for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/multi-az-deployment-for-amazon-rds-custom-for-oracle/"
+    },
+    {
         "title": "Volatility classification in PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/volatility-classification-in-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Supercharging AWS database development with AWS MCP servers",
         "link": "https://aws.amazon.com/blogs/database/supercharging-aws-database-development-with-aws-mcp-servers/"
-    },
-    {
-        "title": "Leveling up Amazon RDS with AWS Graviton4: Benchmarks",
-        "link": "https://aws.amazon.com/blogs/database/leveling-up-amazon-rds-with-aws-graviton4-benchmarks/"
     }
 ]

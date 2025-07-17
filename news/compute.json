@@ -1,5 +1,9 @@
 [
     {
+        "title": "Infrastructure as code translation for serverless using AI code assistants",
+        "link": "https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/"
+    },
+    {
         "title": "Modernizing SOAP applications using Amazon API Gateway and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/modernizing-soap-applications-using-amazon-api-gateway-and-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhanced remote desktop experience: Amazon DCV with Amazon Linux 2023",
         "link": "https://aws.amazon.com/blogs/compute/enhanced-remote-desktop-experience-amazon-dcv-with-amazon-linux-2023/"
-    },
-    {
-        "title": "Monitoring network traffic in AWS Lambda functions",
-        "link": "https://aws.amazon.com/blogs/compute/monitoring-network-traffic-in-aws-lambda-functions/"
     }
 ]

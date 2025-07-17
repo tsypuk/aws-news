@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unifying metadata governance across Amazon SageMaker and Collibra",
+        "link": "https://aws.amazon.com/blogs/big-data/unifying-metadata-governance-across-amazon-sagemaker-and-collibra/"
+    },
+    {
         "title": "Compaction support for Avro and ORC file formats in Apache Iceberg tables in Amazon S3",
         "link": "https://aws.amazon.com/blogs/big-data/compaction-support-for-avro-and-orc-file-formats-in-apache-iceberg-tables-in-amazon-s3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building serverless event streaming applications with Amazon MSK and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/big-data/building-serverless-event-streaming-applications-with-amazon-msk-and-aws-lambda/"
-    },
-    {
-        "title": "Enhance data ingestion performance in Amazon Redshift with concurrent inserts",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-data-ingestion-performance-in-amazon-redshift-with-concurrent-inserts/"
     }
 ]
