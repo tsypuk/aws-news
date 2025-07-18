@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhancing FSx for Windows security: AI-powered anomaly detection",
+        "link": "https://aws.amazon.com/blogs/storage/enhancing-fsx-for-windows-security-ai-powered-anomaly-detection/"
+    },
+    {
+        "title": "Copy objects between any Amazon S3 storage classes using S3 Batch Operations",
+        "link": "https://aws.amazon.com/blogs/storage/copy-objects-between-any-amazon-s3-storage-classes-using-s3-batch-operations/"
+    },
+    {
         "title": "Implementing conversational AI for S3 Tables using Model Context Protocol (MCP)",
         "link": "https://aws.amazon.com/blogs/storage/implementing-conversational-ai-for-s3-tables-using-model-context-protocol-mcp/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to consume tabular data from Amazon S3 Tables for insights and business reporting",
         "link": "https://aws.amazon.com/blogs/storage/how-to-consume-tabular-data-from-amazon-s3-tables-for-insights-and-business-reporting/"
-    },
-    {
-        "title": "Automating paper-to-electronic healthcare claims processing with AWS",
-        "link": "https://aws.amazon.com/blogs/storage/automating-paper-to-electronic-healthcare-claims-processing-with-aws/"
-    },
-    {
-        "title": "Optimizing stateful storage lifecycle on AWS with Kubernetes and Salesforce",
-        "link": "https://aws.amazon.com/blogs/storage/optimizing-stateful-storage-lifecycle-on-aws-with-kubernetes-and-salesforce/"
     }
 ]

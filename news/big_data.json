@@ -1,5 +1,13 @@
 [
     {
+        "title": "Integrating Amazon OpenSearch Ingestion with Amazon RDS and Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/big-data/integrating-amazon-opensearch-ingestion-with-amazon-rds-and-amazon-aurora/"
+    },
+    {
+        "title": "Scale your AWS Glue for Apache Spark jobs with R type, G.12X, and G.16X workers",
+        "link": "https://aws.amazon.com/blogs/big-data/scale-your-aws-glue-for-apache-spark-jobs-with-r-type-g-12x-and-g-16x-workers/"
+    },
+    {
         "title": "Unifying metadata governance across Amazon SageMaker and Collibra",
         "link": "https://aws.amazon.com/blogs/big-data/unifying-metadata-governance-across-amazon-sagemaker-and-collibra/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Redshift Python user-defined functions will reach end of support after June 30, 2026",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-python-user-defined-functions-will-reach-end-of-support-after-june-30-2026/"
-    },
-    {
-        "title": "Enforce table level access control on data lake tables using AWS Glue 5.0 with AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/enforce-table-level-access-control-on-data-lake-tables-using-aws-glue-5-0-with-aws-lake-formation/"
-    },
-    {
-        "title": "Building serverless event streaming applications with Amazon MSK and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/big-data/building-serverless-event-streaming-applications-with-amazon-msk-and-aws-lambda/"
     }
 ]

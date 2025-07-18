@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate installing AWS Systems Manager agent on unmanaged Amazon EC2 nodes",
+        "link": "https://aws.amazon.com/blogs/mt/automate-installing-ssm-agent-on-unmanaged-ec2-instances-in-an-aws-organization/"
+    },
+    {
         "title": "Centralized Multi-Account Application Resilience Assessment Using AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/centralized-multi-account-application-resilience-assessment-using-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identifying resources driving Amazon CloudWatch GetMetricData charges using AWS CloudTrail",
         "link": "https://aws.amazon.com/blogs/mt/identifying-resources-driving-amazon-cloudwatch-getmetricdata-charges-using-aws-cloudtrail/"
-    },
-    {
-        "title": "Application Performance Monitoring of AWS Lambda apps with Amazon CloudWatch Application Signals",
-        "link": "https://aws.amazon.com/blogs/mt/apm-of-aws-lambda-with-amazon-cloudwatch-application-signals/"
     }
 ]

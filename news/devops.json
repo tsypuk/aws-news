@@ -1,5 +1,9 @@
 [
     {
+        "title": "GitOps continuous delivery with ArgoCD and EKS using natural language",
+        "link": "https://aws.amazon.com/blogs/devops/gitops-continuous-delivery-with-argocd-and-eks-using-natural-language/"
+    },
+    {
         "title": "Announcing the end of support for Node.js 18.x in AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-18-x-in-aws-cdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Intelligent coding at your fingertips: Introducing an agentic coding experience in your IDE",
         "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-agentic-coding-experience/"
-    },
-    {
-        "title": "April 2025: A month of innovation for Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/april-2025-amazon-q-developer/"
     }
 ]

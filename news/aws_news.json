@@ -1,5 +1,17 @@
 [
     {
+        "title": "Simplify serverless development with console to IDE and remote debugging for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/aws/simplify-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/"
+    },
+    {
+        "title": "AWS AI League: Learn, innovate, and compete in our new ultimate AI showdown",
+        "link": "https://aws.amazon.com/blogs/aws/aws-ai-league-learn-innovate-and-compete-in-our-new-ultimate-ai-showdown/"
+    },
+    {
+        "title": "Accelerate safe software releases with new built-in blue/green deployments in Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-safe-software-releases-with-new-built-in-blue-green-deployments-in-amazon-ecs/"
+    },
+    {
         "title": "Top announcements of the AWS Summit in New York, 2025",
         "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2025/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "New Amazon EC2 C8gn instances powered by AWS Graviton4 offering up to 600Gbps network bandwidth",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Project Rainier, Amazon CloudWatch investigations, AWS MCP servers, and more (June 30, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-amazon-cloudwatch-investigations-aws-mcp-servers-and-more-june-30-2025/"
-    },
-    {
-        "title": "Amazon FSx for OpenZFS now supports Amazon S3 access without any data movement",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-openzfs-now-supports-amazon-s3-access-without-any-data-movement/"
-    },
-    {
-        "title": "New: Improve Apache Iceberg query performance in Amazon S3 with sort and z-order compaction",
-        "link": "https://aws.amazon.com/blogs/aws/new-improve-apache-iceberg-query-performance-in-amazon-s3-with-sort-and-z-order-compaction/"
     }
 ]

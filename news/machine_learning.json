@@ -1,5 +1,21 @@
 [
     {
+        "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-cost-effective-rag-applications-with-amazon-bedrock-knowledge-bases-and-amazon-s3-vectors/"
+    },
+    {
+        "title": "Implementing on-demand deployment with customized Amazon Nova models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-on-demand-deployment-with-customized-amazon-nova-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Building enterprise-scale RAG applications with Amazon S3 Vectors and DeepSeek R1 on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-enterprise-scale-rag-applications-with-amazon-s3-vectors-and-deepseek-r1-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/accenture-scales-video-analysis-with-amazon-nova-and-amazon-bedrock-agents/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build a conversational data assistant, Part 2 \u2013 Embedding generative business intelligence with Amazon Q in QuickSight",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-2-embedding-generative-business-intelligence-with-amazon-q-in-quicksight/"
-    },
-    {
-        "title": "Build a conversational data assistant, Part 1: Text-to-SQL with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-1-text-to-sql-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Implement user-level access control for multi-tenant ML platforms on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-user-level-access-control-for-multi-tenant-ml-platforms-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Long-running execution flows now supported in Amazon Bedrock Flows in public preview",
-        "link": "https://aws.amazon.com/blogs/machine-learning/long-running-execution-flows-now-supported-in-amazon-bedrock-flows-in-public-preview/"
-    },
-    {
-        "title": "Fraud detection empowered by federated learning with the Flower framework on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fraud-detection-empowered-by-federated-learning-with-the-flower-framework-on-amazon-sagemaker-ai/"
     }
 ]
