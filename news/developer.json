@@ -1,5 +1,9 @@
 [
     {
+        "title": "Preview Release of the AWS SDK Java 2.x HTTP Client built on Apache HttpClient 5.5.x",
+        "link": "https://aws.amazon.com/blogs/developer/preview-release-of-theaws-sdk-java-2-x-http-client-built-on-apache-httpclient-5-5-x/"
+    },
+    {
         "title": "AWS .NET Distributed Cache Provider for Amazon DynamoDB now Generally Available",
         "link": "https://aws.amazon.com/blogs/developer/aws-net-distributed-cache-provider-for-amazon-dynamodb-now-generally-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "macOS 10.15 end of support for AWS CLI v2",
         "link": "https://aws.amazon.com/blogs/developer/macos-10-15-end-of-support-for-aws-cli-v2/"
-    },
-    {
-        "title": "Preview 4 of AWS SDK for .NET V4",
-        "link": "https://aws.amazon.com/blogs/developer/preview-4-of-aws-sdk-for-net-v4/"
     }
 ]

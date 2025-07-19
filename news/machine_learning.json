@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build real-time travel recommendations using AI agents on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-travel-recommendations-using-ai-agents-on-amazon-bedrock/"
+    },
+    {
+        "title": "Deploy a full stack voice AI agent with Amazon Nova Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-full-stack-voice-ai-agent-with-amazon-nova-sonic/"
+    },
+    {
+        "title": "Manage multi-tenant Amazon Bedrock costs using application inference profiles",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-multi-tenant-amazon-bedrock-costs-using-application-inference-profiles/"
+    },
+    {
         "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Advanced fine-tuning methods on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-methods-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Streamline machine learning workflows with SkyPilot on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-machine-learning-workflows-with-skypilot-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Intelligent document processing at scale with generative AI and Amazon Bedrock Data Automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-at-scale-with-generative-ai-and-amazon-bedrock-data-automation/"
-    },
-    {
-        "title": "Build a conversational data assistant, Part 2 \u2013 Embedding generative business intelligence with Amazon Q in QuickSight",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-data-assistant-part-2-embedding-generative-business-intelligence-with-amazon-q-in-quicksight/"
     }
 ]

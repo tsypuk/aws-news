@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unifying data insights with Amazon QuickSight and Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/unifying-data-insights-with-amazon-quicksight-and-amazon-sagemaker/"
+    },
+    {
         "title": "Integrating Amazon OpenSearch Ingestion with Amazon RDS and Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/big-data/integrating-amazon-opensearch-ingestion-with-amazon-rds-and-amazon-aurora/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing GenAI-powered business description recommendations for custom assets in Amazon SageMaker Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-genai-powered-business-description-recommendations-for-custom-assets-in-amazon-sagemaker-catalog/"
-    },
-    {
-        "title": "Amazon Redshift Python user-defined functions will reach end of support after June 30, 2026",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-python-user-defined-functions-will-reach-end-of-support-after-june-30-2026/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implement monitoring for Amazon EKS with managed services",
+        "link": "https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/"
+    },
+    {
         "title": "How Scale to Win uses AWS WAF to block DDoS events",
         "link": "https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How UNiDAYS achieved AWS Region expansion in 3 weeks",
         "link": "https://aws.amazon.com/blogs/architecture/how-unidays-achieved-aws-region-expansion-in-3-weeks/"
-    },
-    {
-        "title": "Announcing the Well-Architected Data Residency with Hybrid Cloud Services Lens",
-        "link": "https://aws.amazon.com/blogs/architecture/announcing-the-well-architected-data-residency-with-hybrid-cloud-services-lens/"
     }
 ]
