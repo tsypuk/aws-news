@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing vector search using Amazon S3 Vectors and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/optimizing-vector-search-using-amazon-s3-vectors-and-amazon-opensearch-service/"
+    },
+    {
         "title": "Unifying data insights with Amazon QuickSight and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/unifying-data-insights-with-amazon-quicksight-and-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Kaltura reduces observability operational costs by 60% with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/kaltura-reduces-observability-operational-costs-by-60-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Introducing GenAI-powered business description recommendations for custom assets in Amazon SageMaker Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-genai-powered-business-description-recommendations-for-custom-assets-in-amazon-sagemaker-catalog/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Kiro, AWS Lambda remote debugging, Amazon ECS blue/green deployments, Amazon Bedrock AgentCore, and more (July 21, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-aws-lambda-remote-debugging-amazon-ecs-blue-green-deployments-amazon-bedrock-agentcore-and-more-july-21-2025/"
+    },
+    {
         "title": "Simplify serverless development with console to IDE and remote debugging for AWS Lambda",
         "link": "https://aws.amazon.com/blogs/aws/simplify-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build the highest resilience apps with multi-Region strong consistency in Amazon DynamoDB global tables",
         "link": "https://aws.amazon.com/blogs/aws/build-the-highest-resilience-apps-with-multi-region-strong-consistency-in-amazon-dynamodb-global-tables/"
-    },
-    {
-        "title": "New Amazon EC2 C8gn instances powered by AWS Graviton4 offering up to 600Gbps network bandwidth",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/"
     }
 ]

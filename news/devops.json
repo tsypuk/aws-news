@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline DevOps troubleshooting: Integrate CloudWatch investigations with Slack",
+        "link": "https://aws.amazon.com/blogs/devops/streamline-devops-troubleshooting-integrate-cloudwatch-investigations-with-slack/"
+    },
+    {
         "title": "GitOps continuous delivery with ArgoCD and EKS using natural language",
         "link": "https://aws.amazon.com/blogs/devops/gitops-continuous-delivery-with-argocd-and-eks-using-natural-language/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate development workflows to reduce release cycles using the Amazon Q Developer integration for GitHub (Preview)",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-development-workflows-to-reduce-release-cycles-using-the-amazon-q-developer-integration-for-github-preview/"
-    },
-    {
-        "title": "Intelligent coding at your fingertips: Introducing an agentic coding experience in your IDE",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-agentic-coding-experience/"
     }
 ]

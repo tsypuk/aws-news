@@ -1,5 +1,13 @@
 [
     {
+        "title": "Centralized Amazon ECS task logging with Amazon OpenSearch",
+        "link": "https://aws.amazon.com/blogs/containers/centralized-amazon-ecs-task-logging-with-amazon-opensearch/"
+    },
+    {
+        "title": "Deep dive into cluster networking for Amazon EKS Hybrid Nodes",
+        "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-cluster-networking-for-amazon-eks-hybrid-nodes/"
+    },
+    {
         "title": "Under the hood: Amazon EKS ultra scale clusters",
         "link": "https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-ultra-scale-clusters/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Introducing AI on EKS: powering scalable AI workloads with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/introducing-ai-on-eks-powering-scalable-ai-workloads-with-amazon-eks/"
-    },
-    {
-        "title": "Automating AI-assisted container deployments with the Amazon ECS MCP Server",
-        "link": "https://aws.amazon.com/blogs/containers/automating-ai-assisted-container-deployments-with-amazon-ecs-mcp-server/"
-    },
-    {
-        "title": "Optimizing data lakes with Amazon S3 Tables and Apache Spark on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/optimizing-data-lakes-with-amazon-s3-tables-and-apache-spark-on-amazon-eks/"
     }
 ]

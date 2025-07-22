@@ -1,5 +1,9 @@
 [
     {
+        "title": "Beyond IAM access keys: Modern authentication approaches for AWS",
+        "link": "https://aws.amazon.com/blogs/security/beyond-iam-access-keys-modern-authentication-approaches-for-aws/"
+    },
+    {
         "title": "AWS successfully completes CCAG 2024 pooled audit with European financial institutions",
         "link": "https://aws.amazon.com/blogs/security/aws-successfully-completes-ccag-2024-pooled-audit-with-eu-financial-institutions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS CIRT announces the launch of the Threat Technique Catalog for AWS",
         "link": "https://aws.amazon.com/blogs/security/aws-cirt-announces-the-launch-of-the-threat-technique-catalog-for-aws/"
-    },
-    {
-        "title": "Introducing the AWS Security Champion Knowledge Path and digital badge",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-aws-security-champion-knowledge-path-and-digital-badge/"
     }
 ]

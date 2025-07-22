@@ -1,5 +1,9 @@
 [
     {
+        "title": "Assess and convert Teradata database objects to Amazon Redshift using the AWS Schema Conversion Tool CLI",
+        "link": "https://aws.amazon.com/blogs/database/assess-and-convert-teradata-database-objects-to-amazon-redshift-using-the-aws-schema-conversion-tool-cli/"
+    },
+    {
         "title": "Multi-AZ deployment for Amazon RDS Custom for Oracle",
         "link": "https://aws.amazon.com/blogs/database/multi-az-deployment-for-amazon-rds-custom-for-oracle/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Valkey GLIDE 2.0 with support for Go, OpenTelemetry, and batching",
         "link": "https://aws.amazon.com/blogs/database/announcing-valkey-glide-2-0-with-support-for-go-opentelemetry-and-batching/"
-    },
-    {
-        "title": "Supercharging AWS database development with AWS MCP servers",
-        "link": "https://aws.amazon.com/blogs/database/supercharging-aws-database-development-with-aws-mcp-servers/"
     }
 ]
