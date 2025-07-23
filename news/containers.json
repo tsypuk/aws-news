@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling beyond IPv4: integrating IPv6 Amazon EKS clusters into existing Istio Service Mesh",
+        "link": "https://aws.amazon.com/blogs/containers/scaling-beyond-ipv4-integrating-ipv6-amazon-eks-clusters-into-existing-istio-service-mesh/"
+    },
+    {
         "title": "Centralized Amazon ECS task logging with Amazon OpenSearch",
         "link": "https://aws.amazon.com/blogs/containers/centralized-amazon-ecs-task-logging-with-amazon-opensearch/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Deep Dive: Amazon EKS Dashboard for Visibility into Multi-Cluster Operations and Governance",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-amazon-eks-dashboard-for-visibility-into-multi-cluster-operations-and-governance/"
-    },
-    {
-        "title": "Introducing AI on EKS: powering scalable AI workloads with Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/introducing-ai-on-eks-powering-scalable-ai-workloads-with-amazon-eks/"
     }
 ]

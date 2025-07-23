@@ -1,5 +1,13 @@
 [
     {
+        "title": "Beyond accelerators: Lessons from building foundation models on AWS with Japan\u2019s GENIAC program",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-accelerators-lessons-from-building-foundation-models-on-aws-with-japans-geniac-program/"
+    },
+    {
+        "title": "Streamline deep learning environments with Amazon Q Developer and MCP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-deep-learning-environments-with-amazon-q-developer-and-mcp/"
+    },
+    {
         "title": "Build an AI-powered automated summarization system with Amazon Bedrock and Amazon Transcribe using Terraform",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-automated-summarization-system-with-amazon-bedrock-and-amazon-transcribe-using-terraform/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate generative AI inference with NVIDIA Dynamo and Amazon EKS",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-with-nvidia-dynamo-and-amazon-eks/"
-    },
-    {
-        "title": "AWS doubles investment in AWS Generative AI Innovation Center, marking two years of customer success",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/"
-    },
-    {
-        "title": "Build AI-driven policy creation for vehicle data collection and automation using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-driven-policy-creation-for-vehicle-data-collection-and-automation-using-amazon-bedrock/"
     }
 ]

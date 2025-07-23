@@ -1,5 +1,9 @@
 [
     {
+        "title": "Web filtering for education using AWS Network Firewall with egress TLS inspection",
+        "link": "https://aws.amazon.com/blogs/publicsector/web-filtering-for-education-using-aws-network-firewall-with-egress-tls-inspection/"
+    },
+    {
         "title": "How Truth For Life transformed its viewer analytics while optimizing costs",
         "link": "https://aws.amazon.com/blogs/publicsector/how-truth-for-life-transformed-its-viewer-analytics-while-optimizing-costs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Intelsat reimagining cloud access with AWS Direct Connect",
         "link": "https://aws.amazon.com/blogs/publicsector/intelsat-reimagining-cloud-access-with-aws-direct-connect/"
-    },
-    {
-        "title": "AWS launches Space Accelerator program across Australia, India, and Japan",
-        "link": "https://aws.amazon.com/blogs/publicsector/aws-launches-space-accelerator-program-across-australia-india-and-japan/"
     }
 ]

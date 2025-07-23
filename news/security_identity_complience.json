@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing SRA Verify \u2013 an AWS Security Reference Architecture assessment tool",
+        "link": "https://aws.amazon.com/blogs/security/introducing-sra-verify-an-aws-security-reference-architecture-assessment-tool/"
+    },
+    {
+        "title": "Five facts about how the CLOUD Act actually works",
+        "link": "https://aws.amazon.com/blogs/security/five-facts-about-how-the-cloud-act-actually-works/"
+    },
+    {
         "title": "Beyond IAM access keys: Modern authentication approaches for AWS",
         "link": "https://aws.amazon.com/blogs/security/beyond-iam-access-keys-modern-authentication-approaches-for-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to create post-quantum signatures using AWS KMS and ML-DSA",
         "link": "https://aws.amazon.com/blogs/security/how-to-create-post-quantum-signatures-using-aws-kms-and-ml-dsa/"
-    },
-    {
-        "title": "AI security strategies from Amazon and the CIA: Insights from AWS Summit Washington, DC",
-        "link": "https://aws.amazon.com/blogs/security/ai-security-strategies-from-amazon-and-the-cia-insights-from-aws-summit-washington-dc/"
-    },
-    {
-        "title": "AWS CIRT announces the launch of the Threat Technique Catalog for AWS",
-        "link": "https://aws.amazon.com/blogs/security/aws-cirt-announces-the-launch-of-the-threat-technique-catalog-for-aws/"
     }
 ]

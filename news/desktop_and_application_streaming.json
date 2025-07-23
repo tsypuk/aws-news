@@ -1,5 +1,9 @@
 [
     {
+        "title": "Citrix announces general availability of Citrix DaaS Machine Creation Services on Amazon WorkSpaces Core",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-general-availability-of-citrix-daas-machine-creation-services-on-amazon-workspaces-core/"
+    },
+    {
         "title": "Simplify Device Redirection in Amazon WorkSpaces Personal and Amazon AppStream 2.0 Using FabulaTech Software",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplify-device-redirection-on-amazon-workspaces-personal-and-amazon-appstream-using-fabulatech/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy the Cost Optimizer for Amazon WorkSpaces in a highly-regulated environment.",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/deploy-the-cost-optimizer-for-amazon-workspaces-in-a-highly-regulated-environment/"
-    },
-    {
-        "title": "Optimize costs and security with Amazon WorkSpaces Family services",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-costs-and-security-with-amazon-workspaces-family-services/"
     }
 ]
