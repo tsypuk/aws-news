@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing message prioritization with quorum queues on Amazon MQ for RabbitMQ",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-message-prioritization-with-quorum-queues-on-amazon-mq-for-rabbitmq/"
+    },
+    {
         "title": "Building resilient multi-tenant systems with Amazon SQS fair queues",
         "link": "https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing Federation on Amazon MQ for RabbitMQ Private Brokers",
         "link": "https://aws.amazon.com/blogs/compute/implementing-federation-on-amazon-mq-for-rabbitmq-private-brokers/"
-    },
-    {
-        "title": "Powering hybrid workloads with Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/compute/powering-hybrid-workloads-with-amazon-api-gateway/"
     }
 ]

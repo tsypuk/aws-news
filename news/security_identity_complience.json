@@ -1,5 +1,9 @@
 [
     {
+        "title": "New whitepaper available: AICPA SOC 2 Compliance Guide on AWS",
+        "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-aicpa-soc-2-compliance-guide-on-aws/"
+    },
+    {
         "title": "Introducing SRA Verify \u2013 an AWS Security Reference Architecture assessment tool",
         "link": "https://aws.amazon.com/blogs/security/introducing-sra-verify-an-aws-security-reference-architecture-assessment-tool/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How AWS improves active defense to empower customers",
         "link": "https://aws.amazon.com/blogs/security/how-aws-improves-active-defense-to-empower-customers/"
-    },
-    {
-        "title": "How to create post-quantum signatures using AWS KMS and ML-DSA",
-        "link": "https://aws.amazon.com/blogs/security/how-to-create-post-quantum-signatures-using-aws-kms-and-ml-dsa/"
     }
 ]

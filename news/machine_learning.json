@@ -1,5 +1,17 @@
 [
     {
+        "title": "Customize Amazon Nova in Amazon SageMaker AI using Direct Preference Optimization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-in-amazon-sagemaker-ai-using-direct-preference-optimization/"
+    },
+    {
+        "title": "Multi-tenant RAG implementation with Amazon Bedrock and Amazon OpenSearch Service for SaaS using JWT",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-rag-implementation-with-amazon-bedrock-and-amazon-opensearch-service-for-saas-using-jwt/"
+    },
+    {
+        "title": "Enhance generative AI solutions using Amazon Q index with Model Context Protocol \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-generative-ai-solutions-using-amazon-q-index-with-model-context-protocol-part-1/"
+    },
+    {
         "title": "Beyond accelerators: Lessons from building foundation models on AWS with Japan\u2019s GENIAC program",
         "link": "https://aws.amazon.com/blogs/machine-learning/beyond-accelerators-lessons-from-building-foundation-models-on-aws-with-japans-geniac-program/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Monitor agents built on Amazon Bedrock with Datadog LLM Observability",
         "link": "https://aws.amazon.com/blogs/machine-learning/monitor-agents-built-on-amazon-bedrock-with-datadog-llm-observability/"
-    },
-    {
-        "title": "How PayU built a secure enterprise AI assistant using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-payu-built-a-secure-enterprise-ai-assistant-using-amazon-bedrock/"
-    },
-    {
-        "title": "Supercharge generative AI workflows with NVIDIA DGX Cloud on AWS and Amazon Bedrock Custom Model Import",
-        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-generative-ai-workflows-with-nvidia-dgx-cloud-on-aws-and-amazon-bedrock-custom-model-import/"
-    },
-    {
-        "title": "Accelerate generative AI inference with NVIDIA Dynamo and Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-with-nvidia-dynamo-and-amazon-eks/"
     }
 ]
