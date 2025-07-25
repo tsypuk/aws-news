@@ -1,5 +1,13 @@
 [
     {
+        "title": "Year One of Valkey: Open-Source Innovations and ElastiCache version 8.1 for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/year-one-of-valkey-open-source-innovations-and-elasticache-version-8-1-for-valkey/"
+    },
+    {
+        "title": "Implement fast, space-efficient lookups using Bloom filters in Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/implement-fast-space-efficient-lookups-using-bloom-filters-in-amazon-elasticache/"
+    },
+    {
         "title": "Assess and convert Teradata database objects to Amazon Redshift using the AWS Schema Conversion Tool CLI",
         "link": "https://aws.amazon.com/blogs/database/assess-and-convert-teradata-database-objects-to-amazon-redshift-using-the-aws-schema-conversion-tool-cli/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Restore an Amazon RDS Custom for SQL Server instance using a backup from AWS Backup",
         "link": "https://aws.amazon.com/blogs/database/restore-an-amazon-rds-custom-for-sql-server-instance-using-a-backup-from-aws-backup/"
-    },
-    {
-        "title": "Better together: Amazon RDS for SQL Server and Amazon SageMaker Lakehouse, a generative AI data integration use case",
-        "link": "https://aws.amazon.com/blogs/database/better-together-amazon-rds-for-sql-server-and-amazon-sagemaker-lakehouse-a-generative-ai-data-integration-use-case/"
-    },
-    {
-        "title": "Announcing Valkey GLIDE 2.0 with support for Go, OpenTelemetry, and batching",
-        "link": "https://aws.amazon.com/blogs/database/announcing-valkey-glide-2-0-with-support-for-go-opentelemetry-and-batching/"
     }
 ]

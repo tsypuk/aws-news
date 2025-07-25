@@ -1,5 +1,13 @@
 [
     {
+        "title": "Post-quantum TLS in Python",
+        "link": "https://aws.amazon.com/blogs/security/post-quantum-tls-in-python/"
+    },
+    {
+        "title": "AWS Security Incident Response: The customer\u2019s journey to accelerating the incident response lifecycle",
+        "link": "https://aws.amazon.com/blogs/security/aws-security-incident-response-the-customers-journey-to-accelerating-the-incident-response-lifecycle/"
+    },
+    {
         "title": "New whitepaper available: AICPA SOC 2 Compliance Guide on AWS",
         "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-aicpa-soc-2-compliance-guide-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Beyond compute: Shifting vulnerability detection left with Amazon Inspector code security capabilities",
         "link": "https://aws.amazon.com/blogs/security/shifting-vulnerability-detection-left-with-amazon-inspector-code-security-capabilities/"
-    },
-    {
-        "title": "Introducing the new console experience for AWS WAF",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-new-console-experience-for-aws-waf/"
-    },
-    {
-        "title": "How AWS improves active defense to empower customers",
-        "link": "https://aws.amazon.com/blogs/security/how-aws-improves-active-defense-to-empower-customers/"
     }
 ]

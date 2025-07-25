@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch Service 101: How many shards do I need",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-101-how-many-shards-do-i-need/"
+    },
+    {
         "title": "Introducing MCP Server for Apache Spark History Server for AI-powered debugging and optimization",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-mcp-server-for-apache-spark-history-server-for-ai-powered-debugging-and-optimization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Near real-time baggage operational insights for airlines using Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/near-real-time-baggage-operational-insights-for-airlines-using-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "Overcome your Kafka Connect challenges with Amazon Data Firehose",
-        "link": "https://aws.amazon.com/blogs/big-data/overcome-your-kafka-connect-challenges-with-amazon-data-firehose/"
     }
 ]

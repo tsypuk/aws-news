@@ -1,5 +1,13 @@
 [
     {
+        "title": "Boost cold-start recommendations with vLLM on AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/boost-cold-start-recommendations-with-vllm-on-aws-trainium/"
+    },
+    {
+        "title": "Benchmarking Amazon Nova: A comprehensive analysis through MT-Bench and Arena-Hard-Auto",
+        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-amazon-nova-a-comprehensive-analysis-through-mt-bench-and-arena-hard-auto/"
+    },
+    {
         "title": "Customize Amazon Nova in Amazon SageMaker AI using Direct Preference Optimization",
         "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-in-amazon-sagemaker-ai-using-direct-preference-optimization/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enabling customers to deliver production-ready AI agents at scale",
         "link": "https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/"
-    },
-    {
-        "title": "Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-amazon-opensearch-service-managed-cluster-as-vector-store/"
-    },
-    {
-        "title": "Monitor agents built on Amazon Bedrock with Datadog LLM Observability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-agents-built-on-amazon-bedrock-with-datadog-llm-observability/"
     }
 ]
