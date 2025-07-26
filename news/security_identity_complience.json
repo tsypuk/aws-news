@@ -1,5 +1,9 @@
 [
     {
+        "title": "New AWS whitepaper: AWS User Guide to Financial Services Regulations and Guidelines in Australia",
+        "link": "https://aws.amazon.com/blogs/security/new-aws-whitepaper-aws-user-guide-to-financial-services-regulations-and-guidelines-in-australia/"
+    },
+    {
         "title": "Post-quantum TLS in Python",
         "link": "https://aws.amazon.com/blogs/security/post-quantum-tls-in-python/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How AWS is simplifying security at scale: Four keys to faster innovation from AWS re:Inforce 2025",
         "link": "https://aws.amazon.com/blogs/security/how-aws-is-simplifying-security-at-scale-four-keys-to-faster-innovation-from-aws-reinforce-2025/"
-    },
-    {
-        "title": "Beyond compute: Shifting vulnerability detection left with Amazon Inspector code security capabilities",
-        "link": "https://aws.amazon.com/blogs/security/shifting-vulnerability-detection-left-with-amazon-inspector-code-security-capabilities/"
     }
 ]

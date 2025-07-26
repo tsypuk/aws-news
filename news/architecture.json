@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale",
+        "link": "https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/"
+    },
+    {
+        "title": "How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller",
+        "link": "https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/"
+    },
+    {
         "title": "Implement monitoring for Amazon EKS with managed services",
         "link": "https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing the AWS Well-Architected Generative AI Lens",
         "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-well-architected-generative-ai-lens/"
-    },
-    {
-        "title": "Build and operate an effective architecture review board",
-        "link": "https://aws.amazon.com/blogs/architecture/build-and-operate-an-effective-architecture-review-board/"
-    },
-    {
-        "title": "How UNiDAYS achieved AWS Region expansion in 3 weeks",
-        "link": "https://aws.amazon.com/blogs/architecture/how-unidays-achieved-aws-region-expansion-in-3-weeks/"
     }
 ]

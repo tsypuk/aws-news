@@ -1,5 +1,25 @@
 [
     {
+        "title": "Build an analytics pipeline that is resilient to Avro schema changes using Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/build-an-analytics-pipeline-that-is-resilient-to-avro-schema-changes-using-amazon-athena/"
+    },
+    {
+        "title": "Secure generative SQL with Amazon Q",
+        "link": "https://aws.amazon.com/blogs/big-data/secure-generative-sql-with-amazon-q/"
+    },
+    {
+        "title": "Optimize industrial IoT analytics with Amazon Data Firehose and Amazon S3 Tables with Apache Iceberg",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-industrial-iot-analytics-with-amazon-data-firehose-and-amazon-s3-tables-with-apache-iceberg/"
+    },
+    {
+        "title": "Use Databricks Unity Catalog Open APIs for Spark workloads on Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/use-databricks-unity-catalog-open-apis-for-spark-workloads-on-amazon-emr/"
+    },
+    {
+        "title": "Trusted identity propagation using IAM Identity Center for Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/trusted-identity-propagation-using-iam-identity-center-for-amazon-opensearch-service/"
+    },
+    {
         "title": "Amazon OpenSearch Service 101: How many shards do I need",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-101-how-many-shards-do-i-need/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Harnessing the Power of Nested Materialized Views and exploring Cascading Refresh",
         "link": "https://aws.amazon.com/blogs/big-data/harnessing-the-power-of-nested-materialized-views-and-exploring-cascading-refresh/"
-    },
-    {
-        "title": "Realizing ocean data democratization: Furuno Electric\u2019s initiatives using Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/realizing-ocean-data-democratization-furuno-electrics-initiatives-using-amazon-datazone/"
-    },
-    {
-        "title": "Geospatial data lakes with Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/geospatial-data-lakes-with-amazon-redshift/"
-    },
-    {
-        "title": "Develop and monitor a Spark application using existing data in Amazon S3 with Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/develop-and-monitor-a-spark-application-using-existing-data-in-amazon-s3-with-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Perform per-project cost allocation in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/perform-per-project-cost-allocation-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Near real-time baggage operational insights for airlines using Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/big-data/near-real-time-baggage-operational-insights-for-airlines-using-amazon-kinesis-data-streams/"
     }
 ]

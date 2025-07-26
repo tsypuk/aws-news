@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build an intelligent eDiscovery solution using Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-ediscovery-solution-using-amazon-bedrock-agents/"
+    },
+    {
+        "title": "How PerformLine uses prompt engineering on Amazon Bedrock to detect compliance violations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-performline-uses-prompt-engineering-on-amazon-bedrock-to-detect-compliance-violations/"
+    },
+    {
         "title": "Boost cold-start recommendations with vLLM on AWS Trainium",
         "link": "https://aws.amazon.com/blogs/machine-learning/boost-cold-start-recommendations-with-vllm-on-aws-trainium/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accenture scales video analysis with Amazon Nova and Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/accenture-scales-video-analysis-with-amazon-nova-and-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Deploy conversational agents with Vonage and Amazon Nova Sonic",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-conversational-agents-with-vonage-and-amazon-nova-sonic/"
-    },
-    {
-        "title": "Enabling customers to deliver production-ready AI agents at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/"
     }
 ]
