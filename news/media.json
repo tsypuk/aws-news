@@ -1,5 +1,13 @@
 [
     {
+        "title": "Alarming on SLOs in Amazon Search with CloudWatch Application Signals \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/mt/alarming-on-slos-in-amazon-search-with-cloudwatch-application-signals-part-2/"
+    },
+    {
+        "title": "Alarming on SLOs in Amazon Search with CloudWatch Application Signals \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/mt/alarming-on-slos-in-amazon-search-with-cloudwatch-application-signals-part-1/"
+    },
+    {
         "title": "Using Amazon Bedrock and Amazon Nova for AI-Powered Incident Response",
         "link": "https://aws.amazon.com/blogs/mt/using-amazon-bedrock-and-amazon-nova-for-ai-powered-incident-response/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing AWS CloudTrail network activity events for VPC Endpoints",
         "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-network-activity-events-for-vpc-endpoints/"
-    },
-    {
-        "title": "Manage Custom AWS Config Rules with Remediation Using AWS Config Conformance Pack",
-        "link": "https://aws.amazon.com/blogs/mt/manage-custom-aws-config-rules-with-remediation-using-conformance-packs/"
-    },
-    {
-        "title": "Tracing ETL Workloads using AWS X-Ray and AWS Distro for OpenTelemetry",
-        "link": "https://aws.amazon.com/blogs/mt/tracing-etl-workloads-using-aws-x-ray-and-aws-distro-for-opentelemetry/"
     }
 ]
