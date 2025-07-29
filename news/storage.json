@@ -1,5 +1,9 @@
 [
     {
+        "title": "Faster threat detection at scale: Real-time cybersecurity graph analytics with PuppyGraph and Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/faster-threat-detection-at-scale-real-time-cybersecurity-graph-analytics-with-puppygraph-and-amazon-s3-tables/"
+    },
+    {
         "title": "Enhancing FSx for Windows security: AI-powered anomaly detection",
         "link": "https://aws.amazon.com/blogs/storage/enhancing-fsx-for-windows-security-ai-powered-anomaly-detection/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "University of California Irvine backs up petabytes of research data to AWS",
         "link": "https://aws.amazon.com/blogs/storage/university-of-california-irvine-backs-up-petabytes-of-research-data-to-aws/"
-    },
-    {
-        "title": "How to consume tabular data from Amazon S3 Tables for insights and business reporting",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-consume-tabular-data-from-amazon-s3-tables-for-insights-and-business-reporting/"
     }
 ]

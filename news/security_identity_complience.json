@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to automatically disable users in AWS Managed Microsoft AD based on GuardDuty findings",
+        "link": "https://aws.amazon.com/blogs/security/how-to-automatically-disable-users-in-aws-managed-microsoft-ad-based-on-guardduty-findings/"
+    },
+    {
         "title": "New AWS whitepaper: AWS User Guide to Financial Services Regulations and Guidelines in Australia",
         "link": "https://aws.amazon.com/blogs/security/new-aws-whitepaper-aws-user-guide-to-financial-services-regulations-and-guidelines-in-australia/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve your security posture using Amazon threat intelligence on AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/improve-your-security-posture-using-amazon-threat-intelligence-on-aws-network-firewall/"
-    },
-    {
-        "title": "How AWS is simplifying security at scale: Four keys to faster innovation from AWS re:Inforce 2025",
-        "link": "https://aws.amazon.com/blogs/security/how-aws-is-simplifying-security-at-scale-four-keys-to-faster-innovation-from-aws-reinforce-2025/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline service-to-service communication during deployments with Amazon ECS Service Connect",
+        "link": "https://aws.amazon.com/blogs/containers/streamline-service-to-service-communication-during-deployments-with-amazon-ecs-service-connect/"
+    },
+    {
         "title": "Scaling beyond IPv4: integrating IPv6 Amazon EKS clusters into existing Istio Service Mesh",
         "link": "https://aws.amazon.com/blogs/containers/scaling-beyond-ipv4-integrating-ipv6-amazon-eks-clusters-into-existing-istio-service-mesh/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Maximizing GPU Utilization using NVIDIA Run:ai in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/maximizing-gpu-utilization-using-nvidia-runai-in-amazon-eks/"
-    },
-    {
-        "title": "Deep Dive: Amazon EKS Dashboard for Visibility into Multi-Cluster Operations and Governance",
-        "link": "https://aws.amazon.com/blogs/containers/deep-dive-amazon-eks-dashboard-for-visibility-into-multi-cluster-operations-and-governance/"
     }
 ]

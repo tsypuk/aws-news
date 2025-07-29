@@ -1,5 +1,13 @@
 [
     {
+        "title": "Agentic AI for RAN optimization: Pathway to autonomous network level 5",
+        "link": "https://aws.amazon.com/blogs/industries/agentic-ai-for-ran-optimization-pathway-to-autonomous-network-level-5/"
+    },
+    {
+        "title": "Simplifying Industrial Equipment Monitoring with native anomaly detection in AWS IoT SiteWise",
+        "link": "https://aws.amazon.com/blogs/industries/simplifying-industrial-equipment-monitoring-with-native-anomaly-detection-in-aws-iot-sitewise/"
+    },
+    {
         "title": "Optimizing ad exchange infrastructure: Sharethrough\u2019s journey from ALB to NLB",
         "link": "https://aws.amazon.com/blogs/industries/optimizing-ad-exchange-infrastructure-sharethroughs-journey-from-alb-to-nlb/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Optimizing Fixed Income Consolidated Tape Performance: Latency Testing for Bond Market Data",
         "link": "https://aws.amazon.com/blogs/industries/optimizing-fixed-income-consolidated-tape-performance-latency-testing-for-bond-market-data/"
-    },
-    {
-        "title": "Generative AI Adoption in Automotive and Manufacturing: Key Technology Considerations",
-        "link": "https://aws.amazon.com/blogs/industries/generative-ai-applications-in-automotive-and-manufacturing/"
-    },
-    {
-        "title": "Empowering Manufacturing with Generative AI: Overcoming Industry Challenges with AWS",
-        "link": "https://aws.amazon.com/blogs/industries/empowering-manufacturing-with-generative-ai-overcoming-industry-challenges-with-aws/"
     }
 ]
