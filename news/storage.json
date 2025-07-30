@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protect Amazon Aurora DSQL clusters using AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/protect-amazon-aurora-dsql-clusters-using-aws-backup/"
+    },
+    {
         "title": "Faster threat detection at scale: Real-time cybersecurity graph analytics with PuppyGraph and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/faster-threat-detection-at-scale-real-time-cybersecurity-graph-analytics-with-puppygraph-and-amazon-s3-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practice configuration of Amazon FSx for NetApp ONTAP for Microsoft SQL Server workloads",
         "link": "https://aws.amazon.com/blogs/storage/best-practice-configuration-of-amazon-fsx-for-netapp-ontap-for-microsoft-sql-server-workloads/"
-    },
-    {
-        "title": "University of California Irvine backs up petabytes of research data to AWS",
-        "link": "https://aws.amazon.com/blogs/storage/university-of-california-irvine-backs-up-petabytes-of-research-data-to-aws/"
     }
 ]

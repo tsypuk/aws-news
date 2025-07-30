@@ -1,5 +1,9 @@
 [
     {
+        "title": "Troubleshooting Elastic Beanstalk Environments with Amazon Q Developer CLI",
+        "link": "https://aws.amazon.com/blogs/devops/troubleshooting-elastic-beanstalk-environments-with-amazon-q-developer-cli/"
+    },
+    {
         "title": "Streamline DevOps troubleshooting: Integrate CloudWatch investigations with Slack",
         "link": "https://aws.amazon.com/blogs/devops/streamline-devops-troubleshooting-integrate-cloudwatch-investigations-with-slack/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to enhance your application resiliency using Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/how-to-enhance-your-application-resiliency-using-amazon-q-developer/"
-    },
-    {
-        "title": "Accelerate development workflows to reduce release cycles using the Amazon Q Developer integration for GitHub (Preview)",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-development-workflows-to-reduce-release-cycles-using-the-amazon-q-developer-integration-for-github-preview/"
     }
 ]
