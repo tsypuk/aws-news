@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to migrate your Amazon EC2 Oracle Transparent Data Encryption database encryption keystore to AWS CloudHSM",
+        "link": "https://aws.amazon.com/blogs/security/how-to-migrate-your-ec2-oracle-transparent-data-encryption-tde-database-encryption-wallet-to-cloudhsm/"
+    },
+    {
         "title": "How to automatically disable users in AWS Managed Microsoft AD based on GuardDuty findings",
         "link": "https://aws.amazon.com/blogs/security/how-to-automatically-disable-users-in-aws-managed-microsoft-ad-based-on-guardduty-findings/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure your Express application APIs in minutes with Amazon Verified Permissions",
         "link": "https://aws.amazon.com/blogs/security/secure-your-express-application-apis-in-minutes-with-amazon-verified-permissions/"
-    },
-    {
-        "title": "Improve your security posture using Amazon threat intelligence on AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/security/improve-your-security-posture-using-amazon-threat-intelligence-on-aws-network-firewall/"
     }
 ]

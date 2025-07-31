@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize traffic costs of Amazon MSK consumers on Amazon EKS with rack awareness",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-traffic-costs-of-amazon-msk-consumers-on-amazon-eks-with-rack-awareness/"
+    },
+    {
+        "title": "Automate data lineage in Amazon SageMaker using AWS Glue Crawlers supported data sources",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-data-lineage-in-amazon-sagemaker-using-aws-glue-crawlers-supported-data-sources/"
+    },
+    {
         "title": "Accelerate your data quality journey for lakehouse architecture with Amazon SageMaker, Apache Iceberg on AWS, Amazon S3 tables, and AWS Glue Data Quality",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-quality-journey-for-lakehouse-architecture-with-amazon-sagemaker-apache-iceberg-on-aws-amazon-s3-tables-and-aws-glue-data-quality/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Jobs in Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-jobs-in-amazon-sagemaker/"
-    },
-    {
-        "title": "Orchestrate data processing jobs, querybooks, and notebooks using visual workflow experience in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-data-processing-jobs-querybooks-and-notebooks-using-visual-workflow-experience-in-amazon-sagemaker/"
-    },
-    {
-        "title": "Revenue NSW modernises analytics with AWS, enabling unified and scalable data management, processing, and access",
-        "link": "https://aws.amazon.com/blogs/big-data/revenue-nsw-modernises-analytics-with-aws-enabling-unified-and-scalable-data-management-processing-and-access/"
     }
 ]

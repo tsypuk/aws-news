@@ -1,5 +1,9 @@
 [
     {
+        "title": "A highly scalable solution for data replication using Amazon FSx for NetApp ONTAP and NetApp SnapMirror",
+        "link": "https://aws.amazon.com/blogs/storage/highly-scalable-solution-design-to-replicate-data-using-amazon-fsx-for-netapp-ontap-and-snapmirror/"
+    },
+    {
         "title": "Protect Amazon Aurora DSQL clusters using AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/protect-amazon-aurora-dsql-clusters-using-aws-backup/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate data transfers and migrations with AWS DataSync and Terraform",
         "link": "https://aws.amazon.com/blogs/storage/automate-data-transfers-and-migrations-with-aws-datasync-and-terraform/"
-    },
-    {
-        "title": "Best practice configuration of Amazon FSx for NetApp ONTAP for Microsoft SQL Server workloads",
-        "link": "https://aws.amazon.com/blogs/storage/best-practice-configuration-of-amazon-fsx-for-netapp-ontap-for-microsoft-sql-server-workloads/"
     }
 ]
