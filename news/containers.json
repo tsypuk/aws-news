@@ -1,5 +1,9 @@
 [
     {
+        "title": "Testing network resilience of AWS Fargate workloads on Amazon ECS using AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/containers/testing-network-resilience-of-aws-fargate-workloads-on-amazon-ecs-using-aws-fault-injection-service/"
+    },
+    {
         "title": "Streamline service-to-service communication during deployments with Amazon ECS Service Connect",
         "link": "https://aws.amazon.com/blogs/containers/streamline-service-to-service-communication-during-deployments-with-amazon-ecs-service-connect/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon EKS Pod Identity streamlines cross account access",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-streamlines-cross-account-access/"
-    },
-    {
-        "title": "Maximizing GPU Utilization using NVIDIA Run:ai in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/maximizing-gpu-utilization-using-nvidia-runai-in-amazon-eks/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Learn from AWS Fault Injection Service team\u2019s approach to Game Days",
+        "link": "https://aws.amazon.com/blogs/mt/learn-from-aws-fault-injection-service-team-approach-to-game-days/"
+    },
+    {
         "title": "Alarming on SLOs in Amazon Search with CloudWatch Application Signals \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/mt/alarming-on-slos-in-amazon-search-with-cloudwatch-application-signals-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build Golden Images with CIS Linux Build Kit  within Amazon EC2 Image Builder",
         "link": "https://aws.amazon.com/blogs/mt/build-golden-images-with-cis-linux-build-kit-within-amazon-ec2-image-builder/"
-    },
-    {
-        "title": "Announcing AWS CloudTrail network activity events for VPC Endpoints",
-        "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-network-activity-events-for-vpc-endpoints/"
     }
 ]

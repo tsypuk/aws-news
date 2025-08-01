@@ -1,5 +1,17 @@
 [
     {
+        "title": "Implementing Defense-in-Depth Security for AWS CodeBuild Pipelines",
+        "link": "https://aws.amazon.com/blogs/security/implementing-defense-security-for-aws-codebuild-pipelines/"
+    },
+    {
+        "title": "Secure file sharing solutions in AWS: A security and cost analysis guide: Part 2",
+        "link": "https://aws.amazon.com/blogs/security/secure-file-sharing-solutions-in-aws-a-security-and-cost-analysis-guide-part-2/"
+    },
+    {
+        "title": "Secure file sharing solutions in AWS: A security and cost analysis guide, Part 1",
+        "link": "https://aws.amazon.com/blogs/security/how-to-securely-transfer-files-with-presigned-urls/"
+    },
+    {
         "title": "How to migrate your Amazon EC2 Oracle Transparent Data Encryption database encryption keystore to AWS CloudHSM",
         "link": "https://aws.amazon.com/blogs/security/how-to-migrate-your-ec2-oracle-transparent-data-encryption-tde-database-encryption-wallet-to-cloudhsm/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "CISPE Data Protection Code of Conduct Public Register now certifies 122 AWS services as adherent",
         "link": "https://aws.amazon.com/blogs/security/cispe-data-protection-code-of-conduct-public-register-now-certifies-122-aws-services-as-adherent/"
-    },
-    {
-        "title": "How to prioritize security risks using AWS Security Hub exposure findings",
-        "link": "https://aws.amazon.com/blogs/security/how-to-prioritize-security-risks-using-aws-security-hub-exposure-findings/"
-    },
-    {
-        "title": "Empower AI agents with user context using Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/security/empower-ai-agents-with-user-context-using-amazon-cognito/"
-    },
-    {
-        "title": "Secure your Express application APIs in minutes with Amazon Verified Permissions",
-        "link": "https://aws.amazon.com/blogs/security/secure-your-express-application-apis-in-minutes-with-amazon-verified-permissions/"
     }
 ]

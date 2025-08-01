@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing the Amazon DynamoDB data modeling MCP tool",
+        "link": "https://aws.amazon.com/blogs/database/introducing-the-amazon-dynamodb-data-modeling-mcp-tool/"
+    },
+    {
+        "title": "Introducing Extended Support for Amazon ElastiCache version 4 and version 5 for Redis OSS",
+        "link": "https://aws.amazon.com/blogs/database/introducing-extended-support-for-amazon-elasticache-version-4-and-version-5-for-redis-oss/"
+    },
+    {
         "title": "Improve PostgreSQL performance: Diagnose and mitigate lock manager contention",
         "link": "https://aws.amazon.com/blogs/database/improve-postgresql-performance-diagnose-and-mitigate-lock-manager-contention/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "SQL to NoSQL: Modeling data in Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/sql-to-nosql-modeling-data-in-amazon-dynamodb/"
-    },
-    {
-        "title": "SQL to NoSQL: Planning your application migration to Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/sql-to-nosql-planning-your-application-migration-to-amazon-dynamodb/"
-    },
-    {
-        "title": "AWS DMS validation: A custom serverless architecture",
-        "link": "https://aws.amazon.com/blogs/database/aws-dms-validation-a-custom-serverless-architecture/"
     }
 ]

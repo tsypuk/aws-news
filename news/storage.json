@@ -1,5 +1,9 @@
 [
     {
+        "title": "Backup Amazon Elastic Kubernetes Service (EKS) resources using NetApp Trident Protect",
+        "link": "https://aws.amazon.com/blogs/storage/backup-for-amazon-eks-resources-using-netapp-trident-protect/"
+    },
+    {
         "title": "A highly scalable solution for data replication using Amazon FSx for NetApp ONTAP and NetApp SnapMirror",
         "link": "https://aws.amazon.com/blogs/storage/highly-scalable-solution-design-to-replicate-data-using-amazon-fsx-for-netapp-ontap-and-snapmirror/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable item-level search and recovery for Amazon EC2 with AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/enable-item-level-search-and-recovery-for-amazon-ec2-with-aws-backup/"
-    },
-    {
-        "title": "Automate data transfers and migrations with AWS DataSync and Terraform",
-        "link": "https://aws.amazon.com/blogs/storage/automate-data-transfers-and-migrations-with-aws-datasync-and-terraform/"
     }
 ]

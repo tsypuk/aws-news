@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon\u00a0Redshift out-of-the-box performance innovations for data lake queries",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-out-of-the-box-performance-innovations-for-data-lake-queries/"
+    },
+    {
         "title": "Optimize traffic costs of Amazon MSK consumers on Amazon EKS with rack awareness",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-traffic-costs-of-amazon-msk-consumers-on-amazon-eks-with-rack-awareness/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Compaction support for Avro and ORC file formats in Apache Iceberg tables in Amazon S3",
         "link": "https://aws.amazon.com/blogs/big-data/compaction-support-for-avro-and-orc-file-formats-in-apache-iceberg-tables-in-amazon-s3/"
-    },
-    {
-        "title": "Introducing Jobs in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-jobs-in-amazon-sagemaker/"
     }
 ]

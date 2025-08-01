@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon DocumentDB Serverless is now available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-documentdb-serverless-is-now-available/"
+    },
+    {
         "title": "AWS Weekly Roundup: SQS fair queues, CloudWatch generative AI observability, and more (July 28, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-sqs-fair-queues-cloudwatch-generative-ai-observability-and-more-july-28-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Amazon Bedrock API keys, EC2 C8gn instances, Amazon Nova Canvas virtual try-on, and more (July 7, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-api-keys-amazon-nova-canvas-virtual-try-on-and-more-july-7-2025/"
-    },
-    {
-        "title": "Amazon Nova Canvas update: Virtual try-on and style options now available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-nova-canvas-update-virtual-try-on-and-style-options-now-available/"
     }
 ]

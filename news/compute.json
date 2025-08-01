@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing v2 of Powertools for AWS Lambda (Java)",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-v2-of-powertools-for-aws-lambda-java/"
+    },
+    {
+        "title": "Streamlining AWS Serverless workflows: From AWS Lambda orchestration to AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/compute/streamlining-aws-serverless-workflows-from-aws-lambda-orchestration-to-aws-step-functions/"
+    },
+    {
         "title": "Implementing message prioritization with quorum queues on Amazon MQ for RabbitMQ",
         "link": "https://aws.amazon.com/blogs/compute/implementing-message-prioritization-with-quorum-queues-on-amazon-mq-for-rabbitmq/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhancing multi-account activity monitoring with event-driven architectures",
         "link": "https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/"
-    },
-    {
-        "title": "Control instance placement using Asset Level Capacity Management for AWS Outposts",
-        "link": "https://aws.amazon.com/blogs/compute/control-instance-placement-using-asset-level-capacity-management-for-aws-outposts/"
-    },
-    {
-        "title": "Implementing Federation on Amazon MQ for RabbitMQ Private Brokers",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-federation-on-amazon-mq-for-rabbitmq-private-brokers/"
     }
 ]
