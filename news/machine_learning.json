@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing Amazon Bedrock AgentCore Browser Tool",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-browser-tool/"
+    },
+    {
+        "title": "Introducing the Amazon Bedrock AgentCore Code Interpreter",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-agentcore-code-interpreter/"
+    },
+    {
+        "title": "Observing and evaluating AI agentic workflows with Strands Agents SDK and Arize AX",
+        "link": "https://aws.amazon.com/blogs/machine-learning/observing-and-evaluating-ai-agentic-workflows-with-strands-agents-sdk-and-arize-ax/"
+    },
+    {
+        "title": "Building AIOps with Amazon Q Developer CLI and MCP Server",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-aiops-with-amazon-q-developer-cli-and-mcp-server/"
+    },
+    {
+        "title": "Containerize legacy Spring Boot application using Amazon Q Developer CLI and MCP server",
+        "link": "https://aws.amazon.com/blogs/machine-learning/containerize-legacy-spring-boot-application-using-amazon-q-developer-cli-and-mcp-server/"
+    },
+    {
         "title": "Introducing AWS Batch Support for Amazon SageMaker Training jobs",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-batch-support-for-amazon-sagemaker-training-jobs/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Build modern serverless solutions following best practices using Amazon Q Developer CLI and MCP",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-modern-serverless-solutions-following-best-practices-using-amazon-q-developer-cli-and-mcp/"
-    },
-    {
-        "title": "Build an intelligent eDiscovery solution using Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-ediscovery-solution-using-amazon-bedrock-agents/"
-    },
-    {
-        "title": "How PerformLine uses prompt engineering on Amazon Bedrock to detect compliance violations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-performline-uses-prompt-engineering-on-amazon-bedrock-to-detect-compliance-violations/"
-    },
-    {
-        "title": "Boost cold-start recommendations with vLLM on AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/boost-cold-start-recommendations-with-vllm-on-aws-trainium/"
-    },
-    {
-        "title": "Benchmarking Amazon Nova: A comprehensive analysis through MT-Bench and Arena-Hard-Auto",
-        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-amazon-nova-a-comprehensive-analysis-through-mt-bench-and-arena-hard-auto/"
-    },
-    {
-        "title": "Customize Amazon Nova in Amazon SageMaker AI using Direct Preference Optimization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-in-amazon-sagemaker-ai-using-direct-preference-optimization/"
     }
 ]

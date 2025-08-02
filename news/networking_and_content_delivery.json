@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to manage AI Bots with AWS WAF and enhance security",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-manage-ai-bots-with-aws-waf-and-enhance-security/"
+    },
+    {
+        "title": "Using generative AI for building AWS networks",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-generative-ai-for-building-aws-networks/"
+    },
+    {
         "title": "Securely Access Amazon FSx for Windows File Server using AWS Verified Access",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securely-access-amazon-fsx-for-windows-file-server-using-aws-verified-access/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "CORS configuration through Amazon CloudFront",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cors-configuration-through-amazon-cloudfront/"
-    },
-    {
-        "title": "Implementing granular cost analysis for multi-tenant CloudFront distributions",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-granular-cost-analysis-for-multi-tenant-cloudfront-distributions/"
-    },
-    {
-        "title": "Performance and metrics enhancements for AWS Transit Gateway and AWS Cloud WAN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/performance-and-metrics-enhancements-for-aws-transit-gateway-and-aws-cloud-wan/"
     }
 ]

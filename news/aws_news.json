@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon Application Recovery Controller Region switch: A multi-Region application recovery service",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-application-recovery-controller-region-switch-a-multi-region-application-recovery-service/"
+    },
+    {
         "title": "Amazon DocumentDB Serverless is now available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-documentdb-serverless-is-now-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Oracle Database@AWS for simplified Oracle Exadata migrations to the AWS Cloud",
         "link": "https://aws.amazon.com/blogs/aws/introducing-oracle-databaseaws-for-simplified-oracle-exadata-migrations-to-the-aws-cloud/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon Bedrock API keys, EC2 C8gn instances, Amazon Nova Canvas virtual try-on, and more (July 7, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-api-keys-amazon-nova-canvas-virtual-try-on-and-more-july-7-2025/"
     }
 ]

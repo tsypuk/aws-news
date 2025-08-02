@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extend your Active Directory domain to AWS with AWS Managed Microsoft AD (Hybrid Edition)",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/extend-your-active-directory-domain-to-aws-with-aws-managed-microsoft-ad-hybrid-edition/"
+    },
+    {
         "title": "How TEKsystems Modernized a University\u2019s Microsoft Workloads on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-teksystems-modernized-a-universitys-microsoft-workloads-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerating .NET modernization with AWS Transform for .NET and CAST",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerating-net-modernization-with-aws-transform-for-net-and-cast/"
-    },
-    {
-        "title": "How to use persistent storage with AWS Elastic Beanstalk Windows deployment.",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-use-persistent-storage-with-aws-elastic-beanstalk-windows-deployment/"
     }
 ]
