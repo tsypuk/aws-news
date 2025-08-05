@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Amazon DocumentDB, AWS Lambda, Amazon EC2, and more (August 4, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-documentdb-aws-lambda-amazon-ec2-and-more-august-4-2025/"
+    },
+    {
         "title": "Introducing Amazon Application Recovery Controller Region switch: A multi-Region application recovery service",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-application-recovery-controller-region-switch-a-multi-region-application-recovery-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS Builder Center: A new home for the AWS builder community",
         "link": "https://aws.amazon.com/blogs/aws/introducing-aws-builder-center-a-new-home-for-the-aws-builder-community/"
-    },
-    {
-        "title": "Introducing Oracle Database@AWS for simplified Oracle Exadata migrations to the AWS Cloud",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-oracle-databaseaws-for-simplified-oracle-exadata-migrations-to-the-aws-cloud/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Powering AI-Driven Security with the Open Cybersecurity Schema Framework",
+        "link": "https://aws.amazon.com/blogs/opensource/powering-ai-driven-security-with-the-open-cybersecurity-schema-framework/"
+    },
+    {
         "title": "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-1-0-production-ready-multi-agent-orchestration-made-simple/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Shaping the future of CDK together",
         "link": "https://aws.amazon.com/blogs/opensource/shaping-the-future-of-cdk-together/"
-    },
-    {
-        "title": "Verify the Safety of the Rust Standard Library",
-        "link": "https://aws.amazon.com/blogs/opensource/verify-the-safety-of-the-rust-standard-library/"
     }
 ]

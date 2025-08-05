@@ -1,5 +1,21 @@
 [
     {
+        "title": "Cost tracking multi-tenant model inference on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-tracking-multi-tenant-model-inference-on-amazon-bedrock/"
+    },
+    {
+        "title": "AI judging AI: Scaling unstructured text analysis with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai-judging-ai-scaling-unstructured-text-analysis-with-amazon-nova/"
+    },
+    {
+        "title": "Building an AI-driven course content generation system using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-driven-course-content-generation-system-using-amazon-bedrock/"
+    },
+    {
+        "title": "How Handmade.com modernizes product image and description handling with Amazon Bedrock and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-handmade-com-modernizes-product-image-and-description-handling-with-amazon-bedrock-and-amazon-opensearch-service/"
+    },
+    {
         "title": "Introducing Amazon Bedrock AgentCore Browser Tool",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-browser-tool/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Nippon India Mutual Fund improved the accuracy of AI assistant responses using advanced RAG methods on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-nippon-india-mutual-fund-improved-the-accuracy-of-ai-assistant-responses-using-advanced-rag-methods-on-amazon-bedrock/"
-    },
-    {
-        "title": "Build a drug discovery research assistant using Strands Agents and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-drug-discovery-research-assistant-using-strands-agents-and-amazon-bedrock/"
-    },
-    {
-        "title": "Amazon Nova Act SDK (preview): Path to production for browser automation agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-sdk-preview-path-to-production-for-browser-automation-agents/"
-    },
-    {
-        "title": "Optimizing enterprise AI assistants: How Crypto.com uses LLM reasoning and feedback for enhanced efficiency",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-enterprise-ai-assistants-how-crypto-com-uses-llm-reasoning-and-feedback-for-enhanced-efficiency/"
-    },
-    {
-        "title": "Build modern serverless solutions following best practices using Amazon Q Developer CLI and MCP",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-modern-serverless-solutions-following-best-practices-using-amazon-q-developer-cli-and-mcp/"
     }
 ]

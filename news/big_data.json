@@ -1,5 +1,13 @@
 [
     {
+        "title": "Develop and deploy a generative AI application using Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/develop-and-deploy-a-generative-ai-application-using-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Near real-time streaming analytics on protobuf with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/near-real-time-streaming-analytics-on-protobuf-with-amazon-redshift/"
+    },
+    {
         "title": "Amazon\u00a0Redshift out-of-the-box performance innovations for data lake queries",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-out-of-the-box-performance-innovations-for-data-lake-queries/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Scale your AWS Glue for Apache Spark jobs with R type, G.12X, and G.16X workers",
         "link": "https://aws.amazon.com/blogs/big-data/scale-your-aws-glue-for-apache-spark-jobs-with-r-type-g-12x-and-g-16x-workers/"
-    },
-    {
-        "title": "Unifying metadata governance across Amazon SageMaker and Collibra",
-        "link": "https://aws.amazon.com/blogs/big-data/unifying-metadata-governance-across-amazon-sagemaker-and-collibra/"
-    },
-    {
-        "title": "Compaction support for Avro and ORC file formats in Apache Iceberg tables in Amazon S3",
-        "link": "https://aws.amazon.com/blogs/big-data/compaction-support-for-avro-and-orc-file-formats-in-apache-iceberg-tables-in-amazon-s3/"
     }
 ]

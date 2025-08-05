@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Clari achieved 50% cost savings with Amazon Aurora I/O-Optimized",
+        "link": "https://aws.amazon.com/blogs/database/how-clari-achieved-50-cost-savings-with-amazon-aurora-i-o-optimized/"
+    },
+    {
         "title": "Introducing the Amazon DynamoDB data modeling MCP tool",
         "link": "https://aws.amazon.com/blogs/database/introducing-the-amazon-dynamodb-data-modeling-mcp-tool/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SQL to NoSQL: Modernizing data access layer with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/sql-to-nosql-modernizing-data-access-layer-with-amazon-dynamodb/"
-    },
-    {
-        "title": "SQL to NoSQL: Modeling data in Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/sql-to-nosql-modeling-data-in-amazon-dynamodb/"
     }
 ]
