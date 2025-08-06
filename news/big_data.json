@@ -1,5 +1,17 @@
 [
     {
+        "title": "Create an OpenSearch dashboard with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/create-an-opensearch-dashboard-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Build a multi-tenant healthcare system with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-multi-tenant-healthcare-system-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Integrate scientific data management and analytics with the next generation of Amazon SageMaker, Part 1",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-scientific-data-management-and-analytics-with-the-next-generation-of-amazon-sagemaker-part-1/"
+    },
+    {
         "title": "Develop and deploy a generative AI application using Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/develop-and-deploy-a-generative-ai-application-using-amazon-sagemaker-unified-studio/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimizing vector search using Amazon S3 Vectors and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/optimizing-vector-search-using-amazon-s3-vectors-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Unifying data insights with Amazon QuickSight and Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/unifying-data-insights-with-amazon-quicksight-and-amazon-sagemaker/"
-    },
-    {
-        "title": "Integrating Amazon OpenSearch Ingestion with Amazon RDS and Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/big-data/integrating-amazon-opensearch-ingestion-with-amazon-rds-and-amazon-aurora/"
-    },
-    {
-        "title": "Scale your AWS Glue for Apache Spark jobs with R type, G.12X, and G.16X workers",
-        "link": "https://aws.amazon.com/blogs/big-data/scale-your-aws-glue-for-apache-spark-jobs-with-r-type-g-12x-and-g-16x-workers/"
     }
 ]

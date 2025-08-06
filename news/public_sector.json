@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extracting, analyzing, and interpreting information from Medicaid forms with AWS Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/publicsector/extracting-analyzing-and-interpreting-information-from-medicaid-forms-with-aws-bedrock-data-automation/"
+    },
+    {
         "title": "How to use life sciences data from AWS Open Data program in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/how-to-use-life-sciences-data-from-aws-open-data-program-in-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Benchmarking PacBio whole genome sequencing variant pipeline analysis with AWS HealthOmics workflows",
         "link": "https://aws.amazon.com/blogs/publicsector/benchmarking-pacbio-whole-genome-sequencing-variant-pipeline-analysis-with-aws-healthomics-workflows/"
-    },
-    {
-        "title": "Discover how AWS Partner generative AI solutions can transform your public sector organization",
-        "link": "https://aws.amazon.com/blogs/publicsector/discover-how-aws-partner-generative-ai-solutions-can-transform-your-public-sector-organization/"
     }
 ]

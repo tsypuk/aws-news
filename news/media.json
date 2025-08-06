@@ -1,5 +1,13 @@
 [
     {
+        "title": "Best practices for analyzing AWS Config recording frequencies",
+        "link": "https://aws.amazon.com/blogs/mt/best-practices-for-analyzing-aws-config-recording-frequencies/"
+    },
+    {
+        "title": "Centralized Multi-Account Application Resilience Assessment Using AWS Resilience Hub",
+        "link": "https://aws.amazon.com/blogs/mt/centralized-multi-account-application-resilience-assessment-using-aws/"
+    },
+    {
         "title": "Optimize querying AWS CloudTrail logs with partitioning in Amazon Athena",
         "link": "https://aws.amazon.com/blogs/mt/optimize-querying-aws-cloudtrail-logs-with-partitioning-in-amazon-athena/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Maximizing Multi-Region Resilience with AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/maximizing-multi-region-resilience-with-aws-resilience-hub/"
-    },
-    {
-        "title": "Key Governance, Risk, and Compliance Sessions at re:Inforce 2025",
-        "link": "https://aws.amazon.com/blogs/mt/key-governance-risk-and-compliance-sessions-at-reinforce-2025/"
-    },
-    {
-        "title": "Automate registering Windows managed nodes with AWS Systems Manager",
-        "link": "https://aws.amazon.com/blogs/mt/automate-registering-windows-managed-nodes-with-aws-systems-manager/"
     }
 ]

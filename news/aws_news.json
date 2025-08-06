@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon Elastic VMware Service for running VMware Cloud Foundation on AWS",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-elastic-vmware-service-for-running-vmware-cloud-foundation-on-aws/"
+    },
+    {
         "title": "AWS Weekly Roundup: Amazon DocumentDB, AWS Lambda, Amazon EC2, and more (August 4, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-documentdb-aws-lambda-amazon-ec2-and-more-august-4-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New Amazon EC2 P6e-GB200 UltraServers accelerated by NVIDIA Grace Blackwell GPUs for the highest AI performance",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-p6e-gb200-ultraservers-powered-by-nvidia-grace-blackwell-gpus-for-the-highest-ai-performance/"
-    },
-    {
-        "title": "Introducing AWS Builder Center: A new home for the AWS builder community",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-builder-center-a-new-home-for-the-aws-builder-community/"
     }
 ]
