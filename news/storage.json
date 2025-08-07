@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mountpoint for Amazon S3 CSI driver v2: Accelerated performance and improved resource usage for Kubernetes workloads",
+        "link": "https://aws.amazon.com/blogs/storage/mountpoint-for-amazon-s3-csi-driver-v2-accelerated-performance-and-improved-resource-usage-for-kubernetes-workloads/"
+    },
+    {
         "title": "Backup Amazon Elastic Kubernetes Service (EKS) resources using NetApp Trident Protect",
         "link": "https://aws.amazon.com/blogs/storage/backup-for-amazon-eks-resources-using-netapp-trident-protect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "From raw to refined: building a data quality pipeline with AWS Glue and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/from-raw-to-refined-building-a-data-quality-pipeline-with-aws-glue-and-amazon-s3-tables/"
-    },
-    {
-        "title": "Enable item-level search and recovery for Amazon EC2 with AWS Backup",
-        "link": "https://aws.amazon.com/blogs/storage/enable-item-level-search-and-recovery-for-amazon-ec2-with-aws-backup/"
     }
 ]

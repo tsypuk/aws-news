@@ -1,5 +1,21 @@
 [
     {
+        "title": "Pioneering AI workflows at scale: A deep dive into Asana AI Studio and Amazon Q index collaboration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pioneering-ai-workflows-at-scale-a-deep-dive-into-asana-ai-studio-and-amazon-q-index-collaboration/"
+    },
+    {
+        "title": "Responsible AI for the payments industry \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-the-payments-industry-part-1/"
+    },
+    {
+        "title": "Responsible AI for the payments industry \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-the-payments-industry-part-2/"
+    },
+    {
+        "title": "Process multi-page documents with human review using Amazon Bedrock Data Automation and Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/process-multi-page-documents-with-human-review-using-amazon-bedrock-data-automation-and-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Build an AI assistant using Amazon Q Business with Amazon S3 clickable URLs",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-assistant-using-amazon-q-business-with-amazon-s3-clickable-urls/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Amazon Strands Agents SDK: A technical deep dive into agent architectures and observability",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/"
-    },
-    {
-        "title": "Build dynamic web research agents with the Strands Agents SDK and Tavily",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-dynamic-web-research-agents-with-the-strands-agents-sdk-and-tavily/"
-    },
-    {
-        "title": "Automate the creation of handout notes using Amazon Bedrock Data Automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-the-creation-of-handout-notes-using-amazon-bedrock-data-automation/"
-    },
-    {
-        "title": "Streamline GitHub workflows with generative AI using Amazon Bedrock and MCP",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-github-workflows-with-generative-ai-using-amazon-bedrock-and-mcp/"
-    },
-    {
-        "title": "Mistral-Small-3.2-24B-Instruct-2506 is now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mistral-small-3-2-24b-instruct-2506-is-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
     }
 ]

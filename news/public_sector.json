@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing database backup strategy: How Service NSW achieved 70% cost reduction with AWS Backup",
+        "link": "https://aws.amazon.com/blogs/publicsector/optimizing-database-backup-strategy-how-service-nsw-achieved-70-cost-reduction-with-aws-backup/"
+    },
+    {
         "title": "Extracting, analyzing, and interpreting information from Medicaid forms with AWS Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/publicsector/extracting-analyzing-and-interpreting-information-from-medicaid-forms-with-aws-bedrock-data-automation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transforming nonprofit impact: Highlights from the AWS Imagine Conferences in London and Sydney",
         "link": "https://aws.amazon.com/blogs/publicsector/transforming-nonprofit-impact-highlights-from-the-aws-imagine-conferences-in-london-and-sydney/"
-    },
-    {
-        "title": "Benchmarking PacBio whole genome sequencing variant pipeline analysis with AWS HealthOmics workflows",
-        "link": "https://aws.amazon.com/blogs/publicsector/benchmarking-pacbio-whole-genome-sequencing-variant-pipeline-analysis-with-aws-healthomics-workflows/"
     }
 ]
