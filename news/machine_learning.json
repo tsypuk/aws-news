@@ -1,5 +1,17 @@
 [
     {
+        "title": "The DIVA logistics agent, powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/the-diva-logistics-agent-powered-by-amazon-bedrock/"
+    },
+    {
+        "title": "Automate enterprise workflows by integrating Salesforce Agentforce with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-enterprise-workflows-by-integrating-salesforce-agentforce-with-amazon-bedrock-agents/"
+    },
+    {
+        "title": "How Amazon Bedrock powers next-generation account planning at AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-powers-next-generation-account-planning-at-aws/"
+    },
+    {
         "title": "Pioneering AI workflows at scale: A deep dive into Asana AI Studio and Amazon Q index collaboration",
         "link": "https://aws.amazon.com/blogs/machine-learning/pioneering-ai-workflows-at-scale-a-deep-dive-into-asana-ai-studio-and-amazon-q-index-collaboration/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing AWS Batch Support for Amazon SageMaker Training jobs",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-batch-support-for-amazon-sagemaker-training-jobs/"
-    },
-    {
-        "title": "Structured outputs with Amazon Nova: A guide for builders",
-        "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-with-amazon-nova-a-guide-for-builders/"
-    },
-    {
-        "title": "AI agents unifying structured and unstructured data: Transforming support analytics and beyond with Amazon Q Plugins",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-agents-unifying-structured-and-unstructured-data-transforming-support-analytics-and-beyond-with-amazon-q-plugins/"
-    },
-    {
-        "title": "Amazon Strands Agents SDK: A technical deep dive into agent architectures and observability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/"
     }
 ]

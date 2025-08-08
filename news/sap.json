@@ -1,5 +1,9 @@
 [
     {
+        "title": "SAP Load Testing: a serverless approach with AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/sap-load-testing-a-serverless-approach-with-aws/"
+    },
+    {
         "title": "Maximize the value of your SAP data using Amazon Q Business and Amazon Bedrock Generative AI \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/awsforsap/maximize-the-value-of-your-sap-data-using-amazon-q-business-and-amazon-bedrock-generative-ai-part-1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon SES configuration for SAP ABAP Systems \u2013 Part II",
         "link": "https://aws.amazon.com/blogs/awsforsap/amazon-ses-configuration-for-sap-abap-systems-part-ii/"
-    },
-    {
-        "title": "migration support service for RISE with SAP on AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/migration-support-service-for-rise-with-sap-on-aws/"
     }
 ]
