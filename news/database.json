@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify data integration using zero-ETL from Amazon RDS to Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/database/simplify-data-integration-using-zero-etl-from-amazon-rds-to-amazon-redshift/"
+    },
+    {
         "title": "Automate conversion of Oracle SQL to PostgreSQL inside Java applications with AWS SCT",
         "link": "https://aws.amazon.com/blogs/database/automate-conversion-of-oracle-sql-to-postgresql-inside-java-applications-with-aws-sct/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How TalentNeuron optimized data operations and cut costs and modernized with Amazon Aurora I/O-Optimized",
         "link": "https://aws.amazon.com/blogs/database/how-talentneuron-optimized-data-operations-and-cut-costs-and-modernized-with-amazon-aurora-i-o-optimized/"
-    },
-    {
-        "title": "How to evaluate throughput utilization for Amazon DynamoDB tables in provisioned mode",
-        "link": "https://aws.amazon.com/blogs/database/how-to-evaluate-throughput-utilization-for-amazon-dynamodb-tables-in-provisioned-mode/"
     }
 ]
