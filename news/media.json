@@ -1,5 +1,9 @@
 [
     {
+        "title": "Gain visibility of AWS backup activities using Amazon Managed Grafana",
+        "link": "https://aws.amazon.com/blogs/mt/gain-visibility-of-aws-backup-activities-using-amazon-managed-grafana/"
+    },
+    {
         "title": "Best practices for analyzing AWS Config recording frequencies",
         "link": "https://aws.amazon.com/blogs/mt/best-practices-for-analyzing-aws-config-recording-frequencies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gain Compliance Insights in your AWS Environment Using Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/mt/gain-compliance-insights-in-your-aws-environment-using-amazon-q-business/"
-    },
-    {
-        "title": "Maximizing Multi-Region Resilience with AWS Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/mt/maximizing-multi-region-resilience-with-aws-resilience-hub/"
     }
 ]

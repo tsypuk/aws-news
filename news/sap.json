@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline SAP Operation with CloudWatch MCP server and Amazon Q CLI \u2013 Part 3",
+        "link": "https://aws.amazon.com/blogs/awsforsap/streamline-sap-operation-with-cloudwatch-mcp-server-and-amazon-q-cli-part-3/"
+    },
+    {
         "title": "SAP Load Testing: a serverless approach with AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-load-testing-a-serverless-approach-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Jumpstart Your AWS for SAP Journey: Automated SAP S/4HANA Fully-Activated Appliance deployment for quick evaluation and fit-gap analysis",
         "link": "https://aws.amazon.com/blogs/awsforsap/automated-sap-s4hana-fully-activated-appliance-deployment/"
-    },
-    {
-        "title": "Amazon SES configuration for SAP ABAP Systems \u2013 Part II",
-        "link": "https://aws.amazon.com/blogs/awsforsap/amazon-ses-configuration-for-sap-abap-systems-part-ii/"
     }
 ]

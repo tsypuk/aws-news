@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy Okta as a custom identity provider for AWS Transfer Family",
+        "link": "https://aws.amazon.com/blogs/storage/deploy-okta-as-a-custom-identity-provider-for-aws-transfer-family/"
+    },
+    {
         "title": "Cross-Region disaster recovery using AWS Elastic Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/storage/cross-region-disaster-recovery-using-aws-elastic-disaster-recovery/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Query Amazon S3 Tables from open source Trino using Apache Iceberg REST endpoint",
         "link": "https://aws.amazon.com/blogs/storage/query-amazon-s3-tables-from-open-source-trino-using-apache-iceberg-rest-endpoint/"
-    },
-    {
-        "title": "SAN boot your Amazon EC2 enterprise environments from Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/san-boot-your-amazon-ec2-enterprise-environments-from-amazon-fsx-for-netapp-ontap/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Scaling transaction peaks: Juspay\u2019s approach using Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/scaling-transaction-peaks-juspays-approach-using-amazon-elasticache/"
+    },
+    {
+        "title": "How Wiz achieved near-zero downtime for Amazon Aurora PostgreSQL major version upgrades at scale using Aurora Blue/Green Deployments",
+        "link": "https://aws.amazon.com/blogs/database/how-wiz-achieved-near-zero-downtime-for-amazon-aurora-postgresql-major-version-upgrades-at-scale-using-aurora-blue-green-deployments/"
+    },
+    {
         "title": "Simplify data integration using zero-ETL from Amazon RDS to Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/database/simplify-data-integration-using-zero-etl-from-amazon-rds-to-amazon-redshift/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Amazon Keyspaces CDC streams",
         "link": "https://aws.amazon.com/blogs/database/introducing-amazon-keyspaces-cdc-streams/"
-    },
-    {
-        "title": "How Aqua Security automates fast clone orchestration on Amazon Aurora at scale",
-        "link": "https://aws.amazon.com/blogs/database/how-aqua-security-automates-fast-clone-orchestration-on-amazon-aurora-at-scale/"
-    },
-    {
-        "title": "How TalentNeuron optimized data operations and cut costs and modernized with Amazon Aurora I/O-Optimized",
-        "link": "https://aws.amazon.com/blogs/database/how-talentneuron-optimized-data-operations-and-cut-costs-and-modernized-with-amazon-aurora-i-o-optimized/"
     }
 ]
