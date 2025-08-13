@@ -1,5 +1,25 @@
 [
     {
+        "title": "Train and deploy AI models at trillion-parameter scale with Amazon SageMaker HyperPod support for P6e-GB200 UltraServers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-ai-models-at-trillion-parameter-scale-with-amazon-sagemaker-hyperpod-support-for-p6e-gb200-ultraservers/"
+    },
+    {
+        "title": "How Indegene\u2019s AI-powered social intelligence for life sciences turns social media conversations into insights",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-indegenes-ai-powered-social-intelligence-for-life-sciences-turns-social-media-conversations-into-insights/"
+    },
+    {
+        "title": "Unlocking enhanced legal document review with Lexbe and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-enhanced-legal-document-review-with-lexbe-and-amazon-bedrock/"
+    },
+    {
+        "title": "Automate AIOps with SageMaker Unified Studio Projects, Part 2: Technical implementation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-sagemaker-unified-studio-projects-part-2-technical-implementation/"
+    },
+    {
+        "title": "Automate AIOps with Amazon SageMaker Unified Studio projects, Part 1: Solution architecture",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-amazon-sagemaker-unified-studio-projects-part-1-solution-architecture/"
+    },
+    {
         "title": "Demystifying Amazon Bedrock Pricing for a Chatbot Assistant",
         "link": "https://aws.amazon.com/blogs/machine-learning/demystifying-amazon-bedrock-pricing-for-a-chatbot-assistant/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Building an AI-driven course content generation system using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-driven-course-content-generation-system-using-amazon-bedrock/"
-    },
-    {
-        "title": "How Handmade.com modernizes product image and description handling with Amazon Bedrock and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-handmade-com-modernizes-product-image-and-description-handling-with-amazon-bedrock-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Introducing Amazon Bedrock AgentCore Browser Tool",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-browser-tool/"
-    },
-    {
-        "title": "Introducing the Amazon Bedrock AgentCore Code Interpreter",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-agentcore-code-interpreter/"
-    },
-    {
-        "title": "Observing and evaluating AI agentic workflows with Strands Agents SDK and Arize AX",
-        "link": "https://aws.amazon.com/blogs/machine-learning/observing-and-evaluating-ai-agentic-workflows-with-strands-agents-sdk-and-arize-ax/"
-    },
-    {
-        "title": "Building AIOps with Amazon Q Developer CLI and MCP Server",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-aiops-with-amazon-q-developer-cli-and-mcp-server/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve AWS DMS continuous replication performance by using column filters to parallelize high-volume tables",
+        "link": "https://aws.amazon.com/blogs/database/improve-aws-dms-continuous-replication-performance-by-using-column-filters-to-parallelize-high-volume-tables/"
+    },
+    {
         "title": "Scaling transaction peaks: Juspay\u2019s approach using Amazon ElastiCache",
         "link": "https://aws.amazon.com/blogs/database/scaling-transaction-peaks-juspays-approach-using-amazon-elasticache/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transform uncompressed Amazon DocumentDB data into compressed collections using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/transform-uncompressed-amazon-documentdb-data-into-compressed-collections-using-aws-dms/"
-    },
-    {
-        "title": "Introducing Amazon Keyspaces CDC streams",
-        "link": "https://aws.amazon.com/blogs/database/introducing-amazon-keyspaces-cdc-streams/"
     }
 ]
