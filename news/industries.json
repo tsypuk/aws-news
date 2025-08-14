@@ -1,5 +1,9 @@
 [
     {
+        "title": "Validate radiology reports using Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/industries/validate-radiology-reports-using-amazon-nova/"
+    },
+    {
         "title": "Lotte Homeshopping Reduces Human Agent Workload by 40% with Sendbird on AWS",
         "link": "https://aws.amazon.com/blogs/industries/lotte-homeshopping-reduces-human-agent-workload-by-40-with-sendbird-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Agentic AI for RAN optimization: Pathway to autonomous network level 5",
         "link": "https://aws.amazon.com/blogs/industries/agentic-ai-for-ran-optimization-pathway-to-autonomous-network-level-5/"
-    },
-    {
-        "title": "Simplifying Industrial Equipment Monitoring with native anomaly detection in AWS IoT SiteWise",
-        "link": "https://aws.amazon.com/blogs/industries/simplifying-industrial-equipment-monitoring-with-native-anomaly-detection-in-aws-iot-sitewise/"
     }
 ]

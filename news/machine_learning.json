@@ -1,5 +1,29 @@
 [
     {
+        "title": "Securely launch and scale your agents and tools on Amazon Bedrock AgentCore Runtime",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securely-launch-and-scale-your-agents-and-tools-on-amazon-bedrock-agentcore-runtime/"
+    },
+    {
+        "title": "PwC and AWS Build Responsible AI with Automated Reasoning on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pwc-and-aws-build-responsible-ai-with-automated-reasoning-on-amazon-bedrock/"
+    },
+    {
+        "title": "How Amazon scaled Rufus by building multi-node inference using AWS Trainium chips and vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-scaled-rufus-by-building-multi-node-inference-using-aws-trainium-chips-and-vllm/"
+    },
+    {
+        "title": "Build an intelligent financial analysis agent with LangGraph and Strands Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-financial-analysis-agent-with-langgraph-and-strands-agents/"
+    },
+    {
+        "title": "Amazon Bedrock AgentCore Memory: Building context-aware agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/"
+    },
+    {
+        "title": "Build a conversational natural language interface for Amazon Athena queries using Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-natural-language-interface-for-amazon-athena-queries-using-amazon-nova/"
+    },
+    {
         "title": "Train and deploy AI models at trillion-parameter scale with Amazon SageMaker HyperPod support for P6e-GB200 UltraServers",
         "link": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-ai-models-at-trillion-parameter-scale-with-amazon-sagemaker-hyperpod-support-for-p6e-gb200-ultraservers/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Process multi-page documents with human review using Amazon Bedrock Data Automation and Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/process-multi-page-documents-with-human-review-using-amazon-bedrock-data-automation-and-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Build an AI assistant using Amazon Q Business with Amazon S3 clickable URLs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-assistant-using-amazon-q-business-with-amazon-s3-clickable-urls/"
-    },
-    {
-        "title": "GPT OSS models from OpenAI are now available on SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/gpt-oss-models-from-openai-are-now-available-on-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Discover insights from Microsoft Exchange with the Microsoft Exchange connector for Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-microsoft-exchange-with-the-microsoft-exchange-connector-for-amazon-q-business/"
-    },
-    {
-        "title": "Cost tracking multi-tenant model inference on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-tracking-multi-tenant-model-inference-on-amazon-bedrock/"
-    },
-    {
-        "title": "AI judging AI: Scaling unstructured text analysis with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-judging-ai-scaling-unstructured-text-analysis-with-amazon-nova/"
-    },
-    {
-        "title": "Building an AI-driven course content generation system using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-driven-course-content-generation-system-using-amazon-bedrock/"
     }
 ]
