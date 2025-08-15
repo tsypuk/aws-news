@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving",
+        "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/"
+    },
+    {
+        "title": "How Karrot built a feature platform on AWS, Part 2: Feature ingestion",
+        "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/"
+    },
+    {
+        "title": "Deploy LLMs on Amazon EKS using vLLM Deep Learning Containers",
+        "link": "https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/"
+    },
+    {
         "title": "Maximizing Business Value Through Strategic Cloud Optimization",
         "link": "https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Revolutionizing agricultural knowledge management using a multi-modal LLM: A reference architecture",
         "link": "https://aws.amazon.com/blogs/architecture/revolutionizing-agricultural-knowledge-management-using-a-multi-modal-llm-a-reference-architecture/"
-    },
-    {
-        "title": "Implement event-driven invoice processing for resilient financial monitoring at scale",
-        "link": "https://aws.amazon.com/blogs/architecture/implement-event-driven-invoice-processing-for-resilient-financial-monitoring-at-scale/"
-    },
-    {
-        "title": "Empower your teams with modern architecture governance",
-        "link": "https://aws.amazon.com/blogs/architecture/empower-your-teams-with-modern-architecture-governance/"
-    },
-    {
-        "title": "How Smartsheet reduced latency and optimized costs in their serverless architecture",
-        "link": "https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/"
     }
 ]

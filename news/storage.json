@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify log rotation with Amazon S3 Express One Zone",
+        "link": "https://aws.amazon.com/blogs/storage/simplify-log-rotation-with-amazon-s3-express-one-zone/"
+    },
+    {
         "title": "Deploy Okta as a custom identity provider for AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/deploy-okta-as-a-custom-identity-provider-for-aws-transfer-family/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Architecting scalable checkpoint storage for large-scale ML training on AWS",
         "link": "https://aws.amazon.com/blogs/storage/architecting-scalable-checkpoint-storage-for-large-scale-ml-training-on-aws/"
-    },
-    {
-        "title": "Query Amazon S3 Tables from open source Trino using Apache Iceberg REST endpoint",
-        "link": "https://aws.amazon.com/blogs/storage/query-amazon-s3-tables-from-open-source-trino-using-apache-iceberg-rest-endpoint/"
     }
 ]

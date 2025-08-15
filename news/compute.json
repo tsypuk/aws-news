@@ -1,5 +1,9 @@
 [
     {
+        "title": "Effectively building AI agents on AWS Serverless",
+        "link": "https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/"
+    },
+    {
         "title": "Understanding and Remediating Cold Starts: An AWS Lambda Perspective",
         "link": "https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Dynamically routing requests with Amazon API Gateway routing rules",
         "link": "https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/"
-    },
-    {
-        "title": "Introducing AWS Serverless MCP Server: AI-powered development for modern applications",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-aws-serverless-mcp-server-ai-powered-development-for-modern-applications/"
     }
 ]

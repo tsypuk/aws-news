@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Braket introduces program sets enabling customers to run quantum programs up to 24x faster",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-introduces-program-sets-enabling-customers-to-run-quantum-programs-up-to-24x-faster/"
+    },
+    {
         "title": "Introducing the Amazon Braket Learning Plan and Digital Badge",
         "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-the-amazon-braket-learning-plan-and-digital-badge/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to run CUDA-Q programs on Amazon Braket notebook instances",
         "link": "https://aws.amazon.com/blogs/quantum-computing/how-to-run-cuda-q-programs-on-amazon-braket-notebook-instances/"
-    },
-    {
-        "title": "Winners announced in the Airbus-BMW Group Quantum Computing Challenge",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/winners-announced-in-the-airbus-bmw-group-quantum-computing-challenge/"
     }
 ]
