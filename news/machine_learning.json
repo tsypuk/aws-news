@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/"
+    },
+    {
+        "title": "Build a scalable containerized web application on AWS using the MERN stack with Amazon Q Developer \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-containerized-web-application-on-aws-using-the-mern-stack-with-amazon-q-developer-part-1/"
+    },
+    {
+        "title": "Optimizing Salesforce\u2019s model endpoints with Amazon SageMaker AI inference components",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-salesforces-model-endpoints-with-amazon-sagemaker-ai-inference-components/"
+    },
+    {
+        "title": "Building a RAG chat-based assistant on Amazon EKS Auto Mode and NVIDIA NIMs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-rag-chat-based-assistant-on-amazon-eks-auto-mode-and-nvidia-nims/"
+    },
+    {
+        "title": "Introducing Amazon Bedrock AgentCore Identity: Securing agentic AI at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-identity-securing-agentic-ai-at-scale/"
+    },
+    {
         "title": "Scalable intelligent document processing using Amazon Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/scalable-intelligent-document-processing-using-amazon-bedrock-data-automation/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Automate AIOps with SageMaker Unified Studio Projects, Part 2: Technical implementation",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-sagemaker-unified-studio-projects-part-2-technical-implementation/"
-    },
-    {
-        "title": "Automate AIOps with Amazon SageMaker Unified Studio projects, Part 1: Solution architecture",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-amazon-sagemaker-unified-studio-projects-part-1-solution-architecture/"
-    },
-    {
-        "title": "Demystifying Amazon Bedrock Pricing for a Chatbot Assistant",
-        "link": "https://aws.amazon.com/blogs/machine-learning/demystifying-amazon-bedrock-pricing-for-a-chatbot-assistant/"
-    },
-    {
-        "title": "Fine-tune OpenAI GPT-OSS models on Amazon SageMaker AI using Hugging Face libraries",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-on-amazon-sagemaker-ai-using-hugging-face-libraries/"
-    },
-    {
-        "title": "The DIVA logistics agent, powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-diva-logistics-agent-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Automate enterprise workflows by integrating Salesforce Agentforce with Amazon Bedrock Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-enterprise-workflows-by-integrating-salesforce-agentforce-with-amazon-bedrock-agents/"
     }
 ]

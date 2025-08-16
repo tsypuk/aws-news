@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS named as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services for 15 years in a row",
+        "link": "https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-15-years-in-a-row/"
+    },
+    {
+        "title": "Celebrating 10 years of Amazon Aurora innovation",
+        "link": "https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-aurora-innovation/"
+    },
+    {
         "title": "Meet our newest AWS Heroes \u2014 August 2025",
         "link": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Free Tier update: New customers can get started and explore AWS with up to $200 in credits",
         "link": "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/"
-    },
-    {
-        "title": "Monitor and debug event-driven applications with new Amazon EventBridge logging",
-        "link": "https://aws.amazon.com/blogs/aws/monitor-and-debug-event-driven-applications-with-new-amazon-eventbridge-logging/"
-    },
-    {
-        "title": "Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/"
     }
 ]

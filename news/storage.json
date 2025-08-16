@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to size an Amazon FSx for NetApp ONTAP file system",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-size-an-amazon-fsx-for-netapp-ontap-file-system/"
+    },
+    {
+        "title": "How Anuttacon scaled AI-enhanced gaming workloads for \u201cWhispers from the Star\u201d",
+        "link": "https://aws.amazon.com/blogs/storage/how-anuttacon-scaled-ai-enhanced-gaming-workloads-for-whispers-from-the-star/"
+    },
+    {
         "title": "Simplify log rotation with Amazon S3 Express One Zone",
         "link": "https://aws.amazon.com/blogs/storage/simplify-log-rotation-with-amazon-s3-express-one-zone/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Protect on-premises VMware infrastructure with NetApp BlueXP Disaster Recovery, Amazon Elastic VMware Service, and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/protect-on-premises-vmware-infrastructure-with-netapp-bluexp-disaster-recovery-amazon-elastic-vmware-service-and-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Building multi-writer applications on Amazon S3 using native controls",
-        "link": "https://aws.amazon.com/blogs/storage/building-multi-writer-applications-on-amazon-s3-using-native-controls/"
-    },
-    {
-        "title": "Architecting scalable checkpoint storage for large-scale ML training on AWS",
-        "link": "https://aws.amazon.com/blogs/storage/architecting-scalable-checkpoint-storage-for-large-scale-ml-training-on-aws/"
     }
 ]

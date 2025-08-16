@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhanced throttling observability in Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/enhanced-throttling-observability-in-amazon-dynamodb/"
+    },
+    {
+        "title": "Securing Amazon Aurora DSQL: Access control best practices",
+        "link": "https://aws.amazon.com/blogs/database/securing-amazon-aurora-dsql-access-control-best-practices/"
+    },
+    {
         "title": "Announcing Extended Support for Amazon DocumentDB (with MongoDB compatibility) version 3.6",
         "link": "https://aws.amazon.com/blogs/database/announcing-extended-support-for-amazon-documentdb-with-mongodb-compatibility-version-3-6/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Configure Amazon RDS for Db2 standby replicas for high availability and faster disaster recovery",
         "link": "https://aws.amazon.com/blogs/database/configure-amazon-rds-for-db2-standby-replicas-for-high-availability-and-faster-disaster-recovery/"
-    },
-    {
-        "title": "Amazon Aurora DSQL for gaming use cases",
-        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-for-gaming-use-cases/"
-    },
-    {
-        "title": "Evolve your Amazon DynamoDB table\u2019s data model",
-        "link": "https://aws.amazon.com/blogs/database/evolve-your-amazon-dynamodb-tables-data-model/"
     }
 ]

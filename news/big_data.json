@@ -1,5 +1,13 @@
 [
     {
+        "title": "Transform your data to Amazon S3 Tables with Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/transform-your-data-to-amazon-s3-tables-with-amazon-athena/"
+    },
+    {
+        "title": "Export JMX metrics from Kafka connectors in Amazon Managed Streaming for Apache Kafka Connect with a custom plugin",
+        "link": "https://aws.amazon.com/blogs/big-data/export-jmx-metrics-from-kafka-connectors-in-amazon-managed-streaming-for-apache-kafka-connect-with-a-custom-plugin/"
+    },
+    {
         "title": "Cluster manager communication simplified with Remote Publication",
         "link": "https://aws.amazon.com/blogs/big-data/cluster-manager-communication-simplified-with-remote-publication/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use Databricks Unity Catalog Open APIs for Spark workloads on Amazon EMR",
         "link": "https://aws.amazon.com/blogs/big-data/use-databricks-unity-catalog-open-apis-for-spark-workloads-on-amazon-emr/"
-    },
-    {
-        "title": "Trusted identity propagation using IAM Identity Center for Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/trusted-identity-propagation-using-iam-identity-center-for-amazon-opensearch-service/"
-    },
-    {
-        "title": "Amazon OpenSearch Service 101: How many shards do I need",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-101-how-many-shards-do-i-need/"
     }
 ]

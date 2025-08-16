@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernizing healthcare data platforms for generative AI",
+        "link": "https://aws.amazon.com/blogs/industries/modernizing-healthcare-data-platforms-for-generative-ai/"
+    },
+    {
         "title": "Validate radiology reports using Amazon Nova",
         "link": "https://aws.amazon.com/blogs/industries/validate-radiology-reports-using-amazon-nova/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Resolve imperfect data with advanced rule-based fuzzy matching in AWS Entity Resolution",
         "link": "https://aws.amazon.com/blogs/industries/resolve-imperfect-data-with-advanced-rule-based-fuzzy-matching-in-aws-entity-resolution/"
-    },
-    {
-        "title": "Agentic AI for RAN optimization: Pathway to autonomous network level 5",
-        "link": "https://aws.amazon.com/blogs/industries/agentic-ai-for-ran-optimization-pathway-to-autonomous-network-level-5/"
     }
 ]
