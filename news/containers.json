@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for resilience and availability on Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/containers/best-practices-for-resilience-and-availability-on-amazon-ecs/"
+    },
+    {
         "title": "Canary delivery with Argo Rollout and Amazon VPC Lattice for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/canary-delivery-with-argo-rollout-and-amazon-vpc-lattice-for-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon EKS enables ultra scale AI/ML workloads with support for 100K nodes per cluster",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-enables-ultra-scale-ai-ml-workloads-with-support-for-100k-nodes-per-cluster/"
-    },
-    {
-        "title": "Improving Amazon ECS deployment consistency with SOCI Index Manifest v2",
-        "link": "https://aws.amazon.com/blogs/containers/improving-amazon-ecs-deployment-consistency-with-soci-index-manifest-v2/"
     }
 ]

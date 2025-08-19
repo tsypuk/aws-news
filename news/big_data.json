@@ -1,5 +1,13 @@
 [
     {
+        "title": "Guide to adopting Amazon SageMaker Unified Studio from ATPCO\u2019s Journey",
+        "link": "https://aws.amazon.com/blogs/big-data/guide-to-adopting-amazon-sagemaker-unified-studio-from-atpcos-journey/"
+    },
+    {
+        "title": "Achieve low-latency data processing with Amazon EMR on AWS Local Zones",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-low-latency-data-processing-with-amazon-emr-on-aws-local-zones/"
+    },
+    {
         "title": "Transform your data to Amazon S3 Tables with Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/transform-your-data-to-amazon-s3-tables-with-amazon-athena/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Secure generative SQL with Amazon Q",
         "link": "https://aws.amazon.com/blogs/big-data/secure-generative-sql-with-amazon-q/"
-    },
-    {
-        "title": "Optimize industrial IoT analytics with Amazon Data Firehose and Amazon S3 Tables with Apache Iceberg",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-industrial-iot-analytics-with-amazon-data-firehose-and-amazon-s3-tables-with-apache-iceberg/"
-    },
-    {
-        "title": "Use Databricks Unity Catalog Open APIs for Spark workloads on Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/use-databricks-unity-catalog-open-apis-for-spark-workloads-on-amazon-emr/"
     }
 ]

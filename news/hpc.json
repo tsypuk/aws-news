@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing \u201cdefault\u201d instance categories for AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/introducing-default-instance-categories-for-aws-batch/"
+    },
+    {
         "title": "Accelerating Aerospace Innovation: High Performance Computing (HPC) on Amazon Web Services (AWS)",
         "link": "https://aws.amazon.com/blogs/hpc/accelerating-aerospace-innovation-high-performance-computing-hpc-on-amazon-web-services-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adding functionality to your applications using multiple containers in AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/adding-functionality-to-your-applications-using-multiple-containers-in-aws-batch/"
-    },
-    {
-        "title": "Enhancing Equity Strategy Backtesting with Synthetic Data: An Agent-Based Model Approach \u2013 part 2",
-        "link": "https://aws.amazon.com/blogs/hpc/enhancing-equity-strategy-backtesting-with-synthetic-data-an-agent-based-model-approach-part-2/"
     }
 ]

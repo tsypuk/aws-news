@@ -1,5 +1,9 @@
 [
     {
+        "title": "Create a travel planning agentic workflow with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-travel-planning-agentic-workflow-with-amazon-nova/"
+    },
+    {
         "title": "Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlocking enhanced legal document review with Lexbe and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-enhanced-legal-document-review-with-lexbe-and-amazon-bedrock/"
-    },
-    {
-        "title": "Automate AIOps with SageMaker Unified Studio Projects, Part 2: Technical implementation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-aiops-with-sagemaker-unified-studio-projects-part-2-technical-implementation/"
     }
 ]

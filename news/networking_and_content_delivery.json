@@ -1,5 +1,21 @@
 [
     {
+        "title": "Enhancing Pinterest\u2019s organizational security with a DNS firewall: Part 2",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-pinterests-organizational-security-with-a-dns-firewall-part-2/"
+    },
+    {
+        "title": "Enhancing Pinterest\u2019s organizational security with a DNS firewall: Part 1",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-pinterests-organizational-security-with-a-dns-firewall-part-1/"
+    },
+    {
+        "title": "Using CloudWatch Alarms and Lambda to catch exceptional traffic",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-cloudwatch-alarms-and-lambda-to-catch-exceptional-traffic/"
+    },
+    {
+        "title": "Securing hybrid workloads using Amazon Route 53 Resolver DNS Firewall",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-hybrid-workloads-using-amazon-route-53-resolver-dns-firewall/"
+    },
+    {
         "title": "How to manage AI Bots with AWS WAF and enhance security",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-manage-ai-bots-with-aws-waf-and-enhance-security/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Design and build IPv6 internet inspection architectures on AWS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/design-and-build-ipv6-internet-inspection-architectures-on-aws/"
-    },
-    {
-        "title": "Streamline and secure access to shared services and resources with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-and-secure-access-to-shared-services-and-resources-with-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Managing DNS resolution with Amazon VPC Lattice and VPC resources",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/managing-dns-resolution-with-amazon-vpc-lattice-and-vpc-resources/"
-    },
-    {
-        "title": "Enabling out-of-band management for third-party appliances in AWS Cloud WAN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-out-of-band-management-for-third-party-appliances-in-aws-cloud-wan/"
-    },
-    {
-        "title": "CORS configuration through Amazon CloudFront",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cors-configuration-through-amazon-cloudfront/"
     }
 ]
