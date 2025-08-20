@@ -1,5 +1,9 @@
 [
     {
+        "title": "How CommBank made their CommSec trading platform highly available and operationally resilient",
+        "link": "https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/"
+    },
+    {
         "title": "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving",
         "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Smartsheet boosts developer productivity with Amazon Bedrock and Roo Code",
         "link": "https://aws.amazon.com/blogs/architecture/how-smartsheet-boosts-developer-productivity-with-amazon-bedrock-and-roo-code/"
-    },
-    {
-        "title": "Revolutionizing agricultural knowledge management using a multi-modal LLM: A reference architecture",
-        "link": "https://aws.amazon.com/blogs/architecture/revolutionizing-agricultural-knowledge-management-using-a-multi-modal-llm-a-reference-architecture/"
     }
 ]

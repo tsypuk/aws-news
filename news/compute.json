@@ -1,5 +1,9 @@
 [
     {
+        "title": "Under the hood: how AWS Lambda SnapStart optimizes function startup latency",
+        "link": "https://aws.amazon.com/blogs/compute/under-the-hood-how-aws-lambda-snapstart-optimizes-function-startup-latency/"
+    },
+    {
         "title": "Effectively building AI agents on AWS Serverless",
         "link": "https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing ODCR usage through AI-powered capacity insights",
         "link": "https://aws.amazon.com/blogs/compute/optimizing-odcr-usage-through-ai-powered-capacity-insights/"
-    },
-    {
-        "title": "Dynamically routing requests with Amazon API Gateway routing rules",
-        "link": "https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/"
     }
 ]

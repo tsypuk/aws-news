@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing the end-of-support for the AWS SDK for .NET v3",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-the-aws-sdk-for-net-v3/"
+    },
+    {
+        "title": "Announcing the end-of-support for AWS Tools for PowerShell v4",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-aws-tools-for-powershell-v4/"
+    },
+    {
         "title": "Introducing AWS Cloud Control API MCP Server: Natural Language Infrastructure Management on AWS",
         "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloud-control-api-mcp-server-natural-language-infrastructure-management-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New and improved Amazon Q Developer experience in the AWS Management Console and chat applications",
         "link": "https://aws.amazon.com/blogs/devops/new-and-improved-amazon-q-developer-experience-in-the-aws-management-console/"
-    },
-    {
-        "title": "Unlocking the power of Amazon Q Developer: Metrics-driven strategies for better AI coding",
-        "link": "https://aws.amazon.com/blogs/devops/unlocking-the-power-of-amazon-q-developer-metrics-driven-strategies-for-better-ai-coding/"
-    },
-    {
-        "title": "Amazon Q Developer CLI supports image inputs in your terminal",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-cli-supports-image-inputs-in-your-terminal/"
     }
 ]

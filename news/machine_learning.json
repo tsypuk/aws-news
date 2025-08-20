@@ -1,5 +1,21 @@
 [
     {
+        "title": "Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-access-control-and-auditing-for-amazon-sagemaker-studio-using-trusted-identity-propagation/"
+    },
+    {
+        "title": "Benchmarking document information localization with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-document-information-localization-with-amazon-nova/"
+    },
+    {
+        "title": "How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-built-a-generative-ai-solution-to-process-oil-and-gas-drilling-data-with-amazon-bedrock/"
+    },
+    {
+        "title": "Streamline employee training with an intelligent chatbot powered by Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-employee-training-with-an-intelligent-chatbot-powered-by-amazon-q-business/"
+    },
+    {
         "title": "Create a travel planning agentic workflow with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-travel-planning-agentic-workflow-with-amazon-nova/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Amazon Bedrock AgentCore Memory: Building context-aware agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-memory-building-context-aware-agents/"
-    },
-    {
-        "title": "Build a conversational natural language interface for Amazon Athena queries using Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-conversational-natural-language-interface-for-amazon-athena-queries-using-amazon-nova/"
-    },
-    {
-        "title": "Train and deploy AI models at trillion-parameter scale with Amazon SageMaker HyperPod support for P6e-GB200 UltraServers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-ai-models-at-trillion-parameter-scale-with-amazon-sagemaker-hyperpod-support-for-p6e-gb200-ultraservers/"
-    },
-    {
-        "title": "How Indegene\u2019s AI-powered social intelligence for life sciences turns social media conversations into insights",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-indegenes-ai-powered-social-intelligence-for-life-sciences-turns-social-media-conversations-into-insights/"
-    },
-    {
-        "title": "Unlocking enhanced legal document review with Lexbe and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-enhanced-legal-document-review-with-lexbe-and-amazon-bedrock/"
     }
 ]
