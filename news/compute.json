@@ -1,5 +1,9 @@
 [
     {
+        "title": "Multi-rack and multiple logical AWS Outposts architecture considerations for resiliency",
+        "link": "https://aws.amazon.com/blogs/compute/multi-rack-and-multiple-logical-aws-outposts-architecture-considerations-for-resiliency/"
+    },
+    {
         "title": "Under the hood: how AWS Lambda SnapStart optimizes function startup latency",
         "link": "https://aws.amazon.com/blogs/compute/under-the-hood-how-aws-lambda-snapstart-optimizes-function-startup-latency/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Validating event payload with Powertools for AWS Lambda (TypeScript)",
         "link": "https://aws.amazon.com/blogs/compute/validating-event-payload-with-powertools-for-aws-lambda-typescript/"
-    },
-    {
-        "title": "Optimizing ODCR usage through AI-powered capacity insights",
-        "link": "https://aws.amazon.com/blogs/compute/optimizing-odcr-usage-through-ai-powered-capacity-insights/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Zeta reduces banking incident response time by 80% with Amazon OpenSearch Service observability",
+        "link": "https://aws.amazon.com/blogs/big-data/zeta-reduces-banking-incident-response-time-by-80-with-amazon-opensearch-service-observability/"
+    },
+    {
+        "title": "Build enterprise-scale log ingestion pipelines with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/build-enterprise-scale-log-ingestion-pipelines-with-amazon-opensearch-service/"
+    },
+    {
         "title": "Improve Amazon EMR HBase availability and tail latency using generational ZGC",
         "link": "https://aws.amazon.com/blogs/big-data/improve-amazon-emr-hbase-availability-and-tail-latency-using-generational-zgc/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate data lineage in Amazon SageMaker using AWS Glue Crawlers supported data sources",
         "link": "https://aws.amazon.com/blogs/big-data/automate-data-lineage-in-amazon-sagemaker-using-aws-glue-crawlers-supported-data-sources/"
-    },
-    {
-        "title": "Accelerate your data quality journey for lakehouse architecture with Amazon SageMaker, Apache Iceberg on AWS, Amazon S3 tables, and AWS Glue Data Quality",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-quality-journey-for-lakehouse-architecture-with-amazon-sagemaker-apache-iceberg-on-aws-amazon-s3-tables-and-aws-glue-data-quality/"
-    },
-    {
-        "title": "Build an analytics pipeline that is resilient to Avro schema changes using Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/build-an-analytics-pipeline-that-is-resilient-to-avro-schema-changes-using-amazon-athena/"
     }
 ]

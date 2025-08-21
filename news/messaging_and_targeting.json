@@ -1,5 +1,9 @@
 [
     {
+        "title": "A Complete Guide to Resource Sharing for AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-complete-guide-to-resource-sharing-for-aws-end-user-messaging/"
+    },
+    {
         "title": "Improve email deliverability with tenant management in Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improve-email-deliverability-with-tenant-management-in-amazon-ses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Visually build telephony applications with AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/visually-build-telephony-applications-with-aws-step-functions/"
-    },
-    {
-        "title": "How to Register a Sender ID Using APIs with AWS End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-register-a-sender-id-using-apis-with-aws-end-user-messaging/"
     }
 ]
