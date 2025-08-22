@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate to Amazon EKS: Data plane cost modeling with Karpenter and KWOK",
+        "link": "https://aws.amazon.com/blogs/containers/migrate-to-amazon-eks-data-plane-cost-modeling-with-karpenter-and-kwok/"
+    },
+    {
         "title": "Best practices for resilience and availability on Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/best-practices-for-resilience-and-availability-on-amazon-ecs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Under the hood: Amazon EKS ultra scale clusters",
         "link": "https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-ultra-scale-clusters/"
-    },
-    {
-        "title": "Amazon EKS enables ultra scale AI/ML workloads with support for 100K nodes per cluster",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-enables-ultra-scale-ai-ml-workloads-with-support-for-100k-nodes-per-cluster/"
     }
 ]

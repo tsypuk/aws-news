@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building resilient and secure game backends with Amazon CloudFront",
+        "link": "https://aws.amazon.com/blogs/gametech/building-resilient-and-secure-game-backends-with-amazon-cloudfront/"
+    },
+    {
         "title": "Level up data-driven player insights with the updated Game Analytics Pipeline",
         "link": "https://aws.amazon.com/blogs/gametech/level-up-data-driven-player-insights-with-the-updated-game-analytics-pipeline/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build High-Performance Unreal Engine Studios with Rem\u0101ngu 2.0 and AWS",
         "link": "https://aws.amazon.com/blogs/gametech/build-high-performance-unreal-engine-studios-with-remangu-2-0-and-aws/"
-    },
-    {
-        "title": "Faster multiplayer hosting with containers on Amazon GameLift Servers",
-        "link": "https://aws.amazon.com/blogs/gametech/faster-multiplayer-hosting-with-containers-on-amazon-gamelift-servers/"
     }
 ]

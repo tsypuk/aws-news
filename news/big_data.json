@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon SageMaker Catalog expands discoverability and governance for Amazon S3 general purpose buckets",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-catalog-expands-discoverability-and-governance-for-amazon-s3-general-purpose-buckets/"
+    },
+    {
         "title": "Zeta reduces banking incident response time by 80% with Amazon OpenSearch Service observability",
         "link": "https://aws.amazon.com/blogs/big-data/zeta-reduces-banking-incident-response-time-by-80-with-amazon-opensearch-service-observability/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize traffic costs of Amazon MSK consumers on Amazon EKS with rack awareness",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-traffic-costs-of-amazon-msk-consumers-on-amazon-eks-with-rack-awareness/"
-    },
-    {
-        "title": "Automate data lineage in Amazon SageMaker using AWS Glue Crawlers supported data sources",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-data-lineage-in-amazon-sagemaker-using-aws-glue-crawlers-supported-data-sources/"
     }
 ]

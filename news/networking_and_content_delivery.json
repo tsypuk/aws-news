@@ -1,5 +1,21 @@
 [
     {
+        "title": "Best Practices to Optimize Failover Times for Overlay Tunnels on AWS Direct Connect",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-to-optimize-failover-times-for-overlay-tunnels-on-aws-direct-connect/"
+    },
+    {
+        "title": "Streamlining RISE with SAP Connectivity using AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamlining-rise-with-sap-connectivity-using-aws-cloud-wan/"
+    },
+    {
+        "title": "Secure internet-based access to SaaS PrivateLink endpoints using AWS Verified Access",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-internet-based-access-to-saas-privatelink-endpoints-using-aws-verified-access/"
+    },
+    {
+        "title": "Accelerate your Cloud Strategy with Megaport\u2019s 25 Gbps Hosted AWS Direct Connect",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/accelerate-your-cloud-strategy-with-megaports-25-gbps-hosted-aws-direct-connect/"
+    },
+    {
         "title": "Best Buy Health\u2019s Resilient Care Centers powered by AWS Cloud WAN and SD-WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-buy-healths-resilient-care-centers-powered-by-aws-cloud-wan-and-sd-wan/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Building secure multicloud access with AWS Client VPN and AWS Site-to-Site VPN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-secure-multicloud-access-with-aws-client-vpn-and-aws-site-to-site-vpn/"
-    },
-    {
-        "title": "Addressing private IPv4 exhaustion with AWS Cloud WAN service insertion",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/addressing-private-ipv4-exhaustion-with-aws-cloud-wan-service-insertion/"
-    },
-    {
-        "title": "Securing Service Communications: Combining VPC Lattice with Network Firewall",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-service-communications-combining-vpc-lattice-with-network-firewall/"
-    },
-    {
-        "title": "Introducing security group referencing and enhanced DNS support for AWS Cloud WAN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-security-group-referencing-and-enhanced-dns-support-for-aws-cloud-wan/"
-    },
-    {
-        "title": "Introducing new application layer (L7) DDoS protections for AWS WAF and AWS Shield Advanced customers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-the-aws-waf-application-layer-ddos-protection/"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Fine-tune OpenAI GPT-OSS models using Amazon SageMaker HyperPod recipes",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-using-amazon-sagemaker-hyperpod-recipes/"
+    },
+    {
+        "title": "Inline code nodes now supported in Amazon Bedrock Flows in public preview",
+        "link": "https://aws.amazon.com/blogs/machine-learning/inline-code-nodes-now-supported-in-amazon-bedrock-flows-in-public-preview/"
+    },
+    {
+        "title": "Accelerate enterprise AI implementations with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-implementations-with-amazon-q-business/"
+    },
+    {
+        "title": "Speed up delivery of ML workloads using Code Editor in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/speed-up-delivery-of-ml-workloads-using-code-editor-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "How Infosys Topaz leverages Amazon Bedrock to transform technical help desk operations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-topaz-leverages-amazon-bedrock-to-transform-technical-help-desk-operations/"
+    },
+    {
         "title": "Create personalized products and marketing campaigns using Amazon Nova in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-personalized-products-and-marketing-campaigns-using-amazon-nova-in-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Whiteboard to cloud in minutes using Amazon Q, Amazon Bedrock Data Automation, and Model Context Protocol",
         "link": "https://aws.amazon.com/blogs/machine-learning/whiteboard-to-cloud-in-minutes-using-amazon-q-amazon-bedrock-data-automation-and-model-context-protocol/"
-    },
-    {
-        "title": "Bringing agentic Retrieval Augmented Generation to Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bringing-agentic-retrieval-augmented-generation-to-amazon-q-business/"
-    },
-    {
-        "title": "Empowering students with disabilities: University Startups\u2019 generative AI solution for personalized student pathways",
-        "link": "https://aws.amazon.com/blogs/machine-learning/empowering-students-with-disabilities-university-startups-generative-ai-solution-for-personalized-student-pathways/"
-    },
-    {
-        "title": "Citations with Amazon Nova understanding models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/citations-with-amazon-nova-understanding-models/"
-    },
-    {
-        "title": "Securely launch and scale your agents and tools on Amazon Bedrock AgentCore Runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securely-launch-and-scale-your-agents-and-tools-on-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "PwC and AWS Build Responsible AI with Automated Reasoning on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pwc-and-aws-build-responsible-ai-with-automated-reasoning-on-amazon-bedrock/"
     }
 ]
