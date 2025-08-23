@@ -1,9 +1,5 @@
 [
     {
-        "title": "AWS IoT Services Alignment with the European Union Cyber Resilience Act (EU CRA)",
-        "link": "https://aws.amazon.com/blogs/iot/eu-cra/"
-    },
-    {
         "title": "Preventing Machine Breakdowns: How Physical AI Predicts Equipment Problems",
         "link": "https://aws.amazon.com/blogs/iot/preventing-machine-breakdowns-how-physical-ai-predicts-equipment-problems/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Building Smart Industrial Machines with AWS: A Comprehensive Guide",
         "link": "https://aws.amazon.com/blogs/iot/building-smart-industrial-machines-with-aws-iot-a-comprehensive-guide/"
+    },
+    {
+        "title": "Synthetic IoT Security Data using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/iot/synthetic-iot-security-data-using-amazon-bedrock/"
     }
 ]

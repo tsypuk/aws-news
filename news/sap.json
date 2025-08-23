@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating SAP HANA DB HA Patch using SSM and nZDT",
+        "link": "https://aws.amazon.com/blogs/awsforsap/automating-sap-hana-db-ha-patch-using-ssm-and-nzdt/"
+    },
+    {
         "title": "SAP Cloud ERP and SAP BTP Now Available on AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-cloud-erp-and-sap-btp-now-available-on-aws-marketplace/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Harness Amazon Bedrock Agents to Manage SAP Instances",
         "link": "https://aws.amazon.com/blogs/awsforsap/harness-amazon-bedrock-agents-to-manage-sap-instances/"
-    },
-    {
-        "title": "AI-Powered Football Match Analysis: SAP Sports One on AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/ai-powered-football-match-analysis-sap-sports-one-on-aws/"
     }
 ]

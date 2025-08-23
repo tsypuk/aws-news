@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Redshift Serverless at 4 RPUs: High-value analytics at low cost",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-serverless-at-4-rpus-high-value-analytics-at-low-cost/"
+    },
+    {
         "title": "Amazon SageMaker Catalog expands discoverability and governance for Amazon S3 general purpose buckets",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-catalog-expands-discoverability-and-governance-for-amazon-s3-general-purpose-buckets/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon\u00a0Redshift out-of-the-box performance innovations for data lake queries",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-out-of-the-box-performance-innovations-for-data-lake-queries/"
-    },
-    {
-        "title": "Optimize traffic costs of Amazon MSK consumers on Amazon EKS with rack awareness",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-traffic-costs-of-amazon-msk-consumers-on-amazon-eks-with-rack-awareness/"
     }
 ]
