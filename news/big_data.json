@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for migrating Teradata BTEQ scripts to Amazon Redshift RSQL",
+        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-teradata-bteq-scripts-to-amazon-redshift-rsql/"
+    },
+    {
         "title": "Amazon Redshift Serverless at 4 RPUs: High-value analytics at low cost",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-serverless-at-4-rpus-high-value-analytics-at-low-cost/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Near real-time streaming analytics on protobuf with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/near-real-time-streaming-analytics-on-protobuf-with-amazon-redshift/"
-    },
-    {
-        "title": "Amazon\u00a0Redshift out-of-the-box performance innovations for data lake queries",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-out-of-the-box-performance-innovations-for-data-lake-queries/"
     }
 ]

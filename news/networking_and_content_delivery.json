@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implementing fine-grained Amazon Route 53 access using AWS IAM condition keys (Part 1)",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-fine-grained-amazon-route-53-access-using-aws-iam-condition-keys-part-1/"
+    },
+    {
+        "title": "Streamline hybrid DNS management using Amazon Route 53 Resolver endpoints delegation",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-hybrid-dns-management-using-amazon-route-53-resolver-endpoints-delegation/"
+    },
+    {
         "title": "Best Practices to Optimize Failover Times for Overlay Tunnels on AWS Direct Connect",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-to-optimize-failover-times-for-overlay-tunnels-on-aws-direct-connect/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Boost application performance: Amazon CloudFront enables HTTPS record",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/boost-application-performance-amazon-cloudfront-enables-https-record/"
-    },
-    {
-        "title": "Scaling your hybrid DNS setup with Amazon Route 53 Resolver endpoint metrics",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-your-hybrid-dns-setup-with-amazon-route-53-resolver-endpoint-metrics/"
-    },
-    {
-        "title": "Building secure multicloud access with AWS Client VPN and AWS Site-to-Site VPN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-secure-multicloud-access-with-aws-client-vpn-and-aws-site-to-site-vpn/"
     }
 ]

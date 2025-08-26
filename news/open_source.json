@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS joins the DocumentDB project to build interoperable, open source document database technology",
+        "link": "https://aws.amazon.com/blogs/opensource/aws-joins-the-documentdb-project-to-build-interoperable-open-source-document-database-technology/"
+    },
+    {
         "title": "Open Protocols for Agent Interoperability Part 4: Inter-Agent Communication on A2A",
         "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-4-inter-agent-communication-on-a2a/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving API performance at Sonar with Lambda SnapStart and Micronaut",
         "link": "https://aws.amazon.com/blogs/opensource/improving-api-performance-at-sonar-with-lambda-snapstart-and-micronaut/"
-    },
-    {
-        "title": "AWS CDK is splitting Construct Library and CLI",
-        "link": "https://aws.amazon.com/blogs/opensource/aws-cdk-is-splitting-construct-library-and-cli/"
     }
 ]
