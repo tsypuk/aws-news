@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Local Device Emulator for Verbatim Circuits on Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-local-device-emulator-for-verbatim-circuits-on-amazon-braket/"
+    },
+    {
         "title": "Amazon Braket introduces program sets enabling customers to run quantum programs up to 24x faster",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-introduces-program-sets-enabling-customers-to-run-quantum-programs-up-to-24x-faster/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Improve quantum workload performance with Q-CTRL\u2019s Fire Opal error suppression for IonQ processors on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/improve-quantum-workload-performance-with-fire-opal-error-suppression-for-ionq-processors-on-amazon-braket/"
-    },
-    {
-        "title": "How to run CUDA-Q programs on Amazon Braket notebook instances",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/how-to-run-cuda-q-programs-on-amazon-braket-notebook-instances/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Learn how Amazon Health Services improved discovery in Amazon search using AWS ML and gen AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-health-services-improved-discovery-in-amazon-search-using-aws-ml-and-gen-ai/"
+    },
+    {
         "title": "Enhance Geospatial Analysis and GIS Workflows with Amazon Bedrock Capabilities",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-geospatial-analysis-and-gis-workflows-with-amazon-bedrock-capabilities/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a scalable containerized web application on AWS using the MERN stack with Amazon Q Developer \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-scalable-containerized-web-application-on-aws-using-the-mern-stack-with-amazon-q-developer-part-1/"
-    },
-    {
-        "title": "Optimizing Salesforce\u2019s model endpoints with Amazon SageMaker AI inference components",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-salesforces-model-endpoints-with-amazon-sagemaker-ai-inference-components/"
     }
 ]

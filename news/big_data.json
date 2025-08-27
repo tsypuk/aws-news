@@ -1,5 +1,13 @@
 [
     {
+        "title": "How AppZen enhances operational efficiency, scalability, and security with Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/how-appzen-enhances-operational-efficiency-scalability-and-security-with-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "Zero-ETL: How AWS is tackling data integration challenges",
+        "link": "https://aws.amazon.com/blogs/big-data/zero-etl-how-aws-is-tackling-data-integration-challenges/"
+    },
+    {
         "title": "Best practices for migrating Teradata BTEQ scripts to Amazon Redshift RSQL",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-teradata-bteq-scripts-to-amazon-redshift-rsql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Integrate scientific data management and analytics with the next generation of Amazon SageMaker, Part 1",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-scientific-data-management-and-analytics-with-the-next-generation-of-amazon-sagemaker-part-1/"
-    },
-    {
-        "title": "Develop and deploy a generative AI application using Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/develop-and-deploy-a-generative-ai-application-using-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Near real-time streaming analytics on protobuf with Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/near-real-time-streaming-analytics-on-protobuf-with-amazon-redshift/"
     }
 ]

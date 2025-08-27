@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing advanced AWS Graviton adoption strategies across AWS Regions",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-advanced-aws-graviton-adoption-strategies-across-aws-regions/"
+    },
+    {
         "title": "Multi-rack and multiple logical AWS Outposts architecture considerations for resiliency",
         "link": "https://aws.amazon.com/blogs/compute/multi-rack-and-multiple-logical-aws-outposts-architecture-considerations-for-resiliency/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Linux 2023 achieves FIPS 140-3 validation",
         "link": "https://aws.amazon.com/blogs/compute/amazon-linux-2023-achieves-fips-140-3-validation/"
-    },
-    {
-        "title": "Validating event payload with Powertools for AWS Lambda (TypeScript)",
-        "link": "https://aws.amazon.com/blogs/compute/validating-event-payload-with-powertools-for-aws-lambda-typescript/"
     }
 ]

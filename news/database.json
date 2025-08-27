@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Timestream for InfluxDB: Expanding managed open source time series databases for data-driven insights and real-time decision making",
+        "link": "https://aws.amazon.com/blogs/database/amazon-timestream-for-influxdb-expanding-managed-open-source-time-series-databases-for-data-driven-insights-and-real-time-decision-making/"
+    },
+    {
+        "title": "How Global Payments Inc. improved their tail latency using request hedging with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/how-global-payments-inc-improved-their-tail-latency-using-request-hedging-with-amazon-dynamodb/"
+    },
+    {
         "title": "4.7 times better write query price-performance with AWS Graviton4 R8g instances using Amazon Neptune v1.4.5",
         "link": "https://aws.amazon.com/blogs/database/4-7-times-better-write-query-price-performance-with-aws-graviton4-r8g-instances-using-amazon-neptune-v1-4-5/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Improve PostgreSQL performance: Diagnose and mitigate lock manager contention",
         "link": "https://aws.amazon.com/blogs/database/improve-postgresql-performance-diagnose-and-mitigate-lock-manager-contention/"
-    },
-    {
-        "title": "Assess and migrate your database using AWS DMS Schema Conversion CLI",
-        "link": "https://aws.amazon.com/blogs/database/assess-and-migrate-your-database-using-aws-dms-schema-conversion-cli/"
-    },
-    {
-        "title": "Enable Kerberos Authentication with Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/enable-kerberos-authentication-with-amazon-rds-for-db2/"
     }
 ]
