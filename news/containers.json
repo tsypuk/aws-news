@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Seekable OCI Parallel\u00a0Pull mode for Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/introducing-seekable-oci-parallel-pull-mode-for-amazon-eks/"
+    },
+    {
         "title": "Migrate to Amazon EKS: Data plane cost modeling with Karpenter and KWOK",
         "link": "https://aws.amazon.com/blogs/containers/migrate-to-amazon-eks-data-plane-cost-modeling-with-karpenter-and-kwok/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Deep dive into cluster networking for Amazon EKS Hybrid Nodes",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-cluster-networking-for-amazon-eks-hybrid-nodes/"
-    },
-    {
-        "title": "Under the hood: Amazon EKS ultra scale clusters",
-        "link": "https://aws.amazon.com/blogs/containers/under-the-hood-amazon-eks-ultra-scale-clusters/"
     }
 ]

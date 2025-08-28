@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate database migration using virtual target mode in AWS DMS Schema Conversion",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-database-migration-using-virtual-target-mode-in-aws-dms-schema-conversion/"
+    },
+    {
         "title": "Amazon Timestream for InfluxDB: Expanding managed open source time series databases for data-driven insights and real-time decision making",
         "link": "https://aws.amazon.com/blogs/database/amazon-timestream-for-influxdb-expanding-managed-open-source-time-series-databases-for-data-driven-insights-and-real-time-decision-making/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Extended Support for Amazon ElastiCache version 4 and version 5 for Redis OSS",
         "link": "https://aws.amazon.com/blogs/database/introducing-extended-support-for-amazon-elasticache-version-4-and-version-5-for-redis-oss/"
-    },
-    {
-        "title": "Improve PostgreSQL performance: Diagnose and mitigate lock manager contention",
-        "link": "https://aws.amazon.com/blogs/database/improve-postgresql-performance-diagnose-and-mitigate-lock-manager-contention/"
     }
 ]

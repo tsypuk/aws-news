@@ -1,5 +1,9 @@
 [
     {
+        "title": "Advanced analytics using Amazon CloudWatch Logs Insights",
+        "link": "https://aws.amazon.com/blogs/mt/advanced-analytics-using-amazon-cloudwatch-logs-insights/"
+    },
+    {
         "title": "Enhance your AIOps: Introducing Amazon CloudWatch and Application Signals MCP servers",
         "link": "https://aws.amazon.com/blogs/mt/enhance-your-aiops-introducing-amazon-cloudwatch-and-application-signals-mcp-servers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New: AWS CloudTrail Lake Event Enrichment: Add Business Context to AWS Activity Logs",
         "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-lake-now-supports-event-enrichment-add-business-context-to-your-aws-activity-logs/"
-    },
-    {
-        "title": "Visualizing Amazon DynamoDB data with Amazon OpenSearch Service and Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/mt/visualizing-amazon-dynamodb-data-with-amazon-opensearch-service-and-amazon-managed-grafana/"
     }
 ]

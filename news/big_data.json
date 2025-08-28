@@ -1,5 +1,17 @@
 [
     {
+        "title": "Modernize Amazon Redshift authentication by migrating user management to AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/big-data/modernize-amazon-redshift-authentication-by-migrating-user-management-to-aws-iam-identity-center/"
+    },
+    {
+        "title": "Implement fine-grained access control using Amazon OpenSearch Service and JSON Web Tokens",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-fine-grained-access-control-using-amazon-opensearch-service-and-json-web-tokens/"
+    },
+    {
+        "title": "How Ancestry optimizes a 100-billion-row Iceberg table",
+        "link": "https://aws.amazon.com/blogs/big-data/how-ancestry-optimizes-a-100-billion-row-iceberg-table/"
+    },
+    {
         "title": "How AppZen enhances operational efficiency, scalability, and security with Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/how-appzen-enhances-operational-efficiency-scalability-and-security-with-amazon-opensearch-serverless/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Boosting search relevance: Automatic semantic enrichment in Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/boosting-search-relevance-automatic-semantic-enrichment-in-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Create an OpenSearch dashboard with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/create-an-opensearch-dashboard-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Build a multi-tenant healthcare system with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-multi-tenant-healthcare-system-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Integrate scientific data management and analytics with the next generation of Amazon SageMaker, Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-scientific-data-management-and-analytics-with-the-next-generation-of-amazon-sagemaker-part-1/"
     }
 ]
