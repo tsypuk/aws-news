@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating the Quantum Toolkit for Python (QuTiP) with cuQuantum on AWS",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/accelerating-the-quantum-toolkit-for-python-qutip-with-cuquantum-on-aws/"
+    },
+    {
         "title": "Introducing Local Device Emulator for Verbatim Circuits on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-local-device-emulator-for-verbatim-circuits-on-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Fundamental Physics Simulations with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/fundamental-physics-simulations-with-amazon-braket/"
-    },
-    {
-        "title": "Improve quantum workload performance with Q-CTRL\u2019s Fire Opal error suppression for IonQ processors on Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/improve-quantum-workload-performance-with-fire-opal-error-suppression-for-ionq-processors-on-amazon-braket/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "WestCare uses AWS to give clinicians more time to focus on healing",
+        "link": "https://aws.amazon.com/blogs/publicsector/westcare-uses-aws-to-give-clinicians-more-time-to-focus-on-healing/"
+    },
+    {
         "title": "Powering genetic rare disease diagnostics with AWS at Hannover Medical School (MHH)",
         "link": "https://aws.amazon.com/blogs/publicsector/powering-genetic-rare-disease-diagnostics-with-aws-at-hannover-medical-school-mhh/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Extracting, analyzing, and interpreting information from Medicaid forms with AWS Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/publicsector/extracting-analyzing-and-interpreting-information-from-medicaid-forms-with-aws-bedrock-data-automation/"
-    },
-    {
-        "title": "How to use life sciences data from AWS Open Data program in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-to-use-life-sciences-data-from-aws-open-data-program-in-amazon-bedrock/"
     }
 ]

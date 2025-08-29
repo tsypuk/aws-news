@@ -1,5 +1,17 @@
 [
     {
+        "title": "Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/"
+    },
+    {
+        "title": "Empowering air quality research with secure, ML-driven predictive analytics",
+        "link": "https://aws.amazon.com/blogs/machine-learning/empowering-air-quality-research-with-secure-ml-driven-predictive-analytics/"
+    },
+    {
+        "title": "How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-built-an-ai-assistant-using-amazon-bedrock-and-amazon-kendra-to-support-analysts-for-data-discovery-and-business-insights/"
+    },
+    {
         "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/mercury-foundation-models-from-inception-labs-are-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-built-a-generative-ai-solution-to-process-oil-and-gas-drilling-data-with-amazon-bedrock/"
-    },
-    {
-        "title": "Streamline employee training with an intelligent chatbot powered by Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-employee-training-with-an-intelligent-chatbot-powered-by-amazon-q-business/"
-    },
-    {
-        "title": "Create a travel planning agentic workflow with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-travel-planning-agentic-workflow-with-amazon-nova/"
-    },
-    {
-        "title": "Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/"
     }
 ]

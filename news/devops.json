@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mastering Amazon Q Developer with Rules",
+        "link": "https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-with-rules/"
+    },
+    {
         "title": "Announcing the end-of-support for the AWS SDK for .NET v3",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-the-aws-sdk-for-net-v3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing an agentic coding experience in Visual Studio and JetBrains IDEs",
         "link": "https://aws.amazon.com/blogs/devops/introducing-an-agentic-coding-experience-in-visual-studio-and-jetbrains-ides/"
-    },
-    {
-        "title": "New and improved Amazon Q Developer experience in the AWS Management Console and chat applications",
-        "link": "https://aws.amazon.com/blogs/devops/new-and-improved-amazon-q-developer-experience-in-the-aws-management-console/"
     }
 ]
