@@ -1,5 +1,17 @@
 [
     {
+        "title": "Detect Amazon Bedrock misconfigurations with Datadog Cloud Security",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/"
+    },
+    {
+        "title": "Set up custom domain names for Amazon Bedrock AgentCore Runtime agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/set-up-custom-domain-names-for-amazon-bedrock-agentcore-runtime-agents/"
+    },
+    {
+        "title": "Introducing auto scaling on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Enhance AI agents using predictive ML models with Amazon SageMaker AI and Model Context Protocol (MCP)",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-ai-agents-using-predictive-ml-models-with-amazon-sagemaker-ai-and-model-context-protocol-mcp/"
-    },
-    {
-        "title": "Simplify access control and auditing for Amazon SageMaker Studio using trusted identity propagation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-access-control-and-auditing-for-amazon-sagemaker-studio-using-trusted-identity-propagation/"
-    },
-    {
-        "title": "Benchmarking document information localization with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-document-information-localization-with-amazon-nova/"
-    },
-    {
-        "title": "How Infosys built a generative AI solution to process oil and gas drilling data with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-infosys-built-a-generative-ai-solution-to-process-oil-and-gas-drilling-data-with-amazon-bedrock/"
     }
 ]

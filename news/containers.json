@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing usage and security reporting for Amazon ECR",
+        "link": "https://aws.amazon.com/blogs/containers/implementing-usage-and-security-reporting-for-amazon-ecr/"
+    },
+    {
         "title": "Introducing Seekable OCI Parallel\u00a0Pull mode for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/introducing-seekable-oci-parallel-pull-mode-for-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Centralized Amazon ECS task logging with Amazon OpenSearch",
         "link": "https://aws.amazon.com/blogs/containers/centralized-amazon-ecs-task-logging-with-amazon-opensearch/"
-    },
-    {
-        "title": "Deep dive into cluster networking for Amazon EKS Hybrid Nodes",
-        "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-cluster-networking-for-amazon-eks-hybrid-nodes/"
     }
 ]
