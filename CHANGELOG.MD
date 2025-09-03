@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-09-020.1.0) - 2025-09-02
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-09-030.1.0) - 2025-09-03
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/0ec96be8e857ee11b22311ecdff6a34176b857da...ver-2025-09-02)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/4347d221f53bd379f2f9112aaaccd3ddd136be11...ver-2025-09-03)</small>
 
 ### Docs
 
-- updated AWS news - aws_news,internet_of_things - 2025-09-02 ([6490d9b](https://github.com/tsypuk/aws-news/commit/6490d9b844b140ba5f729b9704341e33b20d12b3) by Roman Tsypuk).
+- updated AWS news - aws_partner_network,big_data,containers,database,industries,machine_learning,networking_and_content_delivery,public_sector,quantum_computing,storage - 2025-09-03 ([02582db](https://github.com/tsypuk/aws-news/commit/02582db7e661820b3eace6e0e85dfa17a9aae13d) by Roman Tsypuk).
 
