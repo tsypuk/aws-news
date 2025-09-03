@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use account-agnostic, reusable project profiles in Amazon SageMaker to streamline governance",
+        "link": "https://aws.amazon.com/blogs/big-data/use-account-agnostic-reusable-project-profiles-in-amazon-sagemaker-to-streamline-governance/"
+    },
+    {
+        "title": "Deploy Apache YuniKorn batch scheduler for Amazon EMR on EKS",
+        "link": "https://aws.amazon.com/blogs/big-data/deploy-apache-yunikorn-batch-scheduler-for-amazon-emr-on-eks/"
+    },
+    {
         "title": "The Amazon SageMaker Lakehouse Architecture now supports Tag-Based Access Control for federated catalogs",
         "link": "https://aws.amazon.com/blogs/big-data/the-amazon-sagemaker-lakehouse-architecture-now-supports-tag-based-access-control-for-federated-catalogs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhance Amazon EMR observability with automated incident mitigation using Amazon Bedrock and Amazon Managed Grafana",
         "link": "https://aws.amazon.com/blogs/big-data/enhance-amazon-emr-observability-with-automated-incident-mitigation-using-amazon-bedrock-and-amazon-managed-grafana/"
-    },
-    {
-        "title": "Build data pipelines with dbt in Amazon Redshift using Amazon MWAA and Cosmos",
-        "link": "https://aws.amazon.com/blogs/big-data/build-data-pipelines-with-dbt-in-amazon-redshift-using-amazon-mwaa-and-cosmos/"
-    },
-    {
-        "title": "The Amazon SageMaker lakehouse architecture now automates optimization configuration of Apache Iceberg tables on Amazon S3",
-        "link": "https://aws.amazon.com/blogs/big-data/the-amazon-sagemaker-lakehouse-architecture-now-automates-optimization-configuration-of-apache-iceberg-tables-on-amazon-s3/"
     }
 ]

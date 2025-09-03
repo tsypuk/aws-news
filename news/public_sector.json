@@ -1,5 +1,13 @@
 [
     {
+        "title": "Driving public sector innovation: Building a data lakehouse and analytics platform on AWS for public housing",
+        "link": "https://aws.amazon.com/blogs/publicsector/driving-public-sector-innovation-building-a-data-lakehouse-and-analytics-platform-on-aws-for-public-housing/"
+    },
+    {
+        "title": "Updated conformance packs for Australian government security frameworks",
+        "link": "https://aws.amazon.com/blogs/publicsector/updated-conformance-packs-for-australian-government-security-frameworks/"
+    },
+    {
         "title": "WestCare uses AWS to give clinicians more time to focus on healing",
         "link": "https://aws.amazon.com/blogs/publicsector/westcare-uses-aws-to-give-clinicians-more-time-to-focus-on-healing/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "UC Merced automates document data extraction to support research using Amazon Bedrock LLMs",
         "link": "https://aws.amazon.com/blogs/publicsector/uc-merced-automates-document-data-extraction-to-support-research-using-amazon-bedrock-llms/"
-    },
-    {
-        "title": "Optimizing database backup strategy: How Service NSW achieved 70% cost reduction with AWS Backup",
-        "link": "https://aws.amazon.com/blogs/publicsector/optimizing-database-backup-strategy-how-service-nsw-achieved-70-cost-reduction-with-aws-backup/"
-    },
-    {
-        "title": "Extracting, analyzing, and interpreting information from Medicaid forms with AWS Bedrock Data Automation",
-        "link": "https://aws.amazon.com/blogs/publicsector/extracting-analyzing-and-interpreting-information-from-medicaid-forms-with-aws-bedrock-data-automation/"
     }
 ]

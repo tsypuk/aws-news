@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Strangeworks is using Amazon Braket to explore the aircraft cargo loading problem",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/how-strangeworks-is-using-amazon-braket-to-explore-the-aircraft-cargo-loading-problem/"
+    },
+    {
         "title": "Accelerating the Quantum Toolkit for Python (QuTiP) with cuQuantum on AWS",
         "link": "https://aws.amazon.com/blogs/quantum-computing/accelerating-the-quantum-toolkit-for-python-qutip-with-cuquantum-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Modeling a nitrogen-vacancy center with NVIDIA CUDA-Q Dynamics: University of Washington Capstone Project",
         "link": "https://aws.amazon.com/blogs/quantum-computing/modeling-a-nitrogen-vacancy-center-with-nvidia-cuda-q-dynamics-university-of-washington-capstone-project/"
-    },
-    {
-        "title": "Fundamental Physics Simulations with Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/fundamental-physics-simulations-with-amazon-braket/"
     }
 ]

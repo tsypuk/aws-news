@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating Amazon RDS and Amazon Aurora recommendations via notification with AWS Lambda, Amazon EventBridge, and Amazon SES",
+        "link": "https://aws.amazon.com/blogs/database/automating-amazon-rds-and-amazon-aurora-recommendations-via-notification-with-aws-lambda-amazon-eventbridge-and-amazon-ses/"
+    },
+    {
         "title": "Accelerate database migration using virtual target mode in AWS DMS Schema Conversion",
         "link": "https://aws.amazon.com/blogs/database/accelerate-database-migration-using-virtual-target-mode-in-aws-dms-schema-conversion/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the Amazon DynamoDB data modeling MCP tool",
         "link": "https://aws.amazon.com/blogs/database/introducing-the-amazon-dynamodb-data-modeling-mcp-tool/"
-    },
-    {
-        "title": "Introducing Extended Support for Amazon ElastiCache version 4 and version 5 for Redis OSS",
-        "link": "https://aws.amazon.com/blogs/database/introducing-extended-support-for-amazon-elasticache-version-4-and-version-5-for-redis-oss/"
     }
 ]
