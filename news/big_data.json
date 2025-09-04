@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deep dive into the Amazon Managed Service for Apache Fink application lifecycle \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/part-2-deep-dive-into-the-amazon-managed-service-for-apache-fink-application-lifecycle/"
+    },
+    {
+        "title": "Deep dive into the Amazon Managed Service for Apache Fink application lifecycle \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/big-data/part-1-deep-dive-into-the-amazon-managed-service-for-apache-fink-application-lifecycle/"
+    },
+    {
         "title": "Use account-agnostic, reusable project profiles in Amazon SageMaker to streamline governance",
         "link": "https://aws.amazon.com/blogs/big-data/use-account-agnostic-reusable-project-profiles-in-amazon-sagemaker-to-streamline-governance/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Export JMX metrics from Kafka connectors in Amazon Managed Streaming for Apache Kafka Connect with a custom plugin",
         "link": "https://aws.amazon.com/blogs/big-data/export-jmx-metrics-from-kafka-connectors-in-amazon-managed-streaming-for-apache-kafka-connect-with-a-custom-plugin/"
-    },
-    {
-        "title": "Cluster manager communication simplified with Remote Publication",
-        "link": "https://aws.amazon.com/blogs/big-data/cluster-manager-communication-simplified-with-remote-publication/"
-    },
-    {
-        "title": "Enhance Amazon EMR observability with automated incident mitigation using Amazon Bedrock and Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/big-data/enhance-amazon-emr-observability-with-automated-incident-mitigation-using-amazon-bedrock-and-amazon-managed-grafana/"
     }
 ]

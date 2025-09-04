@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dynamic Kubernetes request right sizing with Kubecost",
+        "link": "https://aws.amazon.com/blogs/containers/dynamic-kubernetes-request-right-sizing-with-kubecost/"
+    },
+    {
         "title": "Unlocking next-generation AI performance with Dynamic Resource Allocation on Amazon EKS and Amazon EC2 P6e-GB200",
         "link": "https://aws.amazon.com/blogs/containers/unlocking-next-generation-ai-performance-with-dynamic-resource-allocation-on-amazon-eks-and-amazon-ec2-p6e-gb200/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Streamline service-to-service communication during deployments with Amazon ECS Service Connect",
         "link": "https://aws.amazon.com/blogs/containers/streamline-service-to-service-communication-during-deployments-with-amazon-ecs-service-connect/"
-    },
-    {
-        "title": "Scaling beyond IPv4: integrating IPv6 Amazon EKS clusters into existing Istio Service Mesh",
-        "link": "https://aws.amazon.com/blogs/containers/scaling-beyond-ipv4-integrating-ipv6-amazon-eks-clusters-into-existing-istio-service-mesh/"
     }
 ]

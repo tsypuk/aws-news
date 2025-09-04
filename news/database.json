@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scale read operations with Amazon Timestream for InfluxDB read replicas",
+        "link": "https://aws.amazon.com/blogs/database/scale-read-operations-with-amazon-timestream-for-influxdb-read-replicas/"
+    },
+    {
         "title": "Automating Amazon RDS and Amazon Aurora recommendations via notification with AWS Lambda, Amazon EventBridge, and Amazon SES",
         "link": "https://aws.amazon.com/blogs/database/automating-amazon-rds-and-amazon-aurora-recommendations-via-notification-with-aws-lambda-amazon-eventbridge-and-amazon-ses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Clari achieved 50% cost savings with Amazon Aurora I/O-Optimized",
         "link": "https://aws.amazon.com/blogs/database/how-clari-achieved-50-cost-savings-with-amazon-aurora-i-o-optimized/"
-    },
-    {
-        "title": "Introducing the Amazon DynamoDB data modeling MCP tool",
-        "link": "https://aws.amazon.com/blogs/database/introducing-the-amazon-dynamodb-data-modeling-mcp-tool/"
     }
 ]

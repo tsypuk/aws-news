@@ -1,5 +1,9 @@
 [
     {
+        "title": "Microsoft Teams optimization for Amazon WorkSpaces is now in Public Preview",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/microsoft-teams-optimization-for-amazon-workspaces-is-now-in-public-preview/"
+    },
+    {
         "title": "Introducing an Improved BYOL Image Import Process for Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/introducing-an-improved-byol-image-import-process-for-amazon-workspaces/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identifying Amazon WorkSpaces clients in your environment that are approaching end of life (EOL)",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/identifying-amazon-workspaces-clients-in-your-environment-that-are-approaching-end-of-life-eol/"
-    },
-    {
-        "title": "Visualize Amazon WorkSpaces Utilization With Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/visualize-amazon-workspaces-utilization-with-amazon-quicksight/"
     }
 ]

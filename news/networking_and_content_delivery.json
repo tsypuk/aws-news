@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon CloudFront now supports IPv6 origins for end-to-end IPv6 delivery",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-now-supports-ipv6-origins-for-end-to-end-ipv6-delivery/"
+    },
+    {
         "title": "AWS Site-to-Site VPN: secure pre-shared key (PSK) Management with AWS Secrets Manager",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-secure-pre-shared-key-psk-management-with-aws-secrets-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining multi-VPC DNS management with Amazon Route 53 Profiles and interface VPC endpoint integration",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamlining-multi-vpc-dns-management-with-amazon-route-53-profiles-and-interface-vpc-endpoint-integration/"
-    },
-    {
-        "title": "AWS Direct Connect Layer 1 Explained: From Data Centers to Cloud Connectivity",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-direct-connect-layer-1-explained-from-data-centers-to-cloud-connectivity/"
     }
 ]

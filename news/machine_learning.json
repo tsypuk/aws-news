@@ -1,5 +1,17 @@
 [
     {
+        "title": "Authenticate Amazon Q Business data accessors using a trusted token issuer",
+        "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-amazon-q-business-data-accessors-using-a-trusted-token-issuer/"
+    },
+    {
+        "title": "Unlocking the future of professional services: How Proofpoint uses Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-future-of-professional-services-how-proofpoint-uses-amazon-q-business/"
+    },
+    {
+        "title": "Enhancing LLM accuracy with Coveo Passage Retrieval on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-llm-accuracy-with-coveo-passage-retrieval-on-amazon-bedrock/"
+    },
+    {
         "title": "Train and deploy models on Amazon SageMaker HyperPod using the new HyperPod CLI and SDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-models-on-amazon-sagemaker-hyperpod-using-the-new-hyperpod-cli-and-sdk/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Accelerate intelligent document processing with generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/"
-    },
-    {
-        "title": "Amazon SageMaker HyperPod enhances ML infrastructure with scalability and customizability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-hyperpod-enhances-ml-infrastructure-with-scalability-and-customizability/"
-    },
-    {
-        "title": "Fine-tune OpenAI GPT-OSS models using Amazon SageMaker HyperPod recipes",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-using-amazon-sagemaker-hyperpod-recipes/"
-    },
-    {
-        "title": "Inline code nodes now supported in Amazon Bedrock Flows in public preview",
-        "link": "https://aws.amazon.com/blogs/machine-learning/inline-code-nodes-now-supported-in-amazon-bedrock-flows-in-public-preview/"
     }
 ]

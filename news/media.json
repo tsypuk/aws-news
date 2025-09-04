@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Systems Manager Run Command now supports interpolating parameters into environment variables",
+        "link": "https://aws.amazon.com/blogs/mt/aws-systems-manager-run-command-now-supports-interpolating-parameters-into-environment-variables/"
+    },
+    {
         "title": "Advanced analytics using Amazon CloudWatch Logs Insights",
         "link": "https://aws.amazon.com/blogs/mt/advanced-analytics-using-amazon-cloudwatch-logs-insights/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Exporting a subset of AWS CloudTrail Lake events to Amazon S3",
         "link": "https://aws.amazon.com/blogs/mt/exporting-a-subset-of-aws-cloudtrail-lake-events-to-amazon-s3/"
-    },
-    {
-        "title": "New: AWS CloudTrail Lake Event Enrichment: Add Business Context to AWS Activity Logs",
-        "link": "https://aws.amazon.com/blogs/mt/announcing-aws-cloudtrail-lake-now-supports-event-enrichment-add-business-context-to-your-aws-activity-logs/"
     }
 ]
