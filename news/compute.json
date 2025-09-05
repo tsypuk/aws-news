@@ -1,5 +1,13 @@
 [
     {
+        "title": "Serverless generative AI architectural patterns \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/compute/part-2-serverless-generative-ai-architectural-patterns/"
+    },
+    {
+        "title": "Serverless generative AI architectural patterns \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-generative-ai-architectural-patterns/"
+    },
+    {
         "title": "Implementing advanced AWS Graviton adoption strategies across AWS Regions",
         "link": "https://aws.amazon.com/blogs/compute/implementing-advanced-aws-graviton-adoption-strategies-across-aws-regions/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Running and optimizing small language models on-premises and at the edge",
         "link": "https://aws.amazon.com/blogs/compute/running-and-optimizing-small-language-models-on-premises-and-at-the-edge/"
-    },
-    {
-        "title": "Networking of Amazon MQ for RabbitMQ event source mapping for AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/networking-of-amazon-mq-for-rabbitmq-event-source-mapping-for-aws-lambda/"
-    },
-    {
-        "title": "Amazon Linux 2023 achieves FIPS 140-3 validation",
-        "link": "https://aws.amazon.com/blogs/compute/amazon-linux-2023-achieves-fips-140-3-validation/"
     }
 ]

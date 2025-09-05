@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reduce your Amazon ElastiCache costs by up to 60% with Valkey and CUDOS",
+        "link": "https://aws.amazon.com/blogs/database/reduce-your-amazon-elasticache-costs-by-up-to-60-with-valkey-and-cudos/"
+    },
+    {
+        "title": "Getting started with Amazon EC2 bare metal instances for Amazon RDS for Oracle and Amazon RDS Custom for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/getting-started-with-amazon-ec2-bare-metal-instances-for-amazon-rds-for-oracle-and-amazon-rds-custom-for-oracle/"
+    },
+    {
         "title": "Scale read operations with Amazon Timestream for InfluxDB read replicas",
         "link": "https://aws.amazon.com/blogs/database/scale-read-operations-with-amazon-timestream-for-influxdb-read-replicas/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplify data integration using zero-ETL from Amazon RDS to Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/database/simplify-data-integration-using-zero-etl-from-amazon-rds-to-amazon-redshift/"
-    },
-    {
-        "title": "Automate conversion of Oracle SQL to PostgreSQL inside Java applications with AWS SCT",
-        "link": "https://aws.amazon.com/blogs/database/automate-conversion-of-oracle-sql-to-postgresql-inside-java-applications-with-aws-sct/"
-    },
-    {
-        "title": "How Clari achieved 50% cost savings with Amazon Aurora I/O-Optimized",
-        "link": "https://aws.amazon.com/blogs/database/how-clari-achieved-50-cost-savings-with-amazon-aurora-i-o-optimized/"
     }
 ]

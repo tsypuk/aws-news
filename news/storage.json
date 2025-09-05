@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enforcing organization-wide Amazon S3 bucket-tagging policies",
+        "link": "https://aws.amazon.com/blogs/storage/enforcing-organization-wide-amazon-s3-bucket-tagging-policies/"
+    },
+    {
         "title": "Efficiently verify Amazon S3 data at scale with compute checksum operation",
         "link": "https://aws.amazon.com/blogs/storage/efficiently-verify-amazon-s3-data-at-scale-with-compute-checksum-operation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve recovery resilience with AWS Backup support for Multi-party approval",
         "link": "https://aws.amazon.com/blogs/storage/improve-recovery-resilience-with-aws-backup-support-for-multi-party-approval/"
-    },
-    {
-        "title": "KKCompany saves 93% on data storage by migrating music streaming services to AWS",
-        "link": "https://aws.amazon.com/blogs/storage/kkcompany-saves-93-on-data-storage-by-migrating-music-streaming-services-to-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building geolocation verification for iGaming and sports betting on AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/building-geolocation-verification-for-igaming-and-sports-betting-on-aws/"
+    },
+    {
         "title": "Building resilient and secure game backends with Amazon CloudFront",
         "link": "https://aws.amazon.com/blogs/gametech/building-resilient-and-secure-game-backends-with-amazon-cloudfront/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "6 lessons game developers can learn from Epic Games\u2019 cloud governance strategy",
         "link": "https://aws.amazon.com/blogs/gametech/6-lessons-game-developers-can-learn-from-epic-games-cloud-governance-strategy/"
-    },
-    {
-        "title": "Build High-Performance Unreal Engine Studios with Rem\u0101ngu 2.0 and AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/build-high-performance-unreal-engine-studios-with-remangu-2-0-and-aws/"
     }
 ]

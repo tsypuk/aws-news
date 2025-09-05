@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernizing financial services: Cloud and AI opportunities",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/modernizing-financial-services-cloud-and-ai-opportunities/"
+    },
+    {
         "title": "How to enhance government security with CIS Hardened Images in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-enhance-government-security-with-cis-hardened-images-on-aws-marketplace/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to get organization-wide visibility into AWS Marketplace purchases",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-get-organization-wide-visibility-into-aws-marketplace-purchases/"
-    },
-    {
-        "title": "Optimize Amazon VPC Flow Logs analysis with Cribl Stream sampling",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/optimize-amazon-vpc-flow-logs-analysis-with-cribl-stream-sampling/"
     }
 ]

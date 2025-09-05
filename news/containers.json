@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to run AI model inference with GPUs on Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/how-to-run-ai-model-inference-with-gpus-on-amazon-eks-auto-mode/"
+    },
+    {
         "title": "Dynamic Kubernetes request right sizing with Kubecost",
         "link": "https://aws.amazon.com/blogs/containers/dynamic-kubernetes-request-right-sizing-with-kubecost/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Testing network resilience of AWS Fargate workloads on Amazon ECS using AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/containers/testing-network-resilience-of-aws-fargate-workloads-on-amazon-ecs-using-aws-fault-injection-service/"
-    },
-    {
-        "title": "Streamline service-to-service communication during deployments with Amazon ECS Service Connect",
-        "link": "https://aws.amazon.com/blogs/containers/streamline-service-to-service-communication-during-deployments-with-amazon-ecs-service-connect/"
     }
 ]
