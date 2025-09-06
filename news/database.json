@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automating vector embedding generation in Amazon Aurora PostgreSQL with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/automating-vector-embedding-generation-in-amazon-aurora-postgresql-with-amazon-bedrock/"
+    },
+    {
+        "title": "Group database tables under AWS Database Migration Service tasks for PostgreSQL source engine",
+        "link": "https://aws.amazon.com/blogs/database/group-database-tables-under-aws-database-migration-service-tasks-for-postgresql-source-engine/"
+    },
+    {
         "title": "Reduce your Amazon ElastiCache costs by up to 60% with Valkey and CUDOS",
         "link": "https://aws.amazon.com/blogs/database/reduce-your-amazon-elasticache-costs-by-up-to-60-with-valkey-and-cudos/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Scaling transaction peaks: Juspay\u2019s approach using Amazon ElastiCache",
         "link": "https://aws.amazon.com/blogs/database/scaling-transaction-peaks-juspays-approach-using-amazon-elasticache/"
-    },
-    {
-        "title": "How Wiz achieved near-zero downtime for Amazon Aurora PostgreSQL major version upgrades at scale using Aurora Blue/Green Deployments",
-        "link": "https://aws.amazon.com/blogs/database/how-wiz-achieved-near-zero-downtime-for-amazon-aurora-postgresql-major-version-upgrades-at-scale-using-aurora-blue-green-deployments/"
-    },
-    {
-        "title": "Simplify data integration using zero-ETL from Amazon RDS to Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/database/simplify-data-integration-using-zero-etl-from-amazon-rds-to-amazon-redshift/"
     }
 ]

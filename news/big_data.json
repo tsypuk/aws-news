@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieve full control over your data encryption using customer managed keys in Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-full-control-over-your-data-encryption-using-customer-managed-keys-in-amazon-managed-service-for-apache-flink/"
+    },
+    {
         "title": "Deep dive into the Amazon Managed Service for Apache Flink application lifecycle \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/deep-dive-into-the-amazon-managed-service-for-apache-flink-application-lifecycle-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transform your data to Amazon S3 Tables with Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/transform-your-data-to-amazon-s3-tables-with-amazon-athena/"
-    },
-    {
-        "title": "Export JMX metrics from Kafka connectors in Amazon Managed Streaming for Apache Kafka Connect with a custom plugin",
-        "link": "https://aws.amazon.com/blogs/big-data/export-jmx-metrics-from-kafka-connectors-in-amazon-managed-streaming-for-apache-kafka-connect-with-a-custom-plugin/"
     }
 ]
