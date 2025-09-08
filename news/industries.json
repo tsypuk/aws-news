@@ -1,5 +1,9 @@
 [
     {
+        "title": "How NetoAI trained a Telecom-specific large language model using Amazon SageMaker and AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/industries/how-netoai-trained-a-telecom-specific-large-language-model-using-amazon-sagemaker-and-aws-trainium/"
+    },
+    {
         "title": "Addressing grid capacity constraints with GETs",
         "link": "https://aws.amazon.com/blogs/industries/addressing-grid-capacity-constraints-with-gets/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Federated learning-based protein language models with Apheris on AWS",
         "link": "https://aws.amazon.com/blogs/industries/federated-learning-based-protein-language-models-with-apheris-on-aws/"
-    },
-    {
-        "title": "Cloud Adoption Update for Financial Market Infrastructure Providers 1H25",
-        "link": "https://aws.amazon.com/blogs/industries/cloud-adoption-update-for-financial-market-infrastructure-providers-1h25/"
     }
 ]
