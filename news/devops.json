@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing an Interactive Code Review Experience with Amazon Q Developer in GitHub",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-an-interactive-code-review-experience-with-amazon-q-developer-in-github/"
+    },
+    {
         "title": "Measuring Developer Productivity with Amazon Q Developer and Jellyfish",
         "link": "https://aws.amazon.com/blogs/devops/measuring-developer-productivity-with-amazon-q-developer-and-jellyfish/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Access Claude Sonnet 4 in Amazon Q Developer CLI",
         "link": "https://aws.amazon.com/blogs/devops/access-claude-sonnet-4-in-amazon-q-developer-cli/"
-    },
-    {
-        "title": "Streamline your Eclipse workflows with Amazon Q Developer, now generally available",
-        "link": "https://aws.amazon.com/blogs/devops/streamline-your-eclipse-workflows-with-amazon-q-developer-now-generally-available/"
     }
 ]

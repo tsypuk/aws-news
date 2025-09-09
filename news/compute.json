@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building resilient multi-Region Serverless applications on AWS",
+        "link": "https://aws.amazon.com/blogs/compute/building-resilient-multi-region-serverless-applications-on-aws/"
+    },
+    {
         "title": "Serverless generative AI architectural patterns \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/compute/part-2-serverless-generative-ai-architectural-patterns/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS Lambda native support for Avro and Protobuf formatted Apache Kafka events",
         "link": "https://aws.amazon.com/blogs/compute/introducing-aws-lambda-native-support-for-avro-and-protobuf-formatted-apache-kafka-events/"
-    },
-    {
-        "title": "Running and optimizing small language models on-premises and at the edge",
-        "link": "https://aws.amazon.com/blogs/compute/running-and-optimizing-small-language-models-on-premises-and-at-the-edge/"
     }
 ]

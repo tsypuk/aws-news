@@ -1,5 +1,9 @@
 [
     {
+        "title": "How a customer reduced storage TCO by 28% with Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/how-a-customer-reduced-storage-tco-by-28-with-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Enforcing organization-wide Amazon S3 bucket-tagging policies",
         "link": "https://aws.amazon.com/blogs/storage/enforcing-organization-wide-amazon-s3-bucket-tagging-policies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cloud-powered tick data: revolutionizing financial data storage with Amazon S3 and LSEG",
         "link": "https://aws.amazon.com/blogs/storage/cloud-powered-tick-data-revolutionizing-financial-data-storage-with-amazon-s3-and-lseg/"
-    },
-    {
-        "title": "Improve recovery resilience with AWS Backup support for Multi-party approval",
-        "link": "https://aws.amazon.com/blogs/storage/improve-recovery-resilience-with-aws-backup-support-for-multi-party-approval/"
     }
 ]

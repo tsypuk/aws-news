@@ -1,5 +1,21 @@
 [
     {
+        "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/"
+    },
+    {
+        "title": "Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-scale-adoption-of-ai-agents-for-education-with-strands-agents-amazon-bedrock-agentcore-and-librechat/"
+    },
+    {
+        "title": "Skai uses Amazon Bedrock Agents to significantly improve customer insights by revolutionized data access and analysis",
+        "link": "https://aws.amazon.com/blogs/machine-learning/skai-uses-amazon-bedrock-agents-to-significantly-improve-customer-insights-by-revolutionized-data-access-and-analysis/"
+    },
+    {
+        "title": "The power of AI in driving personalized product discovery at Snoonu",
+        "link": "https://aws.amazon.com/blogs/machine-learning/the-power-of-ai-in-driving-personalized-product-discovery-at-snoonu/"
+    },
+    {
         "title": "Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-hpc-and-ai-research-in-universities-with-amazon-sagemaker-hyperpod/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Introducing auto scaling on Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Meet Boti: The AI assistant transforming how the citizens of Buenos Aires access government information with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/meet-boti-the-ai-assistant-transforming-how-the-citizens-of-buenos-aires-access-government-information-with-amazon-bedrock/"
-    },
-    {
-        "title": "Empowering air quality research with secure, ML-driven predictive analytics",
-        "link": "https://aws.amazon.com/blogs/machine-learning/empowering-air-quality-research-with-secure-ml-driven-predictive-analytics/"
-    },
-    {
-        "title": "How Amazon Finance built an AI assistant using Amazon Bedrock and Amazon Kendra to support analysts for data discovery and business insights",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-built-an-ai-assistant-using-amazon-bedrock-and-amazon-kendra-to-support-analysts-for-data-discovery-and-business-insights/"
-    },
-    {
-        "title": "Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mercury-foundation-models-from-inception-labs-are-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Introducing enhanced AI assistance in Amazon SageMaker Unified Studio: Agentic chat, Amazon Q Developer CLI, and MCP integration",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-enhanced-ai-assistance-in-amazon-sagemaker-unified-studio-agentic-chat-amazon-q-developer-cli-and-mcp-integration/"
+    },
+    {
+        "title": "Introducing restricted classification terms for governed classification in Amazon SageMaker Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-restricted-classification-terms-for-governed-classification-in-amazon-sagemaker-catalog/"
+    },
+    {
+        "title": "Announcing SageMaker Unified Studio Workshops for Financial Services",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-sagemaker-unified-studio-workshops-for-financial-services/"
+    },
+    {
+        "title": "Accelerate AWS Glue Zero-ETL data ingestion using Salesforce Bulk API",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-aws-glue-zero-etl-data-ingestion-using-salesforce-bulk-api/"
+    },
+    {
         "title": "Achieve full control over your data encryption using customer managed keys in Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/achieve-full-control-over-your-data-encryption-using-customer-managed-keys-in-amazon-managed-service-for-apache-flink/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build enterprise-scale log ingestion pipelines with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/build-enterprise-scale-log-ingestion-pipelines-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Improve Amazon EMR HBase availability and tail latency using generational ZGC",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-amazon-emr-hbase-availability-and-tail-latency-using-generational-zgc/"
-    },
-    {
-        "title": "Guide to adopting Amazon SageMaker Unified Studio from ATPCO\u2019s Journey",
-        "link": "https://aws.amazon.com/blogs/big-data/guide-to-adopting-amazon-sagemaker-unified-studio-from-atpcos-journey/"
-    },
-    {
-        "title": "Achieve low-latency data processing with Amazon EMR on AWS Local Zones",
-        "link": "https://aws.amazon.com/blogs/big-data/achieve-low-latency-data-processing-with-amazon-emr-on-aws-local-zones/"
-    },
-    {
-        "title": "Transform your data to Amazon S3 Tables with Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/transform-your-data-to-amazon-s3-tables-with-amazon-athena/"
     }
 ]

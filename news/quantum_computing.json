@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing BB84 Quantum Key Distribution on Amazon Braket: A practical guide",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/implementing-bb84-quantum-key-distribution-on-amazon-braket-a-practical-guide/"
+    },
+    {
         "title": "How Strangeworks is using Amazon Braket to explore the aircraft cargo loading problem",
         "link": "https://aws.amazon.com/blogs/quantum-computing/how-strangeworks-is-using-amazon-braket-to-explore-the-aircraft-cargo-loading-problem/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Experiment with dynamic circuits on IQM Garnet with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/experiment-with-dynamic-circuits-on-iqm-garnet-with-amazon-braket/"
-    },
-    {
-        "title": "Modeling a nitrogen-vacancy center with NVIDIA CUDA-Q Dynamics: University of Washington Capstone Project",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/modeling-a-nitrogen-vacancy-center-with-nvidia-cuda-q-dynamics-university-of-washington-capstone-project/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Powering Enterprise Content Ops with Gradial and Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/apn/powering-enterprise-content-ops-with-gradial-and-amazon-nova/"
+    },
+    {
         "title": "Real-Time Infrastructure Intelligence with Netdata and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/real-time-infrastructure-intelligence-with-netdata-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Partner Guide to AI Agents and Tools in AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/apn/aws-partner-guide-to-ai-agents-and-tools-in-aws-marketplace/"
-    },
-    {
-        "title": "Auto-Generate Secure and Standardized IaC for AWS services with StackGen",
-        "link": "https://aws.amazon.com/blogs/apn/auto-generate-secure-and-standardized-iac-for-aws-services-with-stackgen/"
     }
 ]
