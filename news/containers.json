@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to build highly available Kubernetes applications with Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/how-to-build-highly-available-kubernetes-applications-with-amazon-eks-auto-mode/"
+    },
+    {
         "title": "How to run AI model inference with GPUs on Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/how-to-run-ai-model-inference-with-gpus-on-amazon-eks-auto-mode/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simplify network connectivity using Tailscale with Amazon EKS Hybrid Nodes",
         "link": "https://aws.amazon.com/blogs/containers/simplify-network-connectivity-using-tailscale-with-amazon-eks-hybrid-nodes/"
-    },
-    {
-        "title": "Testing network resilience of AWS Fargate workloads on Amazon ECS using AWS Fault Injection Service",
-        "link": "https://aws.amazon.com/blogs/containers/testing-network-resilience-of-aws-fargate-workloads-on-amazon-ecs-using-aws-fault-injection-service/"
     }
 ]

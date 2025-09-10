@@ -1,5 +1,13 @@
 [
     {
+        "title": "Modern observability frameworks for SAP: A solution to monitoring challenges with PowerConnect and Dynatrace",
+        "link": "https://aws.amazon.com/blogs/awsforsap/modern-observability-frameworks-for-sap-a-solution-to-monitoring-challenges-with-powerconnect-and-dynatrace/"
+    },
+    {
+        "title": "AWS Blog: Simplify Deployment of SAP BTP with AWS Marketplace",
+        "link": "https://aws.amazon.com/blogs/awsforsap/aws-blog-simplify-deployment-of-sap-btp-with-aws-marketplace/"
+    },
+    {
         "title": "New \u2013 AWS Systems Manager for SAP Configuration Management: Automated Best Practice Validation for SAP HANA",
         "link": "https://aws.amazon.com/blogs/awsforsap/new-aws-systems-manager-for-sap-configuration-management-automated-best-practice-validation-for-sap-hana/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Revolutionizing SAP Application Access Security Beyond Traditional VPNs",
         "link": "https://aws.amazon.com/blogs/awsforsap/revolutionizing-sap-application-access-security-beyond-traditional-vpns/"
-    },
-    {
-        "title": "Enhance resiliency and data protection for SAP HANA high-availability deployments with Amazon Backup for SAP HANA",
-        "link": "https://aws.amazon.com/blogs/awsforsap/enhance-resiliency-and-data-protection-for-sap-hana-high-availability-deployments-with-amazon-backup-for-sap-hana/"
-    },
-    {
-        "title": "Terraform your SAP Infrastructure on AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/terraform-your-sap-infrastructure-on-aws-2/"
     }
 ]

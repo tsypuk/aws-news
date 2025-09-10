@@ -1,5 +1,13 @@
 [
     {
+        "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
+        "link": "https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/"
+    },
+    {
+        "title": "Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-model-training-with-managed-tiered-checkpointing-on-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
         "link": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Detect Amazon Bedrock misconfigurations with Datadog Cloud Security",
         "link": "https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/"
-    },
-    {
-        "title": "Set up custom domain names for Amazon Bedrock AgentCore Runtime agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/set-up-custom-domain-names-for-amazon-bedrock-agentcore-runtime-agents/"
-    },
-    {
-        "title": "Introducing auto scaling on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-auto-scaling-on-amazon-sagemaker-hyperpod/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerating local serverless development with console to IDE and remote debugging for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/accelerating-local-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/"
+    },
+    {
+        "title": "Accessing private Amazon API Gateway endpoints through custom Amazon CloudFront distribution using VPC Origins",
+        "link": "https://aws.amazon.com/blogs/compute/accessing-private-amazon-api-gateway-endpoints-through-custom-amazon-cloudfront-distribution-using-vpc-origins/"
+    },
+    {
         "title": "Building resilient multi-Region Serverless applications on AWS",
         "link": "https://aws.amazon.com/blogs/compute/building-resilient-multi-region-serverless-applications-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Serverless ICYMI Q2 2025",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2025/"
-    },
-    {
-        "title": "AWS named a Leader in the 2025 Forrester Wave: Serverless Development Platforms",
-        "link": "https://aws.amazon.com/blogs/compute/aws-named-a-leader-in-the-2025-forrester-wave-serverless-development-platforms/"
-    },
-    {
-        "title": "Introducing AWS Lambda native support for Avro and Protobuf formatted Apache Kafka events",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-aws-lambda-native-support-for-avro-and-protobuf-formatted-apache-kafka-events/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Decrease your storage costs with Amazon OpenSearch Service index rollups",
+        "link": "https://aws.amazon.com/blogs/big-data/decrease-your-storage-costs-with-amazon-opensearch-service-index-rollups/"
+    },
+    {
         "title": "Introducing enhanced AI assistance in Amazon SageMaker Unified Studio: Agentic chat, Amazon Q Developer CLI, and MCP integration",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-enhanced-ai-assistance-in-amazon-sagemaker-unified-studio-agentic-chat-amazon-q-developer-cli-and-mcp-integration/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Zeta reduces banking incident response time by 80% with Amazon OpenSearch Service observability",
         "link": "https://aws.amazon.com/blogs/big-data/zeta-reduces-banking-incident-response-time-by-80-with-amazon-opensearch-service-observability/"
-    },
-    {
-        "title": "Build enterprise-scale log ingestion pipelines with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/build-enterprise-scale-log-ingestion-pipelines-with-amazon-opensearch-service/"
     }
 ]
