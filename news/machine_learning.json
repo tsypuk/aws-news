@@ -1,5 +1,21 @@
 [
     {
+        "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Oldcastle accelerates document processing with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/oldcastle-accelerates-document-processing-with-amazon-bedrock/"
+    },
+    {
+        "title": "How London Stock Exchange Group is detecting market abuse with their AI-powered Surveillance Guide on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-london-stock-exchange-group-is-detecting-market-abuse-with-their-ai-powered-surveillance-guide-on-amazon-bedrock/"
+    },
+    {
+        "title": "Build trustworthy AI agents with Amazon Bedrock AgentCore Observability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-trustworthy-ai-agents-with-amazon-bedrock-agentcore-observability/"
+    },
+    {
         "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
         "link": "https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Natural language-based database analytics with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-based-database-analytics-with-amazon-nova/"
-    },
-    {
-        "title": "Deploy Amazon Bedrock Knowledge Bases using Terraform for RAG-based generative AI applications",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-bedrock-knowledge-bases-using-terraform-for-rag-based-generative-ai-applications/"
-    },
-    {
-        "title": "Document intelligence evolved: Building and evaluating KIE solutions that scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/document-intelligence-evolved-building-and-evaluating-kie-solutions-that-scale/"
-    },
-    {
-        "title": "Announcing the new cluster creation experience for Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-new-cluster-creation-experience-for-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Detect Amazon Bedrock misconfigurations with Datadog Cloud Security",
-        "link": "https://aws.amazon.com/blogs/machine-learning/detect-amazon-bedrock-misconfigurations-with-datadog-cloud-security/"
     }
 ]

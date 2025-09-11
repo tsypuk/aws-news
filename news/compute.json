@@ -1,5 +1,9 @@
 [
     {
+        "title": "DISA STIG for Amazon Linux 2023 is now available",
+        "link": "https://aws.amazon.com/blogs/compute/disa-stig-for-amazon-linux-2023-is-now-available/"
+    },
+    {
         "title": "Accelerating local serverless development with console to IDE and remote debugging for AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/accelerating-local-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Orchestrating document processing with AWS AppSync Events and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/compute/orchestrating-document-processing-with-aws-appsync-events-and-amazon-bedrock/"
-    },
-    {
-        "title": "Serverless ICYMI Q2 2025",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2025/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Cloud Development Kit (CDK) Launches Refactor",
+        "link": "https://aws.amazon.com/blogs/devops/aws-cloud-development-kit-cdk-launches-refactor/"
+    },
+    {
         "title": "Introducing an Interactive Code Review Experience with Amazon Q Developer in GitHub",
         "link": "https://aws.amazon.com/blogs/devops/introducing-an-interactive-code-review-experience-with-amazon-q-developer-in-github/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Q Developer Java Upgrades: A Deep Dive into the New Selective Transformation Feature",
         "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-java-upgrades-a-deep-dive-into-new-selective-transformation-feature/"
-    },
-    {
-        "title": "Access Claude Sonnet 4 in Amazon Q Developer CLI",
-        "link": "https://aws.amazon.com/blogs/devops/access-claude-sonnet-4-in-amazon-q-developer-cli/"
     }
 ]

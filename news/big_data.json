@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a streaming data mesh using Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-streaming-data-mesh-using-amazon-kinesis-data-streams/"
+    },
+    {
         "title": "Decrease your storage costs with Amazon OpenSearch Service index rollups",
         "link": "https://aws.amazon.com/blogs/big-data/decrease-your-storage-costs-with-amazon-opensearch-service-index-rollups/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon SageMaker Catalog expands discoverability and governance for Amazon S3 general purpose buckets",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-catalog-expands-discoverability-and-governance-for-amazon-s3-general-purpose-buckets/"
-    },
-    {
-        "title": "Zeta reduces banking incident response time by 80% with Amazon OpenSearch Service observability",
-        "link": "https://aws.amazon.com/blogs/big-data/zeta-reduces-banking-incident-response-time-by-80-with-amazon-opensearch-service-observability/"
     }
 ]

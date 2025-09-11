@@ -1,5 +1,9 @@
 [
     {
+        "title": "Overview of security services available in AWS Dedicated Local Zones",
+        "link": "https://aws.amazon.com/blogs/security/overview-of-security-services-available-in-aws-dedicated-local-zones/"
+    },
+    {
         "title": "Amazon disrupts watering hole campaign by Russia\u2019s APT29",
         "link": "https://aws.amazon.com/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Beyond IAM access keys: Modern authentication approaches for AWS",
         "link": "https://aws.amazon.com/blogs/security/beyond-iam-access-keys-modern-authentication-approaches-for-aws/"
-    },
-    {
-        "title": "AWS successfully completes CCAG 2024 pooled audit with European financial institutions",
-        "link": "https://aws.amazon.com/blogs/security/aws-successfully-completes-ccag-2024-pooled-audit-with-eu-financial-institutions/"
     }
 ]

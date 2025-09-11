@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing Vehicle Identification Number (VIN) with Reference ID in connected vehicle platforms with AWS IoT",
+        "link": "https://aws.amazon.com/blogs/iot/securing-vehicle-identification-number-with-reference-id-in-connected-vehicle-platforms-with-aws-iot/"
+    },
+    {
         "title": "AWS IoT Services Alignment with the European Union Cyber Resilience Act (EU CRA)",
         "link": "https://aws.amazon.com/blogs/iot/eu-cra/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing end-of-life for Fleet Hub feature of AWS IoT Device Management, effective October 18th, 2025",
         "link": "https://aws.amazon.com/blogs/iot/announcing-end-of-life-for-aws-iot-device-management-fleet-hub-effective-october-18th-2025/"
-    },
-    {
-        "title": "Building Smart Industrial Machines with AWS: A Comprehensive Guide",
-        "link": "https://aws.amazon.com/blogs/iot/building-smart-industrial-machines-with-aws-iot-a-comprehensive-guide/"
     }
 ]
