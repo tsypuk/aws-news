@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implement network connectivity patterns for Oracle Database@AWS",
+        "link": "https://aws.amazon.com/blogs/database/implement-network-connectivity-patterns-for-oracle-databaseaws/"
+    },
+    {
         "title": "Data consistency with AWS DMS data resync",
         "link": "https://aws.amazon.com/blogs/database/data-consistency-with-aws-dms-data-resync/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhanced throttling observability in Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/enhanced-throttling-observability-in-amazon-dynamodb/"
-    },
-    {
-        "title": "Securing Amazon Aurora DSQL: Access control best practices",
-        "link": "https://aws.amazon.com/blogs/database/securing-amazon-aurora-dsql-access-control-best-practices/"
     }
 ]

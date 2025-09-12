@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing universal installers for AWS CLI v2 on macOS",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-universal-installers-for-aws-cli-v2-on-macos/"
+    },
+    {
         "title": "AWS Cloud Development Kit (CDK) Launches Refactor",
         "link": "https://aws.amazon.com/blogs/devops/aws-cloud-development-kit-cdk-launches-refactor/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Model Context Protocol with Amazon Q Developer for context-aware IDE workflows",
         "link": "https://aws.amazon.com/blogs/devops/use-model-context-protocol-with-amazon-q-developer-for-context-aware-ide-workflows/"
-    },
-    {
-        "title": "Amazon Q Developer Java Upgrades: A Deep Dive into the New Selective Transformation Feature",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-java-upgrades-a-deep-dive-into-new-selective-transformation-feature/"
     }
 ]

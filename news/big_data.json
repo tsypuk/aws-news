@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrating from API keys to service account tokens in Grafana dashboards using Terraform",
+        "link": "https://aws.amazon.com/blogs/big-data/migrating-from-api-keys-to-service-account-tokens-in-grafana-dashboards-using-terraform/"
+    },
+    {
+        "title": "Use the Amazon DataZone upgrade domain to Amazon SageMaker and expand to new SQL analytics, data processing, and AI uses cases",
+        "link": "https://aws.amazon.com/blogs/big-data/use-the-amazon-datazone-upgrade-domain-to-amazon-sagemaker-and-expand-to-new-sql-analytics-data-processing-and-ai-uses-cases/"
+    },
+    {
         "title": "Build a streaming data mesh using Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-streaming-data-mesh-using-amazon-kinesis-data-streams/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Best practices for migrating Teradata BTEQ scripts to Amazon Redshift RSQL",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-teradata-bteq-scripts-to-amazon-redshift-rsql/"
-    },
-    {
-        "title": "Amazon Redshift Serverless at 4 RPUs: High-value analytics at low cost",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-serverless-at-4-rpus-high-value-analytics-at-low-cost/"
-    },
-    {
-        "title": "Amazon SageMaker Catalog expands discoverability and governance for Amazon S3 general purpose buckets",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-catalog-expands-discoverability-and-governance-for-amazon-s3-general-purpose-buckets/"
     }
 ]

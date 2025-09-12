@@ -1,5 +1,17 @@
 [
     {
+        "title": "Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-video-understanding-with-amazon-bedrock-data-automation-and-open-set-object-detection/"
+    },
+    {
+        "title": "How Skello uses Amazon Bedrock to query data in a multi-tenant environment while keeping logical boundaries",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-skello-uses-amazon-bedrock-to-query-data-in-a-multi-tenant-environment-while-keeping-logical-boundaries/"
+    },
+    {
+        "title": "Create a private workforce on Amazon SageMaker Ground Truth with the AWS CDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-private-workforce-on-amazon-sagemaker-ground-truth-with-the-aws-cdk/"
+    },
+    {
         "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Enhancing LLM accuracy with Coveo Passage Retrieval on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-llm-accuracy-with-coveo-passage-retrieval-on-amazon-bedrock/"
-    },
-    {
-        "title": "Train and deploy models on Amazon SageMaker HyperPod using the new HyperPod CLI and SDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/train-and-deploy-models-on-amazon-sagemaker-hyperpod-using-the-new-hyperpod-cli-and-sdk/"
-    },
-    {
-        "title": "Build a serverless Amazon Bedrock batch job orchestration workflow using AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-amazon-bedrock-batch-job-orchestration-workflow-using-aws-step-functions/"
-    },
-    {
-        "title": "Natural language-based database analytics with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-based-database-analytics-with-amazon-nova/"
     }
 ]

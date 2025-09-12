@@ -1,5 +1,13 @@
 [
     {
+        "title": "Extending deployment pipelines with Amazon ECS blue green deployments and lifecycle hooks",
+        "link": "https://aws.amazon.com/blogs/containers/extending-deployment-pipelines-with-amazon-ecs-blue-green-deployments-and-lifecycle-hooks/"
+    },
+    {
+        "title": "Kubernetes right-sizing with metrics-driven GitOps automation",
+        "link": "https://aws.amazon.com/blogs/containers/kubernetes-right-sizing-with-metrics-driven-gitops-automation/"
+    },
+    {
         "title": "How to build highly available Kubernetes applications with Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/how-to-build-highly-available-kubernetes-applications-with-amazon-eks-auto-mode/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Best practices for resilience and availability on Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/best-practices-for-resilience-and-availability-on-amazon-ecs/"
-    },
-    {
-        "title": "Canary delivery with Argo Rollout and Amazon VPC Lattice for Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/canary-delivery-with-argo-rollout-and-amazon-vpc-lattice-for-amazon-eks/"
-    },
-    {
-        "title": "Simplify network connectivity using Tailscale with Amazon EKS Hybrid Nodes",
-        "link": "https://aws.amazon.com/blogs/containers/simplify-network-connectivity-using-tailscale-with-amazon-eks-hybrid-nodes/"
     }
 ]
