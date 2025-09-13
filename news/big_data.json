@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate your data and AI workflows by connecting to Amazon SageMaker Unified Studio from Visual Studio Code",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-and-ai-workflows-by-connecting-to-amazon-sagemaker-unified-studio-from-visual-studio-code/"
+    },
+    {
         "title": "Migrating from API keys to service account tokens in Grafana dashboards using Terraform",
         "link": "https://aws.amazon.com/blogs/big-data/migrating-from-api-keys-to-service-account-tokens-in-grafana-dashboards-using-terraform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Zero-ETL: How AWS is tackling data integration challenges",
         "link": "https://aws.amazon.com/blogs/big-data/zero-etl-how-aws-is-tackling-data-integration-challenges/"
-    },
-    {
-        "title": "Best practices for migrating Teradata BTEQ scripts to Amazon Redshift RSQL",
-        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-teradata-bteq-scripts-to-amazon-redshift-rsql/"
     }
 ]

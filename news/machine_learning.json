@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automate advanced agentic RAG pipeline with Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-advanced-agentic-rag-pipeline-with-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Unlock model insights with log probability support for Amazon Bedrock Custom Model Import",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-model-insights-with-log-probability-support-for-amazon-bedrock-custom-model-import/"
+    },
+    {
+        "title": "Migrate from Anthropic\u2019s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-from-anthropics-claude-3-5-sonnet-to-claude-4-sonnet-on-amazon-bedrock/"
+    },
+    {
         "title": "Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-video-understanding-with-amazon-bedrock-data-automation-and-open-set-object-detection/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build character consistent storyboards using Amazon Nova in Amazon Bedrock \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-character-consistent-storyboards-using-amazon-nova-in-amazon-bedrock-part-1/"
-    },
-    {
-        "title": "Authenticate Amazon Q Business data accessors using a trusted token issuer",
-        "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-amazon-q-business-data-accessors-using-a-trusted-token-issuer/"
-    },
-    {
-        "title": "Unlocking the future of professional services: How Proofpoint uses Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-the-future-of-professional-services-how-proofpoint-uses-amazon-q-business/"
-    },
-    {
-        "title": "Enhancing LLM accuracy with Coveo Passage Retrieval on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-llm-accuracy-with-coveo-passage-retrieval-on-amazon-bedrock/"
     }
 ]

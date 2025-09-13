@@ -1,5 +1,9 @@
 [
     {
+        "title": "Strands Agents and the Model-Driven Approach",
+        "link": "https://aws.amazon.com/blogs/opensource/strands-agents-and-the-model-driven-approach/"
+    },
+    {
         "title": "AWS joins the DocumentDB project to build interoperable, open source document database technology",
         "link": "https://aws.amazon.com/blogs/opensource/aws-joins-the-documentdb-project-to-build-interoperable-open-source-document-database-technology/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Kube Resource Orchestrator, From Experiment to Community Project",
         "link": "https://aws.amazon.com/blogs/opensource/kube-resource-orchestrator-from-experiment-to-community-project/"
-    },
-    {
-        "title": "Improving API performance at Sonar with Lambda SnapStart and Micronaut",
-        "link": "https://aws.amazon.com/blogs/opensource/improving-api-performance-at-sonar-with-lambda-snapstart-and-micronaut/"
     }
 ]
