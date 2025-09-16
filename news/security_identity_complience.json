@@ -1,5 +1,9 @@
 [
     {
+        "title": "Navigating Amazon GuardDuty protection plans and Extended Threat Detection",
+        "link": "https://aws.amazon.com/blogs/security/navigating-amazon-guardduty-protection-plans-and-extended-threat-detection/"
+    },
+    {
         "title": "Overview of security services available in AWS Dedicated Local Zones",
         "link": "https://aws.amazon.com/blogs/security/overview-of-security-services-available-in-aws-dedicated-local-zones/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Five facts about how the CLOUD Act actually works",
         "link": "https://aws.amazon.com/blogs/security/five-facts-about-how-the-cloud-act-actually-works/"
-    },
-    {
-        "title": "Beyond IAM access keys: Modern authentication approaches for AWS",
-        "link": "https://aws.amazon.com/blogs/security/beyond-iam-access-keys-modern-authentication-approaches-for-aws/"
     }
 ]
