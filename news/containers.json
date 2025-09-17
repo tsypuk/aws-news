@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating from AWS CodeDeploy to Amazon ECS for blue/green deployments",
+        "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-codedeploy-to-amazon-ecs-for-blue-green-deployments/"
+    },
+    {
         "title": "Extending deployment pipelines with Amazon ECS blue green deployments and lifecycle hooks",
         "link": "https://aws.amazon.com/blogs/containers/extending-deployment-pipelines-with-amazon-ecs-blue-green-deployments-and-lifecycle-hooks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Migrate to Amazon EKS: Data plane cost modeling with Karpenter and KWOK",
         "link": "https://aws.amazon.com/blogs/containers/migrate-to-amazon-eks-data-plane-cost-modeling-with-karpenter-and-kwok/"
-    },
-    {
-        "title": "Best practices for resilience and availability on Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/containers/best-practices-for-resilience-and-availability-on-amazon-ecs/"
     }
 ]

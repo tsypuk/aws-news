@@ -1,5 +1,13 @@
 [
     {
+        "title": "Multi-Region keys: A new approach to key replication in AWS Payment Cryptography",
+        "link": "https://aws.amazon.com/blogs/security/multi-region-keys-a-new-approach-to-key-replication-in-aws-payment-cryptography/"
+    },
+    {
+        "title": "OSPAR 2025 report now available with 170 services in scope based on the newly enhanced OSPAR v2.0 guidelines",
+        "link": "https://aws.amazon.com/blogs/security/ospar-2025-report-now-available-with-170-services-in-scope-based-on-the-newly-enhanced-ospar-v2-0-guidelines/"
+    },
+    {
         "title": "Navigating Amazon GuardDuty protection plans and Extended Threat Detection",
         "link": "https://aws.amazon.com/blogs/security/navigating-amazon-guardduty-protection-plans-and-extended-threat-detection/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New whitepaper available: AICPA SOC 2 Compliance Guide on AWS",
         "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-aicpa-soc-2-compliance-guide-on-aws/"
-    },
-    {
-        "title": "Introducing SRA Verify \u2013 an AWS Security Reference Architecture assessment tool",
-        "link": "https://aws.amazon.com/blogs/security/introducing-sra-verify-an-aws-security-reference-architecture-assessment-tool/"
-    },
-    {
-        "title": "Five facts about how the CLOUD Act actually works",
-        "link": "https://aws.amazon.com/blogs/security/five-facts-about-how-the-cloud-act-actually-works/"
     }
 ]

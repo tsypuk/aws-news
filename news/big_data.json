@@ -1,5 +1,17 @@
 [
     {
+        "title": "Get started with Amazon OpenSearch Service: T-shirt size your domain for log analytics",
+        "link": "https://aws.amazon.com/blogs/big-data/get-started-with-amazon-opensearch-service-t-shirt-size-your-domain-for-log-analytics/"
+    },
+    {
+        "title": "Amazon SageMaker introduces Amazon S3 based shared storage for enhanced project collaboration",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-introduces-amazon-s3-based-shared-storage-for-enhanced-project-collaboration/"
+    },
+    {
+        "title": "Amazon MSK Replicator and MirrorMaker2: Choosing the right replication strategy for Apache Kafka disaster recovery and migrations",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-replicator-and-mirrormaker2-choosing-the-right-replication-strategy-for-apache-kafka-disaster-recovery-and-migrations/"
+    },
+    {
         "title": "Break down data silos and seamlessly query Iceberg tables in Amazon SageMaker from Snowflake",
         "link": "https://aws.amazon.com/blogs/big-data/break-down-data-silos-and-seamlessly-query-iceberg-tables-in-amazon-sagemaker-from-snowflake/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Deploy Apache YuniKorn batch scheduler for Amazon EMR on EKS",
         "link": "https://aws.amazon.com/blogs/big-data/deploy-apache-yunikorn-batch-scheduler-for-amazon-emr-on-eks/"
-    },
-    {
-        "title": "The Amazon SageMaker Lakehouse Architecture now supports Tag-Based Access Control for federated catalogs",
-        "link": "https://aws.amazon.com/blogs/big-data/the-amazon-sagemaker-lakehouse-architecture-now-supports-tag-based-access-control-for-federated-catalogs/"
-    },
-    {
-        "title": "Modernize Amazon Redshift authentication by migrating user management to AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-amazon-redshift-authentication-by-migrating-user-management-to-aws-iam-identity-center/"
-    },
-    {
-        "title": "Implement fine-grained access control using Amazon OpenSearch Service and JSON Web Tokens",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-fine-grained-access-control-using-amazon-opensearch-service-and-json-web-tokens/"
     }
 ]
