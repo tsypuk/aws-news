@@ -1,5 +1,9 @@
 [
     {
+        "title": "Harnessing the power of AWS IoT rules with substitution templates",
+        "link": "https://aws.amazon.com/blogs/iot/unleashing-the-power-of-aws-iot-rules-substitution-templates-in-actions/"
+    },
+    {
         "title": "Securing Vehicle Identification Number (VIN) with Reference ID in connected vehicle platforms with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/securing-vehicle-identification-number-with-reference-id-in-connected-vehicle-platforms-with-aws-iot/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to digitize and automate vehicle assembly inspection process with voice-enabled AWS services",
         "link": "https://aws.amazon.com/blogs/iot/how-to-digitize-and-automate-vehicle-assembly-inspection-process-with-voice-enabled-aws-services/"
-    },
-    {
-        "title": "Announcing end-of-life for Fleet Hub feature of AWS IoT Device Management, effective October 18th, 2025",
-        "link": "https://aws.amazon.com/blogs/iot/announcing-end-of-life-for-aws-iot-device-management-fleet-hub-effective-october-18th-2025/"
     }
 ]

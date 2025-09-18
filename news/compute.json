@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance the local testing experience for serverless applications with LocalStack",
+        "link": "https://aws.amazon.com/blogs/compute/enhance-the-local-testing-experience-for-serverless-applications-with-localstack/"
+    },
+    {
         "title": "Tuning guide for AMD Amazon EC2 instances",
         "link": "https://aws.amazon.com/blogs/compute/tuning-guide-for-amd-amazon-ec2-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Infrastructure as code translation for serverless using AI code assistants",
         "link": "https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/"
-    },
-    {
-        "title": "Modernizing SOAP applications using Amazon API Gateway and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/modernizing-soap-applications-using-amazon-api-gateway-and-aws-lambda/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Raspberry Pi 5 as Amazon EKS Hybrid Nodes for edge workloads",
+        "link": "https://aws.amazon.com/blogs/containers/use-raspberry-pi-5-as-amazon-eks-hybrid-nodes-for-edge-workloads/"
+    },
+    {
         "title": "Migrating from AWS CodeDeploy to Amazon ECS for blue/green deployments",
         "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-codedeploy-to-amazon-ecs-for-blue-green-deployments/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing Seekable OCI Parallel\u00a0Pull mode for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/introducing-seekable-oci-parallel-pull-mode-for-amazon-eks/"
-    },
-    {
-        "title": "Migrate to Amazon EKS: Data plane cost modeling with Karpenter and KWOK",
-        "link": "https://aws.amazon.com/blogs/containers/migrate-to-amazon-eks-data-plane-cost-modeling-with-karpenter-and-kwok/"
     }
 ]

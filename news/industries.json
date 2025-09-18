@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reducing Mean Time to Repair (MTTR) with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/industries/reducing-mttr-with-amazon-q-business/"
+    },
+    {
+        "title": "Multi-agent collaboration using Amazon Bedrock for Telecom Network Operations",
+        "link": "https://aws.amazon.com/blogs/industries/multi-agent-collaboration-using-amazon-bedrock-for-telecom-network-operations/"
+    },
+    {
         "title": "Consolidate, modernize, transform: Edge computing for modern retail",
         "link": "https://aws.amazon.com/blogs/industries/consolidate-modernize-transform-edge-computing-for-modern-retail/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Building autonomous water utility operations with agentic AI on AWS",
         "link": "https://aws.amazon.com/blogs/industries/building-autonomous-water-utility-operations-with-agentic-ai-on-aws/"
-    },
-    {
-        "title": "Validate radiology reports using Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/industries/validate-radiology-reports-using-amazon-nova/"
-    },
-    {
-        "title": "Lotte Homeshopping Reduces Human Agent Workload by 40% with Sendbird on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/lotte-homeshopping-reduces-human-agent-workload-by-40-with-sendbird-on-aws/"
     }
 ]

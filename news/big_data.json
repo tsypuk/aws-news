@@ -1,5 +1,13 @@
 [
     {
+        "title": "Tailor Amazon SageMaker Unified Studio project environments to your needs using custom blueprints",
+        "link": "https://aws.amazon.com/blogs/big-data/tailor-amazon-sagemaker-unified-studio-project-environments-to-your-needs-using-custom-blueprints/"
+    },
+    {
+        "title": "Unlock the power of Apache Iceberg v3 deletion vectors on Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-the-power-of-apache-iceberg-v3-deletion-vectors-on-amazon-emr/"
+    },
+    {
         "title": "Get started with Amazon OpenSearch Service: T-shirt size your domain for log analytics",
         "link": "https://aws.amazon.com/blogs/big-data/get-started-with-amazon-opensearch-service-t-shirt-size-your-domain-for-log-analytics/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Deep dive into the Amazon Managed Service for Apache Flink application lifecycle \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/big-data/deep-dive-into-the-amazon-managed-service-for-apache-flink-application-lifecycle-part-1/"
-    },
-    {
-        "title": "Use account-agnostic, reusable project profiles in Amazon SageMaker to streamline governance",
-        "link": "https://aws.amazon.com/blogs/big-data/use-account-agnostic-reusable-project-profiles-in-amazon-sagemaker-to-streamline-governance/"
-    },
-    {
-        "title": "Deploy Apache YuniKorn batch scheduler for Amazon EMR on EKS",
-        "link": "https://aws.amazon.com/blogs/big-data/deploy-apache-yunikorn-batch-scheduler-for-amazon-emr-on-eks/"
     }
 ]
