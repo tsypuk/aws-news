@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing granular failover in multi-Region Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/implementing-granular-failover-in-multi-region-amazon-eks/"
+    },
+    {
         "title": "Use Raspberry Pi 5 as Amazon EKS Hybrid Nodes for edge workloads",
         "link": "https://aws.amazon.com/blogs/containers/use-raspberry-pi-5-as-amazon-eks-hybrid-nodes-for-edge-workloads/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Implementing usage and security reporting for Amazon ECR",
         "link": "https://aws.amazon.com/blogs/containers/implementing-usage-and-security-reporting-for-amazon-ecr/"
-    },
-    {
-        "title": "Introducing Seekable OCI Parallel\u00a0Pull mode for Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/introducing-seekable-oci-parallel-pull-mode-for-amazon-eks/"
     }
 ]

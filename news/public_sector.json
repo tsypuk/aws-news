@@ -1,5 +1,9 @@
 [
     {
+        "title": "Maximizing EC2 Spot Instance reliability for Nextflow on AWS Batch with Memory Machine Batch",
+        "link": "https://aws.amazon.com/blogs/publicsector/maximizing-ec2-spot-instance-reliability-for-nextflow-on-aws-batch-with-memory-machine-batch/"
+    },
+    {
         "title": "How AWS helps public sector organizations successfully exit their data centers",
         "link": "https://aws.amazon.com/blogs/publicsector/how-aws-helps-public-sector-organizations-successfully-exit-their-data-centers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Kansas State University modernizes geospatial research with Geocat on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/kansas-state-university-modernizes-geospatial-research-with-geocat-on-aws/"
-    },
-    {
-        "title": "Beyond earth\u2019s bounds: How Blue Origin is leveraging the AWS Cloud for AI-powered space exploration",
-        "link": "https://aws.amazon.com/blogs/publicsector/beyond-earths-bounds-how-blue-origin-is-leveraging-the-aws-cloud-for-ai-powered-space-exploration/"
     }
 ]

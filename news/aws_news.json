@@ -1,5 +1,13 @@
 [
     {
+        "title": "Qwen models are now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/qwen-models-are-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "DeepSeek-V3.1 model now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/deepseek-v3-1-now-available-in-amazon-bedrock/"
+    },
+    {
         "title": "AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management",
         "link": "https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-cloud-native-application-platforms-and-container-management/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "OpenAI open weight models now available on AWS",
         "link": "https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/"
-    },
-    {
-        "title": "Introducing Amazon Elastic VMware Service for running VMware Cloud Foundation on AWS",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-elastic-vmware-service-for-running-vmware-cloud-foundation-on-aws/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon DocumentDB, AWS Lambda, Amazon EC2, and more (August 4, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-documentdb-aws-lambda-amazon-ec2-and-more-august-4-2025/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Scale visual production using Stability AI Image Services in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/"
+    },
+    {
+        "title": "Prompting for precision with Stability AI Image Services in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/prompting-for-precision-with-stability-ai-image-services-in-amazon-bedrock/"
+    },
+    {
+        "title": "Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-bedrock-batch-inference-using-amazon-cloudwatch-metrics/"
+    },
+    {
+        "title": "Use AWS Deep Learning Containers with Amazon SageMaker AI managed MLflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-deep-learning-containers-with-amazon-sagemaker-ai-managed-mlflow/"
+    },
+    {
         "title": "Supercharge your organization\u2019s productivity with the Amazon Q Business browser extension",
         "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-organizations-productivity-with-the-amazon-q-business-browser-extension/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build trustworthy AI agents with Amazon Bedrock AgentCore Observability",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-trustworthy-ai-agents-with-amazon-bedrock-agentcore-observability/"
-    },
-    {
-        "title": "Powering innovation at scale: How AWS is tackling AI infrastructure challenges",
-        "link": "https://aws.amazon.com/blogs/machine-learning/powering-innovation-at-scale-how-aws-is-tackling-ai-infrastructure-challenges/"
-    },
-    {
-        "title": "Accelerate your model training with managed tiered checkpointing on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-model-training-with-managed-tiered-checkpointing-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Maximize HyperPod Cluster utilization with HyperPod task governance fine-grained quota allocation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/maximize-hyperpod-cluster-utilization-with-hyperpod-task-governance-fine-grained-quota-allocation/"
-    },
-    {
-        "title": "Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-scale-adoption-of-ai-agents-for-education-with-strands-agents-amazon-bedrock-agentcore-and-librechat/"
     }
 ]

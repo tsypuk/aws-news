@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing Capacity Blocks support for AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/announcing-capacity-blocks-support-for-aws-parallel-computing-service/"
+    },
+    {
         "title": "Introducing \u201cdefault\u201d instance categories for AWS Batch",
         "link": "https://aws.amazon.com/blogs/hpc/introducing-default-instance-categories-for-aws-batch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scale Reinforcement Learning with AWS Batch Multi-Node Parallel Jobs",
         "link": "https://aws.amazon.com/blogs/hpc/scale-reinforcement-learning-with-aws-batch-multi-node-parallel-jobs/"
-    },
-    {
-        "title": "Adding functionality to your applications using multiple containers in AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/adding-functionality-to-your-applications-using-multiple-containers-in-aws-batch/"
     }
 ]

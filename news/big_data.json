@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrate Tableau and PingFederate with Amazon Redshift using AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-tableau-and-pingfederate-with-amazon-redshift-using-aws-iam-identity-center/"
+    },
+    {
         "title": "Tailor Amazon SageMaker Unified Studio project environments to your needs using custom blueprints",
         "link": "https://aws.amazon.com/blogs/big-data/tailor-amazon-sagemaker-unified-studio-project-environments-to-your-needs-using-custom-blueprints/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deep dive into the Amazon Managed Service for Apache Flink application lifecycle \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/big-data/deep-dive-into-the-amazon-managed-service-for-apache-flink-application-lifecycle-part-2/"
-    },
-    {
-        "title": "Deep dive into the Amazon Managed Service for Apache Flink application lifecycle \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/big-data/deep-dive-into-the-amazon-managed-service-for-apache-flink-application-lifecycle-part-1/"
     }
 ]
