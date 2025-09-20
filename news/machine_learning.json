@@ -1,5 +1,9 @@
 [
     {
+        "title": "Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/move-your-ai-agents-from-proof-of-concept-to-production-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Scale visual production using Stability AI Image Services in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How London Stock Exchange Group is detecting market abuse with their AI-powered Surveillance Guide on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-london-stock-exchange-group-is-detecting-market-abuse-with-their-ai-powered-surveillance-guide-on-amazon-bedrock/"
-    },
-    {
-        "title": "Build trustworthy AI agents with Amazon Bedrock AgentCore Observability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-trustworthy-ai-agents-with-amazon-bedrock-agentcore-observability/"
     }
 ]

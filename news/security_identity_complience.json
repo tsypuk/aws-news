@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlock new possibilities: AWS Organizations service control policy now supports full IAM language",
+        "link": "https://aws.amazon.com/blogs/security/unlock-new-possibilities-aws-organizations-service-control-policy-now-supports-full-iam-language/"
+    },
+    {
+        "title": "Summer 2025 SOC 1 report is now available with 183 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/summer-2025-soc-1report-is-now-available-with-183-services-in-scope/"
+    },
+    {
         "title": "Authorizing access to data with RAG implementations",
         "link": "https://aws.amazon.com/blogs/security/authorizing-access-to-data-with-rag-implementations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Secure file sharing solutions in AWS: A security and cost analysis guide: Part 2",
         "link": "https://aws.amazon.com/blogs/security/secure-file-sharing-solutions-in-aws-a-security-and-cost-analysis-guide-part-2/"
-    },
-    {
-        "title": "Secure file sharing solutions in AWS: A security and cost analysis guide, Part 1",
-        "link": "https://aws.amazon.com/blogs/security/how-to-securely-transfer-files-with-presigned-urls/"
-    },
-    {
-        "title": "How to migrate your Amazon EC2 Oracle Transparent Data Encryption database encryption keystore to AWS CloudHSM",
-        "link": "https://aws.amazon.com/blogs/security/how-to-migrate-your-ec2-oracle-transparent-data-encryption-tde-database-encryption-wallet-to-cloudhsm/"
     }
 ]
