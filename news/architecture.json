@@ -1,5 +1,9 @@
 [
     {
+        "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
+        "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/"
+    },
+    {
         "title": "Simplify multi-tenant encryption with a cost-conscious AWS KMS key strategy",
         "link": "https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing fleet operations using Amazon SageMaker AI and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/"
-    },
-    {
-        "title": "Transforming Maya\u2019s API management with Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/architecture/transforming-mayas-api-management-with-amazon-api-gateway/"
     }
 ]

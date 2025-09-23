@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to accelerate security finding reviews using automated business context validation in AWS Security Hub",
+        "link": "https://aws.amazon.com/blogs/security/how-to-accelerate-security-finding-reviews-using-automated-business-context-validation-in-aws-security-hub/"
+    },
+    {
         "title": "Unlock new possibilities: AWS Organizations service control policy now supports full IAM language",
         "link": "https://aws.amazon.com/blogs/security/unlock-new-possibilities-aws-organizations-service-control-policy-now-supports-full-iam-language/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing Defense-in-Depth Security for AWS CodeBuild Pipelines",
         "link": "https://aws.amazon.com/blogs/security/implementing-defense-security-for-aws-codebuild-pipelines/"
-    },
-    {
-        "title": "Secure file sharing solutions in AWS: A security and cost analysis guide: Part 2",
-        "link": "https://aws.amazon.com/blogs/security/secure-file-sharing-solutions-in-aws-a-security-and-cost-analysis-guide-part-2/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "A guide to reducing waste and improving efficiency with AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/a-guide-to-reducing-waste-and-improving-efficiency-with-aws/"
+    },
+    {
+        "title": "Building resilient public sector cloud services: Why it\u2019s time to update your strategy",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-resilient-public-sector-cloud-services-why-its-time-to-update-your-strategy/"
+    },
+    {
+        "title": "Breaking down healthcare\u2019s walls with agentic AI",
+        "link": "https://aws.amazon.com/blogs/publicsector/breaking-down-healthcares-walls-with-agentic-ai/"
+    },
+    {
         "title": "Maximizing EC2 Spot Instance reliability for Nextflow on AWS Batch with Memory Machine Batch",
         "link": "https://aws.amazon.com/blogs/publicsector/maximizing-ec2-spot-instance-reliability-for-nextflow-on-aws-batch-with-memory-machine-batch/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "WestCare uses AWS to give clinicians more time to focus on healing",
         "link": "https://aws.amazon.com/blogs/publicsector/westcare-uses-aws-to-give-clinicians-more-time-to-focus-on-healing/"
-    },
-    {
-        "title": "Powering genetic rare disease diagnostics with AWS at Hannover Medical School (MHH)",
-        "link": "https://aws.amazon.com/blogs/publicsector/powering-genetic-rare-disease-diagnostics-with-aws-at-hannover-medical-school-mhh/"
-    },
-    {
-        "title": "Empowering educators: How Innovation Sandbox on AWS accelerates learning objectives through secure, cost-effective, and recyclable sandbox management",
-        "link": "https://aws.amazon.com/blogs/publicsector/empowering-educators-how-innovation-sandbox-on-aws-accelerates-learning-objectives-through-secure-cost-effective-and-recyclable-sandbox-management/"
-    },
-    {
-        "title": "Kansas State University modernizes geospatial research with Geocat on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/kansas-state-university-modernizes-geospatial-research-with-geocat-on-aws/"
     }
 ]

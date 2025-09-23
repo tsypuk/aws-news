@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/"
+    },
+    {
         "title": "Build centralized cross-Region backup architecture with AWS Control Tower",
         "link": "https://aws.amazon.com/blogs/storage/build-centralized-cross-region-backup-architecture-with-aws-control-tower/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing conversational AI for S3 Tables using Model Context Protocol (MCP)",
         "link": "https://aws.amazon.com/blogs/storage/implementing-conversational-ai-for-s3-tables-using-model-context-protocol-mcp/"
-    },
-    {
-        "title": "Cost-efficient backup archiving with Veeam Direct to Amazon S3 Glacier storage classes",
-        "link": "https://aws.amazon.com/blogs/storage/cost-efficient-backup-archiving-with-veeam-direct-to-amazon-s3-glacier-storage-classes/"
     }
 ]

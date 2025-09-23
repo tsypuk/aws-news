@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Apache Airflow workflows to orchestrate data processing on Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/use-apache-airflow-workflows-to-orchestrate-data-processing-on-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "Trellix achieved 35% cost savings and enhanced security with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/trellix-achieved-35-cost-savings-and-enhanced-security-with-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing SageMaker Unified Studio Workshops for Financial Services",
         "link": "https://aws.amazon.com/blogs/big-data/announcing-sagemaker-unified-studio-workshops-for-financial-services/"
-    },
-    {
-        "title": "Accelerate AWS Glue Zero-ETL data ingestion using Salesforce Bulk API",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-aws-glue-zero-etl-data-ingestion-using-salesforce-bulk-api/"
     }
 ]
