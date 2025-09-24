@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize security operations with AWS Security Incident Response",
+        "link": "https://aws.amazon.com/blogs/security/optimize-security-operations-with-aws-security-incident-response/"
+    },
+    {
+        "title": "Minimize risk through defense in depth: Building a comprehensive AWS control framework",
+        "link": "https://aws.amazon.com/blogs/security/minimize-risk-through-defense-in-depth-building-a-comprehensive-aws-control-framework/"
+    },
+    {
         "title": "How to accelerate security finding reviews using automated business context validation in AWS Security Hub",
         "link": "https://aws.amazon.com/blogs/security/how-to-accelerate-security-finding-reviews-using-automated-business-context-validation-in-aws-security-hub/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Malware analysis on AWS: Setting up a secure environment",
         "link": "https://aws.amazon.com/blogs/security/malware-analysis-on-aws-setting-up-a-secure-environment/"
-    },
-    {
-        "title": "Amazon EC2 defenses against L1TF Reloaded",
-        "link": "https://aws.amazon.com/blogs/security/ec2-defenses-against-l1tf-reloaded/"
-    },
-    {
-        "title": "Implementing Defense-in-Depth Security for AWS CodeBuild Pipelines",
-        "link": "https://aws.amazon.com/blogs/security/implementing-defense-security-for-aws-codebuild-pipelines/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating SQL analytics with Amazon Redshift MCP server",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerating-sql-analytics-with-amazon-redshift-mcp-server/"
+    },
+    {
         "title": "Use Apache Airflow workflows to orchestrate data processing on Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/use-apache-airflow-workflows-to-orchestrate-data-processing-on-amazon-sagemaker-unified-studio/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing restricted classification terms for governed classification in Amazon SageMaker Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-restricted-classification-terms-for-governed-classification-in-amazon-sagemaker-catalog/"
-    },
-    {
-        "title": "Announcing SageMaker Unified Studio Workshops for Financial Services",
-        "link": "https://aws.amazon.com/blogs/big-data/announcing-sagemaker-unified-studio-workshops-for-financial-services/"
     }
 ]

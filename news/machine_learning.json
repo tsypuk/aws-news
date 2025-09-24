@@ -1,5 +1,13 @@
 [
     {
+        "title": "Running deep research AI agents on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Integrate tokenization with Amazon Bedrock Guardrails for secure data handling",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-tokenization-with-amazon-bedrock-guardrails-for-secure-data-handling/"
+    },
+    {
         "title": "Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet",
         "link": "https://aws.amazon.com/blogs/machine-learning/rapid-ml-experimentation-for-enterprises-with-amazon-sagemaker-ai-and-comet/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Create a private workforce on Amazon SageMaker Ground Truth with the AWS CDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-a-private-workforce-on-amazon-sagemaker-ground-truth-with-the-aws-cdk/"
-    },
-    {
-        "title": "TII Falcon-H1 models now available on Amazon Bedrock Marketplace and Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/tii-falcon-h1-models-now-available-on-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Oldcastle accelerates document processing with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/oldcastle-accelerates-document-processing-with-amazon-bedrock/"
     }
 ]

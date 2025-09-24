@@ -1,5 +1,13 @@
 [
     {
+        "title": "Raising the bar on Amazon DynamoDB data modeling",
+        "link": "https://aws.amazon.com/blogs/database/raising-the-bar-on-amazon-dynamodb-data-modeling/"
+    },
+    {
+        "title": "Long-term storage and analysis of Amazon RDS events with Amazon S3 and Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/database/long-term-storage-and-analysis-of-amazon-rds-events-with-amazon-s3-and-amazon-athena/"
+    },
+    {
         "title": "Migrate full-text search from SQL Server to Amazon Aurora PostgreSQL-compatible edition or Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/migrate-full-text-search-from-sql-server-to-amazon-aurora-postgresql-compatible-edition-or-amazon-rds-for-postgresql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Global Payments Inc. improved their tail latency using request hedging with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/how-global-payments-inc-improved-their-tail-latency-using-request-hedging-with-amazon-dynamodb/"
-    },
-    {
-        "title": "4.7 times better write query price-performance with AWS Graviton4 R8g instances using Amazon Neptune v1.4.5",
-        "link": "https://aws.amazon.com/blogs/database/4-7-times-better-write-query-price-performance-with-aws-graviton4-r8g-instances-using-amazon-neptune-v1-4-5/"
-    },
-    {
-        "title": "Gracefully handle failed AWS Lambda events from Amazon DynamoDB Streams",
-        "link": "https://aws.amazon.com/blogs/database/gracefully-handle-failed-aws-lambda-events-from-amazon-dynamodb-streams/"
     }
 ]

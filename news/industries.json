@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlocking the value of unstructured data with Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/industries/unlocking-the-value-of-unstructured-data-with-amazon-bedrock-data-automation/"
+    },
+    {
+        "title": "Deploying a High Performance Computing solution for accurate weather and renewable energy production predictions",
+        "link": "https://aws.amazon.com/blogs/industries/deploying-a-high-performance-computing-solution-for-accurate-weather-and-renewable-energy-production-predictions/"
+    },
+    {
         "title": "Connect to automotive or manufacturing plant displays using VNC and AWS IoT Secure Tunneling",
         "link": "https://aws.amazon.com/blogs/industries/connect-to-automotive-or-manufacturing-plant-displays-using-vnc-and-aws-iot-secure-tunneling/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "How NetoAI trained a Telecom-specific large language model using Amazon SageMaker and AWS Trainium",
         "link": "https://aws.amazon.com/blogs/industries/how-netoai-trained-a-telecom-specific-large-language-model-using-amazon-sagemaker-and-aws-trainium/"
-    },
-    {
-        "title": "Addressing grid capacity constraints with GETs",
-        "link": "https://aws.amazon.com/blogs/industries/addressing-grid-capacity-constraints-with-gets/"
-    },
-    {
-        "title": "Transforming business operations with multi-agent systems: Field Workforce Safety AI Assistant",
-        "link": "https://aws.amazon.com/blogs/industries/transforming-business-operations-with-multi-agent-systems-field-workforce-safety-ai-assistant/"
     }
 ]
