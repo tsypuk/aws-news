@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize message delivery to third-party services using AWS Lambda and AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/optimize-message-delivery-to-third-party-services-using-aws-lambda-and-aws-step-functions/"
+    },
+    {
         "title": "Monitor AWS Backup Vault Lock compliance across your organization",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/monitor-aws-backup-vault-lock-compliance-across-your-organization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Save time converting Terraform templates to AWS using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-converting-terraform-templates-to-aws-using-amazon-bedrock/"
-    },
-    {
-        "title": "Reduce project delays with a docs-as-code solution",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/reduce-project-delays-with-docs-as-code-solution/"
     }
 ]

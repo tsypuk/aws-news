@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize Amazon EMR runtime for Apache Spark with EMR S3A",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-amazon-emr-runtime-for-apache-spark-with-emr-s3a/"
+    },
+    {
+        "title": "Amazon OpenSearch Serverless monitoring: A CloudWatch setup guide",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-monitoring-a-cloudwatch-setup-guide/"
+    },
+    {
         "title": "Accelerating SQL analytics with Amazon Redshift MCP server",
         "link": "https://aws.amazon.com/blogs/big-data/accelerating-sql-analytics-with-amazon-redshift-mcp-server/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Decrease your storage costs with Amazon OpenSearch Service index rollups",
         "link": "https://aws.amazon.com/blogs/big-data/decrease-your-storage-costs-with-amazon-opensearch-service-index-rollups/"
-    },
-    {
-        "title": "Introducing enhanced AI assistance in Amazon SageMaker Unified Studio: Agentic chat, Amazon Q Developer CLI, and MCP integration",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-enhanced-ai-assistance-in-amazon-sagemaker-unified-studio-agentic-chat-amazon-q-developer-cli-and-mcp-integration/"
-    },
-    {
-        "title": "Introducing restricted classification terms for governed classification in Amazon SageMaker Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-restricted-classification-terms-for-governed-classification-in-amazon-sagemaker-catalog/"
     }
 ]

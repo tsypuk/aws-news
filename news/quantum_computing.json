@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Collaborates with Chugai Pharmaceutical Co. on Quantum-Inspired and Constraint Programming Methods for Cyclic Peptide-Protein Docking",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/aws-collaborates-with-chugai-pharmaceutical-co-on-quantum-inspired-and-constraint-programming-methods-for-cyclic-peptide-protein-docking/"
+    },
+    {
         "title": "Exploring Quantum Measurements, Observables and Operators: Practical insights with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-measurements-observables-and-operators-practical-insights-with-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simulating Fluid Mechanics using Quantum Computing on Amazon Braket with Haiqu and Quanscient",
         "link": "https://aws.amazon.com/blogs/quantum-computing/simulating-fluid-mechanics-using-quantum-computing-on-amazon-braket-with-haiqu-and-quanscient/"
-    },
-    {
-        "title": "Design quantum integrated circuits with open-source software DeviceLayout.jl from AWS",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/design-quantum-integrated-circuits-with-open-source-software-devicelayout-jl-from-aws/"
     }
 ]
