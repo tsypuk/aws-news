@@ -1,5 +1,13 @@
 [
     {
+        "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 2: Failover and failback implementation)",
+        "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-2-failover-and-failback-implementation/"
+    },
+    {
+        "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 1: Architecture and network setup)",
+        "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-1-architecture-and-network-setup/"
+    },
+    {
         "title": "How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhancing FSx for Windows security: AI-powered anomaly detection",
         "link": "https://aws.amazon.com/blogs/storage/enhancing-fsx-for-windows-security-ai-powered-anomaly-detection/"
-    },
-    {
-        "title": "Copy objects between any Amazon S3 storage classes using S3 Batch Operations",
-        "link": "https://aws.amazon.com/blogs/storage/copy-objects-between-any-amazon-s3-storage-classes-using-s3-batch-operations/"
-    },
-    {
-        "title": "Implementing conversational AI for S3 Tables using Model Context Protocol (MCP)",
-        "link": "https://aws.amazon.com/blogs/storage/implementing-conversational-ai-for-s3-tables-using-model-context-protocol-mcp/"
     }
 ]

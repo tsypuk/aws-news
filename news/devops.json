@@ -1,5 +1,9 @@
 [
     {
+        "title": "Multi Agent Collaboration with Strands",
+        "link": "https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/"
+    },
+    {
         "title": "AWS named as a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants",
         "link": "https://aws.amazon.com/blogs/devops/aws-named-as-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the new AWS CDK EKS v2 L2 Constructs",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-new-aws-cdk-eks-v2-l2-constructs/"
-    },
-    {
-        "title": "Accelerate development with secure access to Amazon Q Developer using PingIdentity",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-development-with-secure-access-to-amazon-q-developer-using-pingidentity/"
     }
 ]

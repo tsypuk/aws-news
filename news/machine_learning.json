@@ -1,5 +1,17 @@
 [
     {
+        "title": "DoWhile loops now supported in Amazon Bedrock Flows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/"
+    },
+    {
+        "title": "How PropHero built an intelligent property investment advisor with continuous evaluation using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-prophero-built-an-intelligent-property-investment-advisor-with-continuous-evaluation-using-amazon-bedrock/"
+    },
+    {
+        "title": "Accelerate benefits claims processing with Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-benefits-claims-processing-with-amazon-bedrock-data-automation/"
+    },
+    {
         "title": "Running deep research AI agents on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Migrate from Anthropic\u2019s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/migrate-from-anthropics-claude-3-5-sonnet-to-claude-4-sonnet-on-amazon-bedrock/"
-    },
-    {
-        "title": "Enhance video understanding with Amazon Bedrock Data Automation and open-set object detection",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-video-understanding-with-amazon-bedrock-data-automation-and-open-set-object-detection/"
-    },
-    {
-        "title": "How Skello uses Amazon Bedrock to query data in a multi-tenant environment while keeping logical boundaries",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-skello-uses-amazon-bedrock-to-query-data-in-a-multi-tenant-environment-while-keeping-logical-boundaries/"
-    },
-    {
-        "title": "Create a private workforce on Amazon SageMaker Ground Truth with the AWS CDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-a-private-workforce-on-amazon-sagemaker-ground-truth-with-the-aws-cdk/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying Log Management using Amazon CloudWatch Logs Centralization",
+        "link": "https://aws.amazon.com/blogs/mt/simplifying-log-management-using-amazon-cloudwatch-logs-centralization/"
+    },
+    {
         "title": "Optimizing metrics ingestion with Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/optimizing-metrics-ingestion-with-amazon-managed-service-for-prometheus/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for utilizing AWS Systems Manager with AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/mt/best-practices-for-utilizing-aws-systems-manager-with-aws-fault-injection-service/"
-    },
-    {
-        "title": "Optimizing Queries with Amazon Managed Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/optimizing-queries-with-amazon-managed-prometheus/"
     }
 ]
