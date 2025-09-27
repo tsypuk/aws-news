@@ -1,5 +1,9 @@
 [
     {
+        "title": "Identifying and resolving performance issues caused by TOAST OID contention in Amazon Aurora PostgreSQL Compatible Edition and Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/identifying-and-resolving-performance-issues-caused-by-toast-oid-contention-in-amazon-aurora-postgresql-compatible-edition-and-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Implement event-driven architectures with Amazon DynamoDB \u2013 Part 3",
         "link": "https://aws.amazon.com/blogs/database/implement-event-driven-architectures-with-amazon-dynamodb-part-3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scale read operations with Amazon Timestream for InfluxDB read replicas",
         "link": "https://aws.amazon.com/blogs/database/scale-read-operations-with-amazon-timestream-for-influxdb-read-replicas/"
-    },
-    {
-        "title": "Automating Amazon RDS and Amazon Aurora recommendations via notification with AWS Lambda, Amazon EventBridge, and Amazon SES",
-        "link": "https://aws.amazon.com/blogs/database/automating-amazon-rds-and-amazon-aurora-recommendations-via-notification-with-aws-lambda-amazon-eventbridge-and-amazon-ses/"
     }
 ]

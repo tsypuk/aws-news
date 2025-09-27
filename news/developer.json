@@ -1,5 +1,9 @@
 [
     {
+        "title": "General Availability Release of the Migration Tool for the AWS SDK for Java 2.x",
+        "link": "https://aws.amazon.com/blogs/developer/general-availability-release-of-the-migration-tool-for-the-aws-sdk-for-java-2-x/"
+    },
+    {
         "title": "Preview Release of the AWS SDK Java 2.x HTTP Client built on Apache HttpClient 5.5.x",
         "link": "https://aws.amazon.com/blogs/developer/preview-release-of-theaws-sdk-java-2-x-http-client-built-on-apache-httpclient-5-5-x/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Preview 1 of AWS Tools for PowerShell V5",
         "link": "https://aws.amazon.com/blogs/developer/preview-1-of-aws-tools-for-powershell-v5/"
-    },
-    {
-        "title": "macOS 10.15 end of support for AWS CLI v2",
-        "link": "https://aws.amazon.com/blogs/developer/macos-10-15-end-of-support-for-aws-cli-v2/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling cluster manager and admin APIs in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/scaling-cluster-manager-and-admin-apis-in-amazon-opensearch-service/"
+    },
+    {
         "title": "Optimize Amazon EMR runtime for Apache Spark with EMR S3A",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-amazon-emr-runtime-for-apache-spark-with-emr-s3a/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a streaming data mesh using Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-streaming-data-mesh-using-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "Decrease your storage costs with Amazon OpenSearch Service index rollups",
-        "link": "https://aws.amazon.com/blogs/big-data/decrease-your-storage-costs-with-amazon-opensearch-service-index-rollups/"
     }
 ]

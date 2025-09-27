@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building health care agents using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "DoWhile loops now supported in Amazon Bedrock Flows",
         "link": "https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate advanced agentic RAG pipeline with Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-advanced-agentic-rag-pipeline-with-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Unlock model insights with log probability support for Amazon Bedrock Custom Model Import",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-model-insights-with-log-probability-support-for-amazon-bedrock-custom-model-import/"
-    },
-    {
-        "title": "Migrate from Anthropic\u2019s Claude 3.5 Sonnet to Claude 4 Sonnet on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-from-anthropics-claude-3-5-sonnet-to-claude-4-sonnet-on-amazon-bedrock/"
     }
 ]

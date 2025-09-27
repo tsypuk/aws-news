@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-2/"
+    },
+    {
         "title": "Extending on-premises MS SQL Server Always On Availability groups to Amazon EC2 for Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/extending-on-premises-ms-sql-server-always-on-availability-groups-to-amazon-ec2-for-disaster-recovery/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Containerize your legacy ASP.NET application in a few clicks using AWS Migration Hub Orchestrator",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-asp-net-application-using-aws-migration-hub-orchestrator/"
-    },
-    {
-        "title": "Testing 3-tier Windows app resilience on AWS with Resilience Testing",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-3-tier-windows-app-resilience-on-aws-with-resilience-testing/"
     }
 ]
