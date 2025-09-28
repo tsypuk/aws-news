@@ -1,5 +1,9 @@
 [
     {
+        "title": "SailPoint Harbor Pilot: Simplified Identity Security with Agentic AI on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/sailpoint-harbor-pilot-simplified-identity-security-with-agentic-ai-on-aws/"
+    },
+    {
         "title": "Building Serverless RAG Applications with Couchbase and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/building-serverless-rag-applications-with-couchbase-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a developer portal with Port on AWS to Boost Engineering Efficiency",
         "link": "https://aws.amazon.com/blogs/apn/building-a-developer-portal-with-port-on-aws-to-boost-engineering-efficiency/"
-    },
-    {
-        "title": "Privacy-Preserving for Federated Learning with TII PetalGuard on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/privacy-preserving-for-federated-learning-with-tii-petalguard-on-aws/"
     }
 ]
