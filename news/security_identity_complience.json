@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build secure network architectures for generative AI applications using AWS services",
+        "link": "https://aws.amazon.com/blogs/security/build-secure-network-architectures-for-generative-ai-applications-using-aws-services/"
+    },
+    {
         "title": "How to develop an AWS Security Hub POC",
         "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use scalable controls to help prevent access from unexpected networks",
         "link": "https://aws.amazon.com/blogs/security/use-scalable-controls-to-help-prevent-access-from-unexpected-networks/"
-    },
-    {
-        "title": "AWS successfully completed its 2024-25 NHS DSPT assessment",
-        "link": "https://aws.amazon.com/blogs/security/aws-successfully-completed-its-2024-25-nhs-dspt-assessment/"
     }
 ]

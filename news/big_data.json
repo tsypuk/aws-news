@@ -1,5 +1,9 @@
 [
     {
+        "title": "Search++, Going Beyond Keywords with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/search-going-beyond-keywords-with-amazon-opensearch-service/"
+    },
+    {
         "title": "Scaling cluster manager and admin APIs in Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/scaling-cluster-manager-and-admin-apis-in-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use the Amazon DataZone upgrade domain to Amazon SageMaker and expand to new SQL analytics, data processing, and AI uses cases",
         "link": "https://aws.amazon.com/blogs/big-data/use-the-amazon-datazone-upgrade-domain-to-amazon-sagemaker-and-expand-to-new-sql-analytics-data-processing-and-ai-uses-cases/"
-    },
-    {
-        "title": "Build a streaming data mesh using Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-streaming-data-mesh-using-amazon-kinesis-data-streams/"
     }
 ]

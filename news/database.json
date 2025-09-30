@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Smartsheet enhances recommendations using Amazon Neptune and Knowledge Graphs",
+        "link": "https://aws.amazon.com/blogs/database/how-smartsheet-enhances-recommendations-using-amazon-neptune-and-knowledge-graphs/"
+    },
+    {
         "title": "Identifying and resolving performance issues caused by TOAST OID contention in Amazon Aurora PostgreSQL Compatible Edition and Amazon RDS for PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/identifying-and-resolving-performance-issues-caused-by-toast-oid-contention-in-amazon-aurora-postgresql-compatible-edition-and-amazon-rds-for-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with Amazon EC2 bare metal instances for Amazon RDS for Oracle and Amazon RDS Custom for Oracle",
         "link": "https://aws.amazon.com/blogs/database/getting-started-with-amazon-ec2-bare-metal-instances-for-amazon-rds-for-oracle-and-amazon-rds-custom-for-oracle/"
-    },
-    {
-        "title": "Scale read operations with Amazon Timestream for InfluxDB read replicas",
-        "link": "https://aws.amazon.com/blogs/database/scale-read-operations-with-amazon-timestream-for-influxdb-read-replicas/"
     }
 ]

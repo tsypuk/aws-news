@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon ECS announces IPv6-only support",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-announces-ipv6-only-support/"
+    },
+    {
         "title": "Implementing granular failover in multi-Region Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/implementing-granular-failover-in-multi-region-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Unlocking next-generation AI performance with Dynamic Resource Allocation on Amazon EKS and Amazon EC2 P6e-GB200",
         "link": "https://aws.amazon.com/blogs/containers/unlocking-next-generation-ai-performance-with-dynamic-resource-allocation-on-amazon-eks-and-amazon-ec2-p6e-gb200/"
-    },
-    {
-        "title": "Implementing usage and security reporting for Amazon ECR",
-        "link": "https://aws.amazon.com/blogs/containers/implementing-usage-and-security-reporting-for-amazon-ecr/"
     }
 ]

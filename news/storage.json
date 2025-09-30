@@ -1,5 +1,9 @@
 [
     {
+        "title": "Boost testing confidence with automated Amazon RDS data replication\u00a0from production to non-production environment",
+        "link": "https://aws.amazon.com/blogs/storage/boost-testing-confidence-with-automated-rds-data-replication-from-production-to-non-production-environment/"
+    },
+    {
         "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 2: Failover and failback implementation)",
         "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-2-failover-and-failback-implementation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Faster threat detection at scale: Real-time cybersecurity graph analytics with PuppyGraph and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/faster-threat-detection-at-scale-real-time-cybersecurity-graph-analytics-with-puppygraph-and-amazon-s3-tables/"
-    },
-    {
-        "title": "Enhancing FSx for Windows security: AI-powered anomaly detection",
-        "link": "https://aws.amazon.com/blogs/storage/enhancing-fsx-for-windows-security-ai-powered-anomaly-detection/"
     }
 ]
