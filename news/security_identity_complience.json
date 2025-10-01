@@ -1,5 +1,9 @@
 [
     {
+        "title": "Defending LLM applications against Unicode character smuggling",
+        "link": "https://aws.amazon.com/blogs/security/defending-llm-applications-against-unicode-character-smuggling/"
+    },
+    {
         "title": "Build secure network architectures for generative AI applications using AWS services",
         "link": "https://aws.amazon.com/blogs/security/build-secure-network-architectures-for-generative-ai-applications-using-aws-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon disrupts watering hole campaign by Russia\u2019s APT29",
         "link": "https://aws.amazon.com/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/"
-    },
-    {
-        "title": "Use scalable controls to help prevent access from unexpected networks",
-        "link": "https://aws.amazon.com/blogs/security/use-scalable-controls-to-help-prevent-access-from-unexpected-networks/"
     }
 ]

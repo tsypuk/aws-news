@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernize fraud prevention: GraphStorm v0.5 for real-time inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/modernize-fraud-prevention-graphstorm-v0-5-for-real-time-inference/"
+    },
+    {
         "title": "Building health care agents using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How msg enhanced HR workforce transformation with Amazon Bedrock and msg.ProfileMap",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-msg-enhanced-hr-workforce-transformation-with-amazon-bedrock-and-msg-profilemap/"
-    },
-    {
-        "title": "Automate advanced agentic RAG pipeline with Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-advanced-agentic-rag-pipeline-with-amazon-sagemaker-ai/"
     }
 ]

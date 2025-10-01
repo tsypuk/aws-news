@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build resilient generative AI agents",
+        "link": "https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/"
+    },
+    {
         "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
         "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving platform resilience at Cash App",
         "link": "https://aws.amazon.com/blogs/architecture/improving-platform-resilience-at-cash-app/"
-    },
-    {
-        "title": "Optimizing fleet operations using Amazon SageMaker AI and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/architecture/optimizing-fleet-operations-using-amazon-sagemaker-ai-and-amazon-bedrock/"
     }
 ]

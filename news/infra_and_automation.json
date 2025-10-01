@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating server creation with EC2 Image Builder and AWS Systems Manager: A collaboration between AWS and Ziff Davis",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automating-server-creation-with-ec2-image-builder-and-aws-systems-manager-a-collaboration-between-aws-and-ziff-davis/"
+    },
+    {
         "title": "Optimize message delivery to third-party services using AWS Lambda and AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/optimize-message-delivery-to-third-party-services-using-aws-lambda-and-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate comprehensive data protection using AWS CloudFormation StackSets",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-comprehensive-data-protection-using-aws-cloudformation-stacksets/"
-    },
-    {
-        "title": "Save time converting Terraform templates to AWS using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/save-time-converting-terraform-templates-to-aws-using-amazon-bedrock/"
     }
 ]
