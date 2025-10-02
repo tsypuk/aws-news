@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to export to Amazon S3 Tables by using AWS Step Functions Distributed Map",
+        "link": "https://aws.amazon.com/blogs/compute/how-to-export-to-amazon-s3-tables-by-using-aws-step-functions-distributed-map/"
+    },
+    {
         "title": "Enhance the local testing experience for serverless applications with LocalStack",
         "link": "https://aws.amazon.com/blogs/compute/enhance-the-local-testing-experience-for-serverless-applications-with-localstack/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying external boot volumes with AWS Outposts",
         "link": "https://aws.amazon.com/blogs/compute/deploying-external-boot-volumes-with-aws-outposts/"
-    },
-    {
-        "title": "Infrastructure as code translation for serverless using AI code assistants",
-        "link": "https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/"
     }
 ]

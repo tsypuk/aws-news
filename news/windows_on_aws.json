@@ -1,5 +1,9 @@
 [
     {
+        "title": "Testing AWS Managed Microsoft AD Resilience using AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-aws-managed-microsoft-ad-resilience-using-aws-fault-injection-service/"
+    },
+    {
         "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Port your .NET Framework applications to Linux with AWS Transform for .NET",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/port-your-net-framework-applications-to-linux-with-aws-transform-for-net/"
-    },
-    {
-        "title": "Containerize your legacy ASP.NET application in a few clicks using AWS Migration Hub Orchestrator",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-asp-net-application-using-aws-migration-hub-orchestrator/"
     }
 ]

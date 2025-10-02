@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhance your SMB file transfer security with Kerberos and AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/enhance-your-smb-file-transfer-security-with-kerberos-and-aws-datasync/"
+    },
+    {
+        "title": "Simplify cross-account storage management with Amazon EFS and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/storage/mastering-cross-account-amazon-efs-seamlessly-mount-amazon-efs-on-amazon-eks-cluster/"
+    },
+    {
         "title": "Boost testing confidence with automated Amazon RDS data replication\u00a0from production to non-production environment",
         "link": "https://aws.amazon.com/blogs/storage/boost-testing-confidence-with-automated-rds-data-replication-from-production-to-non-production-environment/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "A highly scalable solution for data replication using Amazon FSx for NetApp ONTAP and NetApp SnapMirror",
         "link": "https://aws.amazon.com/blogs/storage/highly-scalable-solution-design-to-replicate-data-using-amazon-fsx-for-netapp-ontap-and-snapmirror/"
-    },
-    {
-        "title": "Protect Amazon Aurora DSQL clusters using AWS Backup",
-        "link": "https://aws.amazon.com/blogs/storage/protect-amazon-aurora-dsql-clusters-using-aws-backup/"
-    },
-    {
-        "title": "Faster threat detection at scale: Real-time cybersecurity graph analytics with PuppyGraph and Amazon S3 Tables",
-        "link": "https://aws.amazon.com/blogs/storage/faster-threat-detection-at-scale-real-time-cybersecurity-graph-analytics-with-puppygraph-and-amazon-s3-tables/"
     }
 ]

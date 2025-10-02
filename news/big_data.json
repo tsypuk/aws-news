@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Laravel Nightwatch handles billions of observability events in real time with Amazon MSK and ClickHouse Cloud",
+        "link": "https://aws.amazon.com/blogs/big-data/how-laravel-nightwatch-handles-billions-of-observability-events-in-real-time-with-amazon-msk-and-clickhouse-cloud/"
+    },
+    {
+        "title": "Introducing Apache Airflow 3 on Amazon MWAA: New features and capabilities",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-airflow-3-on-amazon-mwaa-new-features-and-capabilities/"
+    },
+    {
         "title": "Search++, Going Beyond Keywords with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/search-going-beyond-keywords-with-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate your data and AI workflows by connecting to Amazon SageMaker Unified Studio from Visual Studio Code",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-your-data-and-ai-workflows-by-connecting-to-amazon-sagemaker-unified-studio-from-visual-studio-code/"
-    },
-    {
-        "title": "Migrating from API keys to service account tokens in Grafana dashboards using Terraform",
-        "link": "https://aws.amazon.com/blogs/big-data/migrating-from-api-keys-to-service-account-tokens-in-grafana-dashboards-using-terraform/"
-    },
-    {
-        "title": "Use the Amazon DataZone upgrade domain to Amazon SageMaker and expand to new SQL analytics, data processing, and AI uses cases",
-        "link": "https://aws.amazon.com/blogs/big-data/use-the-amazon-datazone-upgrade-domain-to-amazon-sagemaker-and-expand-to-new-sql-analytics-data-processing-and-ai-uses-cases/"
     }
 ]
