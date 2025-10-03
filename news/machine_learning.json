@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/"
+    },
+    {
+        "title": "Accelerate development with the Amazon Bedrock AgentCore MCP server",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/"
+    },
+    {
         "title": "How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-improved-schedule-reliability-with-ml-powered-vessel-schedule-predictions-using-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build Agentic Workflows with OpenAI GPT OSS on Amazon SageMaker AI and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-workflows-with-openai-gpt-oss-on-amazon-sagemaker-ai-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Streamline access to ISO-rating content changes with Verisk rating insights and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-access-to-iso-rating-content-changes-with-verisk-rating-insights-and-amazon-bedrock/"
-    },
-    {
-        "title": "Unified multimodal access layer for Quora\u2019s Poe using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unified-multimodal-access-layer-for-quoras-poe-using-amazon-bedrock/"
     }
 ]

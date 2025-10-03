@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a dynamic workflow orchestration engine with Amazon DynamoDB and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/database/build-a-dynamic-workflow-orchestration-engine-with-amazon-dynamodb-and-aws-lambda/"
+    },
+    {
+        "title": "Set up proactive monitoring for Amazon RDS for SQL Server with real-time Slack notifications",
+        "link": "https://aws.amazon.com/blogs/database/set-up-proactive-monitoring-for-amazon-rds-for-sql-server-with-real-time-slack-notifications/"
+    },
+    {
         "title": "How Smartsheet enhances recommendations using Amazon Neptune and Knowledge Graphs",
         "link": "https://aws.amazon.com/blogs/database/how-smartsheet-enhances-recommendations-using-amazon-neptune-and-knowledge-graphs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Group database tables under AWS Database Migration Service tasks for PostgreSQL source engine",
         "link": "https://aws.amazon.com/blogs/database/group-database-tables-under-aws-database-migration-service-tasks-for-postgresql-source-engine/"
-    },
-    {
-        "title": "Reduce your Amazon ElastiCache costs by up to 60% with Valkey and CUDOS",
-        "link": "https://aws.amazon.com/blogs/database/reduce-your-amazon-elasticache-costs-by-up-to-60-with-valkey-and-cudos/"
-    },
-    {
-        "title": "Getting started with Amazon EC2 bare metal instances for Amazon RDS for Oracle and Amazon RDS Custom for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/getting-started-with-amazon-ec2-bare-metal-instances-for-amazon-rds-for-oracle-and-amazon-rds-custom-for-oracle/"
     }
 ]

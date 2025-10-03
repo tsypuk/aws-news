@@ -1,5 +1,9 @@
 [
     {
+        "title": "Defending against supply chain attacks like Chalk/Debug and the Shai-Hulud worm",
+        "link": "https://aws.amazon.com/blogs/security/defending-against-supply-chain-attacks-like-chalk-debug-and-the-shai-hulud-worm/"
+    },
+    {
         "title": "Defending LLM applications against Unicode character smuggling",
         "link": "https://aws.amazon.com/blogs/security/defending-llm-applications-against-unicode-character-smuggling/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Overview of security services available in AWS Dedicated Local Zones",
         "link": "https://aws.amazon.com/blogs/security/overview-of-security-services-available-in-aws-dedicated-local-zones/"
-    },
-    {
-        "title": "Amazon disrupts watering hole campaign by Russia\u2019s APT29",
-        "link": "https://aws.amazon.com/blogs/security/amazon-disrupts-watering-hole-campaign-by-russias-apt29/"
     }
 ]
