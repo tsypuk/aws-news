@@ -1,5 +1,9 @@
 [
     {
+        "title": "Key components of a data-driven agentic AI application",
+        "link": "https://aws.amazon.com/blogs/database/key-components-of-a-data-driven-agentic-ai-application/"
+    },
+    {
         "title": "Build a dynamic workflow orchestration engine with Amazon DynamoDB and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/database/build-a-dynamic-workflow-orchestration-engine-with-amazon-dynamodb-and-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating vector embedding generation in Amazon Aurora PostgreSQL with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/automating-vector-embedding-generation-in-amazon-aurora-postgresql-with-amazon-bedrock/"
-    },
-    {
-        "title": "Group database tables under AWS Database Migration Service tasks for PostgreSQL source engine",
-        "link": "https://aws.amazon.com/blogs/database/group-database-tables-under-aws-database-migration-service-tasks-for-postgresql-source-engine/"
     }
 ]

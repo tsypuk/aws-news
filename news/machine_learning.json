@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic\u2019s Claude Sonnet 4.5",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/"
+    },
+    {
+        "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/"
+    },
+    {
         "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Use AWS Deep Learning Containers with Amazon SageMaker AI managed MLflow",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-deep-learning-containers-with-amazon-sagemaker-ai-managed-mlflow/"
-    },
-    {
-        "title": "Supercharge your organization\u2019s productivity with the Amazon Q Business browser extension",
-        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-your-organizations-productivity-with-the-amazon-q-business-browser-extension/"
-    },
-    {
-        "title": "Build Agentic Workflows with OpenAI GPT OSS on Amazon SageMaker AI and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-workflows-with-openai-gpt-oss-on-amazon-sagemaker-ai-and-amazon-bedrock-agentcore/"
     }
 ]

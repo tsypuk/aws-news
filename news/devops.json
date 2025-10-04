@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reduce Docker image build time on AWS CodeBuild using Amazon ECR as a remote cache",
+        "link": "https://aws.amazon.com/blogs/devops/reduce-docker-image-build-time-on-aws-codebuild-using-amazon-ecr-as-a-remote-cache/"
+    },
+    {
+        "title": "Multi-Cloud Code Deployments using Amazon Q Developer with Echo3D",
+        "link": "https://aws.amazon.com/blogs/devops/multi-cloud-code-deployments-using-amazon-q-developer-with-echo3d/"
+    },
+    {
         "title": "Accelerating AWS Infrastructure Deployment: A Practical Guide to Console-to-Code",
         "link": "https://aws.amazon.com/blogs/devops/accelerating-aws-infrastructure-deployment-a-practical-guide-to-console-to-code/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing the end of support for Node.js 18.x in AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-node-js-18-x-in-aws-cdk/"
-    },
-    {
-        "title": "Managing Amazon Q Developer Profiles and Customizations in Large Organizations",
-        "link": "https://aws.amazon.com/blogs/devops/managing-amazon-q-developer-profiles-and-customizations-in-large-organizations/"
-    },
-    {
-        "title": "Streamline Operational Troubleshooting with Amazon Q Developer CLI",
-        "link": "https://aws.amazon.com/blogs/devops/streamline-operational-troubleshooting-with-amazon-q-developer-cli/"
     }
 ]
