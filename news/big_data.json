@@ -1,5 +1,13 @@
 [
     {
+        "title": "Bridging data silos: cross-bounded context querying with Vanguard\u2019s Operational Read-only Data Store (ORDS) using Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/bridging-data-silos-cross-bounded-context-querying-with-vanguards-operational-read-only-data-store-ords-using-amazon-redshift/"
+    },
+    {
+        "title": "Seamlessly Integrate Data on Google BigQuery and ClickHouse Cloud with AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/seamlessly-integrate-data-on-google-bigquery-and-clickhouse-cloud-with-aws-glue/"
+    },
+    {
         "title": "Optimize efficiency with language analyzers using scalable multilingual search in Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-efficiency-with-language-analyzers-using-scalable-multilingual-search-in-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Break down data silos and seamlessly query Iceberg tables in Amazon SageMaker from Snowflake",
         "link": "https://aws.amazon.com/blogs/big-data/break-down-data-silos-and-seamlessly-query-iceberg-tables-in-amazon-sagemaker-from-snowflake/"
-    },
-    {
-        "title": "Automate and orchestrate Amazon EMR jobs using AWS Step Functions and Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-and-orchestrate-amazon-emr-jobs-using-aws-step-functions-and-amazon-eventbridge/"
-    },
-    {
-        "title": "Streamline Spark application development on Amazon EMR with the Data Solutions Framework on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/streamline-spark-application-development-on-amazon-emr-with-the-data-solutions-framework-on-aws/"
     }
 ]

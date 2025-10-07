@@ -1,5 +1,9 @@
 [
     {
+        "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic\u2019s Claude Sonnet 4.5",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics",
         "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-bedrock-batch-inference-using-amazon-cloudwatch-metrics/"
-    },
-    {
-        "title": "Use AWS Deep Learning Containers with Amazon SageMaker AI managed MLflow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-aws-deep-learning-containers-with-amazon-sagemaker-ai-managed-mlflow/"
     }
 ]
