@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/"
+    },
+    {
+        "title": "Implement automated monitoring for Amazon Bedrock batch inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-monitoring-for-amazon-bedrock-batch-inference/"
+    },
+    {
         "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/"
     },
@@ -18,10 +26,6 @@
     {
         "title": "Accelerate development with the Amazon Bedrock AgentCore MCP server",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/"
-    },
-    {
-        "title": "How Hapag-Lloyd improved schedule reliability with ML-powered vessel schedule predictions using Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-improved-schedule-reliability-with-ml-powered-vessel-schedule-predictions-using-amazon-sagemaker/"
     },
     {
         "title": "Rox accelerates sales productivity with AI agents powered by Amazon Bedrock",
@@ -74,9 +78,5 @@
     {
         "title": "Prompting for precision with Stability AI Image Services in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/prompting-for-precision-with-stability-ai-image-services-in-amazon-bedrock/"
-    },
-    {
-        "title": "Monitor Amazon Bedrock batch inference using Amazon CloudWatch metrics",
-        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-bedrock-batch-inference-using-amazon-cloudwatch-metrics/"
     }
 ]

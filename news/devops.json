@@ -1,5 +1,9 @@
 [
     {
+        "title": "Moeve: Controlling resource deployment at scale with AWS CloudFormation Guard Hooks",
+        "link": "https://aws.amazon.com/blogs/devops/moeve-controlling-resource-deployment-at-scale-with-aws-cloudformation-guard-hooks/"
+    },
+    {
         "title": "Beyond Bootstrap: Bootstrapless CDK Deployments at GoDaddy",
         "link": "https://aws.amazon.com/blogs/devops/beyond-bootstrap-bootstrapless-cdk-deployments-at-godaddy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline DevOps troubleshooting: Integrate CloudWatch investigations with Slack",
         "link": "https://aws.amazon.com/blogs/devops/streamline-devops-troubleshooting-integrate-cloudwatch-investigations-with-slack/"
-    },
-    {
-        "title": "GitOps continuous delivery with ArgoCD and EKS using natural language",
-        "link": "https://aws.amazon.com/blogs/devops/gitops-continuous-delivery-with-argocd-and-eks-using-natural-language/"
     }
 ]

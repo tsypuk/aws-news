@@ -1,5 +1,13 @@
 [
     {
+        "title": "Best practices for migrating from Apache Airflow 2.x to Apache Airflow 3.x on Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-from-apache-airflow-2-x-to-apache-airflow-3-x-on-amazon-mwaa/"
+    },
+    {
+        "title": "Breaking down data silos: Volkswagen\u2019s approach with Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/breaking-down-data-silos-volkswagens-approach-with-amazon-datazone/"
+    },
+    {
         "title": "Bridging data silos: cross-bounded context querying with Vanguard\u2019s Operational Read-only Data Store (ORDS) using Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/bridging-data-silos-cross-bounded-context-querying-with-vanguards-operational-read-only-data-store-ords-using-amazon-redshift/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon SageMaker introduces Amazon S3 based shared storage for enhanced project collaboration",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-introduces-amazon-s3-based-shared-storage-for-enhanced-project-collaboration/"
-    },
-    {
-        "title": "Amazon MSK Replicator and MirrorMaker2: Choosing the right replication strategy for Apache Kafka disaster recovery and migrations",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-replicator-and-mirrormaker2-choosing-the-right-replication-strategy-for-apache-kafka-disaster-recovery-and-migrations/"
-    },
-    {
-        "title": "Break down data silos and seamlessly query Iceberg tables in Amazon SageMaker from Snowflake",
-        "link": "https://aws.amazon.com/blogs/big-data/break-down-data-silos-and-seamlessly-query-iceberg-tables-in-amazon-sagemaker-from-snowflake/"
     }
 ]

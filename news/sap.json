@@ -1,5 +1,9 @@
 [
     {
+        "title": "Why SAP customers are modernizing their IBM Power and mainframe workloads on AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/why-sap-customers-are-modernizing-their-ibm-power-and-mainframe-workloads-on-aws/"
+    },
+    {
         "title": "Accelerating SAP Cloud Application Programming with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/awsforsap/accelerating-sap-cloud-application-programming-with-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modernizing SAP Procurement Processes with Amazon Appflow, SAP BTP Integration Suite, and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/awsforsap/modernizing-sap-procurement-processes-with-aws-appflow-sap-btp-integration-suite-and-amazon-bedrock/"
-    },
-    {
-        "title": "Optimizing Unicode Conversion Downtime for SAP Systems on Oracle to AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/optimizing-unicode-conversion-downtime-for-sap-systems-on-oracle-to-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bayer imaging FM classifies drug targets using Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/industries/bayer-imaging-fm-classifies-drug-targets-using-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Part 1: BBVA: Building a multi-region, multi-country global Data and ML Platform at scale",
         "link": "https://aws.amazon.com/blogs/industries/part-1-bbva-building-a-multi-region-multi-country-global-data-and-ml-platform-at-scale/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Unlock real-time advertising insights with Amazon Marketing Stream and AWS",
         "link": "https://aws.amazon.com/blogs/industries/unlock-real-time-advertising-insights-with-amazon-marketing-stream-and-aws/"
-    },
-    {
-        "title": "GeBBs Healthcare revolutionizes medical coding workflows with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/gebbs-healthcare-revolutionizes-medical-coding-workflows-with-amazon-bedrock/"
     }
 ]
