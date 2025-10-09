@@ -1,5 +1,13 @@
 [
     {
+        "title": "Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/"
+    },
+    {
+        "title": "Implement a secure MLOps platform based on Terraform and GitHub",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-secure-mlops-platform-based-on-terraform-and-github/"
+    },
+    {
         "title": "Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/move-your-ai-agents-from-proof-of-concept-to-production-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Scale visual production using Stability AI Image Services in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scale-visual-production-using-stability-ai-image-services-in-amazon-bedrock/"
-    },
-    {
-        "title": "Prompting for precision with Stability AI Image Services in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prompting-for-precision-with-stability-ai-image-services-in-amazon-bedrock/"
     }
 ]

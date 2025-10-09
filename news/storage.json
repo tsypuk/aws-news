@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve Kubernetes pod scheduling accuracy using Amazon EBS",
+        "link": "https://aws.amazon.com/blogs/storage/improve-kubernetes-pod-scheduling-accuracy-using-amazon-ebs/"
+    },
+    {
         "title": "Building self-managed RAG applications with Amazon EKS and Amazon S3 Vectors",
         "link": "https://aws.amazon.com/blogs/storage/building-self-managed-rag-applications-with-amazon-eks-and-amazon-s3-vectors/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Mountpoint for Amazon S3 CSI driver v2: Accelerated performance and improved resource usage for Kubernetes workloads",
         "link": "https://aws.amazon.com/blogs/storage/mountpoint-for-amazon-s3-csi-driver-v2-accelerated-performance-and-improved-resource-usage-for-kubernetes-workloads/"
-    },
-    {
-        "title": "Backup Amazon Elastic Kubernetes Service (EKS) resources using NetApp Trident Protect",
-        "link": "https://aws.amazon.com/blogs/storage/backup-for-amazon-eks-resources-using-netapp-trident-protect/"
     }
 ]

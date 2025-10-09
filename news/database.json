@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a 10-billion wallet crypto-intelligence platform: Elliptic\u2019s journey with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/building-a-10-billion-wallet-crypto-intelligence-platform-elliptics-journey-with-amazon-dynamodb/"
+    },
+    {
         "title": "Monitor Amazon Timestream for InfluxDB performance using the Timestream for InfluxDB Metrics dashboard",
         "link": "https://aws.amazon.com/blogs/database/monitor-amazon-timestream-for-influxdb-performance-using-the-timestream-for-influxdb-metrics-dashboard/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy Amazon Timestream for InfluxDB instances with AWS CloudFormation and HashiCorp Terraform",
         "link": "https://aws.amazon.com/blogs/database/deploy-amazon-timestream-for-influxdb-instances-with-aws-cloudformation-and-hashicorp-terraform/"
-    },
-    {
-        "title": "Stream Amazon DynamoDB table data to Amazon S3 Tables for analytics",
-        "link": "https://aws.amazon.com/blogs/database/stream-amazon-dynamodb-table-data-to-amazon-s3-tables-for-analytics/"
     }
 ]
