@@ -1,5 +1,9 @@
 [
     {
+        "title": "Advanced observability and troubleshooting with Amazon RDS event monitoring pipelines",
+        "link": "https://aws.amazon.com/blogs/database/advanced-observability-and-troubleshooting-with-amazon-rds-event-monitoring-pipelines/"
+    },
+    {
         "title": "Building a 10-billion wallet crypto-intelligence platform: Elliptic\u2019s journey with Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/building-a-10-billion-wallet-crypto-intelligence-platform-elliptics-journey-with-amazon-dynamodb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Data consistency with AWS DMS data resync",
         "link": "https://aws.amazon.com/blogs/database/data-consistency-with-aws-dms-data-resync/"
-    },
-    {
-        "title": "Deploy Amazon Timestream for InfluxDB instances with AWS CloudFormation and HashiCorp Terraform",
-        "link": "https://aws.amazon.com/blogs/database/deploy-amazon-timestream-for-influxdb-instances-with-aws-cloudformation-and-hashicorp-terraform/"
     }
 ]

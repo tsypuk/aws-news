@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless ICYMI Q3 2025",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q3-2025/"
+    },
+    {
         "title": "Deploying AI models for inference with AWS Lambda using zip packaging",
         "link": "https://aws.amazon.com/blogs/compute/deploying-ai-models-for-inference-with-aws-lambda-using-zip-packaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing message prioritization with quorum queues on Amazon MQ for RabbitMQ",
         "link": "https://aws.amazon.com/blogs/compute/implementing-message-prioritization-with-quorum-queues-on-amazon-mq-for-rabbitmq/"
-    },
-    {
-        "title": "Building resilient multi-tenant systems with Amazon SQS fair queues",
-        "link": "https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/"
     }
 ]

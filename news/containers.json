@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate Amazon ECS workloads from AWS App Mesh to Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ecs-workloads-from-aws-app-mesh-to-amazon-vpc-lattice/"
+    },
+    {
         "title": "Amazon ECS announces IPv6-only support",
         "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-announces-ipv6-only-support/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Dynamic Kubernetes request right sizing with Kubecost",
         "link": "https://aws.amazon.com/blogs/containers/dynamic-kubernetes-request-right-sizing-with-kubecost/"
-    },
-    {
-        "title": "Unlocking next-generation AI performance with Dynamic Resource Allocation on Amazon EKS and Amazon EC2 P6e-GB200",
-        "link": "https://aws.amazon.com/blogs/containers/unlocking-next-generation-ai-performance-with-dynamic-resource-allocation-on-amazon-eks-and-amazon-ec2-p6e-gb200/"
     }
 ]

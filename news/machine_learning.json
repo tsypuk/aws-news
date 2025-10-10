@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Amazon SageMaker HyperPod and Anyscale for next-generation distributed computing",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-hyperpod-and-anyscale-for-next-generation-distributed-computing/"
+    },
+    {
+        "title": "Customizing text content moderation with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/"
+    },
+    {
         "title": "Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Integrate tokenization with Amazon Bedrock Guardrails for secure data handling",
         "link": "https://aws.amazon.com/blogs/machine-learning/integrate-tokenization-with-amazon-bedrock-guardrails-for-secure-data-handling/"
-    },
-    {
-        "title": "Rapid ML experimentation for enterprises with Amazon SageMaker AI and Comet",
-        "link": "https://aws.amazon.com/blogs/machine-learning/rapid-ml-experimentation-for-enterprises-with-amazon-sagemaker-ai-and-comet/"
-    },
-    {
-        "title": "Move your AI agents from proof of concept to production with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/move-your-ai-agents-from-proof-of-concept-to-production-with-amazon-bedrock-agentcore/"
     }
 ]
