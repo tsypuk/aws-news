@@ -1,5 +1,9 @@
 [
     {
+        "title": "AI-powered virtual agents: Automating complex business processes",
+        "link": "https://aws.amazon.com/blogs/contact-center/ai-powered-virtual-agents-automating-complex-business-processes/"
+    },
+    {
         "title": "Understanding Amazon Chime SDK costs in AWS Cost Explorer",
         "link": "https://aws.amazon.com/blogs/contact-center/understanding-amazon-chime-sdk-costs-in-aws-cost-explorer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlocking the full potential of Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/unlocking-the-full-potential-of-amazon-connect/"
-    },
-    {
-        "title": "Proven migration patterns for accelerating Amazon Connect deployments",
-        "link": "https://aws.amazon.com/blogs/contact-center/proven-migration-patterns-for-accelerating-amazon-connect-deployments/"
     }
 ]

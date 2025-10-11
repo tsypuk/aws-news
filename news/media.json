@@ -1,5 +1,25 @@
 [
     {
+        "title": "Building enterprise patching and inventory dashboards using Amazon Q in Amazon QuickSight",
+        "link": "https://aws.amazon.com/blogs/mt/building-enterprise-patching-and-inventory-dashboards-using-amazon-q-in-amazon-quicksight/"
+    },
+    {
+        "title": "Salesforce Commerce Cloud migrates from Self-hosted Prometheus to Amazon Managed Service for Prometheus",
+        "link": "https://aws.amazon.com/blogs/mt/salesforce-commerce-cloud-migrates-from-self-hosted-prometheus-to-amazon-managed-service-for-prometheus/"
+    },
+    {
+        "title": "How Mendix optimizes sandbox governance, balancing control and productivity",
+        "link": "https://aws.amazon.com/blogs/mt/how-mendix-optimizes-sandbox-governance-balancing-control-and-productivity/"
+    },
+    {
+        "title": "Assess compliance and configuration of Kubernetes resources with AWS Config",
+        "link": "https://aws.amazon.com/blogs/mt/assess-compliance-and-configuration-of-kubernetes-resources-with-aws-config/"
+    },
+    {
+        "title": "Analyze logs usage with Amazon CloudWatch enhanced automatic dashboard",
+        "link": "https://aws.amazon.com/blogs/mt/analyze-logs-usage-with-amazon-cloudwatch-enhanced-automatic-dashboard/"
+    },
+    {
         "title": "Amazon CloudWatch Application Signals new enhancements for application monitoring",
         "link": "https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Optimize querying AWS CloudTrail logs with partitioning in Amazon Athena",
         "link": "https://aws.amazon.com/blogs/mt/optimize-querying-aws-cloudtrail-logs-with-partitioning-in-amazon-athena/"
-    },
-    {
-        "title": "Learn from AWS Fault Injection Service team\u2019s approach to Game Days",
-        "link": "https://aws.amazon.com/blogs/mt/learn-from-aws-fault-injection-service-team-approach-to-game-days/"
-    },
-    {
-        "title": "Alarming on SLOs in Amazon Search with CloudWatch Application Signals \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/mt/alarming-on-slos-in-amazon-search-with-cloudwatch-application-signals-part-2/"
-    },
-    {
-        "title": "Alarming on SLOs in Amazon Search with CloudWatch Application Signals \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/mt/alarming-on-slos-in-amazon-search-with-cloudwatch-application-signals-part-1/"
-    },
-    {
-        "title": "Using Amazon Bedrock and Amazon Nova for AI-Powered Incident Response",
-        "link": "https://aws.amazon.com/blogs/mt/using-amazon-bedrock-and-amazon-nova-for-ai-powered-incident-response/"
-    },
-    {
-        "title": "Launching Amazon CloudWatch generative AI observability\u202f (Preview)",
-        "link": "https://aws.amazon.com/blogs/mt/launching-amazon-cloudwatch-generative-ai-observability-preview/"
     }
 ]

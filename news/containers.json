@@ -1,5 +1,9 @@
 [
     {
+        "title": "SaaS deployment architectures with Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/saas-deployment-architectures-with-amazon-eks/"
+    },
+    {
         "title": "Migrate Amazon ECS workloads from AWS App Mesh to Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ecs-workloads-from-aws-app-mesh-to-amazon-vpc-lattice/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to run AI model inference with GPUs on Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/how-to-run-ai-model-inference-with-gpus-on-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Dynamic Kubernetes request right sizing with Kubecost",
-        "link": "https://aws.amazon.com/blogs/containers/dynamic-kubernetes-request-right-sizing-with-kubecost/"
     }
 ]

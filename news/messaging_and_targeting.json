@@ -1,5 +1,9 @@
 [
     {
+        "title": "Set up custom domains in Amazon Connect hosted with M365 Exchange Online or Google Workspace",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/set-up-custom-domains-in-amazon-connect-hosted-with-m365-exchange-online-or-google-workspace/"
+    },
+    {
         "title": "Enhance event experiences with a generative AI-powered WhatsApp assistant using AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-event-experiences-with-a-generative-ai-powered-whatsapp-assistant-using-aws-end-user-messaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a voice interface for generative AI assistants",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-voice-interface-for-genai-assistant/"
-    },
-    {
-        "title": "Improving email security with Amazon SES Mail Manager and Hornetsecurity\u2019s Vade Advanced Email Security Add On",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improving-email-security-with-amazon-ses-mail-manager-and-hornetsecuritys-vade-advanced-email-security-add-on/"
     }
 ]

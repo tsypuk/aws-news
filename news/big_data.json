@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a real-time ICU patient analytics pipeline with AWS Lambda event source mapping",
+        "link": "https://aws.amazon.com/blogs/big-data/building-a-real-time-icu-patient-analytics-pipeline-with-aws-lambda-event-source-mapping/"
+    },
+    {
         "title": "Best practices for migrating from Apache Airflow 2.x to Apache Airflow 3.x on Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-from-apache-airflow-2-x-to-apache-airflow-3-x-on-amazon-mwaa/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Get started with Amazon OpenSearch Service: T-shirt size your domain for log analytics",
         "link": "https://aws.amazon.com/blogs/big-data/get-started-with-amazon-opensearch-service-t-shirt-size-your-domain-for-log-analytics/"
-    },
-    {
-        "title": "Amazon SageMaker introduces Amazon S3 based shared storage for enhanced project collaboration",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-sagemaker-introduces-amazon-s3-based-shared-storage-for-enhanced-project-collaboration/"
     }
 ]
