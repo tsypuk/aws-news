@@ -1,13 +1,5 @@
 [
     {
-        "title": "Why SAP customers are modernizing their IBM Power and mainframe workloads on AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/why-sap-customers-are-modernizing-their-ibm-power-and-mainframe-workloads-on-aws/"
-    },
-    {
-        "title": "Accelerating SAP Cloud Application Programming with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/awsforsap/accelerating-sap-cloud-application-programming-with-amazon-q-developer/"
-    },
-    {
         "title": "Transforming SAP Technical Documentation with GenAI: Accelerating knowledge generation for SAP Notes with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/awsforsap/transforming-sap-technical-documentation-with-genai-accelerating-knowledge-generation-for-sap-notes-with-amazon-bedrock/"
     },
@@ -78,5 +70,13 @@
     {
         "title": "Modernizing SAP Procurement Processes with Amazon Appflow, SAP BTP Integration Suite, and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/awsforsap/modernizing-sap-procurement-processes-with-aws-appflow-sap-btp-integration-suite-and-amazon-bedrock/"
+    },
+    {
+        "title": "Optimizing Unicode Conversion Downtime for SAP Systems on Oracle to AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/optimizing-unicode-conversion-downtime-for-sap-systems-on-oracle-to-aws/"
+    },
+    {
+        "title": "SAP and AWS Introduce AI Co-Innovation Program to create generative AI solutions that help customers navigate market volatility and supply chain complexity",
+        "link": "https://aws.amazon.com/blogs/awsforsap/sap-and-aws-introduce-ai-co-innovation-program-to-create-generative-ai-solutions-that-help-customers-navigate-market-volatility-and-supply-chain-complexity-2/"
     }
 ]

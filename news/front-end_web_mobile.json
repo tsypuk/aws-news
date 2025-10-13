@@ -1,9 +1,5 @@
 [
     {
-        "title": "Unlocking deeper insights with enhanced monitoring in AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/mobile/unlocking-deeper-insights-with-enhanced-monitoring-in-aws-appsync/"
-    },
-    {
         "title": "Offline caching with AWS Amplify, Tanstack, AppSync and MongoDB Atlas",
         "link": "https://aws.amazon.com/blogs/mobile/offline-caching-with-aws-amplify-tanstack-appsync-and-mongodb-atlas/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Build a Travel Planner with React Native, AWS Amplify, and Amazon Bedrock Knowledge Base",
         "link": "https://aws.amazon.com/blogs/mobile/building-a-personalized-travel-planner-with-amazon-bedrocks-knowledge-bases-and-rag/"
+    },
+    {
+        "title": "Add a Conversational Interface to any Data Source",
+        "link": "https://aws.amazon.com/blogs/mobile/add-a-conversational-interface-to-any-data-source/"
     }
 ]
