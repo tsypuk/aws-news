@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Silverflow modernized network operations by combining AWS Cloud WAN and DevOps",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-silverflow-modernized-network-operations-by-combining-aws-cloud-wan-and-devops/"
+    },
+    {
+        "title": "Secure customer resource access in multi-tenant SaaS with Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-customer-resource-access-in-multi-tenant-saas-with-amazon-vpc-lattice/"
+    },
+    {
+        "title": "Enabling cross-region private access to Amazon S3 with existing application configuration",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-cross-region-private-access-to-amazon-s3-with-existing-application-configuration/"
+    },
+    {
         "title": "AWS Site-to-Site VPN now supports IPv6 on the outside IPs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-now-supports-ipv6-on-the-outside-ips/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Enhancing Pinterest\u2019s organizational security with a DNS firewall: Part 1",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-pinterests-organizational-security-with-a-dns-firewall-part-1/"
-    },
-    {
-        "title": "Using CloudWatch Alarms and Lambda to catch exceptional traffic",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-cloudwatch-alarms-and-lambda-to-catch-exceptional-traffic/"
-    },
-    {
-        "title": "Securing hybrid workloads using Amazon Route 53 Resolver DNS Firewall",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-hybrid-workloads-using-amazon-route-53-resolver-dns-firewall/"
-    },
-    {
-        "title": "How to manage AI Bots with AWS WAF and enhance security",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-manage-ai-bots-with-aws-waf-and-enhance-security/"
     }
 ]

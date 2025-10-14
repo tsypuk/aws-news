@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automate TM Forum API testing using Amazon Bedrock and Claude",
+        "link": "https://aws.amazon.com/blogs/industries/automate-tm-forum-api-testing-using-amazon-bedrock-and-claude/"
+    },
+    {
+        "title": "HIPAA compliance for generative AI solutions on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/hipaa-compliance-for-generative-ai-solutions-on-aws/"
+    },
+    {
         "title": "Building In-Vehicle AI Assistants with Strands Agents",
         "link": "https://aws.amazon.com/blogs/industries/building-in-vehicle-ai-assistants-with-amazon-strands-agents/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Part 2: How BBVA processes a global data lake using AWS Glue and Amazon EMR",
         "link": "https://aws.amazon.com/blogs/industries/part-2-how-bbva-processes-a-global-data-lake-using-aws-glue-and-amazon-emr/"
-    },
-    {
-        "title": "Part 6: Effective sunset of the legacy data platform in BBVA: the migration methodology",
-        "link": "https://aws.amazon.com/blogs/industries/part-6-effective-sunset-of-the-legacy-data-platform-in-bbva-the-migration-methodology/"
-    },
-    {
-        "title": "Transforming the operations of Moeve\u2019s Energy Parks with a Data Gathering Digital Plant solution",
-        "link": "https://aws.amazon.com/blogs/industries/transforming-the-operations-of-moeves-energy-parks-with-a-data-gathering-digital-plant-solution/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing vector search for Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/announcing-vector-search-for-amazon-elasticache/"
+    },
+    {
         "title": "Advanced observability and troubleshooting with Amazon RDS event monitoring pipelines",
         "link": "https://aws.amazon.com/blogs/database/advanced-observability-and-troubleshooting-with-amazon-rds-event-monitoring-pipelines/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement network connectivity patterns for Oracle Database@AWS",
         "link": "https://aws.amazon.com/blogs/database/implement-network-connectivity-patterns-for-oracle-databaseaws/"
-    },
-    {
-        "title": "Data consistency with AWS DMS data resync",
-        "link": "https://aws.amazon.com/blogs/database/data-consistency-with-aws-dms-data-resync/"
     }
 ]

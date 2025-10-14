@@ -1,5 +1,61 @@
 [
     {
+        "title": "82 new or updated datasets available on the Registry of Open Data on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/82-new-or-updated-datasets-available-on-the-registry-of-open-data-on-aws/"
+    },
+    {
+        "title": "Challenger Center modernizes STEM education infrastructure with AWS to reach hundreds of thousands students nationwide",
+        "link": "https://aws.amazon.com/blogs/publicsector/challenger-center-modernizes-stem-education-infrastructure-with-aws-to-reach-hundreds-of-thousands-students-nationwide/"
+    },
+    {
+        "title": "How The Coupon Bureau built a real-time universal digital coupon platform on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-the-coupon-bureau-built-a-real-time-universal-digital-coupon-platform-on-aws/"
+    },
+    {
+        "title": "New AWS whitepaper: How Health Data Marketplaces can help healthcare organizations optimize multi-cloud data strategies",
+        "link": "https://aws.amazon.com/blogs/publicsector/new-aws-whitepaper-how-health-data-marketplaces-can-help-healthcare-organizations-optimize-multi-cloud-data-strategies/"
+    },
+    {
+        "title": "Reimagining university libraries with AWS: University of Maryland\u2019s six-month cloud migration",
+        "link": "https://aws.amazon.com/blogs/publicsector/reimagining-university-libraries-with-aws-university-of-marylands-six-month-cloud-migration/"
+    },
+    {
+        "title": "Smarter K12 lesson and assessment mapping in education on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/smarter-k12-lesson-and-assessment-mapping-in-education-on-aws/"
+    },
+    {
+        "title": "Advancing interoperability: Netsmart becomes first designated QHIN built entirely on AWS Cloud",
+        "link": "https://aws.amazon.com/blogs/publicsector/advancing-interoperability-netsmart-becomes-first-designated-qhin-built-entirely-on-aws-cloud/"
+    },
+    {
+        "title": "How Northwestern University built a multilingual generative AI search tool with AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-northwestern-university-built-a-multilingual-generative-ai-search-tool-with-aws/"
+    },
+    {
+        "title": "Powering the future of children\u2019s health: AWS announces the 2025 Children\u2019s Health Innovation Award recipients",
+        "link": "https://aws.amazon.com/blogs/publicsector/powering-the-future-of-childrens-health-aws-announces-the-2025-childrens-health-innovation-award-recipients/"
+    },
+    {
+        "title": "Cyber Fortress 2025: AWS cloud-based cyber range powers electric grid defense",
+        "link": "https://aws.amazon.com/blogs/publicsector/cyber-fortress-2025-aws-cloud-based-cyber-range-powers-electric-grid-defense/"
+    },
+    {
+        "title": "Why security-focused cloud is becoming the foundation of modern public safety systems",
+        "link": "https://aws.amazon.com/blogs/publicsector/why-security-focused-cloud-is-becoming-the-foundation-of-modern-public-safety-systems/"
+    },
+    {
+        "title": "Unlocking the brain\u2019s secrets: E11 Bio\u2019s brain circuit mapping dataset now on AWS Open Data",
+        "link": "https://aws.amazon.com/blogs/publicsector/unlocking-the-brains-secrets-e11-bios-brain-circuit-mapping-dataset-now-on-aws-open-data/"
+    },
+    {
+        "title": "AWS partners with Nashville Innovation Alliance to transform Tennessee\u2019s AI and cloud workforce",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-partners-with-nashville-innovation-alliance-to-transform-tennessees-ai-and-cloud-workforce/"
+    },
+    {
+        "title": "Creative coding for everyone: How Pi Jam expands digital skills for underserved learners in India with AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/creative-coding-for-everyone-how-pi-jam-expands-digital-skills-for-underserved-learners-in-india-with-aws/"
+    },
+    {
         "title": "Unlocking commercial AI models in AWS GovCloud (US): Secure cross-partition access with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/unlocking-commercial-ai-models-in-aws-govcloud-us-secure-cross-partition-access-with-amazon-bedrock/"
     },
@@ -22,61 +78,5 @@
     {
         "title": "Wiz for Government achieves FedRAMP High authorization, strengthening security for AWS customers",
         "link": "https://aws.amazon.com/blogs/publicsector/wiz-for-government-achieves-fedramp-high-authorization-strengthening-security-for-aws-customers/"
-    },
-    {
-        "title": "AWS Space Accelerator program to support 67 startups across Australia, India, and Japan",
-        "link": "https://aws.amazon.com/blogs/publicsector/aws-space-accelerator-program-to-support-67-startups-across-australia-india-and-japan/"
-    },
-    {
-        "title": "Humane World for Animals uses AWS to scale global animal welfare programs",
-        "link": "https://aws.amazon.com/blogs/publicsector/humane-world-for-animals-uses-aws-to-scale-global-animal-welfare-programs/"
-    },
-    {
-        "title": "IMF chatbot Myelo transforms cancer support with AWS Bedrock and Max.AI",
-        "link": "https://aws.amazon.com/blogs/publicsector/imf-chatbot-myelo-transforms-cancer-support-with-aws-bedrock-and-max-ai/"
-    },
-    {
-        "title": "MOSIP on AWS: Transforming digital identity for modern governments",
-        "link": "https://aws.amazon.com/blogs/publicsector/mosip-on-aws-transforming-digital-identity-for-modern-governments/"
-    },
-    {
-        "title": "A guide to reducing waste and improving efficiency with AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/a-guide-to-reducing-waste-and-improving-efficiency-with-aws/"
-    },
-    {
-        "title": "Building resilient public sector cloud services: Why it\u2019s time to update your strategy",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-resilient-public-sector-cloud-services-why-its-time-to-update-your-strategy/"
-    },
-    {
-        "title": "Breaking down healthcare\u2019s walls with agentic AI",
-        "link": "https://aws.amazon.com/blogs/publicsector/breaking-down-healthcares-walls-with-agentic-ai/"
-    },
-    {
-        "title": "Maximizing EC2 Spot Instance reliability for Nextflow on AWS Batch with Memory Machine Batch",
-        "link": "https://aws.amazon.com/blogs/publicsector/maximizing-ec2-spot-instance-reliability-for-nextflow-on-aws-batch-with-memory-machine-batch/"
-    },
-    {
-        "title": "How AWS helps public sector organizations successfully exit their data centers",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-aws-helps-public-sector-organizations-successfully-exit-their-data-centers/"
-    },
-    {
-        "title": "How Poland\u2019s Post Bank accelerated digital transformation while maintaining regulatory compliance on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-polands-post-bank-accelerated-digital-transformation-while-maintaining-regulatory-compliance-on-aws/"
-    },
-    {
-        "title": "Democratizing quantum resources: University of Michigan and AWS collaborate on a remote access quantum testbed",
-        "link": "https://aws.amazon.com/blogs/publicsector/democratizing-quantum-resources-university-of-michigan-and-aws-collaborate-on-a-remote-access-quantum-testbed/"
-    },
-    {
-        "title": "Build next-gen AI agents: AWS empowers partners with AWS Partner Transformation Program\u2019s new agentic AI module for public sector",
-        "link": "https://aws.amazon.com/blogs/publicsector/build-next-gen-ai-agents-aws-empowers-partners-with-aws-partner-transformation-programs-new-agentic-ai-module-for-public-sector/"
-    },
-    {
-        "title": "Securing Amazon Q Business Web Experiences with AWS Amplify and AWS WAF",
-        "link": "https://aws.amazon.com/blogs/publicsector/securing-amazon-q-business-web-experiences-with-aws-amplify-and-aws-waf/"
-    },
-    {
-        "title": "TalkingPoints scales student impact with AWS and RosterStream by Ednition",
-        "link": "https://aws.amazon.com/blogs/publicsector/talkingpoints-scales-student-impact-with-aws-and-rosterstream-by-ednition/"
     }
 ]

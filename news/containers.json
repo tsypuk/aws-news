@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to manage EKS Pod Identities at scale using Argo CD and AWS ACK",
+        "link": "https://aws.amazon.com/blogs/containers/how-to-manage-eks-pod-identities-at-scale-using-argo-cd-and-aws-ack/"
+    },
+    {
         "title": "SaaS deployment architectures with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/saas-deployment-architectures-with-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to build highly available Kubernetes applications with Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/how-to-build-highly-available-kubernetes-applications-with-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "How to run AI model inference with GPUs on Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/containers/how-to-run-ai-model-inference-with-gpus-on-amazon-eks-auto-mode/"
     }
 ]

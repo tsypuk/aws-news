@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrate Amazon CloudWatch alarms with WhatsApp using AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/integrate-amazon-cloudwatch-alarms-with-whatsapp-using-aws-end-user-messaging/"
+    },
+    {
         "title": "Set up custom domains in Amazon Connect hosted with M365 Exchange Online or Google Workspace",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/set-up-custom-domains-in-amazon-connect-hosted-with-m365-exchange-online-or-google-workspace/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating Sender ID Configuration for SMS with AWS End User Messaging APIs",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automating-sender-id-configuration-for-sms-with-aws-end-user-messaging-apis/"
-    },
-    {
-        "title": "Building a voice interface for generative AI assistants",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-voice-interface-for-genai-assistant/"
     }
 ]

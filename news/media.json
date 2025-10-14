@@ -1,5 +1,9 @@
 [
     {
+        "title": "Encrypt AWS Control Tower notifications with customer-managed keys",
+        "link": "https://aws.amazon.com/blogs/mt/encrypt-aws-control-tower-sns-topics-with-customer-managed-keys/"
+    },
+    {
         "title": "Building enterprise patching and inventory dashboards using Amazon Q in Amazon QuickSight",
         "link": "https://aws.amazon.com/blogs/mt/building-enterprise-patching-and-inventory-dashboards-using-amazon-q-in-amazon-quicksight/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Centralized Multi-Account Application Resilience Assessment Using AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/mt/centralized-multi-account-application-resilience-assessment-using-aws/"
-    },
-    {
-        "title": "Optimize querying AWS CloudTrail logs with partitioning in Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/mt/optimize-querying-aws-cloudtrail-logs-with-partitioning-in-amazon-athena/"
     }
 ]

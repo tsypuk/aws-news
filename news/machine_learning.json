@@ -1,5 +1,25 @@
 [
     {
+        "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-the-physical-world-with-ai-the-next-frontier-in-intelligent-automation/"
+    },
+    {
+        "title": "Medical reports analysis dashboard using Amazon Bedrock, LangChain, and Streamlit",
+        "link": "https://aws.amazon.com/blogs/machine-learning/medical-reports-analysis-dashboard-using-amazon-bedrock-langchain-and-streamlit/"
+    },
+    {
+        "title": "Kitsa transforms clinical trial site selection with Amazon Quick Automate",
+        "link": "https://aws.amazon.com/blogs/machine-learning/kitsa-transforms-clinical-trial-site-selection-with-amazon-quick-automate/"
+    },
+    {
+        "title": "Connect Amazon Quick Suite to enterprise apps and agents with MCP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-quick-suite-to-enterprise-apps-and-agents-with-mcp/"
+    },
+    {
+        "title": "Make agents a reality with Amazon Bedrock AgentCore: Now generally available",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/"
+    },
+    {
         "title": "Use Amazon SageMaker HyperPod and Anyscale for next-generation distributed computing",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-hyperpod-and-anyscale-for-next-generation-distributed-computing/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "DoWhile loops now supported in Amazon Bedrock Flows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/dowhile-loops-now-supported-in-amazon-bedrock-flows/"
-    },
-    {
-        "title": "How PropHero built an intelligent property investment advisor with continuous evaluation using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-prophero-built-an-intelligent-property-investment-advisor-with-continuous-evaluation-using-amazon-bedrock/"
-    },
-    {
-        "title": "Accelerate benefits claims processing with Amazon Bedrock Data Automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-benefits-claims-processing-with-amazon-bedrock-data-automation/"
-    },
-    {
-        "title": "Running deep research AI agents on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Integrate tokenization with Amazon Bedrock Guardrails for secure data handling",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-tokenization-with-amazon-bedrock-guardrails-for-secure-data-handling/"
     }
 ]
