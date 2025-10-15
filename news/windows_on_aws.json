@@ -1,5 +1,9 @@
 [
     {
+        "title": "Microsoft workloads on AWS: Your complete re:Invent 2025 guide",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/microsoft-workloads-on-aws-your-complete-reinvent-2025-guide/"
+    },
+    {
         "title": "Testing AWS Managed Microsoft AD Resilience using AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-aws-managed-microsoft-ad-resilience-using-aws-fault-injection-service/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Modernize .NET applications at scale with AWS Transform for .NET",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-net-applications-at-scale-with-aws-transform-for-net/"
-    },
-    {
-        "title": "Port your .NET Framework applications to Linux with AWS Transform for .NET",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/port-your-net-framework-applications-to-linux-with-aws-transform-for-net/"
     }
 ]

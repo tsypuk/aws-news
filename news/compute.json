@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing applications with AWS Nitro Enclaves: TLS termination, TAP networking, and IMDSv2",
+        "link": "https://aws.amazon.com/blogs/compute/securing-applications-with-aws-nitro-enclaves-tls-termination-tap-networking-and-imdsv2/"
+    },
+    {
         "title": "Serverless ICYMI Q3 2025",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q3-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining AWS Serverless workflows: From AWS Lambda orchestration to AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/streamlining-aws-serverless-workflows-from-aws-lambda-orchestration-to-aws-step-functions/"
-    },
-    {
-        "title": "Implementing message prioritization with quorum queues on Amazon MQ for RabbitMQ",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-message-prioritization-with-quorum-queues-on-amazon-mq-for-rabbitmq/"
     }
 ]

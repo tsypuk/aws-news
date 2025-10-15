@@ -1,5 +1,9 @@
 [
     {
+        "title": "CHS reflects on four years of SAP DevOps on AWS: benefits, lessons learned, and best practices",
+        "link": "https://aws.amazon.com/blogs/awsforsap/chs-reflects-on-four-years-of-sap-devops-on-aws-benefits-lessons-learned-and-best-practices/"
+    },
+    {
         "title": "Why SAP customers are modernizing their IBM Power and mainframe workloads on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/why-sap-customers-are-modernizing-their-ibm-power-and-mainframe-workloads-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SAP Server Auto Scaling: Optimize Infrastructure Costs While Meeting Workload Demands",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-server-auto-scaling-optimize-infrastructure-costs-while-meeting-workload-demands/"
-    },
-    {
-        "title": "Modernizing SAP Procurement Processes with Amazon Appflow, SAP BTP Integration Suite, and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/awsforsap/modernizing-sap-procurement-processes-with-aws-appflow-sap-btp-integration-suite-and-amazon-bedrock/"
     }
 ]

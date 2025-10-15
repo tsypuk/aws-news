@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/"
+    },
+    {
+        "title": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+        "link": "https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/"
+    },
+    {
         "title": "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate serverless testing with LocalStack integration in VS Code IDE",
         "link": "https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Transform, Amazon Neptune, and more (September 8, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-amazon-neptune-and-more-september-8-2025/"
-    },
-    {
-        "title": "Now Open \u2014 AWS Asia Pacific (New Zealand) Region",
-        "link": "https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-new-zealand-region/"
     }
 ]

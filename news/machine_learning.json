@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a device management agent with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-device-management-agent-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/"
+    },
+    {
         "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-the-physical-world-with-ai-the-next-frontier-in-intelligent-automation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Modernize fraud prevention: GraphStorm v0.5 for real-time inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/modernize-fraud-prevention-graphstorm-v0-5-for-real-time-inference/"
-    },
-    {
-        "title": "Building health care agents using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-health-care-agents-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build multi-agent site reliability engineering assistants with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-agent-site-reliability-engineering-assistants-with-amazon-bedrock-agentcore/"
     }
 ]

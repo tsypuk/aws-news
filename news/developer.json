@@ -1,5 +1,9 @@
 [
     {
+        "title": "What\u2019s New in the AWS Deploy Tool for .NET",
+        "link": "https://aws.amazon.com/blogs/developer/whats-new-in-the-aws-deploy-tool-for-net/"
+    },
+    {
         "title": "General Availability Release of the Migration Tool for the AWS SDK for Java 2.x",
         "link": "https://aws.amazon.com/blogs/developer/general-availability-release-of-the-migration-tool-for-the-aws-sdk-for-java-2-x/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS CLI Adds PKCE-based Authorization for SSO",
         "link": "https://aws.amazon.com/blogs/developer/aws-cli-adds-pkce-based-authorization-for-sso/"
-    },
-    {
-        "title": "Preview 1 of AWS Tools for PowerShell V5",
-        "link": "https://aws.amazon.com/blogs/developer/preview-1-of-aws-tools-for-powershell-v5/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running Slurm on Amazon EKS with Slinky",
+        "link": "https://aws.amazon.com/blogs/containers/running-slurm-on-amazon-eks-with-slinky/"
+    },
+    {
         "title": "How to manage EKS Pod Identities at scale using Argo CD and AWS ACK",
         "link": "https://aws.amazon.com/blogs/containers/how-to-manage-eks-pod-identities-at-scale-using-argo-cd-and-aws-ack/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Kubernetes right-sizing with metrics-driven GitOps automation",
         "link": "https://aws.amazon.com/blogs/containers/kubernetes-right-sizing-with-metrics-driven-gitops-automation/"
-    },
-    {
-        "title": "How to build highly available Kubernetes applications with Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/containers/how-to-build-highly-available-kubernetes-applications-with-amazon-eks-auto-mode/"
     }
 ]
