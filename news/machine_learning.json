@@ -1,5 +1,21 @@
 [
     {
+        "title": "Transforming enterprise operations: Four high-impact use cases with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-enterprise-operations-four-high-impact-use-cases-with-amazon-nova/"
+    },
+    {
+        "title": "Building smarter AI agents: AgentCore long-term memory deep dive",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-smarter-ai-agents-agentcore-long-term-memory-deep-dive/"
+    },
+    {
+        "title": "Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/"
+    },
+    {
+        "title": "Scala development in Amazon SageMaker Studio with Almond kernel",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scala-development-in-amazon-sagemaker-studio-with-almond-kernel/"
+    },
+    {
         "title": "Build a device management agent with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-device-management-agent-with-amazon-bedrock-agentcore/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
         "link": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/"
-    },
-    {
-        "title": "Enhance agentic workflows with enterprise search using Kore.ai and Amazon Q Business",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-agentic-workflows-with-enterprise-search-using-kore-ai-and-amazon-q-business/"
-    },
-    {
-        "title": "Accelerate development with the Amazon Bedrock AgentCore MCP server",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/"
-    },
-    {
-        "title": "Rox accelerates sales productivity with AI agents powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/rox-accelerates-sales-productivity-with-ai-agents-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Modernize fraud prevention: GraphStorm v0.5 for real-time inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/modernize-fraud-prevention-graphstorm-v0-5-for-real-time-inference/"
     }
 ]

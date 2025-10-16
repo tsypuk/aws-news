@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing URL and host header rewrite with AWS Application Load Balancers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-url-and-host-header-rewrite-with-aws-application-load-balancers/"
+    },
+    {
         "title": "How Silverflow modernized network operations by combining AWS Cloud WAN and DevOps",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-silverflow-modernized-network-operations-by-combining-aws-cloud-wan-and-devops/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing Pinterest\u2019s organizational security with a DNS firewall: Part 2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-pinterests-organizational-security-with-a-dns-firewall-part-2/"
-    },
-    {
-        "title": "Enhancing Pinterest\u2019s organizational security with a DNS firewall: Part 1",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-pinterests-organizational-security-with-a-dns-firewall-part-1/"
     }
 ]

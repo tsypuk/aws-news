@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize CPUs best practices for SQL Server workloads \u2013 continued",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimize-cpus-best-practices-for-sql-server-workloads-continued/"
+    },
+    {
         "title": "Microsoft workloads on AWS: Your complete re:Invent 2025 guide",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/microsoft-workloads-on-aws-your-complete-reinvent-2025-guide/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Deploy SQL Server Container Clusters using Amazon EKS and Amazon FSx for Windows",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploy-sql-server-container-clusters-using-amazon-eks-and-amazon-fsx-for-windows/"
-    },
-    {
-        "title": "Modernize .NET applications at scale with AWS Transform for .NET",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-net-applications-at-scale-with-aws-transform-for-net/"
     }
 ]

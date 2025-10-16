@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate encrypted Amazon EC2 instances across AWS Regions without sharing AWS KMS keys",
+        "link": "https://aws.amazon.com/blogs/compute/migrate-encrypted-amazon-ec2-instances-across-aws-regions-without-sharing-aws-kms-keys/"
+    },
+    {
         "title": "Securing applications with AWS Nitro Enclaves: TLS termination, TAP networking, and IMDSv2",
         "link": "https://aws.amazon.com/blogs/compute/securing-applications-with-aws-nitro-enclaves-tls-termination-tap-networking-and-imdsv2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing v2 of Powertools for AWS Lambda (Java)",
         "link": "https://aws.amazon.com/blogs/compute/introducing-v2-of-powertools-for-aws-lambda-java/"
-    },
-    {
-        "title": "Streamlining AWS Serverless workflows: From AWS Lambda orchestration to AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/compute/streamlining-aws-serverless-workflows-from-aws-lambda-orchestration-to-aws-step-functions/"
     }
 ]

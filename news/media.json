@@ -1,5 +1,9 @@
 [
     {
+        "title": "Guide to AWS Cloud Resilience sessions at re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/mt/guide-to-aws-cloud-resilience-sessions-at-reinvent-2025/"
+    },
+    {
         "title": "Encrypt AWS Control Tower notifications with customer-managed keys",
         "link": "https://aws.amazon.com/blogs/mt/encrypt-aws-control-tower-sns-topics-with-customer-managed-keys/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for analyzing AWS Config recording frequencies",
         "link": "https://aws.amazon.com/blogs/mt/best-practices-for-analyzing-aws-config-recording-frequencies/"
-    },
-    {
-        "title": "Centralized Multi-Account Application Resilience Assessment Using AWS Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/mt/centralized-multi-account-application-resilience-assessment-using-aws/"
     }
 ]

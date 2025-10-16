@@ -1,5 +1,9 @@
 [
     {
+        "title": "Troubleshooting with Amazon ECS Exec and Amazon CloudWatch Logs Live Tail in the AWS Management Console",
+        "link": "https://aws.amazon.com/blogs/containers/troubleshooting-with-amazon-ecs-exec-and-amazon-cloudwatch-logs-live-tail-in-the-aws-management-console/"
+    },
+    {
         "title": "Running Slurm on Amazon EKS with Slinky",
         "link": "https://aws.amazon.com/blogs/containers/running-slurm-on-amazon-eks-with-slinky/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Extending deployment pipelines with Amazon ECS blue green deployments and lifecycle hooks",
         "link": "https://aws.amazon.com/blogs/containers/extending-deployment-pipelines-with-amazon-ecs-blue-green-deployments-and-lifecycle-hooks/"
-    },
-    {
-        "title": "Kubernetes right-sizing with metrics-driven GitOps automation",
-        "link": "https://aws.amazon.com/blogs/containers/kubernetes-right-sizing-with-metrics-driven-gitops-automation/"
     }
 ]

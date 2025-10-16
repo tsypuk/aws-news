@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using conversational AI to derive insights from your data using Amazon S3 Metadata",
+        "link": "https://aws.amazon.com/blogs/storage/using-conversational-ai-to-derive-insights-from-your-data-using-amazon-s3-metadata/"
+    },
+    {
         "title": "Accelerating Amazon S3 Batch Operations at scale with on-demand manifest generation",
         "link": "https://aws.amazon.com/blogs/storage/accelerating-amazon-s3-batch-operations-at-scale-with-on-demand-manifest-generation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy Okta as a custom identity provider for AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/deploy-okta-as-a-custom-identity-provider-for-aws-transfer-family/"
-    },
-    {
-        "title": "Cross-Region disaster recovery using AWS Elastic Disaster Recovery",
-        "link": "https://aws.amazon.com/blogs/storage/cross-region-disaster-recovery-using-aws-elastic-disaster-recovery/"
     }
 ]
