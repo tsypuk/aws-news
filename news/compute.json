@@ -1,5 +1,9 @@
 [
     {
+        "title": "Zero downtime blue/green deployments with Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/compute/zero-downtime-blue-green-deployments-with-amazon-api-gateway/"
+    },
+    {
         "title": "Migrate encrypted Amazon EC2 instances across AWS Regions without sharing AWS KMS keys",
         "link": "https://aws.amazon.com/blogs/compute/migrate-encrypted-amazon-ec2-instances-across-aws-regions-without-sharing-aws-kms-keys/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving network observability with new AWS Outposts racks network metrics",
         "link": "https://aws.amazon.com/blogs/compute/improving-network-observability-with-new-aws-outposts-racks-network-metrics/"
-    },
-    {
-        "title": "Introducing v2 of Powertools for AWS Lambda (Java)",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-v2-of-powertools-for-aws-lambda-java/"
     }
 ]

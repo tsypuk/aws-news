@@ -1,5 +1,9 @@
 [
     {
+        "title": "New Amazon EKS Auto Mode features for enhanced security, network control, and performance",
+        "link": "https://aws.amazon.com/blogs/containers/new-amazon-eks-auto-mode-features-for-enhanced-security-network-control-and-performance/"
+    },
+    {
         "title": "Troubleshooting with Amazon ECS Exec and Amazon CloudWatch Logs Live Tail in the AWS Management Console",
         "link": "https://aws.amazon.com/blogs/containers/troubleshooting-with-amazon-ecs-exec-and-amazon-cloudwatch-logs-live-tail-in-the-aws-management-console/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Migrating from AWS CodeDeploy to Amazon ECS for blue/green deployments",
         "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-codedeploy-to-amazon-ecs-for-blue-green-deployments/"
-    },
-    {
-        "title": "Extending deployment pipelines with Amazon ECS blue green deployments and lifecycle hooks",
-        "link": "https://aws.amazon.com/blogs/containers/extending-deployment-pipelines-with-amazon-ecs-blue-green-deployments-and-lifecycle-hooks/"
     }
 ]

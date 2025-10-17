@@ -1,5 +1,9 @@
 [
     {
+        "title": "Performance optimization strategies for MySQL on Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/performance-optimization-strategies-for-mysql-on-amazon-rds/"
+    },
+    {
         "title": "Amazon Aurora MySQL zero-ETL integration with Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-zero-etl-integration-with-amazon-sagemaker-lakehouse/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Clone Amazon RDS Custom for Oracle to Amazon EC2 using multi-volume EBS snapshots",
         "link": "https://aws.amazon.com/blogs/database/clone-amazon-rds-custom-for-oracle-to-amazon-ec2-using-multi-volume-ebs-snapshots/"
-    },
-    {
-        "title": "Create an SSL connection to Amazon RDS for Db2 in Java without KeyStore or Keytool",
-        "link": "https://aws.amazon.com/blogs/database/create-an-ssl-connection-to-amazon-rds-for-db2-in-java-without-keystore-or-keytool/"
     }
 ]

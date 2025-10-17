@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transforming the BMW Connected Vehicle Backend with Karpenter",
+        "link": "https://aws.amazon.com/blogs/industries/transforming-the-bmw-connected-vehicle-backend-with-karpenter/"
+    },
+    {
         "title": "Automate TM Forum API testing using Amazon Bedrock and Claude",
         "link": "https://aws.amazon.com/blogs/industries/automate-tm-forum-api-testing-using-amazon-bedrock-and-claude/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Part 4: Building a Multi-Layer Security Strategy for BBVA\u2019s Global Data Platform on AWS",
         "link": "https://aws.amazon.com/blogs/industries/part-4-how-bbva-established-the-data-security-strategy-on-global-data-platform/"
-    },
-    {
-        "title": "Part 2: How BBVA processes a global data lake using AWS Glue and Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/industries/part-2-how-bbva-processes-a-global-data-lake-using-aws-glue-and-amazon-emr/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
+        "link": "https://aws.amazon.com/blogs/aws/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager/"
+    },
+    {
         "title": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
         "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/"
-    },
-    {
-        "title": "Accelerate serverless testing with LocalStack integration in VS Code IDE",
-        "link": "https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/"
     }
 ]

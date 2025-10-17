@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dataset of protein-ligand complexes now available in the Registry of Open Data on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/dataset-of-protein-ligand-complexes-now-available-in-the-registry-of-open-data-on-aws/"
+    },
+    {
         "title": "Announcing expanded support for Custom Slurm Settings in AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/announcing-expanded-support-for-custom-slurm-settings-in-aws-parallel-computing-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Characteristics of financial services HPC workloads in the cloud",
         "link": "https://aws.amazon.com/blogs/hpc/characteristics-of-financial-services-hpc-workloads-in-the-cloud/"
-    },
-    {
-        "title": "The frugal HPC architect \u2013 ensuring effective FinOps for HPC workloads at scale",
-        "link": "https://aws.amazon.com/blogs/hpc/the-frugal-hpc-architect-ensuring-effective-finops-for-hpc-workloads-at-scale/"
     }
 ]

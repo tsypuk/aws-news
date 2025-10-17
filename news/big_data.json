@@ -1,5 +1,9 @@
 [
     {
+        "title": "Stream mainframe data to AWS in near real time with Precisely and Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/stream-mainframe-data-to-aws-in-near-real-time-with-precisely-and-amazon-msk/"
+    },
+    {
         "title": "Best practices for upgrading from Amazon Redshift DC2 to RA3 and Amazon Redshift Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-upgrading-from-amazon-redshift-dc2-to-ra3-and-amazon-redshift-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrate Tableau and PingFederate with Amazon Redshift using AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/big-data/integrate-tableau-and-pingfederate-with-amazon-redshift-using-aws-iam-identity-center/"
-    },
-    {
-        "title": "Tailor Amazon SageMaker Unified Studio project environments to your needs using custom blueprints",
-        "link": "https://aws.amazon.com/blogs/big-data/tailor-amazon-sagemaker-unified-studio-project-environments-to-your-needs-using-custom-blueprints/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Resource Explorer launches immediate resource discovery within a Region",
+        "link": "https://aws.amazon.com/blogs/mt/aws-resource-explorer-launches-immediate-resource-discovery-within-a-region/"
+    },
+    {
         "title": "Guide to AWS Cloud Resilience sessions at re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/mt/guide-to-aws-cloud-resilience-sessions-at-reinvent-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gain visibility of AWS backup activities using Amazon Managed Grafana",
         "link": "https://aws.amazon.com/blogs/mt/gain-visibility-of-aws-backup-activities-using-amazon-managed-grafana/"
-    },
-    {
-        "title": "Best practices for analyzing AWS Config recording frequencies",
-        "link": "https://aws.amazon.com/blogs/mt/best-practices-for-analyzing-aws-config-recording-frequencies/"
     }
 ]

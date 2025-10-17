@@ -1,5 +1,17 @@
 [
     {
+        "title": "Iterative fine-tuning on Amazon Bedrock for strategic model improvement",
+        "link": "https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/"
+    },
+    {
+        "title": "Voice AI-powered drive-thru ordering with Amazon Nova Sonic and dynamic menu displays",
+        "link": "https://aws.amazon.com/blogs/machine-learning/voice-ai-powered-drive-thru-ordering-with-amazon-nova-sonic-and-dynamic-menu-displays/"
+    },
+    {
+        "title": "Optimizing document AI and structured outputs by fine-tuning Amazon Nova Models and on-demand inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-document-ai-and-structured-outputs-by-fine-tuning-amazon-nova-models-and-on-demand-inference/"
+    },
+    {
         "title": "Transforming enterprise operations: Four high-impact use cases with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-enterprise-operations-four-high-impact-use-cases-with-amazon-nova/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implement automated monitoring for Amazon Bedrock batch inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-monitoring-for-amazon-bedrock-batch-inference/"
-    },
-    {
-        "title": "Responsible AI: How PowerSchool safeguards millions of students with AI-powered content filtering using Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-how-powerschool-safeguards-millions-of-students-with-ai-powered-content-filtering-using-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Unlock global AI inference scalability using new global cross-Region inference on Amazon Bedrock  with Anthropic\u2019s Claude Sonnet 4.5",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlock-global-ai-inference-scalability-using-new-global-cross-region-inference-on-amazon-bedrock-with-anthropics-claude-sonnet-4-5/"
-    },
-    {
-        "title": "Secure ingress connectivity to Amazon Bedrock AgentCore Gateway using interface VPC endpoints",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ingress-connectivity-to-amazon-bedrock-agentcore-gateway-using-interface-vpc-endpoints/"
     }
 ]
