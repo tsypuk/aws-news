@@ -14,7 +14,7 @@ def main():
     table_content2 = ""
     for entry in data:
         table_content += f"| {entry['name']} | {entry['link']} |\n"
-        table_content2 += f"| {entry['name']} | https://blog.tsypuk.com/aws-news/news/{entry['name'].lower().replace(' ', '_')}.json |\n"
+        table_content2 += f"| {entry['name']} | https://tsypuk.github.io/aws-news/news/{entry['name'].lower().replace(' ', '_')}.json |\n"
 
     # Write the table to a Markdown file
     with open('output.md', 'w') as md_file:
@@ -25,7 +25,7 @@ def main():
         md_file.write(table_header)
         md_file.write(table_content2)
 
-    'https://blog.tsypuk.com/aws-news/news/architecture.json'
+    'https://tsypuk.github.io/aws-news/news/architecture.json'
 
 
 if __name__ == "__main__":

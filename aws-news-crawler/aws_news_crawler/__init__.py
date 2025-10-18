@@ -37,7 +37,7 @@ def main():
             'timestamp': timestamp,
             'utc': datetime.fromtimestamp(timestamp, timezone.utc).isoformat(),
             'hash': sha256_hash,
-            'path': f'https://blog.tsypuk.com/aws-news/news/{file_name}.json'
+            'path': f'https://tsypuk.github.io/aws-news/news/{file_name}.json'
         }
 
         output_data.append(file_info)

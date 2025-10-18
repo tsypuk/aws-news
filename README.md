@@ -44,45 +44,45 @@ All these files content is crawled with nightly job ``cron: '0 0 * * *'`` and is
 
 | Name                              | JSON Content                                                                 |
 |-----------------------------------|------------------------------------------------------------------------------|
-| Architecture                      | https://blog.tsypuk.com/aws-news/news/architecture.json                      |
-| AWS Cost Management               | https://blog.tsypuk.com/aws-news/news/aws_cost_management.json               |
-| AWS Partner Network               | https://blog.tsypuk.com/aws-news/news/aws_partner_network.json               |
-| AWS Marketplace                   | https://blog.tsypuk.com/aws-news/news/aws_marketplace.json                   |
-| AWS News                          | https://blog.tsypuk.com/aws-news/news/aws_news.json                          |
-| Big Data                          | https://blog.tsypuk.com/aws-news/news/big_data.json                          |
-| Business Productivity             | https://blog.tsypuk.com/aws-news/news/business_productivity.json             |
-| Compute                           | https://blog.tsypuk.com/aws-news/news/compute.json                           |
-| Contact Center                    | https://blog.tsypuk.com/aws-news/news/contact_center.json                    |
-| Containers                        | https://blog.tsypuk.com/aws-news/news/containers.json                        |
-| Database                          | https://blog.tsypuk.com/aws-news/news/database.json                          |
-| Desktop and Application Streaming | https://blog.tsypuk.com/aws-news/news/desktop_and_application_streaming.json |
-| Developer                         | https://blog.tsypuk.com/aws-news/news/developer.json                         |
-| Devops                            | https://blog.tsypuk.com/aws-news/news/devops.json                            |
-| Enterprise Strategy               | https://blog.tsypuk.com/aws-news/news/enterprise_strategy.json               |
-| Front-End Web Mobile              | https://blog.tsypuk.com/aws-news/news/front-end_web_mobile.json              |
-| Game Tech                         | https://blog.tsypuk.com/aws-news/news/game_tech.json                         |
-| HPC                               | https://blog.tsypuk.com/aws-news/news/hpc.json                               |
-| Infra and Automation              | https://blog.tsypuk.com/aws-news/news/infra_and_automation.json              |
-| Industries                        | https://blog.tsypuk.com/aws-news/news/industries.json                        |
-| Internet of things                | https://blog.tsypuk.com/aws-news/news/internet_of_things.json                |
-| Machine Learning                  | https://blog.tsypuk.com/aws-news/news/machine_learning.json                  |
-| Media                             | https://blog.tsypuk.com/aws-news/news/media.json                             |
-| Messaging and Targeting           | https://blog.tsypuk.com/aws-news/news/messaging_and_targeting.json           |
-| Networking And Content Delivery   | https://blog.tsypuk.com/aws-news/news/networking_and_content_delivery.json   |
-| Open Source                       | https://blog.tsypuk.com/aws-news/news/open_source.json                       |
-| Public Sector                     | https://blog.tsypuk.com/aws-news/news/public_sector.json                     |
-| Quantum Computing                 | https://blog.tsypuk.com/aws-news/news/quantum_computing.json                 |
-| Robotics                          | https://blog.tsypuk.com/aws-news/news/robotics.json                          |
-| SAP                               | https://blog.tsypuk.com/aws-news/news/sap.json                               |
-| Security Identity Complience      | https://blog.tsypuk.com/aws-news/news/security_identity_complience.json      |
-| Startups                          | https://blog.tsypuk.com/aws-news/news/startups.json                          |
-| Storage                           | https://blog.tsypuk.com/aws-news/news/storage.json                           |
-| Training Certification            | https://blog.tsypuk.com/aws-news/news/training_certification.json            |
-| Windows on AWS                    | https://blog.tsypuk.com/aws-news/news/windows_on_aws.json                    |
+| Architecture                      | https://tsypuk.github.io.com/aws-news/news/architecture.json                      |
+| AWS Cost Management               | https://tsypuk.github.io.com/aws-news/news/aws_cost_management.json               |
+| AWS Partner Network               | https://tsypuk.github.io.com/aws-news/news/aws_partner_network.json               |
+| AWS Marketplace                   | https://tsypuk.github.io.com/aws-news/news/aws_marketplace.json                   |
+| AWS News                          | https://tsypuk.github.io.com/aws-news/news/aws_news.json                          |
+| Big Data                          | https://tsypuk.github.io.com/aws-news/news/big_data.json                          |
+| Business Productivity             | https://tsypuk.github.io.com/aws-news/news/business_productivity.json             |
+| Compute                           | https://tsypuk.github.io.com/aws-news/news/compute.json                           |
+| Contact Center                    | https://tsypuk.github.io.com/aws-news/news/contact_center.json                    |
+| Containers                        | https://tsypuk.github.io.com/aws-news/news/containers.json                        |
+| Database                          | https://tsypuk.github.io.com/aws-news/news/database.json                          |
+| Desktop and Application Streaming | https://tsypuk.github.io.com/aws-news/news/desktop_and_application_streaming.json |
+| Developer                         | https://tsypuk.github.io.com/aws-news/news/developer.json                         |
+| Devops                            | https://tsypuk.github.io.com/aws-news/news/devops.json                            |
+| Enterprise Strategy               | https://tsypuk.github.io.com/aws-news/news/enterprise_strategy.json               |
+| Front-End Web Mobile              | https://tsypuk.github.io.com/aws-news/news/front-end_web_mobile.json              |
+| Game Tech                         | https://tsypuk.github.io.com/aws-news/news/game_tech.json                         |
+| HPC                               | https://tsypuk.github.io.com/aws-news/news/hpc.json                               |
+| Infra and Automation              | https://tsypuk.github.io.com/aws-news/news/infra_and_automation.json              |
+| Industries                        | https://tsypuk.github.io.com/aws-news/news/industries.json                        |
+| Internet of things                | https://tsypuk.github.io.com/aws-news/news/internet_of_things.json                |
+| Machine Learning                  | https://tsypuk.github.io.com/aws-news/news/machine_learning.json                  |
+| Media                             | https://tsypuk.github.io.com/aws-news/news/media.json                             |
+| Messaging and Targeting           | https://tsypuk.github.io.com/aws-news/news/messaging_and_targeting.json           |
+| Networking And Content Delivery   | https://tsypuk.github.io.com/aws-news/news/networking_and_content_delivery.json   |
+| Open Source                       | https://tsypuk.github.io.com/aws-news/news/open_source.json                       |
+| Public Sector                     | https://tsypuk.github.io.com/aws-news/news/public_sector.json                     |
+| Quantum Computing                 | https://tsypuk.github.io.com/aws-news/news/quantum_computing.json                 |
+| Robotics                          | https://tsypuk.github.io.com/aws-news/news/robotics.json                          |
+| SAP                               | https://tsypuk.github.io.com/aws-news/news/sap.json                               |
+| Security Identity Complience      | https://tsypuk.github.io.com/aws-news/news/security_identity_complience.json      |
+| Startups                          | https://tsypuk.github.io.com/aws-news/news/startups.json                          |
+| Storage                           | https://tsypuk.github.io.com/aws-news/news/storage.json                           |
+| Training Certification            | https://tsypuk.github.io.com/aws-news/news/training_certification.json            |
+| Windows on AWS                    | https://tsypuk.github.io.com/aws-news/news/windows_on_aws.json                    |
 
 ## News Index:
 
-https://blog.tsypuk.com/aws-news/index.json                    |
+https://tsypuk.github.io.com/aws-news/index.json                    |
 
 Index is built nightly and has the latest info for each feed.
 You can query it, cache and compare if it was updated since last by any of following fields:
@@ -94,4 +94,4 @@ You can query it, cache and compare if it was updated since last by any of follo
 | timestamp | 1697723020.3600237                                               |
 | utc       | 2023-10-19T13:43:40.360024+00:00                                 |
 | hash      | fc4007c3a01b8e5629fdd0ac102257ba23935f4f5070724f5e9181aa2f0666e0 |
-| path      | https://blog.tsypuk.com/aws-news/news/architecture.json          |
+| path      | https://tsypuk.github.io.com/aws-news/news/architecture.json          |
