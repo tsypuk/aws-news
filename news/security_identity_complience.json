@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing Amazon Bedrock API keys: Best practices for implementation and management",
+        "link": "https://aws.amazon.com/blogs/security/securing-amazon-bedrock-api-keys-best-practices-for-implementation-and-management/"
+    },
+    {
         "title": "Protect your generative AI applications against encoding-based attacks with Amazon Bedrock Guardrails",
         "link": "https://aws.amazon.com/blogs/security/protect-your-generative-ai-applications-against-encoding-based-attacks-with-amazon-bedrock-guardrails/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance TLS inspection with SNI session holding in AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/enhance-tls-inspection-with-sni-session-holding-in-aws-network-firewall/"
-    },
-    {
-        "title": "How we built a flywheel to steadily improve security for Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/security/how-we-built-a-flywheel-to-steadily-improve-security-for-amazon-rds/"
     }
 ]

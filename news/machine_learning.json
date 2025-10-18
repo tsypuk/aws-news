@@ -1,5 +1,21 @@
 [
     {
+        "title": "How TP ICAP transformed CRM data into real-time insights with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-tp-icap-transformed-crm-data-into-real-time-insights-with-amazon-bedrock/"
+    },
+    {
+        "title": "Principal Financial Group accelerates build, test, and deployment of Amazon Lex V2 bots through automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/principal-financial-group-accelerates-build-test-and-deployment-of-amazon-lex-v2-bots-through-automation/"
+    },
+    {
+        "title": "Beyond vibes: How to properly select the right LLM for the right task",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/"
+    },
+    {
+        "title": "Splash Music transforms music generation using AWS Trainium and Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/splash-music-transforms-music-generation-using-aws-trainium-and-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Iterative fine-tuning on Amazon Bedrock for strategic model improvement",
         "link": "https://aws.amazon.com/blogs/machine-learning/iterative-fine-tuning-on-amazon-bedrock-for-strategic-model-improvement/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Customizing text content moderation with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/customizing-text-content-moderation-with-amazon-nova/"
-    },
-    {
-        "title": "Vxceed builds the perfect sales pitch for sales teams at scale using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/vxceed-builds-the-perfect-sales-pitch-for-sales-teams-at-scale-using-amazon-bedrock/"
-    },
-    {
-        "title": "Implement a secure MLOps platform based on Terraform and GitHub",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-secure-mlops-platform-based-on-terraform-and-github/"
-    },
-    {
-        "title": "Automate Amazon QuickSight data stories creation with agentic AI using Amazon Nova Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-quicksight-data-stories-creation-with-agentic-ai-using-amazon-nova-act/"
-    },
-    {
-        "title": "Implement automated monitoring for Amazon Bedrock batch inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-monitoring-for-amazon-bedrock-batch-inference/"
     }
 ]

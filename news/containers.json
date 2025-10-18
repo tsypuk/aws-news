@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extending EKS with Hybrid Nodes: IAM Roles Anywhere and HashiCorp Vault",
+        "link": "https://aws.amazon.com/blogs/containers/extending-eks-with-hybrid-nodes-iam-roles-anywhere-and-hashicorp-vault/"
+    },
+    {
         "title": "New Amazon EKS Auto Mode features for enhanced security, network control, and performance",
         "link": "https://aws.amazon.com/blogs/containers/new-amazon-eks-auto-mode-features-for-enhanced-security-network-control-and-performance/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Use Raspberry Pi 5 as Amazon EKS Hybrid Nodes for edge workloads",
         "link": "https://aws.amazon.com/blogs/containers/use-raspberry-pi-5-as-amazon-eks-hybrid-nodes-for-edge-workloads/"
-    },
-    {
-        "title": "Migrating from AWS CodeDeploy to Amazon ECS for blue/green deployments",
-        "link": "https://aws.amazon.com/blogs/containers/migrating-from-aws-codedeploy-to-amazon-ecs-for-blue-green-deployments/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Charting the life of an Amazon CloudFront request",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/charting-the-life-of-an-amazon-cloudfront-request/"
+    },
+    {
         "title": "Introducing URL and host header rewrite with AWS Application Load Balancers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-url-and-host-header-rewrite-with-aws-application-load-balancers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best Buy Health\u2019s Resilient Care Centers powered by AWS Cloud WAN and SD-WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-buy-healths-resilient-care-centers-powered-by-aws-cloud-wan-and-sd-wan/"
-    },
-    {
-        "title": "Enhancing Pinterest\u2019s organizational security with a DNS firewall: Part 2",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhancing-pinterests-organizational-security-with-a-dns-firewall-part-2/"
     }
 ]
