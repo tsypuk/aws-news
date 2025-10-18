@@ -1,82 +1,82 @@
 [
     {
-        "title": "Code Clarity: Enhancing Code Understanding and Efficiency with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/code-clarity-enhancing-code-understanding-and-efficiency-with-amazon-q-developer/"
+        "title": "Boosting Unit Test Automation at Audible with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/boosting-unit-test-automation-at-audible-with-amazon-q-developer/"
     },
     {
-        "title": "Generating Accurate Git Commit Messages with Amazon Q Developer CLI Context Modifiers",
-        "link": "https://aws.amazon.com/blogs/devops/generating-accurate-git-commit-messages-with-amazon-q-developer-cli-context-modifiers/"
+        "title": "StackSets Deployment Strategies: Balancing Speed, Safety, and Scale to Optimize Deployments for Different Organizational Needs",
+        "link": "https://aws.amazon.com/blogs/devops/stacksets-deployment-strategies-balancing-speed-safety-and-scale-to-optimize-deployments-for-different-organizational-needs/"
     },
     {
-        "title": "Implementing Identity-Aware Sessions with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/implementing-identity-aware-sessions-with-amazon-q-developer/"
+        "title": "Moeve: Controlling resource deployment at scale with AWS CloudFormation Guard Hooks",
+        "link": "https://aws.amazon.com/blogs/devops/moeve-controlling-resource-deployment-at-scale-with-aws-cloudformation-guard-hooks/"
     },
     {
-        "title": "How to use Amazon Q Developer to deploy a Serverless web application with AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/how-to-use-amazon-q-developer-to-deploy-a-serverless-web-application-with-aws-cdk/"
+        "title": "Beyond Bootstrap: Bootstrapless CDK Deployments at GoDaddy",
+        "link": "https://aws.amazon.com/blogs/devops/beyond-bootstrap-bootstrapless-cdk-deployments-at-godaddy/"
     },
     {
-        "title": "Amazon Q Developer just reached a $260 million dollar milestone",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-just-reached-a-260-million-dollar-milestone/"
+        "title": "Reduce Docker image build time on AWS CodeBuild using Amazon ECR as a remote cache",
+        "link": "https://aws.amazon.com/blogs/devops/reduce-docker-image-build-time-on-aws-codebuild-using-amazon-ecr-as-a-remote-cache/"
     },
     {
-        "title": "Accelerate your Terraform development with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-your-terraform-development-with-amazon-q-developer/"
+        "title": "Multi-Cloud Code Deployments using Amazon Q Developer with Echo3D",
+        "link": "https://aws.amazon.com/blogs/devops/multi-cloud-code-deployments-using-amazon-q-developer-with-echo3d/"
     },
     {
-        "title": "Balance deployment speed and stability with DORA metrics",
-        "link": "https://aws.amazon.com/blogs/devops/balance-deployment-speed-and-stability-with-dora-metrics/"
+        "title": "Accelerating AWS Infrastructure Deployment: A Practical Guide to Console-to-Code",
+        "link": "https://aws.amazon.com/blogs/devops/accelerating-aws-infrastructure-deployment-a-practical-guide-to-console-to-code/"
     },
     {
-        "title": "Testing your applications with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/testing-your-applications-with-amazon-q-developer/"
+        "title": "Multi Agent Collaboration with Strands",
+        "link": "https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/"
     },
     {
-        "title": "Use OpenID Connect with AWS Toolkit for Azure DevOps to perform AWS CodeDeploy deployments",
-        "link": "https://aws.amazon.com/blogs/devops/use-openid-connect-with-aws-toolkit-for-azure-devops-to-perform-aws-codedeploy-deployments/"
+        "title": "AWS named as a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants",
+        "link": "https://aws.amazon.com/blogs/devops/aws-named-as-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/"
     },
     {
-        "title": "How to migrate your AWS CodeCommit repository to another Git provider",
-        "link": "https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/"
+        "title": "Introducing universal installers for AWS CLI v2 on macOS",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-universal-installers-for-aws-cli-v2-on-macos/"
     },
     {
-        "title": "How to migrate from AWS Cloud9 to AWS IDE Toolkits or AWS Cloudshell",
-        "link": "https://aws.amazon.com/blogs/devops/how-to-migrate-from-aws-cloud9-to-aws-ide-toolkits-or-aws-cloudshell/"
+        "title": "AWS Cloud Development Kit (CDK) Launches Refactor",
+        "link": "https://aws.amazon.com/blogs/devops/aws-cloud-development-kit-cdk-launches-refactor/"
     },
     {
-        "title": "Leveraging Amazon Q Developer for Efficient Code Debugging and Maintenance",
-        "link": "https://aws.amazon.com/blogs/devops/leveraging-amazon-q-developer-for-efficient-code-debugging-and-maintenance/"
+        "title": "Introducing an Interactive Code Review Experience with Amazon Q Developer in GitHub",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-an-interactive-code-review-experience-with-amazon-q-developer-in-github/"
     },
     {
-        "title": "AWS announces workspace context awareness for Amazon Q Developer chat",
-        "link": "https://aws.amazon.com/blogs/devops/aws-announces-workspace-context-awareness-for-amazon-q-developer-chat/"
+        "title": "Measuring Developer Productivity with Amazon Q Developer and Jellyfish",
+        "link": "https://aws.amazon.com/blogs/devops/measuring-developer-productivity-with-amazon-q-developer-and-jellyfish/"
     },
     {
-        "title": "Chat about your AWS account resources with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/chat-about-your-aws-account-resources-with-amazon-q-developer/"
+        "title": "Mastering Amazon Q Developer with Rules",
+        "link": "https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-with-rules/"
     },
     {
-        "title": "Refactoring to Serverless: From Application to Automation",
-        "link": "https://aws.amazon.com/blogs/devops/refactoring-to-serverless-from-application-to-automation/"
+        "title": "Announcing the end-of-support for the AWS SDK for .NET v3",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-the-aws-sdk-for-net-v3/"
     },
     {
-        "title": "Modernize your Java application with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/modernize-your-java-application-with-amazon-q-developer/"
+        "title": "Announcing the end-of-support for AWS Tools for PowerShell v4",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-aws-tools-for-powershell-v4/"
     },
     {
-        "title": "Best practices working with self-hosted GitHub Action runners at scale on AWS",
-        "link": "https://aws.amazon.com/blogs/devops/best-practices-working-with-self-hosted-github-action-runners-at-scale-on-aws/"
+        "title": "Introducing AWS Cloud Control API MCP Server: Natural Language Infrastructure Management on AWS",
+        "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloud-control-api-mcp-server-natural-language-infrastructure-management-on-aws/"
     },
     {
-        "title": "Fault-isolated, zonal deployments with AWS CodeDeploy",
-        "link": "https://aws.amazon.com/blogs/devops/fault-isolated-zonal-deployments-with-aws-codedeploy/"
+        "title": "Flexibility to Framework: Building MCP Servers with Controlled Tool Orchestration",
+        "link": "https://aws.amazon.com/blogs/devops/flexibility-to-framework-building-mcp-servers-with-controlled-tool-orchestration/"
     },
     {
-        "title": "Five ways Amazon Q simplifies AWS CloudFormation development",
-        "link": "https://aws.amazon.com/blogs/devops/five-ways-amazon-q-simplifies-aws-cloudformation-development/"
+        "title": "Overcome development disarray with Amazon Q Developer CLI custom agents",
+        "link": "https://aws.amazon.com/blogs/devops/overcome-development-disarray-with-amazon-q-developer-cli-custom-agents/"
     },
     {
-        "title": "Blue/Green Deployments to Amazon ECS using AWS CloudFormation and AWS CodeDeploy",
-        "link": "https://aws.amazon.com/blogs/devops/blue-green-deployments-to-amazon-ecs-using-aws-cloudformation-and-aws-codedeploy/"
+        "title": "AI-Driven Development Life Cycle: Reimagining Software Engineering",
+        "link": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/"
     }
 ]

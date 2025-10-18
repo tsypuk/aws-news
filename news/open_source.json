@@ -1,82 +1,82 @@
 [
     {
-        "title": "From Data Chaos to Cohesion: How OCSF is Optimizing Cyber Threat Detection",
-        "link": "https://aws.amazon.com/blogs/opensource/from-data-chaos-to-cohesion-how-ocsf-is-optimizing-cyber-threat-detection/"
+        "title": "Strands Agents and the Model-Driven Approach",
+        "link": "https://aws.amazon.com/blogs/opensource/strands-agents-and-the-model-driven-approach/"
     },
     {
-        "title": "Diving into OCI Image and Distribution 1.1 Support in Amazon ECR",
-        "link": "https://aws.amazon.com/blogs/opensource/diving-into-oci-image-and-distribution-1-1-support-in-amazon-ecr/"
+        "title": "AWS joins the DocumentDB project to build interoperable, open source document database technology",
+        "link": "https://aws.amazon.com/blogs/opensource/aws-joins-the-documentdb-project-to-build-interoperable-open-source-document-database-technology/"
     },
     {
-        "title": "Amazon\u2019s Exabyte-Scale Migration from Apache Spark to Ray on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/opensource/amazons-exabyte-scale-migration-from-apache-spark-to-ray-on-amazon-ec2/"
+        "title": "Open Protocols for Agent Interoperability Part 4: Inter-Agent Communication on A2A",
+        "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-4-inter-agent-communication-on-a2a/"
     },
     {
-        "title": "Getting Started with Cilium Service Mesh on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/opensource/getting-started-with-cilium-service-mesh-on-amazon-eks/"
+        "title": "Powering AI-Driven Security with the Open Cybersecurity Schema Framework",
+        "link": "https://aws.amazon.com/blogs/opensource/powering-ai-driven-security-with-the-open-cybersecurity-schema-framework/"
     },
     {
-        "title": "Build More Sustainable AWS Workloads with the Sustainability Scanner",
-        "link": "https://aws.amazon.com/blogs/opensource/build-more-sustainable-aws-workloads-with-the-sustainability-scanner/"
+        "title": "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-1-0-production-ready-multi-agent-orchestration-made-simple/"
     },
     {
-        "title": "Deep PostgreSQL Thoughts: Valuing Currency",
-        "link": "https://aws.amazon.com/blogs/opensource/deep-postgresql-thoughts-valuing-currency/"
+        "title": "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP",
+        "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-3-strands-agents-mcp/"
     },
     {
-        "title": "Introducing Amazon Timestream for InfluxDB: A managed service for the popular open source time-series database",
-        "link": "https://aws.amazon.com/blogs/opensource/introducing-amazon-timestream-for-influxdb-a-managed-service-for-the-popular-open-source-time-series-database/"
+        "title": "Open Protocols for Agent Interoperability Part 2: Authentication on MCP",
+        "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-2-authentication-on-mcp/"
     },
     {
-        "title": "Enhancing Network Resilience with Istio on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/opensource/enhancing-network-resilience-with-istio-on-amazon-eks/"
+        "title": "Introducing AWS CDK Community Meetings",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-aws-cdk-community-meetings/"
     },
     {
-        "title": "Flowpipe: A Cloud Scripting Engine for DevOps Workflows",
-        "link": "https://aws.amazon.com/blogs/opensource/flowpipe-a-cloud-scripting-engine-for-devops-workflows/"
+        "title": "Secure your Express application APIs in 5 minutes with Cedar",
+        "link": "https://aws.amazon.com/blogs/opensource/secure-your-application-apis-in-5-minutes-with-cedar/"
     },
     {
-        "title": "Lean Into Verified Software Development",
-        "link": "https://aws.amazon.com/blogs/opensource/lean-into-verified-software-development/"
+        "title": "Introducing Cedar Analysis: Open Source Tools for Verifying Authorization Policies",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-cedar-analysis-open-source-tools-for-verifying-authorization-policies/"
     },
     {
-        "title": "Why AWS Supports Valkey",
-        "link": "https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/"
+        "title": "Using Strands Agents with Claude 4 Interleaved Thinking",
+        "link": "https://aws.amazon.com/blogs/opensource/using-strands-agents-with-claude-4-interleaved-thinking/"
     },
     {
-        "title": "Accelerate your Application Modernization to Amazon EKS with Konveyor",
-        "link": "https://aws.amazon.com/blogs/opensource/accelerate-your-application-modernization-to-amazon-eks-with-konveyor/"
+        "title": "GNOME has a new infrastructure partner: welcome AWS!",
+        "link": "https://aws.amazon.com/blogs/opensource/gnome-has-a-new-infrastructure-partner-welcome-aws/"
     },
     {
-        "title": "Building a Multicloud Resource Data Lake Using CloudQuery",
-        "link": "https://aws.amazon.com/blogs/opensource/building-a-multicloud-resource-data-lake-using-cloudquery/"
+        "title": "Accelerate Microservices Development with DAPR and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/opensource/accelerate-microservices-development-with-dapr-and-amazon-eks/"
     },
     {
-        "title": "Announcing the Data Solutions Framework on AWS",
-        "link": "https://aws.amazon.com/blogs/opensource/announcing-the-data-solutions-framework-on-aws/"
+        "title": "Open Protocols for Agent Interoperability Part 1: Inter-Agent Communication on MCP",
+        "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/"
     },
     {
-        "title": "Building Developer Portals with Backstage and Amazon EKS Blueprints",
-        "link": "https://aws.amazon.com/blogs/opensource/building-developer-portals-with-backstage-and-amazon-eks-blueprints/"
+        "title": "Introducing Strands Agents, an Open Source AI Agents SDK",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/"
     },
     {
-        "title": "Finch Container Development Tool: Now for Windows",
-        "link": "https://aws.amazon.com/blogs/opensource/finch-container-development-tool-now-for-windows/"
+        "title": "Modernizing Snowflake Corporate\u2019s Kubernetes Infrastructure with Bottlerocket and Karpenter",
+        "link": "https://aws.amazon.com/blogs/opensource/modernizing-snowflake-corporates-kubernetes-infrastructure-with-bottlerocket-and-karpenter/"
     },
     {
-        "title": "Deploying to Amazon Managed Workflows for Apache Airflow with CI/CD tools",
-        "link": "https://aws.amazon.com/blogs/opensource/deploying-to-amazon-managed-workflows-for-apache-airflow-with-ci-cd-tools/"
+        "title": "Video Encoding on Graviton in 2025",
+        "link": "https://aws.amazon.com/blogs/opensource/video-encoding-on-graviton-in-2025/"
     },
     {
-        "title": "Integrating the AWS Lambda Telemetry API with Prometheus and OpenSearch",
-        "link": "https://aws.amazon.com/blogs/opensource/integrating-the-aws-lambda-telemetry-api-with-prometheus-and-opensearch/"
+        "title": "AWS Cloud Credits for Open Source Projects: Affirming Our Commitment",
+        "link": "https://aws.amazon.com/blogs/opensource/aws-cloud-credits-for-open-source-projects-affirming-our-commitment/"
     },
     {
-        "title": "OpenSearch Expands Leadership Beyond AWS",
-        "link": "https://aws.amazon.com/blogs/opensource/opensearch-expands-leadership-beyond-aws/"
+        "title": "Introducing Qonto\u2019s Prometheus RDS Exporter \u2013 An Open Source Solution to Enhance Monitoring Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-qontos-prometheus-rds-exporter-an-open-source-solution-to-enhance-monitoring-amazon-rds/"
     },
     {
-        "title": "Using Istio Traffic Management on Amazon EKS to Enhance User Experience",
-        "link": "https://aws.amazon.com/blogs/opensource/using-istio-traffic-management-to-enhance-user-experience/"
+        "title": "Kube Resource Orchestrator, From Experiment to Community Project",
+        "link": "https://aws.amazon.com/blogs/opensource/kube-resource-orchestrator-from-experiment-to-community-project/"
     }
 ]

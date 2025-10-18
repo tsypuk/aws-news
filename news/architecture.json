@@ -1,82 +1,82 @@
 [
     {
-        "title": "Achieving Frugal Architecture using the AWS Well-Architected Framework guidance",
-        "link": "https://aws.amazon.com/blogs/architecture/achieving-frugal-architecture-using-the-aws-well-architected-framework-guidance/"
+        "title": "Modernization of real-time payment orchestration on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/"
     },
     {
-        "title": "Tenant portability: Move tenants across tiers in a SaaS application",
-        "link": "https://aws.amazon.com/blogs/architecture/tenant-portability-move-tenants-across-tiers-in-a-saas-application/"
+        "title": "Build resilient generative AI agents",
+        "link": "https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/"
     },
     {
-        "title": "Introducing the M\u0101ori Data Lens for the Well-Architected Framework",
-        "link": "https://aws.amazon.com/blogs/architecture/introducing-the-maori-data-lens-for-the-well-architected-framework/"
+        "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
+        "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/"
     },
     {
-        "title": "Let\u2019s Architect! Designing Well-Architected systems",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-well-architected-systems/"
+        "title": "Simplify multi-tenant encryption with a cost-conscious AWS KMS key strategy",
+        "link": "https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/"
     },
     {
-        "title": "Simplify and automate bill processing with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/architecture/simplify-and-automate-bill-processing-with-amazon-bedrock/"
+        "title": "How CommBank made their CommSec trading platform highly available and operationally resilient",
+        "link": "https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/"
     },
     {
-        "title": "Announcing updates to the AWS Well-Architected Framework guidance",
-        "link": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-guidance-2/"
+        "title": "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving",
+        "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/"
     },
     {
-        "title": "Let\u2019s Architect! Migrating to the cloud with AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-migrating-to-the-cloud-with-aws/"
+        "title": "How Karrot built a feature platform on AWS, Part 2: Feature ingestion",
+        "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-2-feature-ingestion/"
     },
     {
-        "title": "Genomics workflows, Part 7: analyze public RNA sequencing data using AWS HealthOmics",
-        "link": "https://aws.amazon.com/blogs/architecture/genomics-workflows-part-7-analyze-public-rna-sequencing-data-using-aws-healthomics/"
+        "title": "Deploy LLMs on Amazon EKS using vLLM Deep Learning Containers",
+        "link": "https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/"
     },
     {
-        "title": "Let\u2019s Architect! Learn About Machine Learning on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/"
+        "title": "Maximizing Business Value Through Strategic Cloud Optimization",
+        "link": "https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/"
     },
     {
-        "title": "Deploy Stable Diffusion ComfyUI on AWS elastically and efficiently",
-        "link": "https://aws.amazon.com/blogs/architecture/deploy-stable-diffusion-comfyui-on-aws-elastically-and-efficiently/"
+        "title": "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale",
+        "link": "https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/"
     },
     {
-        "title": "Creating an organizational multi-Region failover strategy",
-        "link": "https://aws.amazon.com/blogs/architecture/creating-an-organizational-multi-region-failover-strategy/"
+        "title": "How HashiCorp made cross-Region switchover seamless with Amazon Application Recovery Controller",
+        "link": "https://aws.amazon.com/blogs/architecture/how-hashicorp-made-cross-region-switchover-seamless-with-amazon-application-recovery-controller/"
     },
     {
-        "title": "Let\u2019s Architect! Discovering Generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/"
+        "title": "Implement monitoring for Amazon EKS with managed services",
+        "link": "https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/"
     },
     {
-        "title": "Genomics workflows, Part 6: cost prediction",
-        "link": "https://aws.amazon.com/blogs/architecture/part-6-genomics-workflows-cost-prediction/"
+        "title": "How Scale to Win uses AWS WAF to block DDoS events",
+        "link": "https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/"
     },
     {
-        "title": "London Stock Exchange Group uses chaos engineering on AWS to improve resilience",
-        "link": "https://aws.amazon.com/blogs/architecture/london-stock-exchange-group-uses-chaos-engineering-on-aws-to-improve-resilience/"
+        "title": "Migrate and modernize VMware workloads with AWS Transform for VMware",
+        "link": "https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/"
     },
     {
-        "title": "Simplify document search at scale with intelligent search bot on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/simplify-document-search-at-scale-with-intelligent-search-bot-on-aws/"
+        "title": "Simplifying sustainability reporting using AWS and generative AI in banking",
+        "link": "https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/"
     },
     {
-        "title": "Physics on AWS: Optimizing wind turbine performance using OpenFAST in a digital twin",
-        "link": "https://aws.amazon.com/blogs/architecture/physics-on-aws-optimizing-wind-turbine-performance-using-openfast-in-a-digital-twin/"
+        "title": "Amazon Bedrock baseline architecture in an AWS landing zone",
+        "link": "https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/"
     },
     {
-        "title": "Top Architecture Blog Posts of 2023",
-        "link": "https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023/"
+        "title": "Build a multi-Region AWS PrivateLink backed service with seamless failover",
+        "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-region-aws-privatelink-backed-service-with-seamless-failover/"
     },
     {
-        "title": "Behavior Driven Chaos with AWS Fault Injection Simulator",
-        "link": "https://aws.amazon.com/blogs/architecture/behavior-driven-chaos-with-aws-fault-injection-simulator/"
+        "title": "How Stellantis streamlines floating license management with serverless orchestration on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/"
     },
     {
-        "title": "How Zurich Insurance Group built their Scalable Account Vending process using AWS Account Factory for Terraform",
-        "link": "https://aws.amazon.com/blogs/architecture/how-zurich-insurance-group-built-their-scalable-account-vending-process-using-aws-account-factory-for-terraform/"
+        "title": "Analyze media content using AWS AI services",
+        "link": "https://aws.amazon.com/blogs/architecture/analyze-media-content-using-aws-ai-services/"
     },
     {
-        "title": "How Sonar built a unified API on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-sonar-built-a-unified-api-on-aws/"
+        "title": "How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/"
     }
 ]

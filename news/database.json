@@ -1,82 +1,82 @@
 [
     {
-        "title": "Improve speed and reduce cost for generative AI workloads with a persistent semantic cache in Amazon MemoryDB",
-        "link": "https://aws.amazon.com/blogs/database/improve-speed-and-reduce-cost-for-generative-ai-workloads-with-a-persistent-semantic-cache-in-amazon-memorydb/"
+        "title": "Performance optimization strategies for MySQL on Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/performance-optimization-strategies-for-mysql-on-amazon-rds/"
     },
     {
-        "title": "Build and deploy knowledge graphs faster with RDF and openCypher",
-        "link": "https://aws.amazon.com/blogs/database/build-and-deploy-knowledge-graphs-faster-with-rdf-and-opencypher/"
+        "title": "Amazon Aurora MySQL zero-ETL integration with Amazon SageMaker Lakehouse",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-zero-etl-integration-with-amazon-sagemaker-lakehouse/"
     },
     {
-        "title": "Monitor Amazon DynamoDB operation counts with Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/database/monitor-amazon-dynamodb-operation-counts-with-amazon-cloudwatch/"
+        "title": "Transform your Oracle Database journey with Accenture and AWS",
+        "link": "https://aws.amazon.com/blogs/database/transform-your-oracle-database-journey-with-accenture-and-aws/"
     },
     {
-        "title": "How to deploy Stacks blockchain nodes on AWS with the AWS Blockchain Node Runners Stacks blueprint",
-        "link": "https://aws.amazon.com/blogs/database/how-to-deploy-stacks-blockchain-nodes-on-aws-with-the-aws-blockchain-node-runners-stacks-blueprint/"
+        "title": "Announcing vector search for Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/announcing-vector-search-for-amazon-elasticache/"
     },
     {
-        "title": "Stream change data in a multicloud environment using AWS DMS, Amazon MSK, and Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/database/stream-change-data-in-a-multicloud-environment-using-aws-dms-amazon-msk-and-amazon-managed-service-for-apache-flink/"
+        "title": "Advanced observability and troubleshooting with Amazon RDS event monitoring pipelines",
+        "link": "https://aws.amazon.com/blogs/database/advanced-observability-and-troubleshooting-with-amazon-rds-event-monitoring-pipelines/"
     },
     {
-        "title": "Analyze blockchain data with natural language using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/analyze-blockchain-data-with-natural-language-using-amazon-bedrock/"
+        "title": "Building a 10-billion wallet crypto-intelligence platform: Elliptic\u2019s journey with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/building-a-10-billion-wallet-crypto-intelligence-platform-elliptics-journey-with-amazon-dynamodb/"
     },
     {
-        "title": "Better Together: Amazon SageMaker Canvas and RDS for SQL Server, a predictive ML model sample use case",
-        "link": "https://aws.amazon.com/blogs/database/better-together-amazon-sagemaker-canvas-and-rds-for-sql-server-a-predictive-ml-model-sample-use-case/"
+        "title": "Monitor Amazon Timestream for InfluxDB performance using the Timestream for InfluxDB Metrics dashboard",
+        "link": "https://aws.amazon.com/blogs/database/monitor-amazon-timestream-for-influxdb-performance-using-the-timestream-for-influxdb-metrics-dashboard/"
     },
     {
-        "title": "Power real-time vector search capabilities with Amazon MemoryDB",
-        "link": "https://aws.amazon.com/blogs/database/power-real-time-vector-search-capabilities-with-amazon-memorydb/"
+        "title": "Key components of a data-driven agentic AI application",
+        "link": "https://aws.amazon.com/blogs/database/key-components-of-a-data-driven-agentic-ai-application/"
     },
     {
-        "title": "Implement a rollback strategy after an Amazon Aurora MySQL blue/green deployment switchover",
-        "link": "https://aws.amazon.com/blogs/database/implement-a-rollback-strategy-after-an-amazon-aurora-mysql-blue-green-deployment-switchover/"
+        "title": "Build a dynamic workflow orchestration engine with Amazon DynamoDB and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/database/build-a-dynamic-workflow-orchestration-engine-with-amazon-dynamodb-and-aws-lambda/"
     },
     {
-        "title": "Review your Amazon Aurora and Amazon RDS security configuration with Prowler\u2019s new checks",
-        "link": "https://aws.amazon.com/blogs/database/review-your-amazon-aurora-and-amazon-rds-security-configuration-with-prowlers-new-checks/"
+        "title": "Set up proactive monitoring for Amazon RDS for SQL Server with real-time Slack notifications",
+        "link": "https://aws.amazon.com/blogs/database/set-up-proactive-monitoring-for-amazon-rds-for-sql-server-with-real-time-slack-notifications/"
     },
     {
-        "title": "Migrate an on-premises MySQL database to Amazon Aurora MySQL over a private network using AWS DMS homogeneous data migration and Network Load Balancer",
-        "link": "https://aws.amazon.com/blogs/database/migrate-an-on-premises-mysql-database-to-amazon-aurora-mysql-over-a-private-network-using-aws-dms-homogeneous-data-migration-and-network-load-balancer/"
+        "title": "How Smartsheet enhances recommendations using Amazon Neptune and Knowledge Graphs",
+        "link": "https://aws.amazon.com/blogs/database/how-smartsheet-enhances-recommendations-using-amazon-neptune-and-knowledge-graphs/"
     },
     {
-        "title": "Query RDF graphs using SPARQL and property graphs using Gremlin with the Amazon Athena Neptune connector",
-        "link": "https://aws.amazon.com/blogs/database/query-rdf-graphs-using-sparql-and-property-graphs-using-gremlin-with-the-amazon-athena-neptune-connector/"
+        "title": "Identifying and resolving performance issues caused by TOAST OID contention in Amazon Aurora PostgreSQL Compatible Edition and Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/identifying-and-resolving-performance-issues-caused-by-toast-oid-contention-in-amazon-aurora-postgresql-compatible-edition-and-amazon-rds-for-postgresql/"
     },
     {
-        "title": "Stop and start Amazon RDS Multi-AZ DB clusters on a schedule",
-        "link": "https://aws.amazon.com/blogs/database/stop-and-start-amazon-rds-multi-az-db-clusters-on-a-schedule/"
+        "title": "Implement event-driven architectures with Amazon DynamoDB \u2013 Part 3",
+        "link": "https://aws.amazon.com/blogs/database/implement-event-driven-architectures-with-amazon-dynamodb-part-3/"
     },
     {
-        "title": "Using knowledge graphs to build GraphRAG applications with Amazon Bedrock and Amazon Neptune",
-        "link": "https://aws.amazon.com/blogs/database/using-knowledge-graphs-to-build-graphrag-applications-with-amazon-bedrock-and-amazon-neptune/"
+        "title": "Implement event-driven architectures with Amazon DynamoDB \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/database/implement-event-driven-architectures-with-amazon-dynamodb-part-2/"
     },
     {
-        "title": "How Infosys used Amazon Aurora zero-ETL integration with Amazon Redshift for near real-time analytics and insights",
-        "link": "https://aws.amazon.com/blogs/database/how-infosys-used-amazon-aurora-zero-etl-to-amazon-redshift-for-near-real-time-analytics-and-insights/"
+        "title": "Implement event-driven architectures with Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/implement-event-driven-architectures-with-amazon-dynamodb/"
     },
     {
-        "title": "Introducing smaller capacity units for Amazon Neptune Analytics: Up to 75% cheaper to get started with graph analytics workloads",
-        "link": "https://aws.amazon.com/blogs/database/introducing-smaller-capacity-units-for-amazon-neptune-analytics-up-to-75-cheaper-to-get-started-with-graph-analytics-workloads/"
+        "title": "Raising the bar on Amazon DynamoDB data modeling",
+        "link": "https://aws.amazon.com/blogs/database/raising-the-bar-on-amazon-dynamodb-data-modeling/"
     },
     {
-        "title": "Implementing a fall forward strategy from Amazon RDS for SQL Server Transparent Data Encryption (TDE) and Non-TDE Enabled databases to self-managed SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/implementing-a-fall-forward-strategy-from-amazon-rds-for-sql-server-transparent-data-encryption-tde-and-non-tde-enabled-databases-to-self-managed-sql-server/"
+        "title": "Long-term storage and analysis of Amazon RDS events with Amazon S3 and Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/database/long-term-storage-and-analysis-of-amazon-rds-events-with-amazon-s3-and-amazon-athena/"
     },
     {
-        "title": "Best practices for Amazon RDS for SQL Server with Amazon EBS io2 Block Express volumes up to 64 TiB",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-amazon-rds-for-sql-server-with-amazon-ebs-io2-block-express-volumes-up-to-64-tib/"
+        "title": "Migrate full-text search from SQL Server to Amazon Aurora PostgreSQL-compatible edition or Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrate-full-text-search-from-sql-server-to-amazon-aurora-postgresql-compatible-edition-or-amazon-rds-for-postgresql/"
     },
     {
-        "title": "Schneider Electric automates Salesforce account hierarchy management with generative artificial intelligence (AI) using Amazon Aurora and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/schneider-electric-automates-salesforce-account-hierarchy-management-with-generative-artificial-intelligence-ai-using-amazon-aurora-and-amazon-bedrock/"
+        "title": "Dynamic view-based data masking in Amazon RDS and Amazon Aurora MySQL",
+        "link": "https://aws.amazon.com/blogs/database/dynamic-view-based-data-masking-in-amazon-rds-and-amazon-aurora-mysql/"
     },
     {
-        "title": "Make relevant movie recommendations using Amazon Neptune, Amazon Neptune Machine Learning, and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/database/make-relevant-movie-recommendations-using-amazon-neptune-amazon-neptune-machine-learning-and-amazon-opensearch-service/"
+        "title": "Clone Amazon RDS Custom for Oracle to Amazon EC2 using multi-volume EBS snapshots",
+        "link": "https://aws.amazon.com/blogs/database/clone-amazon-rds-custom-for-oracle-to-amazon-ec2-using-multi-volume-ebs-snapshots/"
     }
 ]

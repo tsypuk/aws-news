@@ -1,82 +1,82 @@
 [
     {
-        "title": "Enabling high availability of Amazon EC2 instances on AWS Outposts servers: (Part 2)",
-        "link": "https://aws.amazon.com/blogs/compute/enabling-high-availability-of-amazon-ec2-instances-on-aws-outposts-servers-part-2/"
+        "title": "Zero downtime blue/green deployments with Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/compute/zero-downtime-blue-green-deployments-with-amazon-api-gateway/"
     },
     {
-        "title": "Enabling high availability of Amazon EC2 instances on AWS Outposts servers: (Part 1)",
-        "link": "https://aws.amazon.com/blogs/compute/enabling-high-availability-of-amazon-ec2-instances-on-aws-outposts-servers-part-1/"
+        "title": "Migrate encrypted Amazon EC2 instances across AWS Regions without sharing AWS KMS keys",
+        "link": "https://aws.amazon.com/blogs/compute/migrate-encrypted-amazon-ec2-instances-across-aws-regions-without-sharing-aws-kms-keys/"
     },
     {
-        "title": "Using Amazon APerf to go from 50% below to 36% above performance target",
-        "link": "https://aws.amazon.com/blogs/compute/using-amazon-aperf-to-go-from-50-below-to-36-above-performance-target/"
+        "title": "Securing applications with AWS Nitro Enclaves: TLS termination, TAP networking, and IMDSv2",
+        "link": "https://aws.amazon.com/blogs/compute/securing-applications-with-aws-nitro-enclaves-tls-termination-tap-networking-and-imdsv2/"
     },
     {
-        "title": "Migrating your on-premises workloads to AWS Outposts rack",
-        "link": "https://aws.amazon.com/blogs/compute/migrating-your-on-premises-workloads-to-aws-outposts-rack/"
+        "title": "Serverless ICYMI Q3 2025",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q3-2025/"
     },
     {
-        "title": "Strengthening data security in AWS Step Functions with a customer-managed AWS KMS key",
-        "link": "https://aws.amazon.com/blogs/compute/strengthening-data-security-in-aws-step-functions-with-a-customer-managed-aws-kms-key/"
+        "title": "Deploying AI models for inference with AWS Lambda using zip packaging",
+        "link": "https://aws.amazon.com/blogs/compute/deploying-ai-models-for-inference-with-aws-lambda-using-zip-packaging/"
     },
     {
-        "title": "Introducing quorum queues on Amazon MQ for RabbitMQ",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-quorum-queues-on-amazon-mq-for-rabbitmq/"
+        "title": "How to export to Amazon S3 Tables by using AWS Step Functions Distributed Map",
+        "link": "https://aws.amazon.com/blogs/compute/how-to-export-to-amazon-s3-tables-by-using-aws-step-functions-distributed-map/"
     },
     {
-        "title": "Implementing multi-Region failover for Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-multi-region-failover-for-amazon-api-gateway/"
+        "title": "Enhance the local testing experience for serverless applications with LocalStack",
+        "link": "https://aws.amazon.com/blogs/compute/enhance-the-local-testing-experience-for-serverless-applications-with-localstack/"
     },
     {
-        "title": "Serverless ICYMI Q2 2024",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2024/"
+        "title": "Tuning guide for AMD Amazon EC2 instances",
+        "link": "https://aws.amazon.com/blogs/compute/tuning-guide-for-amd-amazon-ec2-instances/"
     },
     {
-        "title": "Securing Amazon ECS workloads on AWS Fargate with customer managed keys",
-        "link": "https://aws.amazon.com/blogs/compute/securing-amazon-ecs-workloads-on-aws-fargate-with-customer-managed-keys/"
+        "title": "DISA STIG for Amazon Linux 2023 is now available",
+        "link": "https://aws.amazon.com/blogs/compute/disa-stig-for-amazon-linux-2023-is-now-available/"
     },
     {
-        "title": "Implementing network traffic inspection on AWS Outposts rack",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-network-traffic-inspection-on-aws-outposts-rack/"
+        "title": "Accelerating local serverless development with console to IDE and remote debugging for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/accelerating-local-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/"
     },
     {
-        "title": "Using the circuit-breaker pattern with AWS Lambda extensions and Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/compute/using-the-circuit-breaker-pattern-with-aws-lambda-extensions-and-amazon-dynamodb/"
+        "title": "Accessing private Amazon API Gateway endpoints through custom Amazon CloudFront distribution using VPC Origins",
+        "link": "https://aws.amazon.com/blogs/compute/accessing-private-amazon-api-gateway-endpoints-through-custom-amazon-cloudfront-distribution-using-vpc-origins/"
     },
     {
-        "title": "Running code after returning a response from an AWS Lambda function",
-        "link": "https://aws.amazon.com/blogs/compute/running-code-after-returning-a-response-from-an-aws-lambda-function/"
+        "title": "Building resilient multi-Region Serverless applications on AWS",
+        "link": "https://aws.amazon.com/blogs/compute/building-resilient-multi-region-serverless-applications-on-aws/"
     },
     {
-        "title": "Accelerating workflow development with the TestState API in AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/compute/accelerating-workflow-development-with-the-teststate-api-in-aws-step-functions/"
+        "title": "Serverless generative AI architectural patterns \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/compute/part-2-serverless-generative-ai-architectural-patterns/"
     },
     {
-        "title": "Architecting for Disaster Recovery on AWS Outposts Racks with AWS Elastic Disaster Recovery",
-        "link": "https://aws.amazon.com/blogs/compute/architecting-for-disaster-recovery-on-aws-outposts-racks-with-aws-elastic-disaster-recovery/"
+        "title": "Serverless generative AI architectural patterns \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-generative-ai-architectural-patterns/"
     },
     {
-        "title": "Serverless ICYMI Q1 2024",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2024/"
+        "title": "Implementing advanced AWS Graviton adoption strategies across AWS Regions",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-advanced-aws-graviton-adoption-strategies-across-aws-regions/"
     },
     {
-        "title": "Applying Spot-to-Spot consolidation best practices with Karpenter",
-        "link": "https://aws.amazon.com/blogs/compute/applying-spot-to-spot-consolidation-best-practices-with-karpenter/"
+        "title": "Multi-rack and multiple logical AWS Outposts architecture considerations for resiliency",
+        "link": "https://aws.amazon.com/blogs/compute/multi-rack-and-multiple-logical-aws-outposts-architecture-considerations-for-resiliency/"
     },
     {
-        "title": "Automating chaos experiments with AWS Fault Injection Service and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/"
+        "title": "Under the hood: how AWS Lambda SnapStart optimizes function startup latency",
+        "link": "https://aws.amazon.com/blogs/compute/under-the-hood-how-aws-lambda-snapstart-optimizes-function-startup-latency/"
     },
     {
-        "title": "Sending and receiving CloudEvents with Amazon EventBridge",
-        "link": "https://aws.amazon.com/blogs/compute/sending-and-receiving-cloudevents-with-amazon-eventbridge/"
+        "title": "Effectively building AI agents on AWS Serverless",
+        "link": "https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/"
     },
     {
-        "title": "Building a serverless pipeline to deliver reliable messaging",
-        "link": "https://aws.amazon.com/blogs/compute/building-a-serverless-streaming-pipeline-to-deliver-reliable-messaging/"
+        "title": "Understanding and Remediating Cold Starts: An AWS Lambda Perspective",
+        "link": "https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/"
     },
     {
-        "title": "Comparing design approaches for building serverless microservices",
-        "link": "https://aws.amazon.com/blogs/compute/comparing-design-approaches-for-building-serverless-microservices/"
+        "title": "Improving network observability with new AWS Outposts racks network metrics",
+        "link": "https://aws.amazon.com/blogs/compute/improving-network-observability-with-new-aws-outposts-racks-network-metrics/"
     }
 ]

@@ -1,82 +1,82 @@
 [
     {
-        "title": "Using Amazon GuardDuty Malware Protection to scan uploads to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/security/using-amazon-guardduty-malware-protection-to-scan-uploads-to-amazon-s3/"
+        "title": "Securing Amazon Bedrock API keys: Best practices for implementation and management",
+        "link": "https://aws.amazon.com/blogs/security/securing-amazon-bedrock-api-keys-best-practices-for-implementation-and-management/"
     },
     {
-        "title": "How to centrally manage secrets with AWS Secrets Manager",
-        "link": "https://aws.amazon.com/blogs/security/how-to-centrally-manage-secrets-with-aws-secrets-manager/"
+        "title": "Protect your generative AI applications against encoding-based attacks with Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/security/protect-your-generative-ai-applications-against-encoding-based-attacks-with-amazon-bedrock-guardrails/"
     },
     {
-        "title": "Cloud infrastructure entitlement management in AWS",
-        "link": "https://aws.amazon.com/blogs/security/cloud-infrastructure-entitlement-management-in-aws/"
+        "title": "Simplified model access in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/security/simplified-amazon-bedrock-model-access/"
     },
     {
-        "title": "Network perimeter security protections for generative AI",
-        "link": "https://aws.amazon.com/blogs/security/network-perimeter-security-protections-for-generative-ai/"
+        "title": "Securing AI agents with Amazon Bedrock AgentCore Identity",
+        "link": "https://aws.amazon.com/blogs/security/securing-ai-agents-with-amazon-bedrock-agentcore-identity/"
     },
     {
-        "title": "Spring 2024 SOC 2 report now available in Japanese, Korean, and Spanish",
-        "link": "https://aws.amazon.com/blogs/security/spring-2024-soc-2-report-now-available-in-japanese-korean-and-spanish/"
+        "title": "How to configure and verify ACM certificates with trust stores",
+        "link": "https://aws.amazon.com/blogs/security/how-to-configure-and-verify-acm-certificates-with-trust-stores/"
     },
     {
-        "title": "Hardening the RAG chatbot architecture powered by Amazon Bedrock: Blueprint for secure design and anti-pattern mitigation",
-        "link": "https://aws.amazon.com/blogs/security/hardening-the-rag-chatbot-architecture-powered-by-amazon-bedrock-blueprint-for-secure-design-and-anti-pattern-migration/"
+        "title": "Should I use managed login or create a custom UI in Amazon Cognito?",
+        "link": "https://aws.amazon.com/blogs/security/use-the-hosted-ui-or-create-a-custom-ui-in-amazon-cognito/"
     },
     {
-        "title": "SaaS authentication: Identity management with Amazon Cognito user pools",
-        "link": "https://aws.amazon.com/blogs/security/saas-authentication-identity-management-with-amazon-cognito-user-pools/"
+        "title": "New AWS whitepaper: Security Overview of Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/security/new-aws-whitepaper-security-overview-of-amazon-eks-auto-mode/"
     },
     {
-        "title": "How AWS tracks the cloud\u2019s biggest security threats and helps shut them down",
-        "link": "https://aws.amazon.com/blogs/security/how-aws-tracks-the-clouds-biggest-security-threats-and-helps-shut-them-down/"
+        "title": "Defending against supply chain attacks like Chalk/Debug and the Shai-Hulud worm",
+        "link": "https://aws.amazon.com/blogs/security/defending-against-supply-chain-attacks-like-chalk-debug-and-the-shai-hulud-worm/"
     },
     {
-        "title": "OSPAR 2024 report now available with 163 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/ospar-2024-report-available-with-163-services-in-scope/"
+        "title": "Defending LLM applications against Unicode character smuggling",
+        "link": "https://aws.amazon.com/blogs/security/defending-llm-applications-against-unicode-character-smuggling/"
     },
     {
-        "title": "Federated access to Amazon Athena using AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/federated-access-to-amazon-athena-using-aws-iam-identity-center/"
+        "title": "Build secure network architectures for generative AI applications using AWS services",
+        "link": "https://aws.amazon.com/blogs/security/build-secure-network-architectures-for-generative-ai-applications-using-aws-services/"
     },
     {
-        "title": "AWS completes the first GDV joint audit with participant insurers in Germany",
-        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-first-gdv-joint-audit-with-participant-insurers-in-germany/"
+        "title": "How to develop an AWS Security Hub POC",
+        "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc/"
     },
     {
-        "title": "How to deploy an Amazon OpenSearch cluster to ingest logs from Amazon Security Lake",
-        "link": "https://aws.amazon.com/blogs/security/how-to-deploy-an-amazon-opensearch-cluster-to-ingest-logs-from-amazon-security-lake/"
+        "title": "Enabling AI adoption at scale through enterprise risk management framework \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/security/enabling-ai-adoption-at-scale-through-enterprise-risk-management-framework-part-2/"
     },
     {
-        "title": "AWS revalidates its AAA Pinakes rating for Spanish financial entities",
-        "link": "https://aws.amazon.com/blogs/security/aws-revalidates-its-aaa-pinakes-rating-for-spanish-financial-entities/"
+        "title": "Enabling AI adoption at scale through enterprise risk management framework \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/security/enabling-ai-adoption-at-scale-through-enterprise-risk-management-framework-part-1/"
     },
     {
-        "title": "Accelerate incident response with Amazon Security Lake \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/security/accelerate-incident-response-with-amazon-security-lake-part-2/"
+        "title": "Optimize security operations with AWS Security Incident Response",
+        "link": "https://aws.amazon.com/blogs/security/optimize-security-operations-with-aws-security-incident-response/"
     },
     {
-        "title": "How to build a CA hierarchy across multiple AWS accounts and Regions for global organization",
-        "link": "https://aws.amazon.com/blogs/security/how-to-build-a-ca-hierarchy-across-multiple-aws-accounts-and-regions-for-global-organization/"
+        "title": "Minimize risk through defense in depth: Building a comprehensive AWS control framework",
+        "link": "https://aws.amazon.com/blogs/security/minimize-risk-through-defense-in-depth-building-a-comprehensive-aws-control-framework/"
     },
     {
-        "title": "How to use the AWS Secrets Manager Agent",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-secrets-manager-agent/"
+        "title": "How to accelerate security finding reviews using automated business context validation in AWS Security Hub CSPM",
+        "link": "https://aws.amazon.com/blogs/security/how-to-accelerate-security-finding-reviews-using-automated-business-context-validation-in-aws-security-hub/"
     },
     {
-        "title": "Patterns for consuming custom log sources in Amazon Security Lake",
-        "link": "https://aws.amazon.com/blogs/security/patterns-for-consuming-custom-log-sources-in-amazon-security-lake/"
+        "title": "Unlock new possibilities: AWS Organizations service control policy now supports full IAM language",
+        "link": "https://aws.amazon.com/blogs/security/unlock-new-possibilities-aws-organizations-service-control-policy-now-supports-full-iam-language/"
     },
     {
-        "title": "AWS renews TISAX certification (Information with Very High Protection Needs (AL3)) across 19 regions",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-tisax-certification-information-with-very-high-protection-needs-al3-2/"
+        "title": "Summer 2025 SOC 1 report is now available with 183 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/summer-2025-soc-1report-is-now-available-with-183-services-in-scope/"
     },
     {
-        "title": "AWS achieves third-party attestation of conformance with the Secure Software Development Framework (SSDF)",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-third-party-attestation-of-conformance-with-the-secure-software-development-framework-ssdf/"
+        "title": "Authorizing access to data with RAG implementations",
+        "link": "https://aws.amazon.com/blogs/security/authorizing-access-to-data-with-rag-implementations/"
     },
     {
-        "title": "Strategies for achieving least privilege at scale \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/security/strategies-for-achieving-least-privilege-at-scale-part-2/"
+        "title": "Enhance TLS inspection with SNI session holding in AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/security/enhance-tls-inspection-with-sni-session-holding-in-aws-network-firewall/"
     }
 ]

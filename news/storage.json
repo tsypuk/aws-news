@@ -1,82 +1,82 @@
 [
     {
-        "title": "Simplify Active Directory authentication with a custom identity provider for AWS Transfer Family",
-        "link": "https://aws.amazon.com/blogs/storage/simplify-active-directory-authentication-with-a-custom-identity-provider-for-aws-transfer-family/"
+        "title": "Using conversational AI to derive insights from your data using Amazon S3 Metadata",
+        "link": "https://aws.amazon.com/blogs/storage/using-conversational-ai-to-derive-insights-from-your-data-using-amazon-s3-metadata/"
     },
     {
-        "title": "Building cyber resiliency with AWS Backup logically air-gapped vault",
-        "link": "https://aws.amazon.com/blogs/storage/building-cyber-resiliency-with-aws-backup-logically-air-gapped-vault/"
+        "title": "Accelerating Amazon S3 Batch Operations at scale with on-demand manifest generation",
+        "link": "https://aws.amazon.com/blogs/storage/accelerating-amazon-s3-batch-operations-at-scale-with-on-demand-manifest-generation/"
     },
     {
-        "title": "How Vivian Health is using Amazon S3 Express One Zone to accelerate healthcare hiring",
-        "link": "https://aws.amazon.com/blogs/storage/how-vivian-health-is-using-amazon-s3-express-one-zone-to-accelerate-healthcare-hiring/"
+        "title": "Improve Kubernetes pod scheduling accuracy using Amazon EBS",
+        "link": "https://aws.amazon.com/blogs/storage/improve-kubernetes-pod-scheduling-accuracy-using-amazon-ebs/"
     },
     {
-        "title": "Establish private connectivity for AWS Elastic Disaster Recovery using AWS Direct Connect",
-        "link": "https://aws.amazon.com/blogs/storage/establish-private-connectivity-for-aws-elastic-disaster-recovery-using-aws-direct-connect/"
+        "title": "Building self-managed RAG applications with Amazon EKS and Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/storage/building-self-managed-rag-applications-with-amazon-eks-and-amazon-s3-vectors/"
     },
     {
-        "title": "How DXC creates application consistent EBS Snapshots for Linux",
-        "link": "https://aws.amazon.com/blogs/storage/how-dxc-creates-application-consistent-ebs-snapshots-for-linux/"
+        "title": "Enhance your SMB file transfer security with Kerberos and AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/storage/enhance-your-smb-file-transfer-security-with-kerberos-and-aws-datasync/"
     },
     {
-        "title": "Attach an Amazon EC2 key pair to an AWS Backup restore of a VMware virtual machine",
-        "link": "https://aws.amazon.com/blogs/storage/protect-and-restore-vmware-virtual-machines-with-aws-backup/"
+        "title": "Simplify cross-account storage management with Amazon EFS and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/storage/mastering-cross-account-amazon-efs-seamlessly-mount-amazon-efs-on-amazon-eks-cluster/"
     },
     {
-        "title": "How to optimize querying your data in Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-optimize-querying-your-data-in-amazon-s3/"
+        "title": "Boost testing confidence with automated Amazon RDS data replication\u00a0from production to non-production environment",
+        "link": "https://aws.amazon.com/blogs/storage/boost-testing-confidence-with-automated-rds-data-replication-from-production-to-non-production-environment/"
     },
     {
-        "title": "Migrate large HPC datasets from the edge to the cloud then synchronize continuously",
-        "link": "https://aws.amazon.com/blogs/storage/migrate-large-hpc-datasets-from-the-edge-to-the-cloud-then-synchronize-continuously/"
+        "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 2: Failover and failback implementation)",
+        "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-2-failover-and-failback-implementation/"
     },
     {
-        "title": "How Teradata improved system availability using Amazon EBS Multi-Attach NVMe reservations",
-        "link": "https://aws.amazon.com/blogs/storage/how-teradata-improved-system-availability-using-amazon-ebs-multi-attach-nvme-reservations/"
+        "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 1: Architecture and network setup)",
+        "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-1-architecture-and-network-setup/"
     },
     {
-        "title": "Use generative AI to query your Amazon S3 data lake for insights",
-        "link": "https://aws.amazon.com/blogs/storage/use-generative-ai-to-query-your-amazon-s3-data-lake-for-insights/"
+        "title": "How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/"
     },
     {
-        "title": "Automating Amazon FSx for NetApp ONTAP password rotation with AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/storage/automating-amazon-fsx-for-netapp-ontap-password-rotation-with-aws-lambda/"
+        "title": "Build centralized cross-Region backup architecture with AWS Control Tower",
+        "link": "https://aws.amazon.com/blogs/storage/build-centralized-cross-region-backup-architecture-with-aws-control-tower/"
     },
     {
-        "title": "Accelerate file workload performance with second-generation Amazon FSx for NetApp ONTAP file systems",
-        "link": "https://aws.amazon.com/blogs/storage/accelerate-file-workload-performance-with-second-generation-amazon-fsx-for-netapp-ontap-file-systems/"
+        "title": "How a customer reduced storage TCO by 28% with Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/how-a-customer-reduced-storage-tco-by-28-with-amazon-fsx-for-netapp-ontap/"
     },
     {
-        "title": "Back up your Microsoft 365 estate with Veeam and Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/back-up-your-microsoft-365-estate-with-veeam-and-amazon-s3/"
+        "title": "Enforcing organization-wide Amazon S3 bucket-tagging policies",
+        "link": "https://aws.amazon.com/blogs/storage/enforcing-organization-wide-amazon-s3-bucket-tagging-policies/"
     },
     {
-        "title": "Bring Amazon S3 closer to the edge with Nasuni",
-        "link": "https://aws.amazon.com/blogs/storage/bring-amazon-s3-closer-to-the-edge-with-nasuni/"
+        "title": "Efficiently verify Amazon S3 data at scale with compute checksum operation",
+        "link": "https://aws.amazon.com/blogs/storage/efficiently-verify-amazon-s3-data-at-scale-with-compute-checksum-operation/"
     },
     {
-        "title": "How London Stock Exchange Group migrated 30 PB of market data using AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/how-london-stock-exchange-group-migrated-30-pb-of-market-data-using-aws-datasync/"
+        "title": "Resilience by design: Building an effective ransomware recovery strategy",
+        "link": "https://aws.amazon.com/blogs/storage/resilience-by-design-building-an-effective-ransomware-recovery-strategy/"
     },
     {
-        "title": "How Fetch reduced latency on image uploads using Amazon S3 Express One Zone",
-        "link": "https://aws.amazon.com/blogs/storage/how-fetch-reduces-latency-on-image-uploads-using-amazon-s3-express-one-zone/"
+        "title": "Implementing Multi-party approval workflows for AWS Backup logically air-gapped vaults",
+        "link": "https://aws.amazon.com/blogs/storage/implementing-multi-party-approval-workflows-for-aws-backup-logically-air-gapped-vaults/"
     },
     {
-        "title": "Temporarily block data transfers between AWS Regions in Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/temporarily-block-data-transfers-between-aws-regions-in-amazon-s3/"
+        "title": "How to size an Amazon FSx for NetApp ONTAP file system",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-size-an-amazon-fsx-for-netapp-ontap-file-system/"
     },
     {
-        "title": "Monitoring AWS Storage Gateway health and performance using Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/storage/monitoring-aws-storage-gateway-health-and-performance-using-amazon-cloudwatch/"
+        "title": "How Anuttacon scaled AI-enhanced gaming workloads for \u201cWhispers from the Star\u201d",
+        "link": "https://aws.amazon.com/blogs/storage/how-anuttacon-scaled-ai-enhanced-gaming-workloads-for-whispers-from-the-star/"
     },
     {
-        "title": "Streamline and automate compliance monitoring and reporting with AWS Backup Audit Manager",
-        "link": "https://aws.amazon.com/blogs/storage/streamline-and-automate-compliance-monitoring-and-reporting-with-aws-backup-audit-manager/"
+        "title": "Simplify log rotation with Amazon S3 Express One Zone",
+        "link": "https://aws.amazon.com/blogs/storage/simplify-log-rotation-with-amazon-s3-express-one-zone/"
     },
     {
-        "title": "How WarpStream enables cost-effective low-latency streaming with Amazon S3 Express One Zone",
-        "link": "https://aws.amazon.com/blogs/storage/how-warpstream-enables-cost-effective-low-latency-streaming-with-amazon-s3-express-one-zone/"
+        "title": "Deploy Okta as a custom identity provider for AWS Transfer Family",
+        "link": "https://aws.amazon.com/blogs/storage/deploy-okta-as-a-custom-identity-provider-for-aws-transfer-family/"
     }
 ]

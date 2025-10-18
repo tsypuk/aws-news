@@ -1,82 +1,82 @@
 [
     {
-        "title": "Preview 1 of AWS SDK for .NET V4",
-        "link": "https://aws.amazon.com/blogs/developer/preview-1-of-aws-sdk-for-net-v4/"
+        "title": "What\u2019s New in the AWS Deploy Tool for .NET",
+        "link": "https://aws.amazon.com/blogs/developer/whats-new-in-the-aws-deploy-tool-for-net/"
     },
     {
-        "title": "The AWS SDK for Java 1.x will no longer support Java 7",
-        "link": "https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-will-no-longer-support-java-7/"
+        "title": "General Availability Release of the Migration Tool for the AWS SDK for Java 2.x",
+        "link": "https://aws.amazon.com/blogs/developer/general-availability-release-of-the-migration-tool-for-the-aws-sdk-for-java-2-x/"
     },
     {
-        "title": "Preview Release of the Migration Tool for the AWS SDK for Java 2.x",
-        "link": "https://aws.amazon.com/blogs/developer/preview-release-of-the-migration-tool-for-the-aws-sdk-for-java-2-x/"
+        "title": "Preview Release of the AWS SDK Java 2.x HTTP Client built on Apache HttpClient 5.5.x",
+        "link": "https://aws.amazon.com/blogs/developer/preview-release-of-theaws-sdk-java-2-x-http-client-built-on-apache-httpclient-5-5-x/"
     },
     {
-        "title": "The AWS SDK for Java 1.x is in maintenance mode, effective July 31, 2024",
-        "link": "https://aws.amazon.com/blogs/developer/the-aws-sdk-for-java-1-x-is-in-maintenance-mode-effective-july-31-2024/"
+        "title": "AWS .NET Distributed Cache Provider for Amazon DynamoDB now Generally Available",
+        "link": "https://aws.amazon.com/blogs/developer/aws-net-distributed-cache-provider-for-amazon-dynamodb-now-generally-available/"
     },
     {
-        "title": "Announcing the end-of-support for PHP runtimes 8.0.x and below in the AWS SDK for PHP",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-php-runtimes-8-0-x-and-below-in-the-aws-sdk-for-php/"
+        "title": "AWS Tools for PowerShell V5 now Generally Available",
+        "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v5-now-generally-available/"
     },
     {
-        "title": "Announcing the end of support for Node.js 16.x in the AWS SDK for JavaScript (v3)",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-node-js-16-x-in-the-aws-sdk-for-javascript-v3/"
+        "title": "Upgrading your AWS SDK for Go from V1 to V2 with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/developer/upgrading-your-aws-sdk-for-go-from-v1-to-v2-with-amazon-q-developer/"
     },
     {
-        "title": "Introducing the AWS Message Processing Framework for .NET (Preview)",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-message-processing-framework-for-net-preview/"
+        "title": "Arctic: Automated Desktop Application Testing",
+        "link": "https://aws.amazon.com/blogs/developer/arctic-automated-desktop-application-testing/"
     },
     {
-        "title": "Announcing end-of-support for AWS SDK for JavaScript v2 effective September 8, 2025",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-javascript-v2/"
+        "title": "Deploy to ARM-Based Compute with AWS Deploy Tool for .NET",
+        "link": "https://aws.amazon.com/blogs/developer/deploy-to-arm-based-compute-with-aws-deploy-tool-for-net/"
     },
     {
-        "title": "Important changes coming for .NET Framework 3.5 and 4.5 targets of the AWS SDK for .NET",
-        "link": "https://aws.amazon.com/blogs/developer/important-changes-coming-for-net-framework-3-5-and-4-5-targets-of-the-aws-sdk-for-net/"
+        "title": "Announcing the end of support for AWS DynamoDB Session State Provider",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-aws-dynamodb-session-state-provider/"
     },
     {
-        "title": "New: Default Payload Compression for Amazon CloudWatch PutMetricData with the AWS SDKs",
-        "link": "https://aws.amazon.com/blogs/developer/new-default-payload-compression-for-amazon-cloudwatch-putmetricdata-with-the-aws-sdks/"
+        "title": "General Availability of AWS SDK for .NET V4.0",
+        "link": "https://aws.amazon.com/blogs/developer/general-availability-of-aws-sdk-for-net-v4-0/"
     },
     {
-        "title": "Announcing RBS support for AWS SDK for Ruby V3",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-rbs-support-for-aws-sdk-for-ruby-v3/"
+        "title": "Introducing the AWS IoT Device SDK for Swift (Developer Preview)",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-iot-device-sdk-for-swift-developer-preview/"
     },
     {
-        "title": "Announcing end-of-support for AWS SDK for Java v1.x effective December 31, 2025",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-java-v1-x-on-december-31-2025/"
+        "title": "AWS SDK for Ruby: Deprecating Ruby 2.5 & 2.6 Runtime Supports and Future Compatibility",
+        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-ruby-deprecating-ruby-2-5-2-6-runtime-supports-and-future-compatibility/"
     },
     {
-        "title": "Announcing end-of-support for AWS SDK for Go (v1) effective July 31, 2025",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-go-v1-on-july-31-2025/"
+        "title": "Announcing the Developer Preview of Amazon S3 Transfer Manager in Rust",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-developer-preview-of-amazon-s3-transfer-manager-in-rust/"
     },
     {
-        "title": "macOS support policy updates for the AWS CLI v2",
-        "link": "https://aws.amazon.com/blogs/developer/macos-support-policy-updates-for-the-aws-cli-v2/"
+        "title": "Building and Debugging .NET Lambda applications with .NET Aspire (Part 2)",
+        "link": "https://aws.amazon.com/blogs/developer/building-lambda-with-aspire-part-2/"
     },
     {
-        "title": "Announcing general availability of the AWS SDK for Rust",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/"
+        "title": "Building and Debugging .NET Lambda applications with .NET Aspire (Part 1)",
+        "link": "https://aws.amazon.com/blogs/developer/building-lambda-with-aspire-part-1/"
     },
     {
-        "title": "Announcing general availability of the AWS SDK for Kotlin",
-        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-kotlin-ga/"
+        "title": "Integrating AWS with .NET Aspire",
+        "link": "https://aws.amazon.com/blogs/developer/integrating-aws-with-net-aspire/"
     },
     {
-        "title": "Announcing the end of support for Ruby runtimes 2.3 and 2.4 for the AWS SDK For Ruby",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-ruby-runtimes-2-3-and-2-4-for-the-aws-sdk-for-ruby/"
+        "title": "Updating AWS SDK defaults \u2013 AWS STS service endpoint and Retry Strategy",
+        "link": "https://aws.amazon.com/blogs/developer/updating-aws-sdk-defaults-aws-sts-service-endpoint-and-retry-strategy/"
     },
     {
-        "title": "Announcing the end of support for Node.js 14.x in the AWS SDK for JavaScript (v3)",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-node-js-14-x-in-the-aws-sdk-for-javascript-v3/"
+        "title": "Introducing Automatic Request Batching for Amazon SQS in the AWS Java SDK 2.x",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-automatic-request-batching-for-amazon-sqs-in-the-aws-java-sdk-2-x/"
     },
     {
-        "title": "Improved DynamoDB Initialization Patterns for the AWS SDK for .NET",
-        "link": "https://aws.amazon.com/blogs/developer/improved-dynamodb-initialization-patterns-for-the-aws-sdk-for-net/"
+        "title": "AWS CRT Client for Java adds GraalVM Native Image support",
+        "link": "https://aws.amazon.com/blogs/developer/aws-crt-client-for-java-adds-graalvm-native-image-support/"
     },
     {
-        "title": "Update to AWS SDK for Java v2, AWS SDK for .NET v3, and AWS Tools for PowerShell when using S3 GetObjectAttributes API",
-        "link": "https://aws.amazon.com/blogs/developer/update-to-aws-sdk-for-java-v2-aws-sdk-for-net-v3-and-aws-tools-for-powershell-when-using-s3-getobjectattributes-api/"
+        "title": "AWS CLI Adds PKCE-based Authorization for SSO",
+        "link": "https://aws.amazon.com/blogs/developer/aws-cli-adds-pkce-based-authorization-for-sso/"
     }
 ]

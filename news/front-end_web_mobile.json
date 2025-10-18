@@ -1,82 +1,82 @@
 [
     {
-        "title": "CDN Caching Improvements for Better App Performance with AWS Amplify Hosting",
-        "link": "https://aws.amazon.com/blogs/mobile/cdn-caching-improvements-for-better-app-performance-with-aws-amplify-hosting/"
+        "title": "Unlocking deeper insights with enhanced monitoring in AWS AppSync",
+        "link": "https://aws.amazon.com/blogs/mobile/unlocking-deeper-insights-with-enhanced-monitoring-in-aws-appsync/"
     },
     {
-        "title": "Enduring Race Pace: How IMSA delivers real-time GTP telemetry to the fans",
-        "link": "https://aws.amazon.com/blogs/mobile/enduring-race-pace-how-imsa-delivers-real-time-gtp-telemetry-to-the-fans/"
+        "title": "Offline caching with AWS Amplify, Tanstack, AppSync and MongoDB Atlas",
+        "link": "https://aws.amazon.com/blogs/mobile/offline-caching-with-aws-amplify-tanstack-appsync-and-mongodb-atlas/"
     },
     {
-        "title": "Deploying a web application using AWS Amplify Gen 2 with GitLab as the Repository on AWS",
-        "link": "https://aws.amazon.com/blogs/mobile/deploying-a-web-application-using-aws-amplify-gen-2-with-gitlab-as-the-repository-on-aws/"
+        "title": "Introducing Upgraded Build Instances on Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/introducing-upgraded-build-instances-on-amplify-hosting/"
     },
     {
-        "title": "Best practices for AWS AppSync GraphQL APIs",
-        "link": "https://aws.amazon.com/blogs/mobile/best-practices-for-aws-appsync-graphql-apis/"
+        "title": "Simplify AWS AppSync Events integration with Powertools for AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/mobile/simplify-aws-appsync-events-integration-with-powertools-for-aws-lambda/"
     },
     {
-        "title": "New in AWS Amplify: Integrate with SQL databases, OIDC/SAML providers, and the AWS CDK",
-        "link": "https://aws.amazon.com/blogs/mobile/new-in-aws-amplify-integrate-with-sql-databases-oidc-saml-providers-and-the-aws-cdk/"
+        "title": "From Build to Embed: Creating and Embedding GenAI Apps with AWS Amplify, CDK, and Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/mobile/from-build-to-embed-creating-and-embedding-genai-apps-with-aws-amplify-cdk-and-amazon-q-business/"
     },
     {
-        "title": "New in AWS Amplify: Expanded Fullstack Deployment Capabilities for Teams of All Sizes",
-        "link": "https://aws.amazon.com/blogs/mobile/team-workflows-amplify/"
+        "title": "New features and developer experience with enhanced Amazon Location Service",
+        "link": "https://aws.amazon.com/blogs/mobile/new-features-and-developer-experience-with-enhanced-amazon-location-service/"
     },
     {
-        "title": "Amplify Functions: Create serverless functions using TypeScript, powered by AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/mobile/amplify-functions-create-serverless-functions-using-typescript-powered-by-aws-lambda/"
+        "title": "Building real-time apps with AWS AppSync Events\u2019 WebSocket publishing",
+        "link": "https://aws.amazon.com/blogs/mobile/building-real-time-apps-with-aws-appsync-events-websocket-publishing/"
     },
     {
-        "title": "Amplify Storage: Now with fullstack TypeScript, powered by Amazon S3",
-        "link": "https://aws.amazon.com/blogs/mobile/amplify-storage-now-with-fullstack-typescript-powered-by-amazon-s3/"
+        "title": "Amplify Hosting Announces Skew Protection Support",
+        "link": "https://aws.amazon.com/blogs/mobile/amplify-hosting-announces-skew-protection/"
     },
     {
-        "title": "Deploy a Single-page Application in less than 10 minutes using Amazon CodeCatalyst",
-        "link": "https://aws.amazon.com/blogs/mobile/deploy-a-single-page-application-in-less-than-10-minutes-using-amazon-codecatalyst/"
+        "title": "Simplifying Multi-App Management in AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/simplifying-multi-app-management-in-aws-amplify-hosting/"
     },
     {
-        "title": "Fullstack TypeScript: Reintroducing AWS Amplify",
-        "link": "https://aws.amazon.com/blogs/mobile/amplify-gen2-ga/"
+        "title": "IAM Compute Roles for Server-Side Rendering with AWS Amplify Hosting",
+        "link": "https://aws.amazon.com/blogs/mobile/iam-compute-roles-for-server-side-rendering-with-aws-amplify-hosting/"
     },
     {
-        "title": "The evolution of full-stack development with AWS Amplify",
-        "link": "https://aws.amazon.com/blogs/mobile/evolution-of-full-stack-development-with-aws-amplify/"
+        "title": "Build a Scalable Search Solution with AWS Amplify and OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/mobile/build-a-scalable-search-solution-with-aws-amplify-and-opensearch-serverless/"
     },
     {
-        "title": "Join us for an AWS Amplify Launch Week May 6-10",
-        "link": "https://aws.amazon.com/blogs/mobile/join-us-for-an-aws-amplify-launch-week-may-6-10/"
+        "title": "Building a Gen AI-Powered Manufacturing Search Engine with AWS Amplify Gen 2",
+        "link": "https://aws.amazon.com/blogs/mobile/building-a-gen-ai-powered-manufacturing-search-engine-with-aws-amplify-gen-2/"
     },
     {
-        "title": "Building a Secure GraphQL API with AWS Amplify and AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/mobile/building-a-secure-graphql-api-with-aws-amplify-and-aws-appsync/"
+        "title": "AWS AppSync field-level resolvers: Enhancing GraphQL API development",
+        "link": "https://aws.amazon.com/blogs/mobile/aws-appsync-field-level-resolvers-enhancing-graphql-api-development/"
     },
     {
-        "title": "Use Generative AI and Next.js with AWS Amplify to build a Fullstack Recipe Generator",
-        "link": "https://aws.amazon.com/blogs/mobile/use-generative-ai-and-next-js-with-aws-amplify-to-build-a-fullstack-recipe-generator/"
+        "title": "The most visited Front-end Web and Mobile blog posts in 2024",
+        "link": "https://aws.amazon.com/blogs/mobile/the-most-visited-front-end-web-and-mobile-blog-posts-in-2024/"
     },
     {
-        "title": "Control GraphQL execution complexity, query depth, and introspection with AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/mobile/control-graphql-execution-complexity-query-depth-and-introspection-with-aws-appsync/"
+        "title": "re:Invent 2024 Front-end Web and Mobile Playlist",
+        "link": "https://aws.amazon.com/blogs/mobile/reinvent-2024-front-end-web-and-mobile-playlist/"
     },
     {
-        "title": "Deploy Next.js 14 SSR apps with AWS Amplify Hosting\u2019s Amazon Linux 2023 Support",
-        "link": "https://aws.amazon.com/blogs/mobile/amazon-linux-2023-hosting/"
+        "title": "AWS Amplify Hosting Adds Web Application Firewall Protection \u2013 Public Preview",
+        "link": "https://aws.amazon.com/blogs/mobile/aws-amplify-hosting-adds-web-application-firewall-protection-public-preview/"
     },
     {
-        "title": "Bring your own SSL certificate to AWS Amplify Hosting",
-        "link": "https://aws.amazon.com/blogs/mobile/custom-ssl-amplify-hosting/"
+        "title": "Working with AWS AppSync Events: Real-time Web Games with Chat",
+        "link": "https://aws.amazon.com/blogs/mobile/working-with-aws-appsync-events-real-time-web-games-with-chat/"
     },
     {
-        "title": "The future of web development: AWS Amplify\u2019s Code First Approach",
-        "link": "https://aws.amazon.com/blogs/mobile/the-future-of-web-development-aws-amplifys-code-first-approach/"
+        "title": "Working with AWS AppSync Events: Serverless WebSockets for Pub/Sub",
+        "link": "https://aws.amazon.com/blogs/mobile/working-with-aws-appsync-events-serverless-websockets-for-pub-sub/"
     },
     {
-        "title": "Real-time data distribution with Amazon MSK and AWS AppSync",
-        "link": "https://aws.amazon.com/blogs/mobile/real-time-data-distribution-with-amazon-msk-and-aws-appsync/"
+        "title": "Building RAG-based applications with AWS Amplify AI Kit and Neon Postgres",
+        "link": "https://aws.amazon.com/blogs/mobile/building-rag-based-applications-with-aws-amplify-ai-kit-and-neon-postgres/"
     },
     {
-        "title": "The most visited front-end web and mobile blog posts in 2023",
-        "link": "https://aws.amazon.com/blogs/mobile/the-most-visited-front-end-web-and-mobile-blog-posts-in-2023/"
+        "title": "Build a Travel Planner with React Native, AWS Amplify, and Amazon Bedrock Knowledge Base",
+        "link": "https://aws.amazon.com/blogs/mobile/building-a-personalized-travel-planner-with-amazon-bedrocks-knowledge-bases-and-rag/"
     }
 ]

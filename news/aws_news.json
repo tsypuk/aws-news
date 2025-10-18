@@ -1,82 +1,82 @@
 [
     {
-        "title": "How AWS powered Prime Day 2024 for record-breaking sales",
-        "link": "https://aws.amazon.com/blogs/aws/how-aws-powered-prime-day-2024-for-record-breaking-sales/"
+        "title": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
+        "link": "https://aws.amazon.com/blogs/aws/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager/"
     },
     {
-        "title": "AWS Weekly Roundup: Mithra, Amazon Titan Image Generator v2, AWS GenAI Lofts, and more (August 12, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mithra-amazon-titan-image-generator-v2-aws-genai-lofts-and-more-august-12-2024/"
+        "title": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/"
     },
     {
-        "title": "Amazon Titan Image Generator v2 is now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/"
+        "title": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+        "link": "https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/"
     },
     {
-        "title": "AWS Weekly Roundup: Amazon Q Business, AWS CloudFormation, Amazon WorkSpaces update, and more (Aug 5, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-aws-cloudformation-amazon-workspaces-update-and-more-aug-5-2024/"
+        "title": "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/"
     },
     {
-        "title": "Plan your advertising campaigns with Amazon Marketing Cloud on AWS Clean Rooms, now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/plan-your-advertising-campaigns-with-amazon-marketing-cloud-on-aws-clean-rooms-now-generally-available/"
+        "title": "Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action",
+        "link": "https://aws.amazon.com/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/"
     },
     {
-        "title": "AWS and Multicloud: Existing capabilities & continued enhancements",
-        "link": "https://aws.amazon.com/blogs/aws/aws-and-multicloud-existing-capabilities-continued-enhancements/"
+        "title": "New general-purpose Amazon EC2 M8a instances are now available",
+        "link": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/"
     },
     {
-        "title": "AWS Weekly Roundup: Llama 3.1, Mistral Large 2, AWS Step Functions, AWS Certifications update, and more (July 29, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llama-3-1-mistral-large-2-aws-step-functions-aws-certifications-update-and-more-july-29-2024/"
+        "title": "Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/"
     },
     {
-        "title": "Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/"
+        "title": "AWS IAM Identity Center now supports customer-managed KMS keys for encryption at rest",
+        "link": "https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-customer-managed-kms-keys-for-encryption-at-rest/"
     },
     {
-        "title": "AWS Weekly Roundup: Global AWS Heroes Summit, AWS Lambda, Amazon Redshift, and more (July 22, 2024)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-global-aws-heroes-summit-aws-lambda-amazon-redshift-and-more-july-22-2024/"
+        "title": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/"
     },
     {
-        "title": "AWS Weekly Roundup: Advanced capabilities in Amazon Bedrock and Amazon Q, and more (July 15, 2024).",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-advanced-capabilities-in-amazon-bedrock-and-amazon-q-and-more-july-15-2024/"
+        "title": "Announcing Amazon ECS Managed Instances for containerized applications",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ecs-managed-instances-for-containerized-applications/"
     },
     {
-        "title": "Vector search for Amazon MemoryDB is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/vector-search-for-amazon-memorydb-is-now-generally-available/"
+        "title": "Announcing AWS Outposts third-party storage integration with Dell and HPE",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-aws-outposts-third-party-storage-integration-with-dell-and-hpe/"
     },
     {
-        "title": "Build enterprise-grade applications with natural language using AWS App Studio (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/"
+        "title": "Introducing Claude Sonnet 4.5 in Amazon Bedrock: Anthropic\u2019s most intelligent model, best for coding and complex agents",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-claude-sonnet-4-5-in-amazon-bedrock-anthropics-most-intelligent-model-best-for-coding-and-complex-agents/"
     },
     {
-        "title": "Amazon Q Apps, now generally available, enables users to build their own generative AI apps",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-q-apps-now-generally-available-enables-users-to-build-their-own-generative-ai-apps/"
+        "title": "AWS Weekly Roundup: Amazon S3, Amazon Bedrock AgentCore, AWS X-Ray and more (September 29, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-bedrock-agentcore-aws-x-ray-and-more-september-29-2025/"
     },
     {
-        "title": "Customize Amazon Q Developer (in your IDE) with your private code base",
-        "link": "https://aws.amazon.com/blogs/aws/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/"
+        "title": "Accelerate AI agent development with the Nova Act IDE extension",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-ai-agent-development-with-the-nova-act-ide-extension/"
     },
     {
-        "title": "Agents for Amazon Bedrock now support memory retention and code interpretation (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-now-support-memory-retention-and-code-interpretation-preview/"
+        "title": "AWS Weekly Roundup: Amazon Q Developer, AWS Step Functions, AWS Cloud Club Captain deadline, and more (September 22, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-step-functions-aws-cloud-club-captain-deadline-and-more-september-22-2025/"
     },
     {
-        "title": "Guardrails for Amazon Bedrock can now detect hallucinations and safeguard apps built using custom or third-party FMs",
-        "link": "https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-can-now-detect-hallucinations-and-safeguard-apps-built-using-custom-or-third-party-fms/"
+        "title": "Qwen models are now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/qwen-models-are-now-available-in-amazon-bedrock/"
     },
     {
-        "title": "Knowledge Bases for Amazon Bedrock now supports additional data connectors (in preview)",
-        "link": "https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-additional-data-connectors-in-preview/"
+        "title": "DeepSeek-V3.1 model now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/aws/deepseek-v3-1-now-available-in-amazon-bedrock/"
     },
     {
-        "title": "Introducing Amazon Q Developer in SageMaker Studio to streamline ML workflows",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-q-developer-in-sagemaker-studio-to-streamline-ml-workflows/"
+        "title": "AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management",
+        "link": "https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-cloud-native-application-platforms-and-container-management/"
     },
     {
-        "title": "Monitor data events in Amazon S3 Express One Zone with AWS CloudTrail",
-        "link": "https://aws.amazon.com/blogs/aws/monitor-data-events-in-amazon-s3-express-one-zone-with-aws-cloudtrail/"
+        "title": "AWS Weekly Roundup: Strands Agents 1M+ downloads, Cloud Club Captain, AI Agent Hackathon, and more (September 15, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-strands-agents-1m-downloads-cloud-club-captain-ai-agent-hackathon-and-more-september-15-2025/"
     },
     {
-        "title": "Top Announcements of the AWS Summit in New York, 2024",
-        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2024-2/"
+        "title": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/"
     }
 ]

@@ -1,82 +1,82 @@
 [
     {
-        "title": "Email Journaling with SES Mail Manager",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/email-journaling-with-ses-mail-manager/"
+        "title": "Integrate Amazon CloudWatch alarms with WhatsApp using AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/integrate-amazon-cloudwatch-alarms-with-whatsapp-using-aws-end-user-messaging/"
     },
     {
-        "title": "Secure communications for elections and political campaigns with AWS Wickr",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-communications-for-elections-and-political-campaigns-with-aws-wickr/"
+        "title": "Set up custom domains in Amazon Connect hosted with M365 Exchange Online or Google Workspace",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/set-up-custom-domains-in-amazon-connect-hosted-with-m365-exchange-online-or-google-workspace/"
     },
     {
-        "title": "Reaching your global players \u2013 message on a single, scalable communication hub",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/reaching-your-global-players-message-on-a-single-scalable-communication-hub/"
+        "title": "Enhance event experiences with a generative AI-powered WhatsApp assistant using AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-event-experiences-with-a-generative-ai-powered-whatsapp-assistant-using-aws-end-user-messaging/"
     },
     {
-        "title": "Understanding Google Postmaster Tools (spam complaints) for Amazon SES email senders",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/understanding-google-postmaster-tools-spam-complaints-for-amazon-ses-email-senders/"
+        "title": "How to build resilient SMS delivery with AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-build-resilient-sms-delivery-with-aws-end-user-messaging/"
     },
     {
-        "title": "AWS Wickr achieves DoD Impact Level 4 and 5 authorization",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-wickr-achieves-dod-impact-level-4-and-5-authorization/"
+        "title": "A Complete Guide to Resource Sharing for AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-complete-guide-to-resource-sharing-for-aws-end-user-messaging/"
     },
     {
-        "title": "Archiving and sending to final SMTP server",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/archiving-and-sending-to-final-smtp-server/"
+        "title": "Improve email deliverability with tenant management in Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improve-email-deliverability-with-tenant-management-in-amazon-ses/"
     },
     {
-        "title": "How to use SES Mail Manager SMTP Relay action to deliver inbound email to Google Workspace and Microsoft 365",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-use-ses-mail-manager-smtp-relay-action-to-deliver-inbound-email-to-google-workspace-and-microsoft-365/"
+        "title": "Streamlining outbound emails with Amazon SES Mail Manager",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/streamlining-outbound-emails-with-amazon-ses-mail-manager/"
     },
     {
-        "title": "Email Archiving with Mail Manager: Why To Archive In Transit vs At The Mailbox",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/email-archiving-with-mail-manager-why-to-archive-in-transit-vs-at-the-mailbox/"
+        "title": "AT&T email-to-text service migration: AWS solution implementation",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/att-email-to-text-service-migration-aws-solution-implementation/"
     },
     {
-        "title": "How Amazon SES Mail Manager Elevates Email Security and Efficiency",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-amazon-ses-mail-manager-elevates-email-security-and-efficiency/"
+        "title": "Creando experiencias de cliente con IA mediante un hub de comunicaciones moderno",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/creando-experiencias-de-cliente-con-ia-mediante-un-hub-de-comunicaciones-moderno/"
     },
     {
-        "title": "Lower Your Risk of SMS Fraud with Country Level Blocking and Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/lower-your-risk-of-sms-fraud-with-country-level-blocking-and-amazon-pinpoint/"
+        "title": "Guide to IP and domain warming and migrating to Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/guide-to-ip-and-domain-warming-and-migrating-to-amazon-ses/"
     },
     {
-        "title": "Optimizing Email Deliverability: A User-Centric Approach to List Management and Monitoring",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/optimizing-email-deliverability-a-user-centric-approach-to-list-management-and-monitoring/"
+        "title": "Secure collaboration and file sharing with AWS Wickr",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-collaboration-and-file-sharing-with-aws-wickr/"
     },
     {
-        "title": "How to enable one-click unsubscribe email with Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-enable-one-click-unsubscribe-email-with-amazon-pinpoint/"
+        "title": "Enhance email authentication and deliverability with Amazon SES and Valimail",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-authentication-and-deliverability-with-amazon-ses-and-valimail/"
     },
     {
-        "title": "Mail Manager \u2013 Amazon SES introduces new email routing and archiving features",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/mail-manager-amazon-ses-introduces-new-email-routing-and-archiving-features/"
+        "title": "Monitoring AWS End User Messaging SMS Registrations with Lambda",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/monitoring-aws-end-user-messaging-sms-registrations-with-lambda/"
     },
     {
-        "title": "The Four Pillars of Managing Email Reputation",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/the-four-pillars-of-email-reputation/"
+        "title": "AWS End User Messaging SMS & Voice v2 API: A Migration Guide from v1",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/aws-end-user-messaging-sms-and-voice-v2-api-a-migration-guide-from-v1/"
     },
     {
-        "title": "How to Send MMS Using Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-mms-using-amazon-pinpoint/"
+        "title": "Use AI agents and the Model Context Protocol with Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/use-ai-agents-and-the-model-context-protocol-with-amazon-ses/"
     },
     {
-        "title": "Serverless IoT email capture, attachment processing, and distribution",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/serverless-iot-email-capture-attachment-processing-and-distribution/"
+        "title": "Navigate Bulk Sender Requirements with Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/navigate-bulk-sender-requirements-with-amazon-ses/"
     },
     {
-        "title": "How to Implement Self-Managed Opt-Outs for SMS with Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-implement-self-managed-opt-outs-for-sms-with-amazon-pinpoint/"
+        "title": "SMS Onboarding for SaaS, ISV, and Multi-Tenant Applications with AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/sms-onboarding-for-saas-isv-and-multi-tenant-applications-with-aws-end-user-messaging/"
     },
     {
-        "title": "An Introduction to Amazon WorkMail Audit Logging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/an-introduction-to-amazon-workmail-audit-logging/"
+        "title": "Defending Against SMS Pumping: New AWS Features to Help Combat Artificially Inflated Traffic",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/defending-against-sms-pumping-new-aws-features-to-help-combat-artificially-inflated-traffic/"
     },
     {
-        "title": "How to Send SMS Using a Sender ID with Amazon Pinpoint",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-send-sms-using-a-sender-id-with-amazon-pinpoint/"
+        "title": "A Guide to the New Resource Policies for SMS Origination Identities",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-the-new-resource-policies-for-sms-origination-identities-in-aws/"
     },
     {
-        "title": "How large senders can move from sandbox to production using Amazon SES?",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-large-senders-can-move-from-sandbox-to-production-using-amazon-ses/"
+        "title": "Automating Sender ID Configuration for SMS with AWS End User Messaging APIs",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automating-sender-id-configuration-for-sms-with-aws-end-user-messaging-apis/"
     }
 ]

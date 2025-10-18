@@ -1,82 +1,82 @@
 [
     {
-        "title": "Seamless integration of data lake and data warehouse using Amazon Redshift Spectrum and Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/seamless-integration-of-data-lake-and-data-warehouse-using-amazon-redshift-spectrum-and-amazon-datazone/"
+        "title": "Configure seamless single sign-on with SQL analytics in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/configure-seamless-single-sign-on-with-sql-analytics-in-amazon-sagemaker-unified-studio/"
     },
     {
-        "title": "Implement data quality checks on Amazon Redshift data assets and integrate with Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-data-quality-checks-on-amazon-redshift-data-assets-and-integrate-with-amazon-datazone/"
+        "title": "Stream mainframe data to AWS in near real time with Precisely and Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/stream-mainframe-data-to-aws-in-near-real-time-with-precisely-and-amazon-msk/"
     },
     {
-        "title": "Build a serverless data quality pipeline using Deequ on AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-serverless-data-quality-pipeline-using-deequ-on-aws-lambda/"
+        "title": "Best practices for upgrading from Amazon Redshift DC2 to RA3 and Amazon Redshift Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-upgrading-from-amazon-redshift-dc2-to-ra3-and-amazon-redshift-serverless/"
     },
     {
-        "title": "Improve the resilience of Amazon Managed Service for Apache Flink application with system-rollback feature",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-the-resilience-of-amazon-managed-service-for-apache-flink-application-with-system-rollback-feature/"
+        "title": "Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/"
     },
     {
-        "title": "Organize content across business units with enterprise-wide data governance using Amazon DataZone domain units and authorization policies",
-        "link": "https://aws.amazon.com/blogs/big-data/organize-content-across-business-units-with-enterprise-wide-data-governance-using-amazon-datazone-domain-units-and-authorization-policies/"
+        "title": "Building a real-time ICU patient analytics pipeline with AWS Lambda event source mapping",
+        "link": "https://aws.amazon.com/blogs/big-data/building-a-real-time-icu-patient-analytics-pipeline-with-aws-lambda-event-source-mapping/"
     },
     {
-        "title": "Use AWS Glue to streamline SFTP data processing",
-        "link": "https://aws.amazon.com/blogs/big-data/use-aws-glue-to-streamline-sftp-data-processing/"
+        "title": "Best practices for migrating from Apache Airflow 2.x to Apache Airflow 3.x on Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-from-apache-airflow-2-x-to-apache-airflow-3-x-on-amazon-mwaa/"
     },
     {
-        "title": "Automate Amazon Redshift Advisor recommendations with email alerts using an API",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-amazon-redshift-advisor-recommendations-with-email-alerts-using-an-api/"
+        "title": "Breaking down data silos: Volkswagen\u2019s approach with Amazon DataZone",
+        "link": "https://aws.amazon.com/blogs/big-data/breaking-down-data-silos-volkswagens-approach-with-amazon-datazone/"
     },
     {
-        "title": "Migrate Amazon Redshift from DC2 to RA3 to accommodate increasing data volumes and analytics demands",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-amazon-redshift-from-dc2-to-ra3-to-accommodate-increasing-data-volumes-and-analytics-demands/"
+        "title": "Bridging data silos: cross-bounded context querying with Vanguard\u2019s Operational Read-only Data Store (ORDS) using Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/bridging-data-silos-cross-bounded-context-querying-with-vanguards-operational-read-only-data-store-ords-using-amazon-redshift/"
     },
     {
-        "title": "How AppsFlyer modernized their interactive workload by moving to Amazon Athena and saved 80% of costs",
-        "link": "https://aws.amazon.com/blogs/big-data/how-appsflyer-modernized-their-interactive-workload-by-moving-to-amazon-athena-and-saved-80-of-costs/"
+        "title": "Seamlessly Integrate Data on Google BigQuery and ClickHouse Cloud with AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/seamlessly-integrate-data-on-google-bigquery-and-clickhouse-cloud-with-aws-glue/"
     },
     {
-        "title": "Stream data to Amazon S3 for real-time analytics using the Oracle GoldenGate S3 handler",
-        "link": "https://aws.amazon.com/blogs/big-data/stream-data-to-amazon-s3-for-real-time-analytics-using-the-oracle-goldengate-s3-handler/"
+        "title": "Optimize efficiency with language analyzers using scalable multilingual search in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-efficiency-with-language-analyzers-using-scalable-multilingual-search-in-amazon-opensearch-service/"
     },
     {
-        "title": "Query AWS Glue Data Catalog views using Amazon Athena and Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/query-aws-glue-data-catalog-views-using-amazon-athena-and-amazon-redshift/"
+        "title": "How Laravel Nightwatch handles billions of observability events in real time with Amazon MSK and ClickHouse Cloud",
+        "link": "https://aws.amazon.com/blogs/big-data/how-laravel-nightwatch-handles-billions-of-observability-events-in-real-time-with-amazon-msk-and-clickhouse-cloud/"
     },
     {
-        "title": "Introducing AWS Glue Data Quality anomaly detection",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-aws-glue-data-quality-anomaly-detection/"
+        "title": "Introducing Apache Airflow 3 on Amazon MWAA: New features and capabilities",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-airflow-3-on-amazon-mwaa-new-features-and-capabilities/"
     },
     {
-        "title": "OpenSearch optimized instance (OR1) is game changing for indexing performance and cost",
-        "link": "https://aws.amazon.com/blogs/big-data/opensearch-optimized-instance-or1-is-game-changing-for-indexing-performance-and-cost/"
+        "title": "Search++, Going Beyond Keywords with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/search-going-beyond-keywords-with-amazon-opensearch-service/"
     },
     {
-        "title": "AWS Glue mutual TLS authentication for Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-glue-mutual-tls-authentication-for-amazon-msk/"
+        "title": "Scaling cluster manager and admin APIs in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/scaling-cluster-manager-and-admin-apis-in-amazon-opensearch-service/"
     },
     {
-        "title": "Enrich, standardize, and translate streaming data in Amazon Redshift with generative AI",
-        "link": "https://aws.amazon.com/blogs/big-data/enrich-standardize-and-translate-streaming-data-in-amazon-redshift-with-generative-ai/"
+        "title": "Optimize Amazon EMR runtime for Apache Spark with EMR S3A",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-amazon-emr-runtime-for-apache-spark-with-emr-s3a/"
     },
     {
-        "title": "How Amazon GTTS runs large-scale ETL jobs on AWS using Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/how-amazon-gtts-runs-large-scale-etl-jobs-on-aws-using-amazon-mwaa/"
+        "title": "Amazon OpenSearch Serverless monitoring: A CloudWatch setup guide",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-monitoring-a-cloudwatch-setup-guide/"
     },
     {
-        "title": "Build a real-time analytics solution with Apache Pinot on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-analytics-solution-with-apache-pinot-on-aws/"
+        "title": "Accelerating SQL analytics with Amazon Redshift MCP server",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerating-sql-analytics-with-amazon-redshift-mcp-server/"
     },
     {
-        "title": "Introducing data products in Amazon DataZone: Simplify discovery and subscription with business use case based grouping",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-data-products-in-amazon-datazone-simplify-discovery-and-subscription-with-business-use-case-based-grouping/"
+        "title": "Use Apache Airflow workflows to orchestrate data processing on Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/use-apache-airflow-workflows-to-orchestrate-data-processing-on-amazon-sagemaker-unified-studio/"
     },
     {
-        "title": "Set up cross-account AWS Glue Data Catalog access using AWS Lake Formation and AWS IAM Identity Center with Amazon Redshift and Amazon QuickSight",
-        "link": "https://aws.amazon.com/blogs/big-data/set-up-cross-account-aws-glue-data-catalog-access-using-aws-lake-formation-and-aws-iam-identity-center-with-amazon-redshift-and-amazon-quicksight/"
+        "title": "Trellix achieved 35% cost savings and enhanced security with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/trellix-achieved-35-cost-savings-and-enhanced-security-with-amazon-opensearch-service/"
     },
     {
-        "title": "Amazon OpenSearch Serverless cost-effective search capabilities, at any scale",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-cost-effective-search-capabilities-at-any-scale/"
+        "title": "Announcing cross-account ingestion for Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-cross-account-ingestion-for-amazon-opensearch-service/"
     }
 ]

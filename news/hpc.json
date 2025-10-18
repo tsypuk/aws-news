@@ -1,82 +1,82 @@
 [
     {
-        "title": "How Amazon optimizes their supply chain with help from AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/how-amazon-optimizes-their-supply-chain-with-help-from-aws-batch/"
+        "title": "Dataset of protein-ligand complexes now available in the Registry of Open Data on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/dataset-of-protein-ligand-complexes-now-available-in-the-registry-of-open-data-on-aws/"
     },
     {
-        "title": "Large scale, cost effective GROMACS simulations using the Cyclone Solution from AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/large-scale-cost-effective-gromacs-simulations-using-the-cyclone-solution-from-aws/"
+        "title": "Announcing expanded support for Custom Slurm Settings in AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/announcing-expanded-support-for-custom-slurm-settings-in-aws-parallel-computing-service/"
     },
     {
-        "title": "Using the MAQAO framework to analyze application performance across instances",
-        "link": "https://aws.amazon.com/blogs/hpc/using-the-maqao-framework-to-analyze-application-performance-across-instances/"
+        "title": "Seamlessly burst EDA jobs to AWS using Synopsys Cloud Hybrid solution",
+        "link": "https://aws.amazon.com/blogs/hpc/seamlessly-burst-eda-jobs-to-aws-using-synopsys-cloud-hybrid-solution/"
     },
     {
-        "title": "HPC Ops: DevOps for HPC workloads in the cloud",
-        "link": "https://aws.amazon.com/blogs/hpc/hpc-ops-devops-for-hpc-workloads-in-the-cloud/"
+        "title": "How DTN accelerates operational weather prediction using NVIDIA Earth-2 on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/how-dtn-accelerates-operational-weather-prediction-using-nvidia-earth-2-on-aws/"
     },
     {
-        "title": "Guided multi-objective generative AI for drug design",
-        "link": "https://aws.amazon.com/blogs/hpc/guided-multi-objective-generative-ai-for-drug-design/"
+        "title": "Announcing Capacity Blocks support for AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/announcing-capacity-blocks-support-for-aws-parallel-computing-service/"
     },
     {
-        "title": "Deploying generative AI applications with NVIDIA NIMs on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/hpc/deploying-generative-ai-applications-with-nvidia-nims-on-amazon-eks/"
+        "title": "Introducing \u201cdefault\u201d instance categories for AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/introducing-default-instance-categories-for-aws-batch/"
     },
     {
-        "title": "Implementing e-mail and SMS notifications in AWS ParallelCluster with Slurm",
-        "link": "https://aws.amazon.com/blogs/hpc/implementing-e-mail-and-sms-notifications-in-aws-parallelcluster-with-slurm/"
+        "title": "Accelerating Aerospace Innovation: High Performance Computing (HPC) on Amazon Web Services (AWS)",
+        "link": "https://aws.amazon.com/blogs/hpc/accelerating-aerospace-innovation-high-performance-computing-hpc-on-amazon-web-services-aws/"
     },
     {
-        "title": "Gang scheduling pods on Amazon EKS using AWS Batch multi-node processing jobs",
-        "link": "https://aws.amazon.com/blogs/hpc/gang-scheduling-pods-on-amazon-eks-using-aws-batch-multi-node-processing-jobs/"
+        "title": "Enabling Rapid Genomic and Multiomic Data Analysis with Illumina DRAGEN\u2122 v4.4 on Amazon EC2 F2 Instances",
+        "link": "https://aws.amazon.com/blogs/hpc/enabling-rapid-genomic-and-multiomic-data-analysis-with-illumina-dragen-v4-4-on-amazon-ec2-f2-instances/"
     },
     {
-        "title": "Strategies for distributing executable binaries across grids in financial services",
-        "link": "https://aws.amazon.com/blogs/hpc/strategies-for-distributing-executable-binaries-grids-financial-services/"
+        "title": "Optimize your CAE/CFD workloads with Amazon FSx for Lustre Data Repository Association",
+        "link": "https://aws.amazon.com/blogs/hpc/optimize-your-cae-cfd-workloads-with-amazon-fsx-for-lustre-data-repository-association/"
     },
     {
-        "title": "Running FSI workloads on AWS with YellowDog",
-        "link": "https://aws.amazon.com/blogs/hpc/running-fsi-workloads-on-aws-with-yellowdog/"
+        "title": "Optimize HPC Workloads with the Updated AWS Well-Architected Lens",
+        "link": "https://aws.amazon.com/blogs/hpc/optimize-hpc-workloads-with-the-updated-aws-well-architected-lens/"
     },
     {
-        "title": "Improve HPC workloads on AWS for environmental sustainability",
-        "link": "https://aws.amazon.com/blogs/hpc/improve-hpc-workloads-on-aws-for-environmental-sustainability/"
+        "title": "Leveraging LLMs as an Augmentation to Traditional Hyperparameter Tuning",
+        "link": "https://aws.amazon.com/blogs/hpc/leveraging-llms-as-an-augmentation-to-traditional-hyperparameter-tuning/"
     },
     {
-        "title": "Simulating autonomous mining operations using Robotec.ai on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/simulating-autonomous-mining-operations-using-robotec-ai-on-aws/"
+        "title": "How Novo Nordisk, Columbia University and AWS collaborated to create OpenFold3 with the OpenFold AI Consortium",
+        "link": "https://aws.amazon.com/blogs/hpc/how-novo-nordisk-columbia-university-and-aws-collaborated-to-create-openfold3/"
     },
     {
-        "title": "How vertical scaling and GPUs can accelerate mixed media modelling for marketing analytics",
-        "link": "https://aws.amazon.com/blogs/hpc/how-vertical-scaling-and-gpus-can-accelerate-mixed-media-modelling-for-marketing-analytics/"
+        "title": "Enhanced Performance for Whisper Audio Transcription on AWS Batch and AWS Inferentia",
+        "link": "https://aws.amazon.com/blogs/hpc/enhanced-performance-for-whisper-audio-transcription-on-aws-batch-and-aws-inferentia/"
     },
     {
-        "title": "Harnessing the scale of AWS for financial simulations",
-        "link": "https://aws.amazon.com/blogs/hpc/harnessing-the-scale-of-aws-for-financial-simulations/"
+        "title": "How to migrate a VeriFire Emulator design from F1 to F2 Instances",
+        "link": "https://aws.amazon.com/blogs/hpc/how-to-migrate-a-verifire-emulator-design-from-f1-to-to-f2-instances/"
     },
     {
-        "title": "A library of HPC Applications Best Practices on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/a-library-of-hpc-applications-best-practices-on-aws/"
+        "title": "Introducing managed accounting for AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/introducing-managed-accounting-for-aws-parallel-computing-service/"
     },
     {
-        "title": "Job queue snapshots: see what\u2019s at the head of your queues in AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/job-queue-snapshots-see-whats-at-the-head-of-your-queues-in-aws-batch/"
+        "title": "AI-Enhanced Subsurface Infrastructure Mapping on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/ai-enhanced-subsurface-infrastructure-mapping-on-aws/"
     },
     {
-        "title": "An agent-based simulation of Amazon\u2019s inbound supply chain",
-        "link": "https://aws.amazon.com/blogs/hpc/an-agent-based-simulation-of-amazons-inbound-supply-chain/"
+        "title": "Engineering at the speed of thought: Accelerating complex processes with multi-agent AI and Synera",
+        "link": "https://aws.amazon.com/blogs/hpc/engineering-at-the-speed-of-thought-accelerating-complex-processes-with-multi-agent-ai-and-synera/"
     },
     {
-        "title": "Call for participation: HPC tutorial series from the HPCIC",
-        "link": "https://aws.amazon.com/blogs/hpc/call-for-participation-hpc-tutorial-series-from-the-hpcic/"
+        "title": "How to use Capacity Blocks for ML with AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/how-to-use-capacity-blocks-for-ml-with-aws-batch/"
     },
     {
-        "title": "Integrating Research and Engineering Studio with AWS ParallelCluster",
-        "link": "https://aws.amazon.com/blogs/hpc/research-and-engineering-studio-integration-with-aws-parallelcluster/"
+        "title": "Optimizing HPC workflows with automatically scaling clusters in Ansys Gateway powered by AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/optimizing-hpc-workflows-with-automatically-scaling-clusters-in-ansys-gateway-powered-by-aws/"
     },
     {
-        "title": "Securing HPC on AWS: implementing STIGs in AWS ParallelCluster",
-        "link": "https://aws.amazon.com/blogs/hpc/securing-hpc-on-aws-implementing-stigs-in-aws-parallelcluster/"
+        "title": "Characteristics of financial services HPC workloads in the cloud",
+        "link": "https://aws.amazon.com/blogs/hpc/characteristics-of-financial-services-hpc-workloads-in-the-cloud/"
     }
 ]
