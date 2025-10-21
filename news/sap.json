@@ -1,5 +1,9 @@
 [
     {
+        "title": "Towards a plug \u2018n\u2019 play experience for the AWS SDK for SAP ABAP",
+        "link": "https://aws.amazon.com/blogs/awsforsap/towards-a-plug-n-play-experience-for-the-aws-sdk-for-sap-abap/"
+    },
+    {
         "title": "CHS reflects on four years of SAP DevOps on AWS: benefits, lessons learned, and best practices",
         "link": "https://aws.amazon.com/blogs/awsforsap/chs-reflects-on-four-years-of-sap-devops-on-aws-benefits-lessons-learned-and-best-practices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building Enterprise-Ready Hybrid Network Connectivity on AWS for SAP Cloud ERP Private (formerly known as RISE with SAP)",
         "link": "https://aws.amazon.com/blogs/awsforsap/building-enterprise-ready-hybrid-network-connectivity-on-aws-for-sap-cloud-erp-private-formerly-known-as-rise-with-sap/"
-    },
-    {
-        "title": "SAP Server Auto Scaling: Optimize Infrastructure Costs While Meeting Workload Demands",
-        "link": "https://aws.amazon.com/blogs/awsforsap/sap-server-auto-scaling-optimize-infrastructure-costs-while-meeting-workload-demands/"
     }
 ]
