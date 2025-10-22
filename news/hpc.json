@@ -1,5 +1,9 @@
 [
     {
+        "title": "A scientific approach to workload-aware computing on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/a-scientific-approach-to-workload-aware-computing-on-aws/"
+    },
+    {
         "title": "Dataset of protein-ligand complexes now available in the Registry of Open Data on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/dataset-of-protein-ligand-complexes-now-available-in-the-registry-of-open-data-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing HPC workflows with automatically scaling clusters in Ansys Gateway powered by AWS",
         "link": "https://aws.amazon.com/blogs/hpc/optimizing-hpc-workflows-with-automatically-scaling-clusters-in-ansys-gateway-powered-by-aws/"
-    },
-    {
-        "title": "Characteristics of financial services HPC workloads in the cloud",
-        "link": "https://aws.amazon.com/blogs/hpc/characteristics-of-financial-services-hpc-workloads-in-the-cloud/"
     }
 ]

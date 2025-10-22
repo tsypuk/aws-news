@@ -1,5 +1,9 @@
 [
     {
+        "title": "Track OTP success with AWS End User Messaging SMS feedback",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/track-otp-success-with-aws-end-user-messaging-sms-feedback/"
+    },
+    {
         "title": "Integrate Amazon CloudWatch alarms with WhatsApp using AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/integrate-amazon-cloudwatch-alarms-with-whatsapp-using-aws-end-user-messaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A Guide to the New Resource Policies for SMS Origination Identities",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-the-new-resource-policies-for-sms-origination-identities-in-aws/"
-    },
-    {
-        "title": "Automating Sender ID Configuration for SMS with AWS End User Messaging APIs",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automating-sender-id-configuration-for-sms-with-aws-end-user-messaging-apis/"
     }
 ]

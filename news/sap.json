@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build AI-Powered SAP automations seamlessly with Amazon Quick Automate",
+        "link": "https://aws.amazon.com/blogs/awsforsap/sap-automations-with-amazon-quick-automate/"
+    },
+    {
         "title": "Towards a plug \u2018n\u2019 play experience for the AWS SDK for SAP ABAP",
         "link": "https://aws.amazon.com/blogs/awsforsap/towards-a-plug-n-play-experience-for-the-aws-sdk-for-sap-abap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Elevate User Experience and Security of Application Load Balancer for SAP workloads on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/elevate-user-experience-and-security-of-application-load-balancer-for-sap-workloads-on-aws/"
-    },
-    {
-        "title": "Building Enterprise-Ready Hybrid Network Connectivity on AWS for SAP Cloud ERP Private (formerly known as RISE with SAP)",
-        "link": "https://aws.amazon.com/blogs/awsforsap/building-enterprise-ready-hybrid-network-connectivity-on-aws-for-sap-cloud-erp-private-formerly-known-as-rise-with-sap/"
     }
 ]

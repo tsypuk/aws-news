@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reduce Vulnerabilities on AWS with Orca Security\u2019s Reachability Analysis",
+        "link": "https://aws.amazon.com/blogs/apn/reduce-vulnerabilities-on-aws-with-orca-securitys-reachability-analysis/"
+    },
+    {
+        "title": "Enhance Identity Governance and Protection on AWS using Cisco Duo IAM",
+        "link": "https://aws.amazon.com/blogs/apn/enhance-identity-governance-and-protection-on-aws-using-cisco-duo-iam/"
+    },
+    {
         "title": "Salesforce and AWS Accelerate Agentic AI Transformation for Agentic Enterprises",
         "link": "https://aws.amazon.com/blogs/apn/salesforce-and-aws-accelerate-agentic-ai-transformation-for-agentic-enterprises/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Real-Time Infrastructure Intelligence with Netdata and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/real-time-infrastructure-intelligence-with-netdata-and-amazon-bedrock/"
-    },
-    {
-        "title": "How Second Front Game Warden enables classified workloads on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/how-second-front-game-warden-enables-classified-workloads-on-aws/"
-    },
-    {
-        "title": "Say Hello to 241 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in August",
-        "link": "https://aws.amazon.com/blogs/apn/say-hello-to-241-new-aws-competency-service-delivery-service-ready-and-msp-partners-added-in-august/"
     }
 ]

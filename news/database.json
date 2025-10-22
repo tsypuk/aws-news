@@ -1,5 +1,17 @@
 [
     {
+        "title": "Monitoring multithreaded replication in Amazon RDS for MySQL, Amazon RDS for MariaDB, and Aurora MySQL",
+        "link": "https://aws.amazon.com/blogs/database/monitoring-multithreaded-replication-in-amazon-rds-for-mysql-amazon-rds-for-mariadb-and-aurora-mysql/"
+    },
+    {
+        "title": "Overview and best practices of multithreaded replication in Amazon RDS for MySQL, Amazon RDS for MariaDB, and Amazon Aurora MySQL",
+        "link": "https://aws.amazon.com/blogs/database/overview-and-best-practices-of-multithreaded-replication-in-amazon-rds-for-mysql-amazon-rds-for-mariadb-and-amazon-aurora-mysql/"
+    },
+    {
+        "title": "Restore self-managed Db2 Linux databases in Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/restore-self-managed-db2-linux-databases-in-amazon-rds-for-db2/"
+    },
+    {
         "title": "Performance optimization strategies for MySQL on Amazon RDS",
         "link": "https://aws.amazon.com/blogs/database/performance-optimization-strategies-for-mysql-on-amazon-rds/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Long-term storage and analysis of Amazon RDS events with Amazon S3 and Amazon Athena",
         "link": "https://aws.amazon.com/blogs/database/long-term-storage-and-analysis-of-amazon-rds-events-with-amazon-s3-and-amazon-athena/"
-    },
-    {
-        "title": "Migrate full-text search from SQL Server to Amazon Aurora PostgreSQL-compatible edition or Amazon RDS for PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrate-full-text-search-from-sql-server-to-amazon-aurora-postgresql-compatible-edition-or-amazon-rds-for-postgresql/"
-    },
-    {
-        "title": "Dynamic view-based data masking in Amazon RDS and Amazon Aurora MySQL",
-        "link": "https://aws.amazon.com/blogs/database/dynamic-view-based-data-masking-in-amazon-rds-and-amazon-aurora-mysql/"
-    },
-    {
-        "title": "Clone Amazon RDS Custom for Oracle to Amazon EC2 using multi-volume EBS snapshots",
-        "link": "https://aws.amazon.com/blogs/database/clone-amazon-rds-custom-for-oracle-to-amazon-ec2-using-multi-volume-ebs-snapshots/"
     }
 ]

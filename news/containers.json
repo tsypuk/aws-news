@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing container security in Amazon EKS Auto Mode with KubeArmor",
+        "link": "https://aws.amazon.com/blogs/containers/enhancing-container-security-in-amazon-eks-auto-mode-with-kubearmor/"
+    },
+    {
         "title": "Extending EKS with Hybrid Nodes: IAM Roles Anywhere and HashiCorp Vault",
         "link": "https://aws.amazon.com/blogs/containers/extending-eks-with-hybrid-nodes-iam-roles-anywhere-and-hashicorp-vault/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Implementing granular failover in multi-Region Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/implementing-granular-failover-in-multi-region-amazon-eks/"
-    },
-    {
-        "title": "Use Raspberry Pi 5 as Amazon EKS Hybrid Nodes for edge workloads",
-        "link": "https://aws.amazon.com/blogs/containers/use-raspberry-pi-5-as-amazon-eks-hybrid-nodes-for-edge-workloads/"
     }
 ]
