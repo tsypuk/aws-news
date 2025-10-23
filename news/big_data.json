@@ -1,5 +1,9 @@
 [
     {
+        "title": "Upgrade from Amazon Redshift DC2 node type to Amazon Redshift Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/upgrade-from-amazon-redshift-dc2-node-type-to-amazon-redshift-serverless/"
+    },
+    {
         "title": "Stifel\u2019s approach to scalable Data Pipeline Orchestration in Data Mesh",
         "link": "https://aws.amazon.com/blogs/big-data/stifels-approach-to-scalable-data-pipeline-orchestration-in-data-mesh/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon OpenSearch Serverless monitoring: A CloudWatch setup guide",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-monitoring-a-cloudwatch-setup-guide/"
-    },
-    {
-        "title": "Accelerating SQL analytics with Amazon Redshift MCP server",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerating-sql-analytics-with-amazon-redshift-mcp-server/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "JSON database solutions in AWS: Amazon DocumentDB (with MongoDB compatibility)",
+        "link": "https://aws.amazon.com/blogs/database/json-database-solutions-in-aws-amazon-documentdb-with-mongodb-compatibility/"
+    },
+    {
         "title": "Monitoring multithreaded replication in Amazon RDS for MySQL, Amazon RDS for MariaDB, and Aurora MySQL",
         "link": "https://aws.amazon.com/blogs/database/monitoring-multithreaded-replication-in-amazon-rds-for-mysql-amazon-rds-for-mariadb-and-aurora-mysql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Raising the bar on Amazon DynamoDB data modeling",
         "link": "https://aws.amazon.com/blogs/database/raising-the-bar-on-amazon-dynamodb-data-modeling/"
-    },
-    {
-        "title": "Long-term storage and analysis of Amazon RDS events with Amazon S3 and Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/database/long-term-storage-and-analysis-of-amazon-rds-events-with-amazon-s3-and-amazon-athena/"
     }
 ]

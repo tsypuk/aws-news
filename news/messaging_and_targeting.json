@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance email security using VPC endpoints with Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-security-using-vpc-endpoints-with-amazon-ses/"
+    },
+    {
         "title": "Track OTP success with AWS End User Messaging SMS feedback",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/track-otp-success-with-aws-end-user-messaging-sms-feedback/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Defending Against SMS Pumping: New AWS Features to Help Combat Artificially Inflated Traffic",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/defending-against-sms-pumping-new-aws-features-to-help-combat-artificially-inflated-traffic/"
-    },
-    {
-        "title": "A Guide to the New Resource Policies for SMS Origination Identities",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-the-new-resource-policies-for-sms-origination-identities-in-aws/"
     }
 ]

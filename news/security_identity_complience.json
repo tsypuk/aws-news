@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to choose the right AWS service for managing secrets and configurations",
+        "link": "https://aws.amazon.com/blogs/security/how-to-choose-the-right-aws-service-for-managing-secrets-and-configurations/"
+    },
+    {
         "title": "Using AWS Secrets Manager Agent with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/security/using-aws-secrets-manager-agent-with-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlock new possibilities: AWS Organizations service control policy now supports full IAM language",
         "link": "https://aws.amazon.com/blogs/security/unlock-new-possibilities-aws-organizations-service-control-policy-now-supports-full-iam-language/"
-    },
-    {
-        "title": "Summer 2025 SOC 1 report is now available with 183 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/summer-2025-soc-1report-is-now-available-with-183-services-in-scope/"
     }
 ]

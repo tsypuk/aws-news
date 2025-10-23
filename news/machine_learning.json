@@ -1,5 +1,25 @@
 [
     {
+        "title": "Build scalable creative solutions for product teams with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-scalable-creative-solutions-for-product-teams-with-amazon-bedrock/"
+    },
+    {
+        "title": "Build a proactive AI cost management system for Amazon Bedrock \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-2/"
+    },
+    {
+        "title": "Build a proactive AI cost management system for Amazon Bedrock \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-1/"
+    },
+    {
+        "title": "Streamline code migration using Amazon Nova Premier with an agentic workflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-code-migration-using-amazon-nova-premier-with-an-agentic-workflow/"
+    },
+    {
+        "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
+        "link": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/"
+    },
+    {
         "title": "Serverless deployment for your Amazon SageMaker Canvas models",
         "link": "https://aws.amazon.com/blogs/machine-learning/serverless-deployment-for-your-amazon-sagemaker-canvas-models/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Build a device management agent with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-device-management-agent-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Amazon Bedrock Custom Model Import streamlined LLM deployment for Salesforce",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-custom-model-import-streamlined-llm-deployment-for-salesforce/"
-    },
-    {
-        "title": "Transforming the physical world with AI: the next frontier in intelligent automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-the-physical-world-with-ai-the-next-frontier-in-intelligent-automation/"
-    },
-    {
-        "title": "Medical reports analysis dashboard using Amazon Bedrock, LangChain, and Streamlit",
-        "link": "https://aws.amazon.com/blogs/machine-learning/medical-reports-analysis-dashboard-using-amazon-bedrock-langchain-and-streamlit/"
-    },
-    {
-        "title": "Kitsa transforms clinical trial site selection with Amazon Quick Automate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/kitsa-transforms-clinical-trial-site-selection-with-amazon-quick-automate/"
-    },
-    {
-        "title": "Connect Amazon Quick Suite to enterprise apps and agents with MCP",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-quick-suite-to-enterprise-apps-and-agents-with-mcp/"
     }
 ]
