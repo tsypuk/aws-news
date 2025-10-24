@@ -1,5 +1,13 @@
 [
     {
+        "title": "Generate Gremlin queries using Amazon Bedrock models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-gremlin-queries-using-amazon-bedrock-models/"
+    },
+    {
+        "title": "Incorporating responsible AI into generative AI project prioritization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/incorporating-responsible-ai-into-generative-ai-project-prioritization/"
+    },
+    {
         "title": "Build scalable creative solutions for product teams with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-scalable-creative-solutions-for-product-teams-with-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/"
-    },
-    {
-        "title": "Scala development in Amazon SageMaker Studio with Almond kernel",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scala-development-in-amazon-sagemaker-studio-with-almond-kernel/"
-    },
-    {
-        "title": "Build a device management agent with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-device-management-agent-with-amazon-bedrock-agentcore/"
     }
 ]

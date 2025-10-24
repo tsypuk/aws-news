@@ -1,5 +1,9 @@
 [
     {
+        "title": "End-to-End Observability for SAP on AWS: Part-3 Amazon CloudWatch Internet Monitor for SAP",
+        "link": "https://aws.amazon.com/blogs/awsforsap/end-to-end-observability-for-sap-on-aws-part-3-amazon-cloudwatch-internet-monitor-for-sap-2/"
+    },
+    {
         "title": "Uncover New Possibilities from your SAP and Enterprise Data with Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/awsforsap/uncover-new-possibilities-from-your-sap-and-enterprise-data-with-amazon-bedrock-knowledge-bases/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Extending SAP Field Service Management with AWS: A Clean Core Approach for Attachment Storage",
         "link": "https://aws.amazon.com/blogs/awsforsap/extending-sap-field-service-management-with-aws-a-clean-core-approach-for-attachment-storage/"
-    },
-    {
-        "title": "Build SAP applications faster with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/awsforsap/build-sap-applications-faster-with-amazon-q-developer/"
     }
 ]

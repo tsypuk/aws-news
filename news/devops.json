@@ -1,9 +1,5 @@
 [
     {
-        "title": "Accelerating legacy code modernization: EPAM\u2019s journey with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/accelerating-legacy-code-modernization-epams-journey-with-amazon-q-developer/"
-    },
-    {
         "title": "Infrastructure as Code at Thomson Reuters with AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/infrastructure-as-code-at-thomson-reuters-with-aws-cdk/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Flexibility to Framework: Building MCP Servers with Controlled Tool Orchestration",
         "link": "https://aws.amazon.com/blogs/devops/flexibility-to-framework-building-mcp-servers-with-controlled-tool-orchestration/"
+    },
+    {
+        "title": "Overcome development disarray with Amazon Q Developer CLI custom agents",
+        "link": "https://aws.amazon.com/blogs/devops/overcome-development-disarray-with-amazon-q-developer-cli-custom-agents/"
     }
 ]
