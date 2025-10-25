@@ -1,5 +1,9 @@
 [
     {
+        "title": "Processing Amazon S3 objects at scale with AWS Step Functions Distributed Map S3 prefix",
+        "link": "https://aws.amazon.com/blogs/compute/processing-amazon-s3-objects-at-scale-with-aws-step-functions-distributed-map-s3-prefix/"
+    },
+    {
         "title": "Breaking down monolith workflows: Modularizing AWS Step Functions workflows",
         "link": "https://aws.amazon.com/blogs/compute/breaking-down-monolith-workflows-modularizing-aws-step-functions-workflows/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Effectively building AI agents on AWS Serverless",
         "link": "https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/"
-    },
-    {
-        "title": "Understanding and Remediating Cold Starts: An AWS Lambda Perspective",
-        "link": "https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/"
     }
 ]

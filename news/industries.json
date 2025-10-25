@@ -1,5 +1,13 @@
 [
     {
+        "title": "Secure, remote monitoring and control of a PLC from AWS",
+        "link": "https://aws.amazon.com/blogs/industries/secure-remote-monitoring-and-control/"
+    },
+    {
+        "title": "How BMW Group Enhances Cloud Optimization With Generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-bmw-group-enhances-cloud-optimization-with-generative-ai-on-aws/"
+    },
+    {
         "title": "Optimizing telecom supply chain operations on AWS with Amazon Multi Channel Fulfillment",
         "link": "https://aws.amazon.com/blogs/industries/optimizing-telecom-supply-chain-operations-on-aws-with-amazon-multi-channel-fulfillment/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Bayer imaging FM classifies drug targets using Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/industries/bayer-imaging-fm-classifies-drug-targets-using-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Part 1: BBVA: Building a multi-region, multi-country global Data and ML Platform at scale",
-        "link": "https://aws.amazon.com/blogs/industries/part-1-bbva-building-a-multi-region-multi-country-global-data-and-ml-platform-at-scale/"
-    },
-    {
-        "title": "Part 5: BBVA\u2019s unified console: Key to successful global platform deployment",
-        "link": "https://aws.amazon.com/blogs/industries/part-5-bbvas-unified-console-key-to-successful-global-platform-deployment/"
     }
 ]

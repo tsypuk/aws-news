@@ -20,10 +20,6 @@
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-customer-resource-access-in-multi-tenant-saas-with-amazon-vpc-lattice/"
     },
     {
-        "title": "Enabling cross-region private access to Amazon S3 with existing application configuration",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enabling-cross-region-private-access-to-amazon-s3-with-existing-application-configuration/"
-    },
-    {
         "title": "AWS Site-to-Site VPN now supports IPv6 on the outside IPs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-now-supports-ipv6-on-the-outside-ips/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Accelerate your Cloud Strategy with Megaport\u2019s 25 Gbps Hosted AWS Direct Connect",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/accelerate-your-cloud-strategy-with-megaports-25-gbps-hosted-aws-direct-connect/"
+    },
+    {
+        "title": "Best Buy Health\u2019s Resilient Care Centers powered by AWS Cloud WAN and SD-WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-buy-healths-resilient-care-centers-powered-by-aws-cloud-wan-and-sd-wan/"
     }
 ]

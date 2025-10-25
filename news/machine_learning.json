@@ -1,5 +1,13 @@
 [
     {
+        "title": "Responsible AI design in healthcare and life sciences",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-design-in-healthcare-and-life-sciences/"
+    },
+    {
+        "title": "Beyond pilots: A proven framework for scaling AI to production",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-pilots-a-proven-framework-for-scaling-ai-to-production/"
+    },
+    {
         "title": "Generate Gremlin queries using Amazon Bedrock models",
         "link": "https://aws.amazon.com/blogs/machine-learning/generate-gremlin-queries-using-amazon-bedrock-models/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Transforming enterprise operations: Four high-impact use cases with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-enterprise-operations-four-high-impact-use-cases-with-amazon-nova/"
-    },
-    {
-        "title": "Building smarter AI agents: AgentCore long-term memory deep dive",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-smarter-ai-agents-agentcore-long-term-memory-deep-dive/"
-    },
-    {
-        "title": "Configure and verify a distributed training cluster with AWS Deep Learning Containers on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/configure-and-verify-a-distributed-training-cluster-with-aws-deep-learning-containers-on-amazon-eks/"
     }
 ]
