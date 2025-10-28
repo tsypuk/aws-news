@@ -1,5 +1,9 @@
 [
     {
+        "title": "Federate access to SageMaker Unified Studio with AWS IAM Identity Center and Okta",
+        "link": "https://aws.amazon.com/blogs/big-data/federate-access-to-sagemaker-unified-studio-with-aws-iam-identity-center-and-okta/"
+    },
+    {
         "title": "Accelerate data governance with custom subscription workflows in Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-governance-with-custom-subscription-workflows-in-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Apache Airflow 3 on Amazon MWAA: New features and capabilities",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-airflow-3-on-amazon-mwaa-new-features-and-capabilities/"
-    },
-    {
-        "title": "Search++, Going Beyond Keywords with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/search-going-beyond-keywords-with-amazon-opensearch-service/"
     }
 ]

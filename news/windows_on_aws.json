@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify AWS License Manager user subscription management by sharing AWS Managed Microsoft Active Directory",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-aws-license-manager-user-subscription-management-by-sharing-aws-managed-microsoft-active-directory/"
+    },
+    {
         "title": "Optimize CPUs best practices for SQL Server workloads \u2013 continued",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/optimize-cpus-best-practices-for-sql-server-workloads-continued/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Deploy SQL Server Container Clusters using Amazon EKS and Amazon FSx for Windows",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploy-sql-server-container-clusters-using-amazon-eks-and-amazon-fsx-for-windows/"
     }
 ]

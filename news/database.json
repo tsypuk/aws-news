@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize and troubleshoot database performance in Amazon Aurora PostgreSQL by analyzing execution plans using CloudWatch Database Insights",
+        "link": "https://aws.amazon.com/blogs/database/optimize-and-troubleshoot-database-performance-in-amazon-aurora-postgresql-by-analyzing-execution-plans-using-cloudwatch-database-insights/"
+    },
+    {
         "title": "GroundTruth reduces costs by 45% and improves reliability migrating from Aerospike to Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/groundtruth-reduces-costs-by-45-and-improves-reliability-migrating-from-aerospike-to-amazon-elasticache-for-valkey/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement event-driven architectures with Amazon DynamoDB \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/database/implement-event-driven-architectures-with-amazon-dynamodb-part-2/"
-    },
-    {
-        "title": "Implement event-driven architectures with Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/implement-event-driven-architectures-with-amazon-dynamodb/"
     }
 ]
