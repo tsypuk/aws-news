@@ -1,5 +1,9 @@
 [
     {
+        "title": "Test and build application resilience using Amazon EBS latency injection",
+        "link": "https://aws.amazon.com/blogs/storage/test-and-build-application-resilience-using-amazon-ebs-latency-injection/"
+    },
+    {
         "title": "Optimizing recommendations and analytics using Amazon DynamoDB and Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/using-amazon-dynamodb-and-amazon-s3-for-optimized-recommendations-and-analytics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to size an Amazon FSx for NetApp ONTAP file system",
         "link": "https://aws.amazon.com/blogs/storage/how-to-size-an-amazon-fsx-for-netapp-ontap-file-system/"
-    },
-    {
-        "title": "How Anuttacon scaled AI-enhanced gaming workloads for \u201cWhispers from the Star\u201d",
-        "link": "https://aws.amazon.com/blogs/storage/how-anuttacon-scaled-ai-enhanced-gaming-workloads-for-whispers-from-the-star/"
     }
 ]

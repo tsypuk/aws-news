@@ -1,5 +1,9 @@
 [
     {
+        "title": "Hosting NVIDIA speech NIM models on Amazon SageMaker AI: Parakeet ASR",
+        "link": "https://aws.amazon.com/blogs/machine-learning/hosting-nvidia-speech-nim-models-on-amazon-sagemaker-ai-parakeet-asr/"
+    },
+    {
         "title": "Responsible AI design in healthcare and life sciences",
         "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-design-in-healthcare-and-life-sciences/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing document AI and structured outputs by fine-tuning Amazon Nova Models and on-demand inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-document-ai-and-structured-outputs-by-fine-tuning-amazon-nova-models-and-on-demand-inference/"
-    },
-    {
-        "title": "Transforming enterprise operations: Four high-impact use cases with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-enterprise-operations-four-high-impact-use-cases-with-amazon-nova/"
     }
 ]

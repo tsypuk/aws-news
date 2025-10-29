@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extending GPU Fractionalization and Orchestration to the edge with NVIDIA Run:ai and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/extending-gpu-fractionalization-and-orchestration-to-the-edge-with-nvidia-runai-and-amazon-eks/"
+    },
+    {
         "title": "Kubernetes Gateway API in action",
         "link": "https://aws.amazon.com/blogs/containers/kubernetes-gateway-api-in-action/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Migrate Amazon ECS workloads from AWS App Mesh to Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ecs-workloads-from-aws-app-mesh-to-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Amazon ECS announces IPv6-only support",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-announces-ipv6-only-support/"
     }
 ]

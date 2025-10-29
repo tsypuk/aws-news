@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Kinesis Data Streams now supports 10x larger record sizes: Simplifying real-time data processing",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-streams-now-supports-10x-larger-record-sizes-simplifying-real-time-data-processing/"
+    },
+    {
         "title": "Federate access to SageMaker Unified Studio with AWS IAM Identity Center and Okta",
         "link": "https://aws.amazon.com/blogs/big-data/federate-access-to-sagemaker-unified-studio-with-aws-iam-identity-center-and-okta/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Laravel Nightwatch handles billions of observability events in real time with Amazon MSK and ClickHouse Cloud",
         "link": "https://aws.amazon.com/blogs/big-data/how-laravel-nightwatch-handles-billions-of-observability-events-in-real-time-with-amazon-msk-and-clickhouse-cloud/"
-    },
-    {
-        "title": "Introducing Apache Airflow 3 on Amazon MWAA: New features and capabilities",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-airflow-3-on-amazon-mwaa-new-features-and-capabilities/"
     }
 ]
