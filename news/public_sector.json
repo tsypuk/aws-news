@@ -1,5 +1,9 @@
 [
     {
+        "title": "MOSIP on AWS: Technical deep dive exploring  architecture, implementation, and deployment models",
+        "link": "https://aws.amazon.com/blogs/publicsector/mosip-on-aws-technical-deep-dive-exploring-architecture-implementation-and-deployment-models/"
+    },
+    {
         "title": "How AWS Managed Services helps Australian public sector organizations optimize their cloud operations",
         "link": "https://aws.amazon.com/blogs/publicsector/how-aws-managed-services-helps-australian-public-sector-organizations-optimize-their-cloud-operations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How The Coupon Bureau built a real-time universal digital coupon platform on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/how-the-coupon-bureau-built-a-real-time-universal-digital-coupon-platform-on-aws/"
-    },
-    {
-        "title": "New AWS whitepaper: How Health Data Marketplaces can help healthcare organizations optimize multi-cloud data strategies",
-        "link": "https://aws.amazon.com/blogs/publicsector/new-aws-whitepaper-how-health-data-marketplaces-can-help-healthcare-organizations-optimize-multi-cloud-data-strategies/"
     }
 ]
