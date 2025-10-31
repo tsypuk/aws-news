@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to deploy a SQL Server Failover Cluster Instance across three Availability Zones using Storage Spaces Direct",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-a-sql-server-failover-cluster-instance-across-three-availability-zones-using-storage-spaces-direct/"
+    },
+    {
         "title": "Simplify AWS License Manager user subscription management by sharing AWS Managed Microsoft Active Directory",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-aws-license-manager-user-subscription-management-by-sharing-aws-managed-microsoft-active-directory/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Operating BYOL Windows Server Workloads Effectively on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/operating-byol-windows-server-workloads-effectively-on-aws/"
-    },
-    {
-        "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/"
     }
 ]

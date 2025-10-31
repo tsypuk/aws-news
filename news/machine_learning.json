@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-captchas-for-ai-agents-browsing-the-web-with-web-bot-auth-preview-in-amazon-bedrock-agentcore-browser/"
+    },
+    {
         "title": "Hosting NVIDIA speech NIM models on Amazon SageMaker AI: Parakeet ASR",
         "link": "https://aws.amazon.com/blogs/machine-learning/hosting-nvidia-speech-nim-models-on-amazon-sagemaker-ai-parakeet-asr/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Voice AI-powered drive-thru ordering with Amazon Nova Sonic and dynamic menu displays",
         "link": "https://aws.amazon.com/blogs/machine-learning/voice-ai-powered-drive-thru-ordering-with-amazon-nova-sonic-and-dynamic-menu-displays/"
-    },
-    {
-        "title": "Optimizing document AI and structured outputs by fine-tuning Amazon Nova Models and on-demand inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-document-ai-and-structured-outputs-by-fine-tuning-amazon-nova-models-and-on-demand-inference/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing compliant and secure betting and gaming applications on AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/designing-compliant-and-secure-betting-and-gaming-applications-on-aws/"
+    },
+    {
         "title": "Hypermonk Games transforms mobile game development with data powered by AWS",
         "link": "https://aws.amazon.com/blogs/gametech/hypermonk-games-transforms-mobile-game-development-with-data-powered-by-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SportsCapital launches real-time event detection for sports trading powered by AWS",
         "link": "https://aws.amazon.com/blogs/gametech/sportscapital-launches-real-time-event-detection-for-sports-trading-powered-by-aws/"
-    },
-    {
-        "title": "Game developer\u2019s guide to Amazon Aurora Serverless v2",
-        "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-aurora-serverless-v2/"
     }
 ]
