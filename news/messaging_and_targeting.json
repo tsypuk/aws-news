@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for building high-performance WhatsApp AI assistant using AWS",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/best-practices-for-building-high-performance-whatsapp-ai-assistant-using-aws/"
+    },
+    {
         "title": "Enhance email security using VPC endpoints with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-security-using-vpc-endpoints-with-amazon-ses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SMS Onboarding for SaaS, ISV, and Multi-Tenant Applications with AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/sms-onboarding-for-saas-isv-and-multi-tenant-applications-with-aws-end-user-messaging/"
-    },
-    {
-        "title": "Defending Against SMS Pumping: New AWS Features to Help Combat Artificially Inflated Traffic",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/defending-against-sms-pumping-new-aws-features-to-help-combat-artificially-inflated-traffic/"
     }
 ]

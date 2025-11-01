@@ -1,5 +1,9 @@
 [
     {
+        "title": "Malware protection for Amazon Elastic File System with Cloud Storage Security",
+        "link": "https://aws.amazon.com/blogs/apn/malware-protection-for-amazon-elastic-file-system-with-cloud-storage-security/"
+    },
+    {
         "title": "Automate and Accelerate Database Deployments on AWS with Redgate Flyway Enterprise",
         "link": "https://aws.amazon.com/blogs/apn/automate-and-accelerate-database-deployments-on-aws-with-redgate-flyway-enterprise/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reimagining Healthcare Delivery with Validic and AWS",
         "link": "https://aws.amazon.com/blogs/apn/reimagining-healthcare-delivery-with-validic-and-aws/"
-    },
-    {
-        "title": "Enhance Data Visibility with Cribl Search and Amazon Managed Grafana",
-        "link": "https://aws.amazon.com/blogs/apn/enhance-data-visibility-with-cribl-search-and-amazon-managed-grafana/"
     }
 ]

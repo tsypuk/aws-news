@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use trusted identity propagation for Apache Spark interactive sessions in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/use-trusted-identity-propagation-for-apache-spark-interactive-sessions-in-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "Amazon Kinesis Data Streams now supports 10x larger record sizes: Simplifying real-time data processing",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-streams-now-supports-10x-larger-record-sizes-simplifying-real-time-data-processing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize efficiency with language analyzers using scalable multilingual search in Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-efficiency-with-language-analyzers-using-scalable-multilingual-search-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "How Laravel Nightwatch handles billions of observability events in real time with Amazon MSK and ClickHouse Cloud",
-        "link": "https://aws.amazon.com/blogs/big-data/how-laravel-nightwatch-handles-billions-of-observability-events-in-real-time-with-amazon-msk-and-clickhouse-cloud/"
     }
 ]
