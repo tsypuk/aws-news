@@ -1,5 +1,9 @@
 [
     {
+        "title": "Improve the resiliency with AWS Fault Injection service and Amazon ARC Region switch",
+        "link": "https://aws.amazon.com/blogs/mt/improve-the-resiliency-with-aws-fault-injection-service-and-amazon-arc-region-switch/"
+    },
+    {
         "title": "Handling sensitive log data using Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/handling-sensitive-log-data-using-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Systems Manager Run Command now supports interpolating parameters into environment variables",
         "link": "https://aws.amazon.com/blogs/mt/aws-systems-manager-run-command-now-supports-interpolating-parameters-into-environment-variables/"
-    },
-    {
-        "title": "Advanced analytics using Amazon CloudWatch Logs Insights",
-        "link": "https://aws.amazon.com/blogs/mt/advanced-analytics-using-amazon-cloudwatch-logs-insights/"
     }
 ]

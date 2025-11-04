@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying banking self-service at NatWest using Amazon Connect and Amazon Lex",
+        "link": "https://aws.amazon.com/blogs/contact-center/simplifying-banking-self-service-at-natwest-using-amazon-connect-and-amazon-lex/"
+    },
+    {
         "title": "Preserve interaction context across channels with Amazon Connect and Amazon Lex",
         "link": "https://aws.amazon.com/blogs/contact-center/preserve-interaction-context-across-channels-with-amazon-connect-and-amazon-lex/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Tailored support at scale: Turning a unified Salesforce KB into LOB-focused AI agents",
         "link": "https://aws.amazon.com/blogs/contact-center/tailored-support-at-scale-turning-a-unified-salesforce-kb-into-lob-focused-ai-agents/"
-    },
-    {
-        "title": "Insights and learnings from Amazon Q in Connect web crawler integration",
-        "link": "https://aws.amazon.com/blogs/contact-center/insights-and-learnings-from-amazon-q-in-connect-web-crawler-integration/"
     }
 ]

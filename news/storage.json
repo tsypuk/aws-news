@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build intelligent ETL pipelines using AWS Model Context Protocol and Amazon Q",
+        "link": "https://aws.amazon.com/blogs/storage/build-intelligent-etl-pipelines-using-aws-model-context-protocol-and-amazon-q/"
+    },
+    {
         "title": "Test and build application resilience using Amazon EBS latency injection",
         "link": "https://aws.amazon.com/blogs/storage/test-and-build-application-resilience-using-amazon-ebs-latency-injection/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing Multi-party approval workflows for AWS Backup logically air-gapped vaults",
         "link": "https://aws.amazon.com/blogs/storage/implementing-multi-party-approval-workflows-for-aws-backup-logically-air-gapped-vaults/"
-    },
-    {
-        "title": "How to size an Amazon FSx for NetApp ONTAP file system",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-size-an-amazon-fsx-for-netapp-ontap-file-system/"
     }
 ]

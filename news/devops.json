@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK",
+        "link": "https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/"
+    },
+    {
         "title": "How to Simplify Multi-Account Deployments Monitoring: Centralized Logs for AWS CloudFormation StackSets",
         "link": "https://aws.amazon.com/blogs/devops/how-to-simplify-multi-account-deployments-monitoring-centralized-logs-for-aws-cloudformation-stacksets/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS Cloud Control API MCP Server: Natural Language Infrastructure Management on AWS",
         "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloud-control-api-mcp-server-natural-language-infrastructure-management-on-aws/"
-    },
-    {
-        "title": "Flexibility to Framework: Building MCP Servers with Controlled Tool Orchestration",
-        "link": "https://aws.amazon.com/blogs/devops/flexibility-to-framework-building-mcp-servers-with-controlled-tool-orchestration/"
     }
 ]

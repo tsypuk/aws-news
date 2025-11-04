@@ -1,5 +1,9 @@
 [
     {
+        "title": "October was busy for HPC in the cloud",
+        "link": "https://aws.amazon.com/blogs/hpc/october-was-busy-for-hpc-in-the-cloud/"
+    },
+    {
         "title": "What\u2019s the difference between AWS ParallelCluster  and AWS Parallel Computing Service?",
         "link": "https://aws.amazon.com/blogs/hpc/thoughts-on-the-differences-between-aws-parallel-computing-service-and-aws-parallelcluster/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Engineering at the speed of thought: Accelerating complex processes with multi-agent AI and Synera",
         "link": "https://aws.amazon.com/blogs/hpc/engineering-at-the-speed-of-thought-accelerating-complex-processes-with-multi-agent-ai-and-synera/"
-    },
-    {
-        "title": "How to use Capacity Blocks for ML with AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/how-to-use-capacity-blocks-for-ml-with-aws-batch/"
     }
 ]
