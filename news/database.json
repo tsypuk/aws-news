@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Zepto scales to millions of orders per day using Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/how-zepto-scales-to-millions-of-orders-per-day-using-amazon-dynamodb/"
+    },
+    {
         "title": "Building secure Amazon ElastiCache for Valkey deployments with Terraform",
         "link": "https://aws.amazon.com/blogs/database/building-secure-amazon-elasticache-for-valkey-deployments-with-terraform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Key components of a data-driven agentic AI application",
         "link": "https://aws.amazon.com/blogs/database/key-components-of-a-data-driven-agentic-ai-application/"
-    },
-    {
-        "title": "Build a dynamic workflow orchestration engine with Amazon DynamoDB and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/database/build-a-dynamic-workflow-orchestration-engine-with-amazon-dynamodb-and-aws-lambda/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment",
+        "link": "https://aws.amazon.com/blogs/machine-learning/iterate-faster-with-amazon-bedrock-agentcore-runtime-direct-code-deployment/"
+    },
+    {
         "title": "How Switchboard, MD automates real-time call transcription in clinical contact centers with Amazon Nova Sonic",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-switchboard-md-automates-real-time-call-transcription-in-clinical-contact-centers-with-amazon-nova-sonic/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate large-scale AI training with Amazon SageMaker HyperPod training operator",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-large-scale-ai-training-with-amazon-sagemaker-hyperpod-training-operator/"
-    },
-    {
-        "title": "How TP ICAP transformed CRM data into real-time insights with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-tp-icap-transformed-crm-data-into-real-time-insights-with-amazon-bedrock/"
     }
 ]

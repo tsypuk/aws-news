@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deep Dive: Amazon ECS Managed Instances provisioning and optimization",
+        "link": "https://aws.amazon.com/blogs/containers/deep-dive-amazon-ecs-managed-instances-provisioning-and-optimization/"
+    },
+    {
         "title": "Extending GPU Fractionalization and Orchestration to the edge with NVIDIA Run:ai and Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/extending-gpu-fractionalization-and-orchestration-to-the-edge-with-nvidia-runai-and-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "SaaS deployment architectures with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/saas-deployment-architectures-with-amazon-eks/"
-    },
-    {
-        "title": "Migrate Amazon ECS workloads from AWS App Mesh to Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ecs-workloads-from-aws-app-mesh-to-amazon-vpc-lattice/"
     }
 ]

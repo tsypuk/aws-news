@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reducing SAP Certificate Management Overhead with AWS Certificate Manager",
+        "link": "https://aws.amazon.com/blogs/awsforsap/reducing-sap-certificate-management-overhead-with-aws-certificate-manager/"
+    },
+    {
         "title": "Sustainable and durable SAP document and data archiving with Amazon S3 with HA \u2013 Part2",
         "link": "https://aws.amazon.com/blogs/awsforsap/sustainable-and-durable-sap-document-and-data-archiving-with-amazon-s3-with-ha-part2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SAP Load Testing: a serverless approach with AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-load-testing-a-serverless-approach-with-aws/"
-    },
-    {
-        "title": "Maximize the value of your SAP data using Amazon Q Business and Amazon Bedrock Generative AI \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/awsforsap/maximize-the-value-of-your-sap-data-using-amazon-q-business-and-amazon-bedrock-generative-ai-part-1/"
     }
 ]
