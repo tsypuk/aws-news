@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing security with WebAuthn redirection in Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enhancing-security-with-webauthn-redirection-in-amazon-workspaces/"
+    },
+    {
         "title": "Optimize AppStream 2.0 fleet capacity with the Scaling Optimizer Tool",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/optimize-appstream-2-0-fleet-capacity-with-the-scaling-optimizer-tool/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing the Edge: AWS and IGEL Unite at Now and Next 2025",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/securing-the-edge-aws-and-igel-unite-at-now-and-next-2025/"
-    },
-    {
-        "title": "Amazon WorkSpaces and Amazon AppStream 2.0 are now Chrome Enterprise Recommended",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-and-amazon-appstream-2-0-are-now-chrome-enterprise-recommended/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Powering serverless multi-account analytics with AWS Lambda, Amazon Aurora, and Amazon Quick Suite",
+        "link": "https://aws.amazon.com/blogs/publicsector/powering-serverless-multi-account-analytics-with-aws-lambda-amazon-aurora-and-amazon-quick-suite/"
+    },
+    {
         "title": "AWS expands GSCA to classified frameworks to accelerate national security innovation",
         "link": "https://aws.amazon.com/blogs/publicsector/aws-expands-gsca-to-classified-frameworks-to-accelerate-national-security-innovation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building Trusted Research Environments on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/building-trusted-research-environments-on-aws/"
-    },
-    {
-        "title": "The 8th R: When cloud migration becomes business reinvention",
-        "link": "https://aws.amazon.com/blogs/publicsector/the-8th-r-when-cloud-migration-becomes-business-reinvention/"
     }
 ]

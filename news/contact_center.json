@@ -1,5 +1,9 @@
 [
     {
+        "title": "Inside Amazon Connect: The evolution of a disruptor",
+        "link": "https://aws.amazon.com/blogs/contact-center/inside-amazon-connect-the-evolution-of-a-disrupter/"
+    },
+    {
         "title": "Simplifying banking self-service at NatWest using Amazon Connect and Amazon Lex",
         "link": "https://aws.amazon.com/blogs/contact-center/simplifying-banking-self-service-at-natwest-using-amazon-connect-and-amazon-lex/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Empower scaled contact center quality assurance with Amazon Connect and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/contact-center/how-empower-scaled-contact-center-quality-assurance-with-amazon-connect-and-amazon-bedrock/"
-    },
-    {
-        "title": "Tailored support at scale: Turning a unified Salesforce KB into LOB-focused AI agents",
-        "link": "https://aws.amazon.com/blogs/contact-center/tailored-support-at-scale-turning-a-unified-salesforce-kb-into-lob-focused-ai-agents/"
     }
 ]

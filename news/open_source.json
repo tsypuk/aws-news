@@ -1,5 +1,9 @@
 [
     {
+        "title": "Jupyter Deploy: Create a JupyterLab application with real-time collaboration in the cloud in minutes",
+        "link": "https://aws.amazon.com/blogs/opensource/jupyter-deploy-create-a-jupyterlab-application-with-real-time-collaboration-in-the-cloud-in-minutes/"
+    },
+    {
         "title": "Introducing CLI Agent Orchestrator: Transforming Developer CLI Tools into a Multi-Agent Powerhouse",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-cli-agent-orchestrator-transforming-developer-cli-tools-into-a-multi-agent-powerhouse/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Cloud Credits for Open Source Projects: Affirming Our Commitment",
         "link": "https://aws.amazon.com/blogs/opensource/aws-cloud-credits-for-open-source-projects-affirming-our-commitment/"
-    },
-    {
-        "title": "Introducing Qonto\u2019s Prometheus RDS Exporter \u2013 An Open Source Solution to Enhance Monitoring Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/opensource/introducing-qontos-prometheus-rds-exporter-an-open-source-solution-to-enhance-monitoring-amazon-rds/"
     }
 ]
