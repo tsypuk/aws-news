@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate Region expansion with the AWS Knowledge MCP server",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/accelerate-region-expansion-with-the-aws-knowledge-mcp-server/"
+    },
+    {
         "title": "Real-time patient monitoring architecture on AWS for smart inhalers",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/real-time-patient-monitoring-architecture-on-aws-for-smart-inhalers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize AWS event and log collection using common design patterns",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/optimize-aws-event-log-collection-using-common-design-patterns/"
-    },
-    {
-        "title": "ACE mapping guide for AWS Partner CRM Connector Version 2.0",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/ace-mapping-guide-for-aws-partner-crm-connector-version-2-0/"
     }
 ]

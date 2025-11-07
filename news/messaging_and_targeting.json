@@ -1,5 +1,9 @@
 [
     {
+        "title": "C\u00f3mo Enviar SMS Internacionales con N\u00fameros Gratuitos de EE.UU. Usando AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/como-enviar-sms-internacionales-con-numeros-gratuitos-de-ee-uu-usando-aws-end-user-messaging/"
+    },
+    {
         "title": "A Guide to Sending International SMS with US Toll-Free Numbers and AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-guide-to-sending-international-sms-with-us-toll-free-numbers-and-aws-end-user-messaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AI agents and the Model Context Protocol with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/use-ai-agents-and-the-model-context-protocol-with-amazon-ses/"
-    },
-    {
-        "title": "Navigate Bulk Sender Requirements with Amazon SES",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/navigate-bulk-sender-requirements-with-amazon-ses/"
     }
 ]

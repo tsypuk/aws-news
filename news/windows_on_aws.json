@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify SQL Server Developer edition deployments with AWS Launch Wizard",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-sql-server-developer-edition-deployments-with-aws-launch-wizard/"
+    },
+    {
         "title": "How to deploy a SQL Server Failover Cluster Instance across three Availability Zones using Storage Spaces Direct",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-a-sql-server-failover-cluster-instance-across-three-availability-zones-using-storage-spaces-direct/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How TEKsystems Modernized a University\u2019s Microsoft Workloads on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-teksystems-modernized-a-universitys-microsoft-workloads-on-aws/"
-    },
-    {
-        "title": "Operating BYOL Windows Server Workloads Effectively on AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/operating-byol-windows-server-workloads-effectively-on-aws/"
     }
 ]

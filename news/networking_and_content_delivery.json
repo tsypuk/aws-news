@@ -1,11 +1,11 @@
 [
     {
-        "title": "Configuring the AWS WAF Anti-DDoS managed rule group for your resources and clients",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-the-aws-waf-anti-ddos-managed-rule-group-for-your-resources-and-clients/"
-    },
-    {
         "title": "Introducing cross-account support for Amazon CloudFront Virtual Private Cloud (VPC) origins",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-account-support-for-amazon-cloudfront-virtual-private-cloud-vpc-origins/"
+    },
+    {
+        "title": "Configuring the AWS WAF Anti-DDoS managed rule group for your resources and clients",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-the-aws-waf-anti-ddos-managed-rule-group-for-your-resources-and-clients/"
     },
     {
         "title": "Streamline in-place application upgrades with Amazon VPC Lattice",

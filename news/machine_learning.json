@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transform your MCP architecture: Unite MCP servers through AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/"
+    },
+    {
         "title": "How Amazon Search increased ML training twofold using AWS Batch for Amazon SageMaker Training jobs",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-increased-ml-training-twofold-using-aws-batch-for-amazon-sagemaker-training-jobs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless deployment for your Amazon SageMaker Canvas models",
         "link": "https://aws.amazon.com/blogs/machine-learning/serverless-deployment-for-your-amazon-sagemaker-canvas-models/"
-    },
-    {
-        "title": "Building a multi-agent voice assistant with Amazon Nova Sonic and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-multi-agent-voice-assistant-with-amazon-nova-sonic-and-amazon-bedrock-agentcore/"
     }
 ]

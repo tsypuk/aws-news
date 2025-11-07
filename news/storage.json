@@ -1,5 +1,9 @@
 [
     {
+        "title": "Encrypt AWS Backup logically air-gapped vaults with customer-managed keys",
+        "link": "https://aws.amazon.com/blogs/storage/encrypt-aws-backup-logically-air-gapped-vaults-with-customer-managed-keys/"
+    },
+    {
         "title": "Build intelligent ETL pipelines using AWS Model Context Protocol and Amazon Q",
         "link": "https://aws.amazon.com/blogs/storage/build-intelligent-etl-pipelines-using-aws-model-context-protocol-and-amazon-q/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Resilience by design: Building an effective ransomware recovery strategy",
         "link": "https://aws.amazon.com/blogs/storage/resilience-by-design-building-an-effective-ransomware-recovery-strategy/"
-    },
-    {
-        "title": "Implementing Multi-party approval workflows for AWS Backup logically air-gapped vaults",
-        "link": "https://aws.amazon.com/blogs/storage/implementing-multi-party-approval-workflows-for-aws-backup-logically-air-gapped-vaults/"
     }
 ]
