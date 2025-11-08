@@ -1,5 +1,9 @@
 [
     {
+        "title": "Leveraging near-term quantum hardware for simulating high-dimensional dynamics",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/leveraging-near-term-quantum-hardware-for-simulating-high-dimensional-dynamics/"
+    },
+    {
         "title": "AWS Collaborates with Chugai Pharmaceutical Co. on Quantum-Inspired and Constraint Programming Methods for Cyclic Peptide-Protein Docking",
         "link": "https://aws.amazon.com/blogs/quantum-computing/aws-collaborates-with-chugai-pharmaceutical-co-on-quantum-inspired-and-constraint-programming-methods-for-cyclic-peptide-protein-docking/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon Braket launches new 54-qubit superconducting quantum processor from IQM",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-new-54-qubit-superconducting-quantum-processor-from-iqm/"
-    },
-    {
-        "title": "Simulating Fluid Mechanics using Quantum Computing on Amazon Braket with Haiqu and Quanscient",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/simulating-fluid-mechanics-using-quantum-computing-on-amazon-braket-with-haiqu-and-quanscient/"
     }
 ]

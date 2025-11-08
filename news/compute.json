@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Lambda networking over IPv6",
+        "link": "https://aws.amazon.com/blogs/compute/aws-lambda-networking-over-ipv6/"
+    },
+    {
         "title": "Orchestrating big data processing with AWS Step Functions Distributed Map",
         "link": "https://aws.amazon.com/blogs/compute/orchestrating-big-data-processing-with-aws-step-functions-distributed-map/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless generative AI architectural patterns \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/compute/serverless-generative-ai-architectural-patterns/"
-    },
-    {
-        "title": "Implementing advanced AWS Graviton adoption strategies across AWS Regions",
-        "link": "https://aws.amazon.com/blogs/compute/implementing-advanced-aws-graviton-adoption-strategies-across-aws-regions/"
     }
 ]

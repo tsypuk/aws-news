@@ -1,5 +1,9 @@
 [
     {
+        "title": "Custom domain names for VPC Lattice resources",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/custom-domain-names-for-vpc-lattice-resources/"
+    },
+    {
         "title": "Introducing cross-account support for Amazon CloudFront Virtual Private Cloud (VPC) origins",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-account-support-for-amazon-cloudfront-virtual-private-cloud-vpc-origins/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining RISE with SAP Connectivity using AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamlining-rise-with-sap-connectivity-using-aws-cloud-wan/"
-    },
-    {
-        "title": "Secure internet-based access to SaaS PrivateLink endpoints using AWS Verified Access",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-internet-based-access-to-saas-privatelink-endpoints-using-aws-verified-access/"
     }
 ]

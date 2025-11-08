@@ -1,5 +1,17 @@
 [
     {
+        "title": "Connect Amazon Bedrock agents to cross-account knowledge bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agents-to-cross-account-knowledge-bases/"
+    },
+    {
+        "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/"
+    },
+    {
+        "title": "Introducing structured output for Custom Model Import in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-structured-output-for-custom-model-import-in-amazon-bedrock/"
+    },
+    {
         "title": "Transform your MCP architecture: Unite MCP servers through AgentCore Gateway",
         "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-mcp-architecture-unite-mcp-servers-through-agentcore-gateway/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build a proactive AI cost management system for Amazon Bedrock \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-1/"
-    },
-    {
-        "title": "Streamline code migration using Amazon Nova Premier with an agentic workflow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-code-migration-using-amazon-nova-premier-with-an-agentic-workflow/"
-    },
-    {
-        "title": "Metagenomi generates millions of novel enzymes cost-effectively using AWS Inferentia",
-        "link": "https://aws.amazon.com/blogs/machine-learning/metagenomi-generates-millions-of-novel-enzymes-cost-effectively-using-aws-inferentia/"
-    },
-    {
-        "title": "Serverless deployment for your Amazon SageMaker Canvas models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/serverless-deployment-for-your-amazon-sagemaker-canvas-models/"
     }
 ]
