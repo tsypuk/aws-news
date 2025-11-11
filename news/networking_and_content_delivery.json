@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use Amazon VPC Lattice to streamline and secure TCP resource connectivity across multiple AWS Accounts",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-amazon-vpc-lattice-to-streamline-and-secure-tcp-resource-connectivity-across-multiple-aws-accounts/"
+    },
+    {
         "title": "Custom domain names for VPC Lattice resources",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/custom-domain-names-for-vpc-lattice-resources/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best Practices to Optimize Failover Times for Overlay Tunnels on AWS Direct Connect",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-to-optimize-failover-times-for-overlay-tunnels-on-aws-direct-connect/"
-    },
-    {
-        "title": "Streamlining RISE with SAP Connectivity using AWS Cloud WAN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamlining-rise-with-sap-connectivity-using-aws-cloud-wan/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Braket Notebook Environments Now Support CUDA-Q Natively",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-notebooks-now-include-pre-configured-cuda-q-support/"
+    },
+    {
         "title": "Leveraging near-term quantum hardware for simulating high-dimensional dynamics",
         "link": "https://aws.amazon.com/blogs/quantum-computing/leveraging-near-term-quantum-hardware-for-simulating-high-dimensional-dynamics/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing the Amazon Braket Learning Plan and Digital Badge",
         "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-the-amazon-braket-learning-plan-and-digital-badge/"
-    },
-    {
-        "title": "Amazon Braket launches new 54-qubit superconducting quantum processor from IQM",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-new-54-qubit-superconducting-quantum-processor-from-iqm/"
     }
 ]

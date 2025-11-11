@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Alight Solutions achieved 60% cost savings with Amazon ElastiCache for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/how-alight-solutions-achieved-60-cost-savings-with-amazon-elasticache-for-valkey/"
+    },
+    {
         "title": "Migrating Amazon DocumentDB Cluster across Regions: A step by step guide",
         "link": "https://aws.amazon.com/blogs/database/migrating-amazon-documentdb-cluster-across-regions-a-step-by-step-guide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Advanced observability and troubleshooting with Amazon RDS event monitoring pipelines",
         "link": "https://aws.amazon.com/blogs/database/advanced-observability-and-troubleshooting-with-amazon-rds-event-monitoring-pipelines/"
-    },
-    {
-        "title": "Building a 10-billion wallet crypto-intelligence platform: Elliptic\u2019s journey with Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/building-a-10-billion-wallet-crypto-intelligence-platform-elliptics-journey-with-amazon-dynamodb/"
     }
 ]

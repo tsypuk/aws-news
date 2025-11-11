@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon MSK Express brokers now support Intelligent Rebalancing for 180 times faster operation performance",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-express-brokers-now-support-intelligent-rebalancing-for-180-times-faster-operation-performance/"
+    },
+    {
+        "title": "Analyzing Amazon EC2 Spot instance interruptions by using event-driven architecture",
+        "link": "https://aws.amazon.com/blogs/big-data/analyzing-amazon-ec2-spot-instance-interruptions-by-using-event-driven-architecture/"
+    },
+    {
         "title": "Enhanced search with match highlights and explanations in Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/enhanced-search-with-match-highlights-and-explanations-in-amazon-sagemaker/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building a real-time ICU patient analytics pipeline with AWS Lambda event source mapping",
         "link": "https://aws.amazon.com/blogs/big-data/building-a-real-time-icu-patient-analytics-pipeline-with-aws-lambda-event-source-mapping/"
-    },
-    {
-        "title": "Best practices for migrating from Apache Airflow 2.x to Apache Airflow 3.x on Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-migrating-from-apache-airflow-2-x-to-apache-airflow-3-x-on-amazon-mwaa/"
-    },
-    {
-        "title": "Breaking down data silos: Volkswagen\u2019s approach with Amazon DataZone",
-        "link": "https://aws.amazon.com/blogs/big-data/breaking-down-data-silos-volkswagens-approach-with-amazon-datazone/"
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
-        "title": "Connect Amazon Bedrock agents to cross-account knowledge bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agents-to-cross-account-knowledge-bases/"
+        "title": "Fine-tune VLMs for multipage document-to-JSON with SageMaker AI and SWIFT",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-vlms-for-multipage-document-to-json-with-sagemaker-ai-and-swift/"
+    },
+    {
+        "title": "How Clario automates clinical research analysis using generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/"
     },
     {
         "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
@@ -74,9 +78,5 @@
     {
         "title": "Build a proactive AI cost management system for Amazon Bedrock \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-2/"
-    },
-    {
-        "title": "Build a proactive AI cost management system for Amazon Bedrock \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-1/"
     }
 ]

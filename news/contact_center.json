@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate case management workflows with Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/automate-case-management-workflows-with-amazon-connect/"
+    },
+    {
         "title": "Inside Amazon Connect: The evolution of a disruptor",
         "link": "https://aws.amazon.com/blogs/contact-center/inside-amazon-connect-the-evolution-of-a-disrupter/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable agent contact history in Amazon Connect agent workspace as a third-party (3P) application",
         "link": "https://aws.amazon.com/blogs/contact-center/enable-agent-contact-history-in-amazon-connect-agent-workspace-as-a-third-party-3p-application/"
-    },
-    {
-        "title": "How Empower scaled contact center quality assurance with Amazon Connect and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/contact-center/how-empower-scaled-contact-center-quality-assurance-with-amazon-connect-and-amazon-bedrock/"
     }
 ]

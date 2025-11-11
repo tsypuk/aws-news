@@ -1,5 +1,13 @@
 [
     {
+        "title": "Secure EKS clusters with the new support for Amazon EKS in AWS Backup",
+        "link": "https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Amazon S3, Amazon EC2, and more (November 10, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/"
+    },
+    {
         "title": "Introducing AWS Capabilities by Region for easier Regional planning and faster global deployments",
         "link": "https://aws.amazon.com/blogs/aws/introducing-aws-capabilities-by-region-for-easier-regional-planning-and-faster-global-deployments/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing Amazon ECS Managed Instances for containerized applications",
         "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ecs-managed-instances-for-containerized-applications/"
-    },
-    {
-        "title": "Announcing AWS Outposts third-party storage integration with Dell and HPE",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-aws-outposts-third-party-storage-integration-with-dell-and-hpe/"
-    },
-    {
-        "title": "Introducing Claude Sonnet 4.5 in Amazon Bedrock: Anthropic\u2019s most intelligent model, best for coding and complex agents",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-claude-sonnet-4-5-in-amazon-bedrock-anthropics-most-intelligent-model-best-for-coding-and-complex-agents/"
     }
 ]
