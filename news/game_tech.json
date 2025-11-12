@@ -1,5 +1,9 @@
 [
     {
+        "title": "Wicked Saints Studios integrates TikTok within World Reborn using AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/wicked-saints-studios-integrates-tiktok-within-world-reborn-using-aws/"
+    },
+    {
         "title": "Building gaming MLOps pipelines with Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/gametech/building-gaming-mlops-pipelines-with-amazon-bedrock-agents/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy your first web application with Amazon GameLift Streams",
         "link": "https://aws.amazon.com/blogs/gametech/deploy-your-first-web-application-with-amazon-gamelift-streams/"
-    },
-    {
-        "title": "Amazon GameLift Servers Streamlines Integration with Unreal Engine 5",
-        "link": "https://aws.amazon.com/blogs/gametech/amazon-gamelift-servers-streamlines-integration-with-unreal-engine-5/"
     }
 ]

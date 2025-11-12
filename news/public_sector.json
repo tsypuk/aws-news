@@ -1,5 +1,17 @@
 [
     {
+        "title": "Deploying mission-critical edge applications with AWS IoT Greengrass in disconnected environments",
+        "link": "https://aws.amazon.com/blogs/publicsector/deploying-mission-critical-edge-applications-with-aws-iot-greengrass-in-disconnected-environments/"
+    },
+    {
+        "title": "Introducing a custom Mission Resilience Lens for the AWS Well-Architected Tool",
+        "link": "https://aws.amazon.com/blogs/publicsector/introducing-a-custom-mission-resilience-lens-for-the-aws-well-architected-tool/"
+    },
+    {
+        "title": "Accelerating innovation in education: Implementing the Prometheus-X Data Space Connector on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/accelerating-innovation-in-education-implementing-the-prometheus-x-data-space-connector-on-aws/"
+    },
+    {
         "title": "Accelerating CMMC readiness: How AWS and Wiz help public sector organizations",
         "link": "https://aws.amazon.com/blogs/publicsector/accelerating-cmmc-readiness-how-aws-and-wiz-help-public-sector-organizations/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "MOSIP on AWS: Technical deep dive exploring  architecture, implementation, and deployment models",
         "link": "https://aws.amazon.com/blogs/publicsector/mosip-on-aws-technical-deep-dive-exploring-architecture-implementation-and-deployment-models/"
-    },
-    {
-        "title": "How AWS Managed Services helps Australian public sector organizations optimize their cloud operations",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-aws-managed-services-helps-australian-public-sector-organizations-optimize-their-cloud-operations/"
-    },
-    {
-        "title": "General Atomics leverages AWS to revolutionize autonomous systems",
-        "link": "https://aws.amazon.com/blogs/publicsector/general-atomics-leverages-aws-to-revolutionize-autonomous-systems/"
-    },
-    {
-        "title": "Government efficiency through AI-driven IT modernization with AFS and AWS partnership",
-        "link": "https://aws.amazon.com/blogs/publicsector/government-efficiency-through-ai-driven-it-modernization-with-afs-and-aws-partnership/"
     }
 ]

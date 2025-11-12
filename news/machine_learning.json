@@ -1,5 +1,21 @@
 [
     {
+        "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/"
+    },
+    {
+        "title": "Powering enterprise search with the Cohere Embed 4 multimodal embeddings model in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/powering-enterprise-search-with-the-cohere-embed-4-multimodal-embeddings-model-in-amazon-bedrock/"
+    },
+    {
+        "title": "A guide to building AI agents in GxP environments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/"
+    },
+    {
+        "title": "Multi-Agent collaboration patterns with Strands Agents and Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/"
+    },
+    {
         "title": "Fine-tune VLMs for multipage document-to-JSON with SageMaker AI and SWIFT",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-vlms-for-multipage-document-to-json-with-sagemaker-ai-and-swift/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Beyond pilots: A proven framework for scaling AI to production",
         "link": "https://aws.amazon.com/blogs/machine-learning/beyond-pilots-a-proven-framework-for-scaling-ai-to-production/"
-    },
-    {
-        "title": "Generate Gremlin queries using Amazon Bedrock models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-gremlin-queries-using-amazon-bedrock-models/"
-    },
-    {
-        "title": "Incorporating responsible AI into generative AI project prioritization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/incorporating-responsible-ai-into-generative-ai-project-prioritization/"
-    },
-    {
-        "title": "Build scalable creative solutions for product teams with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-scalable-creative-solutions-for-product-teams-with-amazon-bedrock/"
-    },
-    {
-        "title": "Build a proactive AI cost management system for Amazon Bedrock \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-proactive-ai-cost-management-system-for-amazon-bedrock-part-2/"
     }
 ]

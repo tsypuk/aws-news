@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cost-optimized file storage with Amazon FSx for NetApp ONTAP and Komprise",
+        "link": "https://aws.amazon.com/blogs/storage/cost-optimized-file-storage-with-amazon-fsx-for-netapp-ontap-and-komprise/"
+    },
+    {
         "title": "Encrypt AWS Backup logically air-gapped vaults with customer-managed keys",
         "link": "https://aws.amazon.com/blogs/storage/encrypt-aws-backup-logically-air-gapped-vaults-with-customer-managed-keys/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Efficiently verify Amazon S3 data at scale with compute checksum operation",
         "link": "https://aws.amazon.com/blogs/storage/efficiently-verify-amazon-s3-data-at-scale-with-compute-checksum-operation/"
-    },
-    {
-        "title": "Resilience by design: Building an effective ransomware recovery strategy",
-        "link": "https://aws.amazon.com/blogs/storage/resilience-by-design-building-an-effective-ransomware-recovery-strategy/"
     }
 ]

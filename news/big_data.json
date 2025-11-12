@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the Amazon OpenSearch Lens for the AWS Well-Architected Framework",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-amazon-opensearch-lens-for-the-aws-well-architected-framework/"
+    },
+    {
         "title": "Amazon MSK Express brokers now support Intelligent Rebalancing for 180 times faster operation performance",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-express-brokers-now-support-intelligent-rebalancing-for-180-times-faster-operation-performance/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Visualize data lineage using Amazon SageMaker Catalog for Amazon EMR, AWS Glue, and Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/visualize-data-lineage-using-amazon-sagemaker-catalog-for-amazon-emr-aws-glue-and-amazon-redshift/"
-    },
-    {
-        "title": "Building a real-time ICU patient analytics pipeline with AWS Lambda event source mapping",
-        "link": "https://aws.amazon.com/blogs/big-data/building-a-real-time-icu-patient-analytics-pipeline-with-aws-lambda-event-source-mapping/"
     }
 ]

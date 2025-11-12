@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon DocumentDB (with MongoDB compatibility) introduces new query planner that delivers up to 10x performance improvements",
+        "link": "https://aws.amazon.com/blogs/database/amazon-documentdb-with-mongodb-compatibility-introduces-new-query-planner-that-delivers-up-to-10x-performance-improvements/"
+    },
+    {
+        "title": "Amazon Keyspaces now supports logged batches for atomic, multi-statement operations",
+        "link": "https://aws.amazon.com/blogs/database/amazon-keyspaces-now-supports-logged-batches-for-atomic-multi-statement-operations/"
+    },
+    {
         "title": "How Alight Solutions achieved 60% cost savings with Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/how-alight-solutions-achieved-60-cost-savings-with-amazon-elasticache-for-valkey/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Transform your Oracle Database journey with Accenture and AWS",
         "link": "https://aws.amazon.com/blogs/database/transform-your-oracle-database-journey-with-accenture-and-aws/"
-    },
-    {
-        "title": "Announcing vector search for Amazon ElastiCache",
-        "link": "https://aws.amazon.com/blogs/database/announcing-vector-search-for-amazon-elasticache/"
-    },
-    {
-        "title": "Advanced observability and troubleshooting with Amazon RDS event monitoring pipelines",
-        "link": "https://aws.amazon.com/blogs/database/advanced-observability-and-troubleshooting-with-amazon-rds-event-monitoring-pipelines/"
     }
 ]
