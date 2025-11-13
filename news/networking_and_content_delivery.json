@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing AWS Site-to-Site VPN 5 Gbps Tunnels to support high throughput workloads",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/"
+    },
+    {
         "title": "Use Amazon VPC Lattice to streamline and secure TCP resource connectivity across multiple AWS Accounts",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-amazon-vpc-lattice-to-streamline-and-secure-tcp-resource-connectivity-across-multiple-aws-accounts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline hybrid DNS management using Amazon Route 53 Resolver endpoints delegation",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-hybrid-dns-management-using-amazon-route-53-resolver-endpoints-delegation/"
-    },
-    {
-        "title": "Best Practices to Optimize Failover Times for Overlay Tunnels on AWS Direct Connect",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-to-optimize-failover-times-for-overlay-tunnels-on-aws-direct-connect/"
     }
 ]

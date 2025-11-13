@@ -1,10 +1,14 @@
 [
     {
+        "title": "Introducing Our Final AWS Heroes of 2025",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-2025/"
+    },
+    {
         "title": "Secure EKS clusters with the new support for Amazon EKS in AWS Backup",
         "link": "https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/"
     },
     {
-        "title": "AWS Weekly Roundup: Amazon S3, Amazon EC2, and more (November 10, 2025)",
+        "title": "AWS Weekly Roundup: OpenAI partnership, Jane Goodall Institute research archive, and more (November 10, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/"
-    },
-    {
-        "title": "Announcing Amazon ECS Managed Instances for containerized applications",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ecs-managed-instances-for-containerized-applications/"
     }
 ]

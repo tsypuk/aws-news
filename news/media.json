@@ -12,10 +12,6 @@
         "link": "https://aws.amazon.com/blogs/mt/handling-sensitive-log-data-using-amazon-cloudwatch/"
     },
     {
-        "title": "Announcing AWS X-Ray SDKs/Daemon End-of-Support and OpenTelemetry Migration",
-        "link": "https://aws.amazon.com/blogs/mt/announcing-aws-x-ray-sdks-daemon-end-of-support-and-opentelemetry-migration/"
-    },
-    {
         "title": "AWS Resource Explorer launches immediate resource discovery within a Region",
         "link": "https://aws.amazon.com/blogs/mt/aws-resource-explorer-launches-immediate-resource-discovery-within-a-region/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "AWS Organizations launches account state information for granular account lifecycle management",
         "link": "https://aws.amazon.com/blogs/mt/updates-to-account-status-information-in-aws-organizations/"
+    },
+    {
+        "title": "AWS Systems Manager Run Command now supports interpolating parameters into environment variables",
+        "link": "https://aws.amazon.com/blogs/mt/aws-systems-manager-run-command-now-supports-interpolating-parameters-into-environment-variables/"
     }
 ]

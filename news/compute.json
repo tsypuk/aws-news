@@ -1,5 +1,9 @@
 [
     {
+        "title": "The attendee\u2019s guide to the AWS re:Invent 2025 Compute track",
+        "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2025-compute-track/"
+    },
+    {
         "title": "AWS Lambda networking over IPv6",
         "link": "https://aws.amazon.com/blogs/compute/aws-lambda-networking-over-ipv6/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless generative AI architectural patterns \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/compute/part-2-serverless-generative-ai-architectural-patterns/"
-    },
-    {
-        "title": "Serverless generative AI architectural patterns \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-generative-ai-architectural-patterns/"
     }
 ]

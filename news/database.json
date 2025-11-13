@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using delayed read replicas for Amazon RDS for PostgreSQL disaster recovery",
+        "link": "https://aws.amazon.com/blogs/database/using-delayed-read-replicas-for-amazon-rds-for-postgresql-disaster-recovery/"
+    },
+    {
         "title": "Amazon DocumentDB (with MongoDB compatibility) introduces new query planner that delivers up to 10x performance improvements",
         "link": "https://aws.amazon.com/blogs/database/amazon-documentdb-with-mongodb-compatibility-introduces-new-query-planner-that-delivers-up-to-10x-performance-improvements/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Aurora MySQL zero-ETL integration with Amazon SageMaker Lakehouse",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-zero-etl-integration-with-amazon-sagemaker-lakehouse/"
-    },
-    {
-        "title": "Transform your Oracle Database journey with Accenture and AWS",
-        "link": "https://aws.amazon.com/blogs/database/transform-your-oracle-database-journey-with-accenture-and-aws/"
     }
 ]
