@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieving Robust SAP Landscape Segregation with Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/awsforsap/achieving-robust-sap-landscape-segregation-with-amazon-vpc-lattice/"
+    },
+    {
         "title": "Reducing SAP Certificate Management Overhead with AWS Certificate Manager",
         "link": "https://aws.amazon.com/blogs/awsforsap/reducing-sap-certificate-management-overhead-with-aws-certificate-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline SAP Operation with CloudWatch MCP server and Amazon Q CLI \u2013 Part 3",
         "link": "https://aws.amazon.com/blogs/awsforsap/streamline-sap-operation-with-cloudwatch-mcp-server-and-amazon-q-cli-part-3/"
-    },
-    {
-        "title": "SAP Load Testing: a serverless approach with AWS",
-        "link": "https://aws.amazon.com/blogs/awsforsap/sap-load-testing-a-serverless-approach-with-aws/"
     }
 ]

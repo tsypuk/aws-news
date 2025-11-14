@@ -1,5 +1,9 @@
 [
     {
+        "title": "Inside the federated authentication system of Amazon Game Studios",
+        "link": "https://aws.amazon.com/blogs/gametech/inside-the-federated-authentication-system-of-amazon-game-studios/"
+    },
+    {
         "title": "Successful game launches with AWS Countdown Premium",
         "link": "https://aws.amazon.com/blogs/gametech/successful-game-launches-with-aws-countdown-premium/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Host persistent world games on Amazon GameLift Servers",
         "link": "https://aws.amazon.com/blogs/gametech/host-persistent-world-games-on-amazon-gamelift-servers/"
-    },
-    {
-        "title": "Revolutionizing games with small language model AI companions",
-        "link": "https://aws.amazon.com/blogs/gametech/revolutionizing-games-with-small-language-model-ai-companions/"
     }
 ]

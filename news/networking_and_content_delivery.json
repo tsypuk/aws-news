@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing QUIC Protocol Support for Network Load Balancer: Accelerating Mobile-First Applications",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-quic-protocol-support-for-network-load-balancer-accelerating-mobile-first-applications/"
+    },
+    {
         "title": "Introducing AWS Site-to-Site VPN 5 Gbps Tunnels to support high throughput workloads",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing fine-grained Amazon Route 53 access using AWS IAM condition keys (Part 1)",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-fine-grained-amazon-route-53-access-using-aws-iam-condition-keys-part-1/"
-    },
-    {
-        "title": "Streamline hybrid DNS management using Amazon Route 53 Resolver endpoints delegation",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-hybrid-dns-management-using-amazon-route-53-resolver-endpoints-delegation/"
     }
 ]
