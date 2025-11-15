@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build a biomedical research agent with Biomni tools and Amazon Bedrock AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-research-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/"
+    },
+    {
+        "title": "Make your web apps hands-free with Amazon Nova Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/make-your-web-apps-hands-free-with-amazon-nova-sonic/"
+    },
+    {
+        "title": "Harnessing the power of generative AI: Druva\u2019s multi-agent copilot for streamlined data protection",
+        "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-generative-ai-druvas-multi-agent-copilot-for-streamlined-data-protection/"
+    },
+    {
         "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Reduce CAPTCHAs for AI agents browsing the web with Web Bot Auth (Preview) in Amazon Bedrock AgentCore Browser",
         "link": "https://aws.amazon.com/blogs/machine-learning/reduce-captchas-for-ai-agents-browsing-the-web-with-web-bot-auth-preview-in-amazon-bedrock-agentcore-browser/"
-    },
-    {
-        "title": "Hosting NVIDIA speech NIM models on Amazon SageMaker AI: Parakeet ASR",
-        "link": "https://aws.amazon.com/blogs/machine-learning/hosting-nvidia-speech-nim-models-on-amazon-sagemaker-ai-parakeet-asr/"
-    },
-    {
-        "title": "Responsible AI design in healthcare and life sciences",
-        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-design-in-healthcare-and-life-sciences/"
-    },
-    {
-        "title": "Beyond pilots: A proven framework for scaling AI to production",
-        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-pilots-a-proven-framework-for-scaling-ai-to-production/"
     }
 ]

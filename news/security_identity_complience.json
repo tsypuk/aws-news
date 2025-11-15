@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS re:Invent 2025: Your guide to security sessions across four transformative themes",
+        "link": "https://aws.amazon.com/blogs/security/aws-reinvent-2025-your-guide-to-security-sessions-across-four-transformative-themes/"
+    },
+    {
         "title": "Amazon Inspector detects over 150,000 malicious packages linked to token farming campaign",
         "link": "https://aws.amazon.com/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Defending LLM applications against Unicode character smuggling",
         "link": "https://aws.amazon.com/blogs/security/defending-llm-applications-against-unicode-character-smuggling/"
-    },
-    {
-        "title": "Build secure network architectures for generative AI applications using AWS services",
-        "link": "https://aws.amazon.com/blogs/security/build-secure-network-architectures-for-generative-ai-applications-using-aws-services/"
     }
 ]

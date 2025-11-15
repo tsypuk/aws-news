@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing fully managed Blue/Green deployments for Amazon Aurora Global Database",
+        "link": "https://aws.amazon.com/blogs/database/introducing-fully-managed-blue-green-deployments-for-amazon-aurora-global-database/"
+    },
+    {
         "title": "Rate-limiting calls to Amazon DynamoDB using Python Boto3, Part 2: Distributed Coordination",
         "link": "https://aws.amazon.com/blogs/database/rate-limiting-calls-to-amazon-dynamodb-using-python-boto3-part-2-distributed-coordination/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Overview and best practices of multithreaded replication in Amazon RDS for MySQL, Amazon RDS for MariaDB, and Amazon Aurora MySQL",
         "link": "https://aws.amazon.com/blogs/database/overview-and-best-practices-of-multithreaded-replication-in-amazon-rds-for-mysql-amazon-rds-for-mariadb-and-amazon-aurora-mysql/"
-    },
-    {
-        "title": "Restore self-managed Db2 Linux databases in Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/restore-self-managed-db2-linux-databases-in-amazon-rds-for-db2/"
     }
 ]

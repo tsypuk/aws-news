@@ -1,5 +1,9 @@
 [
     {
+        "title": "Know before you go \u2013 AWS re:Invent 2025 guide to Well-Architected and Cloud Optimization sessions",
+        "link": "https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/"
+    },
+    {
         "title": "BASF Digital Farming builds a STAC-based solution on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/basf-digital-farming-builds-a-stac-based-solution-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Stellantis streamlines floating license management with serverless orchestration on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/"
-    },
-    {
-        "title": "Analyze media content using AWS AI services",
-        "link": "https://aws.amazon.com/blogs/architecture/analyze-media-content-using-aws-ai-services/"
     }
 ]
