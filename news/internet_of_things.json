@@ -1,5 +1,9 @@
 [
     {
+        "title": "High availability patterns for AWS IoT Greengrass using Pacemaker",
+        "link": "https://aws.amazon.com/blogs/iot/high-availability-patterns-for-aws-iot-greengrass-using-pacemaker/"
+    },
+    {
         "title": "AWS IoT Services Alignment with the European Union Cyber Resilience Act (EU CRA)",
         "link": "https://aws.amazon.com/blogs/iot/eu-cra/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Siemens Energy uses AWS for its IIoT platform and smart manufacturing",
         "link": "https://aws.amazon.com/blogs/iot/how-siemens-energy-uses-aws-for-its-iiot-platform-and-smart-manufacturing/"
-    },
-    {
-        "title": "How to digitize and automate vehicle assembly inspection process with voice-enabled AWS services",
-        "link": "https://aws.amazon.com/blogs/iot/how-to-digitize-and-automate-vehicle-assembly-inspection-process-with-voice-enabled-aws-services/"
     }
 ]
