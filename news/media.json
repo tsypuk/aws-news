@@ -1,5 +1,9 @@
 [
     {
+        "title": "New AWS Organizations Skill Builder courses to level up your multi-account strategy",
+        "link": "https://aws.amazon.com/blogs/mt/new-aws-organizations-skill-builder-courses-to-level-up-your-multi-account-strategy/"
+    },
+    {
         "title": "AWS X-Ray SDKs/Daemon migration to OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/mt/aws-x-ray-sdks-daemon-migration-to-opentelemetry/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing metrics ingestion with Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/optimizing-metrics-ingestion-with-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "AWS Organizations launches account state information for granular account lifecycle management",
-        "link": "https://aws.amazon.com/blogs/mt/updates-to-account-status-information-in-aws-organizations/"
     }
 ]
