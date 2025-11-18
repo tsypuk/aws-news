@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reduce Microsoft SQL Server High Availability costs running on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ec2-reduces-costs-for-microsoft-sql-server-high-availability-deployments/"
+    },
+    {
+        "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Simplify SQL Server Developer edition deployments with AWS Launch Wizard",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-sql-server-developer-edition-deployments-with-aws-launch-wizard/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Extending on-premises MS SQL Server Always On Availability groups to Amazon EC2 for Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/extending-on-premises-ms-sql-server-always-on-availability-groups-to-amazon-ec2-for-disaster-recovery/"
-    },
-    {
-        "title": "Extend your Active Directory domain to AWS with AWS Managed Microsoft AD (Hybrid Edition)",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/extend-your-active-directory-domain-to-aws-with-aws-managed-microsoft-ad-hybrid-edition/"
-    },
-    {
-        "title": "How TEKsystems Modernized a University\u2019s Microsoft Workloads on AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-teksystems-modernized-a-universitys-microsoft-workloads-on-aws/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "How to use Amazon S3 Multi-Region Access Points to streamline and reduce the cost of writing across AWS Regions",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-use-amazon-s3-multi-region-access-points-to-streamline-and-reduce-the-cost-of-writing-across-aws-regions/"
+    },
+    {
+        "title": "Automated cost-effective archiving and on-demand data restoration",
+        "link": "https://aws.amazon.com/blogs/storage/automated-cost-effective-archiving-and-on-demand-data-restoration/"
+    },
+    {
+        "title": "Getting started with self-managed Oracle in AWS using Amazon FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/storage/getting-started-with-self-managed-oracle-in-aws-using-amazon-fsx-for-openzfs/"
+    },
+    {
         "title": "Cost-optimized file storage with Amazon FSx for NetApp ONTAP and Komprise",
         "link": "https://aws.amazon.com/blogs/storage/cost-optimized-file-storage-with-amazon-fsx-for-netapp-ontap-and-komprise/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build centralized cross-Region backup architecture with AWS Control Tower",
         "link": "https://aws.amazon.com/blogs/storage/build-centralized-cross-region-backup-architecture-with-aws-control-tower/"
-    },
-    {
-        "title": "How a customer reduced storage TCO by 28% with Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/how-a-customer-reduced-storage-tco-by-28-with-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Enforcing organization-wide Amazon S3 bucket-tagging policies",
-        "link": "https://aws.amazon.com/blogs/storage/enforcing-organization-wide-amazon-s3-bucket-tagging-policies/"
-    },
-    {
-        "title": "Efficiently verify Amazon S3 data at scale with compute checksum operation",
-        "link": "https://aws.amazon.com/blogs/storage/efficiently-verify-amazon-s3-data-at-scale-with-compute-checksum-operation/"
     }
 ]

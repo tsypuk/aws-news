@@ -1,5 +1,13 @@
 [
     {
+        "title": "Meet the Advanced Computing team of AWS at SC25 in St. Louis",
+        "link": "https://aws.amazon.com/blogs/hpc/meet-the-advanced-computing-team-of-aws-at-sc25-in-st-louis/"
+    },
+    {
+        "title": "AWS re:Invent 2025: Your Complete Guide to High Performance Computing Sessions",
+        "link": "https://aws.amazon.com/blogs/hpc/aws-reinvent-2025-your-complete-guide-to-high-performance-computing-sessions/"
+    },
+    {
         "title": "Optimizing undersea cables: how Orsted and AWS modeled seabed thermal properties",
         "link": "https://aws.amazon.com/blogs/hpc/optimizing-undersea-cables-how-orsted-and-aws-modeled-seabed-thermal-properties/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to migrate a VeriFire Emulator design from F1 to F2 Instances",
         "link": "https://aws.amazon.com/blogs/hpc/how-to-migrate-a-verifire-emulator-design-from-f1-to-to-f2-instances/"
-    },
-    {
-        "title": "Introducing managed accounting for AWS Parallel Computing Service",
-        "link": "https://aws.amazon.com/blogs/hpc/introducing-managed-accounting-for-aws-parallel-computing-service/"
-    },
-    {
-        "title": "AI-Enhanced Subsurface Infrastructure Mapping on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/ai-enhanced-subsurface-infrastructure-mapping-on-aws/"
     }
 ]

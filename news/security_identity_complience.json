@@ -1,5 +1,9 @@
 [
     {
+        "title": "Post-quantum (ML-DSA) code signing with AWS Private CA and AWS KMS",
+        "link": "https://aws.amazon.com/blogs/security/post-quantum-ml-dsa-code-signing-with-aws-private-ca-and-aws-kms/"
+    },
+    {
         "title": "AWS re:Invent 2025: Your guide to security sessions across four transformative themes",
         "link": "https://aws.amazon.com/blogs/security/aws-reinvent-2025-your-guide-to-security-sessions-across-four-transformative-themes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Defending against supply chain attacks like Chalk/Debug and the Shai-Hulud worm",
         "link": "https://aws.amazon.com/blogs/security/defending-against-supply-chain-attacks-like-chalk-debug-and-the-shai-hulud-worm/"
-    },
-    {
-        "title": "Defending LLM applications against Unicode character smuggling",
-        "link": "https://aws.amazon.com/blogs/security/defending-llm-applications-against-unicode-character-smuggling/"
     }
 ]

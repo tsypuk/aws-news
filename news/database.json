@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate database modernization using AI with the Database Modernizer Workshop",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-database-modernization-using-ai-with-the-database-modernizer-workshop/"
+    },
+    {
+        "title": "Efficiently compare items across two Amazon DynamoDB tables",
+        "link": "https://aws.amazon.com/blogs/database/efficiently-compare-items-across-two-amazon-dynamodb-tables/"
+    },
+    {
         "title": "Introducing fully managed Blue/Green deployments for Amazon Aurora Global Database",
         "link": "https://aws.amazon.com/blogs/database/introducing-fully-managed-blue-green-deployments-for-amazon-aurora-global-database/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "JSON database solutions in AWS: Amazon DocumentDB (with MongoDB compatibility)",
         "link": "https://aws.amazon.com/blogs/database/json-database-solutions-in-aws-amazon-documentdb-with-mongodb-compatibility/"
-    },
-    {
-        "title": "Monitoring multithreaded replication in Amazon RDS for MySQL, Amazon RDS for MariaDB, and Aurora MySQL",
-        "link": "https://aws.amazon.com/blogs/database/monitoring-multithreaded-replication-in-amazon-rds-for-mysql-amazon-rds-for-mariadb-and-aurora-mysql/"
-    },
-    {
-        "title": "Overview and best practices of multithreaded replication in Amazon RDS for MySQL, Amazon RDS for MariaDB, and Amazon Aurora MySQL",
-        "link": "https://aws.amazon.com/blogs/database/overview-and-best-practices-of-multithreaded-replication-in-amazon-rds-for-mysql-amazon-rds-for-mariadb-and-amazon-aurora-mysql/"
     }
 ]

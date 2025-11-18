@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: AWS Lambda, load balancers, Amazon DCV, Amazon Linux 2023, and more (November 17, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-load-balancers-amazon-dcv-amazon-linux-2023-and-more-november-17-2025/"
+    },
+    {
         "title": "AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping",
         "link": "https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New general-purpose Amazon EC2 M8a instances are now available",
         "link": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/"
-    },
-    {
-        "title": "Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/"
     }
 ]

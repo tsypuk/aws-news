@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon MWAA Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-serverless/"
+    },
+    {
         "title": "Your guide to AWS Analytics at AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-aws-reinvent-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Configure seamless single sign-on with SQL analytics in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/configure-seamless-single-sign-on-with-sql-analytics-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Stream mainframe data to AWS in near real time with Precisely and Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/stream-mainframe-data-to-aws-in-near-real-time-with-precisely-and-amazon-msk/"
     }
 ]
