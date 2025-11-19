@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build priority-based message processing with Amazon MQ and AWS App Runner",
+        "link": "https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/"
+    },
+    {
         "title": "Know before you go \u2013 AWS re:Invent 2025 guide to Well-Architected and Cloud Optimization sessions",
         "link": "https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a multi-Region AWS PrivateLink backed service with seamless failover",
         "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-region-aws-privatelink-backed-service-with-seamless-failover/"
-    },
-    {
-        "title": "How Stellantis streamlines floating license management with serverless orchestration on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-stellantis-streamlines-floating-license-management-with-serverless-orchestration-on-aws/"
     }
 ]

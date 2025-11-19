@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Braket launches trapped-ion quantum computer from Alpine Quantum Technologies",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-trapped-ion-quantum-computer-from-alpine-quantum-technologies/"
+    },
+    {
         "title": "Exact simulation of Quantum Enhanced Signature Kernels for financial data streams prediction using Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/exact-simulation-of-quantum-enhanced-signature-kernels-for-financial-data-streams-prediction-using-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing Local Device Emulator for Verbatim Circuits on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-local-device-emulator-for-verbatim-circuits-on-amazon-braket/"
-    },
-    {
-        "title": "Amazon Braket introduces program sets enabling customers to run quantum programs up to 24x faster",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-introduces-program-sets-enabling-customers-to-run-quantum-programs-up-to-24x-faster/"
     }
 ]

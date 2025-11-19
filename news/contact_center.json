@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enable agent to agent calling as a third-party (3P) application in Amazon Connect agent workspace",
+        "link": "https://aws.amazon.com/blogs/contact-center/enable-agent-to-agent-calling-as-a-third-party-3p-application-in-amazon-connect-agent-workspace/"
+    },
+    {
         "title": "Analyze customer satisfaction scores with post-contact surveys using Amazon Connect Tasks",
         "link": "https://aws.amazon.com/blogs/contact-center/analyze-customer-satisfaction-scores-with-post-contact-surveys-using-amazon-connect-tasks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Resolve customer issues via two-way SMS (text messaging) in Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/resolve-customer-issues-via-two-way-sms-text-messaging-in-amazon-connect/"
-    },
-    {
-        "title": "Elevate your contact center workforce management using the new Amazon Connect Forecasting, Capacity Planning and Scheduling features (2025 Q2)",
-        "link": "https://aws.amazon.com/blogs/contact-center/elevate-your-contact-center-workforce-management-using-the-new-amazon-connect-forecasting-capacity-planning-and-scheduling-features-2025-q2/"
     }
 ]

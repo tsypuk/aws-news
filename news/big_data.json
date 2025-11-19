@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cross-account lakehouse governance with Amazon S3 Tables and SageMaker Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/cross-account-lakehouse-governance-with-amazon-s3-tables-and-sagemaker-catalog/"
+    },
+    {
         "title": "Introducing Amazon MWAA Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Twilio built a multi-engine query platform using Amazon Athena and open-source Presto",
         "link": "https://aws.amazon.com/blogs/big-data/how-twilio-built-a-multi-engine-query-platform-using-amazon-athena-and-open-source-presto/"
-    },
-    {
-        "title": "Configure seamless single sign-on with SQL analytics in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/configure-seamless-single-sign-on-with-sql-analytics-in-amazon-sagemaker-unified-studio/"
     }
 ]

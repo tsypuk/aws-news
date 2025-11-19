@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon ECS at AWS re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-at-aws-reinvent-2025/"
+    },
+    {
         "title": "Deep Dive: Amazon ECS Managed Instances provisioning and optimization",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-amazon-ecs-managed-instances-provisioning-and-optimization/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to manage EKS Pod Identities at scale using Argo CD and AWS ACK",
         "link": "https://aws.amazon.com/blogs/containers/how-to-manage-eks-pod-identities-at-scale-using-argo-cd-and-aws-ack/"
-    },
-    {
-        "title": "SaaS deployment architectures with Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/saas-deployment-architectures-with-amazon-eks/"
     }
 ]

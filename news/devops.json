@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate infrastructure development with CloudFormation pre-deployment validation and simplified troubleshooting",
+        "link": "https://aws.amazon.com/blogs/devops/accelerate-infrastructure-development-with-cloudformation-pre-deployment-validation-and-simplified-troubleshooting/"
+    },
+    {
         "title": "Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the end-of-support for AWS Tools for PowerShell v4",
         "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-aws-tools-for-powershell-v4/"
-    },
-    {
-        "title": "Introducing AWS Cloud Control API MCP Server: Natural Language Infrastructure Management on AWS",
-        "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloud-control-api-mcp-server-natural-language-infrastructure-management-on-aws/"
     }
 ]

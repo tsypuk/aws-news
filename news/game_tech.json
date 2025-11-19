@@ -1,5 +1,9 @@
 [
     {
+        "title": "Game developer\u2019s guide to Amazon DocumentDB Serverless",
+        "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-documentdb-serverless/"
+    },
+    {
         "title": "Inside the federated authentication system of Amazon Game Studios",
         "link": "https://aws.amazon.com/blogs/gametech/inside-the-federated-authentication-system-of-amazon-game-studios/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Yggdrasil Gaming boosts speed, resilience, and innovation with GOStack and AWS",
         "link": "https://aws.amazon.com/blogs/gametech/yggdrasil-gaming-boosts-speed-resilience-and-innovation-with-gostack-and-aws/"
-    },
-    {
-        "title": "Host persistent world games on Amazon GameLift Servers",
-        "link": "https://aws.amazon.com/blogs/gametech/host-persistent-world-games-on-amazon-gamelift-servers/"
     }
 ]

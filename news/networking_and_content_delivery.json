@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing flat-rate pricing plans with no overages",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/"
+    },
+    {
         "title": "Scaling AWS VPN maintenance with tunnel endpoint lifecycle automation",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-aws-vpn-maintenance-with-tunnel-endpoint-lifecycle-automation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Protect your Amazon Route 53 DNS zones and records",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-your-amazon-route-53-dns-zones-and-records/"
-    },
-    {
-        "title": "Dynamic routing using Amazon VPC Route Server",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dynamic-routing-using-amazon-vpc-route-server/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Bringing tic-tac-toe to life with AWS AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bringing-tic-tac-toe-to-life-with-aws-ai-services/"
+    },
+    {
+        "title": "HyperPod enhances ML infrastructure with security and storage",
+        "link": "https://aws.amazon.com/blogs/machine-learning/hyperpod-enhances-ml-infrastructure-with-security-and-storage/"
+    },
+    {
+        "title": "Accelerating generative AI applications with a platform engineering approach",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-applications-with-a-platform-engineering-approach/"
+    },
+    {
         "title": "Your complete guide to Amazon Quick Suite at AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-amazon-quick-suite-at-aws-reinvent-2025/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Iterate faster with Amazon Bedrock AgentCore Runtime direct code deployment",
         "link": "https://aws.amazon.com/blogs/machine-learning/iterate-faster-with-amazon-bedrock-agentcore-runtime-direct-code-deployment/"
-    },
-    {
-        "title": "How Switchboard, MD automates real-time call transcription in clinical contact centers with Amazon Nova Sonic",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-switchboard-md-automates-real-time-call-transcription-in-clinical-contact-centers-with-amazon-nova-sonic/"
-    },
-    {
-        "title": "Build reliable AI systems with Automated Reasoning on Amazon Bedrock \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-systems-with-automated-reasoning-on-amazon-bedrock-part-1/"
-    },
-    {
-        "title": "Custom Intelligence: Building AI that matches your business DNA",
-        "link": "https://aws.amazon.com/blogs/machine-learning/custom-intelligence-building-ai-that-matches-your-business-dna/"
     }
 ]
