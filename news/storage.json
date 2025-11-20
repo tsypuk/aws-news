@@ -1,5 +1,17 @@
 [
     {
+        "title": "Advanced notice: Amazon S3 to disable the use of SSE-C encryption by default for all new buckets and select existing buckets in April 2026",
+        "link": "https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/"
+    },
+    {
+        "title": "Using File Server Resource Manager (FSRM) on Amazon FSx for Windows File Server",
+        "link": "https://aws.amazon.com/blogs/storage/using-file-server-resource-manager-fsrm-for-amazon-fsx-for-windows-file-server/"
+    },
+    {
+        "title": "Scan backups for malware with Amazon GuardDuty Malware Protection for AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/scan-backups-for-malware-with-amazon-guardduty-malware-protection-for-aws-backup/"
+    },
+    {
         "title": "How to use Amazon S3 Multi-Region Access Points to streamline and reduce the cost of writing across AWS Regions",
         "link": "https://aws.amazon.com/blogs/storage/how-to-use-amazon-s3-multi-region-access-points-to-streamline-and-reduce-the-cost-of-writing-across-aws-regions/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 2: Failover and failback implementation)",
         "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-2-failover-and-failback-implementation/"
-    },
-    {
-        "title": "Cross-account disaster recovery setup using AWS Elastic Disaster Recovery in secured networks (Part 1: Architecture and network setup)",
-        "link": "https://aws.amazon.com/blogs/storage/cross-account-disaster-recovery-setup-using-aws-elastic-disaster-recovery-in-secured-networks-part-1-architecture-and-network-setup/"
-    },
-    {
-        "title": "How Zeta Global scales multi-tenant data ingestion with Amazon S3 Tables",
-        "link": "https://aws.amazon.com/blogs/storage/how-zeta-global-scales-multi-tenant-data-ingestion-with-amazon-s3-tables/"
-    },
-    {
-        "title": "Build centralized cross-Region backup architecture with AWS Control Tower",
-        "link": "https://aws.amazon.com/blogs/storage/build-centralized-cross-region-backup-architecture-with-aws-control-tower/"
     }
 ]

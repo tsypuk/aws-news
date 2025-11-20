@@ -1,5 +1,33 @@
 [
     {
+        "title": "Simplify access to external services using AWS IAM Outbound Identity Federation",
+        "link": "https://aws.amazon.com/blogs/aws/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/"
+    },
+    {
+        "title": "Accelerate workflow development with enhanced local testing in AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-workflow-development-with-enhanced-local-testing-in-aws-step-functions/"
+    },
+    {
+        "title": "Streamlined multi-tenant application development with tenant isolation mode in AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/aws/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/"
+    },
+    {
+        "title": "New business metadata features in Amazon SageMaker Catalog to improve discoverability across organizations",
+        "link": "https://aws.amazon.com/blogs/aws/new-business-metadata-features-in-amazon-sagemaker-catalog-to-improve-discoverability-across-organizations/"
+    },
+    {
+        "title": "AWS Control Tower introduces a Controls Dedicated experience",
+        "link": "https://aws.amazon.com/blogs/aws/aws-control-tower-introduces-a-controls-dedicated-experience/"
+    },
+    {
+        "title": "New: AWS Billing Transfer for centrally managing AWS billing and costs across multiple organizations",
+        "link": "https://aws.amazon.com/blogs/aws/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/"
+    },
+    {
+        "title": "Monitor network performance and traffic across your EKS clusters with Container Network Observability",
+        "link": "https://aws.amazon.com/blogs/aws/monitor-network-performance-and-traffic-across-your-eks-clusters-with-container-network-observability/"
+    },
+    {
         "title": "New Amazon Bedrock service tiers help you match AI workload performance with cost",
         "link": "https://aws.amazon.com/blogs/aws/new-amazon-bedrock-service-tiers-help-you-match-ai-workload-performance-with-cost/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "AWS Weekly Roundup: AWS RTB Fabric, Carbon Footprint Tool for Scope 3, AWS Secret-West Region, and more (October 27, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-rtb-fabric-aws-customer-carbon-footprint-tool-aws-secret-west-region-and-more-october-27-2025/"
-    },
-    {
-        "title": "Introducing AWS RTB Fabric for real-time advertising technology workloads",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-rtb-fabric-for-real-time-advertising-technology-workloads/"
-    },
-    {
-        "title": "Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available",
-        "link": "https://aws.amazon.com/blogs/aws/aws-customer-carbon-footprint-tool-now-includes-scope-3-emissions/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-waitlist-ebs-volume-clones-ec2-capacity-manager-and-more-october-20-2025/"
-    },
-    {
-        "title": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
-        "link": "https://aws.amazon.com/blogs/aws/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager/"
-    },
-    {
-        "title": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/"
-    },
-    {
-        "title": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
-        "link": "https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon Quick Suite, EC2 C8i, C8i-flex, and M8a instances, and more (October 13, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/"
     }
 ]

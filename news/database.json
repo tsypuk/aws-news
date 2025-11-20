@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate generative AI use cases with Amazon Bedrock and Oracle Database@AWS",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-generative-ai-use-cases-with-amazon-bedrock-and-oracle-databaseaws/"
+    },
+    {
         "title": "Accelerate database modernization using AI with the Database Modernizer Workshop",
         "link": "https://aws.amazon.com/blogs/database/accelerate-database-modernization-using-ai-with-the-database-modernizer-workshop/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "GroundTruth reduces costs by 45% and improves reliability migrating from Aerospike to Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/groundtruth-reduces-costs-by-45-and-improves-reliability-migrating-from-aerospike-to-amazon-elasticache-for-valkey/"
-    },
-    {
-        "title": "JSON database solutions in AWS: Amazon DocumentDB (with MongoDB compatibility)",
-        "link": "https://aws.amazon.com/blogs/database/json-database-solutions-in-aws-amazon-documentdb-with-mongodb-compatibility/"
     }
 ]

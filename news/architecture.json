@@ -1,5 +1,21 @@
 [
     {
+        "title": "Building an AI gateway to Amazon Bedrock with Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/"
+    },
+    {
+        "title": "Architecting for AI excellence: AWS launches three Well-Architected Lenses at re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/"
+    },
+    {
+        "title": "Announcing the updated AWS Well-Architected Generative AI Lens",
+        "link": "https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-generative-ai-lens/"
+    },
+    {
+        "title": "Announcing the updated AWS Well-Architected Machine Learning Lens",
+        "link": "https://aws.amazon.com/blogs/architecture/announcing-the-updated-aws-well-architected-machine-learning-lens/"
+    },
+    {
         "title": "Build priority-based message processing with Amazon MQ and AWS App Runner",
         "link": "https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Scale to Win uses AWS WAF to block DDoS events",
         "link": "https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/"
-    },
-    {
-        "title": "Migrate and modernize VMware workloads with AWS Transform for VMware",
-        "link": "https://aws.amazon.com/blogs/architecture/migrate-and-modernize-vmware-workloads-with-aws-transform-for-vmware/"
-    },
-    {
-        "title": "Simplifying sustainability reporting using AWS and generative AI in banking",
-        "link": "https://aws.amazon.com/blogs/architecture/simplifying-sustainability-reporting-using-aws-and-generative-ai-in-banking/"
-    },
-    {
-        "title": "Amazon Bedrock baseline architecture in an AWS landing zone",
-        "link": "https://aws.amazon.com/blogs/architecture/amazon-bedrock-baseline-architecture-in-an-aws-landing-zone/"
-    },
-    {
-        "title": "Build a multi-Region AWS PrivateLink backed service with seamless failover",
-        "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-region-aws-privatelink-backed-service-with-seamless-failover/"
     }
 ]

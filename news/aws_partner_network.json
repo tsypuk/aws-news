@@ -1,5 +1,17 @@
 [
     {
+        "title": "Protect your Amazon S3 files with Menlo File Security",
+        "link": "https://aws.amazon.com/blogs/apn/protect-your-amazon-s3-files-with-menlo-file-security/"
+    },
+    {
+        "title": "Streamline customer onboarding and accelerate time-to-value with AWS IAM temporary delegation",
+        "link": "https://aws.amazon.com/blogs/apn/streamline-customer-onboarding-and-accelerate-time-to-value-with-aws-iam-temporary-delegation/"
+    },
+    {
+        "title": "Introducing the Agentic AI Technical Learning Plan in AWS Skill Builder",
+        "link": "https://aws.amazon.com/blogs/apn/introducing-the-agentic-ai-technical-learning-plan-in-aws-skill-builder/"
+    },
+    {
         "title": "Accelerating iOS Builds with Bitrise CI/CD on Amazon EC2 Mac",
         "link": "https://aws.amazon.com/blogs/apn/accelerating-ios-builds-with-bitrise-ci-cd-on-amazon-ec2-mac/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Automate and Accelerate Database Deployments on AWS with Redgate Flyway Enterprise",
         "link": "https://aws.amazon.com/blogs/apn/automate-and-accelerate-database-deployments-on-aws-with-redgate-flyway-enterprise/"
-    },
-    {
-        "title": "From Idea to App in Minutes: Introducing Zendesk App Builder with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/apn/from-idea-to-app-in-minutes-introducing-zendesk-app-builder-with-amazon-bedrock/"
-    },
-    {
-        "title": "AWS and Zeta: Transforming Digital Marketing with AI-Powered Intelligence",
-        "link": "https://aws.amazon.com/blogs/apn/aws-and-zeta-transforming-digital-marketing-with-ai-powered-intelligence/"
-    },
-    {
-        "title": "Unlock Advanced AI Control with Kong AI Gateway And Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/apn/unlock-advanced-ai-control-with-kong-ai-gateway-and-amazon-bedrock/"
     }
 ]

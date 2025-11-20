@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting started with Amazon S3 Tables in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-amazon-s3-tables-in-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "Cross-account lakehouse governance with Amazon S3 Tables and SageMaker Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/cross-account-lakehouse-governance-with-amazon-s3-tables-and-sagemaker-catalog/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate email notifications for governance teams working with Amazon SageMaker Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/automate-email-notifications-for-governance-teams-working-with-amazon-sagemaker-catalog/"
-    },
-    {
-        "title": "How Twilio built a multi-engine query platform using Amazon Athena and open-source Presto",
-        "link": "https://aws.amazon.com/blogs/big-data/how-twilio-built-a-multi-engine-query-platform-using-amazon-athena-and-open-source-presto/"
     }
 ]

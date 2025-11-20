@@ -1,5 +1,17 @@
 [
     {
+        "title": "Announcing CloudFormation IDE Experience: End-to-End Development in Your IDE",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-cloudformation-ide-experience-end-to-end-development-in-your-ide/"
+    },
+    {
+        "title": "Amazon introduces two benchmark datasets for evaluating AI agents\u2019 ability on code migration",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-introduces-two-benchmark-datasets-for-evaluating-ai-agents-ability-on-code-migration/"
+    },
+    {
+        "title": "Safely Handle Configuration Drift with CloudFormation Drift-Aware Change Sets",
+        "link": "https://aws.amazon.com/blogs/devops/safely-handle-configuration-drift-with-cloudformation-drift-aware-change-sets/"
+    },
+    {
         "title": "Accelerate infrastructure development with CloudFormation pre-deployment validation and simplified troubleshooting",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-infrastructure-development-with-cloudformation-pre-deployment-validation-and-simplified-troubleshooting/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Measuring Developer Productivity with Amazon Q Developer and Jellyfish",
         "link": "https://aws.amazon.com/blogs/devops/measuring-developer-productivity-with-amazon-q-developer-and-jellyfish/"
-    },
-    {
-        "title": "Mastering Amazon Q Developer with Rules",
-        "link": "https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-with-rules/"
-    },
-    {
-        "title": "Announcing the end-of-support for the AWS SDK for .NET v3",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-the-aws-sdk-for-net-v3/"
-    },
-    {
-        "title": "Announcing the end-of-support for AWS Tools for PowerShell v4",
-        "link": "https://aws.amazon.com/blogs/devops/announcing-the-end-of-support-for-aws-tools-for-powershell-v4/"
     }
 ]

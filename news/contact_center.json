@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Blink by Amazon streamlined contact center reporting using AWS Glue Zero ETL",
+        "link": "https://aws.amazon.com/blogs/contact-center/how-blink-by-amazon-streamlined-contact-center-reporting-using-aws-glue-zero-etl/"
+    },
+    {
+        "title": "Using MCP with Amazon Connect to monitor operational readiness",
+        "link": "https://aws.amazon.com/blogs/contact-center/using-mcp-with-amazon-connect-to-monitor-operational-readiness/"
+    },
+    {
         "title": "Enable agent to agent calling as a third-party (3P) application in Amazon Connect agent workspace",
         "link": "https://aws.amazon.com/blogs/contact-center/enable-agent-to-agent-calling-as-a-third-party-3p-application-in-amazon-connect-agent-workspace/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS recognized as a Leader in the 2025 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/aws-recognized-as-a-leader-in-the-2025-gartner-magic-quadrant-for-contact-center-as-a-service-ccaas-with-amazon-connect/"
-    },
-    {
-        "title": "Elevate your Amazon Connect skills with specialty training badges",
-        "link": "https://aws.amazon.com/blogs/contact-center/elevate-your-amazon-connect-skills-with-specialty-training-badges/"
-    },
-    {
-        "title": "Resolve customer issues via two-way SMS (text messaging) in Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/resolve-customer-issues-via-two-way-sms-text-messaging-in-amazon-connect/"
     }
 ]

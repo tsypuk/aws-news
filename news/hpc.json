@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Daiichi Sankyo modernized drug discovery using AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/how-daiichi-sankyo-modernized-drug-discovery-using-aws-parallel-computing-service/"
+    },
+    {
         "title": "Meet the Advanced Computing team of AWS at SC25 in St. Louis",
         "link": "https://aws.amazon.com/blogs/hpc/meet-the-advanced-computing-team-of-aws-at-sc25-in-st-louis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhanced Performance for Whisper Audio Transcription on AWS Batch and AWS Inferentia",
         "link": "https://aws.amazon.com/blogs/hpc/enhanced-performance-for-whisper-audio-transcription-on-aws-batch-and-aws-inferentia/"
-    },
-    {
-        "title": "How to migrate a VeriFire Emulator design from F1 to F2 Instances",
-        "link": "https://aws.amazon.com/blogs/hpc/how-to-migrate-a-verifire-emulator-design-from-f1-to-to-f2-instances/"
     }
 ]

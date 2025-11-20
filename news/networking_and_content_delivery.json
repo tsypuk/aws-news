@@ -1,5 +1,21 @@
 [
     {
+        "title": "Build scalable IPv4 addressing with AWS NAT gateway in regional availability mode, Amazon VPC IPAM policies and Prefix Lists",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-scalable-ipv4-addressing-with-aws-nat-gateway-in-regional-availability-mode-amazon-vpc-ipam-policies-and-prefix-lists/"
+    },
+    {
+        "title": "AWS PrivateLink extends cross-region connectivity to AWS services",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-privatelink-extends-cross-region-connectivity-to-aws-services/"
+    },
+    {
+        "title": "Network Load Balancers now support Weighted Target Groups",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-load-balancers-now-support-weighted-target-groups/"
+    },
+    {
+        "title": "How to manage AI Bots with AWS WAF and enhance security",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-manage-ai-bots-with-aws-waf-and-enhance-security/"
+    },
+    {
         "title": "Introducing flat-rate pricing plans with no overages",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Building Resilient Multi-cluster Applications with Amazon EKS, Part 1: Implementing Cross-cluster Load Balancing with NLB",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resilient-multi-cluster-applications-with-amazon-eks/"
-    },
-    {
-        "title": "Redirecting internet bound traffic through a transparent forward proxy",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/redirecting-internet-bound-traffic-through-a-transparent-forward-proxy/"
-    },
-    {
-        "title": "Amazon CloudFront now supports IPv6 origins for end-to-end IPv6 delivery",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-now-supports-ipv6-origins-for-end-to-end-ipv6-delivery/"
-    },
-    {
-        "title": "AWS Site-to-Site VPN: secure pre-shared key (PSK) Management with AWS Secrets Manager",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-secure-pre-shared-key-psk-management-with-aws-secrets-manager/"
-    },
-    {
-        "title": "Protect your Amazon Route 53 DNS zones and records",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-your-amazon-route-53-dns-zones-and-records/"
     }
 ]
