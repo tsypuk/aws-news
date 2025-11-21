@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-11-200.1.0) - 2025-11-20
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-11-210.1.0) - 2025-11-21
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/9d8ecc88202b71e0daca6db1fc9ef612733ab2c3...ver-2025-11-20)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/23e95d6f8621a529e65d4bb01506eb37f835b77a...ver-2025-11-21)</small>
 
 ### Docs
 
-- updated AWS news - architecture,aws_news,aws_partner_network,big_data,compute,contact_center,database,desktop_and_application_streaming,devops,game_tech,hpc,industries,machine_learning,messaging_and_targeting,networking_and_content_delivery,public_sector,security_identity_complience,storage,training_certification - 2025-11-20 ([3b546d2](https://github.com/tsypuk/aws-news/commit/3b546d2d7dd953870b6e0868a2252dd9749bba54) by Roman Tsypuk).
+- updated AWS news - aws_news,big_data,compute,contact_center,containers,database,game_tech,industries,machine_learning,media,networking_and_content_delivery,open_source,public_sector,security_identity_complience,windows_on_aws - 2025-11-21 ([0d1bcaa](https://github.com/tsypuk/aws-news/commit/0d1bcaaf5b78f0ed9504bc18f81d3aacf533678a) by Roman Tsypuk).
 
