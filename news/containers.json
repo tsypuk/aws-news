@@ -1,5 +1,13 @@
 [
     {
+        "title": "Guide to Amazon EKS and Kubernetes sessions at AWS re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/containers/guide-to-amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2025/"
+    },
+    {
+        "title": "Monitoring network performance on Amazon EKS using AWS Managed Open-Source Services",
+        "link": "https://aws.amazon.com/blogs/containers/monitoring-network-performance-on-amazon-eks-using-aws-managed-open-source-services/"
+    },
+    {
         "title": "Amazon ECS at AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-at-aws-reinvent-2025/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Troubleshooting with Amazon ECS Exec and Amazon CloudWatch Logs Live Tail in the AWS Management Console",
         "link": "https://aws.amazon.com/blogs/containers/troubleshooting-with-amazon-ecs-exec-and-amazon-cloudwatch-logs-live-tail-in-the-aws-management-console/"
-    },
-    {
-        "title": "Running Slurm on Amazon EKS with Slinky",
-        "link": "https://aws.amazon.com/blogs/containers/running-slurm-on-amazon-eks-with-slinky/"
-    },
-    {
-        "title": "How to manage EKS Pod Identities at scale using Argo CD and AWS ACK",
-        "link": "https://aws.amazon.com/blogs/containers/how-to-manage-eks-pod-identities-at-scale-using-argo-cd-and-aws-ack/"
     }
 ]

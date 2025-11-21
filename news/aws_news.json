@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing attribute-based access control for Amazon S3 general purpose buckets",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-attribute-based-access-control-for-amazon-s3-general-purpose-buckets/"
+    },
+    {
         "title": "Simplify access to external services using AWS IAM Outbound Identity Federation",
         "link": "https://aws.amazon.com/blogs/aws/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Nova Multimodal Embeddings: State-of-the-art embedding model for agentic RAG and semantic search",
         "link": "https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS RTB Fabric, Carbon Footprint Tool for Scope 3, AWS Secret-West Region, and more (October 27, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-rtb-fabric-aws-customer-carbon-footprint-tool-aws-secret-west-region-and-more-october-27-2025/"
     }
 ]

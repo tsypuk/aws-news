@@ -1,5 +1,17 @@
 [
     {
+        "title": "Implement high availability in Amazon RDS for SQL Server Web Edition using block-level replication",
+        "link": "https://aws.amazon.com/blogs/database/implement-high-availability-in-amazon-rds-for-sql-server-web-edition-using-block-level-replication/"
+    },
+    {
+        "title": "Multi-key support for Global Secondary Index in Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/multi-key-support-for-global-secondary-index-in-amazon-dynamodb/"
+    },
+    {
+        "title": "Accelerating data modeling accuracy with the Amazon DynamoDB Data Model Validation Tool",
+        "link": "https://aws.amazon.com/blogs/database/accelerating-data-modeling-accuracy-with-the-amazon-dynamodb-data-model-validation-tool/"
+    },
+    {
         "title": "Accelerate generative AI use cases with Amazon Bedrock and Oracle Database@AWS",
         "link": "https://aws.amazon.com/blogs/database/accelerate-generative-ai-use-cases-with-amazon-bedrock-and-oracle-databaseaws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AI-powered tuning tools for Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL databases: PI Reporter",
         "link": "https://aws.amazon.com/blogs/database/ai-powered-tuning-tools-for-amazon-rds-for-postgresql-and-amazon-aurora-postgresql-databases-pi-reporter/"
-    },
-    {
-        "title": "Migrate Oracle reference partitioned tables to Amazon RDS or Aurora PostgreSQL with AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/migrate-oracle-reference-partitioned-tables-to-amazon-rds-or-aurora-postgresql-with-aws-dms/"
-    },
-    {
-        "title": "Optimize and troubleshoot database performance in Amazon Aurora PostgreSQL by analyzing execution plans using CloudWatch Database Insights",
-        "link": "https://aws.amazon.com/blogs/database/optimize-and-troubleshoot-database-performance-in-amazon-aurora-postgresql-by-analyzing-execution-plans-using-cloudwatch-database-insights/"
-    },
-    {
-        "title": "GroundTruth reduces costs by 45% and improves reliability migrating from Aerospike to Amazon ElastiCache for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/groundtruth-reduces-costs-by-45-and-improves-reliability-migrating-from-aerospike-to-amazon-elasticache-for-valkey/"
     }
 ]

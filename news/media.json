@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enforce consistent tagging across IaC deployments with AWS Organizations Tag Policies",
+        "link": "https://aws.amazon.com/blogs/mt/enforce-consistent-tagging-across-iac-deployments-with-aws-organizations-tag-policies/"
+    },
+    {
         "title": "New AWS Organizations Skill Builder courses to level up your multi-account strategy",
         "link": "https://aws.amazon.com/blogs/mt/new-aws-organizations-skill-builder-courses-to-level-up-your-multi-account-strategy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplifying Log Management using Amazon CloudWatch Logs Centralization",
         "link": "https://aws.amazon.com/blogs/mt/simplifying-log-management-using-amazon-cloudwatch-logs-centralization/"
-    },
-    {
-        "title": "Optimizing metrics ingestion with Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/optimizing-metrics-ingestion-with-amazon-managed-service-for-prometheus/"
     }
 ]

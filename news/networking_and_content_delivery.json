@@ -1,5 +1,21 @@
 [
     {
+        "title": "Drive application performance with Application Load Balancer Target Optimizer",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/drive-application-performance-with-application-load-balancer-target-optimizer/"
+    },
+    {
+        "title": "AWS Cloud WAN Routing Policy: Fine-grained controls for your global network (Part 1)",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-routing-policy-fine-grained-controls-for-your-global-network-part-1/"
+    },
+    {
+        "title": "Introducing Amazon VPC Regional NAT Gateway",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/"
+    },
+    {
+        "title": "Introducing AWS Site-to-Site VPN Concentrator for multi-site connectivity",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-concentrator-for-multi-site-connectivity/"
+    },
+    {
         "title": "Build scalable IPv4 addressing with AWS NAT gateway in regional availability mode, Amazon VPC IPAM policies and Prefix Lists",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-scalable-ipv4-addressing-with-aws-nat-gateway-in-regional-availability-mode-amazon-vpc-ipam-policies-and-prefix-lists/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Silverflow modernized network operations by combining AWS Cloud WAN and DevOps",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-silverflow-modernized-network-operations-by-combining-aws-cloud-wan-and-devops/"
-    },
-    {
-        "title": "Secure customer resource access in multi-tenant SaaS with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/secure-customer-resource-access-in-multi-tenant-saas-with-amazon-vpc-lattice/"
-    },
-    {
-        "title": "AWS Site-to-Site VPN now supports IPv6 on the outside IPs",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-now-supports-ipv6-on-the-outside-ips/"
-    },
-    {
-        "title": "Building a high-performance exchange market data broadcasting platform on AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-high-performance-exchange-market-data-broadcasting-platform-on-aws/"
-    },
-    {
-        "title": "Building Resilient Multi-cluster Applications with Amazon EKS, Part 1: Implementing Cross-cluster Load Balancing with NLB",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resilient-multi-cluster-applications-with-amazon-eks/"
     }
 ]

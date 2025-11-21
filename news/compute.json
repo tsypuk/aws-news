@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building multi-tenant SaaS applications with AWS Lambda\u2019s new tenant isolation mode",
+        "link": "https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/"
+    },
+    {
         "title": "Improve API discoverability with the new Amazon API Gateway Portal",
         "link": "https://aws.amazon.com/blogs/compute/improve-api-discoverability-with-the-new-amazon-api-gateway-portal/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying AI models for inference with AWS Lambda using zip packaging",
         "link": "https://aws.amazon.com/blogs/compute/deploying-ai-models-for-inference-with-aws-lambda-using-zip-packaging/"
-    },
-    {
-        "title": "How to export to Amazon S3 Tables by using AWS Step Functions Distributed Map",
-        "link": "https://aws.amazon.com/blogs/compute/how-to-export-to-amazon-s3-tables-by-using-aws-step-functions-distributed-map/"
     }
 ]

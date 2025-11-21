@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enforce business glossary classification rules in Amazon SageMaker Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/enforce-business-glossary-classification-rules-in-amazon-sagemaker-catalog/"
+    },
+    {
+        "title": "Enhanced data discovery in Amazon SageMaker Catalog with custom metadata forms and rich text documentation",
+        "link": "https://aws.amazon.com/blogs/big-data/enhanced-data-discovery-in-amazon-sagemaker-catalog-with-custom-metadata-forms-and-rich-text-documentation/"
+    },
+    {
         "title": "Getting started with Amazon S3 Tables in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-amazon-s3-tables-in-amazon-sagemaker-unified-studio/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Upgrade from Amazon Redshift DC2 node type to Amazon Redshift Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/upgrade-from-amazon-redshift-dc2-node-type-to-amazon-redshift-serverless/"
-    },
-    {
-        "title": "Stifel\u2019s approach to scalable Data Pipeline Orchestration in Data Mesh",
-        "link": "https://aws.amazon.com/blogs/big-data/stifels-approach-to-scalable-data-pipeline-orchestration-in-data-mesh/"
-    },
-    {
-        "title": "Automate email notifications for governance teams working with Amazon SageMaker Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-email-notifications-for-governance-teams-working-with-amazon-sagemaker-catalog/"
     }
 ]

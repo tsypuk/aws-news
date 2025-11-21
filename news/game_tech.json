@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring server health with Amazon GameLift Servers",
+        "link": "https://aws.amazon.com/blogs/gametech/monitoring-server-health-with-amazon-gamelift-servers/"
+    },
+    {
         "title": "AWS for Games powers up for AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/gametech/aws-for-games-powers-up-for-aws-reinvent-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS powers breakthrough gaming experiences at devcom and gamescom 2025",
         "link": "https://aws.amazon.com/blogs/gametech/aws-powers-breakthrough-gaming-experiences-at-devcom-and-gamescom-2025/"
-    },
-    {
-        "title": "Streaming Windows Games using Proton 9 on Amazon GameLift Streams",
-        "link": "https://aws.amazon.com/blogs/gametech/streaming-windows-games-using-proton-9-on-amazon-gamelift-streams/"
     }
 ]

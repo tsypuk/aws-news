@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing Strands Agent SOPs \u2013 Natural Language Workflows for AI Agents",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agent-sops-natural-language-workflows-for-ai-agents/"
+    },
+    {
+        "title": "Announcing ml-container-creator for easy BYOC on SageMaker",
+        "link": "https://aws.amazon.com/blogs/opensource/announcing-ml-container-creator-for-easy-byoc-on-sagemaker/"
+    },
+    {
         "title": "The Swift AWS Lambda Runtime moves to AWSLabs",
         "link": "https://aws.amazon.com/blogs/opensource/the-swift-aws-lambda-runtime-moves-to-awslabs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Strands Agents, an Open Source AI Agents SDK",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/"
-    },
-    {
-        "title": "Modernizing Snowflake Corporate\u2019s Kubernetes Infrastructure with Bottlerocket and Karpenter",
-        "link": "https://aws.amazon.com/blogs/opensource/modernizing-snowflake-corporates-kubernetes-infrastructure-with-bottlerocket-and-karpenter/"
-    },
-    {
-        "title": "Video Encoding on Graviton in 2025",
-        "link": "https://aws.amazon.com/blogs/opensource/video-encoding-on-graviton-in-2025/"
     }
 ]

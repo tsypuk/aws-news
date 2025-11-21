@@ -1,5 +1,21 @@
 [
     {
+        "title": "MSD explores applying generative Al to improve the deviation management process using AWS services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/msd-explores-applying-generative-al-to-improve-the-deviation-management-process-using-aws-services/"
+    },
+    {
+        "title": "Accelerating genomics variant interpretation with AWS HealthOmics and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-genomics-variant-interpretation-with-aws-healthomics-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How Rufus scales conversational shopping experiences to millions of Amazon customers with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-rufus-scales-conversational-shopping-experiences-to-millions-of-amazon-customers-with-amazon-bedrock/"
+    },
+    {
+        "title": "How Care Access achieved 86% data processing cost reductions and 66% faster data processing with Amazon Bedrock prompt caching",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-care-access-achieved-86-data-processing-cost-reductions-and-66-faster-data-processing-with-amazon-bedrock-prompt-caching/"
+    },
+    {
         "title": "Claude Code deployment patterns and best practices with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/claude-code-deployment-patterns-and-best-practices-with-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "Powering enterprise search with the Cohere Embed 4 multimodal embeddings model in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/powering-enterprise-search-with-the-cohere-embed-4-multimodal-embeddings-model-in-amazon-bedrock/"
-    },
-    {
-        "title": "A guide to building AI agents in GxP environments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/"
-    },
-    {
-        "title": "Multi-Agent collaboration patterns with Strands Agents and Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-collaboration-patterns-with-strands-agents-and-amazon-nova/"
-    },
-    {
-        "title": "Fine-tune VLMs for multipage document-to-JSON with SageMaker AI and SWIFT",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-vlms-for-multipage-document-to-json-with-sagemaker-ai-and-swift/"
     }
 ]
