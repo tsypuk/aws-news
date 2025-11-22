@@ -1,5 +1,17 @@
 [
     {
+        "title": "Practical steps to minimize key exposure using AWS Security Services",
+        "link": "https://aws.amazon.com/blogs/security/practical-steps-to-minimize-key-exposure-using-aws-security-services/"
+    },
+    {
+        "title": "Accelerate investigations with AWS Security Incident Response AI-powered capabilities",
+        "link": "https://aws.amazon.com/blogs/security/accelerate-investigations-with-aws-security-incident-response-ai-powered-capabilities/"
+    },
+    {
+        "title": "The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems",
+        "link": "https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/"
+    },
+    {
         "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Migrating from Open Policy Agent to Amazon Verified Permissions",
         "link": "https://aws.amazon.com/blogs/security/migrating-from-open-policy-agent-to-amazon-verified-permissions/"
-    },
-    {
-        "title": "New whitepaper available \u2013 AI for Security and Security for AI: Navigating Opportunities and Challenges",
-        "link": "https://aws.amazon.com/blogs/security/new-whitepaper-available-ai-for-security-and-security-for-ai-navigating-opportunities-and-challenges/"
-    },
-    {
-        "title": "How to choose the right AWS service for managing secrets and configurations",
-        "link": "https://aws.amazon.com/blogs/security/how-to-choose-the-right-aws-service-for-managing-secrets-and-configurations/"
-    },
-    {
-        "title": "Using AWS Secrets Manager Agent with Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/security/using-aws-secrets-manager-agent-with-amazon-eks/"
     }
 ]

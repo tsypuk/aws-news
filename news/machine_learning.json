@@ -1,5 +1,17 @@
 [
     {
+        "title": "Streamline AI operations with the Multi-Provider Generative AI Gateway reference architecture",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-ai-operations-with-the-multi-provider-generative-ai-gateway-reference-architecture/"
+    },
+    {
+        "title": "Deploy geospatial agents with Foursquare Spatial H3 Hub and Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-geospatial-agents-with-foursquare-spatial-h3-hub-and-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "How Wipro PARI accelerates PLC code generation using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-wipro-pari-accelerates-plc-code-generation-using-amazon-bedrock/"
+    },
+    {
         "title": "MSD explores applying generative Al to improve the deviation management process using AWS services",
         "link": "https://aws.amazon.com/blogs/machine-learning/msd-explores-applying-generative-al-to-improve-the-deviation-management-process-using-aws-services/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build a biomedical research agent with Biomni tools and Amazon Bedrock AgentCore Gateway",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-research-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/"
-    },
-    {
-        "title": "Make your web apps hands-free with Amazon Nova Sonic",
-        "link": "https://aws.amazon.com/blogs/machine-learning/make-your-web-apps-hands-free-with-amazon-nova-sonic/"
-    },
-    {
-        "title": "Harnessing the power of generative AI: Druva\u2019s multi-agent copilot for streamlined data protection",
-        "link": "https://aws.amazon.com/blogs/machine-learning/harnessing-the-power-of-generative-ai-druvas-multi-agent-copilot-for-streamlined-data-protection/"
-    },
-    {
-        "title": "Introducing agent-to-agent protocol support in Amazon Bedrock AgentCore Runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-to-agent-protocol-support-in-amazon-bedrock-agentcore-runtime/"
     }
 ]

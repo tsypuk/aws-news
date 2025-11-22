@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Cluster insights: Unified monitoring dashboard for Amazon OpenSearch Service clusters",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-cluster-insights-unified-monitoring-dashboard-for-amazon-opensearch-service-clusters/"
+    },
+    {
         "title": "Enforce business glossary classification rules in Amazon SageMaker Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/enforce-business-glossary-classification-rules-in-amazon-sagemaker-catalog/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlock real-time data insights with schema evolution using Amazon MSK Serverless, Iceberg, and AWS Glue streaming",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-real-time-data-insights-with-schema-evolution-using-amazon-msk-serverless-iceberg-and-aws-glue-streaming/"
-    },
-    {
-        "title": "Upgrade from Amazon Redshift DC2 node type to Amazon Redshift Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/upgrade-from-amazon-redshift-dc2-node-type-to-amazon-redshift-serverless/"
     }
 ]

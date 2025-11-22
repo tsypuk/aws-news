@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing the fully managed Amazon EKS MCP Server (preview)",
+        "link": "https://aws.amazon.com/blogs/containers/introducing-the-fully-managed-amazon-eks-mcp-server-preview/"
+    },
+    {
+        "title": "Accelerate container troubleshooting with the fully managed Amazon ECS MCP server (preview)",
+        "link": "https://aws.amazon.com/blogs/containers/accelerate-container-troubleshooting-with-the-fully-managed-amazon-ecs-mcp-server-preview/"
+    },
+    {
+        "title": "Streamline container image signatures with Amazon ECR managed signing",
+        "link": "https://aws.amazon.com/blogs/containers/streamline-container-image-signatures-with-amazon-ecr-managed-signing/"
+    },
+    {
         "title": "Guide to Amazon EKS and Kubernetes sessions at AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/containers/guide-to-amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2025/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Enhancing container security in Amazon EKS Auto Mode with KubeArmor",
         "link": "https://aws.amazon.com/blogs/containers/enhancing-container-security-in-amazon-eks-auto-mode-with-kubearmor/"
-    },
-    {
-        "title": "Extending EKS with Hybrid Nodes: IAM Roles Anywhere and HashiCorp Vault",
-        "link": "https://aws.amazon.com/blogs/containers/extending-eks-with-hybrid-nodes-iam-roles-anywhere-and-hashicorp-vault/"
-    },
-    {
-        "title": "New Amazon EKS Auto Mode features for enhanced security, network control, and performance",
-        "link": "https://aws.amazon.com/blogs/containers/new-amazon-eks-auto-mode-features-for-enhanced-security-network-control-and-performance/"
-    },
-    {
-        "title": "Troubleshooting with Amazon ECS Exec and Amazon CloudWatch Logs Live Tail in the AWS Management Console",
-        "link": "https://aws.amazon.com/blogs/containers/troubleshooting-with-amazon-ecs-exec-and-amazon-cloudwatch-logs-live-tail-in-the-aws-management-console/"
     }
 ]

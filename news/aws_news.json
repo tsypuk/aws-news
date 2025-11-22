@@ -1,5 +1,17 @@
 [
     {
+        "title": "New one-click onboarding and notebooks with a built-in AI agent in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/aws/new-one-click-onboarding-and-notebooks-with-ai-agent-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Build production-ready applications without infrastructure complexity using Amazon ECS Express Mode",
+        "link": "https://aws.amazon.com/blogs/aws/build-production-ready-applications-without-infrastructure-complexity-using-amazon-ecs-express-mode/"
+    },
+    {
+        "title": "Introducing VPC encryption controls: Enforce encryption in transit within and across VPCs in a Region",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-vpc-encryption-controls-enforce-encryption-in-transit-within-and-across-vpcs-in-a-region/"
+    },
+    {
         "title": "Introducing attribute-based access control for Amazon S3 general purpose buckets",
         "link": "https://aws.amazon.com/blogs/aws/introducing-attribute-based-access-control-for-amazon-s3-general-purpose-buckets/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing AWS Capabilities by Region for easier Regional planning and faster global deployments",
         "link": "https://aws.amazon.com/blogs/aws/introducing-aws-capabilities-by-region-for-easier-regional-planning-and-faster-global-deployments/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Project Rainier online, Amazon Nova Web Grounding, MCP Proxy for AWS, and more (November 3, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-online-amazon-nova-amazon-bedrock-and-more-november-3-2025/"
-    },
-    {
-        "title": "Build more accurate AI applications with Amazon Nova Web Grounding",
-        "link": "https://aws.amazon.com/blogs/aws/build-more-accurate-ai-applications-with-amazon-nova-web-grounding/"
-    },
-    {
-        "title": "Amazon Nova Multimodal Embeddings: State-of-the-art embedding model for agentic RAG and semantic search",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/"
     }
 ]

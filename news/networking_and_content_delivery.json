@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing Flexible Cost Allocation for AWS Transit Gateway",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flexible-cost-allocation-for-aws-transit-gateway/"
+    },
+    {
+        "title": "AWS Site-to-Site VPN and eero make remote connectivity for distributed sites simpler",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-and-eero-make-remote-connectivity-for-distributed-sites-simpler/"
+    },
+    {
         "title": "Drive application performance with Application Load Balancer Target Optimizer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/drive-application-performance-with-application-load-balancer-target-optimizer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Charting the life of an Amazon CloudFront request",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/charting-the-life-of-an-amazon-cloudfront-request/"
-    },
-    {
-        "title": "Introducing URL and host header rewrite with AWS Application Load Balancers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-url-and-host-header-rewrite-with-aws-application-load-balancers/"
-    },
-    {
-        "title": "How Silverflow modernized network operations by combining AWS Cloud WAN and DevOps",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-silverflow-modernized-network-operations-by-combining-aws-cloud-wan-and-devops/"
     }
 ]

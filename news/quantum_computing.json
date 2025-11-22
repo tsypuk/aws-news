@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Braket Introduces Spending Limits for Quantum Processing Units",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-introduces-spending-limits-for-quantum-processing-units/"
+    },
+    {
         "title": "Amazon Braket launches trapped-ion quantum computer from Alpine Quantum Technologies",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-trapped-ion-quantum-computer-from-alpine-quantum-technologies/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerating the Quantum Toolkit for Python (QuTiP) with cuQuantum on AWS",
         "link": "https://aws.amazon.com/blogs/quantum-computing/accelerating-the-quantum-toolkit-for-python-qutip-with-cuquantum-on-aws/"
-    },
-    {
-        "title": "Introducing Local Device Emulator for Verbatim Circuits on Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/introducing-local-device-emulator-for-verbatim-circuits-on-amazon-braket/"
     }
 ]

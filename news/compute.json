@@ -1,5 +1,21 @@
 [
     {
+        "title": "Enhancing API security with Amazon API Gateway TLS security policies",
+        "link": "https://aws.amazon.com/blogs/compute/enhancing-api-security-with-amazon-api-gateway-tls-security-policies/"
+    },
+    {
+        "title": "Improving throughput of serverless streaming workloads for Kafka",
+        "link": "https://aws.amazon.com/blogs/compute/improving-throughput-of-serverless-streaming-workloads-for-kafka/"
+    },
+    {
+        "title": "Build scalable REST APIs using Amazon API Gateway private integration with Application Load Balancer",
+        "link": "https://aws.amazon.com/blogs/compute/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/"
+    },
+    {
+        "title": "Serverless strategies for streaming LLM responses",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-strategies-for-streaming-llm-responses/"
+    },
+    {
         "title": "Building multi-tenant SaaS applications with AWS Lambda\u2019s new tenant isolation mode",
         "link": "https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Zero downtime blue/green deployments with Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/compute/zero-downtime-blue-green-deployments-with-amazon-api-gateway/"
-    },
-    {
-        "title": "Migrate encrypted Amazon EC2 instances across AWS Regions without sharing AWS KMS keys",
-        "link": "https://aws.amazon.com/blogs/compute/migrate-encrypted-amazon-ec2-instances-across-aws-regions-without-sharing-aws-kms-keys/"
-    },
-    {
-        "title": "Securing applications with AWS Nitro Enclaves: TLS termination, TAP networking, and IMDSv2",
-        "link": "https://aws.amazon.com/blogs/compute/securing-applications-with-aws-nitro-enclaves-tls-termination-tap-networking-and-imdsv2/"
-    },
-    {
-        "title": "Serverless ICYMI Q3 2025",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q3-2025/"
-    },
-    {
-        "title": "Deploying AI models for inference with AWS Lambda using zip packaging",
-        "link": "https://aws.amazon.com/blogs/compute/deploying-ai-models-for-inference-with-aws-lambda-using-zip-packaging/"
     }
 ]
