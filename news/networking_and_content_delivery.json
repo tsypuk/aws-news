@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon CloudFront: Delivering millisecond performance to global audiences",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-delivering-millisecond-performance-to-global-audiences/"
+    },
+    {
+        "title": "Trust goes both ways: Amazon CloudFront now supports viewer mTLS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls/"
+    },
+    {
+        "title": "How AWS improves global connectivity via automated traffic engineering",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-improves-global-connectivity-via-automated-traffic-engineering/"
+    },
+    {
         "title": "Introducing Flexible Cost Allocation for AWS Transit Gateway",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flexible-cost-allocation-for-aws-transit-gateway/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing cross-account support for Amazon CloudFront Virtual Private Cloud (VPC) origins",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-account-support-for-amazon-cloudfront-virtual-private-cloud-vpc-origins/"
-    },
-    {
-        "title": "Configuring the AWS WAF Anti-DDoS managed rule group for your resources and clients",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/configuring-the-aws-waf-anti-ddos-managed-rule-group-for-your-resources-and-clients/"
-    },
-    {
-        "title": "Streamline in-place application upgrades with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-in-place-application-upgrades-with-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Charting the life of an Amazon CloudFront request",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/charting-the-life-of-an-amazon-cloudfront-request/"
     }
 ]

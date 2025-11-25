@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protect sensitive data with dynamic data masking for Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/protect-sensitive-data-with-dynamic-data-masking-for-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Optimize database performance using resource governor on Amazon RDS for SQL Server",
         "link": "https://aws.amazon.com/blogs/database/optimize-database-performance-using-resource-governor-on-amazon-rds-for-sql-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "PostgreSQL as a JSON database: Advanced patterns and best practices",
         "link": "https://aws.amazon.com/blogs/database/postgresql-as-a-json-database-advanced-patterns-and-best-practices/"
-    },
-    {
-        "title": "Using SSL for in-transit encryption to connect Oracle as a source for AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/using-ssl-for-in-transit-encryption-to-connect-oracle-as-a-source-for-aws-dms/"
     }
 ]

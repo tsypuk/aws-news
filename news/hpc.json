@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running NVIDIA Cosmos world foundation models on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/running-nvidia-cosmos-world-foundation-models-on-aws/"
+    },
+    {
         "title": "How Daiichi Sankyo modernized drug discovery using AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/how-daiichi-sankyo-modernized-drug-discovery-using-aws-parallel-computing-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Novo Nordisk, Columbia University and AWS collaborated to create OpenFold3 with the OpenFold AI Consortium",
         "link": "https://aws.amazon.com/blogs/hpc/how-novo-nordisk-columbia-university-and-aws-collaborated-to-create-openfold3/"
-    },
-    {
-        "title": "Enhanced Performance for Whisper Audio Transcription on AWS Batch and AWS Inferentia",
-        "link": "https://aws.amazon.com/blogs/hpc/enhanced-performance-for-whisper-audio-transcription-on-aws-batch-and-aws-inferentia/"
     }
 ]

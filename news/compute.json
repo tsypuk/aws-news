@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize unused capacity with Amazon EC2 interruptible capacity reservations",
+        "link": "https://aws.amazon.com/blogs/compute/optimize-unused-capacity-with-amazon-ec2-interruptible-capacity-reservations/"
+    },
+    {
+        "title": "How potential performance upside with AWS Graviton helps reduce your costs further",
+        "link": "https://aws.amazon.com/blogs/compute/how-potential-performance-upside-with-aws-graviton-helps-reduce-your-costs-further/"
+    },
+    {
         "title": "Enhancing API security with Amazon API Gateway TLS security policies",
         "link": "https://aws.amazon.com/blogs/compute/enhancing-api-security-with-amazon-api-gateway-tls-security-policies/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Processing Amazon S3 objects at scale with AWS Step Functions Distributed Map S3 prefix",
         "link": "https://aws.amazon.com/blogs/compute/processing-amazon-s3-objects-at-scale-with-aws-step-functions-distributed-map-s3-prefix/"
-    },
-    {
-        "title": "Breaking down monolith workflows: Modularizing AWS Step Functions workflows",
-        "link": "https://aws.amazon.com/blogs/compute/breaking-down-monolith-workflows-modularizing-aws-step-functions-workflows/"
-    },
-    {
-        "title": "Zero downtime blue/green deployments with Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/compute/zero-downtime-blue-green-deployments-with-amazon-api-gateway/"
     }
 ]
