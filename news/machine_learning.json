@@ -1,5 +1,33 @@
 [
     {
+        "title": "Amazon SageMaker AI introduces EAGLE based adaptive speculative decoding to accelerate generative AI inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-introduces-eagle-based-adaptive-speculative-decoding-to-accelerate-generative-ai-inference/"
+    },
+    {
+        "title": "Train custom computer vision defect detection model using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/train-custom-computer-vision-defect-detection-model-using-amazon-sagemaker/"
+    },
+    {
+        "title": "Practical implementation considerations to close the AI value gap",
+        "link": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/"
+    },
+    {
+        "title": "Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Warner Bros. Discovery\u00a0achieves 60% cost savings and faster ML inference with AWS Graviton",
+        "link": "https://aws.amazon.com/blogs/machine-learning/warner-bros-discovery-achieves-60-cost-savings-and-faster-ml-inference-with-aws-graviton/"
+    },
+    {
+        "title": "Physical AI in practice: Technical foundations that fuel human-machine interactions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/"
+    },
+    {
+        "title": "HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks",
+        "link": "https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/"
+    },
+    {
         "title": "Accelerate generative AI innovation in Canada with Amazon Bedrock cross-Region inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-innovation-in-canada-with-amazon-bedrock-cross-region-inference/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Amazon Bedrock Guardrails expands support for code domain",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-expands-support-for-code-domain/"
-    },
-    {
-        "title": "Announcing the AWS Well-Architected Responsible AI Lens",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-well-architected-responsible-ai-lens/"
-    },
-    {
-        "title": "How Amazon uses AI agents to support compliance screening of billions of transactions per day",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-ai-agents-to-support-compliance-screening-of-billions-of-transactions-per-day/"
-    },
-    {
-        "title": "Build an agentic solution with Amazon Nova, Snowflake, and LangGraph",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-solution-with-amazon-nova-snowflake-and-langgraph/"
-    },
-    {
-        "title": "Using Spectrum fine-tuning to improve FM training efficiency on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-spectrum-fine-tuning-to-improve-fm-training-efficiency-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Bringing tic-tac-toe to life with AWS AI services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bringing-tic-tac-toe-to-life-with-aws-ai-services/"
-    },
-    {
-        "title": "HyperPod enhances ML infrastructure with security and storage",
-        "link": "https://aws.amazon.com/blogs/machine-learning/hyperpod-enhances-ml-infrastructure-with-security-and-storage/"
-    },
-    {
-        "title": "Accelerating generative AI applications with a platform engineering approach",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-applications-with-a-platform-engineering-approach/"
     }
 ]

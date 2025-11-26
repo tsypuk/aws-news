@@ -1,5 +1,17 @@
 [
     {
+        "title": "Node.js 24 runtime now available in AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/node-js-24-runtime-now-available-in-aws-lambda/"
+    },
+    {
+        "title": "Performance benefits of new Amazon EC2 R8a memory-optimized instances",
+        "link": "https://aws.amazon.com/blogs/compute/performance-benefits-of-new-amazon-ec2-r8a-memory-optimized-instances/"
+    },
+    {
+        "title": "The attendee\u2019s guide to hybrid cloud and edge computing at AWS re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-hybrid-cloud-and-edge-computing-at-aws-reinvent-2025/"
+    },
+    {
         "title": "Optimize unused capacity with Amazon EC2 interruptible capacity reservations",
         "link": "https://aws.amazon.com/blogs/compute/optimize-unused-capacity-with-amazon-ec2-interruptible-capacity-reservations/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Orchestrating big data processing with AWS Step Functions Distributed Map",
         "link": "https://aws.amazon.com/blogs/compute/orchestrating-big-data-processing-with-aws-step-functions-distributed-map/"
-    },
-    {
-        "title": "Optimizing nested JSON array processing using AWS Step Functions Distributed Map",
-        "link": "https://aws.amazon.com/blogs/compute/optimizing-nested-json-array-processing-using-aws-step-functions-distributed-map/"
-    },
-    {
-        "title": "Introducing AWS Lambda event source mapping tools in the AWS Serverless MCP Server",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-aws-lambda-event-source-mapping-tools-in-the-aws-serverless-mcp-server/"
-    },
-    {
-        "title": "Processing Amazon S3 objects at scale with AWS Step Functions Distributed Map S3 prefix",
-        "link": "https://aws.amazon.com/blogs/compute/processing-amazon-s3-objects-at-scale-with-aws-step-functions-distributed-map-s3-prefix/"
     }
 ]

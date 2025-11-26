@@ -1,5 +1,33 @@
 [
     {
+        "title": "Simplify data integration using zero-ETL from self-managed databases to Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/database/simplify-data-integration-using-zero-etl-from-self-managed-databases-to-amazon-redshift/"
+    },
+    {
+        "title": "Amazon Ads upgrades to Amazon ElastiCache for Valkey to achieve 12% higher throughput and save over 45% in infrastructure costs",
+        "link": "https://aws.amazon.com/blogs/database/amazon-ads-upgrades-to-amazon-elasticache-for-valkey-to-achieve-12-higher-throughput-and-save-over-45-in-infrastructure-costs/"
+    },
+    {
+        "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 5 \u2013 How the service uses clocks",
+        "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-5-how-the-service-uses-clocks/"
+    },
+    {
+        "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 4 \u2013 DSQL components",
+        "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-4-dsql-components/"
+    },
+    {
+        "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 3 \u2013 Transaction processing",
+        "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-3-transaction-processing/"
+    },
+    {
+        "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 2 \u2013 Shallow view",
+        "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-2-shallow-view/"
+    },
+    {
+        "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 1 \u2013 Setting the scene",
+        "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-1-setting-the-scene/"
+    },
+    {
         "title": "Protect sensitive data with dynamic data masking for Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/protect-sensitive-data-with-dynamic-data-masking-for-amazon-aurora-postgresql/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Amazon DocumentDB (with MongoDB compatibility) introduces new query planner that delivers up to 10x performance improvements",
         "link": "https://aws.amazon.com/blogs/database/amazon-documentdb-with-mongodb-compatibility-introduces-new-query-planner-that-delivers-up-to-10x-performance-improvements/"
-    },
-    {
-        "title": "Amazon Keyspaces now supports logged batches for atomic, multi-statement operations",
-        "link": "https://aws.amazon.com/blogs/database/amazon-keyspaces-now-supports-logged-batches-for-atomic-multi-statement-operations/"
-    },
-    {
-        "title": "How Alight Solutions achieved 60% cost savings with Amazon ElastiCache for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/how-alight-solutions-achieved-60-cost-savings-with-amazon-elasticache-for-valkey/"
-    },
-    {
-        "title": "Migrating Amazon DocumentDB Cluster across Regions: A step by step guide",
-        "link": "https://aws.amazon.com/blogs/database/migrating-amazon-documentdb-cluster-across-regions-a-step-by-step-guide/"
-    },
-    {
-        "title": "How Omnissa saved millions by migrating to Amazon RDS and Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/database/how-omnissa-saved-millions-by-migrating-to-amazon-rds-and-amazon-ec2/"
-    },
-    {
-        "title": "How Zepto scales to millions of orders per day using Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/how-zepto-scales-to-millions-of-orders-per-day-using-amazon-dynamodb/"
-    },
-    {
-        "title": "Building secure Amazon ElastiCache for Valkey deployments with Terraform",
-        "link": "https://aws.amazon.com/blogs/database/building-secure-amazon-elasticache-for-valkey-deployments-with-terraform/"
-    },
-    {
-        "title": "PostgreSQL as a JSON database: Advanced patterns and best practices",
-        "link": "https://aws.amazon.com/blogs/database/postgresql-as-a-json-database-advanced-patterns-and-best-practices/"
     }
 ]

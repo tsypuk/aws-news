@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS Secrets Manager launches Managed External Secrets for Third-Party Credentials",
+        "link": "https://aws.amazon.com/blogs/security/aws-secrets-manager-launches-managed-external-secrets-for-third-party-credentials/"
+    },
+    {
+        "title": "Introducing guidelines for network scanning",
+        "link": "https://aws.amazon.com/blogs/security/introducing-guidelines-for-network-scanning/"
+    },
+    {
         "title": "Practical steps to minimize key exposure using AWS Security Services",
         "link": "https://aws.amazon.com/blogs/security/practical-steps-to-minimize-key-exposure-using-aws-security-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "2025 H1 IRAP report is now available on AWS Artifact for Australian customers",
         "link": "https://aws.amazon.com/blogs/security/2025-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
-    },
-    {
-        "title": "Introducing the Overview of the AWS European Sovereign Cloud whitepaper",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-overview-of-the-aws-european-sovereign-cloud-whitepaper/"
-    },
-    {
-        "title": "Migrating from Open Policy Agent to Amazon Verified Permissions",
-        "link": "https://aws.amazon.com/blogs/security/migrating-from-open-policy-agent-to-amazon-verified-permissions/"
     }
 ]
