@@ -1,5 +1,49 @@
 [
     {
+        "title": "How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/"
+    },
+    {
+        "title": "How CBRE powers unified property management search and digital assistant using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-cbre-powers-unified-property-management-search-and-digital-assistant-using-amazon-bedrock/"
+    },
+    {
+        "title": "Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Apply fine-grained access control with Bedrock AgentCore Gateway interceptors",
+        "link": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/"
+    },
+    {
+        "title": "How Cond\u00e9 Nast accelerated contract processing and rights analysis with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/"
+    },
+    {
+        "title": "Building AI-Powered Voice Applications: Amazon Nova Sonic Telephony Integration Guide",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-voice-applications-amazon-nova-sonic-telephony-integration-guide/"
+    },
+    {
+        "title": "University of California Los Angeles delivers an immersive theater experience with AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/"
+    },
+    {
+        "title": "Optimizing Mobileye\u2019s REM\u2122 with AWS Graviton: A focus on ML inference and Triton integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mobileyes-rem-with-aws-graviton-a-focus-on-ml-inference-and-triton-integration/"
+    },
+    {
+        "title": "Evaluate models with the Amazon Nova evaluation container using Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-models-with-the-amazon-nova-evaluation-container-using-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Beyond the technology: Workforce changes for AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-technology-workforce-changes-for-ai/"
+    },
+    {
+        "title": "Enhanced performance for Amazon Bedrock Custom Model Import",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-performance-for-amazon-bedrock-custom-model-import/"
+    },
+    {
         "title": "Amazon SageMaker AI introduces EAGLE based adaptive speculative decoding to accelerate generative AI inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-introduces-eagle-based-adaptive-speculative-decoding-to-accelerate-generative-ai-inference/"
     },
@@ -34,49 +78,5 @@
     {
         "title": "Power up your ML workflows with interactive IDEs on SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Claude Opus 4.5 now in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock/"
-    },
-    {
-        "title": "Deploy GPT-OSS models with Amazon Bedrock Custom Model Import",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-gpt-oss-models-with-amazon-bedrock-custom-model-import/"
-    },
-    {
-        "title": "Streamline AI operations with the Multi-Provider Generative AI Gateway reference architecture",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-ai-operations-with-the-multi-provider-generative-ai-gateway-reference-architecture/"
-    },
-    {
-        "title": "Deploy geospatial agents with Foursquare Spatial H3 Hub and Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-geospatial-agents-with-foursquare-spatial-h3-hub-and-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Wipro PARI accelerates PLC code generation using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-wipro-pari-accelerates-plc-code-generation-using-amazon-bedrock/"
-    },
-    {
-        "title": "MSD explores applying generative Al to improve the deviation management process using AWS services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/msd-explores-applying-generative-al-to-improve-the-deviation-management-process-using-aws-services/"
-    },
-    {
-        "title": "Accelerating genomics variant interpretation with AWS HealthOmics and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-genomics-variant-interpretation-with-aws-healthomics-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Rufus scales conversational shopping experiences to millions of Amazon customers with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-rufus-scales-conversational-shopping-experiences-to-millions-of-amazon-customers-with-amazon-bedrock/"
-    },
-    {
-        "title": "How Care Access achieved 86% data processing cost reductions and 66% faster data processing with Amazon Bedrock prompt caching",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-care-access-achieved-86-data-processing-cost-reductions-and-66-faster-data-processing-with-amazon-bedrock-prompt-caching/"
-    },
-    {
-        "title": "Claude Code deployment patterns and best practices with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/claude-code-deployment-patterns-and-best-practices-with-amazon-bedrock/"
-    },
-    {
-        "title": "Amazon Bedrock Guardrails expands support for code domain",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-guardrails-expands-support-for-code-domain/"
     }
 ]

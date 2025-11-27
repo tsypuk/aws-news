@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Aionics accelerates chemical formulation and discovery with AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/how-aionics-accelerates-chemical-formulation-and-discovery-with-aws-parallel-computing-service/"
+    },
+    {
         "title": "How Rivian modernized engineering simulation using AWS",
         "link": "https://aws.amazon.com/blogs/hpc/how-rivian-modernized-engineering-simulation-using-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize your CAE/CFD workloads with Amazon FSx for Lustre Data Repository Association",
         "link": "https://aws.amazon.com/blogs/hpc/optimize-your-cae-cfd-workloads-with-amazon-fsx-for-lustre-data-repository-association/"
-    },
-    {
-        "title": "Optimize HPC Workloads with the Updated AWS Well-Architected Lens",
-        "link": "https://aws.amazon.com/blogs/hpc/optimize-hpc-workloads-with-the-updated-aws-well-architected-lens/"
     }
 ]

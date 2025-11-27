@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon EKS introduces Provisioned Control Plane",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-provisioned-control-plane/"
+    },
+    {
+        "title": "Amazon EKS Blueprints for CDK: Now supporting Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-blueprints-for-cdk-now-supporting-amazon-eks-auto-mode/"
+    },
+    {
+        "title": "Enhancing and monitoring network performance when running ML Inference on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/enhancing-and-monitoring-network-performance-when-running-ml-inference-on-amazon-eks/"
+    },
+    {
+        "title": "Data-driven Amazon EKS cost optimization: A practical guide to workload analysis",
+        "link": "https://aws.amazon.com/blogs/containers/data-driven-amazon-eks-cost-optimization-a-practical-guide-to-workload-analysis/"
+    },
+    {
         "title": "Troubleshooting containerized workloads with Amazon ECS Events in the AWS console",
         "link": "https://aws.amazon.com/blogs/containers/troubleshooting-containerized-workloads-with-amazon-ecs-events-in-the-aws-console/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Monitoring network performance on Amazon EKS using AWS Managed Open-Source Services",
         "link": "https://aws.amazon.com/blogs/containers/monitoring-network-performance-on-amazon-eks-using-aws-managed-open-source-services/"
-    },
-    {
-        "title": "Amazon ECS at AWS re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-ecs-at-aws-reinvent-2025/"
-    },
-    {
-        "title": "Deep Dive: Amazon ECS Managed Instances provisioning and optimization",
-        "link": "https://aws.amazon.com/blogs/containers/deep-dive-amazon-ecs-managed-instances-provisioning-and-optimization/"
-    },
-    {
-        "title": "Extending GPU Fractionalization and Orchestration to the edge with NVIDIA Run:ai and Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/extending-gpu-fractionalization-and-orchestration-to-the-edge-with-nvidia-runai-and-amazon-eks/"
-    },
-    {
-        "title": "Kubernetes Gateway API in action",
-        "link": "https://aws.amazon.com/blogs/containers/kubernetes-gateway-api-in-action/"
     }
 ]

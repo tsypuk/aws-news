@@ -1,5 +1,41 @@
 [
     {
+        "title": "Run Apache Spark and Iceberg 4.5x faster than open source Spark with Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-and-iceberg-4-5x-faster-than-open-source-spark-with-amazon-emr/"
+    },
+    {
+        "title": "Apache Spark encryption performance improvement with Amazon EMR 7.9",
+        "link": "https://aws.amazon.com/blogs/big-data/apache-spark-encryption-performance-improvement-with-amazon-emr-7-9/"
+    },
+    {
+        "title": "Run Apache Spark and Apache Iceberg write jobs 2x faster with Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-and-apache-iceberg-write-jobs-2x-faster-with-amazon-emr/"
+    },
+    {
+        "title": "Medidata\u2019s journey to a modern lakehouse architecture on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/medidatas-journey-to-a-modern-lakehouse-architecture-on-aws/"
+    },
+    {
+        "title": "Achieve 2x faster data lake query performance with Apache Iceberg on Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/achieve-2x-faster-data-lake-query-performance-with-apache-iceberg-on-amazon-redshift/"
+    },
+    {
+        "title": "Introducing catalog federation for Apache Iceberg tables in the AWS Glue Data Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-catalog-federation-for-apache-iceberg-tables-in-the-aws-glue-data-catalog/"
+    },
+    {
+        "title": "Accelerate data lake operations with Apache Iceberg V3 deletion vectors and row lineage",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-lake-operations-with-apache-iceberg-v3-deletion-vectors-and-row-lineage/"
+    },
+    {
+        "title": "How Octus achieved 85% infrastructure cost reduction with zero downtime migration to Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/how-octus-achieved-85-infrastructure-cost-reduction-with-zero-downtime-migration-to-amazon-opensearch-service/"
+    },
+    {
+        "title": "Getting started with Apache Iceberg write support in Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift/"
+    },
+    {
         "title": "Orchestrating data processing tasks with a serverless visual workflow in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/orchestrating-data-processing-tasks-with-a-serverless-visual-workflow-in-amazon-sagemaker-unified-studio/"
     },
@@ -42,41 +78,5 @@
     {
         "title": "Introducing the Amazon OpenSearch Lens for the AWS Well-Architected Framework",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-the-amazon-opensearch-lens-for-the-aws-well-architected-framework/"
-    },
-    {
-        "title": "Amazon MSK Express brokers now support Intelligent Rebalancing for 180 times faster operation performance",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-express-brokers-now-support-intelligent-rebalancing-for-180-times-faster-operation-performance/"
-    },
-    {
-        "title": "Analyzing Amazon EC2 Spot instance interruptions by using event-driven architecture",
-        "link": "https://aws.amazon.com/blogs/big-data/analyzing-amazon-ec2-spot-instance-interruptions-by-using-event-driven-architecture/"
-    },
-    {
-        "title": "Enhanced search with match highlights and explanations in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/enhanced-search-with-match-highlights-and-explanations-in-amazon-sagemaker/"
-    },
-    {
-        "title": "Amazon Kinesis Data Streams launches On-demand Advantage for instant throughput increases and streaming at scale",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-streams-launches-on-demand-advantage-for-instant-throughput-increases-and-streaming-at-scale/"
-    },
-    {
-        "title": "Scaling data governance with Amazon DataZone: Covestro success story",
-        "link": "https://aws.amazon.com/blogs/big-data/scaling-data-governance-with-amazon-datazone-covestro-success-story/"
-    },
-    {
-        "title": "Use trusted identity propagation for Apache Spark interactive sessions in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/use-trusted-identity-propagation-for-apache-spark-interactive-sessions-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Amazon Kinesis Data Streams now supports 10x larger record sizes: Simplifying real-time data processing",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-streams-now-supports-10x-larger-record-sizes-simplifying-real-time-data-processing/"
-    },
-    {
-        "title": "Federate access to SageMaker Unified Studio with AWS IAM Identity Center and Okta",
-        "link": "https://aws.amazon.com/blogs/big-data/federate-access-to-sagemaker-unified-studio-with-aws-iam-identity-center-and-okta/"
-    },
-    {
-        "title": "Accelerate data governance with custom subscription workflows in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-data-governance-with-custom-subscription-workflows-in-amazon-sagemaker/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance",
+        "link": "https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/"
+    },
+    {
+        "title": "How Letta builds production-ready AI agents with Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/how-letta-builds-production-ready-ai-agents-with-amazon-aurora-postgresql/"
+    },
+    {
+        "title": "Lower cost and latency for AI using Amazon ElastiCache as a semantic cache with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/lower-cost-and-latency-for-ai-using-amazon-elasticache-as-a-semantic-cache-with-amazon-bedrock/"
+    },
+    {
+        "title": "Build persistent memory for agentic AI applications with Mem0 Open Source, Amazon ElastiCache for Valkey, and Amazon Neptune Analytics",
+        "link": "https://aws.amazon.com/blogs/database/build-persistent-memory-for-agentic-ai-applications-with-mem0-open-source-amazon-elasticache-for-valkey-and-amazon-neptune-analytics/"
+    },
+    {
         "title": "Simplify data integration using zero-ETL from self-managed databases to Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/database/simplify-data-integration-using-zero-etl-from-self-managed-databases-to-amazon-redshift/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Introducing fully managed Blue/Green deployments for Amazon Aurora Global Database",
         "link": "https://aws.amazon.com/blogs/database/introducing-fully-managed-blue-green-deployments-for-amazon-aurora-global-database/"
-    },
-    {
-        "title": "Rate-limiting calls to Amazon DynamoDB using Python Boto3, Part 2: Distributed Coordination",
-        "link": "https://aws.amazon.com/blogs/database/rate-limiting-calls-to-amazon-dynamodb-using-python-boto3-part-2-distributed-coordination/"
-    },
-    {
-        "title": "Rate-limiting calls to Amazon DynamoDB using Python Boto3, Part 1",
-        "link": "https://aws.amazon.com/blogs/database/rate-limiting-calls-to-amazon-dynamodb-using-python-boto3-part-1/"
-    },
-    {
-        "title": "Using delayed read replicas for Amazon RDS for PostgreSQL disaster recovery",
-        "link": "https://aws.amazon.com/blogs/database/using-delayed-read-replicas-for-amazon-rds-for-postgresql-disaster-recovery/"
-    },
-    {
-        "title": "Amazon DocumentDB (with MongoDB compatibility) introduces new query planner that delivers up to 10x performance improvements",
-        "link": "https://aws.amazon.com/blogs/database/amazon-documentdb-with-mongodb-compatibility-introduces-new-query-planner-that-delivers-up-to-10x-performance-improvements/"
     }
 ]

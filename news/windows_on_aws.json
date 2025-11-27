@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Kiro and MCP Tools for SQL Server professionals",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-kiro-and-mcp-tools-for-sql-server-professionals/"
+    },
+    {
         "title": "What\u2019s new in Microsoft SQL Server 2025 on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/whats-new-in-microsoft-sql-server-2025-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Testing AWS Managed Microsoft AD Resilience using AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-aws-managed-microsoft-ad-resilience-using-aws-fault-injection-service/"
-    },
-    {
-        "title": "Mastering Windows Server migration to Amazon EC2: Key tactics for success \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-windows-server-migration-to-amazon-ec2-key-tactics-for-success-part-2/"
     }
 ]

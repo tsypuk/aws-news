@@ -1,7 +1,15 @@
 [
     {
-        "title": "Introducing flat-rate pricing plans with no overages",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/"
+        "title": "Announcing Amazon Route 53 Accelerated Recovery for managing public DNS records",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/announcing-amazon-route-53-accelerated-recovery-for-managing-public-dns-records/"
+    },
+    {
+        "title": "re:Invent 2025: Your ultimate AWS Networking guide to this year\u2019s must-attend cloud event",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-reinvent-2025-your-ultimate-aws-networking-guide-to-this-years-must-attend-cloud-event/"
+    },
+    {
+        "title": "Snap Inc. uses Amazon CloudFront Origin Shield to improve download and upload latency",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/snap-inc-uses-amazon-cloudfront-origin-shield-to-improve-download-and-upload-latency/"
     },
     {
         "title": "Securing Egress Architectures with Network Firewall Proxy",
@@ -60,23 +68,15 @@
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-manage-ai-bots-with-aws-waf-and-enhance-security/"
     },
     {
+        "title": "Introducing flat-rate pricing plans with no overages",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/"
+    },
+    {
         "title": "Scaling AWS VPN maintenance with tunnel endpoint lifecycle automation",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-aws-vpn-maintenance-with-tunnel-endpoint-lifecycle-automation/"
     },
     {
         "title": "Introducing QUIC Protocol Support for Network Load Balancer: Accelerating Mobile-First Applications",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-quic-protocol-support-for-network-load-balancer-accelerating-mobile-first-applications/"
-    },
-    {
-        "title": "Introducing AWS Site-to-Site VPN 5 Gbps Tunnels to support high throughput workloads",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/"
-    },
-    {
-        "title": "Use Amazon VPC Lattice to streamline and secure TCP resource connectivity across multiple AWS Accounts",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-amazon-vpc-lattice-to-streamline-and-secure-tcp-resource-connectivity-across-multiple-aws-accounts/"
-    },
-    {
-        "title": "Custom domain names for VPC Lattice resources",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/custom-domain-names-for-vpc-lattice-resources/"
     }
 ]

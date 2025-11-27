@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Route 53 launches Accelerated recovery for managing public DNS records",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/"
+    },
+    {
         "title": "AWS Weekly Roundup: How to join AWS re:Invent 2025, plus Kiro GA, and lots of launches (Nov 24, 2025)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-how-to-join-aws-reinvent-2025-plus-kiro-ga-and-lots-of-launches-nov-24-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure EKS clusters with the new support for Amazon EKS in AWS Backup",
         "link": "https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/"
-    },
-    {
-        "title": "AWS Weekly Roundup: OpenAI partnership, Jane Goodall Institute research archive, and more (November 10, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/"
     }
 ]

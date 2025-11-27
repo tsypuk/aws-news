@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement Tenants in your Amazon SES environment, Part 3: Implementation guide",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/implement-tenants-in-your-amazon-ses-environment-part-3-implementation-guide/"
+    },
+    {
+        "title": "Implement Tenants in your Amazon SES environment, Part 2: Assessment and planning",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/implement-tenants-in-your-amazon-ses-environment-part-2-assessment-and-planning/"
+    },
+    {
         "title": "Learning email deliverability with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/learning-email-deliverability-with-amazon-ses/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Secure collaboration and file sharing with AWS Wickr",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-collaboration-and-file-sharing-with-aws-wickr/"
-    },
-    {
-        "title": "Enhance email authentication and deliverability with Amazon SES and Valimail",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-authentication-and-deliverability-with-amazon-ses-and-valimail/"
-    },
-    {
-        "title": "Monitoring AWS End User Messaging SMS Registrations with Lambda",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/monitoring-aws-end-user-messaging-sms-registrations-with-lambda/"
     }
 ]

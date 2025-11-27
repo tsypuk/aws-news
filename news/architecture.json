@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure Amazon Elastic VMware Service (Amazon EVS) with AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/"
+    },
+    {
         "title": "Building an AI gateway to Amazon Bedrock with Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement monitoring for Amazon EKS with managed services",
         "link": "https://aws.amazon.com/blogs/architecture/implement-monitoring-for-amazon-eks-with-managed-services/"
-    },
-    {
-        "title": "How Scale to Win uses AWS WAF to block DDoS events",
-        "link": "https://aws.amazon.com/blogs/architecture/how-scale-to-win-uses-aws-waf-to-block-ddos-events/"
     }
 ]
