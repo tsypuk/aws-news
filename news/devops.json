@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building with AI-DLC using Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/"
+    },
+    {
+        "title": "Open-Sourcing Adaptive Workflows for AI-Driven Development Life Cycle (AI-DLC)",
+        "link": "https://aws.amazon.com/blogs/devops/open-sourcing-adaptive-workflows-for-ai-driven-development-life-cycle-ai-dlc/"
+    },
+    {
         "title": "Introducing the AWS Infrastructure as Code MCP Server: AI-Powered CDK and CloudFormation Assistance",
         "link": "https://aws.amazon.com/blogs/devops/introducing-the-aws-infrastructure-as-code-mcp-server-ai-powered-cdk-and-cloudformation-assistance/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Multi-Cloud Code Deployments using Amazon Q Developer with Echo3D",
         "link": "https://aws.amazon.com/blogs/devops/multi-cloud-code-deployments-using-amazon-q-developer-with-echo3d/"
-    },
-    {
-        "title": "Accelerating AWS Infrastructure Deployment: A Practical Guide to Console-to-Code",
-        "link": "https://aws.amazon.com/blogs/devops/accelerating-aws-infrastructure-deployment-a-practical-guide-to-console-to-code/"
-    },
-    {
-        "title": "Multi Agent Collaboration with Strands",
-        "link": "https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/"
     }
 ]
