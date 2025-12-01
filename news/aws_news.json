@@ -1,5 +1,33 @@
 [
     {
+        "title": "Top announcements of AWS re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/"
+    },
+    {
+        "title": "Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/"
+    },
+    {
+        "title": "AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training",
+        "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/"
+    },
+    {
+        "title": "AWS Partner Central now available in AWS Management Console",
+        "link": "https://aws.amazon.com/blogs/aws/aws-partner-central-now-available-in-aws-management-console/"
+    },
+    {
+        "title": "Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/"
+    },
+    {
+        "title": "Simplify IAM policy creation with IAM Policy Autopilot, a new open source MCP server for builders",
+        "link": "https://aws.amazon.com/blogs/aws/simplify-iam-policy-creation-with-iam-policy-autopilot-a-new-open-source-mcp-server-for-builders/"
+    },
+    {
+        "title": "Announcing Amazon EKS Capabilities for workload orchestration and cloud resource management",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-eks-capabilities-for-workload-orchestration-and-cloud-resource-management/"
+    },
+    {
         "title": "Amazon Route 53 launches Accelerated recovery for managing public DNS records",
         "link": "https://aws.amazon.com/blogs/aws/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Monitor network performance and traffic across your EKS clusters with Container Network Observability",
         "link": "https://aws.amazon.com/blogs/aws/monitor-network-performance-and-traffic-across-your-eks-clusters-with-container-network-observability/"
-    },
-    {
-        "title": "New Amazon Bedrock service tiers help you match AI workload performance with cost",
-        "link": "https://aws.amazon.com/blogs/aws/new-amazon-bedrock-service-tiers-help-you-match-ai-workload-performance-with-cost/"
-    },
-    {
-        "title": "Accelerate large-scale AI applications with the new Amazon EC2 P6-B300 instances",
-        "link": "https://aws.amazon.com/blogs/aws/accelerate-large-scale-ai-applications-with-the-new-amazon-ec2-p6-b300-instances/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Lambda for Rust, NLB for QUIC protocol, Amazon DCV for Mac, and more (November 17, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-load-balancers-amazon-dcv-amazon-linux-2023-and-more-november-17-2025/"
-    },
-    {
-        "title": "AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping",
-        "link": "https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/"
-    },
-    {
-        "title": "Introducing AWS IoT Core Device Location integration with Amazon Sidewalk",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-iot-core-device-location-integration-with-amazon-sidewalk/"
-    },
-    {
-        "title": "Introducing Our Final AWS Heroes of 2025",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-2025/"
-    },
-    {
-        "title": "Secure EKS clusters with the new support for Amazon EKS in AWS Backup",
-        "link": "https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/"
     }
 ]
