@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS Transform for mainframe introduces Reimagine capabilities and automated testing functionality",
+        "link": "https://aws.amazon.com/blogs/aws/aws-transform-for-mainframe-introduces-reimagine-capabilities-and-automated-testing-functionality/"
+    },
+    {
+        "title": "AWS Transform announces full-stack Windows modernization capabilities",
+        "link": "https://aws.amazon.com/blogs/aws/aws-transform-announces-full-stack-windows-modernization-capabilities/"
+    },
+    {
+        "title": "Introducing AWS Transform custom: Crush tech debt with AI-powered code modernization",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/"
+    },
+    {
         "title": "Top announcements of AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "New business metadata features in Amazon SageMaker Catalog to improve discoverability across organizations",
         "link": "https://aws.amazon.com/blogs/aws/new-business-metadata-features-in-amazon-sagemaker-catalog-to-improve-discoverability-across-organizations/"
-    },
-    {
-        "title": "AWS Control Tower introduces a Controls Dedicated experience",
-        "link": "https://aws.amazon.com/blogs/aws/aws-control-tower-introduces-a-controls-dedicated-experience/"
-    },
-    {
-        "title": "New: AWS Billing Transfer for centrally managing AWS billing and costs across multiple organizations",
-        "link": "https://aws.amazon.com/blogs/aws/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/"
-    },
-    {
-        "title": "Monitor network performance and traffic across your EKS clusters with Container Network Observability",
-        "link": "https://aws.amazon.com/blogs/aws/monitor-network-performance-and-traffic-across-your-eks-clusters-with-container-network-observability/"
     }
 ]
