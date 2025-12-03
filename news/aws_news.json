@@ -1,82 +1,82 @@
 [
     {
-        "title": "AWS Transform for mainframe introduces Reimagine capabilities and automated testing functionality",
-        "link": "https://aws.amazon.com/blogs/aws/aws-transform-for-mainframe-introduces-reimagine-capabilities-and-automated-testing-functionality/"
+        "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/"
     },
     {
-        "title": "AWS Transform announces full-stack Windows modernization capabilities",
-        "link": "https://aws.amazon.com/blogs/aws/aws-transform-announces-full-stack-windows-modernization-capabilities/"
+        "title": "Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-storage-lens-adds-performance-metrics-support-for-billions-of-prefixes-and-export-to-s3-tables/"
     },
     {
-        "title": "Introducing AWS Transform custom: Crush tech debt with AI-powered code modernization",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/"
+        "title": "Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/"
     },
     {
-        "title": "Top announcements of AWS re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/"
+        "title": "Build multi-step applications and AI workflows with AWS Lambda durable functions",
+        "link": "https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/"
     },
     {
-        "title": "Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/"
+        "title": "New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-rds-for-oracle-and-rds-for-sql-server-add-new-capabilities-to-enhance-performance-and-optimize-costs/"
     },
     {
-        "title": "AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training",
-        "link": "https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/"
+        "title": "Introducing Database Savings Plans for AWS Databases",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-database-savings-plans-for-aws-databases/"
     },
     {
-        "title": "AWS Partner Central now available in AWS Management Console",
-        "link": "https://aws.amazon.com/blogs/aws/aws-partner-central-now-available-in-aws-management-console/"
+        "title": "Amazon CloudWatch introduces unified data management and analytics for operations, security, and compliance",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-introduces-unified-data-management-and-analytics-for-operations-security-and-compliance/"
     },
     {
-        "title": "Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/"
+        "title": "New and enhanced AWS Support plans add AI capabilities to expert guidance",
+        "link": "https://aws.amazon.com/blogs/aws/new-and-enhanced-aws-support-plans-add-ai-capabilities-to-expert-guidance/"
     },
     {
-        "title": "Simplify IAM policy creation with IAM Policy Autopilot, a new open source MCP server for builders",
-        "link": "https://aws.amazon.com/blogs/aws/simplify-iam-policy-creation-with-iam-policy-autopilot-a-new-open-source-mcp-server-for-builders/"
+        "title": "Amazon OpenSearch Service improves vector database performance and cost with GPU acceleration and auto-optimization",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-opensearch-service-improves-vector-database-performance-and-cost-with-gpu-acceleration-and-auto-optimization/"
     },
     {
-        "title": "Announcing Amazon EKS Capabilities for workload orchestration and cloud resource management",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-eks-capabilities-for-workload-orchestration-and-cloud-resource-management/"
+        "title": "Amazon S3 Vectors now generally available with increased scale and performance",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/"
     },
     {
-        "title": "Amazon Route 53 launches Accelerated recovery for managing public DNS records",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/"
+        "title": "Amazon Bedrock adds 18 fully managed open weight models, including the new Mistral Large 3 and Ministral 3 models",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-adds-fully-managed-open-weight-models/"
     },
     {
-        "title": "AWS Weekly Roundup: How to join AWS re:Invent 2025, plus Kiro GA, and lots of launches (Nov 24, 2025)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-how-to-join-aws-reinvent-2025-plus-kiro-ga-and-lots-of-launches-nov-24-2025/"
+        "title": "Introducing Amazon EC2 X8aedz instances powered by 5th Gen AMD EPYC processors for memory-intensive workloads",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/"
     },
     {
-        "title": "New one-click onboarding and notebooks with a built-in AI agent in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/aws/new-one-click-onboarding-and-notebooks-with-ai-agent-in-amazon-sagemaker-unified-studio/"
+        "title": "AWS DevOps Agent helps you accelerate incident response and improve system reliability (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-helps-you-accelerate-incident-response-and-improve-system-reliability-preview/"
     },
     {
-        "title": "Build production-ready applications without infrastructure complexity using Amazon ECS Express Mode",
-        "link": "https://aws.amazon.com/blogs/aws/build-production-ready-applications-without-infrastructure-complexity-using-amazon-ecs-express-mode/"
+        "title": "Accelerate AI development using Amazon SageMaker AI with serverless MLflow",
+        "link": "https://aws.amazon.com/blogs/aws/accelerate-ai-development-using-amazon-sagemaker-ai-with-serverless-mlflow/"
     },
     {
-        "title": "Introducing VPC encryption controls: Enforce encryption in transit within and across VPCs in a Region",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-vpc-encryption-controls-enforce-encryption-in-transit-within-and-across-vpcs-in-a-region/"
+        "title": "Amazon FSx for NetApp ONTAP now integrates with Amazon S3 for seamless data access",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-now-integrates-with-amazon-s3-for-seamless-data-access/"
     },
     {
-        "title": "Introducing attribute-based access control for Amazon S3 general purpose buckets",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-attribute-based-access-control-for-amazon-s3-general-purpose-buckets/"
+        "title": "Introducing Amazon Nova 2 Lite, a fast, cost-effective reasoning model",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-2-lite-a-fast-cost-effective-reasoning-model/"
     },
     {
-        "title": "Simplify access to external services using AWS IAM Outbound Identity Federation",
-        "link": "https://aws.amazon.com/blogs/aws/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/"
+        "title": "New AWS Security Agent secures applications proactively from design to deployment (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/new-aws-security-agent-secures-applications-proactively-from-design-to-deployment-preview/"
     },
     {
-        "title": "Accelerate workflow development with enhanced local testing in AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/aws/accelerate-workflow-development-with-enhanced-local-testing-in-aws-step-functions/"
+        "title": "AWS Security Hub now generally available with near real-time analytics and risk prioritization",
+        "link": "https://aws.amazon.com/blogs/aws/aws-security-hub-now-generally-available-with-near-real-time-analytics-and-risk-prioritization/"
     },
     {
-        "title": "Streamlined multi-tenant application development with tenant isolation mode in AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/aws/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/"
+        "title": "Amazon GuardDuty adds Extended Threat Detection for Amazon EC2 and Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-guardduty-adds-extended-threat-detection-for-amazon-ec2-and-amazon-ecs/"
     },
     {
-        "title": "New business metadata features in Amazon SageMaker Catalog to improve discoverability across organizations",
-        "link": "https://aws.amazon.com/blogs/aws/new-business-metadata-features-in-amazon-sagemaker-catalog-to-improve-discoverability-across-organizations/"
+        "title": "Introducing Amazon Nova Forge: Build your own frontier models using Nova",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-forge-build-your-own-frontier-models-using-nova/"
     }
 ]
