@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon Bedrock adds reinforcement \ufb01ne-tuning simplifying how developers build smarter, more accurate AI models",
+        "link": "https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/"
+    },
+    {
+        "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
+        "link": "https://aws.amazon.com/blogs/aws/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/"
+    },
+    {
+        "title": "Introducing checkpointless and elastic training on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "New AWS Security Agent secures applications proactively from design to deployment (preview)",
         "link": "https://aws.amazon.com/blogs/aws/new-aws-security-agent-secures-applications-proactively-from-design-to-deployment-preview/"
-    },
-    {
-        "title": "AWS Security Hub now generally available with near real-time analytics and risk prioritization",
-        "link": "https://aws.amazon.com/blogs/aws/aws-security-hub-now-generally-available-with-near-real-time-analytics-and-risk-prioritization/"
-    },
-    {
-        "title": "Amazon GuardDuty adds Extended Threat Detection for Amazon EC2 and Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-guardduty-adds-extended-threat-detection-for-amazon-ec2-and-amazon-ecs/"
-    },
-    {
-        "title": "Introducing Amazon Nova Forge: Build your own frontier models using Nova",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-forge-build-your-own-frontier-models-using-nova/"
     }
 ]

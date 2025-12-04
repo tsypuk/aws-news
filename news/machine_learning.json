@@ -60,10 +60,6 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/"
     },
     {
-        "title": "Warner Bros. Discovery\u00a0achieves 60% cost savings and faster ML inference with AWS Graviton",
-        "link": "https://aws.amazon.com/blogs/machine-learning/warner-bros-discovery-achieves-60-cost-savings-and-faster-ml-inference-with-aws-graviton/"
-    },
-    {
         "title": "Physical AI in practice: Technical foundations that fuel human-machine interactions",
         "link": "https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Power up your ML workflows with interactive IDEs on SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Claude Opus 4.5 now in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock/"
     }
 ]
