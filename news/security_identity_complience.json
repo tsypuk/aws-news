@@ -1,5 +1,9 @@
 [
     {
+        "title": "China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)",
+        "link": "https://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerability-cve-2025-55182/"
+    },
+    {
         "title": "AWS Private Certificate Authority now supports partitioned CRLs",
         "link": "https://aws.amazon.com/blogs/security/aws-private-certificate-authority-now-supports-partitioned-crls/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Inspector detects over 150,000 malicious packages linked to token farming campaign",
         "link": "https://aws.amazon.com/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/"
-    },
-    {
-        "title": "Amazon Elastic Kubernetes Service gets independent affirmation of its zero operator access design",
-        "link": "https://aws.amazon.com/blogs/security/amazon-elastic-kubernetes-service-gets-independent-affirmation-of-its-zero-operator-access-design/"
     }
 ]

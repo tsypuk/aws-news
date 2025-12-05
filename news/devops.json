@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent (in preview)",
+        "link": "https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/"
+    },
+    {
         "title": "Building with AI-DLC using Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reduce Docker image build time on AWS CodeBuild using Amazon ECR as a remote cache",
         "link": "https://aws.amazon.com/blogs/devops/reduce-docker-image-build-time-on-aws-codebuild-using-amazon-ecr-as-a-remote-cache/"
-    },
-    {
-        "title": "Multi-Cloud Code Deployments using Amazon Q Developer with Echo3D",
-        "link": "https://aws.amazon.com/blogs/devops/multi-cloud-code-deployments-using-amazon-q-developer-with-echo3d/"
     }
 ]
