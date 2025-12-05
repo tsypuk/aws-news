@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-12-040.1.0) - 2025-12-04
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2025-12-050.1.0) - 2025-12-05
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/8ffc7be061e5e234ff09fb4a948ac99733a60760...ver-2025-12-04)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/f63b6baff16ee582b8bfc2e0c343cf5a58fecbd8...ver-2025-12-05)</small>
 
 ### Docs
 
-- updated AWS news - aws_news,machine_learning - 2025-12-04 ([5fd5382](https://github.com/tsypuk/aws-news/commit/5fd53825431c9d815b1f89864967d1644b28d4c6) by Roman Tsypuk).
+- updated AWS news - devops,security_identity_complience - 2025-12-05 ([135df06](https://github.com/tsypuk/aws-news/commit/135df06f4a0948cf703b37f3930b20883e72fe68) by Roman Tsypuk).
 
