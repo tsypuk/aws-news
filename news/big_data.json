@@ -1,5 +1,17 @@
 [
     {
+        "title": "Auto-optimize your Amazon OpenSearch Service vector database",
+        "link": "https://aws.amazon.com/blogs/big-data/auto-optimize-your-amazon-opensearch-service-vector-database/"
+    },
+    {
+        "title": "Build billion-scale vector databases in under an hour with GPU acceleration on Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/build-billion-scale-vector-databases-in-under-an-hour-with-gpu-acceleration-on-amazon-opensearch-service/"
+    },
+    {
+        "title": "SAP data ingestion and replication with AWS Glue zero-ETL",
+        "link": "https://aws.amazon.com/blogs/big-data/sap-data-ingestion-and-replication-with-aws-glue-zero-etl/"
+    },
+    {
         "title": "Run Apache Spark and Iceberg 4.5x faster than open source Spark with Amazon EMR",
         "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-and-iceberg-4-5x-faster-than-open-source-spark-with-amazon-emr/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing Amazon MWAA Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-mwaa-serverless/"
-    },
-    {
-        "title": "Your guide to AWS Analytics at AWS re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/big-data/your-guide-to-aws-analytics-at-aws-reinvent-2025/"
-    },
-    {
-        "title": "How Yelp modernized its data infrastructure with a streaming lakehouse on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/how-yelp-modernized-its-data-infrastructure-with-a-streaming-lakehouse-on-aws/"
-    },
-    {
-        "title": "Introducing the Amazon OpenSearch Lens for the AWS Well-Architected Framework",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-amazon-opensearch-lens-for-the-aws-well-architected-framework/"
     }
 ]

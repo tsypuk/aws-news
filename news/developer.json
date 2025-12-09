@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS SDK for JavaScript aligns with Node.js release schedule",
+        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-javascript-aligns-with-node-js-release-schedule/"
+    },
+    {
         "title": "Introducing Amazon S3 Transfer Manager for Swift (Developer Preview)",
         "link": "https://aws.amazon.com/blogs/developer/introducing-amazon-s3-transfer-manager-for-swift-developer-preview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Automatic Request Batching for Amazon SQS in the AWS Java SDK 2.x",
         "link": "https://aws.amazon.com/blogs/developer/introducing-automatic-request-batching-for-amazon-sqs-in-the-aws-java-sdk-2-x/"
-    },
-    {
-        "title": "AWS CRT Client for Java adds GraalVM Native Image support",
-        "link": "https://aws.amazon.com/blogs/developer/aws-crt-client-for-java-adds-graalvm-native-image-support/"
     }
 ]

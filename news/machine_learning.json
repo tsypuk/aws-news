@@ -1,5 +1,21 @@
 [
     {
+        "title": "How AWS delivers generative AI to the public sector in weeks, not years",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-delivers-generative-ai-to-the-public-sector-in-weeks-not-years/"
+    },
+    {
+        "title": "S&P Global Data integration expands Amazon Quick Research capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sp-global-data-integration-expands-amazon-quick-research-capabilities/"
+    },
+    {
+        "title": "Streamline AI agent tool interactions: Connect API Gateway to AgentCore Gateway with MCP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-ai-agent-tool-interactions-connect-api-gateway-to-agentcore-gateway-with-mcp/"
+    },
+    {
+        "title": "Create an intelligent insurance underwriter agent powered by Amazon Nova 2 Lite and Amazon Quick Suite",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-an-intelligent-insurance-underwriter-agent-powered-by-amazon-nova-2-lite-and-amazon-quick-suite/"
+    },
+    {
         "title": "How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Physical AI in practice: Technical foundations that fuel human-machine interactions",
         "link": "https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/"
-    },
-    {
-        "title": "HyperPod now supports Multi-Instance GPU to maximize GPU utilization for generative AI tasks",
-        "link": "https://aws.amazon.com/blogs/machine-learning/hyperpod-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-generative-ai-tasks/"
-    },
-    {
-        "title": "Accelerate generative AI innovation in Canada with Amazon Bedrock cross-Region inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-innovation-in-canada-with-amazon-bedrock-cross-region-inference/"
-    },
-    {
-        "title": "Power up your ML workflows with interactive IDEs on SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/power-up-your-ml-workflows-with-interactive-ides-on-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Claude Opus 4.5 now in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-5-now-in-amazon-bedrock/"
     }
 ]

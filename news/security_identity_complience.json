@@ -1,5 +1,13 @@
 [
     {
+        "title": "IAM Policy Autopilot: An open-source tool that brings IAM policy expertise to builders and AI coding assistants",
+        "link": "https://aws.amazon.com/blogs/security/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/"
+    },
+    {
+        "title": "AWS launches AI-enhanced security innovations at re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/security/aws-launches-ai-enhanced-security-innovations-at-reinvent-2025/"
+    },
+    {
         "title": "China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)",
         "link": "https://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerability-cve-2025-55182/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Post-quantum (ML-DSA) code signing with AWS Private CA and AWS KMS",
         "link": "https://aws.amazon.com/blogs/security/post-quantum-ml-dsa-code-signing-with-aws-private-ca-and-aws-kms/"
-    },
-    {
-        "title": "AWS re:Invent 2025: Your guide to security sessions across four transformative themes",
-        "link": "https://aws.amazon.com/blogs/security/aws-reinvent-2025-your-guide-to-security-sessions-across-four-transformative-themes/"
-    },
-    {
-        "title": "Amazon Inspector detects over 150,000 malicious packages linked to token farming campaign",
-        "link": "https://aws.amazon.com/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/"
     }
 ]
