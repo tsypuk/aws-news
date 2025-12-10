@@ -1,5 +1,17 @@
 [
     {
+        "title": "Troubleshoot AWS Tagging Compliance with AWS Resource Explorer",
+        "link": "https://aws.amazon.com/blogs/mt/troubleshoot-aws-tagging-compliance-with-aws-resource-explorer/"
+    },
+    {
+        "title": "Amazon CloudWatch RUM now supports mobile application monitoring",
+        "link": "https://aws.amazon.com/blogs/mt/amazon-cloudwatch-rum-supports-mobile-application-monitoring/"
+    },
+    {
+        "title": "Prometheus MCP Server: AI-Driven Monitoring Intelligence for AWS Users",
+        "link": "https://aws.amazon.com/blogs/mt/prometheus-mcp-server-ai-driven-monitoring-intelligence-for-aws-users/"
+    },
+    {
         "title": "2025 Top 10 Announcements for AWS Cloud Operations",
         "link": "https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Amazon CloudWatch Application Signals new enhancements for application monitoring",
         "link": "https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/"
-    },
-    {
-        "title": "Your Essential Guide to Cloud Governance at AWS re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/mt/your-essential-guide-to-cloud-governance-at-aws-reinvent-2025/"
-    },
-    {
-        "title": "Embracing AI- driven operations and observability at re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/mt/embracing-ai-driven-operations-and-observability-at-reinvent-2025/"
-    },
-    {
-        "title": "Reimagine AIOps with Amazon CloudWatch Investigations and Amazon Nova Sonic",
-        "link": "https://aws.amazon.com/blogs/mt/reimagine-aiops-with-amazon-cloudwatch-investigations-and-amazon-nova-sonic/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Real-world reasoning: How Amazon Nova Lite 2.0 handles complex customer support scenarios",
+        "link": "https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/"
+    },
+    {
+        "title": "Create AI-powered chat assistants for your enterprise with Amazon Quick Suite",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-ai-powered-chat-assistants-for-your-enterprise-with-amazon-quick-suite/"
+    },
+    {
         "title": "How AWS delivers generative AI to the public sector in weeks, not years",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-delivers-generative-ai-to-the-public-sector-in-weeks-not-years/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Practical implementation considerations to close the AI value gap",
         "link": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/"
-    },
-    {
-        "title": "Introducing bidirectional streaming for real-time inference on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Physical AI in practice: Technical foundations that fuel human-machine interactions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/physical-ai-in-practice-technical-foundations-that-fuel-human-machine-interactions/"
     }
 ]

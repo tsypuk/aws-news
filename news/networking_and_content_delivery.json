@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Resiliency For AWS Direct Connect Maintenance Events To Mitigate Downtime",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-resiliency-for-aws-direct-connect-maintenance-events-to-mitigate-downtime/"
+    },
+    {
         "title": "AWS and Google Cloud collaborate to simplify multicloud networking",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-and-google-cloud-collaborate-to-simplify-multicloud-networking/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing flat-rate pricing plans with no overages",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/"
-    },
-    {
-        "title": "Scaling AWS VPN maintenance with tunnel endpoint lifecycle automation",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-aws-vpn-maintenance-with-tunnel-endpoint-lifecycle-automation/"
     }
 ]
