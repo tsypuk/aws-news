@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implement automated smoke testing using Amazon Nova Act headless mode",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/"
+    },
+    {
         "title": "Real-world reasoning: How Amazon Nova Lite 2.0 handles complex customer support scenarios",
         "link": "https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Train custom computer vision defect detection model using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/machine-learning/train-custom-computer-vision-defect-detection-model-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Practical implementation considerations to close the AI value gap",
-        "link": "https://aws.amazon.com/blogs/machine-learning/practical-implementation-considerations-to-close-the-ai-value-gap/"
     }
 ]

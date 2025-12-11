@@ -1,5 +1,13 @@
 [
     {
+        "title": "Embracing our broad responsibility for securing digital infrastructure in the European Union",
+        "link": "https://aws.amazon.com/blogs/security/embracing-our-broad-responsibility-for-securing-digital-infrastructure-in-the-european-union/"
+    },
+    {
+        "title": "How to customize your response to layer 7 DDoS attacks using AWS WAF Anti-DDoS AMR",
+        "link": "https://aws.amazon.com/blogs/security/how-to-customize-your-response-to-layer-7-ddos-attacks-using-aws-waf-anti-ddos-amr/"
+    },
+    {
         "title": "IAM Policy Autopilot: An open-source tool that brings IAM policy expertise to builders and AI coding assistants",
         "link": "https://aws.amazon.com/blogs/security/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Analyze AWS Network Firewall logs using Amazon OpenSearch dashboard",
         "link": "https://aws.amazon.com/blogs/security/analyze-aws-network-firewall-logs-using-amazon-opensearch-dashboard/"
-    },
-    {
-        "title": "How to automate Session Manager preferences across your organization",
-        "link": "https://aws.amazon.com/blogs/security/how-to-automate-session-manager-preferences-across-your-organization/"
-    },
-    {
-        "title": "Post-quantum (ML-DSA) code signing with AWS Private CA and AWS KMS",
-        "link": "https://aws.amazon.com/blogs/security/post-quantum-ml-dsa-code-signing-with-aws-private-ca-and-aws-kms/"
     }
 ]

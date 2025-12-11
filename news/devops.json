@@ -1,5 +1,9 @@
 [
     {
+        "title": "Resolve and prevent operational incidents with AWS DevOps Agent and New Relic",
+        "link": "https://aws.amazon.com/blogs/devops/resolve-and-prevent-operational-incidents-with-aws-devops-agent-and-new-relic/"
+    },
+    {
         "title": "Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent (in preview)",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Beyond Bootstrap: Bootstrapless CDK Deployments at GoDaddy",
         "link": "https://aws.amazon.com/blogs/devops/beyond-bootstrap-bootstrapless-cdk-deployments-at-godaddy/"
-    },
-    {
-        "title": "Reduce Docker image build time on AWS CodeBuild using Amazon ECR as a remote cache",
-        "link": "https://aws.amazon.com/blogs/devops/reduce-docker-image-build-time-on-aws-codebuild-using-amazon-ecr-as-a-remote-cache/"
     }
 ]

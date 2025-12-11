@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Toyota Insurance cut customer service costs by 98.5% and achieved 60% self-service with Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/how-toyota-insurance-cut-customer-service-costs-and-achieved-self-service-with-amazon-connect/"
+    },
+    {
         "title": "Reduce testing time by up to 90%: Introducing native testing and simulation for Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/reduce-testing-time-by-up-to-90-introducing-native-testing-and-simulation-for-amazon-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AI-powered virtual agents: Automating complex business processes",
         "link": "https://aws.amazon.com/blogs/contact-center/ai-powered-virtual-agents-automating-complex-business-processes/"
-    },
-    {
-        "title": "Understanding Amazon Chime SDK costs in AWS Cost Explorer",
-        "link": "https://aws.amazon.com/blogs/contact-center/understanding-amazon-chime-sdk-costs-in-aws-cost-explorer/"
     }
 ]
