@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting conversational observability for cloud applications",
+        "link": "https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/"
+    },
+    {
         "title": "How BASF\u2019s Agriculture Solutions drives traceability and climate action by tokenizing cotton value chains using Amazon Managed Blockchain",
         "link": "https://aws.amazon.com/blogs/architecture/how-basfs-agriculture-solutions-drives-traceability-and-climate-action-by-tokenizing-cotton-value-chains-using-amazon-managed-blockchain/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Maximizing Business Value Through Strategic Cloud Optimization",
         "link": "https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/"
-    },
-    {
-        "title": "How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale",
-        "link": "https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/"
     }
 ]
