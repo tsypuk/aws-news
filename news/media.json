@@ -1,5 +1,9 @@
 [
     {
+        "title": "Resolve application issues autonomously with AWS DevOps Agent (Preview) and Dynatrace",
+        "link": "https://aws.amazon.com/blogs/mt/resolve-application-issues-autonomously-with-aws-devops-agent-and-dynatrace/"
+    },
+    {
         "title": "Troubleshoot AWS Tagging Compliance with AWS Resource Explorer",
         "link": "https://aws.amazon.com/blogs/mt/troubleshoot-aws-tagging-compliance-with-aws-resource-explorer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyze logs usage with Amazon CloudWatch enhanced automatic dashboard",
         "link": "https://aws.amazon.com/blogs/mt/analyze-logs-usage-with-amazon-cloudwatch-enhanced-automatic-dashboard/"
-    },
-    {
-        "title": "Amazon CloudWatch Application Signals new enhancements for application monitoring",
-        "link": "https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building zero trust generative AI applications in healthcare with AWS Nitro Enclaves",
+        "link": "https://aws.amazon.com/blogs/compute/building-zero-trust-generative-ai-applications-in-healthcare-with-aws-nitro-enclaves/"
+    },
+    {
         "title": "Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference",
         "link": "https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The attendee\u2019s guide to the AWS re:Invent 2025 Compute track",
         "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2025-compute-track/"
-    },
-    {
-        "title": "AWS Lambda networking over IPv6",
-        "link": "https://aws.amazon.com/blogs/compute/aws-lambda-networking-over-ipv6/"
     }
 ]

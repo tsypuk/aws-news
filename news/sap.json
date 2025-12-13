@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance SAP Operations with New AWS Systems Manager for SAP Features: Extended Configuration Management, AI-Assisted Operations, and Scheduling",
+        "link": "https://aws.amazon.com/blogs/awsforsap/enhance-sap-operations-with-new-aws-systems-manager-for-sap-features-extended-configuration-management-ai-assisted-operations-and-scheduling/"
+    },
+    {
         "title": "SAP ASE high availability design with SAP Fault Manager and AWS Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-ase-high-availability-design-with-sap-fault-manager-and-aws-network-load-balancer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SAP Cloud ERP and SAP BTP Now Available on AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-cloud-erp-and-sap-btp-now-available-on-aws-marketplace/"
-    },
-    {
-        "title": "Streamline SAP Operation with CloudWatch MCP server and Amazon Q CLI \u2013 Part 4",
-        "link": "https://aws.amazon.com/blogs/awsforsap/streamline-sap-operation-with-cloudwatch-mcp-server-and-amazon-q-cli-part-4/"
     }
 ]

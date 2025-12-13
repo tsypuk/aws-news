@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implementing HTTP Strict Transport Security (HSTS) across AWS services",
+        "link": "https://aws.amazon.com/blogs/security/implementing-http-strict-transport-security-hsts-across-aws-services/"
+    },
+    {
+        "title": "Meet digital sovereignty needs with AWS Dedicated Local Zones expanded services",
+        "link": "https://aws.amazon.com/blogs/security/meet-digital-sovereignty-needs-with-aws-dedicated-local-zones-expanded-services/"
+    },
+    {
         "title": "Exploring the new AWS European Sovereign Cloud: Sovereign Reference Framework",
         "link": "https://aws.amazon.com/blogs/security/exploring-the-new-aws-european-sovereign-cloud-sovereign-reference-framework/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS designated as a critical third-party provider under EU\u2019s DORA regulation",
         "link": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-provider-under-eus-dora-regulation/"
-    },
-    {
-        "title": "Simplify cloud security with managed rules from AWS Marketplace for AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/security/simplify-cloud-security-with-managed-rules-from-aws-marketplace-for-aws-network-firewall/"
-    },
-    {
-        "title": "New Amazon Threat Intelligence findings: Nation-state actors bridging cyber and kinetic warfare",
-        "link": "https://aws.amazon.com/blogs/security/new-amazon-threat-intelligence-findings-nation-state-actors-bridging-cyber-and-kinetic-warfare/"
     }
 ]

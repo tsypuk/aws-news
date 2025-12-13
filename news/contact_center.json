@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Connect at re:Invent 2025: Creating the future of customer experience with AI",
+        "link": "https://aws.amazon.com/blogs/contact-center/amazon-connect-at-reinvent-2025-creating-the-future-of-customer-experience-with-ai/"
+    },
+    {
         "title": "Simplify contact center operations with Amazon Connect Data Tables",
         "link": "https://aws.amazon.com/blogs/contact-center/simplify-contact-center-operations-with-amazon-connect-data-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS re:Invent 2025: Reimagining customer experience with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/aws-reinvent-2025-reimagining-customer-experience-with-amazon-connect/"
-    },
-    {
-        "title": "Route emails to multiple Amazon Connect instances using SES Mail Manager",
-        "link": "https://aws.amazon.com/blogs/contact-center/route-emails-to-multiple-amazon-connect-instances-using-ses-mail-manager/"
     }
 ]

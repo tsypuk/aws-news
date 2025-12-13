@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Bayer transforms Pharma R&D with a cloud-based data science ecosystem using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/how-bayer-transforms-pharma-rd-with-a-cloud-based-data-science-ecosystem-using-amazon-sagemaker/"
+    },
+    {
         "title": "Introducing Apache Iceberg materialized views in AWS Glue Data Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-iceberg-materialized-views-in-aws-glue-data-catalog/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhanced data discovery in Amazon SageMaker Catalog with custom metadata forms and rich text documentation",
         "link": "https://aws.amazon.com/blogs/big-data/enhanced-data-discovery-in-amazon-sagemaker-catalog-with-custom-metadata-forms-and-rich-text-documentation/"
-    },
-    {
-        "title": "Getting started with Amazon S3 Tables in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-amazon-s3-tables-in-amazon-sagemaker-unified-studio/"
     }
 ]
