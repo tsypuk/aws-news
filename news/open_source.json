@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cedar Joins CNCF as a Sandbox Project",
+        "link": "https://aws.amazon.com/blogs/opensource/cedar-joins-cncf-as-a-sandbox-project/"
+    },
+    {
         "title": "Building intelligent physical AI: From edge to cloud with Strands Agents, Bedrock AgentCore, Claude 4.5, NVIDIA GR00T, and Hugging Face LeRobot",
         "link": "https://aws.amazon.com/blogs/opensource/building-intelligent-physical-ai-from-edge-to-cloud-with-strands-agents-bedrock-agentcore-claude-4-5-nvidia-gr00t-and-hugging-face-lerobot/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "GNOME has a new infrastructure partner: welcome AWS!",
         "link": "https://aws.amazon.com/blogs/opensource/gnome-has-a-new-infrastructure-partner-welcome-aws/"
-    },
-    {
-        "title": "Accelerate Microservices Development with DAPR and Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/opensource/accelerate-microservices-development-with-dapr-and-amazon-eks/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Introducing Apache Spark upgrade agent for Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-upgrade-agent-for-amazon-emr/"
+    },
+    {
+        "title": "Accelerate Apache Hive read and write on Amazon EMR using enhanced S3A",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-apache-hive-read-and-write-on-amazon-emr-using-enhanced-s3a/"
+    },
+    {
+        "title": "Amazon EMR HBase on Amazon S3 transitioning to EMR S3A with comparable EMRFS performance",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-hbase-on-amazon-s3-transitioning-to-emr-s3a-with-comparable-emrfs-performance/"
+    },
+    {
+        "title": "How Socure achieved 50% cost reduction by migrating from self-managed Spark to Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/how-socure-achieved-50-cost-reduction-by-migrating-from-self-managed-spark-to-amazon-emr-serverless/"
+    },
+    {
         "title": "How Bayer transforms Pharma R&D with a cloud-based data science ecosystem using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/how-bayer-transforms-pharma-rd-with-a-cloud-based-data-science-ecosystem-using-amazon-sagemaker/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Orchestrating data processing tasks with a serverless visual workflow in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/orchestrating-data-processing-tasks-with-a-serverless-visual-workflow-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Save up to 24% on Amazon Redshift Serverless compute costs with Reservations",
-        "link": "https://aws.amazon.com/blogs/big-data/save-up-to-24-on-amazon-redshift-serverless-compute-costs-with-reservations/"
-    },
-    {
-        "title": "Introducing Cluster Insights: Unified monitoring dashboard for Amazon OpenSearch Service clusters",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-cluster-insights-unified-monitoring-dashboard-for-amazon-opensearch-service-clusters/"
-    },
-    {
-        "title": "Enforce business glossary classification rules in Amazon SageMaker Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/enforce-business-glossary-classification-rules-in-amazon-sagemaker-catalog/"
-    },
-    {
-        "title": "Enhanced data discovery in Amazon SageMaker Catalog with custom metadata forms and rich text documentation",
-        "link": "https://aws.amazon.com/blogs/big-data/enhanced-data-discovery-in-amazon-sagemaker-catalog-with-custom-metadata-forms-and-rich-text-documentation/"
     }
 ]

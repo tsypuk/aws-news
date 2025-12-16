@@ -1,5 +1,13 @@
 [
     {
+        "title": "Architecting high performance AI-driven data applications with Spice AI and AWS",
+        "link": "https://aws.amazon.com/blogs/storage/architecting-high-performance-ai-driven-data-applications-with-spice-ai-and-aws/"
+    },
+    {
+        "title": "Building an open warehouse architecture: Supabase\u2019s integration with Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/building-an-open-warehouse-architecture-supabases-integration-with-amazon-s3-tables/"
+    },
+    {
         "title": "Lower your Amazon S3 backup costs with AWS Backup S3 tiering",
         "link": "https://aws.amazon.com/blogs/storage/lower-your-amazon-s3-backup-cost-with-aws-backup-s3-tiering/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Improve Kubernetes pod scheduling accuracy using Amazon EBS",
         "link": "https://aws.amazon.com/blogs/storage/improve-kubernetes-pod-scheduling-accuracy-using-amazon-ebs/"
-    },
-    {
-        "title": "Building self-managed RAG applications with Amazon EKS and Amazon S3 Vectors",
-        "link": "https://aws.amazon.com/blogs/storage/building-self-managed-rag-applications-with-amazon-eks-and-amazon-s3-vectors/"
-    },
-    {
-        "title": "Enhance your SMB file transfer security with Kerberos and AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/enhance-your-smb-file-transfer-security-with-kerberos-and-aws-datasync/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Distributing Amazon VPC IP Address Manager costs to member accounts in AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/distributing-amazon-vpc-ip-address-manager-costs-to-member-accounts-in-aws-organizations/"
+    },
+    {
         "title": "Rivian\u2019s proactive approach to identify unrouteable traffic with AWS Transit Gateway Flow Logs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/rivians-proactive-approach-to-identify-unrouteable-traffic-with-aws-transit-gateway-flow-logs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build scalable IPv4 addressing with AWS NAT gateway in regional availability mode, Amazon VPC IPAM policies and Prefix Lists",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-scalable-ipv4-addressing-with-aws-nat-gateway-in-regional-availability-mode-amazon-vpc-ipam-policies-and-prefix-lists/"
-    },
-    {
-        "title": "AWS PrivateLink extends cross-region connectivity to AWS services",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-privatelink-extends-cross-region-connectivity-to-aws-services/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Navigating the EU Data Act for IoT Solutions: Part 1- Healthcare Industry lens",
+        "link": "https://aws.amazon.com/blogs/industries/navigating-the-eu-data-act-for-iot-solutions-part-1-healthcare-industry-lens/"
+    },
+    {
+        "title": "Pharmacy in the Cloud: AWS transforms medication safety and operations",
+        "link": "https://aws.amazon.com/blogs/industries/pharmacy-in-the-cloud-aws-transforms-medication-safety-and-operations/"
+    },
+    {
+        "title": "How to Build an Enterprise-Scale  GenAI Gateway",
+        "link": "https://aws.amazon.com/blogs/industries/how-to-build-an-enterprise-scale-genai-gateway/"
+    },
+    {
         "title": "DR Strategies for Connected Mobility Workloads, Part 1: Backup and Restore",
         "link": "https://aws.amazon.com/blogs/industries/dr-strategies-for-connected-mobility-workloads-part-1-backup-and-restore/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Your Guide to AWS for Telecom at re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/industries/your-guide-to-aws-for-telecom-at-reinvent-2025/"
-    },
-    {
-        "title": "Build Secure Data Mesh with AWS and Partner Solutions",
-        "link": "https://aws.amazon.com/blogs/industries/build-secure-data-mesh-with-aws-and-partner-solutions/"
-    },
-    {
-        "title": "Peloton IQ: How Peloton Generates Millions of Personalized Fitness Insights Weekly Using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/peloton-iq-how-peloton-generates-millions-of-personalized-fitness-insights-weekly-using-amazon-bedrock/"
-    },
-    {
-        "title": "How Rivian and Volkswagen Technology Group Built Real-Time Vehicle Security with Amazon Kinesis Video Streams",
-        "link": "https://aws.amazon.com/blogs/industries/how-rivian-and-volkswagen-technology-group-built-real-time-vehicle-security-with-amazon-kinesis-video-streams/"
     }
 ]

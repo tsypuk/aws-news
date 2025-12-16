@@ -1,5 +1,13 @@
 [
     {
+        "title": "What AWS Security learned from responding to recent npm supply chain threat campaigns",
+        "link": "https://aws.amazon.com/blogs/security/what-aws-security-learned-from-responding-to-recent-npm-supply-chain-threat-campaigns/"
+    },
+    {
+        "title": "Amazon Threat Intelligence identifies Russian cyber threat group targeting Western critical infrastructure",
+        "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-russian-cyber-threat-group-targeting-western-critical-infrastructure/"
+    },
+    {
         "title": "Implementing HTTP Strict Transport Security (HSTS) across AWS services",
         "link": "https://aws.amazon.com/blogs/security/implementing-http-strict-transport-security-hsts-across-aws-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to update CRLs without public access using AWS Private CA",
         "link": "https://aws.amazon.com/blogs/security/how-to-update-crls-without-public-access-using-aws-private-ca/"
-    },
-    {
-        "title": "Simplified developer access to AWS with \u2018aws login\u2019",
-        "link": "https://aws.amazon.com/blogs/security/simplified-developer-access-to-aws-with-aws-login/"
-    },
-    {
-        "title": "AWS designated as a critical third-party provider under EU\u2019s DORA regulation",
-        "link": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-provider-under-eus-dora-regulation/"
     }
 ]

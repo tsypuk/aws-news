@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon EKS introduces enhanced network policy capabilities",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-enhanced-network-policy-capabilities/"
+    },
+    {
+        "title": "Automate java performance troubleshooting with AI-Powered thread dump analysis on Amazon ECS and EKS",
+        "link": "https://aws.amazon.com/blogs/containers/automate-java-performance-troubleshooting-with-ai-powered-thread-dump-analysis-on-amazon-ecs-and-eks/"
+    },
+    {
         "title": "Amazon EKS introduces Provisioned Control Plane",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-provisioned-control-plane/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Streamline container image signatures with Amazon ECR managed signing",
         "link": "https://aws.amazon.com/blogs/containers/streamline-container-image-signatures-with-amazon-ecr-managed-signing/"
-    },
-    {
-        "title": "Guide to Amazon EKS and Kubernetes sessions at AWS re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/containers/guide-to-amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2025/"
-    },
-    {
-        "title": "Monitoring network performance on Amazon EKS using AWS Managed Open-Source Services",
-        "link": "https://aws.amazon.com/blogs/containers/monitoring-network-performance-on-amazon-eks-using-aws-managed-open-source-services/"
     }
 ]

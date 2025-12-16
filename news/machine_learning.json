@@ -1,5 +1,25 @@
 [
     {
+        "title": "Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery",
+        "link": "https://aws.amazon.com/blogs/machine-learning/checkpointless-training-on-amazon-sagemaker-hyperpod-production-scale-training-with-faster-fault-recovery/"
+    },
+    {
+        "title": "Adaptive infrastructure for foundation model training with elastic training on SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-infrastructure-for-foundation-model-training-with-elastic-training-on-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Customize agent workflows with advanced orchestration techniques using Strands Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-agent-workflows-with-advanced-orchestration-techniques-using-strands-agents/"
+    },
+    {
+        "title": "Operationalize generative AI workloads and scale to hundreds of use cases with Amazon Bedrock \u2013 Part 1: GenAIOps",
+        "link": "https://aws.amazon.com/blogs/machine-learning/operationalize-generative-ai-workloads-and-scale-to-hundreds-of-use-cases-with-amazon-bedrock-part-1-genaiops/"
+    },
+    {
+        "title": "Applying data loading best practices for ML training with Amazon S3 clients",
+        "link": "https://aws.amazon.com/blogs/machine-learning/applying-data-loading-best-practices-for-ml-training-with-amazon-s3-clients/"
+    },
+    {
         "title": "Building a voice-driven AWS assistant with Amazon Nova Sonic",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-a-voice-driven-aws-assistant-with-amazon-nova-sonic/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Apply fine-grained access control with Bedrock AgentCore Gateway interceptors",
-        "link": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-access-control-with-bedrock-agentcore-gateway-interceptors/"
-    },
-    {
-        "title": "How Cond\u00e9 Nast accelerated contract processing and rights analysis with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-accelerated-contract-processing-and-rights-analysis-with-amazon-bedrock/"
-    },
-    {
-        "title": "Building AI-Powered Voice Applications: Amazon Nova Sonic Telephony Integration Guide",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-voice-applications-amazon-nova-sonic-telephony-integration-guide/"
-    },
-    {
-        "title": "University of California Los Angeles delivers an immersive theater experience with AWS generative AI services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/university-of-california-los-angeles-delivers-an-immersive-theater-experience-with-aws-generative-ai-services/"
-    },
-    {
-        "title": "Optimizing Mobileye\u2019s REM\u2122 with AWS Graviton: A focus on ML inference and Triton integration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-mobileyes-rem-with-aws-graviton-a-focus-on-ml-inference-and-triton-integration/"
     }
 ]
