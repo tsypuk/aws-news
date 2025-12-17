@@ -1,5 +1,13 @@
 [
     {
+        "title": "Getting started with self-managed Oracle in AWS using Amazon FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/storage/getting-started-with-self-managed-oracle-in-aws-using-amazon-fsx-for-openzfs/"
+    },
+    {
+        "title": "Optimize WordPress performance on Amazon EKS with Amazon FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/storage/optimize-wordpress-performance-on-amazon-eks-with-amazon-fsx-for-openzfs/"
+    },
+    {
         "title": "Architecting high performance AI-driven data applications with Spice AI and AWS",
         "link": "https://aws.amazon.com/blogs/storage/architecting-high-performance-ai-driven-data-applications-with-spice-ai-and-aws/"
     },
@@ -40,10 +48,6 @@
         "link": "https://aws.amazon.com/blogs/storage/automated-cost-effective-archiving-and-on-demand-data-restoration/"
     },
     {
-        "title": "Getting started with self-managed Oracle in AWS using Amazon FSx for OpenZFS",
-        "link": "https://aws.amazon.com/blogs/storage/getting-started-with-self-managed-oracle-in-aws-using-amazon-fsx-for-openzfs/"
-    },
-    {
         "title": "Cost-optimized file storage with Amazon FSx for NetApp ONTAP and Komprise",
         "link": "https://aws.amazon.com/blogs/storage/cost-optimized-file-storage-with-amazon-fsx-for-netapp-ontap-and-komprise/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerating Amazon S3 Batch Operations at scale with on-demand manifest generation",
         "link": "https://aws.amazon.com/blogs/storage/accelerating-amazon-s3-batch-operations-at-scale-with-on-demand-manifest-generation/"
-    },
-    {
-        "title": "Improve Kubernetes pod scheduling accuracy using Amazon EBS",
-        "link": "https://aws.amazon.com/blogs/storage/improve-kubernetes-pod-scheduling-accuracy-using-amazon-ebs/"
     }
 ]

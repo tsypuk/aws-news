@@ -1,5 +1,9 @@
 [
     {
+        "title": "Why Regeneron chose Amazon RDS Custom for Oracle to deploy COTS and GxP applications on AWS",
+        "link": "https://aws.amazon.com/blogs/database/why-regeneron-chose-amazon-rds-custom-for-oracle-to-deploy-cots-and-gxp-applications-on-aws/"
+    },
+    {
         "title": "Create a SQL Server Developer Edition instance on Amazon RDS for SQL Server",
         "link": "https://aws.amazon.com/blogs/database/create-a-sql-server-developer-edition-instance-on-amazon-rds-for-sql-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 1 \u2013 Setting the scene",
         "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-1-setting-the-scene/"
-    },
-    {
-        "title": "Protect sensitive data with dynamic data masking for Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/protect-sensitive-data-with-dynamic-data-masking-for-amazon-aurora-postgresql/"
     }
 ]

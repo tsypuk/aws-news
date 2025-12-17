@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reference guide for building a self-service analytics solution with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/reference-guide-for-building-a-self-service-analytics-solution-with-amazon-sagemaker/"
+    },
+    {
+        "title": "Introducing the Apache Spark troubleshooting agent for Amazon EMR and AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-apache-spark-troubleshooting-agent-for-amazon-emr-and-aws-glue/"
+    },
+    {
         "title": "Introducing Apache Spark upgrade agent for Amazon EMR",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-upgrade-agent-for-amazon-emr/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Octus achieved 85% infrastructure cost reduction with zero downtime migration to Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/how-octus-achieved-85-infrastructure-cost-reduction-with-zero-downtime-migration-to-amazon-opensearch-service/"
-    },
-    {
-        "title": "Getting started with Apache Iceberg write support in Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift/"
-    },
-    {
-        "title": "Orchestrating data processing tasks with a serverless visual workflow in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/orchestrating-data-processing-tasks-with-a-serverless-visual-workflow-in-amazon-sagemaker-unified-studio/"
     }
 ]

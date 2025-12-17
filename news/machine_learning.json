@@ -1,5 +1,17 @@
 [
     {
+        "title": "Governance by design: The essential guide for successful AI scaling",
+        "link": "https://aws.amazon.com/blogs/machine-learning/governance-by-design-the-essential-guide-for-successful-ai-scaling/"
+    },
+    {
+        "title": "How Tata Power CoE built a scalable AI-powered solar panel inspection solution with Amazon SageMaker AI and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-power-coe-built-a-scalable-ai-powered-solar-panel-inspection-solution-with-amazon-sagemaker-ai-and-amazon-bedrock/"
+    },
+    {
+        "title": "Unlocking video understanding with TwelveLabs Marengo on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-understanding-with-twelvelabs-marengo-on-amazon-bedrock/"
+    },
+    {
         "title": "Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery",
         "link": "https://aws.amazon.com/blogs/machine-learning/checkpointless-training-on-amazon-sagemaker-hyperpod-production-scale-training-with-faster-fault-recovery/"
     },
@@ -44,7 +56,7 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/"
     },
     {
-        "title": "Real-world reasoning: How Amazon Nova Lite 2.0 handles complex customer support scenarios",
+        "title": "Real-world reasoning: How Amazon Nova 2 Lite handles complex customer support scenarios",
         "link": "https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/"
     },
     {
@@ -66,17 +78,5 @@
     {
         "title": "Create an intelligent insurance underwriter agent powered by Amazon Nova 2 Lite and Amazon Quick Suite",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-an-intelligent-insurance-underwriter-agent-powered-by-amazon-nova-2-lite-and-amazon-quick-suite/"
-    },
-    {
-        "title": "How Myriad Genetics achieved fast, accurate, and cost-efficient document processing using the AWS open-source Generative AI Intelligent Document Processing Accelerator",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/"
-    },
-    {
-        "title": "How CBRE powers unified property management search and digital assistant using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-cbre-powers-unified-property-management-search-and-digital-assistant-using-amazon-bedrock/"
-    },
-    {
-        "title": "Managed Tiered KV Cache and Intelligent Routing for Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/managed-tiered-kv-cache-and-intelligent-routing-for-amazon-sagemaker-hyperpod/"
     }
 ]

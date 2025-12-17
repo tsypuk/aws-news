@@ -1,5 +1,9 @@
 [
     {
+        "title": "Expanding container security and choice with Amazon ECR Public",
+        "link": "https://aws.amazon.com/blogs/containers/expanding-container-security-and-choice-with-amazon-ecr-public/"
+    },
+    {
         "title": "Amazon EKS introduces enhanced network policy capabilities",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-enhanced-network-policy-capabilities/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerate container troubleshooting with the fully managed Amazon ECS MCP server (preview)",
         "link": "https://aws.amazon.com/blogs/containers/accelerate-container-troubleshooting-with-the-fully-managed-amazon-ecs-mcp-server-preview/"
-    },
-    {
-        "title": "Streamline container image signatures with Amazon ECR managed signing",
-        "link": "https://aws.amazon.com/blogs/containers/streamline-container-image-signatures-with-amazon-ecr-managed-signing/"
     }
 ]
