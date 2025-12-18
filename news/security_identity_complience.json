@@ -1,5 +1,9 @@
 [
     {
+        "title": "Security Hub CSPM automation rule migration to Security Hub",
+        "link": "https://aws.amazon.com/blogs/security/security-hub-cspm-automation-rule-migration-to-security-hub/"
+    },
+    {
         "title": "GuardDuty Extended Threat Detection uncovers cryptomining campaign on Amazon EC2 and Amazon ECS",
         "link": "https://aws.amazon.com/blogs/security/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/"
-    },
-    {
-        "title": "Transfer data across AWS partitions with IAM Roles Anywhere",
-        "link": "https://aws.amazon.com/blogs/security/transfer-data-across-aws-partitions-with-iam-roles-anywhere/"
     }
 ]
