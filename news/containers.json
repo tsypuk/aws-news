@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deep dive: Streamlining GitOps with Amazon EKS capability for Argo CD",
+        "link": "https://aws.amazon.com/blogs/containers/deep-dive-streamlining-gitops-with-amazon-eks-capability-for-argo-cd/"
+    },
+    {
         "title": "Expanding container security and choice with Amazon ECR Public",
         "link": "https://aws.amazon.com/blogs/containers/expanding-container-security-and-choice-with-amazon-ecr-public/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing the fully managed Amazon EKS MCP Server (preview)",
         "link": "https://aws.amazon.com/blogs/containers/introducing-the-fully-managed-amazon-eks-mcp-server-preview/"
-    },
-    {
-        "title": "Accelerate container troubleshooting with the fully managed Amazon ECS MCP server (preview)",
-        "link": "https://aws.amazon.com/blogs/containers/accelerate-container-troubleshooting-with-the-fully-managed-amazon-ecs-mcp-server-preview/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/"
+    },
+    {
+        "title": "Bi-directional streaming for real-time agent interactions now available in Amazon Bedrock AgentCore Runtime",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bi-directional-streaming-for-real-time-agent-interactions-now-available-in-amazon-bedrock-agentcore-runtime/"
+    },
+    {
         "title": "Tracking and managing assets used in AI development with\u00a0Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/tracking-and-managing-assets-used-in-ai-development-with-amazon-sagemaker-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Create AI-powered chat assistants for your enterprise with Amazon Quick Suite",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-ai-powered-chat-assistants-for-your-enterprise-with-amazon-quick-suite/"
-    },
-    {
-        "title": "How AWS delivers generative AI to the public sector in weeks, not years",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-delivers-generative-ai-to-the-public-sector-in-weeks-not-years/"
-    },
-    {
-        "title": "S&P Global Data integration expands Amazon Quick Research capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/sp-global-data-integration-expands-amazon-quick-research-capabilities/"
     }
 ]

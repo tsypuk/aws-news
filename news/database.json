@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing correlated subqueries in Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Improve Aurora PostgreSQL throughput by up to 165% and price-performance ratio by up to 120% using Optimized Reads on AWS Graviton4-based R8gd instances",
         "link": "https://aws.amazon.com/blogs/database/improve-aurora-postgresql-throughput-by-up-to-165-and-price-performance-ratio-by-up-to-120-using-optimized-reads-on-aws-graviton4-based-r8gd-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 2 \u2013 Shallow view",
         "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-2-shallow-view/"
-    },
-    {
-        "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 1 \u2013 Setting the scene",
-        "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-1-setting-the-scene/"
     }
 ]
