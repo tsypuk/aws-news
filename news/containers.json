@@ -1,5 +1,9 @@
 [
     {
+        "title": "Proactive Amazon EKS monitoring with Amazon CloudWatch Operator and AWS Control Plane metrics",
+        "link": "https://aws.amazon.com/blogs/containers/proactive-amazon-eks-monitoring-with-amazon-cloudwatch-operator-and-aws-control-plane-metrics/"
+    },
+    {
         "title": "Deep dive: Streamlining GitOps with Amazon EKS capability for Argo CD",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-streamlining-gitops-with-amazon-eks-capability-for-argo-cd/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Troubleshooting containerized workloads with Amazon ECS Events in the AWS console",
         "link": "https://aws.amazon.com/blogs/containers/troubleshooting-containerized-workloads-with-amazon-ecs-events-in-the-aws-console/"
-    },
-    {
-        "title": "Introducing the fully managed Amazon EKS MCP Server (preview)",
-        "link": "https://aws.amazon.com/blogs/containers/introducing-the-fully-managed-amazon-eks-mcp-server-preview/"
     }
 ]

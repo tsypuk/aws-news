@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying Small Language Models at Scale with AWS IoT Greengrass and Strands Agents",
+        "link": "https://aws.amazon.com/blogs/iot/deploying-small-language-models-at-scale-with-aws-iot-greengrass-and-strands-agents/"
+    },
+    {
         "title": "High availability patterns for AWS IoT Greengrass using Pacemaker",
         "link": "https://aws.amazon.com/blogs/iot/high-availability-patterns-for-aws-iot-greengrass-using-pacemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Siemens Energy uses AWS for its IIoT platform and smart manufacturing",
         "link": "https://aws.amazon.com/blogs/iot/how-siemens-energy-uses-aws-for-its-iiot-platform-and-smart-manufacturing/"
-    },
-    {
-        "title": "How to digitize and automate vehicle assembly inspection process with voice-enabled AWS services",
-        "link": "https://aws.amazon.com/blogs/iot/how-to-digitize-and-automate-vehicle-assembly-inspection-process-with-voice-enabled-aws-services/"
     }
 ]

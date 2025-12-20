@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/"
+    },
+    {
         "title": "Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Real-world reasoning: How Amazon Nova 2 Lite handles complex customer support scenarios",
         "link": "https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/"
-    },
-    {
-        "title": "Create AI-powered chat assistants for your enterprise with Amazon Quick Suite",
-        "link": "https://aws.amazon.com/blogs/machine-learning/create-ai-powered-chat-assistants-for-your-enterprise-with-amazon-quick-suite/"
     }
 ]
