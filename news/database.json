@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon ElastiCache re:Invent 2025 recap",
+        "link": "https://aws.amazon.com/blogs/database/amazon-elasticache-reinvent-2025-recap/"
+    },
+    {
         "title": "Optimizing correlated subqueries in Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 3 \u2013 Transaction processing",
         "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-3-transaction-processing/"
-    },
-    {
-        "title": "Everything you don\u2019t need to know about Amazon Aurora DSQL: Part 2 \u2013 Shallow view",
-        "link": "https://aws.amazon.com/blogs/database/everything-you-dont-need-to-know-about-amazon-aurora-dsql-part-2-shallow-view/"
     }
 ]

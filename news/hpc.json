@@ -1,9 +1,5 @@
 [
     {
-        "title": "How AstraZeneca improved their genomics processing to be 60% faster, 70% more cost-effective",
-        "link": "https://aws.amazon.com/blogs/hpc/how-astrazeneca-improved-their-genomics-processing-to-be-60-faster-70-more-cost-effective/"
-    },
-    {
         "title": "How Aionics accelerates chemical formulation and discovery with AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/how-aionics-accelerates-chemical-formulation-and-discovery-with-aws-parallel-computing-service/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Enabling Rapid Genomic and Multiomic Data Analysis with Illumina DRAGEN\u2122 v4.4 on Amazon EC2 F2 Instances",
         "link": "https://aws.amazon.com/blogs/hpc/enabling-rapid-genomic-and-multiomic-data-analysis-with-illumina-dragen-v4-4-on-amazon-ec2-f2-instances/"
+    },
+    {
+        "title": "Optimize your CAE/CFD workloads with Amazon FSx for Lustre Data Repository Association",
+        "link": "https://aws.amazon.com/blogs/hpc/optimize-your-cae-cfd-workloads-with-amazon-fsx-for-lustre-data-repository-association/"
     }
 ]

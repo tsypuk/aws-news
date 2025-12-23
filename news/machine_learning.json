@@ -1,5 +1,21 @@
 [
     {
+        "title": "Move Beyond Chain-of-Thought with Chain-of-Draft on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/move-beyond-chain-of-thought-with-chain-of-draft-on-amazon-bedrock/"
+    },
+    {
+        "title": "Deploy Mistral AI\u2019s Voxtral on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-mistral-ais-voxtral-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/"
+    },
+    {
+        "title": "Build a multimodal generative AI assistant for root cause diagnosis in predictive maintenance using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-generative-ai-assistant-for-root-cause-diagnosis-in-predictive-maintenance-using-amazon-bedrock/"
+    },
+    {
         "title": "Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Swisscom builds enterprise agentic AI for customer support and sales using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-swisscom-builds-enterprise-agentic-ai-for-customer-support-and-sales-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Scaling MLflow for enterprise AI: What\u2019s New in SageMaker AI with MLflow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-mlflow-for-enterprise-ai-whats-new-in-sagemaker-ai-with-mlflow/"
-    },
-    {
-        "title": "Amazon Bedrock AgentCore Observability with Langfuse",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-observability-with-langfuse/"
-    },
-    {
-        "title": "Implement automated smoke testing using Amazon Nova Act headless mode",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-automated-smoke-testing-using-amazon-nova-act-headless-mode/"
-    },
-    {
-        "title": "Real-world reasoning: How Amazon Nova 2 Lite handles complex customer support scenarios",
-        "link": "https://aws.amazon.com/blogs/machine-learning/real-world-reasoning-how-amazon-nova-lite-2-0-handles-complex-customer-support-scenarios/"
     }
 ]

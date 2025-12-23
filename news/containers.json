@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance Amazon EKS network security posture with DNS and admin network policies",
+        "link": "https://aws.amazon.com/blogs/containers/enhance-amazon-eks-network-security-posture-with-dns-and-admin-network-policies/"
+    },
+    {
         "title": "Proactive Amazon EKS monitoring with Amazon CloudWatch Operator and AWS Control Plane metrics",
         "link": "https://aws.amazon.com/blogs/containers/proactive-amazon-eks-monitoring-with-amazon-cloudwatch-operator-and-aws-control-plane-metrics/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Data-driven Amazon EKS cost optimization: A practical guide to workload analysis",
         "link": "https://aws.amazon.com/blogs/containers/data-driven-amazon-eks-cost-optimization-a-practical-guide-to-workload-analysis/"
-    },
-    {
-        "title": "Troubleshooting containerized workloads with Amazon ECS Events in the AWS console",
-        "link": "https://aws.amazon.com/blogs/containers/troubleshooting-containerized-workloads-with-amazon-ecs-events-in-the-aws-console/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unifying governance and metadata across Amazon SageMaker Unified Studio and Atlan",
+        "link": "https://aws.amazon.com/blogs/big-data/unifying-governance-and-metadata-across-amazon-sagemaker-unified-studio-and-atlan/"
+    },
+    {
         "title": "Modernize Apache Spark workflows using Spark Connect on Amazon EMR on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/big-data/modernize-apache-spark-workflows-using-spark-connect-on-amazon-emr-on-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Run Apache Spark and Iceberg 4.5x faster than open source Spark with Amazon EMR",
         "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-and-iceberg-4-5x-faster-than-open-source-spark-with-amazon-emr/"
-    },
-    {
-        "title": "Apache Spark encryption performance improvement with Amazon EMR 7.9",
-        "link": "https://aws.amazon.com/blogs/big-data/apache-spark-encryption-performance-improvement-with-amazon-emr-7-9/"
     }
 ]
