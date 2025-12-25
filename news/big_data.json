@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplified management of Amazon MSK with natural language using Kiro CLI and Amazon MSK MCP Server",
+        "link": "https://aws.amazon.com/blogs/big-data/simplified-management-of-amazon-msk-with-natural-language-using-kiro-cli-and-amazon-msk-mcp-server/"
+    },
+    {
         "title": "Unifying governance and metadata across Amazon SageMaker Unified Studio and Atlan",
         "link": "https://aws.amazon.com/blogs/big-data/unifying-governance-and-metadata-across-amazon-sagemaker-unified-studio-and-atlan/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SAP data ingestion and replication with AWS Glue zero-ETL",
         "link": "https://aws.amazon.com/blogs/big-data/sap-data-ingestion-and-replication-with-aws-glue-zero-etl/"
-    },
-    {
-        "title": "Run Apache Spark and Iceberg 4.5x faster than open source Spark with Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/run-apache-spark-and-iceberg-4-5x-faster-than-open-source-spark-with-amazon-emr/"
     }
 ]

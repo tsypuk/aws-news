@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS IoT Services Alignment with the European Union Cyber Resilience Act (EU CRA)",
+        "link": "https://aws.amazon.com/blogs/iot/eu-cra/"
+    },
+    {
         "title": "Streamlining Amazon Sidewalk Device Fleet Management with AWS IoT Core\u2019s New Bulk Operations",
         "link": "https://aws.amazon.com/blogs/iot/streamlining-amazon-sidewalk-device-fleet-management-with-aws-iot-cores-new-bulk-operations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlocking the Power of Edge Intelligence with AWS",
         "link": "https://aws.amazon.com/blogs/iot/unlocking-real-time-intelligence-at-the-edge-with-awss-connected-edge-intelligence/"
-    },
-    {
-        "title": "AWS IoT Services alignment with US Cyber Trust Mark",
-        "link": "https://aws.amazon.com/blogs/iot/aws-iot-and-us-cyber-trust-mark/"
     }
 ]

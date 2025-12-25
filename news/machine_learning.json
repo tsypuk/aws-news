@@ -1,5 +1,21 @@
 [
     {
+        "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/"
+    },
+    {
+        "title": "AI agent-driven browser automation for enterprise workflow management",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/"
+    },
+    {
+        "title": "Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/"
+    },
+    {
+        "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML\u2019s LLM- Optimizer",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/"
+    },
+    {
         "title": "Exploring the zero operator access design of Mantle",
         "link": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Track machine learning experiments with MLflow on Amazon SageMaker using Snowflake integration",
         "link": "https://aws.amazon.com/blogs/machine-learning/track-machine-learning-experiments-with-mlflow-on-amazon-sagemaker-using-snowflake-integration/"
-    },
-    {
-        "title": "Governance by design: The essential guide for successful AI scaling",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governance-by-design-the-essential-guide-for-successful-ai-scaling/"
-    },
-    {
-        "title": "How Tata Power CoE built a scalable AI-powered solar panel inspection solution with Amazon SageMaker AI and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-power-coe-built-a-scalable-ai-powered-solar-panel-inspection-solution-with-amazon-sagemaker-ai-and-amazon-bedrock/"
-    },
-    {
-        "title": "Unlocking video understanding with TwelveLabs Marengo on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-understanding-with-twelvelabs-marengo-on-amazon-bedrock/"
-    },
-    {
-        "title": "Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery",
-        "link": "https://aws.amazon.com/blogs/machine-learning/checkpointless-training-on-amazon-sagemaker-hyperpod-production-scale-training-with-faster-fault-recovery/"
     }
 ]
