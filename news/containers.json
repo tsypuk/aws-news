@@ -1,5 +1,21 @@
 [
     {
+        "title": "Streamline your containerized CI/CD with GitLab Runners and Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/streamline-your-containerized-ci-cd-with-gitlab-runners-and-amazon-eks-auto-mode/"
+    },
+    {
+        "title": "Part 2: Observing and scaling MLOps infrastructure on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/part-2-observing-and-scaling-mlops-infrastructure-on-amazon-eks/"
+    },
+    {
+        "title": "Efficient image and model caching strategies for AI/ML and generative AI workloads on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/efficient-image-and-model-caching-strategies-for-ai-ml-and-generative-ai-workloads-on-amazon-eks/"
+    },
+    {
+        "title": "Implementing assurance pipeline for Amazon EKS Platform",
+        "link": "https://aws.amazon.com/blogs/containers/implementing-assurance-pipeline-for-amazon-eks-platform/"
+    },
+    {
         "title": "Enhance Amazon EKS network security posture with DNS and admin network policies",
         "link": "https://aws.amazon.com/blogs/containers/enhance-amazon-eks-network-security-posture-with-dns-and-admin-network-policies/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Automate java performance troubleshooting with AI-Powered thread dump analysis on Amazon ECS and EKS",
         "link": "https://aws.amazon.com/blogs/containers/automate-java-performance-troubleshooting-with-ai-powered-thread-dump-analysis-on-amazon-ecs-and-eks/"
-    },
-    {
-        "title": "Amazon EKS introduces Provisioned Control Plane",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-provisioned-control-plane/"
-    },
-    {
-        "title": "Amazon EKS Blueprints for CDK: Now supporting Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-blueprints-for-cdk-now-supporting-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Enhancing and monitoring network performance when running ML Inference on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/enhancing-and-monitoring-network-performance-when-running-ml-inference-on-amazon-eks/"
-    },
-    {
-        "title": "Data-driven Amazon EKS cost optimization: A practical guide to workload analysis",
-        "link": "https://aws.amazon.com/blogs/containers/data-driven-amazon-eks-cost-optimization-a-practical-guide-to-workload-analysis/"
     }
 ]

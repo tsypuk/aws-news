@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/"
+    },
+    {
+        "title": "Build an AI-powered website assistant with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-website-assistant-with-amazon-bedrock/"
+    },
+    {
         "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Bi-directional streaming for real-time agent interactions now available in Amazon Bedrock AgentCore Runtime",
         "link": "https://aws.amazon.com/blogs/machine-learning/bi-directional-streaming-for-real-time-agent-interactions-now-available-in-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "Tracking and managing assets used in AI development with\u00a0Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/tracking-and-managing-assets-used-in-ai-development-with-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Track machine learning experiments with MLflow on Amazon SageMaker using Snowflake integration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/track-machine-learning-experiments-with-mlflow-on-amazon-sagemaker-using-snowflake-integration/"
     }
 ]
