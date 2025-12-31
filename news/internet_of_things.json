@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS IoT: A 10-year foundation for an intelligent, connected future",
+        "link": "https://aws.amazon.com/blogs/iot/aws-iot-a-10-year-foundation-for-an-intelligent-connected-future/"
+    },
+    {
         "title": "AWS IoT Services Alignment with the European Union Cyber Resilience Act (EU CRA)",
         "link": "https://aws.amazon.com/blogs/iot/eu-cra/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a scalable IoT system for connected air purifiers on AWS IoT: Blueair (a Unilever company)",
         "link": "https://aws.amazon.com/blogs/iot/building-a-scalable-iot-system-for-connected-air-purifiers-on-aws-iot-blueair-a-unilever-company/"
-    },
-    {
-        "title": "Unlocking the Power of Edge Intelligence with AWS",
-        "link": "https://aws.amazon.com/blogs/iot/unlocking-real-time-intelligence-at-the-edge-with-awss-connected-edge-intelligence/"
     }
 ]

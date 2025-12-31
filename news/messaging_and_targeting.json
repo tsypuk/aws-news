@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance email security using VPC endpoints with Amazon SES Manager",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-security-using-vpc-endpoints-with-amazon-ses-manager/"
+    },
+    {
         "title": "Implement Tenants in your Amazon SES environment, Part 3: Implementation guide",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/implement-tenants-in-your-amazon-ses-environment-part-3-implementation-guide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Guide to IP and domain warming and migrating to Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/guide-to-ip-and-domain-warming-and-migrating-to-amazon-ses/"
-    },
-    {
-        "title": "Secure collaboration and file sharing with AWS Wickr",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/secure-collaboration-and-file-sharing-with-aws-wickr/"
     }
 ]
