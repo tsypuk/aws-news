@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implementing consistent DNS Query Logging with Amazon Route 53 Profiles",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-consistent-dns-query-logging-with-amazon-route-53-profiles/"
+    },
+    {
+        "title": "Implementing ingress geo-restriction with AWS to reduce attack surface",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-ingress-geo-restriction-with-aws-to-reduce-attack-surface/"
+    },
+    {
         "title": "Distributing Amazon VPC IP Address Manager costs to member accounts in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/distributing-amazon-vpc-ip-address-manager-costs-to-member-accounts-in-aws-organizations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Amazon VPC Regional NAT Gateway",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/"
-    },
-    {
-        "title": "Introducing AWS Site-to-Site VPN Concentrator for multi-site connectivity",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-concentrator-for-multi-site-connectivity/"
-    },
-    {
-        "title": "Build scalable IPv4 addressing with AWS NAT gateway in regional availability mode, Amazon VPC IPAM policies and Prefix Lists",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/build-scalable-ipv4-addressing-with-aws-nat-gateway-in-regional-availability-mode-amazon-vpc-ipam-policies-and-prefix-lists/"
     }
 ]
