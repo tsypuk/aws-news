@@ -1,5 +1,13 @@
 [
     {
+        "title": "Clinical doppelgangers: Accelerating pediatric insights",
+        "link": "https://aws.amazon.com/blogs/industries/clinical-doppelgangers-accelerating-pediatric-insights/"
+    },
+    {
+        "title": "Breaking the custody chain: How AI is preventing surgical specimen mishandling",
+        "link": "https://aws.amazon.com/blogs/industries/breaking-the-custody-chain-how-ai-is-preventing-surgical-specimen-mishandling/"
+    },
+    {
         "title": "Where energy meets efficiency: Modernize HPC workflows with Leostream on AWS",
         "link": "https://aws.amazon.com/blogs/industries/where-energy-meets-efficiency-modernize-hpc-workflows-with-leostream-on-aws/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Deployment patterns: AWS Network Load Balancer with Amazon EKS for Telco workloads",
         "link": "https://aws.amazon.com/blogs/industries/deployment-patterns-aws-network-load-balancer-with-amazon-eks-for-telco-workloads/"
-    },
-    {
-        "title": "Building Resilient Supply Chains: Multi-Agent AI Architectures for Retail and CPG with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/building-resilient-supply-chains-multi-agent-ai-architectures-for-retail-and-cpg-with-amazon-bedrock/"
-    },
-    {
-        "title": "Simplifying Enterprise Data Governance and Management in Regulated Industry",
-        "link": "https://aws.amazon.com/blogs/industries/simplifying-enterprise-data-governance-and-management-in-regulated-industry/"
     }
 ]
