@@ -1,5 +1,9 @@
 [
     {
+        "title": "How NatWest Simplified Contact Center Analytics with Amazon Connect analytics data lake",
+        "link": "https://aws.amazon.com/blogs/contact-center/how-natwest-simplified-contact-center-analytics-with-amazon-connect-analytics-data-lake/"
+    },
+    {
         "title": "Leading the conversation with conversational AI in Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/leading-the-conversation-with-conversational-ai-in-amazon-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplifying banking self-service at NatWest using Amazon Connect and Amazon Lex",
         "link": "https://aws.amazon.com/blogs/contact-center/simplifying-banking-self-service-at-natwest-using-amazon-connect-and-amazon-lex/"
-    },
-    {
-        "title": "Preserve interaction context across channels with Amazon Connect and Amazon Lex",
-        "link": "https://aws.amazon.com/blogs/contact-center/preserve-interaction-context-across-channels-with-amazon-connect-and-amazon-lex/"
     }
 ]

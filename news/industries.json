@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building healthcare AI agents with open-source AWS HealthLake MCP server",
+        "link": "https://aws.amazon.com/blogs/industries/building-healthcare-ai-agents-with-open-source-aws-healthlake-mcp-server/"
+    },
+    {
         "title": "Clinical doppelgangers: Accelerating pediatric insights",
         "link": "https://aws.amazon.com/blogs/industries/clinical-doppelgangers-accelerating-pediatric-insights/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How OCC and AWS Architected Enterprise-Scale Identity Governance for Critical Financial Infrastructure",
         "link": "https://aws.amazon.com/blogs/industries/how-occ-and-aws-architected-enterprise-scale-identity-governance-for-critical-financial-infrastructure/"
-    },
-    {
-        "title": "Deployment patterns: AWS Network Load Balancer with Amazon EKS for Telco workloads",
-        "link": "https://aws.amazon.com/blogs/industries/deployment-patterns-aws-network-load-balancer-with-amazon-eks-for-telco-workloads/"
     }
 ]
