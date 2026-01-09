@@ -1,5 +1,9 @@
 [
     {
+        "title": ".NET 10 runtime now available in AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/net-10-runtime-now-available-in-aws-lambda/"
+    },
+    {
         "title": "Building zero trust generative AI applications in healthcare with AWS Nitro Enclaves",
         "link": "https://aws.amazon.com/blogs/compute/building-zero-trust-generative-ai-applications-in-healthcare-with-aws-nitro-enclaves/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Lambda now supports Java 25",
         "link": "https://aws.amazon.com/blogs/compute/aws-lambda-now-supports-java-25/"
-    },
-    {
-        "title": "The attendee\u2019s guide to the AWS re:Invent 2025 Compute track",
-        "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-the-aws-reinvent-2025-compute-track/"
     }
 ]

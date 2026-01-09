@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating AWS SDK for Java v1 to v2 Upgrades with AWS Transform",
+        "link": "https://aws.amazon.com/blogs/devops/automating-aws-sdk-for-java-v1-to-v2-upgrades-with-aws-transform/"
+    },
+    {
         "title": "How Kaltura Accelerates CI/CD Using AWS CodeBuild-hosted Runners",
         "link": "https://aws.amazon.com/blogs/devops/how-kaltura-accelerates-ci-cd-using-aws-codebuild-hosted-runners/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "StackSets Deployment Strategies: Balancing Speed, Safety, and Scale to Optimize Deployments for Different Organizational Needs",
         "link": "https://aws.amazon.com/blogs/devops/stacksets-deployment-strategies-balancing-speed-safety-and-scale-to-optimize-deployments-for-different-organizational-needs/"
-    },
-    {
-        "title": "Moeve: Controlling resource deployment at scale with AWS CloudFormation Guard Hooks",
-        "link": "https://aws.amazon.com/blogs/devops/moeve-controlling-resource-deployment-at-scale-with-aws-cloudformation-guard-hooks/"
     }
 ]

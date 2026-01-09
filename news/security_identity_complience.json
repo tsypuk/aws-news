@@ -1,5 +1,9 @@
 [
     {
+        "title": "Real-time malware defense: Leveraging AWS Network Firewall active threat defense",
+        "link": "https://aws.amazon.com/blogs/security/real-time-malware-defense-leveraging-aws-network-firewall-active-threat-defense/"
+    },
+    {
         "title": "Security Hub CSPM automation rule migration to Security Hub",
         "link": "https://aws.amazon.com/blogs/security/security-hub-cspm-automation-rule-migration-to-security-hub/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The Agentic AI Security Scoping Matrix: A framework for securing autonomous AI systems",
         "link": "https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/"
-    },
-    {
-        "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/"
+    },
+    {
+        "title": "Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/"
+    },
+    {
+        "title": "Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI\u2019s testing tool",
+        "link": "https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/"
+    },
+    {
         "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
         "link": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build a multimodal generative AI assistant for root cause diagnosis in predictive maintenance using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-generative-ai-assistant-for-root-cause-diagnosis-in-predictive-maintenance-using-amazon-bedrock/"
-    },
-    {
-        "title": "Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/"
-    },
-    {
-        "title": "Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/"
-    },
-    {
-        "title": "Bi-directional streaming for real-time agent interactions now available in Amazon Bedrock AgentCore Runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bi-directional-streaming-for-real-time-agent-interactions-now-available-in-amazon-bedrock-agentcore-runtime/"
     }
 ]
