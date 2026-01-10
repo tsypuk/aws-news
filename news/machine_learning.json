@@ -1,5 +1,25 @@
 [
     {
+        "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
+        "link": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/"
+    },
+    {
+        "title": "Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "How Beekeeper optimized user personalization with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/"
+    },
+    {
+        "title": "Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/"
+    },
+    {
+        "title": "Architecting TrueLook\u2019s AI-powered construction safety system on Amazon SageMaker\u00a0AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Scaling medical content review at Flo Health using Amazon Bedrock (Part 1)",
         "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-using-amazon-bedrock-part-1/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Accelerating your marketing ideation with generative AI \u2013 Part 1: From idea to generation with the Amazon Nova foundation models",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-1-from-idea-to-generation-with-the-amazon-nova-foundation-models/"
-    },
-    {
-        "title": "Introducing Visa Intelligent Commerce on AWS: Enabling agentic commerce with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-visa-intelligent-commerce-on-aws-enabling-agentic-commerce-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Move Beyond Chain-of-Thought with Chain-of-Draft on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/move-beyond-chain-of-thought-with-chain-of-draft-on-amazon-bedrock/"
-    },
-    {
-        "title": "Deploy Mistral AI\u2019s Voxtral on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-mistral-ais-voxtral-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Enhance document analytics with Strands AI Agents for the GenAI IDP Accelerator",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/"
-    },
-    {
-        "title": "Build a multimodal generative AI assistant for root cause diagnosis in predictive maintenance using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multimodal-generative-ai-assistant-for-root-cause-diagnosis-in-predictive-maintenance-using-amazon-bedrock/"
     }
 ]
