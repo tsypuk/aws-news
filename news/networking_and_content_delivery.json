@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Intelligent Network Operations Agent with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-intelligent-network-operations-agent-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Implementing consistent DNS Query Logging with Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-consistent-dns-query-logging-with-amazon-route-53-profiles/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Cloud WAN Routing Policy: Fine-grained controls for your global network (Part 1)",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-routing-policy-fine-grained-controls-for-your-global-network-part-1/"
-    },
-    {
-        "title": "Introducing Amazon VPC Regional NAT Gateway",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/"
     }
 ]

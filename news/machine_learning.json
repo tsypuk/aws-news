@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
         "link": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/"
     },
@@ -8,7 +12,7 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/"
     },
     {
-        "title": "How Beekeeper optimized user personalization with Amazon Bedrock",
+        "title": "How Beekeeper by LumApps optimized user personalization with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Advancing ADHD diagnosis: How Qbtech built a mobile AI assessment Model Using Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/advancing-adhd-diagnosis-how-qbtech-built-a-mobile-ai-assessment-model-using-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Accelerating your marketing ideation with generative AI \u2013 Part 1: From idea to generation with the Amazon Nova foundation models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-1-from-idea-to-generation-with-the-amazon-nova-foundation-models/"
     }
 ]

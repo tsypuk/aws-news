@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Salesforce migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 EKS clusters",
+        "link": "https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/"
+    },
+    {
         "title": "Architecting conversational observability for cloud applications",
         "link": "https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy LLMs on Amazon EKS using vLLM Deep Learning Containers",
         "link": "https://aws.amazon.com/blogs/architecture/deploy-llms-on-amazon-eks-using-vllm-deep-learning-containers/"
-    },
-    {
-        "title": "Maximizing Business Value Through Strategic Cloud Optimization",
-        "link": "https://aws.amazon.com/blogs/architecture/maximizing-business-value-through-strategic-cloud-optimization/"
     }
 ]

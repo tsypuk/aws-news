@@ -1,5 +1,13 @@
 [
     {
+        "title": "Navigating architectural choices for a lakehouse using Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/navigating-architectural-choices-for-a-lakehouse-using-amazon-sagemaker/"
+    },
+    {
+        "title": "Access Databricks Unity Catalog data using catalog federation in the AWS Glue Data Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/access-databricks-unity-catalog-data-using-catalog-federation-in-the-aws-glue-data-catalog/"
+    },
+    {
         "title": "Use Amazon SageMaker custom tags for project resource governance and cost tracking",
         "link": "https://aws.amazon.com/blogs/big-data/use-amazon-sagemaker-custom-tags-for-project-resource-governance-and-cost-tracking/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate Apache Hive read and write on Amazon EMR using enhanced S3A",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-apache-hive-read-and-write-on-amazon-emr-using-enhanced-s3a/"
-    },
-    {
-        "title": "Amazon EMR HBase on Amazon S3 transitioning to EMR S3A with comparable EMRFS performance",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-hbase-on-amazon-s3-transitioning-to-emr-s3a-with-comparable-emrfs-performance/"
-    },
-    {
-        "title": "How Socure achieved 50% cost reduction by migrating from self-managed Spark to Amazon EMR Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/how-socure-achieved-50-cost-reduction-by-migrating-from-self-managed-spark-to-amazon-emr-serverless/"
     }
 ]

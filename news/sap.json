@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Multi-Channel Fulfillment and Buy with Prime Accelerators for SAP S/4HANA now available",
+        "link": "https://aws.amazon.com/blogs/awsforsap/amazon-multi-channel-fulfillment-and-buy-with-prime-accelerators-for-sap-s-4hana-now-available/"
+    },
+    {
         "title": "Maximize the value of your SAP data using with Amazon Q Business and Amazon Bedrock Generative AI \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/awsforsap/maximize-the-value-of-your-sap-data-using-with-amazon-q-business-and-amazon-bedrock-generative-ai-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure SAP HANA Cloud connectivity using AWS PrivateLink",
         "link": "https://aws.amazon.com/blogs/awsforsap/secure-sap-hanacloud-connectivity-using-aws-privatelink/"
-    },
-    {
-        "title": "Automating SAP HANA DB HA Patch using SSM and nZDT",
-        "link": "https://aws.amazon.com/blogs/awsforsap/automating-sap-hana-db-ha-patch-using-ssm-and-nzdt/"
     }
 ]
