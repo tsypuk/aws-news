@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS automatic minor version upgrades",
+        "link": "https://aws.amazon.com/blogs/database/aws-organizations-now-supports-upgrade-rollout-policy-for-amazon-aurora-and-amazon-rds-automatic-minor-version-upgrades/"
+    },
+    {
+        "title": "Build durable AI agents with LangGraph and Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/build-durable-ai-agents-with-langgraph-and-amazon-dynamodb/"
+    },
+    {
+        "title": "Best practices for creating and reorganizing data with additional storage volumes in Amazon RDS for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/best-practices-for-creating-and-reorganizing-data-with-additional-storage-volumes-in-amazon-rds-for-oracle/"
+    },
+    {
         "title": "Provision Oracle Database@AWS stack using AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/database/provision-oracle-databaseaws-stack-using-aws-cloudformation/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance",
         "link": "https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/"
-    },
-    {
-        "title": "How Letta builds production-ready AI agents with Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/how-letta-builds-production-ready-ai-agents-with-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Lower cost and latency for AI using Amazon ElastiCache as a semantic cache with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/lower-cost-and-latency-for-ai-using-amazon-elasticache-as-a-semantic-cache-with-amazon-bedrock/"
-    },
-    {
-        "title": "Build persistent memory for agentic AI applications with Mem0 Open Source, Amazon ElastiCache for Valkey, and Amazon Neptune Analytics",
-        "link": "https://aws.amazon.com/blogs/database/build-persistent-memory-for-agentic-ai-applications-with-mem0-open-source-amazon-elasticache-for-valkey-and-amazon-neptune-analytics/"
     }
 ]

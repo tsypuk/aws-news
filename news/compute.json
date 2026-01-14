@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing storage performance for Amazon EKS on AWS Outposts",
+        "link": "https://aws.amazon.com/blogs/compute/optimizing-storage-performance-for-amazon-eks-on-aws-outposts/"
+    },
+    {
         "title": ".NET 10 runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/net-10-runtime-now-available-in-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Handle unpredictable processing times with operational consistency when integrating asynchronous AWS services with an AWS Step Functions state machine",
         "link": "https://aws.amazon.com/blogs/compute/handle-unpredictable-processing-times-with-operational-consistency-when-integrating-asynchronous-aws-services-with-an-aws-step-functions-state-machine/"
-    },
-    {
-        "title": "AWS Lambda now supports Java 25",
-        "link": "https://aws.amazon.com/blogs/compute/aws-lambda-now-supports-java-25/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling remote macOS development with Amazon EC2 Mac and Amazon DCV",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/enabling-remote-macos-development-with-amazon-ec2-mac-and-amazon-dcv/"
+    },
+    {
         "title": "AWS re:Invent 2025: Transform your digital workplace with Amazon WorkSpaces",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-reinvent-2025-transform-your-digital-workplace-with-amazon-workspaces/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the Amazon DCV Access Console as Open Source",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/announcing-the-amazon-dcv-access-console-as-open-source/"
-    },
-    {
-        "title": "Dynamically delivering applications with Omnissa App Volumes to Amazon WorkSpaces Family",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/dynamically-delivering-applications-with-omnissa-app-volumes-to-amazon-workspaces-family-and-amazon-appstream-2-0/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize Nextflow Workflows on AWS Batch with Mountpoint for Amazon S3",
+        "link": "https://aws.amazon.com/blogs/hpc/optimize-nextflow-workflows-on-aws-batch-with-mountpoint-for-amazon-s3/"
+    },
+    {
         "title": "Accelerating CFD development from years to weeks with agentic AI and AWS",
         "link": "https://aws.amazon.com/blogs/hpc/accelerating-cfd-development-from-years-to-weeks-with-agentic-ai-and-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerating Aerospace Innovation: High Performance Computing (HPC) on Amazon Web Services (AWS)",
         "link": "https://aws.amazon.com/blogs/hpc/accelerating-aerospace-innovation-high-performance-computing-hpc-on-amazon-web-services-aws/"
-    },
-    {
-        "title": "Enabling Rapid Genomic and Multiomic Data Analysis with Illumina DRAGEN\u2122 v4.4 on Amazon EC2 F2 Instances",
-        "link": "https://aws.amazon.com/blogs/hpc/enabling-rapid-genomic-and-multiomic-data-analysis-with-illumina-dragen-v4-4-on-amazon-ec2-f2-instances/"
     }
 ]
