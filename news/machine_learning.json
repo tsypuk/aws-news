@@ -1,5 +1,13 @@
 [
     {
+        "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/"
+    },
+    {
+        "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/"
+    },
+    {
         "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
         "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS AI League: Model customization and agentic showdown",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/"
-    },
-    {
-        "title": "Accelerate Enterprise AI Development using Weights & Biases and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-development-using-weights-biases-weave-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How dLocal automated compliance reviews using Amazon Quick Automate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-dlocal-automated-compliance-reviews-using-amazon-quick-automate/"
     }
 ]

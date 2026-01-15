@@ -1,5 +1,9 @@
 [
     {
+        "title": "Effectively managing storage in Amazon RDS for Oracle Databases",
+        "link": "https://aws.amazon.com/blogs/database/effectively-managing-storage-in-amazon-rds-for-oracle-databases/"
+    },
+    {
         "title": "AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS automatic minor version upgrades",
         "link": "https://aws.amazon.com/blogs/database/aws-organizations-now-supports-upgrade-rollout-policy-for-amazon-aurora-and-amazon-rds-automatic-minor-version-upgrades/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Exploring Optimize CPU feature on Amazon RDS for SQL Server",
         "link": "https://aws.amazon.com/blogs/database/exploring-optimize-cpu-feature-on-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance",
-        "link": "https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/"
     }
 ]

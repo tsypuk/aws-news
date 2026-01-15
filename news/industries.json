@@ -1,5 +1,17 @@
 [
     {
+        "title": "Financial institutions advance mission-critical workloads and Agentic AI at re:Invent 2025",
+        "link": "https://aws.amazon.com/blogs/industries/financial-institutions-advance-mission-critical-workloads-and-agentic-ai-at-reinvent-2025/"
+    },
+    {
+        "title": "Beyond webhooks: Event-driven payment architectures with Amazon EventBridge",
+        "link": "https://aws.amazon.com/blogs/industries/beyond-webhooks-event-driven-payment-architectures-with-amazon-eventbridge/"
+    },
+    {
+        "title": "Accelerate Automotive UI Development with Kiro, Squish, and Virtual Targets on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/accelerate-automotive-ui-development-with-kiro-squish-and-virtual-targets-on-aws/"
+    },
+    {
         "title": "Enhancing Bank Performance with AI-Powered Competitive Intelligence on AWS",
         "link": "https://aws.amazon.com/blogs/industries/enhancing-bank-performance-with-ai-powered-competitive-intelligence-on-aws/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Clinical doppelgangers: Accelerating pediatric insights",
         "link": "https://aws.amazon.com/blogs/industries/clinical-doppelgangers-accelerating-pediatric-insights/"
-    },
-    {
-        "title": "Breaking the custody chain: How AI is preventing surgical specimen mishandling",
-        "link": "https://aws.amazon.com/blogs/industries/breaking-the-custody-chain-how-ai-is-preventing-surgical-specimen-mishandling/"
-    },
-    {
-        "title": "Where energy meets efficiency: Modernize HPC workflows with Leostream on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/where-energy-meets-efficiency-modernize-hpc-workflows-with-leostream-on-aws/"
-    },
-    {
-        "title": "Building scalable DERMS solutions for DER aggregators on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/building-scalable-derms-solutions-for-der-aggregators-on-aws/"
     }
 ]

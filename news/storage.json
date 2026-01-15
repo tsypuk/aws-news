@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS Backup 2025 year in review: advancing recovery resilience",
+        "link": "https://aws.amazon.com/blogs/storage/aws-backup-2025-year-in-review-advancing-recovery-resilience/"
+    },
+    {
+        "title": "Real-time fleet tracking using AWS IoT Core, Amazon S3 Tables, and Amazon Quick Sight",
+        "link": "https://aws.amazon.com/blogs/storage/real-time-fleet-tracking-using-aws-iot-core-amazon-s3-tables-and-amazon-quick-sight/"
+    },
+    {
         "title": "Improve resilience of low latency applications with Amazon EBS and AWS FIS",
         "link": "https://aws.amazon.com/blogs/storage/improve-resilience-of-low-latency-applications-with-amazon-ebs-and-aws-fis/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Test and build application resilience using Amazon EBS latency injection",
         "link": "https://aws.amazon.com/blogs/storage/test-and-build-application-resilience-using-amazon-ebs-latency-injection/"
-    },
-    {
-        "title": "Optimizing recommendations and analytics using Amazon DynamoDB and Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/using-amazon-dynamodb-and-amazon-s3-for-optimized-recommendations-and-analytics/"
-    },
-    {
-        "title": "Cross-account Amazon S3 bulk transfers with enhanced AWS KMS support",
-        "link": "https://aws.amazon.com/blogs/storage/cross-account-amazon-s3-bulk-transfers-with-enhanced-aws-kms-support/"
     }
 ]
