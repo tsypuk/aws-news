@@ -1,5 +1,9 @@
 [
     {
+        "title": "From AI agent prototype to product: Lessons from building AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/"
+    },
+    {
         "title": "Automating AWS SDK for Java v1 to v2 Upgrades with AWS Transform",
         "link": "https://aws.amazon.com/blogs/devops/automating-aws-sdk-for-java-v1-to-v2-upgrades-with-aws-transform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Boosting Unit Test Automation at Audible with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/devops/boosting-unit-test-automation-at-audible-with-amazon-q-developer/"
-    },
-    {
-        "title": "StackSets Deployment Strategies: Balancing Speed, Safety, and Scale to Optimize Deployments for Different Organizational Needs",
-        "link": "https://aws.amazon.com/blogs/devops/stacksets-deployment-strategies-balancing-speed-safety-and-scale-to-optimize-deployments-for-different-organizational-needs/"
     }
 ]

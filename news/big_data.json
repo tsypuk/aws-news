@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using Amazon EMR DeltaStreamer to stream data to multiple Apache Hudi tables",
+        "link": "https://aws.amazon.com/blogs/big-data/using-amazon-emr-deltastreamer-to-stream-data-to-multiple-apache-hudi-tables/"
+    },
+    {
+        "title": "Unlock granular resource control with queue-based QMR in Amazon Redshift Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/unlock-granular-resource-control-with-queue-based-qmr-in-amazon-redshift-serverless/"
+    },
+    {
         "title": "How Slack achieved operational excellence for Spark on Amazon EMR using generative AI",
         "link": "https://aws.amazon.com/blogs/big-data/how-slack-achieved-operational-excellence-for-spark-on-amazon-emr-using-generative-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "IPv6 addressing with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/ipv6-addressing-with-amazon-redshift/"
-    },
-    {
-        "title": "Reference guide for building a self-service analytics solution with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/reference-guide-for-building-a-self-service-analytics-solution-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Introducing the Apache Spark troubleshooting agent for Amazon EMR and AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-apache-spark-troubleshooting-agent-for-amazon-emr-and-aws-glue/"
     }
 ]

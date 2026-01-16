@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/"
+    },
+    {
+        "title": "Opening the AWS European Sovereign Cloud",
+        "link": "https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/"
+    },
+    {
         "title": "AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Bedrock adds 18 fully managed open weight models, including the new Mistral Large 3 and Ministral 3 models",
         "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-adds-fully-managed-open-weight-models/"
-    },
-    {
-        "title": "Introducing Amazon EC2 X8aedz instances powered by 5th Gen AMD EPYC processors for memory-intensive workloads",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/"
-    },
-    {
-        "title": "AWS DevOps Agent helps you accelerate incident response and improve system reliability (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-helps-you-accelerate-incident-response-and-improve-system-reliability-preview/"
     }
 ]

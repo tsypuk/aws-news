@@ -1,5 +1,21 @@
 [
     {
+        "title": "How the Amazon AMET Payments team accelerates test case generation with Strands Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/"
+    },
+    {
+        "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/"
+    },
+    {
+        "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/"
+    },
+    {
+        "title": "Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/"
+    },
+    {
         "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "AI agent-driven browser automation for enterprise workflow management",
         "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/"
-    },
-    {
-        "title": "Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/"
-    },
-    {
-        "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML\u2019s LLM- Optimizer",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/"
-    },
-    {
-        "title": "Exploring the zero operator access design of Mantle",
-        "link": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/"
-    },
-    {
-        "title": "AWS AI League: Model customization and agentic showdown",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/"
     }
 ]

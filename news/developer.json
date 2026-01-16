@@ -1,5 +1,9 @@
 [
     {
+        "title": "CLI v1 Maintenance Mode Announcement",
+        "link": "https://aws.amazon.com/blogs/developer/cli-v1-maintenance-mode-announcement/"
+    },
+    {
         "title": "AWS SDK for JavaScript aligns with Node.js release schedule",
         "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-javascript-aligns-with-node-js-release-schedule/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Updating AWS SDK defaults \u2013 AWS STS service endpoint and Retry Strategy",
         "link": "https://aws.amazon.com/blogs/developer/updating-aws-sdk-defaults-aws-sts-service-endpoint-and-retry-strategy/"
-    },
-    {
-        "title": "Introducing Automatic Request Batching for Amazon SQS in the AWS Java SDK 2.x",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-automatic-request-batching-for-amazon-sqs-in-the-aws-java-sdk-2-x/"
     }
 ]
