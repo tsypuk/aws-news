@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implementing data governance on AWS: Automation, tagging, and lifecycle strategy \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/security/implementing-data-governance-on-aws-automation-tagging-and-lifecycle-strategy-part-2/"
+    },
+    {
+        "title": "Implementing data governance on AWS: Automation, tagging, and lifecycle strategy \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/security/implementing-data-governance-on-aws-automation-tagging-and-lifecycle-strategy-part-1/"
+    },
+    {
         "title": "Streamline security response at scale with AWS Security Hub automation",
         "link": "https://aws.amazon.com/blogs/security/streamline-security-response-at-scale-with-aws-security-hub-automation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to use the Secrets Store CSI Driver provider Amazon EKS add-on with Secrets Manager",
         "link": "https://aws.amazon.com/blogs/security/how-to-use-the-secrets-store-csi-driver-provider-amazon-eks-add-on-with-secrets-manager/"
-    },
-    {
-        "title": "AWS Secrets Manager launches Managed External Secrets for Third-Party Credentials",
-        "link": "https://aws.amazon.com/blogs/security/aws-secrets-manager-launches-managed-external-secrets-for-third-party-credentials/"
-    },
-    {
-        "title": "Introducing guidelines for network scanning",
-        "link": "https://aws.amazon.com/blogs/security/introducing-guidelines-for-network-scanning/"
     }
 ]

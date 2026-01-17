@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify network segmentation for AWS Outposts racks with multiple local gateway routing domains",
+        "link": "https://aws.amazon.com/blogs/compute/simplify-network-segmentation-for-aws-outposts-racks-with-multiple-local-gateway-routing-domains/"
+    },
+    {
         "title": "Optimizing storage performance for Amazon EKS on AWS Outposts",
         "link": "https://aws.amazon.com/blogs/compute/optimizing-storage-performance-for-amazon-eks-on-aws-outposts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building serverless applications with Rust on AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/"
-    },
-    {
-        "title": "Handle unpredictable processing times with operational consistency when integrating asynchronous AWS services with an AWS Step Functions state machine",
-        "link": "https://aws.amazon.com/blogs/compute/handle-unpredictable-processing-times-with-operational-consistency-when-integrating-asynchronous-aws-services-with-an-aws-step-functions-state-machine/"
     }
 ]
