@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/"
+    },
+    {
         "title": "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon S3 Vectors now generally available with increased scale and performance",
         "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/"
-    },
-    {
-        "title": "Amazon Bedrock adds 18 fully managed open weight models, including the new Mistral Large 3 and Ministral 3 models",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-adds-fully-managed-open-weight-models/"
     }
 ]
