@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/"
+    },
+    {
         "title": "AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon OpenSearch Service improves vector database performance and cost with GPU acceleration and auto-optimization",
         "link": "https://aws.amazon.com/blogs/aws/amazon-opensearch-service-improves-vector-database-performance-and-cost-with-gpu-acceleration-and-auto-optimization/"
-    },
-    {
-        "title": "Amazon S3 Vectors now generally available with increased scale and performance",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/"
     }
 ]

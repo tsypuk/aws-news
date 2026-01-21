@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using generative AI for proactive IaC code generation that\u2019s compliant with service control policies using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/using-generative-ai-for-proactive-iac-code-generation-thats-compliant-with-service-control-policies-using-amazon-bedrock/"
+    },
+    {
         "title": "Automate external system updates for AWS Control Tower account creation",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/automate-external-system-updates-for-aws-control-tower-account-creation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "IAM Roles Anywhere integration guide for installing AWS Partner CRM Connector",
         "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/iam-roles-anywhere-integration-guide-for-installing-aws-partner-crm-connector/"
-    },
-    {
-        "title": "Best practices for accelerating development with serverless blueprints",
-        "link": "https://aws.amazon.com/blogs/infrastructure-and-automation/best-practices-for-accelerating-development-with-serverless-blueprints/"
     }
 ]

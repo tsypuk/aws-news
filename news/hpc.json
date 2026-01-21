@@ -1,5 +1,13 @@
 [
     {
+        "title": "Evaluating next\u2011generation cloud compute for large\u2011scale genomic processing",
+        "link": "https://aws.amazon.com/blogs/hpc/evaluating-next-generation-cloud-compute-for-large-scale-genomic-processing/"
+    },
+    {
+        "title": "How Adobe Search, Discovery, and Content (SDC) Empowers Large Scale Image (AI/ML) Inferencing Utilizing AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/how-adobe-search-discovery-and-content-sdc-empowers-large-scale-image-ai-ml-inferencing-utilizing-aws-batch/"
+    },
+    {
         "title": "Optimize Nextflow Workflows on AWS Batch with Mountpoint for Amazon S3",
         "link": "https://aws.amazon.com/blogs/hpc/optimize-nextflow-workflows-on-aws-batch-with-mountpoint-for-amazon-s3/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Announcing Capacity Blocks support for AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/announcing-capacity-blocks-support-for-aws-parallel-computing-service/"
-    },
-    {
-        "title": "Introducing \u201cdefault\u201d instance categories for AWS Batch",
-        "link": "https://aws.amazon.com/blogs/hpc/introducing-default-instance-categories-for-aws-batch/"
-    },
-    {
-        "title": "Accelerating Aerospace Innovation: High Performance Computing (HPC) on Amazon Web Services (AWS)",
-        "link": "https://aws.amazon.com/blogs/hpc/accelerating-aerospace-innovation-high-performance-computing-hpc-on-amazon-web-services-aws/"
     }
 ]

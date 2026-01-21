@@ -1,5 +1,9 @@
 [
     {
+        "title": "Fall 2025 SOC 1, 2, and 3 reports are now available with 185 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/fall-2025-soc-1-2-and-3-reports-are-now-available-with-185-services-in-scope/"
+    },
+    {
         "title": "Implementing data governance on AWS: Automation, tagging, and lifecycle strategy \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/security/implementing-data-governance-on-aws-automation-tagging-and-lifecycle-strategy-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Private Certificate Authority now supports partitioned CRLs",
         "link": "https://aws.amazon.com/blogs/security/aws-private-certificate-authority-now-supports-partitioned-crls/"
-    },
-    {
-        "title": "How to use the Secrets Store CSI Driver provider Amazon EKS add-on with Secrets Manager",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-secrets-store-csi-driver-provider-amazon-eks-add-on-with-secrets-manager/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing multimodal retrieval for Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-multimodal-retrieval-for-amazon-bedrock-knowledge-bases/"
+    },
+    {
         "title": "Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale",
         "link": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails",
         "link": "https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/"
-    },
-    {
-        "title": "Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI\u2019s testing tool",
-        "link": "https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/"
     }
 ]

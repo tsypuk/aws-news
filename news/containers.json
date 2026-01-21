@@ -1,5 +1,9 @@
 [
     {
+        "title": "End-to-end recovery from AZ impairments in Amazon EKS using EKS Zonal shift and Istio",
+        "link": "https://aws.amazon.com/blogs/containers/end-to-end-recovery-from-az-impairments-in-amazon-eks-using-eks-zonal-shift-and-istio/"
+    },
+    {
         "title": "Streamline your containerized CI/CD with GitLab Runners and Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/streamline-your-containerized-ci-cd-with-gitlab-runners-and-amazon-eks-auto-mode/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon EKS introduces enhanced network policy capabilities",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-enhanced-network-policy-capabilities/"
-    },
-    {
-        "title": "Automate java performance troubleshooting with AI-Powered thread dump analysis on Amazon ECS and EKS",
-        "link": "https://aws.amazon.com/blogs/containers/automate-java-performance-troubleshooting-with-ai-powered-thread-dump-analysis-on-amazon-ecs-and-eks/"
     }
 ]
