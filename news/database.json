@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate the export of Amazon RDS for MySQL or Amazon Aurora MySQL audit logs to Amazon S3 with batching or near real-time processing",
+        "link": "https://aws.amazon.com/blogs/database/automate-the-export-of-amazon-rds-for-mysql-or-amazon-aurora-mysql-audit-logs-to-amazon-s3-with-batching-or-near-real-time-processing/"
+    },
+    {
         "title": "Control database name visibility in Amazon RDS for SQL Server instances",
         "link": "https://aws.amazon.com/blogs/database/control-database-name-visibility-in-amazon-rds-for-sql-server-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build and explore Knowledge Graphs faster with Amazon Neptune using Graph.Build and G.V() \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/database/build-and-explore-knowledge-graphs-faster-with-amazon-neptune-using-graph-build-and-g-v-part-1/"
-    },
-    {
-        "title": "Introducing Amazon Aurora powers for Kiro",
-        "link": "https://aws.amazon.com/blogs/database/introducing-amazon-aurora-powers-for-kiro/"
     }
 ]

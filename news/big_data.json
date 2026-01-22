@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline large binary object migrations: A Kafka-based solution for Oracle to Amazon Aurora PostgreSQL and Amazon S3",
+        "link": "https://aws.amazon.com/blogs/big-data/streamline-large-binary-object-migrations-a-kafka-based-solution-for-oracle-to-amazon-aurora-postgresql-and-amazon-s3/"
+    },
+    {
         "title": "How Bazaarvoice modernized their Apache Kafka infrastructure with Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/how-bazaarvoice-modernized-their-apache-kafka-infrastructure-with-amazon-msk/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Create and update Apache Iceberg tables with partitions in the AWS Glue Data Catalog using the AWS SDK and AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/big-data/create-and-update-apache-iceberg-tables-with-partitions-in-the-aws-glue-data-catalog-using-the-aws-sdk-and-aws-cloudformation/"
-    },
-    {
-        "title": "Power data ingestion into Splunk using Amazon Data Firehose",
-        "link": "https://aws.amazon.com/blogs/big-data/power-data-ingestion-into-splunk-using-amazon-data-firehose/"
     }
 ]
