@@ -1,5 +1,25 @@
 [
     {
+        "title": "Managing Amazon OpenSearch UI infrastructure as code with AWS CDK",
+        "link": "https://aws.amazon.com/blogs/big-data/managing-amazon-opensearch-ui-infrastructure-as-code-with-aws-cdk/"
+    },
+    {
+        "title": "Modernize your data warehouse by migrating Oracle Database to Amazon Redshift with Oracle GoldenGate",
+        "link": "https://aws.amazon.com/blogs/big-data/modernize-your-data-warehouse-by-migrating-oracle-database-to-amazon-redshift-with-oracle-goldengate/"
+    },
+    {
+        "title": "On-demand and scheduled scaling of Amazon MSK Express based clusters",
+        "link": "https://aws.amazon.com/blogs/big-data/on-demand-and-scheduled-scaling-of-amazon-msk-express-based-clusters/"
+    },
+    {
+        "title": "Power up your analytics with Amazon SageMaker Unified Studio integration with Tableau, Power BI, and more",
+        "link": "https://aws.amazon.com/blogs/big-data/power-up-your-analytics-with-amazon-sagemaker-unified-studio-integration-with-tableau-power-bi-and-more/"
+    },
+    {
+        "title": "Accelerate context-aware data analysis and ML workflows with Amazon SageMaker Data Agent",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-context-aware-data-analysis-and-ml-workflows-with-amazon-sagemaker-data-agent/"
+    },
+    {
         "title": "Streamline large binary object migrations: A Kafka-based solution for Oracle to Amazon Aurora PostgreSQL and Amazon S3",
         "link": "https://aws.amazon.com/blogs/big-data/streamline-large-binary-object-migrations-a-kafka-based-solution-for-oracle-to-amazon-aurora-postgresql-and-amazon-s3/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Simplify multi-warehouse data governance with Amazon Redshift federated permissions",
         "link": "https://aws.amazon.com/blogs/big-data/simplify-multi-warehouse-data-governance-with-amazon-redshift-federated-permissions/"
-    },
-    {
-        "title": "Simplified management of Amazon MSK with natural language using Kiro CLI and Amazon MSK MCP Server",
-        "link": "https://aws.amazon.com/blogs/big-data/simplified-management-of-amazon-msk-with-natural-language-using-kiro-cli-and-amazon-msk-mcp-server/"
-    },
-    {
-        "title": "Unifying governance and metadata across Amazon SageMaker Unified Studio and Atlan",
-        "link": "https://aws.amazon.com/blogs/big-data/unifying-governance-and-metadata-across-amazon-sagemaker-unified-studio-and-atlan/"
-    },
-    {
-        "title": "Modernize Apache Spark workflows using Spark Connect on Amazon EMR on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-apache-spark-workflows-using-spark-connect-on-amazon-emr-on-amazon-ec2/"
-    },
-    {
-        "title": "How Taxbit achieved cost savings and faster processing times using Amazon S3 Tables",
-        "link": "https://aws.amazon.com/blogs/big-data/how-taxbit-achieved-cost-savings-and-faster-processing-times-using-amazon-s3-tables/"
-    },
-    {
-        "title": "Create and update Apache Iceberg tables with partitions in the AWS Glue Data Catalog using the AWS SDK and AWS CloudFormation",
-        "link": "https://aws.amazon.com/blogs/big-data/create-and-update-apache-iceberg-tables-with-partitions-in-the-aws-glue-data-catalog-using-the-aws-sdk-and-aws-cloudformation/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplify Kubernetes cluster management using ACK, kro and Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/simplify-kubernetes-cluster-management-using-ack-kro-and-amazon-eks/"
+    },
+    {
+        "title": "Monitor Amazon ECS Events with Amazon EventBridge Filtering",
+        "link": "https://aws.amazon.com/blogs/containers/monitor-amazon-ecs-events-with-amazon-eventbridge-filtering/"
+    },
+    {
         "title": "End-to-end recovery from AZ impairments in Amazon EKS using EKS Zonal shift and Istio",
         "link": "https://aws.amazon.com/blogs/containers/end-to-end-recovery-from-az-impairments-in-amazon-eks-using-eks-zonal-shift-and-istio/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Deep dive: Streamlining GitOps with Amazon EKS capability for Argo CD",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-streamlining-gitops-with-amazon-eks-capability-for-argo-cd/"
-    },
-    {
-        "title": "Expanding container security and choice with Amazon ECR Public",
-        "link": "https://aws.amazon.com/blogs/containers/expanding-container-security-and-choice-with-amazon-ecr-public/"
-    },
-    {
-        "title": "Amazon EKS introduces enhanced network policy capabilities",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-introduces-enhanced-network-policy-capabilities/"
     }
 ]

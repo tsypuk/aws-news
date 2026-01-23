@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Tradeshift bosted operational efficiency and scalability with Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/how-tradeshift-bosted-operational-efficiency-and-scalability-with-amazon-rds/"
+    },
+    {
+        "title": "MaiCoin case study: Blue/green upgrade from Amazon ElastiCache Redis to Valkey",
+        "link": "https://aws.amazon.com/blogs/database/maicoin-case-study-blue-green-upgrade-from-amazon-elasticache-redis-to-valkey/"
+    },
+    {
         "title": "Automate the export of Amazon RDS for MySQL or Amazon Aurora MySQL audit logs to Amazon S3 with batching or near real-time processing",
         "link": "https://aws.amazon.com/blogs/database/automate-the-export-of-amazon-rds-for-mysql-or-amazon-aurora-mysql-audit-logs-to-amazon-s3-with-batching-or-near-real-time-processing/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Configure additional storage volumes with Amazon RDS for SQL Server",
         "link": "https://aws.amazon.com/blogs/database/configure-additional-storage-volumes-with-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Build and explore Knowledge Graphs faster with Amazon Neptune using Graph.Build and G.V() \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/database/build-and-explore-knowledge-graphs-faster-with-amazon-neptune-using-graph-build-and-g-v-part-2/"
-    },
-    {
-        "title": "Build and explore Knowledge Graphs faster with Amazon Neptune using Graph.Build and G.V() \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/database/build-and-explore-knowledge-graphs-faster-with-amazon-neptune-using-graph-build-and-g-v-part-1/"
     }
 ]

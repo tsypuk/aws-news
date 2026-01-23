@@ -1,5 +1,13 @@
 [
     {
+        "title": "How PDI built an enterprise-grade RAG system for AI applications with AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/"
+    },
+    {
+        "title": "How CLICKFORCE accelerates data-driven advertising with Amazon Bedrock Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-clickforce-accelerates-data-driven-advertising-with-amazon-bedrock-agents/"
+    },
+    {
         "title": "How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
         "link": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/"
-    },
-    {
-        "title": "Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Beekeeper by LumApps optimized user personalization with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/"
     }
 ]
