@@ -1,5 +1,9 @@
 [
     {
+        "title": "Maximize Amazon EKS efficiency: How Auto Mode, Graviton, and Spot work together",
+        "link": "https://aws.amazon.com/blogs/containers/maximize-amazon-eks-efficiency-how-auto-mode-graviton-and-spot-work-together/"
+    },
+    {
         "title": "Simplify Kubernetes cluster management using ACK, kro and Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/simplify-kubernetes-cluster-management-using-ack-kro-and-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Proactive Amazon EKS monitoring with Amazon CloudWatch Operator and AWS Control Plane metrics",
         "link": "https://aws.amazon.com/blogs/containers/proactive-amazon-eks-monitoring-with-amazon-cloudwatch-operator-and-aws-control-plane-metrics/"
-    },
-    {
-        "title": "Deep dive: Streamlining GitOps with Amazon EKS capability for Argo CD",
-        "link": "https://aws.amazon.com/blogs/containers/deep-dive-streamlining-gitops-with-amazon-eks-capability-for-argo-cd/"
     }
 ]

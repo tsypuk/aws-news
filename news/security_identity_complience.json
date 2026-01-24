@@ -1,5 +1,21 @@
 [
     {
+        "title": "Updated PCI PIN compliance package for AWS Payment Cryptography now available",
+        "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-payment-cryptography-now-available/"
+    },
+    {
+        "title": "AWS achieves 2025 C5 Type 2 attestation report with 183 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-2025-c5-type-2-attestation-report-with-183-services-in-scope/"
+    },
+    {
+        "title": "AWS renews the GSMA SAS-SM certification for two AWS Regions and expands to cover four new Regions",
+        "link": "https://aws.amazon.com/blogs/security/aws-renews-the-gsma-sas-sm-certification-for-two-aws-regions-and-expands-to-cover-four-new-regions/"
+    },
+    {
+        "title": "Exploring common centralized and decentralized approaches to secrets management",
+        "link": "https://aws.amazon.com/blogs/security/exploring-common-centralized-and-decentralized-approaches-to-secrets-management/"
+    },
+    {
         "title": "Fall 2025 SOC 1, 2, and 3 reports are now available with 185 services in scope",
         "link": "https://aws.amazon.com/blogs/security/fall-2025-soc-1-2-and-3-reports-are-now-available-with-185-services-in-scope/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How to customize your response to layer 7 DDoS attacks using AWS WAF Anti-DDoS AMR",
         "link": "https://aws.amazon.com/blogs/security/how-to-customize-your-response-to-layer-7-ddos-attacks-using-aws-waf-anti-ddos-amr/"
-    },
-    {
-        "title": "IAM Policy Autopilot: An open-source tool that brings IAM policy expertise to builders and AI coding assistants",
-        "link": "https://aws.amazon.com/blogs/security/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/"
-    },
-    {
-        "title": "AWS launches AI-enhanced security innovations at re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/security/aws-launches-ai-enhanced-security-innovations-at-reinvent-2025/"
-    },
-    {
-        "title": "China-nexus cyber threat groups rapidly exploit React2Shell vulnerability (CVE-2025-55182)",
-        "link": "https://aws.amazon.com/blogs/security/china-nexus-cyber-threat-groups-rapidly-exploit-react2shell-vulnerability-cve-2025-55182/"
-    },
-    {
-        "title": "AWS Private Certificate Authority now supports partitioned CRLs",
-        "link": "https://aws.amazon.com/blogs/security/aws-private-certificate-authority-now-supports-partitioned-crls/"
     }
 ]

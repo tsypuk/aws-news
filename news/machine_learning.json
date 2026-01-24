@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/"
+    },
+    {
+        "title": "How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/"
+    },
+    {
         "title": "How PDI built an enterprise-grade RAG system for AI applications with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
         "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/"
-    },
-    {
-        "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
-        "link": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/"
     }
 ]
