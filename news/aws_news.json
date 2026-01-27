@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/"
+    },
+    {
         "title": "Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs",
         "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New and enhanced AWS Support plans add AI capabilities to expert guidance",
         "link": "https://aws.amazon.com/blogs/aws/new-and-enhanced-aws-support-plans-add-ai-capabilities-to-expert-guidance/"
-    },
-    {
-        "title": "Amazon OpenSearch Service improves vector database performance and cost with GPU acceleration and auto-optimization",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-opensearch-service-improves-vector-database-performance-and-cost-with-gpu-acceleration-and-auto-optimization/"
     }
 ]

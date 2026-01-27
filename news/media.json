@@ -1,5 +1,9 @@
 [
     {
+        "title": "Alerting Best Practices with Amazon Managed Service for Prometheus",
+        "link": "https://aws.amazon.com/blogs/mt/alerting-best-practices-with-amazon-managed-service-for-prometheus/"
+    },
+    {
         "title": "Search and discover governance controls with Control Catalog in AWS Control Tower",
         "link": "https://aws.amazon.com/blogs/mt/search-and-discover-governance-controls-with-control-catalog-in-aws-control-tower/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Mendix optimizes sandbox governance, balancing control and productivity",
         "link": "https://aws.amazon.com/blogs/mt/how-mendix-optimizes-sandbox-governance-balancing-control-and-productivity/"
-    },
-    {
-        "title": "Assess compliance and configuration of Kubernetes resources with AWS Config",
-        "link": "https://aws.amazon.com/blogs/mt/assess-compliance-and-configuration-of-kubernetes-resources-with-aws-config/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "IAM Identity Center now supports IPv6",
+        "link": "https://aws.amazon.com/blogs/security/iam-identity-center-now-supports-ipv6/"
+    },
+    {
+        "title": "Updated PCI PIN compliance package for AWS CloudHSM now available",
+        "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-cloudhsm-now-available/"
+    },
+    {
         "title": "Updated PCI PIN compliance package for AWS Payment Cryptography now available",
         "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-payment-cryptography-now-available/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Exploring the new AWS European Sovereign Cloud: Sovereign Reference Framework",
         "link": "https://aws.amazon.com/blogs/security/exploring-the-new-aws-european-sovereign-cloud-sovereign-reference-framework/"
-    },
-    {
-        "title": "Embracing our broad responsibility for securing digital infrastructure in the European Union",
-        "link": "https://aws.amazon.com/blogs/security/embracing-our-broad-responsibility-for-securing-digital-infrastructure-in-the-european-union/"
-    },
-    {
-        "title": "How to customize your response to layer 7 DDoS attacks using AWS WAF Anti-DDoS AMR",
-        "link": "https://aws.amazon.com/blogs/security/how-to-customize-your-response-to-layer-7-ddos-attacks-using-aws-waf-anti-ddos-amr/"
     }
 ]

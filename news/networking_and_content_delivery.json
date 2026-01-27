@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building Zero Trust Access Across Multi-Account AWS Environments",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-zero-trust-access-across-multi-account-aws-environments/"
+    },
+    {
+        "title": "Modernizing financial networks: Huatai Securities\u2019 multicast implementation on AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/modernizing-financial-networks-huatai-securities-multicast-implementation-on-aws/"
+    },
+    {
+        "title": "Automate prefix lists with Amazon VPC IP Address Manager (IPAM)",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automate-prefix-lists-with-amazon-vpc-ip-address-manager-ipam/"
+    },
+    {
         "title": "Building Intelligent Network Operations Agent with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-intelligent-network-operations-agent-with-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing Flexible Cost Allocation for AWS Transit Gateway",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flexible-cost-allocation-for-aws-transit-gateway/"
-    },
-    {
-        "title": "AWS Site-to-Site VPN and eero make remote connectivity for distributed sites simpler",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-site-to-site-vpn-and-eero-make-remote-connectivity-for-distributed-sites-simpler/"
-    },
-    {
-        "title": "Drive application performance with Application Load Balancer Target Optimizer",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/drive-application-performance-with-application-load-balancer-target-optimizer/"
-    },
-    {
-        "title": "AWS Cloud WAN Routing Policy: Fine-grained controls for your global network (Part 1)",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-routing-policy-fine-grained-controls-for-your-global-network-part-1/"
     }
 ]

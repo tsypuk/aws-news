@@ -1,5 +1,21 @@
 [
     {
+        "title": "Top 10 best practices for Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/top-10-best-practices-for-amazon-emr-serverless/"
+    },
+    {
+        "title": "Access a VPC-hosted Amazon OpenSearch Service domain with SAML authentication using AWS Client VPN",
+        "link": "https://aws.amazon.com/blogs/big-data/access-a-vpc-hosted-amazon-opensearch-service-domain-with-saml-authentication-using-aws-client-vpn/"
+    },
+    {
+        "title": "Enable strategic data quality management with AWS Glue DQDL labels",
+        "link": "https://aws.amazon.com/blogs/big-data/enable-strategic-data-quality-management-with-aws-glue-dqdl-labels/"
+    },
+    {
+        "title": "Apache Spark 4.0.1 preview now available on Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/apache-spark-4-0-1-preview-now-available-on-amazon-emr-serverless/"
+    },
+    {
         "title": "Managing Amazon OpenSearch UI infrastructure as code with AWS CDK",
         "link": "https://aws.amazon.com/blogs/big-data/managing-amazon-opensearch-ui-infrastructure-as-code-with-aws-cdk/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Create AWS Glue Data Catalog views using cross-account definer roles",
         "link": "https://aws.amazon.com/blogs/big-data/create-aws-glue-data-catalog-views-using-cross-account-definer-roles/"
-    },
-    {
-        "title": "AWS analytics at re:Invent 2025: Unifying Data, AI, and governance at scale",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-analytics-at-reinvent-2025-unifying-data-ai-and-governance-at-scale/"
-    },
-    {
-        "title": "Amazon EMR Serverless eliminates local storage provisioning, reducing data processing costs by up to 20%",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-emr-serverless-eliminates-local-storage-provisioning-reducing-data-processing-costs-by-up-to-20/"
-    },
-    {
-        "title": "Building scalable AWS Lake Formation governed data lakes with dbt and Amazon Managed Workflows for Apache Airflow",
-        "link": "https://aws.amazon.com/blogs/big-data/building-scalable-aws-lake-formation-governed-data-lakes-with-dbt-and-amazon-managed-workflows-for-apache-airflow/"
-    },
-    {
-        "title": "Simplify multi-warehouse data governance with Amazon Redshift federated permissions",
-        "link": "https://aws.amazon.com/blogs/big-data/simplify-multi-warehouse-data-governance-with-amazon-redshift-federated-permissions/"
     }
 ]

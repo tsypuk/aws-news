@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a serverless AI Gateway architecture with AWS AppSync Events",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/"
+    },
+    {
+        "title": "How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/"
+    },
+    {
         "title": "Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/"
-    },
-    {
-        "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/"
-    },
-    {
-        "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/"
     }
 ]
