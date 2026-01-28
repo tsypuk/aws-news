@@ -1,5 +1,21 @@
 [
     {
+        "title": "Choosing the right code page and collation for migration from mainframe Db2 to Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/choosing-the-right-code-page-and-collation-for-migration-from-mainframe-db2-to-amazon-rds-for-db2/"
+    },
+    {
+        "title": "Enhance the visibility of Amazon RDS instances and configuration with AWS Config and Amazon Quick Suite",
+        "link": "https://aws.amazon.com/blogs/database/enhance-the-visibility-of-amazon-rds-instances-and-configuration-with-aws-config-and-amazon-quick-suite/"
+    },
+    {
+        "title": "Analyze JSON data efficiently with Amazon Redshift SUPER",
+        "link": "https://aws.amazon.com/blogs/database/analyze-json-data-efficiently-with-amazon-redshift-super/"
+    },
+    {
+        "title": "Strategies for upgrading Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL from version 13",
+        "link": "https://aws.amazon.com/blogs/database/strategies-for-upgrading-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-from-version-13/"
+    },
+    {
         "title": "How Tradeshift boosted operational efficiency and scalability with Amazon RDS",
         "link": "https://aws.amazon.com/blogs/database/how-tradeshift-boosted-operational-efficiency-and-scalability-with-amazon-rds/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Optimizing correlated subqueries in Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Improve Aurora PostgreSQL throughput by up to 165% and price-performance ratio by up to 120% using Optimized Reads on AWS Graviton4-based R8gd instances",
-        "link": "https://aws.amazon.com/blogs/database/improve-aurora-postgresql-throughput-by-up-to-165-and-price-performance-ratio-by-up-to-120-using-optimized-reads-on-aws-graviton4-based-r8gd-instances/"
-    },
-    {
-        "title": "Why Regeneron chose Amazon RDS Custom for Oracle to deploy COTS and GxP applications on AWS",
-        "link": "https://aws.amazon.com/blogs/database/why-regeneron-chose-amazon-rds-custom-for-oracle-to-deploy-cots-and-gxp-applications-on-aws/"
-    },
-    {
-        "title": "Create a SQL Server Developer Edition instance on Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/create-a-sql-server-developer-edition-instance-on-amazon-rds-for-sql-server/"
-    },
-    {
-        "title": "Configure additional storage volumes with Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/configure-additional-storage-volumes-with-amazon-rds-for-sql-server/"
     }
 ]

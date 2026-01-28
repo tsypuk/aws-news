@@ -1,5 +1,17 @@
 [
     {
+        "title": "Get started faster with one-click onboarding, serverless notebooks, and AI agents in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/get-started-faster-with-one-click-onboarding-serverless-notebooks-and-ai-agents-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Create a customizable cross-company log lake, Part II: Build and add Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/big-data/create-a-customizable-cross-company-log-lake-part-ii-build-and-add-amazon-bedrock/"
+    },
+    {
+        "title": "Secure Apache Spark writes to Amazon S3 on Amazon EMR with dynamic AWS KMS encryption",
+        "link": "https://aws.amazon.com/blogs/big-data/secure-apache-spark-writes-to-amazon-s3-on-amazon-emr-with-dynamic-aws-kms-encryption/"
+    },
+    {
         "title": "Top 10 best practices for Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/top-10-best-practices-for-amazon-emr-serverless/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Navigating architectural choices for a lakehouse using Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/navigating-architectural-choices-for-a-lakehouse-using-amazon-sagemaker/"
-    },
-    {
-        "title": "Access Databricks Unity Catalog data using catalog federation in the AWS Glue Data Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/access-databricks-unity-catalog-data-using-catalog-federation-in-the-aws-glue-data-catalog/"
-    },
-    {
-        "title": "Use Amazon SageMaker custom tags for project resource governance and cost tracking",
-        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-sagemaker-custom-tags-for-project-resource-governance-and-cost-tracking/"
-    },
-    {
-        "title": "Create AWS Glue Data Catalog views using cross-account definer roles",
-        "link": "https://aws.amazon.com/blogs/big-data/create-aws-glue-data-catalog-views-using-cross-account-definer-roles/"
     }
 ]

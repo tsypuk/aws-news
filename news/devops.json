@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS CloudFormation 2025 Year In Review",
+        "link": "https://aws.amazon.com/blogs/devops/aws-cloudformation-2025-year-in-review/"
+    },
+    {
         "title": "From AI agent prototype to product: Lessons from building AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Infrastructure as Code at Thomson Reuters with AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/infrastructure-as-code-at-thomson-reuters-with-aws-cdk/"
-    },
-    {
-        "title": "Boosting Unit Test Automation at Audible with Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/boosting-unit-test-automation-at-audible-with-amazon-q-developer/"
     }
 ]

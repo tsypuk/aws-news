@@ -1,5 +1,9 @@
 [
     {
+        "title": "End-to-end scalable vision intelligence pipeline using LIDAR 3D Point Clouds on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/end-to-end-scalable-vision-intelligence-pipeline-using-lidar-3d-point-clouds-on-aws/"
+    },
+    {
         "title": "Evaluating next\u2011generation cloud compute for large\u2011scale genomic processing",
         "link": "https://aws.amazon.com/blogs/hpc/evaluating-next-generation-cloud-compute-for-large-scale-genomic-processing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How DTN accelerates operational weather prediction using NVIDIA Earth-2 on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/how-dtn-accelerates-operational-weather-prediction-using-nvidia-earth-2-on-aws/"
-    },
-    {
-        "title": "Announcing Capacity Blocks support for AWS Parallel Computing Service",
-        "link": "https://aws.amazon.com/blogs/hpc/announcing-capacity-blocks-support-for-aws-parallel-computing-service/"
     }
 ]
