@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing IP address exhaustion for Amazon RDS Proxy",
+        "link": "https://aws.amazon.com/blogs/database/managing-ip-address-exhaustion-for-amazon-rds-proxy/"
+    },
+    {
         "title": "Choosing the right code page and collation for migration from mainframe Db2 to Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/choosing-the-right-code-page-and-collation-for-migration-from-mainframe-db2-to-amazon-rds-for-db2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon ElastiCache re:Invent 2025 recap",
         "link": "https://aws.amazon.com/blogs/database/amazon-elasticache-reinvent-2025-recap/"
-    },
-    {
-        "title": "Optimizing correlated subqueries in Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/"
     }
 ]

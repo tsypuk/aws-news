@@ -1,5 +1,17 @@
 [
     {
+        "title": "Innovation sandbox on AWS with real-time analytics dashboard",
+        "link": "https://aws.amazon.com/blogs/mt/innovation-sandbox-on-aws-with-real-time-analytics-dashboard/"
+    },
+    {
+        "title": "Investigating Service Issues with Amazon CloudWatch Application Signals Custom Metrics",
+        "link": "https://aws.amazon.com/blogs/mt/investigating-service-issues-with-amazon-cloudwatch-application-signals-custom-metrics/"
+    },
+    {
+        "title": "Cross-Region AWS PrivateLink monitoring with Amazon CloudWatch Network Synthetic Monitor",
+        "link": "https://aws.amazon.com/blogs/mt/cross-region-aws-privatelink-monitoring-with-amazon-cloudwatch-network-synthetic-monitor/"
+    },
+    {
         "title": "Alerting Best Practices with Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/alerting-best-practices-with-amazon-managed-service-for-prometheus/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Encrypt AWS Control Tower notifications with customer-managed keys",
         "link": "https://aws.amazon.com/blogs/mt/encrypt-aws-control-tower-sns-topics-with-customer-managed-keys/"
-    },
-    {
-        "title": "Building enterprise patching and inventory dashboards using Amazon Quick Suite",
-        "link": "https://aws.amazon.com/blogs/mt/building-enterprise-patching-and-inventory-dashboards-using-amazon-q-in-amazon-quicksuite/"
-    },
-    {
-        "title": "Salesforce Commerce Cloud migrates from Self-hosted Prometheus to Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/salesforce-commerce-cloud-migrates-from-self-hosted-prometheus-to-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "How Mendix optimizes sandbox governance, balancing control and productivity",
-        "link": "https://aws.amazon.com/blogs/mt/how-mendix-optimizes-sandbox-governance-balancing-control-and-productivity/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating manufacturing workloads with the AWS Well-Architected Modern Industrial Data Lens",
+        "link": "https://aws.amazon.com/blogs/industries/accelerating-manufacturing-workloads-with-the-aws-well-architected-modern-industrial-data-lens/"
+    },
+    {
         "title": "Announcing the Well-Architected FSI Lens updated for Generative AI and Agentic AI",
         "link": "https://aws.amazon.com/blogs/industries/announcing-the-well-architected-fsi-lens-updated-for-generative-ai-and-agentic-ai/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Enhancing Bank Performance with AI-Powered Competitive Intelligence on AWS",
         "link": "https://aws.amazon.com/blogs/industries/enhancing-bank-performance-with-ai-powered-competitive-intelligence-on-aws/"
-    },
-    {
-        "title": "How to Build and Backtest Systematic Trading Strategies with AWS Batch and Airflow",
-        "link": "https://aws.amazon.com/blogs/industries/how-to-build-and-backtest-systematic-trading-strategies-on-aws-with-aws-batch-and-airflow/"
     }
 ]
