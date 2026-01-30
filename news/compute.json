@@ -1,5 +1,9 @@
 [
     {
+        "title": "More room to build: serverless services now support payloads up to 1 MB",
+        "link": "https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/"
+    },
+    {
         "title": "Simplify network segmentation for AWS Outposts racks with multiple local gateway routing domains",
         "link": "https://aws.amazon.com/blogs/compute/simplify-network-segmentation-for-aws-outposts-racks-with-multiple-local-gateway-routing-domains/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Python 3.14 runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/python-3-14-runtime-now-available-in-aws-lambda/"
-    },
-    {
-        "title": "Building serverless applications with Rust on AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/"
     }
 ]

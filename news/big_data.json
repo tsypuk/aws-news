@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a trusted foundation for data and AI using Alation and Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-trusted-foundation-for-data-and-ai-using-alation-and-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Reduce EMR HBase upgrade downtime with the EMR read-replica prewarm feature",
+        "link": "https://aws.amazon.com/blogs/big-data/reduce-emr-hbase-upgrade-downtime-with-the-emr-read-replica-prewarm-feature/"
+    },
+    {
         "title": "How Tipico democratized data transformations using Amazon Managed Workflows for Apache Airflow and AWS Batch",
         "link": "https://aws.amazon.com/blogs/big-data/how-tipico-democratized-data-transformations-using-amazon-managed-workflows-for-apache-airflow-and-aws-batch/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enterprise scale in-place migration to Apache Iceberg: Implementation guide",
         "link": "https://aws.amazon.com/blogs/big-data/enterprise-scale-in-place-migration-to-apache-iceberg-implementation-guide/"
-    },
-    {
-        "title": "Using Amazon EMR DeltaStreamer to stream data to multiple Apache Hudi tables",
-        "link": "https://aws.amazon.com/blogs/big-data/using-amazon-emr-deltastreamer-to-stream-data-to-multiple-apache-hudi-tables/"
-    },
-    {
-        "title": "Unlock granular resource control with queue-based QMR in Amazon Redshift Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/unlock-granular-resource-control-with-queue-based-qmr-in-amazon-redshift-serverless/"
     }
 ]

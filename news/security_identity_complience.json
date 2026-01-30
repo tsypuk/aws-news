@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to get started with security response automation on AWS",
+        "link": "https://aws.amazon.com/blogs/security/how-get-started-security-response-automation-aws/"
+    },
+    {
         "title": "File integrity monitoring with AWS Systems Manager and Amazon Security Lake",
         "link": "https://aws.amazon.com/blogs/security/file-integrity-monitoring-with-aws-systems-manager-and-amazon-security-lake/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing HTTP Strict Transport Security (HSTS) across AWS services",
         "link": "https://aws.amazon.com/blogs/security/implementing-http-strict-transport-security-hsts-across-aws-services/"
-    },
-    {
-        "title": "Meet digital sovereignty needs with AWS Dedicated Local Zones expanded services",
-        "link": "https://aws.amazon.com/blogs/security/meet-digital-sovereignty-needs-with-aws-dedicated-local-zones-expanded-services/"
     }
 ]

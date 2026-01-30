@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling content review operations with multi-agent workflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/"
+    },
+    {
         "title": "Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay\u2019s journey on GenAI evaluation",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-agentic-ai-solution-with-amazon-bedrock-learn-from-pushpays-journey-on-genai-evaluation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/"
-    },
-    {
-        "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/"
     }
 ]
