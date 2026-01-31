@@ -1,5 +1,17 @@
 [
     {
+        "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/"
+    },
+    {
+        "title": "Scale AI in South Africa using Amazon Bedrock global cross-Region inference with Anthropic\u00a0Claude\u00a04.5 models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-ai-in-south-africa-using-amazon-bedrock-global-cross-region-inference-with-anthropic-claude-4-5-models/"
+    },
+    {
         "title": "Scaling content review operations with multi-agent workflow",
         "link": "https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "From beginner to champion: A student\u2019s journey through the AWS AI League ASEAN finals",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-beginner-to-champion-a-students-journey-through-the-aws-ai-league-asean-finals/"
-    },
-    {
-        "title": "Deploy AI agents on Amazon Bedrock AgentCore using GitHub Actions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-agents-on-amazon-bedrock-agentcore-using-github-actions/"
-    },
-    {
-        "title": "How the Amazon AMET Payments team accelerates test case generation with Strands Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/"
-    },
-    {
-        "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Sovereign failover \u2013 Design for digital sovereignty using the AWS European Sovereign Cloud",
+        "link": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/"
+    },
+    {
         "title": "Announcing the AWS Digital Sovereignty Well-Architected Lens",
         "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How CommBank made their CommSec trading platform highly available and operationally resilient",
         "link": "https://aws.amazon.com/blogs/architecture/how-commbank-made-their-commsec-trading-platform-highly-available-and-operationally-resilient/"
-    },
-    {
-        "title": "How Karrot built a feature platform on AWS, Part 1: Motivation and feature serving",
-        "link": "https://aws.amazon.com/blogs/architecture/how-karrot-built-a-feature-platform-on-aws-part-1-motivation-and-feature-serving/"
     }
 ]

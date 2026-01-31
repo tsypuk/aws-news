@@ -1,5 +1,13 @@
 [
     {
+        "title": "Operational risk management and AI for banks and financial services customers",
+        "link": "https://aws.amazon.com/blogs/industries/operational-risk-management-and-ai-for-banks-and-financial-services-customers/"
+    },
+    {
+        "title": "BMW Group unlocks insights from petabytes of data with agentic search on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/bmw-group-unlocks-insights-from-petabytes-of-data-with-agentic-search-on-aws/"
+    },
+    {
         "title": "Accelerating manufacturing workloads with the AWS Well-Architected Modern Industrial Data Lens",
         "link": "https://aws.amazon.com/blogs/industries/accelerating-manufacturing-workloads-with-the-aws-well-architected-modern-industrial-data-lens/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Beyond webhooks: Event-driven payment architectures with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/industries/beyond-webhooks-event-driven-payment-architectures-with-amazon-eventbridge/"
-    },
-    {
-        "title": "Accelerate Automotive UI Development with Kiro, Squish, and Virtual Targets on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/accelerate-automotive-ui-development-with-kiro-squish-and-virtual-targets-on-aws/"
-    },
-    {
-        "title": "Enhancing Bank Performance with AI-Powered Competitive Intelligence on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/enhancing-bank-performance-with-ai-powered-competitive-intelligence-on-aws/"
     }
 ]

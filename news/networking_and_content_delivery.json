@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline AWS Client VPN usage reporting with Amazon CloudWatch Logs Insights queries",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-aws-client-vpn-usage-reporting-with-amazon-cloudwatch-logs-insights-queries/"
+    },
+    {
         "title": "Building Zero Trust Access Across Multi-Account AWS Environments",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-zero-trust-access-across-multi-account-aws-environments/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How AWS improves global connectivity via automated traffic engineering",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-improves-global-connectivity-via-automated-traffic-engineering/"
-    },
-    {
-        "title": "Introducing Flexible Cost Allocation for AWS Transit Gateway",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flexible-cost-allocation-for-aws-transit-gateway/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Explore scaling options for AWS Directory Service for Microsoft Active Directory",
+        "link": "https://aws.amazon.com/blogs/security/explore-scaling-options-for-aws-directory-service-for-microsoft-active-directory/"
+    },
+    {
         "title": "How to get started with security response automation on AWS",
         "link": "https://aws.amazon.com/blogs/security/how-get-started-security-response-automation-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Threat Intelligence identifies Russian cyber threat group targeting Western critical infrastructure",
         "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-russian-cyber-threat-group-targeting-western-critical-infrastructure/"
-    },
-    {
-        "title": "Implementing HTTP Strict Transport Security (HSTS) across AWS services",
-        "link": "https://aws.amazon.com/blogs/security/implementing-http-strict-transport-security-hsts-across-aws-services/"
     }
 ]

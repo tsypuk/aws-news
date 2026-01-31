@@ -1,5 +1,9 @@
 [
     {
+        "title": "Serverless ICYMI Q4 2025",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2025/"
+    },
+    {
         "title": "More room to build: serverless services now support payloads up to 1 MB",
         "link": "https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize latency-sensitive workloads with Amazon EC2 detailed NVMe statistics",
         "link": "https://aws.amazon.com/blogs/compute/optimize-latency-sensitive-workloads-with-amazon-ec2-detailed-nvme-statistics/"
-    },
-    {
-        "title": "Python 3.14 runtime now available in AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/python-3-14-runtime-now-available-in-aws-lambda/"
     }
 ]
