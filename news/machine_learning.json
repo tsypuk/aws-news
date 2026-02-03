@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/"
+    },
+    {
         "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/"
-    },
-    {
-        "title": "From beginner to champion: A student\u2019s journey through the AWS AI League ASEAN finals",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-beginner-to-champion-a-students-journey-through-the-aws-ai-league-asean-finals/"
     }
 ]

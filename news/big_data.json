@@ -1,5 +1,9 @@
 [
     {
+        "title": "Federate access to Amazon SageMaker Unified Studio with AWS IAM Identity Center and Ping Identity",
+        "link": "https://aws.amazon.com/blogs/big-data/federate-access-to-amazon-sagemaker-unified-studio-with-aws-iam-identity-center-and-ping-identity/"
+    },
+    {
         "title": "Build a trusted foundation for data and AI using Alation and Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-trusted-foundation-for-data-and-ai-using-alation-and-amazon-sagemaker-unified-studio/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Bazaarvoice modernized their Apache Kafka infrastructure with Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/how-bazaarvoice-modernized-their-apache-kafka-infrastructure-with-amazon-msk/"
-    },
-    {
-        "title": "Enterprise scale in-place migration to Apache Iceberg: Implementation guide",
-        "link": "https://aws.amazon.com/blogs/big-data/enterprise-scale-in-place-migration-to-apache-iceberg-implementation-guide/"
     }
 ]

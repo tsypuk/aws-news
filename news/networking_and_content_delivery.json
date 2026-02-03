@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon CloudFront now supports mTLS authentication to origins",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-now-supports-mtls-authentication-to-origins/"
+    },
+    {
         "title": "Streamline AWS Client VPN usage reporting with Amazon CloudWatch Logs Insights queries",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-aws-client-vpn-usage-reporting-with-amazon-cloudwatch-logs-insights-queries/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Trust goes both ways: Amazon CloudFront now supports viewer mTLS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls/"
-    },
-    {
-        "title": "How AWS improves global connectivity via automated traffic engineering",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-improves-global-connectivity-via-automated-traffic-engineering/"
     }
 ]

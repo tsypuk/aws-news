@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the AWS Well-Architected Microsoft Workloads Lens",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-the-aws-well-architected-microsoft-workloads-lens/"
+    },
+    {
         "title": "Introducing Kiro and MCP Tools for SQL Server professionals",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-kiro-and-mcp-tools-for-sql-server-professionals/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Microsoft workloads on AWS: Your complete re:Invent 2025 guide",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/microsoft-workloads-on-aws-your-complete-reinvent-2025-guide/"
-    },
-    {
-        "title": "Testing AWS Managed Microsoft AD Resilience using AWS Fault Injection Service",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/testing-aws-managed-microsoft-ad-resilience-using-aws-fault-injection-service/"
     }
 ]
