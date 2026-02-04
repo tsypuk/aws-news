@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use",
+        "link": "https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/"
+    },
+    {
         "title": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Database Savings Plans for AWS Databases",
         "link": "https://aws.amazon.com/blogs/aws/introducing-database-savings-plans-for-aws-databases/"
-    },
-    {
-        "title": "Amazon CloudWatch introduces unified data management and analytics for operations, security, and compliance",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-cloudwatch-introduces-unified-data-management-and-analytics-for-operations-security-and-compliance/"
     }
 ]

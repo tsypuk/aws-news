@@ -1,5 +1,13 @@
 [
     {
+        "title": "Beyond metrics: Extracting actionable insights from Amazon EKS with Amazon Q Business",
+        "link": "https://aws.amazon.com/blogs/containers/beyond-metrics-extracting-actionable-insights-from-amazon-eks-with-amazon-q-business/"
+    },
+    {
+        "title": "Build deep learning model training apps using CNCF Fluid with Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/build-deep-learning-model-training-apps-using-cncf-fluid-with-amazon-eks/"
+    },
+    {
         "title": "Maximize Amazon EKS efficiency: How Auto Mode, Graviton, and Spot work together",
         "link": "https://aws.amazon.com/blogs/containers/maximize-amazon-eks-efficiency-how-auto-mode-graviton-and-spot-work-together/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Implementing assurance pipeline for Amazon EKS Platform",
         "link": "https://aws.amazon.com/blogs/containers/implementing-assurance-pipeline-for-amazon-eks-platform/"
-    },
-    {
-        "title": "Enhance Amazon EKS network security posture with DNS and admin network policies",
-        "link": "https://aws.amazon.com/blogs/containers/enhance-amazon-eks-network-security-posture-with-dns-and-admin-network-policies/"
-    },
-    {
-        "title": "Proactive Amazon EKS monitoring with Amazon CloudWatch Operator and AWS Control Plane metrics",
-        "link": "https://aws.amazon.com/blogs/containers/proactive-amazon-eks-monitoring-with-amazon-cloudwatch-operator-and-aws-control-plane-metrics/"
     }
 ]

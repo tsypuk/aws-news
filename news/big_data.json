@@ -1,5 +1,13 @@
 [
     {
+        "title": "Use Amazon MSK Connect and Iceberg Kafka Connect to build a real-time data lake",
+        "link": "https://aws.amazon.com/blogs/big-data/use-amazon-msk-connect-and-iceberg-kafka-connect-to-build-a-real-time-data-lake/"
+    },
+    {
+        "title": "Optimizing Flink\u2019s join operations on Amazon EMR with Alluxio",
+        "link": "https://aws.amazon.com/blogs/big-data/optimizing-flinks-join-operations-on-amazon-emr-with-alluxio/"
+    },
+    {
         "title": "Federate access to Amazon SageMaker Unified Studio with AWS IAM Identity Center and Ping Identity",
         "link": "https://aws.amazon.com/blogs/big-data/federate-access-to-amazon-sagemaker-unified-studio-with-aws-iam-identity-center-and-ping-identity/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate context-aware data analysis and ML workflows with Amazon SageMaker Data Agent",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-context-aware-data-analysis-and-ml-workflows-with-amazon-sagemaker-data-agent/"
-    },
-    {
-        "title": "Streamline large binary object migrations: A Kafka-based solution for Oracle to Amazon Aurora PostgreSQL and Amazon S3",
-        "link": "https://aws.amazon.com/blogs/big-data/streamline-large-binary-object-migrations-a-kafka-based-solution-for-oracle-to-amazon-aurora-postgresql-and-amazon-s3/"
-    },
-    {
-        "title": "How Bazaarvoice modernized their Apache Kafka infrastructure with Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/how-bazaarvoice-modernized-their-apache-kafka-infrastructure-with-amazon-msk/"
     }
 ]

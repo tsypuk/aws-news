@@ -1,5 +1,9 @@
 [
     {
+        "title": "Behind Securonix\u2019s Unified SIEM Spark Architecture on Amazon EKS: 99.99% Availability Across 10,000+ Concurrent Jobs",
+        "link": "https://aws.amazon.com/blogs/apn/behind-securonixs-unified-siem-spark-architecture-on-amazon-eks-99-99-availability-across-10000-concurrent-jobs/"
+    },
+    {
         "title": "Scale AI application in production: Build a fault-tolerant AI gateway with SnapSoft",
         "link": "https://aws.amazon.com/blogs/apn/scale-ai-application-in-production-build-a-fault-tolerant-ai-gateway-with-snapsoft/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build and Scale GenAI Development Agents Securely with Ona and Amazon Bedrock on AWS",
         "link": "https://aws.amazon.com/blogs/apn/build-and-scale-genai-development-agents-securely-with-ona-and-amazon-bedrock-on-aws/"
-    },
-    {
-        "title": "Announcing the Regional 2025 AWS Partners of the Year for Europe, Middle East, and Africa",
-        "link": "https://aws.amazon.com/blogs/apn/announcing-the-regional-2025-aws-partners-of-the-year-for-europe-middle-east-and-africa/"
     }
 ]
