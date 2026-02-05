@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/"
+    },
+    {
         "title": "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use",
         "link": "https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle",
         "link": "https://aws.amazon.com/blogs/aws/amazon-rds-for-oracle-and-rds-for-sql-server-add-new-capabilities-to-enhance-performance-and-optimize-costs/"
-    },
-    {
-        "title": "Introducing Database Savings Plans for AWS Databases",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-database-savings-plans-for-aws-databases/"
     }
 ]

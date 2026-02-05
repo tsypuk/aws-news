@@ -1,5 +1,17 @@
 [
     {
+        "title": "Auto Analyze in Aurora DSQL: Managed optimizer statistics in a multi-Region database",
+        "link": "https://aws.amazon.com/blogs/database/auto-analyze-in-aurora-dsql-managed-optimizer-statistics-in-a-multi-region-database/"
+    },
+    {
+        "title": "Validate Neo4j Cypher queries for Amazon Neptune migration",
+        "link": "https://aws.amazon.com/blogs/database/validate-neo4j-cypher-queries-for-amazon-neptune-migration/"
+    },
+    {
+        "title": "Automate your Neo4j to Amazon Neptune migration using the neo4j-to-neptune utility",
+        "link": "https://aws.amazon.com/blogs/database/automate-your-neo4j-to-amazon-neptune-migration-using-the-neo4j-to-neptune-utility/"
+    },
+    {
         "title": "Amazon DynamoDB global tables now support replication across AWS accounts",
         "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-global-tables-now-support-replication-across-aws-accounts/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Best practices for creating and reorganizing data with additional storage volumes in Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/best-practices-for-creating-and-reorganizing-data-with-additional-storage-volumes-in-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "Provision Oracle Database@AWS stack using AWS CloudFormation",
-        "link": "https://aws.amazon.com/blogs/database/provision-oracle-databaseaws-stack-using-aws-cloudformation/"
-    },
-    {
-        "title": "Unlock Amazon Aurora\u2019s Advanced Features with Standard JDBC Driver using AWS Advanced JDBC Wrapper",
-        "link": "https://aws.amazon.com/blogs/database/unlock-amazon-auroras-advanced-features-with-standard-jdbc-driver-using-aws-advanced-jdbc-wrapper/"
-    },
-    {
-        "title": "Configure Optimize CPU on Amazon RDS for SQL Server",
-        "link": "https://aws.amazon.com/blogs/database/configure-optimize-cpu-on-amazon-rds-for-sql-server/"
     }
 ]

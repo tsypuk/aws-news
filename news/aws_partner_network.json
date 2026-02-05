@@ -1,6 +1,10 @@
 [
     {
-        "title": "Behind Securonix\u2019s Unified SIEM Spark Architecture on Amazon EKS: 99.99% Availability Across 10,000+ Concurrent Jobs",
+        "title": "Generative AI for operations leaders: How Domo and Amazon Bedrock optimize efficiency",
+        "link": "https://aws.amazon.com/blogs/apn/generative-ai-for-operations-leaders-how-domo-and-amazon-bedrock-optimize-efficiency/"
+    },
+    {
+        "title": "Behind Securonix\u2019s Unified Defense SIEM Spark Architecture on Amazon EKS: 99.99% Availability Across 10,000+ Concurrent Jobs",
         "link": "https://aws.amazon.com/blogs/apn/behind-securonixs-unified-siem-spark-architecture-on-amazon-eks-99-99-availability-across-10000-concurrent-jobs/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Reinventing cloud risk management with Trend Vision One\u2122",
         "link": "https://aws.amazon.com/blogs/apn/reinventing-cloud-risk-management-with-trend-vision-one/"
-    },
-    {
-        "title": "Build and Scale GenAI Development Agents Securely with Ona and Amazon Bedrock on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/build-and-scale-genai-development-agents-securely-with-ona-and-amazon-bedrock-on-aws/"
     }
 ]
