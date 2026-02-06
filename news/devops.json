@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Transform custom: AI-driven Java modernization to reduce tech debt",
+        "link": "https://aws.amazon.com/blogs/devops/aws-transform-custom-ai-driven-java-modernization-to-reduce-tech-debt/"
+    },
+    {
         "title": "Best Practices for Deploying AWS DevOps Agent in Production",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-for-deploying-aws-devops-agent-in-production/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK",
         "link": "https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/"
-    },
-    {
-        "title": "How to Simplify Multi-Account Deployments Monitoring: Centralized Logs for AWS CloudFormation StackSets",
-        "link": "https://aws.amazon.com/blogs/devops/how-to-simplify-multi-account-deployments-monitoring-centralized-logs-for-aws-cloudformation-stacksets/"
     }
 ]

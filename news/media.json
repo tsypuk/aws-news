@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize cost and automate security remediation with AMS Trusted Remediator",
+        "link": "https://aws.amazon.com/blogs/mt/optimize-cost-and-automate-security-remediation-with-ams-trusted-remediator/"
+    },
+    {
         "title": "Innovation sandbox on AWS with real-time analytics dashboard",
         "link": "https://aws.amazon.com/blogs/mt/innovation-sandbox-on-aws-with-real-time-analytics-dashboard/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Guide to AWS Cloud Resilience sessions at re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/mt/guide-to-aws-cloud-resilience-sessions-at-reinvent-2025/"
-    },
-    {
-        "title": "Encrypt AWS Control Tower notifications with customer-managed keys",
-        "link": "https://aws.amazon.com/blogs/mt/encrypt-aws-control-tower-sns-topics-with-customer-managed-keys/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Trigger AWS Lambda functions from Amazon RDS for SQL Server database events",
+        "link": "https://aws.amazon.com/blogs/database/trigger-aws-lambda-functions-from-amazon-rds-for-sql-server-database-events/"
+    },
+    {
+        "title": "Build fraud detection systems using AWS Entity Resolution and Amazon Neptune Analytics",
+        "link": "https://aws.amazon.com/blogs/database/build-fraud-detection-systems-using-aws-entity-resolution-and-amazon-neptune-analytics/"
+    },
+    {
         "title": "Auto Analyze in Aurora DSQL: Managed optimizer statistics in a multi-Region database",
         "link": "https://aws.amazon.com/blogs/database/auto-analyze-in-aurora-dsql-managed-optimizer-statistics-in-a-multi-region-database/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS automatic minor version upgrades",
         "link": "https://aws.amazon.com/blogs/database/aws-organizations-now-supports-upgrade-rollout-policy-for-amazon-aurora-and-amazon-rds-automatic-minor-version-upgrades/"
-    },
-    {
-        "title": "Build durable AI agents with LangGraph and Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/build-durable-ai-agents-with-langgraph-and-amazon-dynamodb/"
-    },
-    {
-        "title": "Best practices for creating and reorganizing data with additional storage volumes in Amazon RDS for Oracle",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-creating-and-reorganizing-data-with-additional-storage-volumes-in-amazon-rds-for-oracle/"
     }
 ]

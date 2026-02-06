@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reduce Mean Time to Resolution with an observability agent",
+        "link": "https://aws.amazon.com/blogs/big-data/reduce-mean-time-to-resolution-with-an-observability-agent/"
+    },
+    {
+        "title": "Amazon OpenSearch Ingestion 101: Set CloudWatch alarms for key metrics",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-ingestion-service-101-set-cloudwatch-alarms-for-key-metrics/"
+    },
+    {
         "title": "Use Amazon MSK Connect and Iceberg Kafka Connect to build a real-time data lake",
         "link": "https://aws.amazon.com/blogs/big-data/use-amazon-msk-connect-and-iceberg-kafka-connect-to-build-a-real-time-data-lake/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "On-demand and scheduled scaling of Amazon MSK Express based clusters",
         "link": "https://aws.amazon.com/blogs/big-data/on-demand-and-scheduled-scaling-of-amazon-msk-express-based-clusters/"
-    },
-    {
-        "title": "Power up your analytics with Amazon SageMaker Unified Studio integration with Tableau, Power BI, and more",
-        "link": "https://aws.amazon.com/blogs/big-data/power-up-your-analytics-with-amazon-sagemaker-unified-studio-integration-with-tableau-power-bi-and-more/"
-    },
-    {
-        "title": "Accelerate context-aware data analysis and ML workflows with Amazon SageMaker Data Agent",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-context-aware-data-analysis-and-ml-workflows-with-amazon-sagemaker-data-agent/"
     }
 ]
