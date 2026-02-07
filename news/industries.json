@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting the Semantic MCP Server: Edge Deployment of Fine-Tuned SLMs to Solve the Data Ingestion Problem for Telco Operations",
+        "link": "https://aws.amazon.com/blogs/industries/architecting-the-semantic-mcp-server-edge-deployment-of-fine-tuned-slms-to-solve-the-data-ingestion-problem-for-telco-operations/"
+    },
+    {
         "title": "Protecting Sensitive Data at Scale: Automated detection and remediation in a financial data lake",
         "link": "https://aws.amazon.com/blogs/industries/protecting-sensitive-data-at-scale-automated-detection-and-remediation-in-a-financial-data-lake/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to outrank, outsell, and outperform in AI search with Pattern\u2019s GEO Scorecard",
         "link": "https://aws.amazon.com/blogs/industries/how-to-outrank-outsell-and-outperform-in-ai-search-with-patterns-geo-scorecard/"
-    },
-    {
-        "title": "AUMOVIO Boosts Software Development with an Agentic Coding Assistant Powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/aumovio-boosts-software-development-with-an-agentic-coding-assistant-powered-by-amazon-bedrock/"
     }
 ]

@@ -4,10 +4,6 @@
         "link": "https://aws.amazon.com/blogs/storage/improve-your-application-resiliency-with-larger-and-faster-gp3-volumes/"
     },
     {
-        "title": "How Allcargo migrated VDI workloads to Amazon FSx for NetApp ONTAP and FSx for Windows File Server using AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/how-allcargo-migrated-vdi-workload-to-amazon-fsx-using-aws-datasync/"
-    },
-    {
         "title": "Monitoring Amazon EFS KPIs using Amazon CloudWatch metrics",
         "link": "https://aws.amazon.com/blogs/storage/monitoring-amazon-efs-kpis-using-aws-cloudwatch-metrics/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Automated cost-effective archiving and on-demand data restoration",
         "link": "https://aws.amazon.com/blogs/storage/automated-cost-effective-archiving-and-on-demand-data-restoration/"
+    },
+    {
+        "title": "Cost-optimized file storage with Amazon FSx for NetApp ONTAP and Komprise",
+        "link": "https://aws.amazon.com/blogs/storage/cost-optimized-file-storage-with-amazon-fsx-for-netapp-ontap-and-komprise/"
     }
 ]

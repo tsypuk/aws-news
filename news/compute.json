@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building fault-tolerant applications with AWS Lambda durable functions",
+        "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-long-running-application-with-aws-lambda-durable-functions/"
+    },
+    {
         "title": "Serverless ICYMI Q4 2025",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building responsive APIs with Amazon API Gateway response streaming",
         "link": "https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/"
-    },
-    {
-        "title": "Optimize latency-sensitive workloads with Amazon EC2 detailed NVMe statistics",
-        "link": "https://aws.amazon.com/blogs/compute/optimize-latency-sensitive-workloads-with-amazon-ec2-detailed-nvme-statistics/"
     }
 ]

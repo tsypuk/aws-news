@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing application performance: The strategic benefits of combining Amazon CloudFront with Application Load Balancers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-application-performance-the-strategic-benefits-of-combining-amazon-cloudfront-with-application-load-balancers/"
+    },
+    {
         "title": "Amazon CloudFront now supports mTLS authentication to origins",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-now-supports-mtls-authentication-to-origins/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon CloudFront: Delivering millisecond performance to global audiences",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-delivering-millisecond-performance-to-global-audiences/"
-    },
-    {
-        "title": "Trust goes both ways: Amazon CloudFront now supports viewer mTLS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls/"
     }
 ]

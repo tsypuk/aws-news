@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a scalable code modernization solution with AWS Transform custom",
+        "link": "https://aws.amazon.com/blogs/devops/building-a-scalable-code-modernization-solution-with-aws-transform-custom/"
+    },
+    {
         "title": "AWS Transform custom: AI-driven Java modernization to reduce tech debt",
         "link": "https://aws.amazon.com/blogs/devops/aws-transform-custom-ai-driven-java-modernization-to-reduce-tech-debt/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate infrastructure development with CloudFormation pre-deployment validation and simplified troubleshooting",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-infrastructure-development-with-cloudformation-pre-deployment-validation-and-simplified-troubleshooting/"
-    },
-    {
-        "title": "Streamlining Multi-Account Infrastructure with AWS CloudFormation StackSets and AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/streamlining-multi-account-infrastructure-with-aws-cloudformation-stacksets-and-aws-cdk/"
     }
 ]
