@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reservoir computing on an analog Rydberg-atom quantum computer",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/reservoir-computing-on-an-analog-rydberg-atom-quantum-computer/"
+    },
+    {
         "title": "Quantum-Guided Cluster Algorithms for Combinatorial Optimization",
         "link": "https://aws.amazon.com/blogs/quantum-computing/quantum-guided-cluster-algorithms-for-combinatorial-optimization/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Exploring Quantum Measurements, Observables and Operators: Practical insights with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-measurements-observables-and-operators-practical-insights-with-amazon-braket/"
-    },
-    {
-        "title": "Implementing BB84 Quantum Key Distribution on Amazon Braket: A practical guide",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/implementing-bb84-quantum-key-distribution-on-amazon-braket-a-practical-guide/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Multipart Download Support for AWS SDK for .NET Transfer Manager",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-sdk-for-net-transfer-manager/"
+    },
+    {
         "title": "CLI v1 Maintenance Mode Announcement",
         "link": "https://aws.amazon.com/blogs/developer/cli-v1-maintenance-mode-announcement/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrating AWS with .NET Aspire",
         "link": "https://aws.amazon.com/blogs/developer/integrating-aws-with-net-aspire/"
-    },
-    {
-        "title": "Updating AWS SDK defaults \u2013 AWS STS service endpoint and Retry Strategy",
-        "link": "https://aws.amazon.com/blogs/developer/updating-aws-sdk-defaults-aws-sts-service-endpoint-and-retry-strategy/"
     }
 ]

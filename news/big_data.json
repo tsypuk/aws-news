@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using Amazon SageMaker Unified Studio Identity center (IDC) and IAM-based domains together",
+        "link": "https://aws.amazon.com/blogs/big-data/using-amazon-sagemaker-unified-studio-identity-center-idc-and-iam-based-domains-together/"
+    },
+    {
+        "title": "Orchestrate end-to-end scalable ETL pipeline with Amazon SageMaker workflows",
+        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-end-to-end-scalable-etl-pipeline-with-amazon-sagemaker-workflows/"
+    },
+    {
         "title": "Reduce Mean Time to Resolution with an observability agent",
         "link": "https://aws.amazon.com/blogs/big-data/reduce-mean-time-to-resolution-with-an-observability-agent/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Managing Amazon OpenSearch UI infrastructure as code with AWS CDK",
         "link": "https://aws.amazon.com/blogs/big-data/managing-amazon-opensearch-ui-infrastructure-as-code-with-aws-cdk/"
-    },
-    {
-        "title": "Modernize your data warehouse by migrating Oracle Database to Amazon Redshift with Oracle GoldenGate",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-your-data-warehouse-by-migrating-oracle-database-to-amazon-redshift-with-oracle-goldengate/"
-    },
-    {
-        "title": "On-demand and scheduled scaling of Amazon MSK Express based clusters",
-        "link": "https://aws.amazon.com/blogs/big-data/on-demand-and-scheduled-scaling-of-amazon-msk-express-based-clusters/"
     }
 ]

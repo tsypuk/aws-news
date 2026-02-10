@@ -1,5 +1,25 @@
 [
     {
+        "title": "Automated Reasoning checks rewriting chatbot reference implementation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/"
+    },
+    {
+        "title": "Scale LLM fine-tuning with Hugging Face and Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "New Relic transforms productivity with generative AI on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-relic-transforms-productivity-with-generative-ai-on-aws/"
+    },
+    {
+        "title": "Accelerate agentic application development with a full-stack starter template for Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-application-development-with-a-full-stack-starter-template-for-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/"
+    },
+    {
         "title": "Structured outputs on Amazon Bedrock: Schema-compliant AI responses",
         "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Scaling content review operations with multi-agent workflow",
         "link": "https://aws.amazon.com/blogs/machine-learning/scaling-content-review-operations-with-multi-agent-workflow/"
-    },
-    {
-        "title": "Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay\u2019s journey on GenAI evaluation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-agentic-ai-solution-with-amazon-bedrock-learn-from-pushpays-journey-on-genai-evaluation/"
-    },
-    {
-        "title": "Build an intelligent contract management solution with Amazon Quick Suite and Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-contract-management-solution-with-amazon-quick-suite-and-bedrock-agentcore/"
-    },
-    {
-        "title": "Build a serverless AI Gateway architecture with AWS AppSync Events",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/"
-    },
-    {
-        "title": "How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/"
-    },
-    {
-        "title": "Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/"
     }
 ]

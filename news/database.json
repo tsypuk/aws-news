@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplify cross-account stream processing with AWS Lambda and Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/simplify-cross-account-stream-processing-with-aws-lambda-and-amazon-dynamodb/"
+    },
+    {
+        "title": "New in Terraform: Manage global secondary index drift in Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/new-in-terraform-manage-global-secondary-index-drift-in-amazon-dynamodb/"
+    },
+    {
         "title": "Trigger AWS Lambda functions from Amazon RDS for SQL Server database events",
         "link": "https://aws.amazon.com/blogs/database/trigger-aws-lambda-functions-from-amazon-rds-for-sql-server-database-events/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Using the shared plan cache for Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/using-the-shared-plan-cache-for-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Effectively managing storage in Amazon RDS for Oracle Databases",
-        "link": "https://aws.amazon.com/blogs/database/effectively-managing-storage-in-amazon-rds-for-oracle-databases/"
-    },
-    {
-        "title": "AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS automatic minor version upgrades",
-        "link": "https://aws.amazon.com/blogs/database/aws-organizations-now-supports-upgrade-rollout-policy-for-amazon-aurora-and-amazon-rds-automatic-minor-version-upgrades/"
     }
 ]
