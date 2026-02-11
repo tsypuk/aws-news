@@ -1,5 +1,13 @@
 [
     {
+        "title": "Replication instance sizing for optimal database migrations with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/replication-instance-sizing-for-optimal-database-migrations-with-aws-dms/"
+    },
+    {
+        "title": "Build a custom solution to migrate SQL Server HierarchyID to PostgreSQL LTREE with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/build-a-custom-solution-to-migrate-sql-server-hierarchyid-to-postgresql-ltree-with-aws-dms/"
+    },
+    {
         "title": "Simplify cross-account stream processing with AWS Lambda and Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/simplify-cross-account-stream-processing-with-aws-lambda-and-amazon-dynamodb/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate the export of Amazon RDS for MySQL or Amazon Aurora MySQL audit logs to Amazon S3 with batching or near real-time processing",
         "link": "https://aws.amazon.com/blogs/database/automate-the-export-of-amazon-rds-for-mysql-or-amazon-aurora-mysql-audit-logs-to-amazon-s3-with-batching-or-near-real-time-processing/"
-    },
-    {
-        "title": "Control database name visibility in Amazon RDS for SQL Server instances",
-        "link": "https://aws.amazon.com/blogs/database/control-database-name-visibility-in-amazon-rds-for-sql-server-instances/"
-    },
-    {
-        "title": "Using the shared plan cache for Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/using-the-shared-plan-cache-for-amazon-aurora-postgresql/"
     }
 ]

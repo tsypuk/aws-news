@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize agent tool selection using Amazon S3 Vectors and Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/storage/optimize-agent-tool-selection-using-s3-vectors-and-bedrock-knowledge-bases/"
+    },
+    {
         "title": "Improve application resiliency with larger and faster Amazon EBS gp3 volumes",
         "link": "https://aws.amazon.com/blogs/storage/improve-your-application-resiliency-with-larger-and-faster-gp3-volumes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automated cost-effective archiving and on-demand data restoration",
         "link": "https://aws.amazon.com/blogs/storage/automated-cost-effective-archiving-and-on-demand-data-restoration/"
-    },
-    {
-        "title": "Cost-optimized file storage with Amazon FSx for NetApp ONTAP and Komprise",
-        "link": "https://aws.amazon.com/blogs/storage/cost-optimized-file-storage-with-amazon-fsx-for-netapp-ontap-and-komprise/"
     }
 ]

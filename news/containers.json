@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhance Kubernetes high availability with Amazon Application Recovery Controller and Karpenter integration",
+        "link": "https://aws.amazon.com/blogs/containers/enhance-kubernetes-high-availability-with-amazon-application-recovery-controller-and-karpenter-integration/"
+    },
+    {
         "title": "Beyond metrics: Extracting actionable insights from Amazon EKS with Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/containers/beyond-metrics-extracting-actionable-insights-from-amazon-eks-with-amazon-q-business/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Efficient image and model caching strategies for AI/ML and generative AI workloads on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/efficient-image-and-model-caching-strategies-for-ai-ml-and-generative-ai-workloads-on-amazon-eks/"
-    },
-    {
-        "title": "Implementing assurance pipeline for Amazon EKS Platform",
-        "link": "https://aws.amazon.com/blogs/containers/implementing-assurance-pipeline-for-amazon-eks-platform/"
     }
 ]

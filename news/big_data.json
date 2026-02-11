@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Zalando innovates their Fast-Serving layer by migrating to Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/how-zalando-innovates-their-fast-serving-layer-by-migrating-to-amazon-redshift/"
+    },
+    {
         "title": "Using Amazon SageMaker Unified Studio Identity center (IDC) and IAM-based domains together",
         "link": "https://aws.amazon.com/blogs/big-data/using-amazon-sagemaker-unified-studio-identity-center-idc-and-iam-based-domains-together/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Apache Spark 4.0.1 preview now available on Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/apache-spark-4-0-1-preview-now-available-on-amazon-emr-serverless/"
-    },
-    {
-        "title": "Managing Amazon OpenSearch UI infrastructure as code with AWS CDK",
-        "link": "https://aws.amazon.com/blogs/big-data/managing-amazon-opensearch-ui-infrastructure-as-code-with-aws-cdk/"
     }
 ]
