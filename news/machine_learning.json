@@ -1,5 +1,21 @@
 [
     {
+        "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Mastering Amazon Bedrock throttling and service availability: A comprehensive guide",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/"
+    },
+    {
+        "title": "Swann provides Generative AI to millions of IoT Devices using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/"
+    },
+    {
+        "title": "How LinqAlpha assesses investment theses using Devil\u2019s Advocate on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-linqalpha-assesses-investment-theses-using-devils-advocate-on-amazon-bedrock/"
+    },
+    {
         "title": "How Amazon uses Amazon Nova models to automate operational readiness testing for new fulfillment centers",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-amazon-nova-models-to-automate-operational-readiness-testing-for-new-fulfillment-centers/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Use Amazon Quick Suite custom action connectors to upload text files to Google Drive using OpenAPI specification",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-quick-suite-custom-action-connectors-to-upload-text-files-to-google-drive-using-openapi-specification/"
-    },
-    {
-        "title": "AI agents in enterprises: Best practices with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-agents-in-enterprises-best-practices-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-for-healthcare-data-analysis-with-amazon-sagemaker-data-agent/"
-    },
-    {
-        "title": "How Clarus Care uses Amazon Bedrock to deliver conversational contact center interactions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-clarus-care-uses-amazon-bedrock-to-deliver-conversational-contact-center-interactions/"
-    },
-    {
-        "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/"
     }
 ]

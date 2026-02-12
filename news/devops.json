@@ -1,5 +1,9 @@
 [
     {
+        "title": "Choosing between Amazon ECS Blue/Green Native or AWS CodeDeploy in AWS CDK",
+        "link": "https://aws.amazon.com/blogs/devops/choosing-between-amazon-ecs-blue-green-native-or-aws-codedeploy-in-aws-cdk/"
+    },
+    {
         "title": "Building a scalable code modernization solution with AWS Transform custom",
         "link": "https://aws.amazon.com/blogs/devops/building-a-scalable-code-modernization-solution-with-aws-transform-custom/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Safely Handle Configuration Drift with CloudFormation Drift-Aware Change Sets",
         "link": "https://aws.amazon.com/blogs/devops/safely-handle-configuration-drift-with-cloudformation-drift-aware-change-sets/"
-    },
-    {
-        "title": "Accelerate infrastructure development with CloudFormation pre-deployment validation and simplified troubleshooting",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-infrastructure-development-with-cloudformation-pre-deployment-validation-and-simplified-troubleshooting/"
     }
 ]
