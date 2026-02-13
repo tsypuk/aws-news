@@ -1,5 +1,13 @@
 [
     {
+        "title": "AI meets HR: Transforming talent acquisition with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/"
+    },
+    {
+        "title": "Build long-running MCP servers on Amazon Bedrock AgentCore with Strands Agents integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/"
+    },
+    {
         "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerating your marketing ideation with generative AI \u2013 Part 2: Generate custom marketing images from historical references",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-2-generate-custom-marketing-images-from-historical-references/"
-    },
-    {
-        "title": "Democratizing business intelligence: BGL\u2019s journey with Claude Agent SDK and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-business-intelligence-bgls-journey-with-claude-agent-sdk-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Use Amazon Quick Suite custom action connectors to upload text files to Google Drive using OpenAPI specification",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-amazon-quick-suite-custom-action-connectors-to-upload-text-files-to-google-drive-using-openapi-specification/"
     }
 ]

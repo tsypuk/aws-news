@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling AWS Governance: How Moeve reduced response times with automated notifications",
+        "link": "https://aws.amazon.com/blogs/mt/how-moeve-reduced-response-times-with-automated-notifcations/"
+    },
+    {
         "title": "Simplify AWS Control Tower governance with enhanced AWS CloudFormation Hooks",
         "link": "https://aws.amazon.com/blogs/mt/simplify-aws-control-tower-governance-with-enhanced-aws-cloudformation-hooks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve the resiliency with AWS Fault Injection service and Amazon ARC Region switch",
         "link": "https://aws.amazon.com/blogs/mt/improve-the-resiliency-with-aws-fault-injection-service-and-amazon-arc-region-switch/"
-    },
-    {
-        "title": "Handling sensitive log data using Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/mt/handling-sensitive-log-data-using-amazon-cloudwatch/"
     }
 ]

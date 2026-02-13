@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling life sciences research by deploying AWS ParallelCluster and AWS DataSync",
+        "link": "https://aws.amazon.com/blogs/hpc/scaling-life-sciences-research-by-deploying-aws-parallelcluster-and-aws-datasync/"
+    },
+    {
         "title": "End-to-end scalable vision intelligence pipeline using LIDAR 3D Point Clouds on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/end-to-end-scalable-vision-intelligence-pipeline-using-lidar-3d-point-clouds-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Seamlessly burst EDA jobs to AWS using Synopsys Cloud Hybrid solution",
         "link": "https://aws.amazon.com/blogs/hpc/seamlessly-burst-eda-jobs-to-aws-using-synopsys-cloud-hybrid-solution/"
-    },
-    {
-        "title": "How DTN accelerates operational weather prediction using NVIDIA Earth-2 on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/how-dtn-accelerates-operational-weather-prediction-using-nvidia-earth-2-on-aws/"
     }
 ]

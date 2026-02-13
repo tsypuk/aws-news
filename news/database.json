@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieve near-zero downtime database maintenance\u00a0by using blue/green deployments with AWS JDBC Driver",
+        "link": "https://aws.amazon.com/blogs/database/achieve-near-zero-downtime-database-maintenance-by-using-blue-green-deployments-with-aws-jdbc-driver/"
+    },
+    {
         "title": "Essential tools for monitoring and optimizing Amazon RDS for SQL Server",
         "link": "https://aws.amazon.com/blogs/database/essential-tools-for-monitoring-and-optimizing-amazon-rds-for-sql-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Strategies for upgrading Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL from version 13",
         "link": "https://aws.amazon.com/blogs/database/strategies-for-upgrading-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-from-version-13/"
-    },
-    {
-        "title": "How Tradeshift boosted operational efficiency and scalability with Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/database/how-tradeshift-boosted-operational-efficiency-and-scalability-with-amazon-rds/"
     }
 ]

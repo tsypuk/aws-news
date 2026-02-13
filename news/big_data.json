@@ -1,5 +1,9 @@
 [
     {
+        "title": "Matching your Ingestion Strategy with your OpenSearch Query Patterns",
+        "link": "https://aws.amazon.com/blogs/big-data/matching-your-ingestion-strategy-with-your-opensearch-query-patterns/"
+    },
+    {
         "title": "Amazon Athena adds 1-minute reservations and new capacity control features",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-athena-adds-1-minute-reservations-and-new-capacity-control-features/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Access a VPC-hosted Amazon OpenSearch Service domain with SAML authentication using AWS Client VPN",
         "link": "https://aws.amazon.com/blogs/big-data/access-a-vpc-hosted-amazon-opensearch-service-domain-with-saml-authentication-using-aws-client-vpn/"
-    },
-    {
-        "title": "Enable strategic data quality management with AWS Glue DQDL labels",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-strategic-data-quality-management-with-aws-glue-dqdl-labels/"
     }
 ]
