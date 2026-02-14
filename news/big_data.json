@@ -1,5 +1,9 @@
 [
     {
+        "title": "Common streaming data enrichment patterns in Amazon Kinesis Data Analytics for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/common-streaming-data-enrichment-patterns-in-amazon-kinesis-data-analytics-for-apache-flink/"
+    },
+    {
         "title": "Matching your Ingestion Strategy with your OpenSearch Query Patterns",
         "link": "https://aws.amazon.com/blogs/big-data/matching-your-ingestion-strategy-with-your-opensearch-query-patterns/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Top 10 best practices for Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/top-10-best-practices-for-amazon-emr-serverless/"
-    },
-    {
-        "title": "Access a VPC-hosted Amazon OpenSearch Service domain with SAML authentication using AWS Client VPN",
-        "link": "https://aws.amazon.com/blogs/big-data/access-a-vpc-hosted-amazon-opensearch-service-domain-with-saml-authentication-using-aws-client-vpn/"
     }
 ]
