@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/"
+    },
+    {
+        "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/"
+    },
+    {
         "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/"
-    },
-    {
-        "title": "Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-storage-lens-adds-performance-metrics-support-for-billions-of-prefixes-and-export-to-s3-tables/"
-    },
-    {
-        "title": "Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/"
-    },
-    {
-        "title": "Build multi-step applications and AI workflows with AWS Lambda durable functions",
-        "link": "https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/"
     }
 ]

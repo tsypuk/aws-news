@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce unexpected AWS costs: Tracing AWS billing charges with log correlation techniques",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/reduce-unexpected-aws-costs-tracing-aws-billing-charges-with-log-correlation-techniques/"
+    },
+    {
         "title": "Implementing dynamic origin modification in Amazon CloudFront \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/part-2-implementing-dynamic-origin-modification-in-amazon-cloudfront/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "re:Invent 2025: Your ultimate AWS Networking guide to this year\u2019s must-attend cloud event",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-reinvent-2025-your-ultimate-aws-networking-guide-to-this-years-must-attend-cloud-event/"
-    },
-    {
-        "title": "Snap Inc. uses Amazon CloudFront Origin Shield to improve download and upload latency",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/snap-inc-uses-amazon-cloudfront-origin-shield-to-improve-download-and-upload-latency/"
     }
 ]

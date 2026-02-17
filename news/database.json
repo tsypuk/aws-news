@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate your database migration journey with AI-powered AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-with-ai-powered-aws-dms/"
+    },
+    {
         "title": "Achieve near-zero downtime database maintenance\u00a0by using blue/green deployments with AWS JDBC Driver",
         "link": "https://aws.amazon.com/blogs/database/achieve-near-zero-downtime-database-maintenance-by-using-blue-green-deployments-with-aws-jdbc-driver/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyze JSON data efficiently with Amazon Redshift SUPER",
         "link": "https://aws.amazon.com/blogs/database/analyze-json-data-efficiently-with-amazon-redshift-super/"
-    },
-    {
-        "title": "Strategies for upgrading Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL from version 13",
-        "link": "https://aws.amazon.com/blogs/database/strategies-for-upgrading-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-from-version-13/"
     }
 ]

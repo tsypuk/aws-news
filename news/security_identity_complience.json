@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building an AI-powered defense-in-depth security architecture for serverless microservices",
+        "link": "https://aws.amazon.com/blogs/security/building-an-ai-powered-defense-in-depth-security-architecture-for-serverless-microservices/"
+    },
+    {
         "title": "Explore scaling options for AWS Directory Service for Microsoft Active Directory",
         "link": "https://aws.amazon.com/blogs/security/explore-scaling-options-for-aws-directory-service-for-microsoft-active-directory/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "What AWS Security learned from responding to recent npm supply chain threat campaigns",
         "link": "https://aws.amazon.com/blogs/security/what-aws-security-learned-from-responding-to-recent-npm-supply-chain-threat-campaigns/"
-    },
-    {
-        "title": "Amazon Threat Intelligence identifies Russian cyber threat group targeting Western critical infrastructure",
-        "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-russian-cyber-threat-group-targeting-western-critical-infrastructure/"
     }
 ]
