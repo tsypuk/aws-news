@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing co-located Kubernetes Pod data access with Amazon EBS Node-Local volumes",
+        "link": "https://aws.amazon.com/blogs/storage/enhancing-co-located-kubernetes-pod-data-access-with-amazon-ebs-node-local-volumes/"
+    },
+    {
         "title": "Optimize agent tool selection using Amazon S3 Vectors and Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/storage/optimize-agent-tool-selection-using-s3-vectors-and-bedrock-knowledge-bases/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to use Amazon S3 Multi-Region Access Points to streamline and reduce the cost of writing across AWS Regions",
         "link": "https://aws.amazon.com/blogs/storage/how-to-use-amazon-s3-multi-region-access-points-to-streamline-and-reduce-the-cost-of-writing-across-aws-regions/"
-    },
-    {
-        "title": "Automated cost-effective archiving and on-demand data restoration",
-        "link": "https://aws.amazon.com/blogs/storage/automated-cost-effective-archiving-and-on-demand-data-restoration/"
     }
 ]

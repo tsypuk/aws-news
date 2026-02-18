@@ -1,5 +1,17 @@
 [
     {
+        "title": "Use default encryption at rest for new Amazon Aurora clusters",
+        "link": "https://aws.amazon.com/blogs/database/use-default-encryption-at-rest-for-new-amazon-aurora-clusters/"
+    },
+    {
+        "title": "Streamline Amazon RDS management with consolidation techniques \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/database/streamline-amazon-rds-management-with-consolidation-techniques-part-2/"
+    },
+    {
+        "title": "Streamline Amazon RDS management with consolidation techniques \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/database/streamline-amazon-rds-management-with-consolidation-techniques-part-1/"
+    },
+    {
         "title": "Accelerate your database migration journey with AI-powered AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-with-ai-powered-aws-dms/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Managing IP address exhaustion for Amazon RDS Proxy",
         "link": "https://aws.amazon.com/blogs/database/managing-ip-address-exhaustion-for-amazon-rds-proxy/"
-    },
-    {
-        "title": "Choosing the right code page and collation for migration from mainframe Db2 to Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/choosing-the-right-code-page-and-collation-for-migration-from-mainframe-db2-to-amazon-rds-for-db2/"
-    },
-    {
-        "title": "Enhance the visibility of Amazon RDS instances and configuration with AWS Config and Amazon Quick Suite",
-        "link": "https://aws.amazon.com/blogs/database/enhance-the-visibility-of-amazon-rds-instances-and-configuration-with-aws-config-and-amazon-quick-suite/"
-    },
-    {
-        "title": "Analyze JSON data efficiently with Amazon Redshift SUPER",
-        "link": "https://aws.amazon.com/blogs/database/analyze-json-data-efficiently-with-amazon-redshift-super/"
     }
 ]

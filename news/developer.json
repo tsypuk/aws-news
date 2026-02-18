@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Agent Plugins for AWS",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-agent-plugins-for-aws/"
+    },
+    {
         "title": "AWS Tools Installer V2 Preview",
         "link": "https://aws.amazon.com/blogs/developer/aws-tools-installer-v2-preview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building and Debugging .NET Lambda applications with .NET Aspire (Part 2)",
         "link": "https://aws.amazon.com/blogs/developer/building-lambda-with-aspire-part-2/"
-    },
-    {
-        "title": "Building and Debugging .NET Lambda applications with .NET Aspire (Part 1)",
-        "link": "https://aws.amazon.com/blogs/developer/building-lambda-with-aspire-part-1/"
     }
 ]

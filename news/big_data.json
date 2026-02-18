@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Managed Service for Apache Flink application lifecycle management with Terraform",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-application-lifecycle-management-with-terraform/"
+    },
+    {
+        "title": "Build a data pipeline from Google Search Console to Amazon Redshift using AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-data-pipeline-from-google-search-console-to-amazon-redshift-using-aws-glue/"
+    },
+    {
         "title": "Verisk cuts processing time and storage costs with Amazon Redshift and lakehouse",
         "link": "https://aws.amazon.com/blogs/big-data/verisk-cuts-processing-time-and-storage-costs-with-amazon-redshift-and-lakehouse/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamline your Amazon Redshift maintenance event notifications with Amazon Simple Notification Service",
         "link": "https://aws.amazon.com/blogs/big-data/streamline-your-amazon-redshift-maintenance-event-notifications-with-amazon-simple-notification-service/"
-    },
-    {
-        "title": "Get started faster with one-click onboarding, serverless notebooks, and AI agents in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/get-started-faster-with-one-click-onboarding-serverless-notebooks-and-ai-agents-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Create a customizable cross-company log lake, Part II: Build and add Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/big-data/create-a-customizable-cross-company-log-lake-part-ii-build-and-add-amazon-bedrock/"
     }
 ]
