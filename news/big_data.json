@@ -1,5 +1,13 @@
 [
     {
+        "title": "How CyberArk uses Apache Iceberg and Amazon Bedrock to deliver up to 4x support productivity",
+        "link": "https://aws.amazon.com/blogs/big-data/how-cyberark-uses-apache-iceberg-and-amazon-bedrock-to-deliver-up-to-4x-support-productivity/"
+    },
+    {
+        "title": "Best practices for right-sizing Amazon OpenSearch Service domains",
+        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-right-sizing-amazon-opensearch-service-domains/"
+    },
+    {
         "title": "Amazon Managed Service for Apache Flink application lifecycle management with Terraform",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-application-lifecycle-management-with-terraform/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Tipico democratized data transformations using Amazon Managed Workflows for Apache Airflow and AWS Batch",
         "link": "https://aws.amazon.com/blogs/big-data/how-tipico-democratized-data-transformations-using-amazon-managed-workflows-for-apache-airflow-and-aws-batch/"
-    },
-    {
-        "title": "Modernize game intelligence with generative AI on Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-game-intelligence-with-generative-ai-on-amazon-redshift/"
-    },
-    {
-        "title": "Streamline your Amazon Redshift maintenance event notifications with Amazon Simple Notification Service",
-        "link": "https://aws.amazon.com/blogs/big-data/streamline-your-amazon-redshift-maintenance-event-notifications-with-amazon-simple-notification-service/"
     }
 ]

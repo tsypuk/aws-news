@@ -12,10 +12,6 @@
         "link": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/"
     },
     {
-        "title": "Announcing the AWS Digital Sovereignty Well-Architected Lens",
-        "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/"
-    },
-    {
         "title": "How Artera enhances prostate cancer diagnostics using AWS",
         "link": "https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
         "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/"
+    },
+    {
+        "title": "Simplify multi-tenant encryption with a cost-conscious AWS KMS key strategy",
+        "link": "https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/"
     }
 ]

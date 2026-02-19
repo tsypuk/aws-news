@@ -1,5 +1,13 @@
 [
     {
+        "title": "From spec to production: a three-week drug discovery agent using Kiro",
+        "link": "https://aws.amazon.com/blogs/industries/from-spec-to-production-a-three-week-drug-discovery-agent-using-kiro/"
+    },
+    {
+        "title": "Automate Procurement Workflows with AI Agents using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/industries/automate-procurement-workflows-with-ai-agents-using-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Accelerating Autonomous Network Optimization : Agentic rApp as a Service Powered by AWS and Ericsson Intelligent Automation Platform",
         "link": "https://aws.amazon.com/blogs/industries/accelerating-autonomous-network-optimization-agentic-rapp-as-a-service-powered-by-aws-and-ericsson-intelligent-automation-platform/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Architecting the Semantic MCP Server: Edge Deployment of Fine-Tuned SLMs to Solve the Data Ingestion Problem for Telco Operations",
         "link": "https://aws.amazon.com/blogs/industries/architecting-the-semantic-mcp-server-edge-deployment-of-fine-tuned-slms-to-solve-the-data-ingestion-problem-for-telco-operations/"
-    },
-    {
-        "title": "Protecting Sensitive Data at Scale: Automated detection and remediation in a financial data lake",
-        "link": "https://aws.amazon.com/blogs/industries/protecting-sensitive-data-at-scale-automated-detection-and-remediation-in-a-financial-data-lake/"
-    },
-    {
-        "title": "Cloud Adoption Update for Financial Market Infrastructure Providers 2H25",
-        "link": "https://aws.amazon.com/blogs/industries/cloud-adoption-update-for-financial-market-infrastructure-providers-2h25/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing search on Amazon DynamoDB data using zero-ETL integration with Amazon OpenSearch service",
+        "link": "https://aws.amazon.com/blogs/database/implementing-search-on-amazon-dynamodb-data-using-zero-etl-integration-with-amazon-opensearch-service/"
+    },
+    {
         "title": "Use default encryption at rest for new Amazon Aurora clusters",
         "link": "https://aws.amazon.com/blogs/database/use-default-encryption-at-rest-for-new-amazon-aurora-clusters/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing pre-warming for Amazon Keyspaces tables",
         "link": "https://aws.amazon.com/blogs/database/introducing-pre-warming-for-amazon-keyspaces-tables/"
-    },
-    {
-        "title": "Managing IP address exhaustion for Amazon RDS Proxy",
-        "link": "https://aws.amazon.com/blogs/database/managing-ip-address-exhaustion-for-amazon-rds-proxy/"
     }
 ]

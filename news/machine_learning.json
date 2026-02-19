@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build unified intelligence with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/"
+    },
+    {
         "title": "Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser",
         "link": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/"
     },
@@ -14,10 +22,6 @@
     {
         "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Mastering Amazon Bedrock throttling and service availability: A comprehensive guide",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/"
     },
     {
         "title": "Swann provides Generative AI to millions of IoT Devices using Amazon Bedrock",
@@ -74,9 +78,5 @@
     {
         "title": "How Associa transforms document classification with the GenAI IDP Accelerator and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-associa-transforms-document-classification-with-the-genai-idp-accelerator-and-amazon-bedrock/"
-    },
-    {
-        "title": "A practical guide to Amazon Nova Multimodal Embeddings",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-practical-guide-to-amazon-nova-multimodal-embeddings/"
     }
 ]
