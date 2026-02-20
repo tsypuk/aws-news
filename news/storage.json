@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automatically decompress files in Amazon S3 using AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/storage/automatically-decompress-files-in-amazon-s3-using-aws-step-functions/"
+    },
+    {
         "title": "Enhancing co-located Kubernetes Pod data access with Amazon EBS Node-Local volumes",
         "link": "https://aws.amazon.com/blogs/storage/enhancing-co-located-kubernetes-pod-data-access-with-amazon-ebs-node-local-volumes/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scan backups for malware with Amazon GuardDuty Malware Protection for AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/scan-backups-for-malware-with-amazon-guardduty-malware-protection-for-aws-backup/"
-    },
-    {
-        "title": "How to use Amazon S3 Multi-Region Access Points to streamline and reduce the cost of writing across AWS Regions",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-use-amazon-s3-multi-region-access-points-to-streamline-and-reduce-the-cost-of-writing-across-aws-regions/"
     }
 ]
