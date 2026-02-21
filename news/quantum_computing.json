@@ -1,5 +1,9 @@
 [
     {
+        "title": "Qiskit-Braket provider v0.11: New Primitives and Flexible Circuit Compilation",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/qiskit-braket-provider-v0-11-new-primitives-and-flexible-circuit-compilation/"
+    },
+    {
         "title": "Quantum-Guided Cluster Algorithms for Combinatorial Optimization",
         "link": "https://aws.amazon.com/blogs/quantum-computing/quantum-guided-cluster-algorithms-for-combinatorial-optimization/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "AWS Collaborates with Chugai Pharmaceutical Co. on Quantum-Inspired and Constraint Programming Methods for Cyclic Peptide-Protein Docking",
         "link": "https://aws.amazon.com/blogs/quantum-computing/aws-collaborates-with-chugai-pharmaceutical-co-on-quantum-inspired-and-constraint-programming-methods-for-cyclic-peptide-protein-docking/"
-    },
-    {
-        "title": "Exploring Quantum Measurements, Observables and Operators: Practical insights with Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/exploring-quantum-measurements-observables-and-operators-practical-insights-with-amazon-braket/"
     }
 ]

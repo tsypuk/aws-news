@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon SageMaker AI in 2025, a year in review part 1: Flexible Training Plans and improvements to price performance for inference workloads",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/"
+    },
+    {
+        "title": "Amazon SageMaker AI in 2025, a year in review part 2: Improved observability and enhanced features for SageMaker AI model customization and hosting",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/"
+    },
+    {
+        "title": "Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-external-tools-with-amazon-quick-agents-using-model-context-protocol-mcp/"
+    },
+    {
         "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Accelerate agentic application development with a full-stack starter template for Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-application-development-with-a-full-stack-starter-template-for-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/"
-    },
-    {
-        "title": "Structured outputs on Amazon Bedrock: Schema-compliant AI responses",
-        "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/"
-    },
-    {
-        "title": "Manage Amazon SageMaker HyperPod clusters using the HyperPod CLI and SDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-clusters-using-the-hyperpod-cli-and-sdk/"
     }
 ]

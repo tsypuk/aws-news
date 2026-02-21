@@ -1,5 +1,17 @@
 [
     {
+        "title": "How government agencies can transform cybersecurity operations with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-government-agencies-can-transform-cybersecurity-operations-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Granicus and AWS: Reshaping government service with trusted AI",
+        "link": "https://aws.amazon.com/blogs/publicsector/granicus-and-aws-reshaping-government-service-with-trusted-ai/"
+    },
+    {
+        "title": "Building a serverless MRI pipeline for precision medicine on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-a-serverless-mri-pipeline-for-precision-medicine-on-aws/"
+    },
+    {
         "title": "Four ways Amazon Quick Suite can help State Medicaid Agency APD authors",
         "link": "https://aws.amazon.com/blogs/publicsector/four-ways-amazon-quick-suite-can-help-apd-authors/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Architecting secure AI sandboxes in AWS GovCloud (US)",
         "link": "https://aws.amazon.com/blogs/publicsector/architecting-secure-ai-sandboxes-in-aws-govcloud-us/"
-    },
-    {
-        "title": "Why your AI agents give inconsistent results, and how Agent SOPs fix it",
-        "link": "https://aws.amazon.com/blogs/publicsector/why-your-ai-agents-give-inconsistent-results-and-how-agent-sops-fix-it/"
-    },
-    {
-        "title": "How Agriculture and Agri-Food Canada built a cloud-based coherence change detection solution with AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-agriculture-and-agri-food-canada-built-a-cloud-based-coherence-change-detection-solution-with-aws/"
-    },
-    {
-        "title": "From 911 to city hall: CentralSquare and AWS surpass 1,000 cloud deployments, modernizing public sector operations at scale",
-        "link": "https://aws.amazon.com/blogs/publicsector/from-911-to-city-hall-centralsquare-and-aws-surpass-1000-cloud-deployments-modernizing-public-sector-operations-at-scale/"
     }
 ]

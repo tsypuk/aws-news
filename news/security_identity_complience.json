@@ -1,5 +1,9 @@
 [
     {
+        "title": "AI-augmented threat actor accesses FortiGate devices at scale",
+        "link": "https://aws.amazon.com/blogs/security/ai-augmented-threat-actor-accesses-fortigate-devices-at-scale/"
+    },
+    {
         "title": "Building an AI-powered defense-in-depth security architecture for serverless microservices",
         "link": "https://aws.amazon.com/blogs/security/building-an-ai-powered-defense-in-depth-security-architecture-for-serverless-microservices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "GuardDuty Extended Threat Detection uncovers cryptomining campaign on Amazon EC2 and Amazon ECS",
         "link": "https://aws.amazon.com/blogs/security/cryptomining-campaign-targeting-amazon-ec2-and-amazon-ecs/"
-    },
-    {
-        "title": "What AWS Security learned from responding to recent npm supply chain threat campaigns",
-        "link": "https://aws.amazon.com/blogs/security/what-aws-security-learned-from-responding-to-recent-npm-supply-chain-threat-campaigns/"
     }
 ]
