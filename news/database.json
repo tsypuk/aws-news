@@ -1,5 +1,9 @@
 [
     {
+        "title": "Resilience testing on Amazon ElastiCache with AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/database/resilience-testing-on-amazon-elasticache-with-aws-fault-injection-service/"
+    },
+    {
         "title": "Upgrade legacy Amazon RDS file systems to increase storage capacity and improve performance with minimal downtime",
         "link": "https://aws.amazon.com/blogs/database/upgrade-legacy-amazon-rds-file-systems-to-increase-storage-capacity-and-improve-performance-with-minimal-downtime/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon DynamoDB global tables now support replication across AWS accounts",
         "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-global-tables-now-support-replication-across-aws-accounts/"
-    },
-    {
-        "title": "Optimize LLM response costs and latency with effective caching",
-        "link": "https://aws.amazon.com/blogs/database/optimize-llm-response-costs-and-latency-with-effective-caching/"
     }
 ]

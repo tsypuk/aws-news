@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/"
+    },
+    {
         "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing checkpointless and elastic training on Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/"
     }
 ]
