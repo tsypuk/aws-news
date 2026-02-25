@@ -1,5 +1,17 @@
 [
     {
+        "title": "Agentic GraphRAG for Capital Markets",
+        "link": "https://aws.amazon.com/blogs/industries/agentic-graphrag-for-capital-markets/"
+    },
+    {
+        "title": "Migrating enterprise ML workloads from Databricks to AWS for large scale ML",
+        "link": "https://aws.amazon.com/blogs/industries/migrating-enterprise-ml-workloads-from-databricks-to-aws-for-large-scale-ml/"
+    },
+    {
+        "title": "Nissan Collaborates with AWS to Accelerate SDV Development",
+        "link": "https://aws.amazon.com/blogs/industries/nissan-collaborates-with-aws-to-accelerate-sdv-development/"
+    },
+    {
         "title": "From spec to production: a three-week drug discovery agent using Kiro",
         "link": "https://aws.amazon.com/blogs/industries/from-spec-to-production-a-three-week-drug-discovery-agent-using-kiro/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Visualizing Distributed and Edge Applications Performance Using Amazon Quick Suite Sankey Diagram",
         "link": "https://aws.amazon.com/blogs/industries/visualizing-distributed-and-edge-applications-performance-using-amazon-quick-suite-sankey-diagram/"
-    },
-    {
-        "title": "How Frontier Communications uses Amazon Bedrock to transform customer insights from call transcripts",
-        "link": "https://aws.amazon.com/blogs/industries/how-frontier-communications-uses-amazon-bedrock-to-transform-customer-insights-from-call-transcripts/"
-    },
-    {
-        "title": "How Angel One Built Post-Trade Reporting Platform on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-angel-one-built-post-trade-reporting-platform-on-aws/"
-    },
-    {
-        "title": "Architecting the Semantic MCP Server: Edge Deployment of Fine-Tuned SLMs to Solve the Data Ingestion Problem for Telco Operations",
-        "link": "https://aws.amazon.com/blogs/industries/architecting-the-semantic-mcp-server-edge-deployment-of-fine-tuned-slms-to-solve-the-data-ingestion-problem-for-telco-operations/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transform live video for mobile audiences with AWS Elemental Inference",
+        "link": "https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/"
+    },
+    {
         "title": "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
         "link": "https://aws.amazon.com/blogs/aws/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/"
-    },
-    {
-        "title": "Introducing checkpointless and elastic training on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deep dive: Simplifying resource orchestration with Amazon EKS Capabilities",
+        "link": "https://aws.amazon.com/blogs/containers/deep-dive-simplifying-resource-orchestration-with-amazon-eks-capabilities/"
+    },
+    {
+        "title": "Running containerized hybrid nodes with Amazon Elastic Kubernetes Service",
+        "link": "https://aws.amazon.com/blogs/containers/running-containerized-hybrid-nodes-with-amazon-elastic-kubernetes-service/"
+    },
+    {
         "title": "Enhance Kubernetes high availability with Amazon Application Recovery Controller and Karpenter integration",
         "link": "https://aws.amazon.com/blogs/containers/enhance-kubernetes-high-availability-with-amazon-application-recovery-controller-and-karpenter-integration/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Streamline your containerized CI/CD with GitLab Runners and Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/streamline-your-containerized-ci-cd-with-gitlab-runners-and-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Part 2: Observing and scaling MLOps infrastructure on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/part-2-observing-and-scaling-mlops-infrastructure-on-amazon-eks/"
-    },
-    {
-        "title": "Efficient image and model caching strategies for AI/ML and generative AI workloads on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/efficient-image-and-model-caching-strategies-for-ai-ml-and-generative-ai-workloads-on-amazon-eks/"
     }
 ]

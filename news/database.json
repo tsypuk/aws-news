@@ -1,5 +1,9 @@
 [
     {
+        "title": "Well-Architected design for resiliency with Oracle Database@AWS",
+        "link": "https://aws.amazon.com/blogs/database/well-architected-design-for-resiliency-with-oracle-databaseaws/"
+    },
+    {
         "title": "Resilience testing on Amazon ElastiCache with AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/database/resilience-testing-on-amazon-elasticache-with-aws-fault-injection-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate your Neo4j to Amazon Neptune migration using the neo4j-to-neptune utility",
         "link": "https://aws.amazon.com/blogs/database/automate-your-neo4j-to-amazon-neptune-migration-using-the-neo4j-to-neptune-utility/"
-    },
-    {
-        "title": "Amazon DynamoDB global tables now support replication across AWS accounts",
-        "link": "https://aws.amazon.com/blogs/database/amazon-dynamodb-global-tables-now-support-replication-across-aws-accounts/"
     }
 ]

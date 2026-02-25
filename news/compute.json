@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon SageMaker AI now hosts NVIDIA Evo-2 NIM microservices",
+        "link": "https://aws.amazon.com/blogs/compute/amazon-sagemaker-ai-now-hosting-nvidia-evo-2-nim-microservices/"
+    },
+    {
         "title": "Building fault-tolerant applications with AWS Lambda durable functions",
         "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-long-running-application-with-aws-lambda-durable-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improve API discoverability with the new Amazon API Gateway Portal",
         "link": "https://aws.amazon.com/blogs/compute/improve-api-discoverability-with-the-new-amazon-api-gateway-portal/"
-    },
-    {
-        "title": "Building responsive APIs with Amazon API Gateway response streaming",
-        "link": "https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/"
     }
 ]
