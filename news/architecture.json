@@ -1,5 +1,9 @@
 [
     {
+        "title": "6,000 AWS accounts, three people, one platform: Lessons learned",
+        "link": "https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/"
+    },
+    {
         "title": "How Convera built fine-grained API authorization with Amazon Verified Permissions",
         "link": "https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
         "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/"
-    },
-    {
-        "title": "Simplify multi-tenant encryption with a cost-conscious AWS KMS key strategy",
-        "link": "https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building advanced quantum chemistry calculations with Kvantify Qrunch on Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/building-advanced-quantum-chemistry-calculations-with-kvantify-qrunch-on-amazon-braket/"
+    },
+    {
         "title": "Qiskit-Braket provider v0.11: New Primitives and Flexible Circuit Compilation",
         "link": "https://aws.amazon.com/blogs/quantum-computing/qiskit-braket-provider-v0-11-new-primitives-and-flexible-circuit-compilation/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Leveraging near-term quantum hardware for simulating high-dimensional dynamics",
         "link": "https://aws.amazon.com/blogs/quantum-computing/leveraging-near-term-quantum-hardware-for-simulating-high-dimensional-dynamics/"
-    },
-    {
-        "title": "AWS Collaborates with Chugai Pharmaceutical Co. on Quantum-Inspired and Constraint Programming Methods for Cyclic Peptide-Protein Docking",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/aws-collaborates-with-chugai-pharmaceutical-co-on-quantum-inspired-and-constraint-programming-methods-for-cyclic-peptide-protein-docking/"
     }
 ]

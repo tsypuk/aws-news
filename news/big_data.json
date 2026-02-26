@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Swiss Life Germany automated data governance and collaboration with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/how-swiss-life-germany-automated-data-governance-and-collaboration-with-amazon-sagemaker/"
+    },
+    {
         "title": "Implement a data mesh pattern in Amazon SageMaker Catalog without changing applications",
         "link": "https://aws.amazon.com/blogs/big-data/implement-a-data-mesh-pattern-with-amazon-sagemaker-catalog-without-making-changes-to-your-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a trusted foundation for data and AI using Alation and Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/build-a-trusted-foundation-for-data-and-ai-using-alation-and-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Reduce EMR HBase upgrade downtime with the EMR read-replica prewarm feature",
-        "link": "https://aws.amazon.com/blogs/big-data/reduce-emr-hbase-upgrade-downtime-with-the-emr-read-replica-prewarm-feature/"
     }
 ]
