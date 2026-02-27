@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to use AWS Payment Cryptography Service to simplify payment flows",
+        "link": "https://aws.amazon.com/blogs/industries/how-to-use-aws-payment-cryptography-service-to-simplify-payment-flows/"
+    },
+    {
+        "title": "Accelerate development of bioinformatics workflows on AWS HealthOmics using call caching",
+        "link": "https://aws.amazon.com/blogs/industries/accelerate-development-of-bioinformatics-workflows-on-aws-healthomics-using-call-caching/"
+    },
+    {
         "title": "Intent-Based Nokia Network Slicing Powered by Amazon Bedrock: Enabling Intelligent, Adaptive 5G Slicing",
         "link": "https://aws.amazon.com/blogs/industries/intent-based-nokia-network-slicing-powered-by-amazon-bedrock-enabling-intelligent-adaptive-5g-slicing/"
     },
@@ -8,7 +16,7 @@
         "link": "https://aws.amazon.com/blogs/industries/agentic-graphrag-for-capital-markets/"
     },
     {
-        "title": "Migrating enterprise ML workloads from Databricks to AWS for large scale ML",
+        "title": "Migrating Enterprise ML Workloads to AWS for large scale ML",
         "link": "https://aws.amazon.com/blogs/industries/migrating-enterprise-ml-workloads-from-databricks-to-aws-for-large-scale-ml/"
     },
     {
@@ -30,13 +38,5 @@
     {
         "title": "AWS empowers energy companies to accelerate sustainable biofuel supply chains",
         "link": "https://aws.amazon.com/blogs/industries/aws-empowers-energy-companies-to-accelerate-sustainable-biofuel-supply-chains/"
-    },
-    {
-        "title": "Aeron on AWS: 2025 Performance Benchmark Results",
-        "link": "https://aws.amazon.com/blogs/industries/aeron-on-aws-2025-performance-benchmark-results/"
-    },
-    {
-        "title": "Navigating the EU Data Act for IoT Solutions: Part 2- Data Discovery and Classification, Management, Accessibility, and Governance",
-        "link": "https://aws.amazon.com/blogs/industries/navigating-the-eu-data-act-for-iot-solutions-part-2-data-discovery-and-classification-management-accessibility-and-governance/"
     }
 ]

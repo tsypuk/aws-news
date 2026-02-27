@@ -1,5 +1,9 @@
 [
     {
+        "title": "Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure",
+        "link": "https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/"
+    },
+    {
         "title": "6,000 AWS accounts, three people, one platform: Lessons learned",
         "link": "https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build resilient generative AI agents",
         "link": "https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/"
-    },
-    {
-        "title": "A scalable, elastic database and search solution for 1B+ vectors built on LanceDB and Amazon S3",
-        "link": "https://aws.amazon.com/blogs/architecture/a-scalable-elastic-database-and-search-solution-for-1b-vectors-built-on-lancedb-and-amazon-s3/"
     }
 ]

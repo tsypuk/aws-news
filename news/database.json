@@ -1,5 +1,9 @@
 [
     {
+        "title": "Replicate spatial data using AWS DMS and Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/replicate-spatial-data-using-aws-dms-and-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Well-Architected design for resiliency with Oracle Database@AWS",
         "link": "https://aws.amazon.com/blogs/database/well-architected-design-for-resiliency-with-oracle-databaseaws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Validate Neo4j Cypher queries for Amazon Neptune migration",
         "link": "https://aws.amazon.com/blogs/database/validate-neo4j-cypher-queries-for-amazon-neptune-migration/"
-    },
-    {
-        "title": "Automate your Neo4j to Amazon Neptune migration using the neo4j-to-neptune utility",
-        "link": "https://aws.amazon.com/blogs/database/automate-your-neo4j-to-amazon-neptune-migration-using-the-neo4j-to-neptune-utility/"
     }
 ]

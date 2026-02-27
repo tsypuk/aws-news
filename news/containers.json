@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate Amazon EC2 to ECS Express Mode using Kiro CLI and MCP servers",
+        "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-ecs-express-mode-using-kiro-cli-and-mcp-servers/"
+    },
+    {
         "title": "Deep dive: Simplifying resource orchestration with Amazon EKS Capabilities",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-simplifying-resource-orchestration-with-amazon-eks-capabilities/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "End-to-end recovery from AZ impairments in Amazon EKS using EKS Zonal shift and Istio",
         "link": "https://aws.amazon.com/blogs/containers/end-to-end-recovery-from-az-impairments-in-amazon-eks-using-eks-zonal-shift-and-istio/"
-    },
-    {
-        "title": "Streamline your containerized CI/CD with GitLab Runners and Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/containers/streamline-your-containerized-ci-cd-with-gitlab-runners-and-amazon-eks-auto-mode/"
     }
 ]

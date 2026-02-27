@@ -1,5 +1,17 @@
 [
     {
+        "title": "Learnings from COBOL modernization in the real world",
+        "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/"
+    },
+    {
+        "title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/"
+    },
+    {
+        "title": "Large model inference container \u2013 latest capabilities and performance enhancements",
+        "link": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/"
+    },
+    {
         "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build unified intelligence with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Evaluating AI agents: Real-world lessons from building agentic systems at Amazon",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/"
-    },
-    {
-        "title": "Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/"
-    },
-    {
-        "title": "AI meets HR: Transforming talent acquisition with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/"
     }
 ]

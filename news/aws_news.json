@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions",
+        "link": "https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/"
+    },
+    {
         "title": "Transform live video for mobile audiences with AWS Elemental Inference",
         "link": "https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Bedrock adds reinforcement \ufb01ne-tuning simplifying how developers build smarter, more accurate AI models",
         "link": "https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/"
-    },
-    {
-        "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
-        "link": "https://aws.amazon.com/blogs/aws/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/"
     }
 ]
