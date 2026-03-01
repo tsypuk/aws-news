@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing new output formats in AWS CLI v2",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-new-output-formats-in-aws-cli-v2/"
+    },
+    {
         "title": "AWS Tools for PowerShell v4 Maintenance Mode Announcement",
         "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v4-maintenance-mode-announcement/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the AWS IoT Device SDK for Swift (Developer Preview)",
         "link": "https://aws.amazon.com/blogs/developer/introducing-the-aws-iot-device-sdk-for-swift-developer-preview/"
-    },
-    {
-        "title": "AWS SDK for Ruby: Deprecating Ruby 2.5 & 2.6 Runtime Supports and Future Compatibility",
-        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-ruby-deprecating-ruby-2-5-2-6-runtime-supports-and-future-compatibility/"
     }
 ]
