@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building specialized AI without sacrificing intelligence:\u00a0Nova Forge data mixing in action",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/"
+    },
+    {
+        "title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/"
+    },
+    {
         "title": "Learnings from COBOL modernization in the real world",
         "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP)",
         "link": "https://aws.amazon.com/blogs/machine-learning/integrate-external-tools-with-amazon-quick-agents-using-model-context-protocol-mcp/"
-    },
-    {
-        "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/"
-    },
-    {
-        "title": "Amazon Quick now supports key pair authentication to Snowflake data source",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/"
-    },
-    {
-        "title": "Build unified intelligence with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/"
     }
 ]

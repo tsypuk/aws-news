@@ -1,5 +1,9 @@
 [
     {
+        "title": "Code Ocean and AWS transform reproducible scientific research with agentic AI",
+        "link": "https://aws.amazon.com/blogs/apn/code-ocean-and-aws-transform-reproducible-scientific-research-with-agentic-ai/"
+    },
+    {
         "title": "Unlocking API Security with Natural Language: How Salt Security\u2019s MCP Server Transforms Insights into Action",
         "link": "https://aws.amazon.com/blogs/apn/unlocking-api-security-with-natural-language-how-salt-securitys-mcp-server-transforms-insights-into-action/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS SaaS architecture patterns implementation on Amazon EKS: Blux, a Korean startup",
         "link": "https://aws.amazon.com/blogs/apn/aws-saas-architecture-patterns-implementation-on-amazon-eks-blux-a-korean-startup/"
-    },
-    {
-        "title": "Enhancing code quality at scale with SonarQube and Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/apn/enhancing-code-quality-at-scale-with-sonarqube-and-amazon-q-developer/"
     }
 ]
