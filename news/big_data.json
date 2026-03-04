@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building a modern lakehouse architecture: Yggdrasil Gaming\u2019s journey from BigQuery to AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/building-a-modern-lakehouse-architecture-yggdrasil-gamings-journey-from-bigquery-to-aws/"
+    },
+    {
+        "title": "Set up production-ready monitoring for Amazon MSK using CloudWatch alarms",
+        "link": "https://aws.amazon.com/blogs/big-data/set-up-production-ready-monitoring-for-amazon-msk-using-cloudwatch-alarms/"
+    },
+    {
         "title": "Standardize Amazon Redshift operations using Templates",
         "link": "https://aws.amazon.com/blogs/big-data/standardize-amazon-redshift-operations-using-templates/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Orchestrate end-to-end scalable ETL pipeline with Amazon SageMaker workflows",
         "link": "https://aws.amazon.com/blogs/big-data/orchestrate-end-to-end-scalable-etl-pipeline-with-amazon-sagemaker-workflows/"
-    },
-    {
-        "title": "Reduce Mean Time to Resolution with an observability agent",
-        "link": "https://aws.amazon.com/blogs/big-data/reduce-mean-time-to-resolution-with-an-observability-agent/"
-    },
-    {
-        "title": "Amazon OpenSearch Ingestion 101: Set CloudWatch alarms for key metrics",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-ingestion-service-101-set-cloudwatch-alarms-for-key-metrics/"
     }
 ]

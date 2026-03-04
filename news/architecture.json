@@ -1,5 +1,9 @@
 [
     {
+        "title": "The Hidden Price Tag: Uncovering Hidden Costs in Cloud Architectures with the AWS Well-Architected Framework",
+        "link": "https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/"
+    },
+    {
         "title": "Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure",
         "link": "https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modernization of real-time payment orchestration on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/"
-    },
-    {
-        "title": "Build resilient generative AI agents",
-        "link": "https://aws.amazon.com/blogs/architecture/build-resilient-generative-ai-agents/"
     }
 ]

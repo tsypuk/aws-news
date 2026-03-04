@@ -1,5 +1,13 @@
 [
     {
+        "title": "2025 FINMA ISAE 3000 Type II attestation report available with 183 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/2025-finma-isae-3000-type-ii-attestation-report-available-with-183-services-in-scope/"
+    },
+    {
+        "title": "2025 PiTuKri ISAE 3000 Type II attestation report available with 183 services in scope",
+        "link": "https://aws.amazon.com/blogs/security/2025-pitukri-isae-3000-type-ii-attestation-report-available-with-183-services-in-scope/"
+    },
+    {
         "title": "Understanding IAM for Managed AWS MCP Servers",
         "link": "https://aws.amazon.com/blogs/security/understanding-iam-for-managed-aws-mcp-servers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamline security response at scale with AWS Security Hub automation",
         "link": "https://aws.amazon.com/blogs/security/streamline-security-response-at-scale-with-aws-security-hub-automation/"
-    },
-    {
-        "title": "Fall 2025 PCI DSS compliance package available now",
-        "link": "https://aws.amazon.com/blogs/security/fall-2025-pci-dss-compliance-package-available-now/"
-    },
-    {
-        "title": "AWS named Leader in the 2025 ISG report for Sovereign Cloud Infrastructure Services (EU)",
-        "link": "https://aws.amazon.com/blogs/security/aws-named-leader-in-the-2025-isg-report-for-sovereign-cloud-infrastructure-services-eu/"
     }
 ]
