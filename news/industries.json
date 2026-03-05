@@ -1,5 +1,13 @@
 [
     {
+        "title": "DR Strategies for Connected Mobility Workloads, Part 1: Backup and Restore",
+        "link": "https://aws.amazon.com/blogs/industries/dr-strategies-for-connected-mobility-workloads-part-1-backup-and-restore/"
+    },
+    {
+        "title": "Accelerating mainframe modernization: How Toyota Motor Europe (TME) uses Amazon Bedrock to automate legacy code documentation",
+        "link": "https://aws.amazon.com/blogs/industries/accelerating-mainframe-modernization-how-toyota-motor-europe-tme-uses-amazon-bedrock-to-automate-legacy-code-documentation/"
+    },
+    {
         "title": "Optimizing Epic on AWS: R8i instances deliver 20-30% cost savings with enhanced SMP performance",
         "link": "https://aws.amazon.com/blogs/industries/optimizing-epic-on-aws-r8i-instances-deliver-20-30-cost-savings-with-enhanced-smp-performance/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "From spec to production: a three-week drug discovery agent using Kiro",
         "link": "https://aws.amazon.com/blogs/industries/from-spec-to-production-a-three-week-drug-discovery-agent-using-kiro/"
-    },
-    {
-        "title": "Automate Procurement Workflows with AI Agents using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/industries/automate-procurement-workflows-with-ai-agents-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Accelerating Autonomous Network Optimization : Agentic rApp as a Service Powered by AWS and Ericsson Intelligent Automation Platform",
-        "link": "https://aws.amazon.com/blogs/industries/accelerating-autonomous-network-optimization-agentic-rapp-as-a-service-powered-by-aws-and-ericsson-intelligent-automation-platform/"
     }
 ]

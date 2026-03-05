@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS SDK for .NET V3 Maintenance Mode\u00a0Announcement",
+        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-net-v3-maintenance-mode-announcement/"
+    },
+    {
         "title": "GA Release of the AWS SDK Java 2.x HTTP Client built on Apache HttpClient 5.6",
         "link": "https://aws.amazon.com/blogs/developer/ga-release-of-the-aws-sdk-java-2-x-http-client-built-on-apache-httpclient-5-6/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing the end of support for AWS DynamoDB Session State Provider",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-aws-dynamodb-session-state-provider/"
-    },
-    {
-        "title": "General Availability of AWS SDK for .NET V4.0",
-        "link": "https://aws.amazon.com/blogs/developer/general-availability-of-aws-sdk-for-net-v4-0/"
     }
 ]
