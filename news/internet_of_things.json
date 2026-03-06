@@ -1,5 +1,9 @@
 [
     {
+        "title": "The data behind the win: How Catapult and AWS IoT are transforming pro sports",
+        "link": "https://aws.amazon.com/blogs/iot/the-data-behind-the-win-how-catapult-and-aws-iot-are-transforming-pro-sports/"
+    },
+    {
         "title": "Optimize long-term video storage costs with Amazon Kinesis Video Streams warm storage tier",
         "link": "https://aws.amazon.com/blogs/iot/optimize-long-term-video-storage-costs-with-amazon-kinesis-video-streams-warm-storage-tier/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transforming Kitchens: CHEF iQ\u2019s AWS Powered IoT Journey",
         "link": "https://aws.amazon.com/blogs/iot/transforming-kitchens-chef-iqs-aws-powered-iot-journey/"
-    },
-    {
-        "title": "Build a proof-of-concept IoT solution in under 3 hours with the AWS IoT Device Client",
-        "link": "https://aws.amazon.com/blogs/iot/build-a-proof-of-concept-iot-solution-in-under-3-hours-with-the-aws-iot-device-client/"
     }
 ]

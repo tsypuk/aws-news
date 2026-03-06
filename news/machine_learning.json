@@ -1,5 +1,13 @@
 [
     {
+        "title": "Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline",
+        "link": "https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/"
+    },
+    {
+        "title": "Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/"
+    },
+    {
         "title": "Embed Amazon Quick Suite chat agents in enterprise applications",
         "link": "https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
         "link": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
-    },
-    {
-        "title": "Introducing Amazon Bedrock global cross-Region inference for Anthropic\u2019s Claude models in the Middle East Regions (UAE and Bahrain)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-global-cross-region-inference-for-anthropics-claude-models-in-the-middle-east-regions/"
-    },
-    {
-        "title": "Scaling data annotation using vision-language models to power physical AI systems",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/"
     }
 ]

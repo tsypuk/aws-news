@@ -1,5 +1,9 @@
 [
     {
+        "title": "Standardizing construct properties with AWS CDK Property Injection",
+        "link": "https://aws.amazon.com/blogs/devops/standardizing-construct-properties-with-aws-cdk-property-injection/"
+    },
+    {
         "title": "Automate AWS Lambda Runtime Upgrades with AWS Transform custom",
         "link": "https://aws.amazon.com/blogs/devops/automate-aws-lambda-runtime-upgrades-with-aws-transform-custom/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing CloudFormation IDE Experience: End-to-End Development in Your IDE",
         "link": "https://aws.amazon.com/blogs/devops/announcing-cloudformation-ide-experience-end-to-end-development-in-your-ide/"
-    },
-    {
-        "title": "Amazon introduces two benchmark datasets for evaluating AI agents\u2019 ability on code migration",
-        "link": "https://aws.amazon.com/blogs/devops/amazon-introduces-two-benchmark-datasets-for-evaluating-ai-agents-ability-on-code-migration/"
     }
 ]

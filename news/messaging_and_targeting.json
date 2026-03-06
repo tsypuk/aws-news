@@ -1,5 +1,9 @@
 [
     {
+        "title": "Adding a voice layer to WhatsApp conversations with AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/adding-a-voice-layer-to-whatsapp-conversations-with-aws-end-user-messaging/"
+    },
+    {
         "title": "Build an AI-powered course recommender using Amazon Bedrock and AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-an-ai-powered-course-recommender-using-amazon-bedrock-and-aws-end-user-messaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A Complete Guide to Resource Sharing for AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/a-complete-guide-to-resource-sharing-for-aws-end-user-messaging/"
-    },
-    {
-        "title": "Improve email deliverability with tenant management in Amazon SES",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/improve-email-deliverability-with-tenant-management-in-amazon-ses/"
     }
 ]
