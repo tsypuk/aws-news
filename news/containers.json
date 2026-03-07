@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the end-of-support for the AWS Copilot CLI",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-the-end-of-support-for-the-aws-copilot-cli/"
+    },
+    {
         "title": "Migrate Amazon EC2 to ECS Express Mode using Kiro CLI and MCP servers",
         "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-ecs-express-mode-using-kiro-cli-and-mcp-servers/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Monitor Amazon ECS Events with Amazon EventBridge Filtering",
         "link": "https://aws.amazon.com/blogs/containers/monitor-amazon-ecs-events-with-amazon-eventbridge-filtering/"
-    },
-    {
-        "title": "End-to-end recovery from AZ impairments in Amazon EKS using EKS Zonal shift and Istio",
-        "link": "https://aws.amazon.com/blogs/containers/end-to-end-recovery-from-az-impairments-in-amazon-eks-using-eks-zonal-shift-and-istio/"
     }
 ]

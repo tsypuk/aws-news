@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enabling high availability of Amazon EC2 instances on AWS Outposts servers (Part 3)",
+        "link": "https://aws.amazon.com/blogs/compute/enabling-high-availability-of-amazon-ec2-instances-on-aws-outposts-servers-part-3/"
+    },
+    {
         "title": "Optimizing Compute-Intensive Serverless Workloads with Multi-threaded Rust on AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/optimizing-compute-intensive-serverless-workloads-with-multi-threaded-rust-on-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless strategies for streaming LLM responses",
         "link": "https://aws.amazon.com/blogs/compute/serverless-strategies-for-streaming-llm-responses/"
-    },
-    {
-        "title": "Building multi-tenant SaaS applications with AWS Lambda\u2019s new tenant isolation mode",
-        "link": "https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/"
     }
 ]
