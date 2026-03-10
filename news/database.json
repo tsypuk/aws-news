@@ -1,5 +1,9 @@
 [
     {
+        "title": "From bottlenecks to breakthroughs: Dutchie\u2019s database migration journey",
+        "link": "https://aws.amazon.com/blogs/database/from-bottlenecks-to-breakthroughs-dutchies-database-migration-journey/"
+    },
+    {
         "title": "Automating\u00a0Amazon RDS backup and maintenance windows for Daylight Saving Time shifts",
         "link": "https://aws.amazon.com/blogs/database/automating-amazon-rds-backup-and-maintenance-windows-for-daylight-saving-time-shifts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Trigger AWS Lambda functions from Amazon RDS for SQL Server database events",
         "link": "https://aws.amazon.com/blogs/database/trigger-aws-lambda-functions-from-amazon-rds-for-sql-server-database-events/"
-    },
-    {
-        "title": "Build fraud detection systems using AWS Entity Resolution and Amazon Neptune Analytics",
-        "link": "https://aws.amazon.com/blogs/database/build-fraud-detection-systems-using-aws-entity-resolution-and-amazon-neptune-analytics/"
     }
 ]

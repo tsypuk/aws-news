@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/"
+    },
+    {
+        "title": "Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/"
+    },
+    {
         "title": "Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline",
         "link": "https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs",
         "link": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/"
-    },
-    {
-        "title": "Generate structured output from LLMs with Dottxt Outlines in AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/"
-    },
-    {
-        "title": "Global cross-Region inference for latest Anthropic Claude Opus, Sonnet and Haiku models on Amazon Bedrock in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-        "link": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
     }
 ]
