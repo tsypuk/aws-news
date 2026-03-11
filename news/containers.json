@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automated deployments with GitHub Actions for Amazon ECS Express Mode",
+        "link": "https://aws.amazon.com/blogs/containers/automated-deployments-with-github-actions-for-amazon-ecs-express-mode/"
+    },
+    {
         "title": "Announcing the end-of-support for the AWS Copilot CLI",
         "link": "https://aws.amazon.com/blogs/containers/announcing-the-end-of-support-for-the-aws-copilot-cli/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simplify Kubernetes cluster management using ACK, kro and Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/simplify-kubernetes-cluster-management-using-ack-kro-and-amazon-eks/"
-    },
-    {
-        "title": "Monitor Amazon ECS Events with Amazon EventBridge Filtering",
-        "link": "https://aws.amazon.com/blogs/containers/monitor-amazon-ecs-events-with-amazon-eventbridge-filtering/"
     }
 ]
