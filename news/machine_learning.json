@@ -1,5 +1,9 @@
 [
     {
+        "title": "Operationalizing Agentic AI Part 1: A Stakeholder\u2019s Guide",
+        "link": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/"
+    },
+    {
         "title": "Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/"
     }
 ]

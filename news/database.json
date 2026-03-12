@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate Cloud SQL for MySQL to Amazon Aurora and Amazon RDS for MySQL Using AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/migrate-cloud-sql-for-mysql-to-amazon-aurora-and-amazon-rds-for-mysql-using-aws-dms/"
+    },
+    {
         "title": "From bottlenecks to breakthroughs: Dutchie\u2019s database migration journey",
         "link": "https://aws.amazon.com/blogs/database/from-bottlenecks-to-breakthroughs-dutchies-database-migration-journey/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New in Terraform: Manage global secondary index drift in Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/new-in-terraform-manage-global-secondary-index-drift-in-amazon-dynamodb/"
-    },
-    {
-        "title": "Trigger AWS Lambda functions from Amazon RDS for SQL Server database events",
-        "link": "https://aws.amazon.com/blogs/database/trigger-aws-lambda-functions-from-amazon-rds-for-sql-server-database-events/"
     }
 ]

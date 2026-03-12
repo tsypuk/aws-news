@@ -1,5 +1,9 @@
 [
     {
+        "title": "From Pilot to Production: Scaling Industrial AI with AWS at Hannover Messe 2026",
+        "link": "https://aws.amazon.com/blogs/industries/aws-at-hannover-messe-2026/"
+    },
+    {
         "title": "How to use AWS Payment Cryptography Service to simplify payment flows",
         "link": "https://aws.amazon.com/blogs/industries/how-to-use-aws-payment-cryptography-service-to-simplify-payment-flows/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Agentic GraphRAG for Capital Markets",
         "link": "https://aws.amazon.com/blogs/industries/agentic-graphrag-for-capital-markets/"
-    },
-    {
-        "title": "Migrating Enterprise ML Workloads to AWS for large scale ML",
-        "link": "https://aws.amazon.com/blogs/industries/migrating-enterprise-ml-workloads-from-databricks-to-aws-for-large-scale-ml/"
     }
 ]
