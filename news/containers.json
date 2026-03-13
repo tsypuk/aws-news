@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS at KubeCon EU 2026: Open Source Leadership Meets Production Innovation",
+        "link": "https://aws.amazon.com/blogs/containers/aws-at-kubecon-eu-2026-open-source-leadership-meets-production-innovation/"
+    },
+    {
         "title": "Automated deployments with GitHub Actions for Amazon ECS Express Mode",
         "link": "https://aws.amazon.com/blogs/containers/automated-deployments-with-github-actions-for-amazon-ecs-express-mode/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Maximize Amazon EKS efficiency: How Auto Mode, Graviton, and Spot work together",
         "link": "https://aws.amazon.com/blogs/containers/maximize-amazon-eks-efficiency-how-auto-mode-graviton-and-spot-work-together/"
-    },
-    {
-        "title": "Simplify Kubernetes cluster management using ACK, kro and Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/simplify-kubernetes-cluster-management-using-ack-kro-and-amazon-eks/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/"
+    },
+    {
+        "title": "Secure AI agents with Policy in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/"
+    },
+    {
+        "title": "Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/"
+    },
+    {
         "title": "Operationalizing Agentic AI Part 1: A Stakeholder\u2019s Guide",
         "link": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Learnings from COBOL modernization in the real world",
         "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/"
-    },
-    {
-        "title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/"
-    },
-    {
-        "title": "Large model inference container \u2013 latest capabilities and performance enhancements",
-        "link": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/"
-    },
-    {
-        "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/"
-    },
-    {
-        "title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/"
     }
 ]

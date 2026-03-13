@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to manage the lifecycle of Amazon Machine Images using AMI Lineage for AWS",
+        "link": "https://aws.amazon.com/blogs/security/how-to-manage-the-lifecycle-of-amazon-machine-images-using-ami-lineage-for-aws/"
+    },
+    {
         "title": "AWS European Sovereign Cloud achieves first compliance milestone: SOC 2 and C5 reports plus seven ISO certifications",
         "link": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-achieves-first-compliance-milestone-soc-2-and-c5-reports-plus-seven-iso-certifications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Updated PCI PIN compliance package for AWS Payment Cryptography now available",
         "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-payment-cryptography-now-available/"
-    },
-    {
-        "title": "AWS achieves 2025 C5 Type 2 attestation report with 183 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-2025-c5-type-2-attestation-report-with-183-services-in-scope/"
     }
 ]
