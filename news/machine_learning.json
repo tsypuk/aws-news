@@ -1,5 +1,9 @@
 [
     {
+        "title": "P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/"
+    },
+    {
         "title": "Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption",
         "link": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "Learnings from COBOL modernization in the real world",
-        "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/"
     }
 ]

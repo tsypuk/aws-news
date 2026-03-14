@@ -1,5 +1,9 @@
 [
     {
+        "title": "Twenty years of Amazon S3 and building what\u2019s next",
+        "link": "https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/"
+    },
+    {
         "title": "Introducing account regional namespaces for Amazon S3 general purpose buckets",
         "link": "https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Opening the AWS European Sovereign Cloud",
         "link": "https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/"
     }
 ]
