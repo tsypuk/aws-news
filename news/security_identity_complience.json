@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy AWS applications and access AWS accounts across multiple Regions with IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/deploy-aws-applications-and-access-aws-accounts-across-multiple-regions-with-iam-identity-center/"
+    },
+    {
         "title": "How to manage the lifecycle of Amazon Machine Images using AMI Lineage for AWS",
         "link": "https://aws.amazon.com/blogs/security/how-to-manage-the-lifecycle-of-amazon-machine-images-using-ami-lineage-for-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Updated PCI PIN compliance package for AWS CloudHSM now available",
         "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-cloudhsm-now-available/"
-    },
-    {
-        "title": "Updated PCI PIN compliance package for AWS Payment Cryptography now available",
-        "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-payment-cryptography-now-available/"
     }
 ]
