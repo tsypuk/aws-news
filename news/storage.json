@@ -1,5 +1,9 @@
 [
     {
+        "title": "20 years of Amazon S3: A storage professional\u2019s journey to AWS Hero",
+        "link": "https://aws.amazon.com/blogs/storage/20-years-of-amazon-s3-a-storage-professionals-journey-to-aws-hero/"
+    },
+    {
         "title": "AWS Storage at re:Invent 2025: Every session, organized by topic",
         "link": "https://aws.amazon.com/blogs/storage/aws-storage-at-reinvent-2025/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building an open warehouse architecture: Supabase\u2019s integration with Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/building-an-open-warehouse-architecture-supabases-integration-with-amazon-s3-tables/"
-    },
-    {
-        "title": "Lower your Amazon S3 backup costs with AWS Backup S3 tiering",
-        "link": "https://aws.amazon.com/blogs/storage/lower-your-amazon-s3-backup-cost-with-aws-backup-s3-tiering/"
     }
 ]

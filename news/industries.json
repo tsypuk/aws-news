@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building an End-to-End Physical AI Data Pipeline for Autonomous Vehicle 3.0 on AWS with NVIDIA",
+        "link": "https://aws.amazon.com/blogs/industries/building-an-end-to-end-physical-ai-data-pipeline-for-autonomous-vehicle-3-0-on-aws-with-nvidia/"
+    },
+    {
+        "title": "Privacy-Enhanced Cross-Media Measurement: How Fifty5Blue (formerly Kantar Media) Leveraged AWS Clean Rooms to Establish Audit Transparency During Panel Data Exchange",
+        "link": "https://aws.amazon.com/blogs/industries/privacy-enhanced-cross-media-measurement-how-fifty5blue-formerly-kantar-media-leveraged-aws-clean-rooms-to-establish-audit-transparency-during-panel-data-exchange/"
+    },
+    {
         "title": "x402 and Agentic Commerce: Redefining Autonomous Payments in Financial Services",
         "link": "https://aws.amazon.com/blogs/industries/x402-and-agentic-commerce-redefining-autonomous-payments-in-financial-services/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "DR Strategies for Connected Mobility Workloads, Part 1: Backup and Restore",
         "link": "https://aws.amazon.com/blogs/industries/dr-strategies-for-connected-mobility-workloads-part-1-backup-and-restore/"
-    },
-    {
-        "title": "Accelerating mainframe modernization: How Toyota Motor Europe (TME) uses Amazon Bedrock to automate legacy code documentation",
-        "link": "https://aws.amazon.com/blogs/industries/accelerating-mainframe-modernization-how-toyota-motor-europe-tme-uses-amazon-bedrock-to-automate-legacy-code-documentation/"
-    },
-    {
-        "title": "Optimizing Epic on AWS: R8i instances deliver 20-30% cost savings with enhanced SMP performance",
-        "link": "https://aws.amazon.com/blogs/industries/optimizing-epic-on-aws-r8i-instances-deliver-20-30-cost-savings-with-enhanced-smp-performance/"
     }
 ]
