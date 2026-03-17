@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2026-03-160.1.0) - 2026-03-16
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2026-03-170.1.0) - 2026-03-17
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/1c73957ecea0bf13e16a9b3d8de8dc5474032fa2...ver-2026-03-16)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/77d32ecad89360c9b0fef2ead0f5cf298cf7e9c1...ver-2026-03-17)</small>
 
 ### Docs
 
-- updated AWS news - industries - 2026-03-16 ([496c6ef](https://github.com/tsypuk/aws-news/commit/496c6ef181c428605e2fc6cf79c850829d899362) by Roman Tsypuk).
+- updated AWS news - aws_news,aws_partner_network,database,industries,machine_learning,public_sector,storage - 2026-03-17 ([9677d2f](https://github.com/tsypuk/aws-news/commit/9677d2f0ed5f494f0159cccd573274212384e95a) by Roman Tsypuk).
 
