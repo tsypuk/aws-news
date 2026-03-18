@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS completes the second GDV community audit with participant insurers in Germany",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-second-gdv-community-audit-with-participant-insurers-in-germany/"
+    },
+    {
         "title": "Deploy AWS applications and access AWS accounts across multiple Regions with IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/deploy-aws-applications-and-access-aws-accounts-across-multiple-regions-with-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "IAM Identity Center now supports IPv6",
         "link": "https://aws.amazon.com/blogs/security/iam-identity-center-now-supports-ipv6/"
-    },
-    {
-        "title": "Updated PCI PIN compliance package for AWS CloudHSM now available",
-        "link": "https://aws.amazon.com/blogs/security/updated-pci-pin-compliance-package-for-aws-cloudhsm-now-available/"
     }
 ]

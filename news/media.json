@@ -1,5 +1,9 @@
 [
     {
+        "title": "Essential security controls to prevent unauthorized account removal in AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/mt/essential-security-controls-to-prevent-unauthorized-account-removal-in-aws-organizations/"
+    },
+    {
         "title": "Adaptive sampling with AWS X-Ray to capture critical spans",
         "link": "https://aws.amazon.com/blogs/mt/adaptive-sampling-with-aws-x-ray-to-capture-critical-spans/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New AWS Organizations Skill Builder courses to level up your multi-account strategy",
         "link": "https://aws.amazon.com/blogs/mt/new-aws-organizations-skill-builder-courses-to-level-up-your-multi-account-strategy/"
-    },
-    {
-        "title": "AWS X-Ray SDKs/Daemon migration to OpenTelemetry",
-        "link": "https://aws.amazon.com/blogs/mt/aws-x-ray-sdks-daemon-migration-to-opentelemetry/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Betsson Services Limited elevated AWS hybrid connectivity to new heights with AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-betsson-services-limited-elevated-aws-hybrid-connectivity-to-new-heights-with-aws-cloud-wan/"
+    },
+    {
         "title": "Using cross-account CloudFront VPC origins for multi-account private API Gateway architecture",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-cross-account-cloudfront-vpc-origins-for-multi-account-private-api-gateway-architecture/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Rivian\u2019s proactive approach to identify unrouteable traffic with AWS Transit Gateway Flow Logs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/rivians-proactive-approach-to-identify-unrouteable-traffic-with-aws-transit-gateway-flow-logs/"
-    },
-    {
-        "title": "Designing for global scale: XM Cyber\u2019s 22-Region AWS Cloud WAN implementation",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/designing-for-global-scale-xm-cybers-22-region-aws-cloud-wan-implementation/"
     }
 ]

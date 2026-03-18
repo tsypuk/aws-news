@@ -1,5 +1,9 @@
 [
     {
+        "title": "Getting the Most from Your Quantum Measurements: Adaptive Shot Allocation on Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/getting-the-most-from-your-quantum-measurements-adaptive-shot-allocation-on-amazon-braket/"
+    },
+    {
         "title": "Building advanced quantum chemistry calculations with Kvantify Qrunch on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/building-advanced-quantum-chemistry-calculations-with-kvantify-qrunch-on-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon Braket Notebook Environments Now Support CUDA-Q Natively",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-notebooks-now-include-pre-configured-cuda-q-support/"
-    },
-    {
-        "title": "Leveraging near-term quantum hardware for simulating high-dimensional dynamics",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/leveraging-near-term-quantum-hardware-for-simulating-high-dimensional-dynamics/"
     }
 ]

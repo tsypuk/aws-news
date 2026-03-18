@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building a scalable, transactional data lake using dbt, Amazon EMR, and Apache Iceberg",
+        "link": "https://aws.amazon.com/blogs/big-data/building-a-scalable-transactional-data-lake-using-dbt-amazon-emr-and-apache-iceberg/"
+    },
+    {
+        "title": "Securely connect Kafka clients running outside AWS to Amazon MSK with IAM Roles Anywhere",
+        "link": "https://aws.amazon.com/blogs/big-data/securely-connect-kafka-clients-running-outside-aws-to-amazon-msk-with-iam-roles-anywhere/"
+    },
+    {
         "title": "Amazon Redshift DC2 migration approach with a customer case study",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-dc2-migration-approach-with-a-customer-case-study/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon Managed Service for Apache Flink application lifecycle management with Terraform",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-managed-service-for-apache-flink-application-lifecycle-management-with-terraform/"
-    },
-    {
-        "title": "Build a data pipeline from Google Search Console to Amazon Redshift using AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-data-pipeline-from-google-search-console-to-amazon-redshift-using-aws-glue/"
-    },
-    {
-        "title": "Verisk cuts processing time and storage costs with Amazon Redshift and lakehouse",
-        "link": "https://aws.amazon.com/blogs/big-data/verisk-cuts-processing-time-and-storage-costs-with-amazon-redshift-and-lakehouse/"
     }
 ]
