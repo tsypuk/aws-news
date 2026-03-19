@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing AWS Console for SAP Applications: a unified experience to register and manage your SAP Applications on AWS",
+        "link": "https://aws.amazon.com/blogs/awsforsap/announcing-aws-console-for-sap-applications-a-unified-experience-to-register-and-manage-your-sap-applications-on-aws/"
+    },
+    {
         "title": "Introducing ABAP Accelerator for AI- Assisted Development",
         "link": "https://aws.amazon.com/blogs/awsforsap/introducing-abap-accelerator-for-ai-assisted-development/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Blog: Simplify Deployment of SAP BTP with AWS Marketplace",
         "link": "https://aws.amazon.com/blogs/awsforsap/aws-blog-simplify-deployment-of-sap-btp-with-aws-marketplace/"
-    },
-    {
-        "title": "New \u2013 AWS Systems Manager for SAP Configuration Management: Automated Best Practice Validation for SAP HANA",
-        "link": "https://aws.amazon.com/blogs/awsforsap/new-aws-systems-manager-for-sap-configuration-management-automated-best-practice-validation-for-sap-hana/"
     }
 ]

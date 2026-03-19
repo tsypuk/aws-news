@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automated parameter and option group change monitoring in Amazon RDS and Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/automated-parameter-and-option-group-change-monitoring-in-amazon-rds-and-amazon-aurora/"
+    },
+    {
         "title": "Export Amazon SimpleDB domain data to Amazon S3",
         "link": "https://aws.amazon.com/blogs/database/export-amazon-simpledb-domain-data-to-amazon-s3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build a custom solution to migrate SQL Server HierarchyID to PostgreSQL LTREE with AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/build-a-custom-solution-to-migrate-sql-server-hierarchyid-to-postgresql-ltree-with-aws-dms/"
-    },
-    {
-        "title": "Simplify cross-account stream processing with AWS Lambda and Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/simplify-cross-account-stream-processing-with-aws-lambda-and-amazon-dynamodb/"
     }
 ]

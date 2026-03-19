@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Amazon Bedrock transforms Microsoft Teams conversations into actionable insights",
+        "link": "https://aws.amazon.com/blogs/industries/how-amazon-bedrock-transforms-microsoft-teams-conversations-into-actionable-insights/"
+    },
+    {
         "title": "Building an End-to-End Physical AI Data Pipeline for Autonomous Vehicle 3.0 on AWS with NVIDIA",
         "link": "https://aws.amazon.com/blogs/industries/building-an-end-to-end-physical-ai-data-pipeline-for-autonomous-vehicle-3-0-on-aws-with-nvidia/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing Amazon Connect Health: Agentic AI for healthcare, built for the people who deliver it",
         "link": "https://aws.amazon.com/blogs/industries/introducing-amazon-connect-health-agentic-ai-for-healthcare-built-for-the-people-who-deliver-it/"
-    },
-    {
-        "title": "DR Strategies for Connected Mobility Workloads, Part 1: Backup and Restore",
-        "link": "https://aws.amazon.com/blogs/industries/dr-strategies-for-connected-mobility-workloads-part-1-backup-and-restore/"
     }
 ]

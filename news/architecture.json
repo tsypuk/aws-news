@@ -1,5 +1,9 @@
 [
     {
+        "title": "AI-powered event response for Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/architecture/ai-powered-event-response-for-amazon-eks/"
+    },
+    {
         "title": "The Hidden Price Tag: Uncovering Hidden Costs in Cloud Architectures with the AWS Well-Architected Framework",
         "link": "https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "BASF Digital Farming builds a STAC-based solution on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/basf-digital-farming-builds-a-stac-based-solution-on-amazon-eks/"
-    },
-    {
-        "title": "Modernization of real-time payment orchestration on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/modernization-of-real-time-payment-orchestration-on-aws/"
     }
 ]
