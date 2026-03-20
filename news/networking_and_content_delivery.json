@@ -1,5 +1,9 @@
 [
     {
+        "title": "Demystifying Amazon VPC peering charges",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/demystifying-amazon-vpc-peering-charges/"
+    },
+    {
         "title": "How Betsson Services Limited elevated AWS hybrid connectivity to new heights with AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-betsson-services-limited-elevated-aws-hybrid-connectivity-to-new-heights-with-aws-cloud-wan/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Distributing Amazon VPC IP Address Manager costs to member accounts in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/distributing-amazon-vpc-ip-address-manager-costs-to-member-accounts-in-aws-organizations/"
-    },
-    {
-        "title": "Rivian\u2019s proactive approach to identify unrouteable traffic with AWS Transit Gateway Flow Logs",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/rivians-proactive-approach-to-identify-unrouteable-traffic-with-aws-transit-gateway-flow-logs/"
     }
 ]

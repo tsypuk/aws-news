@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transfer Manager Directory Support for AWS SDK for Ruby",
+        "link": "https://aws.amazon.com/blogs/developer/transfer-manager-directory-support-for-aws-sdk-for-ruby/"
+    },
+    {
         "title": "Upgrade AWS CLI from v1 to v2 using upgrade debug mode",
         "link": "https://aws.amazon.com/blogs/developer/upgrade-aws-cli-from-v1-to-v2-using-upgrade-debug-mode/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Arctic: Automated Desktop Application Testing",
         "link": "https://aws.amazon.com/blogs/developer/arctic-automated-desktop-application-testing/"
-    },
-    {
-        "title": "Deploy to ARM-Based Compute with AWS Deploy Tool for .NET",
-        "link": "https://aws.amazon.com/blogs/developer/deploy-to-arm-based-compute-with-aws-deploy-tool-for-net/"
     }
 ]

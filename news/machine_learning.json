@@ -1,5 +1,25 @@
 [
     {
+        "title": "Run NVIDIA Nemotron 3 Super on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/"
+    },
+    {
+        "title": "Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/"
+    },
+    {
+        "title": "Introducing V-RAG: revolutionizing AI-powered video production with Retrieval Augmented Generation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/"
+    },
+    {
+        "title": "Enhanced metrics for Amazon SageMaker AI endpoints: deeper visibility for better performance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/"
+    },
+    {
+        "title": "Enforce data residency with Amazon Quick extensions for Microsoft Teams",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/"
+    },
+    {
         "title": "Kick off Nova customization experiments using Nova Forge SDK",
         "link": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Secure AI agents with Policy in Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/"
-    },
-    {
-        "title": "Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/"
-    },
-    {
-        "title": "Operationalizing Agentic AI Part 1: A Stakeholder\u2019s Guide",
-        "link": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/"
-    },
-    {
-        "title": "Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/"
-    },
-    {
-        "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/"
     }
 ]
