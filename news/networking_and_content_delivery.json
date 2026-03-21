@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate Amazon CloudFront public origins to private VPC origins",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-amazon-cloudfront-public-origins-to-private-vpc-origins/"
+    },
+    {
         "title": "Demystifying Amazon VPC peering charges",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/demystifying-amazon-vpc-peering-charges/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing ingress geo-restriction with AWS to reduce attack surface",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-ingress-geo-restriction-with-aws-to-reduce-attack-surface/"
-    },
-    {
-        "title": "Distributing Amazon VPC IP Address Manager costs to member accounts in AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/distributing-amazon-vpc-ip-address-manager-costs-to-member-accounts-in-aws-organizations/"
     }
 ]
