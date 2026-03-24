@@ -1,5 +1,9 @@
 [
     {
+        "title": "IAM policy types: How and when to use them",
+        "link": "https://aws.amazon.com/blogs/security/iam-policy-types-how-and-when-to-use-them/"
+    },
+    {
         "title": "Amazon threat intelligence teams identify Interlock ransomware campaign targeting enterprise firewalls",
         "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-teams-identify-interlock-ransomware-campaign-targeting-enterprise-firewalls/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to get started with security response automation on AWS",
         "link": "https://aws.amazon.com/blogs/security/how-get-started-security-response-automation-aws/"
-    },
-    {
-        "title": "File integrity monitoring with AWS Systems Manager and Amazon Security Lake",
-        "link": "https://aws.amazon.com/blogs/security/file-integrity-monitoring-with-aws-systems-manager-and-amazon-security-lake/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for Lambda durable functions using a fraud detection example",
+        "link": "https://aws.amazon.com/blogs/compute/best-practices-for-lambda-durable-functions-using-a-fraud-detection-example/"
+    },
+    {
         "title": "Testing Step Functions workflows: a guide to the enhanced TestState API",
         "link": "https://aws.amazon.com/blogs/compute/testing-step-functions-workflows-a-guide-to-the-enhanced-teststate-api/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Improving throughput of serverless streaming workloads for Kafka",
         "link": "https://aws.amazon.com/blogs/compute/improving-throughput-of-serverless-streaming-workloads-for-kafka/"
-    },
-    {
-        "title": "Build scalable REST APIs using Amazon API Gateway private integration with Application Load Balancer",
-        "link": "https://aws.amazon.com/blogs/compute/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/"
     }
 ]

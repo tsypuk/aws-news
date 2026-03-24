@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Generali Malaysia optimizes operations with Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/"
+    },
+    {
         "title": "AI-powered event response for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/ai-powered-event-response-for-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Know before you go \u2013 AWS re:Invent 2025 guide to Well-Architected and Cloud Optimization sessions",
         "link": "https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/"
-    },
-    {
-        "title": "BASF Digital Farming builds a STAC-based solution on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/architecture/basf-digital-farming-builds-a-stac-based-solution-on-amazon-eks/"
     }
 ]

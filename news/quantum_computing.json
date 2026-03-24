@@ -1,5 +1,9 @@
 [
     {
+        "title": "Error mitigation on Amazon Braket with program sets and Mitiq",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/error-mitigation-on-amazon-braket-with-program-sets-and-mitiq/"
+    },
+    {
         "title": "Getting the Most from Your Quantum Measurements: Adaptive Shot Allocation on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/getting-the-most-from-your-quantum-measurements-adaptive-shot-allocation-on-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Exact simulation of Quantum Enhanced Signature Kernels for financial data streams prediction using Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/exact-simulation-of-quantum-enhanced-signature-kernels-for-financial-data-streams-prediction-using-amazon-braket/"
-    },
-    {
-        "title": "Amazon Braket Notebook Environments Now Support CUDA-Q Natively",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-notebooks-now-include-pre-configured-cuda-q-support/"
     }
 ]

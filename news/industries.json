@@ -1,5 +1,9 @@
 [
     {
+        "title": "How TripleLift optimized real-time bidding with custom load balancing, Spot, and Graviton",
+        "link": "https://aws.amazon.com/blogs/industries/how-triplelift-optimized-real-time-bidding-with-custom-load-balancing-spot-and-graviton/"
+    },
+    {
         "title": "AI-Powered Collections: How EXL Uses AI on AWS for Debt Recovery at Scale",
         "link": "https://aws.amazon.com/blogs/industries/ai-powered-collections-how-exl-uses-ai-on-aws-for-debt-recovery-at-scale/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to use AWS Payment Cryptography Service to simplify payment flows",
         "link": "https://aws.amazon.com/blogs/industries/how-to-use-aws-payment-cryptography-service-to-simplify-payment-flows/"
-    },
-    {
-        "title": "Transforming renewable asset development using Agentic AI",
-        "link": "https://aws.amazon.com/blogs/industries/transforming-renewable-asset-development-using-agentic-ai/"
     }
 ]

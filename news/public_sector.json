@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building an identity-verified remote assessment platform on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-an-identity-verified-remote-assessment-platform-on-aws/"
+    },
+    {
+        "title": "Building self-recovering systems against technology and business risk with Amazon Bedrock production resilience",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-self-recovering-systems-against-technology-and-business-risk-with-amazon-bedrock-production-resilience/"
+    },
+    {
         "title": "How Servizo Galego de Sa\u00fade accelerates clinical trials with AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/how-servizo-galego-de-saude-accelerates-clinical-trials-with-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Modernizing evidence management in Salesforce public sector solutions with Amazon S3",
         "link": "https://aws.amazon.com/blogs/publicsector/modernizing-evidence-management-in-salesforce-public-sector-solutions-with-amazon-s3/"
-    },
-    {
-        "title": "Streamlining public health data integration with AWS visual workflows",
-        "link": "https://aws.amazon.com/blogs/publicsector/streamlining-public-health-data-integration-with-aws-visual-workflows/"
-    },
-    {
-        "title": "Building realistic Minecraft worlds with Open Data on AWS: How Arnis uses elevation datasets at scale",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-realistic-minecraft-worlds-with-open-data-on-aws-how-arnis-uses-elevation-datasets-at-scale/"
     }
 ]

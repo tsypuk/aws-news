@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Reco transforms security alerts using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/"
+    },
+    {
+        "title": "Integrating Amazon Bedrock AgentCore with Slack",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/"
+    },
+    {
+        "title": "Overcoming LLM hallucinations in regulated industries: Artificial Genius\u2019s deterministic models on Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-llm-hallucinations-in-regulated-industries-artificial-geniuss-deterministic-models-on-amazon-nova/"
+    },
+    {
         "title": "Run NVIDIA Nemotron 3 Super on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build an offline feature store using Amazon SageMaker Unified Studio and SageMaker Catalog",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/"
-    },
-    {
-        "title": "P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/"
-    },
-    {
-        "title": "Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/"
-    },
-    {
-        "title": "Secure AI agents with Policy in Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/"
     }
 ]
