@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/"
+    },
+    {
+        "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/"
+    },
+    {
         "title": "How Reco transforms security alerts using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Disaggregated Inference on AWS\u00a0powered by llm-d",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/"
-    },
-    {
-        "title": "How Workhuman built multi-tenant self-service reporting using Amazon Quick Sight embedded dashboards",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-workhuman-built-multi-tenant-self-service-reporting-using-amazon-quick-sight-embedded-dashboards/"
-    },
-    {
-        "title": "Build an offline feature store using Amazon SageMaker Unified Studio and SageMaker Catalog",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/"
     }
 ]

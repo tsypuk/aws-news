@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enhancing auto scaling resilience by tracking worker utilization metrics",
+        "link": "https://aws.amazon.com/blogs/compute/enhancing-auto-scaling-resilience-by-tracking-worker-utilization-metrics/"
+    },
+    {
         "title": "Best practices for Lambda durable functions using a fraud detection example",
         "link": "https://aws.amazon.com/blogs/compute/best-practices-for-lambda-durable-functions-using-a-fraud-detection-example/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhancing API security with Amazon API Gateway TLS security policies",
         "link": "https://aws.amazon.com/blogs/compute/enhancing-api-security-with-amazon-api-gateway-tls-security-policies/"
-    },
-    {
-        "title": "Improving throughput of serverless streaming workloads for Kafka",
-        "link": "https://aws.amazon.com/blogs/compute/improving-throughput-of-serverless-streaming-workloads-for-kafka/"
     }
 ]

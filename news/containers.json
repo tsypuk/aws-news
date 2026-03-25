@@ -1,5 +1,9 @@
 [
     {
+        "title": "Session policies for Amazon EKS Pod Identity",
+        "link": "https://aws.amazon.com/blogs/containers/session-policies-for-amazon-eks-pod-identity/"
+    },
+    {
         "title": "Deploy production generative AI at the edge using Amazon EKS Hybrid Nodes with NVIDIA DGX",
         "link": "https://aws.amazon.com/blogs/containers/deploy-production-generative-ai-at-the-edge-using-amazon-eks-hybrid-nodes-with-nvidia-dgx/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Beyond metrics: Extracting actionable insights from Amazon EKS with Amazon Q Business",
         "link": "https://aws.amazon.com/blogs/containers/beyond-metrics-extracting-actionable-insights-from-amazon-eks-with-amazon-q-business/"
-    },
-    {
-        "title": "Build deep learning model training apps using CNCF Fluid with Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/build-deep-learning-model-training-apps-using-cncf-fluid-with-amazon-eks/"
     }
 ]

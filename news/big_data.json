@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automating data classification in Amazon SageMaker Catalog using an AI agent",
+        "link": "https://aws.amazon.com/blogs/big-data/automating-data-classification-in-amazon-sagemaker-catalog-using-an-ai-agent/"
+    },
+    {
+        "title": "Designing centralized and distributed network connectivity patterns for Amazon OpenSearch Serverless \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/designing-centralized-and-distributed-network-connectivity-patterns-for-amazon-opensearch-serverless-part-2/"
+    },
+    {
+        "title": "Designing centralized and distributed network connectivity patterns for Amazon OpenSearch Serverless \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/big-data/designing-centralized-and-distributed-network-connectivity-patterns-for-amazon-opensearch-serverless-part-1/"
+    },
+    {
         "title": "Extract data from Amazon Aurora MySQL to Amazon S3 Tables in Apache Iceberg format",
         "link": "https://aws.amazon.com/blogs/big-data/extract-data-from-amazon-aurora-mysql-to-amazon-s3-tables-in-apache-iceberg-format/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Set up production-ready monitoring for Amazon MSK using CloudWatch alarms",
         "link": "https://aws.amazon.com/blogs/big-data/set-up-production-ready-monitoring-for-amazon-msk-using-cloudwatch-alarms/"
-    },
-    {
-        "title": "Standardize Amazon Redshift operations using Templates",
-        "link": "https://aws.amazon.com/blogs/big-data/standardize-amazon-redshift-operations-using-templates/"
-    },
-    {
-        "title": "How Twilio secured their multi-engine query platform with AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/how-twilio-secured-their-multi-engine-query-platform-with-aws-lake-formation/"
-    },
-    {
-        "title": "Amazon OpenSearch Serverless introduces collection groups\u00a0to optimize\u00a0cost for multi-tenant workloads",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-introduces-collection-groups-to-optimize-cost-for-multi-tenant-workloads/"
     }
 ]

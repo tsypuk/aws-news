@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building a modern network for your VMware workloads using Amazon Elastic VMware Service",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-modern-network-for-your-vmware-workloads-using-amazon-elastic-vmware-service/"
+    },
+    {
+        "title": "Amazon CloudFront flat-rate pricing plans: new features and expanded capabilities",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-flat-rate-pricing-plans-new-features-and-expanded-capabilities/"
+    },
+    {
         "title": "Migrate Amazon CloudFront public origins to private VPC origins",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-amazon-cloudfront-public-origins-to-private-vpc-origins/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building Intelligent Network Operations Agent with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-intelligent-network-operations-agent-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Implementing consistent DNS Query Logging with Amazon Route 53 Profiles",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-consistent-dns-query-logging-with-amazon-route-53-profiles/"
-    },
-    {
-        "title": "Implementing ingress geo-restriction with AWS to reduce attack surface",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-ingress-geo-restriction-with-aws-to-reduce-attack-surface/"
     }
 ]
