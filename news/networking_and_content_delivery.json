@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy VPC Block Public Access across AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/deploy-vpc-block-public-access-across-aws-organizations/"
+    },
+    {
         "title": "Building a modern network for your VMware workloads using Amazon Elastic VMware Service",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-modern-network-for-your-vmware-workloads-using-amazon-elastic-vmware-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate prefix lists with Amazon VPC IP Address Manager (IPAM)",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automate-prefix-lists-with-amazon-vpc-ip-address-manager-ipam/"
-    },
-    {
-        "title": "Building Intelligent Network Operations Agent with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-intelligent-network-operations-agent-with-amazon-bedrock-agentcore/"
     }
 ]

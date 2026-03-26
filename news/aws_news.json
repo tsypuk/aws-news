@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/"
+    },
+    {
         "title": "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/"
     }
 ]

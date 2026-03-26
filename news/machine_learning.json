@@ -1,5 +1,17 @@
 [
     {
+        "title": "Unlocking video insights at scale with Amazon Bedrock multimodal models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/"
+    },
+    {
+        "title": "Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-voice-agents-with-pipecat-and-amazon-bedrock-agentcore-runtime-part-1/"
+    },
+    {
+        "title": "Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/"
+    },
+    {
         "title": "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AWS AI League: Atos fine-tunes approach to AI education",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/"
-    },
-    {
-        "title": "AWS and NVIDIA deepen strategic collaboration to accelerate AI from pilot to production",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-deepen-strategic-collaboration-to-accelerate-ai-from-pilot-to-production/"
-    },
-    {
-        "title": "Agentic AI in the Enterprise Part 2: Guidance by Persona",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/"
-    },
-    {
-        "title": "Introducing Disaggregated Inference on AWS\u00a0powered by llm-d",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/"
     }
 ]

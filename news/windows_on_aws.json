@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernize legacy .NET apps to Amazon EKS using Windows containers and CloudHedge CHAI",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-legacy-net-apps-to-amazon-eks-using-windows-containers-and-cloudhedge-chai/"
+    },
+    {
         "title": "Automate Microsoft Office LTSC golden image creation with AWS Image Builder",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-office-ltsc-golden-image-creation-with-aws-image-builder/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How to deploy a SQL Server Failover Cluster Instance across three Availability Zones using Storage Spaces Direct",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-a-sql-server-failover-cluster-instance-across-three-availability-zones-using-storage-spaces-direct/"
-    },
-    {
-        "title": "Simplify AWS License Manager user subscription management by sharing AWS Managed Microsoft Active Directory",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-aws-license-manager-user-subscription-management-by-sharing-aws-managed-microsoft-active-directory/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Secure SFTP file sharing with AWS Transfer Family, Amazon FSx for NetApp ONTAP, and S3 Access Points",
+        "link": "https://aws.amazon.com/blogs/storage/secure-sftp-file-sharing-with-aws-transfer-family-amazon-fsx-for-netapp-ontap-and-s3-access-points/"
+    },
+    {
+        "title": "How Tavily reduced AI search caching costs by 95% with Amazon S3 Express One Zone",
+        "link": "https://aws.amazon.com/blogs/storage/how-tavily-reduced-ai-search-caching-costs-by-95-with-amazon-s3-express-one-zone/"
+    },
+    {
         "title": "Implementing Persistent Storage for AWS Fargate and Amazon EBS",
         "link": "https://aws.amazon.com/blogs/storage/attaching-block-storage-with-aws-fargate-and-amazon-ebs-volumes/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Getting started with self-managed Oracle in AWS using Amazon FSx for OpenZFS",
         "link": "https://aws.amazon.com/blogs/storage/getting-started-with-self-managed-oracle-in-aws-using-amazon-fsx-for-openzfs/"
-    },
-    {
-        "title": "Optimize WordPress performance on Amazon EKS with Amazon FSx for OpenZFS",
-        "link": "https://aws.amazon.com/blogs/storage/optimize-wordpress-performance-on-amazon-eks-with-amazon-fsx-for-openzfs/"
-    },
-    {
-        "title": "Architecting high performance AI-driven data applications with Spice AI and AWS",
-        "link": "https://aws.amazon.com/blogs/storage/architecting-high-performance-ai-driven-data-applications-with-spice-ai-and-aws/"
     }
 ]

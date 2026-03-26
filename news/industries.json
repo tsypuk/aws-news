@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build ChatGPT Apps with MCP Servers and AWS Infrastructure",
+        "link": "https://aws.amazon.com/blogs/industries/build-chatgpt-apps-with-mcp-servers-and-aws-infrastructure/"
+    },
+    {
+        "title": "The Luggage Lab: Accelerate product innovation with AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/industries/the-luggage-lab-accelerate-product-innovation-with-aws-generative-ai-services/"
+    },
+    {
         "title": "How TripleLift optimized real-time bidding with custom load balancing, Spot, and Graviton",
         "link": "https://aws.amazon.com/blogs/industries/how-triplelift-optimized-real-time-bidding-with-custom-load-balancing-spot-and-graviton/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Multi-Agent AI Solution for Vehicle Fleet Data Discovery and Edge Case Classification",
         "link": "https://aws.amazon.com/blogs/industries/multi-agent-ai-solution-for-vehicle-fleet-data-discovery-and-edge-case-classification/"
-    },
-    {
-        "title": "From Pilot to Production: Scaling Industrial AI with AWS at Hannover Messe 2026",
-        "link": "https://aws.amazon.com/blogs/industries/aws-at-hannover-messe-2026/"
-    },
-    {
-        "title": "How to use AWS Payment Cryptography Service to simplify payment flows",
-        "link": "https://aws.amazon.com/blogs/industries/how-to-use-aws-payment-cryptography-service-to-simplify-payment-flows/"
     }
 ]
