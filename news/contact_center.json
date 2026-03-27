@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build Unified Voice, Video and Chat Communications with Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/build-unified-voice-video-and-chat-communications-with-amazon-connect/"
+    },
+    {
         "title": "Accelerate Amazon Connect AI agent development with Kiro",
         "link": "https://aws.amazon.com/blogs/contact-center/accelerate-amazon-connect-ai-agent-development-with-kiro/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable agent to agent calling as a third-party (3P) application in Amazon Connect agent workspace",
         "link": "https://aws.amazon.com/blogs/contact-center/enable-agent-to-agent-calling-as-a-third-party-3p-application-in-amazon-connect-agent-workspace/"
-    },
-    {
-        "title": "Analyze customer satisfaction scores with post-contact surveys using Amazon Connect Tasks",
-        "link": "https://aws.amazon.com/blogs/contact-center/analyze-customer-satisfaction-scores-with-post-contact-surveys-using-amazon-connect-tasks/"
     }
 ]

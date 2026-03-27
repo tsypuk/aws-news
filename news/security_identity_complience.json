@@ -1,5 +1,9 @@
 [
     {
+        "title": "Preparing for agentic AI: A financial services approach",
+        "link": "https://aws.amazon.com/blogs/security/preparing-for-agentic-ai-a-financial-services-approach/"
+    },
+    {
         "title": "IAM policy types: How and when to use them",
         "link": "https://aws.amazon.com/blogs/security/iam-policy-types-how-and-when-to-use-them/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Explore scaling options for AWS Directory Service for Microsoft Active Directory",
         "link": "https://aws.amazon.com/blogs/security/explore-scaling-options-for-aws-directory-service-for-microsoft-active-directory/"
-    },
-    {
-        "title": "How to get started with security response automation on AWS",
-        "link": "https://aws.amazon.com/blogs/security/how-get-started-security-response-automation-aws/"
     }
 ]

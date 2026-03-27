@@ -1,5 +1,21 @@
 [
     {
+        "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/"
+    },
+    {
+        "title": "Building age-responsive, context-aware AI with Amazon Bedrock Guardrails",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/"
+    },
+    {
+        "title": "Accelerating LLM fine-tuning with unstructured data using SageMaker Unified Studio and S3",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/"
+    },
+    {
+        "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/"
+    },
+    {
         "title": "Unlocking video insights at scale with Amazon Bedrock multimodal models",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Evaluating AI agents for production: A practical guide to Strands Evals",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/"
-    },
-    {
-        "title": "Build an AI-Powered A/B testing engine using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-a-b-testing-engine-using-amazon-bedrock/"
-    },
-    {
-        "title": "How Bark.com and AWS collaborated to build a scalable video generation solution",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-bark-com-and-aws-collaborated-to-build-a-scalable-video-generation-solution/"
-    },
-    {
-        "title": "Migrate from Amazon Nova 1 to Amazon Nova 2 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-from-amazon-nova-1-to-amazon-nova-2-on-amazon-bedrock/"
-    },
-    {
-        "title": "AWS AI League: Atos fine-tunes approach to AI education",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/"
     }
 ]

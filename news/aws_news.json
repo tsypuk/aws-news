@@ -1,5 +1,9 @@
 [
     {
+        "title": "Customize your AWS Management Console experience with visual settings including account color, region and service visibility",
+        "link": "https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/"
+    },
+    {
         "title": "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds",
         "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use",
         "link": "https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/"
     }
 ]

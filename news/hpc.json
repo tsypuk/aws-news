@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating HPC Deployment with AWS Parallel Computing Service and Kiro CLI",
+        "link": "https://aws.amazon.com/blogs/hpc/accelerating-hpc-deployment-with-aws-parallel-computing-service-and-kiro-cli/"
+    },
+    {
         "title": "A Technical Deep Dive into Amazon EC2 Hpc8a Performance for Engineering and Scientific Workloads",
         "link": "https://aws.amazon.com/blogs/hpc/a-technical-deep-dive-into-amazon-ec2-hpc8a-performance-for-engineering-and-scientific-workloads/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Dataset of protein-ligand complexes now available in the Registry of Open Data on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/dataset-of-protein-ligand-complexes-now-available-in-the-registry-of-open-data-on-aws/"
-    },
-    {
-        "title": "Announcing expanded support for Custom Slurm Settings in AWS Parallel Computing Service",
-        "link": "https://aws.amazon.com/blogs/hpc/announcing-expanded-support-for-custom-slurm-settings-in-aws-parallel-computing-service/"
     }
 ]

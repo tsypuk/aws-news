@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying Microsoft Exchange Server with AWS Managed Microsoft AD Hybrid Edition",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploying-microsoft-exchange-server-with-aws-managed-microsoft-ad-hybrid-edition/"
+    },
+    {
         "title": "Modernize legacy .NET apps to Amazon EKS using Windows containers and CloudHedge CHAI",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-legacy-net-apps-to-amazon-eks-using-windows-containers-and-cloudhedge-chai/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simplify SQL Server Developer edition deployments with AWS Launch Wizard",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-sql-server-developer-edition-deployments-with-aws-launch-wizard/"
-    },
-    {
-        "title": "How to deploy a SQL Server Failover Cluster Instance across three Availability Zones using Storage Spaces Direct",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-deploy-a-sql-server-failover-cluster-instance-across-three-availability-zones-using-storage-spaces-direct/"
     }
 ]

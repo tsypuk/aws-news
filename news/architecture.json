@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting for agentic AI development on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/"
+    },
+    {
         "title": "How Generali Malaysia optimizes operations with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build priority-based message processing with Amazon MQ and AWS App Runner",
         "link": "https://aws.amazon.com/blogs/architecture/build-priority-based-message-processing-with-amazon-mq-and-aws-app-runner/"
-    },
-    {
-        "title": "Know before you go \u2013 AWS re:Invent 2025 guide to Well-Architected and Cloud Optimization sessions",
-        "link": "https://aws.amazon.com/blogs/architecture/know-before-you-go-aws-reinvent-2025-guide-to-well-architected-and-cloud-optimization-sessions/"
     }
 ]
