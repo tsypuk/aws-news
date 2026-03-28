@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing Amazon Connect flows as Code with AWS CDK",
+        "link": "https://aws.amazon.com/blogs/contact-center/managing-amazon-connect-flows-as-code-with-aws-cdk/"
+    },
+    {
         "title": "Build Unified Voice, Video and Chat Communications with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/build-unified-voice-video-and-chat-communications-with-amazon-connect/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Using MCP with Amazon Connect to monitor operational readiness",
         "link": "https://aws.amazon.com/blogs/contact-center/using-mcp-with-amazon-connect-to-monitor-operational-readiness/"
-    },
-    {
-        "title": "Enable agent to agent calling as a third-party (3P) application in Amazon Connect agent workspace",
-        "link": "https://aws.amazon.com/blogs/contact-center/enable-agent-to-agent-calling-as-a-third-party-3p-application-in-amazon-connect-agent-workspace/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Upgrading AWS CLI From v1 to v2 Using the Migration Tool",
+        "link": "https://aws.amazon.com/blogs/developer/upgrading-aws-cli-from-v1-to-v2-using-the-migration-tool/"
+    },
+    {
         "title": "Transfer Manager Directory Support for AWS SDK for Ruby",
         "link": "https://aws.amazon.com/blogs/developer/transfer-manager-directory-support-for-aws-sdk-for-ruby/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Upgrading your AWS SDK for Go from V1 to V2 with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/developer/upgrading-your-aws-sdk-for-go-from-v1-to-v2-with-amazon-q-developer/"
-    },
-    {
-        "title": "Arctic: Automated Desktop Application Testing",
-        "link": "https://aws.amazon.com/blogs/developer/arctic-automated-desktop-application-testing/"
     }
 ]

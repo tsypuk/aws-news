@@ -1,5 +1,9 @@
 [
     {
+        "title": "Navigating the NGINX Ingress retirement: A practical guide to migration on AWS",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/navigating-the-nginx-ingress-retirement-a-practical-guide-to-migration-on-aws/"
+    },
+    {
         "title": "Deploy VPC Block Public Access across AWS Organizations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/deploy-vpc-block-public-access-across-aws-organizations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modernizing financial networks: Huatai Securities\u2019 multicast implementation on AWS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/modernizing-financial-networks-huatai-securities-multicast-implementation-on-aws/"
-    },
-    {
-        "title": "Automate prefix lists with Amazon VPC IP Address Manager (IPAM)",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automate-prefix-lists-with-amazon-vpc-ip-address-manager-ipam/"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "title": "Introducing enhancements to Amazon EMR Managed Scaling",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-enhancements-to-amazon-emr-managed-scaling/"
-    },
-    {
         "title": "Build AWS Glue Data Quality pipeline using Terraform",
         "link": "https://aws.amazon.com/blogs/big-data/build-aws-glue-data-quality-pipeline-using-terraform/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Zero-ETL integrations with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/zero-etl-integrations-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Building a modern lakehouse architecture: Yggdrasil Gaming\u2019s journey from BigQuery to AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/building-a-modern-lakehouse-architecture-yggdrasil-gamings-journey-from-bigquery-to-aws/"
     }
 ]
