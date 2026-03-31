@@ -1,5 +1,13 @@
 [
     {
+        "title": "LexisNexis Risk Solutions success story: Enhancing global connectivity with AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/lexisnexis-risk-solutions-success-story-enhancing-global-connectivity-with-aws-cloud-wan/"
+    },
+    {
+        "title": "Introducing CloudWatch Metrics for AWS Direct Connect Virtual Interface BGP Health and Prefix Count",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudwatch-metrics-for-aws-direct-connect-virtual-interface-bgp-health-and-prefix-count/"
+    },
+    {
         "title": "Navigating the NGINX Ingress retirement: A practical guide to migration on AWS",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/navigating-the-nginx-ingress-retirement-a-practical-guide-to-migration-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Streamline AWS Client VPN usage reporting with Amazon CloudWatch Logs Insights queries",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-aws-client-vpn-usage-reporting-with-amazon-cloudwatch-logs-insights-queries/"
-    },
-    {
-        "title": "Building Zero Trust Access Across Multi-Account AWS Environments",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-zero-trust-access-across-multi-account-aws-environments/"
-    },
-    {
-        "title": "Modernizing financial networks: Huatai Securities\u2019 multicast implementation on AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/modernizing-financial-networks-huatai-securities-multicast-implementation-on-aws/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "How Ring scales global customer support with Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Reimagine marketing at Volkswagen Group with generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/"
+    },
+    {
+        "title": "Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/"
+    },
+    {
+        "title": "Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/"
+    },
+    {
         "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)",
         "link": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Enhanced metrics for Amazon SageMaker AI endpoints: deeper visibility for better performance",
         "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/"
-    },
-    {
-        "title": "Enforce data residency with Amazon Quick extensions for Microsoft Teams",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/"
-    },
-    {
-        "title": "Kick off Nova customization experiments using Nova Forge SDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/"
-    },
-    {
-        "title": "Introducing Nova Forge SDK, a seamless way to customize Nova models for enterprise AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/"
-    },
-    {
-        "title": "Evaluating AI agents for production: A practical guide to Strands Evals",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/"
     }
 ]
