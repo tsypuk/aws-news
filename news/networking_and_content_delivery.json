@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamline your Amazon EKS deployments with Gateway API support for AWS Load Balancer Controller and Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-your-amazon-eks-deployments-with-gateway-api-support-for-aws-load-balancer-controller-and-amazon-vpc-lattice/"
+    },
+    {
+        "title": "Continuing to support flexibility and control for UK customers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/continuing-to-support-flexibility-and-control-for-uk-customers/"
+    },
+    {
         "title": "LexisNexis Risk Solutions success story: Enhancing global connectivity with AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/lexisnexis-risk-solutions-success-story-enhancing-global-connectivity-with-aws-cloud-wan/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Optimizing application performance: The strategic benefits of combining Amazon CloudFront with Application Load Balancers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-application-performance-the-strategic-benefits-of-combining-amazon-cloudfront-with-application-load-balancers/"
-    },
-    {
-        "title": "Amazon CloudFront now supports mTLS authentication to origins",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-now-supports-mtls-authentication-to-origins/"
-    },
-    {
-        "title": "Streamline AWS Client VPN usage reporting with Amazon CloudWatch Logs Insights queries",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-aws-client-vpn-usage-reporting-with-amazon-cloudwatch-logs-insights-queries/"
     }
 ]

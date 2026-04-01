@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automated tag-based DAG permission management in Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/automated-tag-based-dag-permission-management-in-amazon-mwaa/"
+    },
+    {
         "title": "Secure multi-warehouse Amazon Redshift access behind a Network Load Balancer using Microsoft Entra ID",
         "link": "https://aws.amazon.com/blogs/big-data/secure-multi-warehouse-amazon-redshift-access-behind-a-network-load-balancer-using-microsoft-entra-id/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Razorpay achieved 11% performance improvement and 21% cost reduction with Amazon EMR",
         "link": "https://aws.amazon.com/blogs/big-data/how-razorpay-achieved-11-performance-improvement-and-21-cost-reduction-with-amazon-emr/"
-    },
-    {
-        "title": "How Amplitude implemented natural language-powered analytics using Amazon OpenSearch Service as a vector database",
-        "link": "https://aws.amazon.com/blogs/big-data/how-amplitude-implemented-natural-language-powered-analytics-using-amazon-opensearch-service-as-a-vector-database/"
     }
 ]

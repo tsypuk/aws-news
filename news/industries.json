@@ -1,5 +1,21 @@
 [
     {
+        "title": "How Amazon Connect Health brings agentic AI to the point of care",
+        "link": "https://aws.amazon.com/blogs/industries/how-amazon-connect-health-brings-agentic-ai-to-the-point-of-care/"
+    },
+    {
+        "title": "How Liftoff improved conversion performance and reduced infrastructure costs with Cortex using AWS Graviton",
+        "link": "https://aws.amazon.com/blogs/industries/liftoff-improved-conversion-performance-and-reduced-infrastructure-costs-with-cortex-using-aws-graviton/"
+    },
+    {
+        "title": "From Prompt to Pipeline: AI-Powered Bioinformatics Workflow Development with Kiro and AWS HealthOmics",
+        "link": "https://aws.amazon.com/blogs/industries/from-prompt-to-pipeline-ai-powered-bioinformatics-workflow-development-with-kiro-and-aws-healthomics/"
+    },
+    {
+        "title": "Driving Intelligent Quality in the Software-Defined Vehicle Era",
+        "link": "https://aws.amazon.com/blogs/industries/driving-intelligent-quality-in-the-software-defined-vehicle-era/"
+    },
+    {
         "title": "How Amazon Devices Eliminated Credential Risk to Scale AI across Engineering Tools",
         "link": "https://aws.amazon.com/blogs/industries/how-amazon-devices-eliminated-credential-risk/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "AI-Powered Collections: How EXL Uses AI on AWS for Debt Recovery at Scale",
         "link": "https://aws.amazon.com/blogs/industries/ai-powered-collections-how-exl-uses-ai-on-aws-for-debt-recovery-at-scale/"
-    },
-    {
-        "title": "How Amazon Bedrock transforms Microsoft Teams conversations into actionable insights",
-        "link": "https://aws.amazon.com/blogs/industries/how-amazon-bedrock-transforms-microsoft-teams-conversations-into-actionable-insights/"
-    },
-    {
-        "title": "Building an End-to-End Physical AI Data Pipeline for Autonomous Vehicle 3.0 on AWS with NVIDIA",
-        "link": "https://aws.amazon.com/blogs/industries/building-an-end-to-end-physical-ai-data-pipeline-for-autonomous-vehicle-3-0-on-aws-with-nvidia/"
-    },
-    {
-        "title": "Privacy-Enhanced Cross-Media Measurement: How Fifty5Blue (formerly Kantar Media) Leveraged AWS Clean Rooms to Establish Audit Transparency During Panel Data Exchange",
-        "link": "https://aws.amazon.com/blogs/industries/privacy-enhanced-cross-media-measurement-how-fifty5blue-formerly-kantar-media-leveraged-aws-clean-rooms-to-establish-audit-transparency-during-panel-data-exchange/"
-    },
-    {
-        "title": "x402 and Agentic Commerce: Redefining Autonomous Payments in Financial Services",
-        "link": "https://aws.amazon.com/blogs/industries/x402-and-agentic-commerce-redefining-autonomous-payments-in-financial-services/"
     }
 ]
