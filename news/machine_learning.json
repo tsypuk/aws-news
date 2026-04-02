@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating competitive price intelligence with Amazon Nova Act",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/"
+    },
+    {
         "title": "Build reliable AI agents with Amazon Bedrock AgentCore Evaluations",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/"
-    },
-    {
-        "title": "How Reco transforms security alerts using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/"
     }
 ]

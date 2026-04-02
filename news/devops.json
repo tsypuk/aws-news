@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securely connect AWS DevOps Agent to private services in your VPCs",
+        "link": "https://aws.amazon.com/blogs/devops/securely-connect-aws-devops-agent-to-private-services-in-your-vpcs/"
+    },
+    {
         "title": "Leverage Agentic AI for Autonomous Incident Response with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/devops/leverage-agentic-ai-for-autonomous-incident-response-with-aws-devops-agent/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS CloudFormation Stack Refactoring Console Experience: Reorganize Your Infrastructure Without Disruption",
         "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring-reorganize-your-infrastructure-without-disruption/"
-    },
-    {
-        "title": "Take fine-grained control of your AWS CloudFormation StackSets Deployment with StackSet Dependencies",
-        "link": "https://aws.amazon.com/blogs/devops/take-fine-grained-control-of-your-aws-cloudformation-stacksets-deployment-with-stackset-dependencies/"
     }
 ]
