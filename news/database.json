@@ -1,5 +1,17 @@
 [
     {
+        "title": "Stream live data from Amazon Keyspaces to S3 vector for real time AI applications",
+        "link": "https://aws.amazon.com/blogs/database/stream-live-data-from-amazon-keyspaces-to-s3-vector-for-real-time-ai-applications/"
+    },
+    {
+        "title": "Turbocharge your applications with Amazon DocumentDB 8.0",
+        "link": "https://aws.amazon.com/blogs/database/turbocharge-your-applications-with-amazon-documentdb-8-0/"
+    },
+    {
+        "title": "Conversational Oracle EBS operations with CloudWatch MCP and Kiro CLI",
+        "link": "https://aws.amazon.com/blogs/database/conversational-oracle-ebs-operations-with-cloudwatch-mcp-and-kiro-cli/"
+    },
+    {
         "title": "Migrating to Amazon ElastiCache for Valkey: Best practices and a customer success story",
         "link": "https://aws.amazon.com/blogs/database/migrating-to-amazon-elasticache-for-valkey-best-practices-and-a-customer-success-story/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implementing search on Amazon DynamoDB data using zero-ETL integration with Amazon OpenSearch service",
         "link": "https://aws.amazon.com/blogs/database/implementing-search-on-amazon-dynamodb-data-using-zero-etl-integration-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Use default encryption at rest for new Amazon Aurora clusters",
-        "link": "https://aws.amazon.com/blogs/database/use-default-encryption-at-rest-for-new-amazon-aurora-clusters/"
-    },
-    {
-        "title": "Streamline Amazon RDS management with consolidation techniques \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/database/streamline-amazon-rds-management-with-consolidation-techniques-part-2/"
-    },
-    {
-        "title": "Streamline Amazon RDS management with consolidation techniques \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/database/streamline-amazon-rds-management-with-consolidation-techniques-part-1/"
     }
 ]

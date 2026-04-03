@@ -1,5 +1,9 @@
 [
     {
+        "title": "Decoding Realistic Quantum Error Syndrome with Quantum Elements Digital Twins",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/decoding-realistic-quantum-error-syndrome-with-quantum-elements-digital-twins/"
+    },
+    {
         "title": "Error mitigation on Amazon Braket with program sets and Mitiq",
         "link": "https://aws.amazon.com/blogs/quantum-computing/error-mitigation-on-amazon-braket-with-program-sets-and-mitiq/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon Braket launches trapped-ion quantum computer from Alpine Quantum Technologies",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-trapped-ion-quantum-computer-from-alpine-quantum-technologies/"
-    },
-    {
-        "title": "Exact simulation of Quantum Enhanced Signature Kernels for financial data streams prediction using Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/exact-simulation-of-quantum-enhanced-signature-kernels-for-financial-data-streams-prediction-using-amazon-braket/"
     }
 ]

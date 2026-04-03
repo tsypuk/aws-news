@@ -1,5 +1,25 @@
 [
     {
+        "title": "Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/"
+    },
+    {
+        "title": "Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/"
+    },
+    {
+        "title": "Control which domains your AI agents can access",
+        "link": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/"
+    },
+    {
+        "title": "Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
+        "link": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/"
+    },
+    {
+        "title": "Persist session state with filesystem configuration and execute shell commands",
+        "link": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/"
+    },
+    {
         "title": "Automating competitive price intelligence with Amazon Nova Act",
         "link": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/"
-    },
-    {
-        "title": "Unlocking video insights at scale with Amazon Bedrock multimodal models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/"
-    },
-    {
-        "title": "Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-voice-agents-with-pipecat-and-amazon-bedrock-agentcore-runtime-part-1/"
-    },
-    {
-        "title": "Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/"
-    },
-    {
-        "title": "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/"
-    },
-    {
-        "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/"
     }
 ]

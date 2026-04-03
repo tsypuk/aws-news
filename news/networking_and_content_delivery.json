@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimizing data transfer costs when using AWS Network Load Balancer",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-data-transfer-costs-when-using-aws-network-load-balancer/"
+    },
+    {
+        "title": "Announcing AWS Global Accelerator Support in AWS Load Balancer Controller for Kubernetes",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/announcing-aws-global-accelerator-support-in-aws-load-balancer-controller-for-kubernetes/"
+    },
+    {
         "title": "Streamline your Amazon EKS deployments with Gateway API support for AWS Load Balancer Controller and Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-your-amazon-eks-deployments-with-gateway-api-support-for-aws-load-balancer-controller-and-amazon-vpc-lattice/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implementing dynamic origin modification in Amazon CloudFront \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/part-2-implementing-dynamic-origin-modification-in-amazon-cloudfront/"
-    },
-    {
-        "title": "Understanding dynamic origin modification in Amazon CloudFront \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/part-1-understanding-dynamic-origin-modification-in-amazon-cloudfront/"
-    },
-    {
-        "title": "Optimizing application performance: The strategic benefits of combining Amazon CloudFront with Application Load Balancers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-application-performance-the-strategic-benefits-of-combining-amazon-cloudfront-with-application-load-balancers/"
     }
 ]

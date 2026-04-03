@@ -1,5 +1,17 @@
 [
     {
+        "title": "Agentic AI for observability and troubleshooting with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/agentic-ai-for-observability-and-troubleshooting-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Streamline Apache Kafka topic management with Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/streamline-apache-kafka-topic-management-with-amazon-msk/"
+    },
+    {
+        "title": "How to set\u00a0up an air-gapped VPC for Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-set-up-an-air-gapped-vpc-for-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "Navigating multi-account deployments in Amazon SageMaker Unified Studio: a governance-first approach",
         "link": "https://aws.amazon.com/blogs/big-data/navigating-multi-account-deployments-in-amazon-sagemaker-unified-studio-a-governance-first-approach/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Securely connect Kafka clients running outside AWS to Amazon MSK with IAM Roles Anywhere",
         "link": "https://aws.amazon.com/blogs/big-data/securely-connect-kafka-clients-running-outside-aws-to-amazon-msk-with-iam-roles-anywhere/"
-    },
-    {
-        "title": "Amazon Redshift DC2 migration approach with a customer case study",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-dc2-migration-approach-with-a-customer-case-study/"
-    },
-    {
-        "title": "Reducing costs for shuffle-heavy Apache Spark workloads with serverless storage for Amazon EMR Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/reducing-costs-for-shuffle-heavy-apache-spark-workloads-with-serverless-storage-for-amazon-emr-serverless/"
-    },
-    {
-        "title": "Optimize HBase reads with bucket caching on Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-hbase-reads-with-bucket-caching-on-amazon-emr/"
     }
 ]

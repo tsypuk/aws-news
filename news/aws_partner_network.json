@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transforming Enterprise Payments with Stripe and SAP on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/transforming-enterprise-payments-with-stripe-and-sap-on-aws/"
+    },
+    {
         "title": "Say Hello to 143 New AWS Competency, Service Delivery, Service Ready, and MSP Partners Added in March",
         "link": "https://aws.amazon.com/blogs/apn/say-hello-to-143-new-aws-competency-service-delivery-service-ready-and-msp-partners-added-in-march/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Behind Securonix\u2019s Unified Defense SIEM Spark Architecture on Amazon EKS: 99.99% Availability Across 10,000+ Concurrent Jobs",
         "link": "https://aws.amazon.com/blogs/apn/behind-securonixs-unified-siem-spark-architecture-on-amazon-eks-99-99-availability-across-10000-concurrent-jobs/"
-    },
-    {
-        "title": "Scale AI application in production: Build a fault-tolerant AI gateway with SnapSoft",
-        "link": "https://aws.amazon.com/blogs/apn/scale-ai-application-in-production-build-a-fault-tolerant-ai-gateway-with-snapsoft/"
     }
 ]
