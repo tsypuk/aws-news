@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamlining Cloud Compliance at GoDaddy Using CDK Aspects",
+        "link": "https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/"
+    },
+    {
         "title": "Securely connect AWS DevOps Agent to private services in your VPCs",
         "link": "https://aws.amazon.com/blogs/devops/securely-connect-aws-devops-agent-to-private-services-in-your-vpcs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Your Guide to the Developer Tools Track at AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/devops/your-guide-to-the-developer-tools-track-at-aws-reinvent-2025/"
-    },
-    {
-        "title": "Introducing AWS CloudFormation Stack Refactoring Console Experience: Reorganize Your Infrastructure Without Disruption",
-        "link": "https://aws.amazon.com/blogs/devops/introducing-aws-cloudformation-stack-refactoring-reorganize-your-infrastructure-without-disruption/"
     }
 ]

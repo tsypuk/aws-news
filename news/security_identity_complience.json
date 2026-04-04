@@ -1,5 +1,9 @@
 [
     {
+        "title": "How AWS KMS and AWS Encryption SDK overcome symmetric encryption bounds",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-kms-and-aws-encryption-sdk-overcome-symmetric-encryption-bounds/"
+    },
+    {
         "title": "Four security principles for agentic AI systems",
         "link": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS successfully completed its first surveillance audit for ISO 42001:2023 with no findings",
         "link": "https://aws.amazon.com/blogs/security/aws-successfully-completed-its-first-surveillance-audit-for-iso-420012023-with-no-findings/"
-    },
-    {
-        "title": "Inside AWS Security Agent: A multi-agent architecture for automated penetration testing",
-        "link": "https://aws.amazon.com/blogs/security/inside-aws-security-agent-a-multi-agent-architecture-for-automated-penetration-testing/"
     }
 ]
