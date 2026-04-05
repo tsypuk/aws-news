@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/"
+    },
+    {
         "title": "How AWS KMS and AWS Encryption SDK overcome symmetric encryption bounds",
         "link": "https://aws.amazon.com/blogs/security/how-aws-kms-and-aws-encryption-sdk-overcome-symmetric-encryption-bounds/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Understanding IAM for Managed AWS MCP Servers",
         "link": "https://aws.amazon.com/blogs/security/understanding-iam-for-managed-aws-mcp-servers/"
-    },
-    {
-        "title": "AWS successfully completed its first surveillance audit for ISO 42001:2023 with no findings",
-        "link": "https://aws.amazon.com/blogs/security/aws-successfully-completed-its-first-surveillance-audit-for-iso-420012023-with-no-findings/"
     }
 ]
