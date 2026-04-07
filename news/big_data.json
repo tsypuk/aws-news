@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernize business intelligence workloads using Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/big-data/modernize-business-intelligence-workloads-using-amazon-quick/"
+    },
+    {
         "title": "Agentic AI for observability and troubleshooting with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/agentic-ai-for-observability-and-troubleshooting-with-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a scalable, transactional data lake using dbt, Amazon EMR, and Apache Iceberg",
         "link": "https://aws.amazon.com/blogs/big-data/building-a-scalable-transactional-data-lake-using-dbt-amazon-emr-and-apache-iceberg/"
-    },
-    {
-        "title": "Securely connect Kafka clients running outside AWS to Amazon MSK with IAM Roles Anywhere",
-        "link": "https://aws.amazon.com/blogs/big-data/securely-connect-kafka-clients-running-outside-aws-to-amazon-msk-with-iam-roles-anywhere/"
     }
 ]

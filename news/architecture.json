@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unlock efficient model deployment: Simplified Inference Operator setup on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/architecture/unlock-efficient-model-deployment-simplified-inference-operator-setup-on-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Automate safety monitoring with computer vision and generative AI",
         "link": "https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building an AI gateway to Amazon Bedrock with Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/"
-    },
-    {
-        "title": "Architecting for AI excellence: AWS launches three Well-Architected Lenses at re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Smithy Java client framework is now generally available",
+        "link": "https://aws.amazon.com/blogs/developer/smithy-java-client-framework-is-now-generally-available/"
+    },
+    {
         "title": "Smithy Kotlin client code generation now generally available",
         "link": "https://aws.amazon.com/blogs/developer/smithy-kotlin-client-code-generation-now-generally-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS .NET Distributed Cache Provider for Amazon DynamoDB now Generally Available",
         "link": "https://aws.amazon.com/blogs/developer/aws-net-distributed-cache-provider-for-amazon-dynamodb-now-generally-available/"
-    },
-    {
-        "title": "AWS Tools for PowerShell V5 now Generally Available",
-        "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v5-now-generally-available/"
     }
 ]

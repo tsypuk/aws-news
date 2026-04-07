@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/"
+    },
+    {
         "title": "Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management",
         "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/"
-    },
-    {
-        "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
-        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/"
     }
 ]

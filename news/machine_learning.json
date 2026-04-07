@@ -1,5 +1,25 @@
 [
     {
+        "title": "Build AI-powered employee onboarding agents with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/"
+    },
+    {
+        "title": "Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/"
+    },
+    {
+        "title": "From isolated alerts to contextual intelligence: Agentic maritime anomaly analysis with generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/"
+    },
+    {
+        "title": "Connecting MCP servers to Amazon Bedrock AgentCore Gateway using Authorization Code flow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/"
+    },
+    {
         "title": "Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
         "link": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/"
-    },
-    {
-        "title": "Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/"
-    },
-    {
-        "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/"
-    },
-    {
-        "title": "Building age-responsive, context-aware AI with Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "Accelerating LLM fine-tuning with unstructured data using SageMaker Unified Studio and S3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/"
-    },
-    {
-        "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/"
     }
 ]
