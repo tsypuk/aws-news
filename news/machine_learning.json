@@ -1,5 +1,17 @@
 [
     {
+        "title": "Manage AI costs with Amazon Bedrock Projects",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/"
+    },
+    {
+        "title": "Building real-time conversational podcasts with Amazon Nova 2 Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/"
+    },
+    {
+        "title": "Text-to-SQL solution powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/"
+    },
+    {
         "title": "Build AI-powered employee onboarding agents with Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
         "link": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/"
-    },
-    {
-        "title": "How Ring scales global customer support with Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Reimagine marketing at Volkswagen Group with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/"
-    },
-    {
-        "title": "Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/"
     }
 ]

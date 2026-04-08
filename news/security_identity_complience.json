@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building AI defenses at scale: Before the threats emerge",
+        "link": "https://aws.amazon.com/blogs/security/building-ai-defenses-at-scale-before-the-threats-emerge/"
+    },
+    {
         "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
         "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "2025 PiTuKri ISAE 3000 Type II attestation report available with 183 services in scope",
         "link": "https://aws.amazon.com/blogs/security/2025-pitukri-isae-3000-type-ii-attestation-report-available-with-183-services-in-scope/"
-    },
-    {
-        "title": "Understanding IAM for Managed AWS MCP Servers",
-        "link": "https://aws.amazon.com/blogs/security/understanding-iam-for-managed-aws-mcp-servers/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing NTFS permissions at scale on Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/manage-ntfs-permissions-at-scale-on-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Secure SFTP file sharing with AWS Transfer Family, Amazon FSx for NetApp ONTAP, and S3 Access Points",
         "link": "https://aws.amazon.com/blogs/storage/secure-sftp-file-sharing-with-aws-transfer-family-amazon-fsx-for-netapp-ontap-and-s3-access-points/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automated extraction of compressed files on Amazon S3 using AWS Batch and Amazon ECS",
         "link": "https://aws.amazon.com/blogs/storage/automated-extraction-of-compressed-files-on-amazon-s3-using-aws-batch-and-amazon-ecs/"
-    },
-    {
-        "title": "Getting started with self-managed Oracle in AWS using Amazon FSx for OpenZFS",
-        "link": "https://aws.amazon.com/blogs/storage/getting-started-with-self-managed-oracle-in-aws-using-amazon-fsx-for-openzfs/"
     }
 ]
