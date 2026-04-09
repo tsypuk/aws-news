@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a multi-tenant configuration system with tagged storage patterns",
+        "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns/"
+    },
+    {
         "title": "Unlock efficient model deployment: Simplified Inference Operator setup on Amazon SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/architecture/unlock-efficient-model-deployment-simplified-inference-operator-setup-on-amazon-sagemaker-hyperpod/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure Amazon Elastic VMware Service (Amazon EVS) with AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/architecture/secure-amazon-elastic-vmware-service-amazon-evs-with-aws-network-firewall/"
-    },
-    {
-        "title": "Building an AI gateway to Amazon Bedrock with Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/"
     }
 ]

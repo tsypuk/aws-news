@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce time-to-market for AI agents using Microsoft SQL Server 2025 and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reduce-time-to-market-for-ai-agents-using-sql-server-2025-and-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Deploying Microsoft Exchange Server with AWS Managed Microsoft AD Hybrid Edition",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploying-microsoft-exchange-server-with-aws-managed-microsoft-ad-hybrid-edition/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Simplify SQL Server Developer edition deployments with AWS Launch Wizard",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/simplify-sql-server-developer-edition-deployments-with-aws-launch-wizard/"
     }
 ]

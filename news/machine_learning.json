@@ -1,5 +1,21 @@
 [
     {
+        "title": "Customize Amazon Nova models with Amazon Bedrock fine-tuning",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/"
+    },
+    {
+        "title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences",
+        "link": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/"
+    },
+    {
+        "title": "Building intelligent audio search with Amazon Nova Embeddings: A deep dive into semantic audio understanding",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/"
+    },
+    {
+        "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/"
+    },
+    {
         "title": "Manage AI costs with Amazon Bedrock Projects",
         "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build a FinOps agent using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Building an AI powered system for compliance evidence collection",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/"
-    },
-    {
-        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/"
-    },
-    {
-        "title": "AWS launches frontier agents for security testing and cloud operations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/"
-    },
-    {
-        "title": "Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
-        "link": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/"
     }
 ]

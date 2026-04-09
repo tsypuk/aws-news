@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplifying Prometheus metrics collection across your AWS infrastructure",
+        "link": "https://aws.amazon.com/blogs/mt/simplifying-prometheus-metrics-collection-across-your-aws-infrastructure/"
+    },
+    {
         "title": "Introducing OpenTelemetry & PromQL support in Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/introducing-opentelemetry-promql-support-in-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Prometheus MCP Server: AI-Driven Monitoring Intelligence for AWS Users",
         "link": "https://aws.amazon.com/blogs/mt/prometheus-mcp-server-ai-driven-monitoring-intelligence-for-aws-users/"
-    },
-    {
-        "title": "2025 Top 10 Announcements for AWS Cloud Operations",
-        "link": "https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/"
     }
 ]

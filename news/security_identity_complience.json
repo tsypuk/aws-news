@@ -1,5 +1,9 @@
 [
     {
+        "title": "A framework for securely collecting forensic artifacts into S3 buckets",
+        "link": "https://aws.amazon.com/blogs/security/a-framework-for-securely-collecting-forensic-artifacts-into-s3-buckets/"
+    },
+    {
         "title": "Building AI defenses at scale: Before the threats emerge",
         "link": "https://aws.amazon.com/blogs/security/building-ai-defenses-at-scale-before-the-threats-emerge/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "2025 FINMA ISAE 3000 Type II attestation report available with 183 services in scope",
         "link": "https://aws.amazon.com/blogs/security/2025-finma-isae-3000-type-ii-attestation-report-available-with-183-services-in-scope/"
-    },
-    {
-        "title": "2025 PiTuKri ISAE 3000 Type II attestation report available with 183 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/2025-pitukri-isae-3000-type-ii-attestation-report-available-with-183-services-in-scope/"
     }
 ]
