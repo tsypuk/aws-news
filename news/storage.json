@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building automated AWS Regional availability checks with Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/building-automated-aws-regional-availability-checks-with-amazon-s3/"
+    },
+    {
+        "title": "From hours to minutes: Rethinking Oracle database operations with Amazon FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/storage/from-hours-to-minutes-rethinking-oracle-databases-operations-with-amazon-fsx-for-openzfs/"
+    },
+    {
         "title": "Managing NTFS permissions at scale on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/manage-ntfs-permissions-at-scale-on-amazon-fsx-for-netapp-ontap/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Real-time fleet tracking using AWS IoT Core, Amazon S3 Tables, and Amazon Quick Sight",
         "link": "https://aws.amazon.com/blogs/storage/real-time-fleet-tracking-using-aws-iot-core-amazon-s3-tables-and-amazon-quick-sight/"
-    },
-    {
-        "title": "Improve resilience of low latency applications with Amazon EBS and AWS FIS",
-        "link": "https://aws.amazon.com/blogs/storage/improve-resilience-of-low-latency-applications-with-amazon-ebs-and-aws-fis/"
-    },
-    {
-        "title": "Automated extraction of compressed files on Amazon S3 using AWS Batch and Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/storage/automated-extraction-of-compressed-files-on-amazon-s3-using-aws-batch-and-amazon-ecs/"
     }
 ]

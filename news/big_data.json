@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon MSK Express Broker power for Kiro",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-msk-express-broker-power-for-kiro/"
+    },
+    {
         "title": "Introducing workload simulation workbench for Amazon MSK Express broker",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-workload-simulation-workbench-for-amazon-msk-express-broker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for Amazon Redshift Lambda User-Defined Functions",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-amazon-redshift-lambda-user-defined-functions/"
-    },
-    {
-        "title": "How Vanguard transformed analytics with Amazon Redshift multi-warehouse architecture",
-        "link": "https://aws.amazon.com/blogs/big-data/how-vanguard-transformed-analytics-with-amazon-redshift-multi-warehouse-architecture/"
     }
 ]

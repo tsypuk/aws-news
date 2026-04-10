@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building intelligent knowledge graphs for Amazon EKS operations using AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/containers/building-intelligent-knowledge-graphs-for-amazon-eks-operations-using-aws-devops-agent/"
+    },
+    {
         "title": "Building PCI DSS-Compliant Architectures on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/building-pci-dss-compliant-architectures-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Running containerized hybrid nodes with Amazon Elastic Kubernetes Service",
         "link": "https://aws.amazon.com/blogs/containers/running-containerized-hybrid-nodes-with-amazon-elastic-kubernetes-service/"
-    },
-    {
-        "title": "Enhance Kubernetes high availability with Amazon Application Recovery Controller and Karpenter integration",
-        "link": "https://aws.amazon.com/blogs/containers/enhance-kubernetes-high-availability-with-amazon-application-recovery-controller-and-karpenter-integration/"
     }
 ]

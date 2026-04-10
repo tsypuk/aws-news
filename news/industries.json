@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Telefonica Germany achieved a centralized tracing solution with VPC Traffic Mirroring",
+        "link": "https://aws.amazon.com/blogs/industries/how-telefonica-germany-achieved-a-centralized-tracing-solution-with-vpc-traffic-mirroring/"
+    },
+    {
         "title": "AWS Teams Up with Wingstop to Deliver Wings to Millions During March Hoops Tournament",
         "link": "https://aws.amazon.com/blogs/industries/aws-teams-up-with-wingstop-to-deliver-wings-to-millions-during-march-hoops-tournament/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "The Luggage Lab: Accelerate product innovation with AWS generative AI services",
         "link": "https://aws.amazon.com/blogs/industries/the-luggage-lab-accelerate-product-innovation-with-aws-generative-ai-services/"
-    },
-    {
-        "title": "How TripleLift optimized real-time bidding with custom load balancing, Spot, and Graviton",
-        "link": "https://aws.amazon.com/blogs/industries/how-triplelift-optimized-real-time-bidding-with-custom-load-balancing-spot-and-graviton/"
     }
 ]
