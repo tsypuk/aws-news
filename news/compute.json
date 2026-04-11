@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Memory-Intensive Apps with AWS Lambda Managed Instances",
+        "link": "https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/"
+    },
+    {
         "title": "Accelerate CPU-based AI inference workloads using Intel AMX on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/compute/accelerate-cpu-based-ai-inference-workloads-using-intel-amx-on-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "The attendee\u2019s guide to hybrid cloud and edge computing at AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-hybrid-cloud-and-edge-computing-at-aws-reinvent-2025/"
-    },
-    {
-        "title": "Optimize unused capacity with Amazon EC2 interruptible capacity reservations",
-        "link": "https://aws.amazon.com/blogs/compute/optimize-unused-capacity-with-amazon-ec2-interruptible-capacity-reservations/"
     }
 ]
