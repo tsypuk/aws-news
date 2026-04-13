@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Cloud Connectivity Patterns for Financial Market Infrastructures",
+        "link": "https://aws.amazon.com/blogs/industries/aws-cloud-connectivity-patterns-for-financial-market-infrastructures/"
+    },
+    {
         "title": "Event-Driven Digital Pathology: Governed Whole Slide Image Ingestion to Scalable Inference with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/industries/event-driven-digital-pathology-governed-whole-slide-image-ingestion-to-scalable-inference-with-amazon-sagemaker/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "The Evolution of BMW Group\u2019s 3D Streaming Experience",
         "link": "https://aws.amazon.com/blogs/industries/the-evolution-of-bmw-groupss-3d-streaming-experience/"
-    },
-    {
-        "title": "Build ChatGPT Apps with MCP Servers and AWS Infrastructure",
-        "link": "https://aws.amazon.com/blogs/industries/build-chatgpt-apps-with-mcp-servers-and-aws-infrastructure/"
     }
 ]
