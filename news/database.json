@@ -1,5 +1,13 @@
 [
     {
+        "title": "Options for changing AWS KMS encryption key for Amazon RDS databases",
+        "link": "https://aws.amazon.com/blogs/database/options-for-changing-aws-kms-encryption-key-for-amazon-rds-databases/"
+    },
+    {
+        "title": "Connecting .NET Lambda to Amazon Aurora PostgreSQL via RDS Proxy",
+        "link": "https://aws.amazon.com/blogs/database/connecting-net-lambda-to-amazon-aurora-postgresql-via-rds-proxy/"
+    },
+    {
         "title": "How to build unified JSON search solutions in AWS",
         "link": "https://aws.amazon.com/blogs/database/how-to-build-unified-json-search-solutions-in-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Migrate Cloud SQL for MySQL to Amazon Aurora and Amazon RDS for MySQL Using AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/migrate-cloud-sql-for-mysql-to-amazon-aurora-and-amazon-rds-for-mysql-using-aws-dms/"
-    },
-    {
-        "title": "From bottlenecks to breakthroughs: Dutchie\u2019s database migration journey",
-        "link": "https://aws.amazon.com/blogs/database/from-bottlenecks-to-breakthroughs-dutchies-database-migration-journey/"
-    },
-    {
-        "title": "Automating\u00a0Amazon RDS backup and maintenance windows for Daylight Saving Time shifts",
-        "link": "https://aws.amazon.com/blogs/database/automating-amazon-rds-backup-and-maintenance-windows-for-daylight-saving-time-shifts/"
     }
 ]

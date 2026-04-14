@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to use Parquet Column Indexes with Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-use-parquet-column-indexes-with-amazon-athena/"
+    },
+    {
+        "title": "Implementing Kerberos authentication for Apache Spark jobs on Amazon EMR on EKS to access a Kerberos-enabled Hive Metastore",
+        "link": "https://aws.amazon.com/blogs/big-data/implementing-kerberos-authentication-for-apache-spark-jobs-on-amazon-emr-on-eks-to-access-a-kerberos-enabled-hive-metastore/"
+    },
+    {
         "title": "Introducing Amazon MSK Express Broker power for Kiro",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-msk-express-broker-power-for-kiro/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Simplifying Kafka operations with Amazon MSK Express brokers",
         "link": "https://aws.amazon.com/blogs/big-data/simplifying-kafka-operations-with-amazon-msk-express-brokers/"
-    },
-    {
-        "title": "Filter catalog assets using custom metadata search filters in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/filter-catalog-assets-using-custom-metadata-search-filters-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Best practices for Amazon Redshift Lambda User-Defined Functions",
-        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-amazon-redshift-lambda-user-defined-functions/"
     }
 ]
