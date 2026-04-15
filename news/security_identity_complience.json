@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure AI agent access patterns to AWS resources using Model Context Protocol",
+        "link": "https://aws.amazon.com/blogs/security/secure-ai-agent-access-patterns-to-aws-resources-using-model-context-protocol/"
+    },
+    {
         "title": "A framework for securely collecting forensic artifacts into S3 buckets",
         "link": "https://aws.amazon.com/blogs/security/a-framework-for-securely-collecting-forensic-artifacts-into-s3-buckets/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhanced access denied error messages with policy ARNs",
         "link": "https://aws.amazon.com/blogs/security/enhanced-access-denied-error-messages-with-policy-arns/"
-    },
-    {
-        "title": "2025 FINMA ISAE 3000 Type II attestation report available with 183 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/2025-finma-isae-3000-type-ii-attestation-report-available-with-183-services-in-scope/"
     }
 ]

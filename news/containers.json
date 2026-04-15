@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deploying Model Context Protocol (MCP) servers on Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/containers/deploying-model-context-protocol-mcp-servers-on-amazon-ecs/"
+    },
+    {
+        "title": "Navigating enterprise networking challenges with Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/navigating-enterprise-networking-challenges-with-amazon-eks-auto-mode/"
+    },
+    {
         "title": "Building intelligent knowledge graphs for Amazon EKS operations using AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/containers/building-intelligent-knowledge-graphs-for-amazon-eks-operations-using-aws-devops-agent/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Migrate Amazon EC2 to ECS Express Mode using Kiro CLI and MCP servers",
         "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-ecs-express-mode-using-kiro-cli-and-mcp-servers/"
-    },
-    {
-        "title": "Deep dive: Simplifying resource orchestration with Amazon EKS Capabilities",
-        "link": "https://aws.amazon.com/blogs/containers/deep-dive-simplifying-resource-orchestration-with-amazon-eks-capabilities/"
-    },
-    {
-        "title": "Running containerized hybrid nodes with Amazon Elastic Kubernetes Service",
-        "link": "https://aws.amazon.com/blogs/containers/running-containerized-hybrid-nodes-with-amazon-elastic-kubernetes-service/"
     }
 ]

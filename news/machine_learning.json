@@ -1,5 +1,25 @@
 [
     {
+        "title": "Navigating the generative AI journey: The Path-to-Value framework from AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws/"
+    },
+    {
+        "title": "Use-case based deployments on SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-case-based-deployments-on-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Best practices to run inference on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "How Guidesly built AI-generated trip reports for outdoor guides on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-guidesly-built-ai-generated-trip-reports-for-outdoor-guides-on-aws/"
+    },
+    {
+        "title": "Spring AI SDK for Amazon Bedrock AgentCore is now Generally Available",
+        "link": "https://aws.amazon.com/blogs/machine-learning/spring-ai-sdk-for-amazon-bedrock-agentcore-is-now-generally-available/"
+    },
+    {
         "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/"
-    },
-    {
-        "title": "From isolated alerts to contextual intelligence: Agentic maritime anomaly analysis with generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/"
-    },
-    {
-        "title": "Connecting MCP servers to Amazon Bedrock AgentCore Gateway using Authorization Code flow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/"
-    },
-    {
-        "title": "Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/"
-    },
-    {
-        "title": "Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/"
-    },
-    {
-        "title": "Control which domains your AI agents can access",
-        "link": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Improving storage with additional storage volumes in Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/improving-storage-with-additional-storage-volumes-in-amazon-rds-for-sql-server/"
+    },
+    {
+        "title": "Accelerate database migration to Amazon Aurora DSQL with Kiro and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-database-migration-to-amazon-aurora-dsql-with-kiro-and-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Options for changing AWS KMS encryption key for Amazon RDS databases",
         "link": "https://aws.amazon.com/blogs/database/options-for-changing-aws-kms-encryption-key-for-amazon-rds-databases/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automated parameter and option group change monitoring in Amazon RDS and Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/automated-parameter-and-option-group-change-monitoring-in-amazon-rds-and-amazon-aurora/"
-    },
-    {
-        "title": "Export Amazon SimpleDB domain data to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/database/export-amazon-simpledb-domain-data-to-amazon-s3/"
-    },
-    {
-        "title": "Migrate Cloud SQL for MySQL to Amazon Aurora and Amazon RDS for MySQL Using AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/migrate-cloud-sql-for-mysql-to-amazon-aurora-and-amazon-rds-for-mysql-using-aws-dms/"
     }
 ]

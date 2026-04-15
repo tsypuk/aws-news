@@ -1,5 +1,9 @@
 [
     {
+        "title": "Upgrade business messaging with RCS on AWS",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/upgrade-business-messaging-with-rcs-on-aws/"
+    },
+    {
         "title": "Building a Scalable Messaging API with AWS End User Messaging and SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-a-scalable-messaging-api-with-aws-end-user-messaging-and-ses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enhance event experiences with a generative AI-powered WhatsApp assistant using AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-event-experiences-with-a-generative-ai-powered-whatsapp-assistant-using-aws-end-user-messaging/"
-    },
-    {
-        "title": "How to build resilient SMS delivery with AWS End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-build-resilient-sms-delivery-with-aws-end-user-messaging/"
     }
 ]

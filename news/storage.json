@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline ransomware protection while reducing cost with logically air-gapped vault primary backup",
+        "link": "https://aws.amazon.com/blogs/storage/streamline-ransomware-protection-while-reducing-cost-with-logically-air-gapped-vault-primary-backup/"
+    },
+    {
         "title": "Building automated AWS Regional availability checks with Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/building-automated-aws-regional-availability-checks-with-amazon-s3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Backup 2025 year in review: advancing recovery resilience",
         "link": "https://aws.amazon.com/blogs/storage/aws-backup-2025-year-in-review-advancing-recovery-resilience/"
-    },
-    {
-        "title": "Real-time fleet tracking using AWS IoT Core, Amazon S3 Tables, and Amazon Quick Sight",
-        "link": "https://aws.amazon.com/blogs/storage/real-time-fleet-tracking-using-aws-iot-core-amazon-s3-tables-and-amazon-quick-sight/"
     }
 ]

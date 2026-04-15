@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Outposts monitoring and reporting: A comprehensive Amazon EventBridge solution",
+        "link": "https://aws.amazon.com/blogs/compute/aws-outposts-monitoring-and-reporting-a-comprehensive-amazon-eventbridge-solution/"
+    },
+    {
         "title": "Building Memory-Intensive Apps with AWS Lambda Managed Instances",
         "link": "https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Performance benefits of new Amazon EC2 R8a memory-optimized instances",
         "link": "https://aws.amazon.com/blogs/compute/performance-benefits-of-new-amazon-ec2-r8a-memory-optimized-instances/"
-    },
-    {
-        "title": "The attendee\u2019s guide to hybrid cloud and edge computing at AWS re:Invent 2025",
-        "link": "https://aws.amazon.com/blogs/compute/the-attendees-guide-to-hybrid-cloud-and-edge-computing-at-aws-reinvent-2025/"
     }
 ]
