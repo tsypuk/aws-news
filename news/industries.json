@@ -1,5 +1,17 @@
 [
     {
+        "title": "Accelerating physical AI with AWS and NVIDIA: building production-ready applications with simulation and real-world learning",
+        "link": "https://aws.amazon.com/blogs/industries/accelerating-physical-ai-with-aws-and-nvidia-building-production-ready-applications-with-simulation-and-real-world-learning/"
+    },
+    {
+        "title": "Modernizing life-saving workloads with AWS serverless",
+        "link": "https://aws.amazon.com/blogs/industries/modernizing-life-saving-workloads-with-aws-serverless/"
+    },
+    {
+        "title": "Transforming Industrial Operations: How AVEVA and AWS drive Cloud Innovation",
+        "link": "https://aws.amazon.com/blogs/industries/transforming-industrial-operations-how-aveva-and-aws-drive-cloud-innovation/"
+    },
+    {
         "title": "Introducing Amazon Bio Discovery",
         "link": "https://aws.amazon.com/blogs/industries/introducing-amazon-bio-discovery/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "AWS Teams Up with Wingstop to Deliver Wings to Millions During March Hoops Tournament",
         "link": "https://aws.amazon.com/blogs/industries/aws-teams-up-with-wingstop-to-deliver-wings-to-millions-during-march-hoops-tournament/"
-    },
-    {
-        "title": "How Amazon Connect Health brings agentic AI to the point of care",
-        "link": "https://aws.amazon.com/blogs/industries/how-amazon-connect-health-brings-agentic-ai-to-the-point-of-care/"
-    },
-    {
-        "title": "How Liftoff improved conversion performance and reduced infrastructure costs with Cortex using AWS Graviton",
-        "link": "https://aws.amazon.com/blogs/industries/liftoff-improved-conversion-performance-and-reduced-infrastructure-costs-with-cortex-using-aws-graviton/"
-    },
-    {
-        "title": "From Prompt to Pipeline: AI-Powered Bioinformatics Workflow Development with Kiro and AWS HealthOmics",
-        "link": "https://aws.amazon.com/blogs/industries/from-prompt-to-pipeline-ai-powered-bioinformatics-workflow-development-with-kiro-and-aws-healthomics/"
     }
 ]

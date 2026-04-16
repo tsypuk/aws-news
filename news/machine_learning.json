@@ -1,5 +1,17 @@
 [
     {
+        "title": "Create rich, custom tooltips in Amazon Quick Sight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/"
+    },
+    {
+        "title": "Accelerating decode-heavy LLM inference with speculative decoding on AWS Trainium and vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/"
+    },
+    {
+        "title": "Rede Mater Dei de Sa\u00fade: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/rede-mater-dei-de-saude-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Navigating the generative AI journey: The Path-to-Value framework from AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Text-to-SQL solution powered by Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/"
-    },
-    {
-        "title": "Build AI-powered employee onboarding agents with Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/"
-    },
-    {
-        "title": "Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/"
     }
 ]

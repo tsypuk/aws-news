@@ -1,5 +1,13 @@
 [
     {
+        "title": "Getting started with Apache Iceberg write support in Amazon Redshift \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-2/"
+    },
+    {
+        "title": "Get to insights faster using Notebooks in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/get-to-insights-faster-using-notebooks-in-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "How to use Parquet Column Indexes with Amazon Athena",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-use-parquet-column-indexes-with-amazon-athena/"
     },
@@ -32,8 +40,8 @@
         "link": "https://aws.amazon.com/blogs/big-data/streamline-apache-kafka-topic-management-with-amazon-msk/"
     },
     {
-        "title": "How to set\u00a0up an air-gapped VPC for Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-set-up-an-air-gapped-vpc-for-amazon-sagemaker-unified-studio/"
+        "title": "How to set\u00a0up a network-isolated VPC for Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-set-up-a-network-isolated-vpc-for-amazon-sagemaker-unified-studio/"
     },
     {
         "title": "Navigating multi-account deployments in Amazon SageMaker Unified Studio: a governance-first approach",
@@ -70,13 +78,5 @@
     {
         "title": "Designing centralized and distributed network connectivity patterns for Amazon OpenSearch Serverless \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/big-data/designing-centralized-and-distributed-network-connectivity-patterns-for-amazon-opensearch-serverless-part-1/"
-    },
-    {
-        "title": "Extract data from Amazon Aurora MySQL to Amazon S3 Tables in Apache Iceberg format",
-        "link": "https://aws.amazon.com/blogs/big-data/extract-data-from-amazon-aurora-mysql-to-amazon-s3-tables-in-apache-iceberg-format/"
-    },
-    {
-        "title": "Simplifying Kafka operations with Amazon MSK Express brokers",
-        "link": "https://aws.amazon.com/blogs/big-data/simplifying-kafka-operations-with-amazon-msk-express-brokers/"
     }
 ]

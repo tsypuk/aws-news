@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dissolving the Boundary Between Cloud and Network",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dissolving-the-boundary-between-cloud-and-network/"
+    },
+    {
         "title": "Automating AWS Application Load Balancer Capacity Unit Reservation",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-aws-application-load-balancer-capacity-unit-reservation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implementing secure file uploads to Amazon S3 at the edge: Choosing the right pattern",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-secure-file-uploads-to-amazon-s3-at-the-edge-choosing-the-right-pattern/"
-    },
-    {
-        "title": "Adding HTTP security headers using Amazon CloudFront",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/adding-http-security-headers-using-amazon-cloudfront/"
     }
 ]
