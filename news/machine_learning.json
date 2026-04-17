@@ -1,5 +1,17 @@
 [
     {
+        "title": "Cost-efficient custom text-to-SQL using Amazon Nova Micro and Amazon Bedrock on-demand inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/"
+    },
+    {
+        "title": "Transform retail with AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/"
+    },
+    {
+        "title": "How Automated Reasoning checks in Amazon Bedrock transform generative AI compliance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/"
+    },
+    {
         "title": "Create rich, custom tooltips in Amazon Quick Sight",
         "link": "https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
         "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/"
-    },
-    {
-        "title": "Manage AI costs with Amazon Bedrock Projects",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/"
-    },
-    {
-        "title": "Building real-time conversational podcasts with Amazon Nova 2 Sonic",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/"
-    },
-    {
-        "title": "Text-to-SQL solution powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/"
     }
 ]
