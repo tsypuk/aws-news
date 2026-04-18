@@ -1,5 +1,9 @@
 [
     {
+        "title": "Exact Sciences Transforms Bioinformatics Infrastructure with AWS HealthOmics",
+        "link": "https://aws.amazon.com/blogs/industries/exact-sciences-transforms-bioinformatics-infrastructure-with-aws-healthomics/"
+    },
+    {
         "title": "Building a Serverless Supply Chain Management Solution for Automotive Customers with AWS AppSync and Amazon Aurora Serverless",
         "link": "https://aws.amazon.com/blogs/industries/building-a-serverless-supply-chain-management-solution-for-automotive-customers-with-aws-appsync-and-amazon-aurora-serverless/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Event-Driven Digital Pathology: Governed Whole Slide Image Ingestion to Scalable Inference with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/industries/event-driven-digital-pathology-governed-whole-slide-image-ingestion-to-scalable-inference-with-amazon-sagemaker/"
-    },
-    {
-        "title": "How Telefonica Germany achieved a centralized tracing solution with VPC Traffic Mirroring",
-        "link": "https://aws.amazon.com/blogs/industries/how-telefonica-germany-achieved-a-centralized-tracing-solution-with-vpc-traffic-mirroring/"
     }
 ]

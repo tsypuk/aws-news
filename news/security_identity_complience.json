@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transform security logs into OCSF format using a configuration-driven ETL solution",
+        "link": "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution/"
+    },
+    {
         "title": "Secure AI agent access patterns to AWS resources using Model Context Protocol",
         "link": "https://aws.amazon.com/blogs/security/secure-ai-agent-access-patterns-to-aws-resources-using-model-context-protocol/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "2025 ISO and CSA STAR certificates are now available with one additional service and one new region",
         "link": "https://aws.amazon.com/blogs/security/2025-iso-and-csa-star-certificates-are-now-available-with-one-additional-service-and-one-new-region/"
-    },
-    {
-        "title": "Enhanced access denied error messages with policy ARNs",
-        "link": "https://aws.amazon.com/blogs/security/enhanced-access-denied-error-messages-with-policy-arns/"
     }
 ]

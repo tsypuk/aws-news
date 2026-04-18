@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate development workflows with Amazon EBS Volume Clones",
+        "link": "https://aws.amazon.com/blogs/storage/accelerate-development-workflows-with-amazon-ebs-volume-clones/"
+    },
+    {
         "title": "Streamline ransomware protection while reducing cost with logically air-gapped vault primary backup",
         "link": "https://aws.amazon.com/blogs/storage/streamline-ransomware-protection-while-reducing-cost-with-logically-air-gapped-vault-primary-backup/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Applying Amazon S3 Object Lock at scale for petabytes of existing data",
         "link": "https://aws.amazon.com/blogs/storage/applying-amazon-s3-object-lock-at-scale-for-petabytes-of-existing-data/"
-    },
-    {
-        "title": "AWS Backup 2025 year in review: advancing recovery resilience",
-        "link": "https://aws.amazon.com/blogs/storage/aws-backup-2025-year-in-review-advancing-recovery-resilience/"
     }
 ]

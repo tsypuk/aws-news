@@ -1,5 +1,9 @@
 [
     {
+        "title": "Restore SQL Server databases using T-SQL and Amazon FSx for NetApp ONTAP Snapshots",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/restore-sql-server-databases-using-t-sql-and-amazon-fsx-for-netapp-ontap-snapshots/"
+    },
+    {
         "title": "Reduce time-to-market for AI agents using Microsoft SQL Server 2025 and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reduce-time-to-market-for-ai-agents-using-sql-server-2025-and-amazon-bedrock-agentcore/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Reduce Microsoft SQL Server High Availability costs running on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ec2-reduces-costs-for-microsoft-sql-server-high-availability-deployments/"
-    },
-    {
-        "title": "Mastering SQL Server Backups with T-SQL Snapshots and Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/mastering-sql-server-backups-with-t-sql-snapshots-and-amazon-fsx-for-netapp-ontap/"
     }
 ]

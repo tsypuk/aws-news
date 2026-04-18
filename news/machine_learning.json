@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing granular cost attribution for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/"
+    },
+    {
+        "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/"
+    },
+    {
+        "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
+        "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/"
+    },
+    {
+        "title": "Nova Forge SDK series part 2: Practical guide to fine-tune Nova models using data mixing capabilities",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities/"
+    },
+    {
+        "title": "From hours to minutes: How Agentic AI gave marketers time back for what matters",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-hours-to-minutes-how-agentic-ai-gave-marketers-time-back-for-what-matters/"
+    },
+    {
         "title": "Cost-efficient custom text-to-SQL using Amazon Nova Micro and Amazon Bedrock on-demand inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "Customize Amazon Nova models with Amazon Bedrock fine-tuning",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/"
-    },
-    {
-        "title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences",
-        "link": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/"
-    },
-    {
-        "title": "Building intelligent audio search with Amazon Nova Embeddings: A deep dive into semantic audio understanding",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/"
-    },
-    {
-        "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/"
     }
 ]
