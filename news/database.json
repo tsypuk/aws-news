@@ -1,5 +1,13 @@
 [
     {
+        "title": "Aurora Serverless: Faster performance, enhanced scaling, and still scales down to zero",
+        "link": "https://aws.amazon.com/blogs/database/aurora-serverless-faster-performance-enhanced-scaling-and-still-scales-down-to-zero/"
+    },
+    {
+        "title": "Getting started with the Oracle Database@AWS high performance networking",
+        "link": "https://aws.amazon.com/blogs/database/getting-started-with-the-oracle-databaseaws-high-performance-networking/"
+    },
+    {
         "title": "Build resilient Kerberos authentication for Aurora Global Database without joining Active Directory domain",
         "link": "https://aws.amazon.com/blogs/database/build-resilient-kerberos-authentication-for-aurora-global-database-without-joining-active-directory-domain/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS positioned highest in execution in the latest Gartner Magic Quadrant for Cloud Database Management Systems",
         "link": "https://aws.amazon.com/blogs/database/aws-positioned-highest-in-execution-in-the-latest-gartner-magic-quadrant-for-cloud-database-management-systems/"
-    },
-    {
-        "title": "Automatically scale storage for Amazon RDS Multi-AZ DB clusters using AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/database/automatically-scale-storage-for-amazon-rds-multi-az-db-clusters-using-aws-lambda/"
-    },
-    {
-        "title": "Synchronizing a Backup on-premises Db2 Server with Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/synchronizing-a-backup-on-premises-db2-server-with-amazon-rds-for-db2/"
     }
 ]

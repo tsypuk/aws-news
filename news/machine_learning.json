@@ -1,5 +1,17 @@
 [
     {
+        "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/"
+    },
+    {
+        "title": "ToolSimulator: scalable tool testing for AI agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/"
+    },
+    {
+        "title": "Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/"
+    },
+    {
         "title": "Introducing granular cost attribution for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/"
-    },
-    {
-        "title": "Understanding Amazon Bedrock model lifecycle",
-        "link": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/"
-    },
-    {
-        "title": "The future of managing agents at scale: AWS Agent Registry now in preview",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/"
-    },
-    {
-        "title": "Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/"
     }
 ]

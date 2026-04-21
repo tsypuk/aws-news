@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to clone an AWS CloudHSM cluster across Regions",
+        "link": "https://aws.amazon.com/blogs/security/how-to-clone-an-aws-cloudhsm-cluster-across-regions-2/"
+    },
+    {
         "title": "Transform security logs into OCSF format using a configuration-driven ETL solution",
         "link": "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS completes the 2026 annual Dubai Electronic Security Centre (DESC) certification audit",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2026-annual-dubai-electronic-security-centre-desc-certification-audit/"
-    },
-    {
-        "title": "2025 ISO and CSA STAR certificates are now available with one additional service and one new region",
-        "link": "https://aws.amazon.com/blogs/security/2025-iso-and-csa-star-certificates-are-now-available-with-one-additional-service-and-one-new-region/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How retailers solve the customer identity puzzle with Amperity and AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-retailers-solve-the-customer-identity-puzzle-with-amperity-and-aws/"
+    },
+    {
         "title": "Exact Sciences Transforms Bioinformatics Infrastructure with AWS HealthOmics",
         "link": "https://aws.amazon.com/blogs/industries/exact-sciences-transforms-bioinformatics-infrastructure-with-aws-healthomics/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "AWS Cloud Connectivity Patterns for Financial Market Infrastructures",
         "link": "https://aws.amazon.com/blogs/industries/aws-cloud-connectivity-patterns-for-financial-market-infrastructures/"
-    },
-    {
-        "title": "Event-Driven Digital Pathology: Governed Whole Slide Image Ingestion to Scalable Inference with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/industries/event-driven-digital-pathology-governed-whole-slide-image-ingestion-to-scalable-inference-with-amazon-sagemaker/"
     }
 ]

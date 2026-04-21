@@ -1,10 +1,18 @@
 [
     {
+        "title": "Troubleshooting Amazon S3 access denied errors using Kiro CLI",
+        "link": "https://aws.amazon.com/blogs/storage/troubleshooting-amazon-s3-access-denied-errors-using-kiro-cli/"
+    },
+    {
+        "title": "Accelerate Apache Hadoop and Apache Iceberg on Amazon S3 with the Analytics Accelerator Library",
+        "link": "https://aws.amazon.com/blogs/storage/accelerate-apache-hadoop-and-apache-iceberg-on-amazon-s3-with-the-analytics-accelerator-library/"
+    },
+    {
         "title": "Accelerate development workflows with Amazon EBS Volume Clones",
         "link": "https://aws.amazon.com/blogs/storage/accelerate-development-workflows-with-amazon-ebs-volume-clones/"
     },
     {
-        "title": "Streamline ransomware protection while reducing cost with logically air-gapped vault primary backup",
+        "title": "Streamline ransomware protection while reducing cost with AWS Backup logically air-gapped vault primary backup",
         "link": "https://aws.amazon.com/blogs/storage/streamline-ransomware-protection-while-reducing-cost-with-logically-air-gapped-vault-primary-backup/"
     },
     {
@@ -70,13 +78,5 @@
     {
         "title": "Improve application resiliency with larger and faster Amazon EBS gp3 volumes",
         "link": "https://aws.amazon.com/blogs/storage/improve-your-application-resiliency-with-larger-and-faster-gp3-volumes/"
-    },
-    {
-        "title": "Monitoring Amazon EFS KPIs using Amazon CloudWatch metrics",
-        "link": "https://aws.amazon.com/blogs/storage/monitoring-amazon-efs-kpis-using-aws-cloudwatch-metrics/"
-    },
-    {
-        "title": "Applying Amazon S3 Object Lock at scale for petabytes of existing data",
-        "link": "https://aws.amazon.com/blogs/storage/applying-amazon-s3-object-lock-at-scale-for-petabytes-of-existing-data/"
     }
 ]
