@@ -1,5 +1,9 @@
 [
     {
+        "title": "Ring\u2019s Billion-Scale Semantic Video Search with Amazon RDS for PostgreSQL and pgvector",
+        "link": "https://aws.amazon.com/blogs/database/rings-billion-scale-semantic-video-search-with-amazon-rds-for-postgresql-and-pgvector/"
+    },
+    {
         "title": "Aurora Serverless: Faster performance, enhanced scaling, and still scales down to zero",
         "link": "https://aws.amazon.com/blogs/database/aurora-serverless-faster-performance-enhanced-scaling-and-still-scales-down-to-zero/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enabling nested transactions in Amazon DynamoDB using C#",
         "link": "https://aws.amazon.com/blogs/database/enabling-nested-transactions-in-amazon-dynamodb-using-c/"
-    },
-    {
-        "title": "AWS positioned highest in execution in the latest Gartner Magic Quadrant for Cloud Database Management Systems",
-        "link": "https://aws.amazon.com/blogs/database/aws-positioned-highest-in-execution-in-the-latest-gartner-magic-quadrant-for-cloud-database-management-systems/"
     }
 ]

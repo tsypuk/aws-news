@@ -1,5 +1,9 @@
 [
     {
+        "title": "Configure a custom domain name for your Amazon MSK cluster enabled with IAM authentication",
+        "link": "https://aws.amazon.com/blogs/big-data/configure-a-custom-domain-name-for-your-amazon-msk-cluster-enabled-with-iam-authentication/"
+    },
+    {
         "title": "Migrate third-party and self-managed Apache Kafka clusters to Amazon MSK Express brokers with Amazon MSK Replicator",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-third-party-and-self-managed-apache-kafka-clusters-to-amazon-msk-express-brokers-with-amazon-msk-replicator/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure multi-warehouse Amazon Redshift access behind a Network Load Balancer using Microsoft Entra ID",
         "link": "https://aws.amazon.com/blogs/big-data/secure-multi-warehouse-amazon-redshift-access-behind-a-network-load-balancer-using-microsoft-entra-id/"
-    },
-    {
-        "title": "Securely connect Kafka client applications to your Amazon MSK Serverless cluster from different VPCs and AWS accounts",
-        "link": "https://aws.amazon.com/blogs/big-data/securely-connect-kafka-client-applications-to-your-amazon-msk-serverless-cluster-from-different-vpcs-and-aws-accounts/"
     }
 ]

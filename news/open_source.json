@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying cloud-based engineering workbenches with the Virtual Engineering Workbench on AWS",
+        "link": "https://aws.amazon.com/blogs/opensource/deploying-cloud-based-engineering-workbenches-with-the-virtual-engineering-workbench-on-aws/"
+    },
+    {
         "title": "OCSF Achieves ITU Support: Powering AI-Ready Security Operations",
         "link": "https://aws.amazon.com/blogs/opensource/ocsf-achieves-itu-support-powering-ai-ready-security-operations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing AWS CDK Community Meetings",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-aws-cdk-community-meetings/"
-    },
-    {
-        "title": "Secure your Express application APIs in 5 minutes with Cedar",
-        "link": "https://aws.amazon.com/blogs/opensource/secure-your-application-apis-in-5-minutes-with-cedar/"
     }
 ]

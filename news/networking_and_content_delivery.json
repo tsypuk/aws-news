@@ -1,5 +1,13 @@
 [
     {
+        "title": "Centralized ingress inspection architecture in AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/centralized-ingress-inspection-architecture-in-aws-cloud-wan/"
+    },
+    {
+        "title": "Automated network incident response with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automated-network-incident-response-with-aws-devops-agent/"
+    },
+    {
         "title": "Dissolving the Boundary Between Cloud and Network",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dissolving-the-boundary-between-cloud-and-network/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Load Balancer Controller adds general availability support for Kubernetes Gateway API",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-load-balancer-controller-adds-general-availability-support-for-kubernetes-gateway-api/"
-    },
-    {
-        "title": "Using AWS Edge to optimize object uploads to Amazon S3",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-edge-to-optimize-object-uploads-to-amazon-s3/"
-    },
-    {
-        "title": "Implementing secure file uploads to Amazon S3 at the edge: Choosing the right pattern",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-secure-file-uploads-to-amazon-s3-at-the-edge-choosing-the-right-pattern/"
     }
 ]

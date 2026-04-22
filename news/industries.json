@@ -1,5 +1,9 @@
 [
     {
+        "title": "CME Group MDP multicast data access on AWS using Transit Gateway",
+        "link": "https://aws.amazon.com/blogs/industries/cme-group-mdp-multicast-data-access-on-aws-using-transit-gateway/"
+    },
+    {
         "title": "How retailers solve the customer identity puzzle with Amperity and AWS",
         "link": "https://aws.amazon.com/blogs/industries/how-retailers-solve-the-customer-identity-puzzle-with-amperity-and-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Reinvent Telecom Mediation Systems with Amazon Bedrock AgentCore, Strands Agents, and the Model Context Protocol",
         "link": "https://aws.amazon.com/blogs/industries/reinvent-telecom-mediation-systems-with-amazon-bedrock-agentcore-strands-agents-and-the-model-context-protocol/"
-    },
-    {
-        "title": "AWS Cloud Connectivity Patterns for Financial Market Infrastructures",
-        "link": "https://aws.amazon.com/blogs/industries/aws-cloud-connectivity-patterns-for-financial-market-infrastructures/"
     }
 ]
