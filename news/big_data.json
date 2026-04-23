@@ -1,5 +1,13 @@
 [
     {
+        "title": "Using Apache Sedona with AWS Glue to process billions of daily points from a geospatial dataset",
+        "link": "https://aws.amazon.com/blogs/big-data/using-apache-sedona-with-aws-glue-to-process-billions-of-daily-points-from-a-geospatial-dataset/"
+    },
+    {
+        "title": "Analyzing your data catalog: Query SageMaker Catalog metadata with SQL",
+        "link": "https://aws.amazon.com/blogs/big-data/analyzing-your-data-catalog-query-sagemaker-catalog-metadata-with-sql/"
+    },
+    {
         "title": "Configure a custom domain name for your Amazon MSK cluster enabled with IAM authentication",
         "link": "https://aws.amazon.com/blogs/big-data/configure-a-custom-domain-name-for-your-amazon-msk-cluster-enabled-with-iam-authentication/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Improve the discoverability of your unstructured data in Amazon SageMaker Catalog using generative AI",
         "link": "https://aws.amazon.com/blogs/big-data/improve-the-discoverability-of-your-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai/"
-    },
-    {
-        "title": "Automated tag-based DAG permission management in Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/automated-tag-based-dag-permission-management-in-amazon-mwaa/"
-    },
-    {
-        "title": "Secure multi-warehouse Amazon Redshift access behind a Network Load Balancer using Microsoft Entra ID",
-        "link": "https://aws.amazon.com/blogs/big-data/secure-multi-warehouse-amazon-redshift-access-behind-a-network-load-balancer-using-microsoft-entra-id/"
     }
 ]

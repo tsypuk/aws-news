@@ -1,5 +1,21 @@
 [
     {
+        "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/"
+    },
+    {
+        "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/"
+    },
+    {
+        "title": "Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Company-wise memory in Amazon Bedrock with Amazon Neptune and Mem0",
+        "link": "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0/"
+    },
+    {
         "title": "From developer desks to the whole organization: Running Claude Cowork in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Rede Mater Dei de Sa\u00fade: Monitoring AI agents in the revenue cycle with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/rede-mater-dei-de-saude-monitoring-ai-agents-in-the-revenue-cycle-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Navigating the generative AI journey: The Path-to-Value framework from AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws/"
-    },
-    {
-        "title": "Use-case based deployments on SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-case-based-deployments-on-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Best practices to run inference on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "How Guidesly built AI-generated trip reports for outdoor guides on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-guidesly-built-ai-generated-trip-reports-for-outdoor-guides-on-aws/"
     }
 ]

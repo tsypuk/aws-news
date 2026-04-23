@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS purpose-built database recovery: A guide to business continuity and disaster recovery strategies",
+        "link": "https://aws.amazon.com/blogs/database/aws-purpose-built-database-recovery-a-guide-to-business-continuity-and-disaster-recovery-strategies/"
+    },
+    {
         "title": "Ring\u2019s Billion-Scale Semantic Video Search with Amazon RDS for PostgreSQL and pgvector",
         "link": "https://aws.amazon.com/blogs/database/rings-billion-scale-semantic-video-search-with-amazon-rds-for-postgresql-and-pgvector/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Augment DMS SC with Amazon Q Developer for code conversion and test case generation",
         "link": "https://aws.amazon.com/blogs/database/augment-dms-sc-with-amazon-q-developer-for-code-conversion-and-test-case-generation/"
-    },
-    {
-        "title": "Enabling nested transactions in Amazon DynamoDB using C#",
-        "link": "https://aws.amazon.com/blogs/database/enabling-nested-transactions-in-amazon-dynamodb-using-c/"
     }
 ]
