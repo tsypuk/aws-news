@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
+        "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/"
+    },
+    {
         "title": "PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS",
         "link": "https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Architecting conversational observability for cloud applications",
         "link": "https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/"
-    },
-    {
-        "title": "How BASF\u2019s Agriculture Solutions drives traceability and climate action by tokenizing cotton value chains using Amazon Managed Blockchain",
-        "link": "https://aws.amazon.com/blogs/architecture/how-basfs-agriculture-solutions-drives-traceability-and-climate-action-by-tokenizing-cotton-value-chains-using-amazon-managed-blockchain/"
     }
 ]

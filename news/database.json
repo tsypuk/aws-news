@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices and architecture patterns for cross-account sharing in Oracle Database@AWS",
+        "link": "https://aws.amazon.com/blogs/database/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws/"
+    },
+    {
         "title": "AWS purpose-built database recovery: A guide to business continuity and disaster recovery strategies",
         "link": "https://aws.amazon.com/blogs/database/aws-purpose-built-database-recovery-a-guide-to-business-continuity-and-disaster-recovery-strategies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrating to Amazon ElastiCache for Valkey: Best practices and a customer success story",
         "link": "https://aws.amazon.com/blogs/database/migrating-to-amazon-elasticache-for-valkey-best-practices-and-a-customer-success-story/"
-    },
-    {
-        "title": "Augment DMS SC with Amazon Q Developer for code conversion and test case generation",
-        "link": "https://aws.amazon.com/blogs/database/augment-dms-sc-with-amazon-q-developer-for-code-conversion-and-test-case-generation/"
     }
 ]

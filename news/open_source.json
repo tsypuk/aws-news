@@ -1,5 +1,9 @@
 [
     {
+        "title": "Decoupling Authorization at Scale: MongoDB Atlas and Cedar-Based Resource Policies",
+        "link": "https://aws.amazon.com/blogs/opensource/decoupling-authorization-at-scale-mongodb-atlas-and-cedar-based-resource-policies/"
+    },
+    {
         "title": "Deploying cloud-based engineering workbenches with the Virtual Engineering Workbench on AWS",
         "link": "https://aws.amazon.com/blogs/opensource/deploying-cloud-based-engineering-workbenches-with-the-virtual-engineering-workbench-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Open Protocols for Agent Interoperability Part 2: Authentication on MCP",
         "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-2-authentication-on-mcp/"
-    },
-    {
-        "title": "Introducing AWS CDK Community Meetings",
-        "link": "https://aws.amazon.com/blogs/opensource/introducing-aws-cdk-community-meetings/"
     }
 ]

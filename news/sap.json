@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate your SAP Clean Core journey with Kiro agents",
+        "link": "https://aws.amazon.com/blogs/awsforsap/accelerate-your-sap-clean-core-journey-with-kiro-agents/"
+    },
+    {
         "title": "Announcing AWS Console for SAP Applications: a unified experience to register and manage your SAP Applications on AWS",
         "link": "https://aws.amazon.com/blogs/awsforsap/announcing-aws-console-for-sap-applications-a-unified-experience-to-register-and-manage-your-sap-applications-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modern observability frameworks for SAP: A solution to monitoring challenges with PowerConnect and Dynatrace",
         "link": "https://aws.amazon.com/blogs/awsforsap/modern-observability-frameworks-for-sap-a-solution-to-monitoring-challenges-with-powerconnect-and-dynatrace/"
-    },
-    {
-        "title": "AWS Blog: Simplify Deployment of SAP BTP with AWS Marketplace",
-        "link": "https://aws.amazon.com/blogs/awsforsap/aws-blog-simplify-deployment-of-sap-btp-with-aws-marketplace/"
     }
 ]
