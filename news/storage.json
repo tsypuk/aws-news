@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate to Amazon S3 account regional namespaces",
+        "link": "https://aws.amazon.com/blogs/storage/migrate-to-amazon-s3-account-regional-namespaces/"
+    },
+    {
+        "title": "Enabling AI-powered analytics on enterprise file data: Configuring S3 Access Points for Amazon FSx for NetApp ONTAP with Active Directory",
+        "link": "https://aws.amazon.com/blogs/storage/enabling-ai-powered-analytics-on-enterprise-file-data-configuring-s3-access-points-for-amazon-fsx-for-netapp-ontap-with-active-directory/"
+    },
+    {
         "title": "Troubleshooting Amazon S3 access denied errors using Kiro CLI",
         "link": "https://aws.amazon.com/blogs/storage/troubleshooting-amazon-s3-access-denied-errors-using-kiro-cli/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhancing co-located Kubernetes Pod data access with Amazon EBS Node-Local volumes",
         "link": "https://aws.amazon.com/blogs/storage/enhancing-co-located-kubernetes-pod-data-access-with-amazon-ebs-node-local-volumes/"
-    },
-    {
-        "title": "Optimize agent tool selection using Amazon S3 Vectors and Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/storage/optimize-agent-tool-selection-using-s3-vectors-and-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Improve application resiliency with larger and faster Amazon EBS gp3 volumes",
-        "link": "https://aws.amazon.com/blogs/storage/improve-your-application-resiliency-with-larger-and-faster-gp3-volumes/"
     }
 ]

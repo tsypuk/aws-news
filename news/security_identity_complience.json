@@ -1,5 +1,9 @@
 [
     {
+        "title": "Protecting your secrets from tomorrow\u2019s quantum risks",
+        "link": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks/"
+    },
+    {
         "title": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
         "link": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS European Sovereign Cloud achieves first compliance milestone: SOC 2 and C5 reports plus seven ISO certifications",
         "link": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-achieves-first-compliance-milestone-soc-2-and-c5-reports-plus-seven-iso-certifications/"
-    },
-    {
-        "title": "Security is a team sport: AWS at RSAC 2026 Conference",
-        "link": "https://aws.amazon.com/blogs/security/security-is-a-team-sport-aws-at-rsac-2026-conference/"
     }
 ]
