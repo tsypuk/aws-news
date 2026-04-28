@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implement SPIFFE/SPIRE authorization on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/implement-spiffe-spire-authorization-on-amazon-eks/"
+    },
+    {
         "title": "Deploying Model Context Protocol (MCP) servers on Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/deploying-model-context-protocol-mcp-servers-on-amazon-ecs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Announcing the end-of-support for the AWS Copilot CLI",
         "link": "https://aws.amazon.com/blogs/containers/announcing-the-end-of-support-for-the-aws-copilot-cli/"
-    },
-    {
-        "title": "Migrate Amazon EC2 to ECS Express Mode using Kiro CLI and MCP servers",
-        "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-ecs-express-mode-using-kiro-cli-and-mcp-servers/"
     }
 ]

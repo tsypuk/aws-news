@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Carlsberg\u2019s Traitomic business leveraged AWS HealthOmics to power genetic trait development",
+        "link": "https://aws.amazon.com/blogs/industries/how-carlsbergs-traitomic-business-leveraged-aws-healthomics-to-power-genetic-trait-development/"
+    },
+    {
         "title": "CME Group MDP multicast data access on AWS using Transit Gateway",
         "link": "https://aws.amazon.com/blogs/industries/cme-group-mdp-multicast-data-access-on-aws-using-transit-gateway/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Accelerate Project Delivery with AI-Native Execution System on Amazon Quick",
         "link": "https://aws.amazon.com/blogs/industries/accelerate-project-delivery-with-ai-native-execution-system-on-amazon-quick/"
-    },
-    {
-        "title": "Reinvent Telecom Mediation Systems with Amazon Bedrock AgentCore, Strands Agents, and the Model Context Protocol",
-        "link": "https://aws.amazon.com/blogs/industries/reinvent-telecom-mediation-systems-with-amazon-bedrock-agentcore-strands-agents-and-the-model-context-protocol/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deloitte optimizes EKS environment provisioning and achieves 89% faster testing environments using Amazon EKS and vCluster",
+        "link": "https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster/"
+    },
+    {
         "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
         "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Salesforce migrated from Cluster Autoscaler to Karpenter across their fleet of 1,000 EKS clusters",
         "link": "https://aws.amazon.com/blogs/architecture/how-salesforce-migrated-from-cluster-autoscaler-to-karpenter-across-their-fleet-of-1000-eks-clusters/"
-    },
-    {
-        "title": "Architecting conversational observability for cloud applications",
-        "link": "https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/"
     }
 ]

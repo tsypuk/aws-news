@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deep dive into FedRAMP 20x Key Security Indicators: Decoding the 63 KSIs",
+        "link": "https://aws.amazon.com/blogs/publicsector/deep-dive-into-fedramp-20x-key-security-indicators-decoding-the-63-ksis/"
+    },
+    {
+        "title": "Turning urgency into opportunity: NJIT\u2019s 10-week cloud migration",
+        "link": "https://aws.amazon.com/blogs/publicsector/turning-urgency-into-opportunity-njits-10-week-cloud-migration/"
+    },
+    {
         "title": "The transformative impact of generative AI on business workflows in a highly regulated industry",
         "link": "https://aws.amazon.com/blogs/publicsector/the-transformative-impact-of-generative-ai-on-business-workflows-in-a-highly-regulated-industry/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building an identity-verified remote assessment platform on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/building-an-identity-verified-remote-assessment-platform-on-aws/"
-    },
-    {
-        "title": "Building self-recovering systems against technology and business risk with Amazon Bedrock production resilience",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-self-recovering-systems-against-technology-and-business-risk-with-amazon-bedrock-production-resilience/"
-    },
-    {
-        "title": "How Servizo Galego de Sa\u00fade accelerates clinical trials with AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-servizo-galego-de-saude-accelerates-clinical-trials-with-aws/"
     }
 ]

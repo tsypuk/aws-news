@@ -1,5 +1,13 @@
 [
     {
+        "title": "DSQL SQL Dialect: How Amazon Aurora DSQL differs from single-instance PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/dsql-sql-dialect-how-amazon-aurora-dsql-differs-from-single-instance-postgresql/"
+    },
+    {
+        "title": "How Kajabi optimized costs with Amazon Aurora upgrades",
+        "link": "https://aws.amazon.com/blogs/database/how-kajabi-optimized-costs-with-amazon-aurora-upgrades/"
+    },
+    {
         "title": "Best practices and architecture patterns for cross-account sharing in Oracle Database@AWS",
         "link": "https://aws.amazon.com/blogs/database/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Turbocharge your applications with Amazon DocumentDB 8.0",
         "link": "https://aws.amazon.com/blogs/database/turbocharge-your-applications-with-amazon-documentdb-8-0/"
-    },
-    {
-        "title": "Conversational Oracle EBS operations with CloudWatch MCP and Kiro CLI",
-        "link": "https://aws.amazon.com/blogs/database/conversational-oracle-ebs-operations-with-cloudwatch-mcp-and-kiro-cli/"
-    },
-    {
-        "title": "Migrating to Amazon ElastiCache for Valkey: Best practices and a customer success story",
-        "link": "https://aws.amazon.com/blogs/database/migrating-to-amazon-elasticache-for-valkey-best-practices-and-a-customer-success-story/"
     }
 ]

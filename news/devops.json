@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Transform custom: Enterprise Code Modernization with the Learn-Scale-Improve Flywheel",
+        "link": "https://aws.amazon.com/blogs/devops/aws-transform-custom-enterprise-code-modernization-with-the-learn-scale-improve-flywheel/"
+    },
+    {
         "title": "Automating Incident Investigation with AWS DevOps Agent and Salesforce MCP Server",
         "link": "https://aws.amazon.com/blogs/devops/automating-incident-investigation-with-aws-devops-agent-and-salesforce-mcp-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Open-Sourcing Adaptive Workflows for AI-Driven Development Life Cycle (AI-DLC)",
         "link": "https://aws.amazon.com/blogs/devops/open-sourcing-adaptive-workflows-for-ai-driven-development-life-cycle-ai-dlc/"
-    },
-    {
-        "title": "Introducing the AWS Infrastructure as Code MCP Server: AI-Powered CDK and CloudFormation Assistance",
-        "link": "https://aws.amazon.com/blogs/devops/introducing-the-aws-infrastructure-as-code-mcp-server-ai-powered-cdk-and-cloudformation-assistance/"
     }
 ]

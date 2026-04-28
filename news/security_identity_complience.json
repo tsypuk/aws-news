@@ -1,5 +1,13 @@
 [
     {
+        "title": "Optimize security operations through an AWS Security Hub POC",
+        "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc/"
+    },
+    {
+        "title": "Can I do that with policy? Understanding the AWS Service Authorization Reference",
+        "link": "https://aws.amazon.com/blogs/security/can-i-do-that-with-policy-understanding-the-aws-service-authorization-reference/"
+    },
+    {
         "title": "Protecting your secrets from tomorrow\u2019s quantum risks",
         "link": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Deploy AWS applications and access AWS accounts across multiple Regions with IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/deploy-aws-applications-and-access-aws-accounts-across-multiple-regions-with-iam-identity-center/"
-    },
-    {
-        "title": "How to manage the lifecycle of Amazon Machine Images using AMI Lineage for AWS",
-        "link": "https://aws.amazon.com/blogs/security/how-to-manage-the-lifecycle-of-amazon-machine-images-using-ami-lineage-for-aws/"
-    },
-    {
-        "title": "AWS European Sovereign Cloud achieves first compliance milestone: SOC 2 and C5 reports plus seven ISO certifications",
-        "link": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-achieves-first-compliance-milestone-soc-2-and-c5-reports-plus-seven-iso-certifications/"
     }
 ]

@@ -1,10 +1,14 @@
 [
     {
+        "title": "Shift-Left Tag Compliance using AWS Organizations and Terraform",
+        "link": "https://aws.amazon.com/blogs/mt/shift-left-tag-compliance-using-aws-organizations-and-terraform/"
+    },
+    {
         "title": "Simplifying Prometheus metrics collection across your AWS infrastructure",
         "link": "https://aws.amazon.com/blogs/mt/simplifying-prometheus-metrics-collection-across-your-aws-infrastructure/"
     },
     {
-        "title": "Introducing OpenTelemetry & PromQL support in Amazon CloudWatch",
+        "title": "Introducing OpenTelemetry & AMP; PromQL support in Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/introducing-opentelemetry-promql-support-in-amazon-cloudwatch/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "Amazon CloudWatch RUM now supports mobile application monitoring",
         "link": "https://aws.amazon.com/blogs/mt/amazon-cloudwatch-rum-supports-mobile-application-monitoring/"
-    },
-    {
-        "title": "Prometheus MCP Server: AI-Driven Monitoring Intelligence for AWS Users",
-        "link": "https://aws.amazon.com/blogs/mt/prometheus-mcp-server-ai-driven-monitoring-intelligence-for-aws-users/"
     }
 ]
