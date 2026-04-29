@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling biomedical research on AWS: A cloud-native approach to scientific data management",
+        "link": "https://aws.amazon.com/blogs/publicsector/scaling-biomedical-research-on-aws-a-cloud-native-approach-to-scientific-data-management/"
+    },
+    {
         "title": "Deep dive into FedRAMP 20x Key Security Indicators: Decoding the 63 KSIs",
         "link": "https://aws.amazon.com/blogs/publicsector/deep-dive-into-fedramp-20x-key-security-indicators-decoding-the-63-ksis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Sphero brings safe, impactful AI to K12 classrooms with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/how-sphero-brings-safe-impactful-ai-to-k12-classrooms-with-amazon-bedrock/"
-    },
-    {
-        "title": "Building an identity-verified remote assessment platform on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-an-identity-verified-remote-assessment-platform-on-aws/"
     }
 ]

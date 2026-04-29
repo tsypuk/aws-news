@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing fine-grained Amazon Route 53 access using IAM condition keys (Part 2)",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-fine-grained-amazon-route-53-access-using-iam-condition-keys-part-2/"
+    },
+    {
         "title": "Introducing AWS Client VPN native AWS Transit Gateway attachment",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-client-vpn-native-aws-transit-gateway-attachment/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Betsson Services Limited elevated AWS hybrid connectivity to new heights with AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-betsson-services-limited-elevated-aws-hybrid-connectivity-to-new-heights-with-aws-cloud-wan/"
-    },
-    {
-        "title": "Using cross-account CloudFront VPC origins for multi-account private API Gateway architecture",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/using-cross-account-cloudfront-vpc-origins-for-multi-account-private-api-gateway-architecture/"
     }
 ]

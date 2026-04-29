@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic/"
+    },
+    {
+        "title": "NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Automate repetitive tasks with Amazon Quick Flows",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/"
-    },
-    {
-        "title": "Power video semantic search with Amazon Nova Multimodal Embeddings",
-        "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/"
-    },
-    {
-        "title": "Nova Forge SDK series part 2: Practical guide to fine-tune Nova models using data mixing capabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities/"
     }
 ]

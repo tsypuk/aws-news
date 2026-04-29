@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unified observability in Amazon OpenSearch Service: metrics, traces, and AI agent debugging in a single interface",
+        "link": "https://aws.amazon.com/blogs/big-data/unified-observability-in-amazon-opensearch-service-metrics-traces-and-ai-agent-debugging-in-a-single-interface/"
+    },
+    {
         "title": "Migrate to Apache Flink 2.2 on Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-to-apache-flink-2-2-on-amazon-managed-service-for-apache-flink/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to set\u00a0up a network-isolated VPC for Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-set-up-a-network-isolated-vpc-for-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Navigating multi-account deployments in Amazon SageMaker Unified Studio: a governance-first approach",
-        "link": "https://aws.amazon.com/blogs/big-data/navigating-multi-account-deployments-in-amazon-sagemaker-unified-studio-a-governance-first-approach/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline identity management with Okta MCP and Kiro CLI",
+        "link": "https://aws.amazon.com/blogs/awsmarketplace/streamline-identity-management-with-okta-mcp-and-kiro-cli/"
+    },
+    {
         "title": "How to reduce AWS Marketplace costs by automating AMI subscription monitoring",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/how-to-reduce-aws-marketplace-costs-by-automating-ami-subscription-monitoring/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Creating AWS Marketplace components with EC2 Image Builder and Amazon Q",
         "link": "https://aws.amazon.com/blogs/awsmarketplace/creating-aws-marketplace-components-with-ec2-image-builder-and-amazon-q/"
-    },
-    {
-        "title": "Transform CI/CD pipelines with CircleCI\u2019s MCP and AWS Agentic AI",
-        "link": "https://aws.amazon.com/blogs/awsmarketplace/transform-ci-cd-pipelines-with-circleci-mcp-and-aws-agentic-ai/"
     }
 ]
