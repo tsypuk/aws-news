@@ -1,5 +1,21 @@
 [
     {
+        "title": "Extracting contract insights with PwC\u2019s AI-driven annotation on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/"
+    },
+    {
+        "title": "Organizing Agents\u2019 memory at scale: Namespace design patterns in AgentCore Memory",
+        "link": "https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory/"
+    },
+    {
+        "title": "Building AI-ready data: Vanguard\u2019s Virtual Analyst journey",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/"
+    },
+    {
+        "title": "Run custom MCP proxies serverless on Amazon Bedrock AgentCore Runtime",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/"
+    },
+    {
         "title": "Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic",
         "link": "https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Accelerate Generative AI Inference on Amazon SageMaker AI with G7e Instances",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/"
-    },
-    {
-        "title": "ToolSimulator: scalable tool testing for AI agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/"
-    },
-    {
-        "title": "Omnichannel ordering with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
-        "link": "https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/"
-    },
-    {
-        "title": "Introducing granular cost attribution for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/"
-    },
-    {
-        "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/"
     }
 ]

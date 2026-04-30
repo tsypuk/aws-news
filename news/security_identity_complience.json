@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing trust and safety into Amazon Bedrock powered applications",
+        "link": "https://aws.amazon.com/blogs/security/designing-trust-and-safety-into-amazon-bedrock-powered-applications/"
+    },
+    {
         "title": "What the March 2026 Threat Technique Catalog update means for your AWS environment",
         "link": "https://aws.amazon.com/blogs/security/what-the-march-2026-threat-technique-catalog-update-means-for-your-aws-environment/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "IAM policy types: How and when to use them",
         "link": "https://aws.amazon.com/blogs/security/iam-policy-types-how-and-when-to-use-them/"
-    },
-    {
-        "title": "Amazon threat intelligence teams identify Interlock ransomware campaign targeting enterprise firewalls",
-        "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-teams-identify-interlock-ransomware-campaign-targeting-enterprise-firewalls/"
     }
 ]

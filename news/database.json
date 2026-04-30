@@ -1,5 +1,25 @@
 [
     {
+        "title": "Timestream for InfluxDB 3 workload analysis and best practices",
+        "link": "https://aws.amazon.com/blogs/database/timestream-for-influxdb-3-workload-analysis-and-best-practices/"
+    },
+    {
+        "title": "Features and workflows with Amazon Timestream for InfluxDB 3",
+        "link": "https://aws.amazon.com/blogs/database/features-and-workflows-with-amazon-timestream-for-influxdb-3/"
+    },
+    {
+        "title": "Building agentic AI for Amazon RDS for SQL Server with Strands and AgentCore",
+        "link": "https://aws.amazon.com/blogs/database/building-agentic-ai-for-amazon-rds-for-sql-server-with-strands-and-agentcore/"
+    },
+    {
+        "title": "Exploring type-safe .NET development for Amazon Neptune with Gremlinq",
+        "link": "https://aws.amazon.com/blogs/database/exploring-type-safe-net-development-for-amazon-neptune-with-gremlinq/"
+    },
+    {
+        "title": "Create monitoring dashboard for Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/create-monitoring-dashboard-for-amazon-rds-for-db2/"
+    },
+    {
         "title": "DSQL SQL Dialect: How Amazon Aurora DSQL differs from single-instance PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/dsql-sql-dialect-how-amazon-aurora-dsql-differs-from-single-instance-postgresql/"
     },
@@ -20,7 +40,7 @@
         "link": "https://aws.amazon.com/blogs/database/rings-billion-scale-semantic-video-search-with-amazon-rds-for-postgresql-and-pgvector/"
     },
     {
-        "title": "Aurora Serverless: Faster performance, enhanced scaling, and still scales down to zero",
+        "title": "Aurora serverless: Faster performance, enhanced scaling, and still scales down to zero",
         "link": "https://aws.amazon.com/blogs/database/aurora-serverless-faster-performance-enhanced-scaling-and-still-scales-down-to-zero/"
     },
     {
@@ -58,25 +78,5 @@
     {
         "title": "PostgreSQL logical replication: How to replicate only the data that you need",
         "link": "https://aws.amazon.com/blogs/database/postgresql-logical-replication-how-to-replicate-only-the-data-that-you-need/"
-    },
-    {
-        "title": "Navigating backup and recovery options for Oracle Database@AWS",
-        "link": "https://aws.amazon.com/blogs/database/navigating-backup-and-recovery-options-for-oracle-databaseaws/"
-    },
-    {
-        "title": "Optimize full-text search in Amazon RDS for MySQL and Amazon Aurora MySQL",
-        "link": "https://aws.amazon.com/blogs/database/optimize-full-text-search-in-amazon-rds-for-mysql-and-amazon-aurora-mysql/"
-    },
-    {
-        "title": "Working with identity columns and sequences in Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/working-with-identity-columns-and-sequences-in-aurora-dsql/"
-    },
-    {
-        "title": "Stream live data from Amazon Keyspaces to S3 vector for real time AI applications",
-        "link": "https://aws.amazon.com/blogs/database/stream-live-data-from-amazon-keyspaces-to-s3-vector-for-real-time-ai-applications/"
-    },
-    {
-        "title": "Turbocharge your applications with Amazon DocumentDB 8.0",
-        "link": "https://aws.amazon.com/blogs/database/turbocharge-your-applications-with-amazon-documentdb-8-0/"
     }
 ]

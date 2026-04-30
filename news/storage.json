@@ -1,5 +1,17 @@
 [
     {
+        "title": "From fragmented to fortified: Motability Operations\u2019 journey to a unified backup strategy with AWS",
+        "link": "https://aws.amazon.com/blogs/storage/from-fragmented-to-fortified-motability-operations-journey-to-a-unified-backup-strategy-with-aws/"
+    },
+    {
+        "title": "Enabling natural language access to structured data using Amazon S3 Tables and Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/storage/enabling-natural-language-access-to-structured-data-using-amazon-s3-tables-and-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Migrating SAS grid to the cloud: How Amazon FSx for Lustre Intelligent-Tiering delivers low cost, high performance, storage",
+        "link": "https://aws.amazon.com/blogs/storage/migrating-sas-grid-to-the-cloud-how-amazon-fsx-for-lustre-intelligent-tiering-delivers-the-lowest-cost-high-performance-storage/"
+    },
+    {
         "title": "Migrate to Amazon S3 account regional namespaces",
         "link": "https://aws.amazon.com/blogs/storage/migrate-to-amazon-s3-account-regional-namespaces/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize data management on S3 Tables with Intelligent-Tiering",
         "link": "https://aws.amazon.com/blogs/storage/optimize-data-management-on-s3-tables-with-intelligent-tiering/"
-    },
-    {
-        "title": "How Allcargo Global migrated VDI workloads to Amazon FSx for NetApp ONTAP and FSx for Windows File Server using AWS DataSync",
-        "link": "https://aws.amazon.com/blogs/storage/how-allcargo-migrated-vdi-workload-to-amazon-fsx-using-aws-datasync/"
-    },
-    {
-        "title": "Automatically decompress files in Amazon S3 using AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/storage/automatically-decompress-files-in-amazon-s3-using-aws-step-functions/"
-    },
-    {
-        "title": "Enhancing co-located Kubernetes Pod data access with Amazon EBS Node-Local volumes",
-        "link": "https://aws.amazon.com/blogs/storage/enhancing-co-located-kubernetes-pod-data-access-with-amazon-ebs-node-local-volumes/"
     }
 ]

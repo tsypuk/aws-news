@@ -1,5 +1,13 @@
 [
     {
+        "title": "Extend agentic IDEs with AWS SDK for SAP ABAP documentation",
+        "link": "https://aws.amazon.com/blogs/awsforsap/extend-agentic-ides-with-aws-sdk-for-sap-abap-documentation/"
+    },
+    {
+        "title": "Announcing AWS For SAP Management MCP Server \u2014 Manage Your SAP Applications on AWS Using AI",
+        "link": "https://aws.amazon.com/blogs/awsforsap/announcing-aws-for-sap-management-mcp-server-manage-your-sap-applications-on-aws-using-ai/"
+    },
+    {
         "title": "Accelerate your SAP Clean Core journey with Kiro agents",
         "link": "https://aws.amazon.com/blogs/awsforsap/accelerate-your-sap-clean-core-journey-with-kiro-agents/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerating SAP Cloud Application Programming with Amazon Q Developer",
         "link": "https://aws.amazon.com/blogs/awsforsap/accelerating-sap-cloud-application-programming-with-amazon-q-developer/"
-    },
-    {
-        "title": "Transforming SAP Technical Documentation with GenAI: Accelerating knowledge generation for SAP Notes with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/awsforsap/transforming-sap-technical-documentation-with-genai-accelerating-knowledge-generation-for-sap-notes-with-amazon-bedrock/"
-    },
-    {
-        "title": "Modern observability frameworks for SAP: A solution to monitoring challenges with PowerConnect and Dynatrace",
-        "link": "https://aws.amazon.com/blogs/awsforsap/modern-observability-frameworks-for-sap-a-solution-to-monitoring-challenges-with-powerconnect-and-dynatrace/"
     }
 ]
