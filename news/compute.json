@@ -1,5 +1,13 @@
 [
     {
+        "title": "Enhancing network observability with new AWS Outposts racks LAG metrics",
+        "link": "https://aws.amazon.com/blogs/compute/enhancing-network-observability-with-new-aws-outposts-racks-lag-metrics/"
+    },
+    {
+        "title": "Serverless ICYMI Q1 2026",
+        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2026/"
+    },
+    {
         "title": "AWS Outposts monitoring and reporting: A comprehensive Amazon EventBridge solution",
         "link": "https://aws.amazon.com/blogs/compute/aws-outposts-monitoring-and-reporting-a-comprehensive-amazon-eventbridge-solution/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference",
         "link": "https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/"
-    },
-    {
-        "title": "Node.js 24 runtime now available in AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/compute/node-js-24-runtime-now-available-in-aws-lambda/"
-    },
-    {
-        "title": "Performance benefits of new Amazon EC2 R8a memory-optimized instances",
-        "link": "https://aws.amazon.com/blogs/compute/performance-benefits-of-new-amazon-ec2-r8a-memory-optimized-instances/"
     }
 ]
