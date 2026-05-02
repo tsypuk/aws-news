@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Transform now automates BI migration to Amazon Quick in days",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/"
+    },
+    {
         "title": "Reinforcement fine-tuning with LLM-as-a-judge",
         "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
         "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/"
-    },
-    {
-        "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/"
     }
 ]

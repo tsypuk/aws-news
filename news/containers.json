@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify hybrid Kubernetes networking with Amazon EKS Hybrid Nodes gateway",
+        "link": "https://aws.amazon.com/blogs/containers/simplify-hybrid-kubernetes-networking-with-amazon-eks-hybrid-nodes-gateway/"
+    },
+    {
         "title": "Implement SPIFFE/SPIRE authorization on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/implement-spiffe-spire-authorization-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automated deployments with GitHub Actions for Amazon ECS Express Mode",
         "link": "https://aws.amazon.com/blogs/containers/automated-deployments-with-github-actions-for-amazon-ecs-express-mode/"
-    },
-    {
-        "title": "Announcing the end-of-support for the AWS Copilot CLI",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-the-end-of-support-for-the-aws-copilot-cli/"
     }
 ]
