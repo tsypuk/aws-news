@@ -1,5 +1,13 @@
 [
     {
+        "title": "Simplify multi-account log ingestion to Splunk",
+        "link": "https://aws.amazon.com/blogs/apn/simplify-multi-account-log-ingestion-to-splunk/"
+    },
+    {
+        "title": "Architecting agentic AI for scale and trust from the start",
+        "link": "https://aws.amazon.com/blogs/apn/architecting-agentic-ai-for-scale-and-trust-from-the-start/"
+    },
+    {
         "title": "Orchestrating Intelligent Agents at Scale: How AgentCore and Temporal Create Robust AI Systems",
         "link": "https://aws.amazon.com/blogs/apn/how-temporal-uses-amazon-bedrock-agentcore-to-create-robust-ai-systems/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New AWS ISV Accelerate benefits: Unlock the co-sell advantage",
         "link": "https://aws.amazon.com/blogs/apn/new-aws-isv-accelerate-benefits-unlock-the-co-sell-advantage/"
-    },
-    {
-        "title": "Introducing AWS Partner Central agents",
-        "link": "https://aws.amazon.com/blogs/apn/introducing-aws-partner-central-agents/"
-    },
-    {
-        "title": "Strengthening application security: How Detectify and AWS help enterprises control their attack surface",
-        "link": "https://aws.amazon.com/blogs/apn/strengthening-application-security-how-detectify-and-aws-help-enterprises-control-their-attack-surface/"
     }
 ]

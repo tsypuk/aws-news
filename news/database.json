@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Amazon DocumentDB on AWS Graviton4 R8g instances delivers 63% better Sysbench benchmark results",
+        "link": "https://aws.amazon.com/blogs/database/how-amazon-documentdb-on-aws-graviton4-r8g-instances-delivers-63-better-sysbench-benchmark-results/"
+    },
+    {
+        "title": "Connect to Amazon RDS for Db2 from your laptop",
+        "link": "https://aws.amazon.com/blogs/database/connect-to-amazon-rds-for-db2-from-your-laptop/"
+    },
+    {
+        "title": "Troubleshoot Amazon RDS for Oracle to Amazon Redshift DMS migrations with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/database/troubleshoot-amazon-rds-for-oracle-to-amazon-redshift-dms-migrations-with-aws-devops-agent/"
+    },
+    {
         "title": "Timestream for InfluxDB 3 workload analysis and best practices",
         "link": "https://aws.amazon.com/blogs/database/timestream-for-influxdb-3-workload-analysis-and-best-practices/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Connecting .NET Lambda to Amazon Aurora PostgreSQL via RDS Proxy",
         "link": "https://aws.amazon.com/blogs/database/connecting-net-lambda-to-amazon-aurora-postgresql-via-rds-proxy/"
-    },
-    {
-        "title": "How to build unified JSON search solutions in AWS",
-        "link": "https://aws.amazon.com/blogs/database/how-to-build-unified-json-search-solutions-in-aws/"
-    },
-    {
-        "title": "Monitor custom database metrics in Amazon RDS for SQL Server using Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/database/monitor-custom-database-metrics-in-amazon-rds-for-sql-server-using-amazon-cloudwatch/"
-    },
-    {
-        "title": "PostgreSQL logical replication: How to replicate only the data that you need",
-        "link": "https://aws.amazon.com/blogs/database/postgresql-logical-replication-how-to-replicate-only-the-data-that-you-need/"
     }
 ]

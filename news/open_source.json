@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Trusted Remote Execution: Policy-Enforced Scripts for AI Agents and Humans",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-trusted-remote-execution-policy-enforced-scripts-for-ai-agents-and-humans/"
+    },
+    {
         "title": "Decoupling Authorization at Scale: MongoDB Atlas and Cedar-Based Resource Policies",
         "link": "https://aws.amazon.com/blogs/opensource/decoupling-authorization-at-scale-mongodb-atlas-and-cedar-based-resource-policies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP",
         "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-3-strands-agents-mcp/"
-    },
-    {
-        "title": "Open Protocols for Agent Interoperability Part 2: Authentication on MCP",
-        "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-2-authentication-on-mcp/"
     }
 ]

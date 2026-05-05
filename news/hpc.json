@@ -1,5 +1,9 @@
 [
     {
+        "title": "High Throughput Scheduling for Financial Services with YellowDog HTS on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/high-throughput-scheduling-for-financial-services-with-yellowdog-hts-on-aws/"
+    },
+    {
         "title": "Cost-effective and scalable Oxford Nanopore Technologies primary analysis with Nextflow and Amazon EC2 G Instances",
         "link": "https://aws.amazon.com/blogs/hpc/cost-effective-and-scalable-oxford-nanopore-technologies-primary-analysis-with-nextflow-and-amazon-ec2-g-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "What\u2019s the difference between AWS ParallelCluster  and AWS Parallel Computing Service?",
         "link": "https://aws.amazon.com/blogs/hpc/thoughts-on-the-differences-between-aws-parallel-computing-service-and-aws-parallelcluster/"
-    },
-    {
-        "title": "A scientific approach to workload-aware computing on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/a-scientific-approach-to-workload-aware-computing-on-aws/"
     }
 ]

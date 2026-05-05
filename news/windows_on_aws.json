@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing SQL Server Encryption Keys Across AWS Regions for Disaster Recovery",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/managing-sql-server-encryption-keys-across-aws-regions-for-disaster-recovery/"
+    },
+    {
         "title": "Restore SQL Server databases using T-SQL and Amazon FSx for NetApp ONTAP Snapshots",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/restore-sql-server-databases-using-t-sql-and-amazon-fsx-for-netapp-ontap-snapshots/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "What\u2019s new in Microsoft SQL Server 2025 on AWS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/whats-new-in-microsoft-sql-server-2025-on-aws/"
-    },
-    {
-        "title": "Reduce Microsoft SQL Server High Availability costs running on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/amazon-ec2-reduces-costs-for-microsoft-sql-server-high-availability-deployments/"
     }
 ]

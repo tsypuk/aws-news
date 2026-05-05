@@ -1,5 +1,33 @@
 [
     {
+        "title": "Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/"
+    },
+    {
+        "title": "Introducing the agent quality loop: AgentCore Optimization now in preview",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/"
+    },
+    {
+        "title": "Agent-guided workflows to accelerate model customization in Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Generate dashboards from natural language prompts in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick/"
+    },
+    {
+        "title": "From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/"
+    },
+    {
+        "title": "Introducing Dataset Q&A: Expanding natural language querying for structured datasets in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick/"
+    },
+    {
+        "title": "Capacity-aware inference: Automatic instance fallback for SageMaker AI endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/"
+    },
+    {
         "title": "AWS Transform now automates BI migration to Amazon Quick in days",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Automate repetitive tasks with Amazon Quick Flows",
         "link": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/"
-    },
-    {
-        "title": "Build and deploy an automatic sync solution for Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Build Strands Agents with SageMaker AI models and MLflow",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/"
-    },
-    {
-        "title": "How Popsa used Amazon Nova to inspire customers with personalised title suggestions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions/"
-    },
-    {
-        "title": "Building Workforce AI Agents with Visier and Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/"
-    },
-    {
-        "title": "Amazon Quick for marketing: From scattered data to strategic action",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/"
-    },
-    {
-        "title": "Applying multimodal biological foundation models across therapeutics and patient care",
-        "link": "https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/"
-    },
-    {
-        "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/"
     }
 ]
