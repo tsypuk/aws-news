@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing AI traffic analysis dashboards for AWS WAF",
+        "link": "https://aws.amazon.com/blogs/security/introducing-ai-traffic-analysis-dashboards-for-aws-waf/"
+    },
+    {
+        "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
+        "link": "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture/"
+    },
+    {
         "title": "Securing open proxies in your AWS environment",
         "link": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How AWS KMS and AWS Encryption SDK overcome symmetric encryption bounds",
         "link": "https://aws.amazon.com/blogs/security/how-aws-kms-and-aws-encryption-sdk-overcome-symmetric-encryption-bounds/"
-    },
-    {
-        "title": "Four security principles for agentic AI systems",
-        "link": "https://aws.amazon.com/blogs/security/four-security-principles-for-agentic-ai-systems/"
-    },
-    {
-        "title": "New compliance guide available: ISO/IEC 27001:2022 on AWS",
-        "link": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-270012022-on-aws-compliance-guide/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Aurora DSQL for global-scale financial transactions",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-for-global-scale-financial-transactions/"
+    },
+    {
         "title": "How Amazon DocumentDB on AWS Graviton4 R8g instances delivers 63% better Sysbench benchmark results",
         "link": "https://aws.amazon.com/blogs/database/how-amazon-documentdb-on-aws-graviton4-r8g-instances-delivers-63-better-sysbench-benchmark-results/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Options for changing AWS KMS encryption key for Amazon RDS databases",
         "link": "https://aws.amazon.com/blogs/database/options-for-changing-aws-kms-encryption-key-for-amazon-rds-databases/"
-    },
-    {
-        "title": "Connecting .NET Lambda to Amazon Aurora PostgreSQL via RDS Proxy",
-        "link": "https://aws.amazon.com/blogs/database/connecting-net-lambda-to-amazon-aurora-postgresql-via-rds-proxy/"
     }
 ]

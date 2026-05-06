@@ -1,5 +1,9 @@
 [
     {
+        "title": "Track inter-AZ and NAT gateway traffic with EKS Container Network Observability",
+        "link": "https://aws.amazon.com/blogs/containers/track-inter-az-and-nat-gateway-traffic-with-eks-container-network-observability/"
+    },
+    {
         "title": "Simplify hybrid Kubernetes networking with Amazon EKS Hybrid Nodes gateway",
         "link": "https://aws.amazon.com/blogs/containers/simplify-hybrid-kubernetes-networking-with-amazon-eks-hybrid-nodes-gateway/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "AWS at KubeCon EU 2026: Open Source Leadership Meets Production Innovation",
         "link": "https://aws.amazon.com/blogs/containers/aws-at-kubecon-eu-2026-open-source-leadership-meets-production-innovation/"
-    },
-    {
-        "title": "Automated deployments with GitHub Actions for Amazon ECS Express Mode",
-        "link": "https://aws.amazon.com/blogs/containers/automated-deployments-with-github-actions-for-amazon-ecs-express-mode/"
     }
 ]
