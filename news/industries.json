@@ -1,5 +1,9 @@
 [
     {
+        "title": "Massive Parallel Processing of Financial Transactions with Amazon EKS and Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/industries/massive-parallel-processing-of-financial-transactions-with-amazon-eks-and-amazon-msk/"
+    },
+    {
         "title": "Submit up to 100,000 Bioinformatics Workflow Runs with a Single API Call in AWS HealthOmics",
         "link": "https://aws.amazon.com/blogs/industries/submit-up-to-100000-bioinformatics-workflow-runs-with-a-single-api-call-in-aws-healthomics/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Exact Sciences Transforms Bioinformatics Infrastructure with AWS HealthOmics",
         "link": "https://aws.amazon.com/blogs/industries/exact-sciences-transforms-bioinformatics-infrastructure-with-aws-healthomics/"
-    },
-    {
-        "title": "Building a Serverless Supply Chain Management Solution for Automotive Customers with AWS AppSync and Amazon Aurora Serverless",
-        "link": "https://aws.amazon.com/blogs/industries/building-a-serverless-supply-chain-management-solution-for-automotive-customers-with-aws-appsync-and-amazon-aurora-serverless/"
     }
 ]
