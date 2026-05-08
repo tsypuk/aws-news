@@ -1,5 +1,13 @@
 [
     {
+        "title": "ICYMI: April 2026 @AWS Security",
+        "link": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security/"
+    },
+    {
+        "title": "AWS achieves SNI 27017, SNI 27018, and SNI 9001 certifications for the AWS Asia Pacific (Jakarta) Region",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27017-sni-27018-and-sni-9001-certifications-for-the-aws-asia-pacific-jakarta-region/"
+    },
+    {
         "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
         "link": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "A framework for securely collecting forensic artifacts into S3 buckets",
         "link": "https://aws.amazon.com/blogs/security/a-framework-for-securely-collecting-forensic-artifacts-into-s3-buckets/"
-    },
-    {
-        "title": "Building AI defenses at scale: Before the threats emerge",
-        "link": "https://aws.amazon.com/blogs/security/building-ai-defenses-at-scale-before-the-threats-emerge/"
-    },
-    {
-        "title": "Introducing the Landing Zone Accelerator on AWS Universal Configuration and LZA Compliance Workbook",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-landing-zone-accelerator-on-aws-universal-configuration-and-lza-compliance-workbook/"
     }
 ]
