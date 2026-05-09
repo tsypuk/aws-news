@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building an end-to-end agentic SRE using AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/building-an-end-to-end-agentic-sre-using-aws-devops-agent/"
+    },
+    {
         "title": "Amazon Q Developer end-of-support announcement",
         "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent (in preview)",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/"
-    },
-    {
-        "title": "Building with AI-DLC using Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/"
     }
 ]

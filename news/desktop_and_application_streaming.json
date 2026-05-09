@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitor Amazon WorkSpaces at Scale with Custom CloudWatch Dashboard Templates",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/monitor-amazon-workspaces-at-scale-with-custom-cloudwatch-dashboard-templates/"
+    },
+    {
         "title": "Amazon WorkSpaces for Automotive & Manufacturing Engineering",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-for-automotive-manufacturing-engineering/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Citrix announces general availability of Citrix DaaS Machine Creation Services on Amazon WorkSpaces Core",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/citrix-announces-general-availability-of-citrix-daas-machine-creation-services-on-amazon-workspaces-core/"
-    },
-    {
-        "title": "Simplify Device Redirection in Amazon WorkSpaces Personal and Amazon WorkSpaces Applications Using FabulaTech Software",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/simplify-device-redirection-on-amazon-workspaces-personal-and-amazon-appstream-using-fabulatech/"
     }
 ]

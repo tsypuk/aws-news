@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to consolidate cross-Region S3 data into OpenSearch",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-consolidate-cross-region-s3-data-into-opensearch/"
+    },
+    {
+        "title": "Enable real-time mainframe analytics with Precisely Connect and Amazon S3",
+        "link": "https://aws.amazon.com/blogs/big-data/enable-real-time-mainframe-analytics-with-precisely-connect-and-amazon-s3/"
+    },
+    {
         "title": "Build streaming applications on Amazon Managed Service for Apache Flink with AI-assisted guidance",
         "link": "https://aws.amazon.com/blogs/big-data/build-streaming-applications-on-amazon-managed-service-for-apache-flink-with-ai-assisted-guidance/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Amazon MSK Express Broker power for Kiro",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-msk-express-broker-power-for-kiro/"
-    },
-    {
-        "title": "Introducing workload simulation workbench for Amazon MSK Express broker",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-workload-simulation-workbench-for-amazon-msk-express-broker/"
-    },
-    {
-        "title": "Proactive monitoring for Amazon Redshift Serverless using AWS Lambda and Slack alerts",
-        "link": "https://aws.amazon.com/blogs/big-data/proactive-monitoring-for-amazon-redshift-serverless-using-aws-lambda-and-slack-alerts/"
     }
 ]

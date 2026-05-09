@@ -1,5 +1,9 @@
 [
     {
+        "title": "Query billion-scale vectors with SQL: Integrating Amazon S3 Vectors and Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/query-billion-scale-vectors-with-sql-integrating-amazon-s3-vectors-and-aurora-postgresql/"
+    },
+    {
         "title": "Migrating data from an Amazon Aurora snapshot into Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/migrating-data-from-an-amazon-aurora-snapshot-into-amazon-aurora-dsql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Ring\u2019s Billion-Scale Semantic Video Search with Amazon RDS for PostgreSQL and pgvector",
         "link": "https://aws.amazon.com/blogs/database/rings-billion-scale-semantic-video-search-with-amazon-rds-for-postgresql-and-pgvector/"
-    },
-    {
-        "title": "Aurora serverless: Faster performance, enhanced scaling, and still scales down to zero",
-        "link": "https://aws.amazon.com/blogs/database/aurora-serverless-faster-performance-enhanced-scaling-and-still-scales-down-to-zero/"
     }
 ]
