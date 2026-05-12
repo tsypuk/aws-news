@@ -1,5 +1,9 @@
 [
     {
+        "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
+        "link": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services/"
+    },
+    {
         "title": "ICYMI: April 2026 @AWS Security",
         "link": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure AI agent access patterns to AWS resources using Model Context Protocol",
         "link": "https://aws.amazon.com/blogs/security/secure-ai-agent-access-patterns-to-aws-resources-using-model-context-protocol/"
-    },
-    {
-        "title": "A framework for securely collecting forensic artifacts into S3 buckets",
-        "link": "https://aws.amazon.com/blogs/security/a-framework-for-securely-collecting-forensic-artifacts-into-s3-buckets/"
     }
 ]

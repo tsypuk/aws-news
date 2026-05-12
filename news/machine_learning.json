@@ -1,5 +1,25 @@
 [
     {
+        "title": "Building web search-enabled agents with Strands and Exa",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/"
+    },
+    {
+        "title": "Introducing Claude Platform on AWS: Anthropic\u2019s native platform, through your AWS account",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/"
+    },
+    {
+        "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/"
+    },
+    {
+        "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/"
+    },
+    {
+        "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/"
+    },
+    {
         "title": "Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "From data lake to AI-ready analytics: Introducing new data source with S3 Tables in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/"
-    },
-    {
-        "title": "Introducing Dataset Q&A: Expanding natural language querying for structured datasets in Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick/"
-    },
-    {
-        "title": "Capacity-aware inference: Automatic instance fallback for SageMaker AI endpoints",
-        "link": "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/"
-    },
-    {
-        "title": "AWS Transform now automates BI migration to Amazon Quick in days",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/"
-    },
-    {
-        "title": "Reinforcement fine-tuning with LLM-as-a-judge",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/"
-    },
-    {
-        "title": "AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/"
     }
 ]

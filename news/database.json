@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Aurora DSQL connections: Drivers, strings, and best practices",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-connections-drivers-strings-and-best-practices/"
+    },
+    {
         "title": "Query billion-scale vectors with SQL: Integrating Amazon S3 Vectors and Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/query-billion-scale-vectors-with-sql-integrating-amazon-s3-vectors-and-aurora-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS purpose-built database recovery: A guide to business continuity and disaster recovery strategies",
         "link": "https://aws.amazon.com/blogs/database/aws-purpose-built-database-recovery-a-guide-to-business-continuity-and-disaster-recovery-strategies/"
-    },
-    {
-        "title": "Ring\u2019s Billion-Scale Semantic Video Search with Amazon RDS for PostgreSQL and pgvector",
-        "link": "https://aws.amazon.com/blogs/database/rings-billion-scale-semantic-video-search-with-amazon-rds-for-postgresql-and-pgvector/"
     }
 ]

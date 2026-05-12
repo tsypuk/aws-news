@@ -1,5 +1,25 @@
 [
     {
+        "title": "How FIS centralized 13,000 VPC endpoints to strengthen security and simplify operations",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-fis-centralized-13000-vpc-endpoints-to-strengthen-security-and-simplify-operations/"
+    },
+    {
+        "title": "Network connectivity patterns for agents deployed on Amazon Bedrock AgentCore Runtime",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-connectivity-patterns-for-agents-deployed-on-amazon-bedrock-agentcore-runtime/"
+    },
+    {
+        "title": "Migrate from Static Routing to Dynamic BGP Routing on AWS Site-to-Site VPN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-from-static-routing-to-dynamic-bgp-routing-on-aws-site-to-site-vpn/"
+    },
+    {
+        "title": "Building production-ready DNS infrastructure with AWS CDK",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-production-ready-dns-infrastructure-with-aws-cdk/"
+    },
+    {
+        "title": "Enhanced security with DMZ architecture using Amazon VPC Block Public Access",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhanced-security-with-dmz-architecture-using-amazon-vpc-block-public-access/"
+    },
+    {
         "title": "Tag-based invalidation in Amazon CloudFront",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/tag-based-invalidation-in-amazon-cloudfront/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "LexisNexis Risk Solutions success story: Enhancing global connectivity with AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/lexisnexis-risk-solutions-success-story-enhancing-global-connectivity-with-aws-cloud-wan/"
-    },
-    {
-        "title": "Introducing CloudWatch Metrics for AWS Direct Connect Virtual Interface BGP Health and Prefix Count",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cloudwatch-metrics-for-aws-direct-connect-virtual-interface-bgp-health-and-prefix-count/"
-    },
-    {
-        "title": "Navigating the NGINX Ingress retirement: A practical guide to migration on AWS",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/navigating-the-nginx-ingress-retirement-a-practical-guide-to-migration-on-aws/"
-    },
-    {
-        "title": "Deploy VPC Block Public Access across AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/deploy-vpc-block-public-access-across-aws-organizations/"
-    },
-    {
-        "title": "Building a modern network for your VMware workloads using Amazon Elastic VMware Service",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-modern-network-for-your-vmware-workloads-using-amazon-elastic-vmware-service/"
-    },
-    {
-        "title": "Amazon CloudFront flat-rate pricing plans: new features and expanded capabilities",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-flat-rate-pricing-plans-new-features-and-expanded-capabilities/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "How to use streamlined permissions for Amazon S3 Tables and Iceberg materialized views",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-use-streamlined-permissions-for-amazon-s3-tables-and-iceberg-materialized-views/"
+    },
+    {
+        "title": "Improve DynamoDB analytics with AWS Glue zero-ETL schema and partition controls",
+        "link": "https://aws.amazon.com/blogs/big-data/improve-dynamodb-analytics-with-aws-glue-zero-etl-schema-and-partition-controls/"
+    },
+    {
+        "title": "How to build a cross-Region resilience for Amazon OpenSearch Service with Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-build-a-cross-region-resilience-for-amazon-opensearch-service-with-amazon-msk/"
+    },
+    {
         "title": "How to consolidate cross-Region S3 data into OpenSearch",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-consolidate-cross-region-s3-data-into-opensearch/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Get to insights faster using Notebooks in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/get-to-insights-faster-using-notebooks-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "How to use Parquet Column Indexes with Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-use-parquet-column-indexes-with-amazon-athena/"
-    },
-    {
-        "title": "Implementing Kerberos authentication for Apache Spark jobs on Amazon EMR on EKS to access a Kerberos-enabled Hive Metastore",
-        "link": "https://aws.amazon.com/blogs/big-data/implementing-kerberos-authentication-for-apache-spark-jobs-on-amazon-emr-on-eks-to-access-a-kerberos-enabled-hive-metastore/"
-    },
-    {
-        "title": "Introducing Amazon MSK Express Broker power for Kiro",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-msk-express-broker-power-for-kiro/"
     }
 ]

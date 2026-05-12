@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scalable cross-cloud data migration to Amazon S3 with distributed rclone",
+        "link": "https://aws.amazon.com/blogs/storage/scalable-cross-cloud-data-migration-to-amazon-s3-with-distributed-rclone/"
+    },
+    {
         "title": "Implement single-exchange tokens for short-lived Amazon S3 presigned URLs with Terraform",
         "link": "https://aws.amazon.com/blogs/storage/implement-single-exchange-tokens-for-short-lived-amazon-s3-presigned-urls-with-terraform/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automated malware scanning for Amazon FSx for Windows File Server with GuardDuty protection for Amazon S3",
         "link": "https://aws.amazon.com/blogs/storage/automated-malware-scanning-for-amazon-fsx-for-windows-file-server-with-guardduty-protection-for-amazon-s3/"
-    },
-    {
-        "title": "Bridge legacy and modern applications with Amazon S3 Access Points for Amazon FSx",
-        "link": "https://aws.amazon.com/blogs/storage/bridge-legacy-and-modern-applications-with-amazon-s3-access-points-for-amazon-fsx/"
     }
 ]
