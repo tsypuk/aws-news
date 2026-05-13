@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building hybrid multi-tenant architecture for stateful services on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws/"
+    },
+    {
         "title": "Choosing between single or multiple organizations in AWS Organizations",
         "link": "https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Sovereign failover \u2013 Design for digital sovereignty using the AWS European Sovereign Cloud",
         "link": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/"
-    },
-    {
-        "title": "How Artera enhances prostate cancer diagnostics using AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-artera-enhances-prostate-cancer-diagnostics-using-aws/"
     }
 ]

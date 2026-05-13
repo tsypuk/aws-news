@@ -1,5 +1,13 @@
 [
     {
+        "title": "Streamlined monitoring and debugging for Amazon EMR on EC2",
+        "link": "https://aws.amazon.com/blogs/big-data/streamlined-monitoring-and-debugging-for-amazon-emr-on-ec2/"
+    },
+    {
+        "title": "Detect and resolve HBase inconsistencies faster with AI on Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/detect-and-resolve-hbase-inconsistencies-faster-with-ai-on-amazon-emr/"
+    },
+    {
         "title": "How to use streamlined permissions for Amazon S3 Tables and Iceberg materialized views",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-use-streamlined-permissions-for-amazon-s3-tables-and-iceberg-materialized-views/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhancing Identity Intelligence with Babel Street Match and Amazon OpenSearch",
         "link": "https://aws.amazon.com/blogs/big-data/enhancing-identity-intelligence-with-babel-street-match-and-amazon-opensearch/"
-    },
-    {
-        "title": "Getting started with Apache Iceberg write support in Amazon Redshift \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-2/"
-    },
-    {
-        "title": "Get to insights faster using Notebooks in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/get-to-insights-faster-using-notebooks-in-amazon-sagemaker-unified-studio/"
     }
 ]

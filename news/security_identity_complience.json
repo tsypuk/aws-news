@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS Security Agent full repository code scanning feature now available in preview",
+        "link": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/"
+    },
+    {
+        "title": "Enabling AI sovereignty on AWS",
+        "link": "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws/"
+    },
+    {
         "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
         "link": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to clone an AWS CloudHSM cluster across Regions",
         "link": "https://aws.amazon.com/blogs/security/how-to-clone-an-aws-cloudhsm-cluster-across-regions-2/"
-    },
-    {
-        "title": "Transform security logs into OCSF format using a configuration-driven ETL solution",
-        "link": "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution/"
-    },
-    {
-        "title": "Secure AI agent access patterns to AWS resources using Model Context Protocol",
-        "link": "https://aws.amazon.com/blogs/security/secure-ai-agent-access-patterns-to-aws-resources-using-model-context-protocol/"
     }
 ]

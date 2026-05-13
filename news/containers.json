@@ -1,5 +1,13 @@
 [
     {
+        "title": "Back up and restore your Amazon EKS cluster resources using Velero",
+        "link": "https://aws.amazon.com/blogs/containers/back-up-and-restore-your-amazon-eks-cluster-resources-using-velero/"
+    },
+    {
+        "title": "Implement centralized observability for multi-account Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/implement-centralized-observability-for-multi-account-amazon-eks/"
+    },
+    {
         "title": "Gradual deployments in Amazon ECS with linear and canary strategies",
         "link": "https://aws.amazon.com/blogs/containers/gradual-deployments-in-amazon-ecs-with-linear-and-canary-strategies/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Building intelligent knowledge graphs for Amazon EKS operations using AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/containers/building-intelligent-knowledge-graphs-for-amazon-eks-operations-using-aws-devops-agent/"
-    },
-    {
-        "title": "Building PCI DSS-Compliant Architectures on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/building-pci-dss-compliant-architectures-on-amazon-eks/"
-    },
-    {
-        "title": "Session policies for Amazon EKS Pod Identity",
-        "link": "https://aws.amazon.com/blogs/containers/session-policies-for-amazon-eks-pod-identity/"
     }
 ]

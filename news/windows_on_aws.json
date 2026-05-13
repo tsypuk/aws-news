@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate Microsoft SQL Server Developer Deployments on Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-sql-server-developer-deployments-on-amazon-rds/"
+    },
+    {
         "title": "Managing SQL Server Encryption Keys Across AWS Regions for Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/managing-sql-server-encryption-keys-across-aws-regions-for-disaster-recovery/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing Kiro and MCP Tools for SQL Server professionals",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-kiro-and-mcp-tools-for-sql-server-professionals/"
-    },
-    {
-        "title": "What\u2019s new in Microsoft SQL Server 2025 on AWS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/whats-new-in-microsoft-sql-server-2025-on-aws/"
     }
 ]
