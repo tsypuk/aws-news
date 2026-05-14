@@ -1,5 +1,21 @@
 [
     {
+        "title": "Build financial document processing with Pulse AI and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/"
+    },
+    {
+        "title": "Build real-time voice streaming applications with Amazon Nova Sonic and WebRTC",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-streaming-applications-with-amazon-nova-sonic-and-webrtc/"
+    },
+    {
+        "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/"
+    },
+    {
+        "title": "Fine-tune LLM with Databricks Unity Catalog and Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai/"
+    },
+    {
         "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Introducing OS Level Actions in Amazon Bedrock AgentCore Browser",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/"
-    },
-    {
-        "title": "Secure AI agents with Amazon Bedrock AgentCore Identity on Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/"
-    },
-    {
-        "title": "Intelligence-driven message defense and insights using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/"
-    },
-    {
-        "title": "Beyond BI: How the Dataset Q&A feature of Amazon Quick powers the next generation of data decisions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/"
-    },
-    {
-        "title": "Introducing agent quality optimization in AgentCore, now in preview",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/"
     }
 ]

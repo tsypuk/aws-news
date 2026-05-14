@@ -1,5 +1,17 @@
 [
     {
+        "title": "Detecting and preventing crypto mining in your AWS environment",
+        "link": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/"
+    },
+    {
+        "title": "Introducing the updated AWS User Guide to Governance, Risk, and Compliance for Responsible AI Adoption",
+        "link": "https://aws.amazon.com/blogs/security/introducing-the-updated-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption/"
+    },
+    {
+        "title": "PCI PIN and P2PE compliance packages for AWS Payment Cryptography are now available",
+        "link": "https://aws.amazon.com/blogs/security/pci-pin-and-p2pe-compliance-packages-for-aws-payment-cryptography-are-now-available/"
+    },
+    {
         "title": "AWS Security Agent full repository code scanning feature now available in preview",
         "link": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Protecting your secrets from tomorrow\u2019s quantum risks",
         "link": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks/"
-    },
-    {
-        "title": "A technical walkthrough of multicloud full-stack security using AWS Security Hub Extended",
-        "link": "https://aws.amazon.com/blogs/security/a-technical-walkthrough-of-multicloud-full-stack-security-using-aws-security-hub-extended/"
-    },
-    {
-        "title": "Winter 2025 SOC 1 report is now available with 184 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/winter-2025-soc-1-report-is-now-available-with-184-services-in-scope/"
-    },
-    {
-        "title": "How to clone an AWS CloudHSM cluster across Regions",
-        "link": "https://aws.amazon.com/blogs/security/how-to-clone-an-aws-cloudhsm-cluster-across-regions-2/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing client confidentiality at scale: Automated data discovery and governed analytics for legal workloads",
+        "link": "https://aws.amazon.com/blogs/big-data/securing-client-confidentiality-at-scale-automated-data-discovery-and-governed-analytics-for-legal-workloads/"
+    },
+    {
         "title": "Streamlined monitoring and debugging for Amazon EMR on EC2",
         "link": "https://aws.amazon.com/blogs/big-data/streamlined-monitoring-and-debugging-for-amazon-emr-on-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securely connecting on-premises data systems to Amazon Redshift with IAM Roles Anywhere",
         "link": "https://aws.amazon.com/blogs/big-data/securely-connecting-on-premises-data-systems-to-amazon-redshift-with-iam-roles-anywhere/"
-    },
-    {
-        "title": "Enhancing Identity Intelligence with Babel Street Match and Amazon OpenSearch",
-        "link": "https://aws.amazon.com/blogs/big-data/enhancing-identity-intelligence-with-babel-street-match-and-amazon-opensearch/"
     }
 ]

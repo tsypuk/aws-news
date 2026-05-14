@@ -1,5 +1,9 @@
 [
     {
+        "title": "Maximizing value with Amazon EKS Auto Mode: Strategies for visibility, control, and optimization",
+        "link": "https://aws.amazon.com/blogs/containers/maximizing-value-with-amazon-eks-auto-mode-strategies-for-visibility-control-and-optimization/"
+    },
+    {
         "title": "Back up and restore your Amazon EKS cluster resources using Velero",
         "link": "https://aws.amazon.com/blogs/containers/back-up-and-restore-your-amazon-eks-cluster-resources-using-velero/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Navigating enterprise networking challenges with Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/navigating-enterprise-networking-challenges-with-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Building intelligent knowledge graphs for Amazon EKS operations using AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/containers/building-intelligent-knowledge-graphs-for-amazon-eks-operations-using-aws-devops-agent/"
     }
 ]

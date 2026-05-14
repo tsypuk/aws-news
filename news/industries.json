@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to Connect AWS HealthOmics to Public and Private Network Sources at Runtime",
+        "link": "https://aws.amazon.com/blogs/industries/how-to-connect-aws-healthomics-to-public-and-private-network-sources-at-runtime/"
+    },
+    {
         "title": "Accelerating Android Builds on AWS: From 3 Hours to Under 5 Minutes with SourceFS",
         "link": "https://aws.amazon.com/blogs/industries/accelerating-android-builds-on-aws-from-3-hours-to-under-5-minutes-with-sourcefs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Carlsberg\u2019s Traitomic business leveraged AWS HealthOmics to power genetic trait development",
         "link": "https://aws.amazon.com/blogs/industries/how-carlsbergs-traitomic-business-leveraged-aws-healthomics-to-power-genetic-trait-development/"
-    },
-    {
-        "title": "CME Group MDP multicast data access on AWS using Transit Gateway",
-        "link": "https://aws.amazon.com/blogs/industries/cme-group-mdp-multicast-data-access-on-aws-using-transit-gateway/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streaming CloudWatch metrics to VPC-based OpenTelemetry collectors using Lambda",
+        "link": "https://aws.amazon.com/blogs/architecture/streaming-cloudwatch-metrics-to-vpc-based-opentelemetry-collectors-using-lambda/"
+    },
+    {
         "title": "Building hybrid multi-tenant architecture for stateful services on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite",
         "link": "https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/"
-    },
-    {
-        "title": "Sovereign failover \u2013 Design for digital sovereignty using the AWS European Sovereign Cloud",
-        "link": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/"
     }
 ]

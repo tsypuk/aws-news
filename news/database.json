@@ -1,5 +1,13 @@
 [
     {
+        "title": "How HotelTrader cut inter-AZ cost 95% and latency by 49% with Valkey GLIDE on Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/how-hoteltrader-cut-inter-az-cost-95-and-latency-by-49-with-valkey-glide-on-amazon-elasticache/"
+    },
+    {
+        "title": "Zero-downtime DynamoDB construct migration: from Table to TableV2 with cdk orphan",
+        "link": "https://aws.amazon.com/blogs/database/zero-downtime-dynamodb-construct-migration-from-table-to-tablev2-with-cdk-orphan/"
+    },
+    {
         "title": "Filter, transform, and load your DynamoDB table exports using AWS Glue",
         "link": "https://aws.amazon.com/blogs/database/filter-transform-and-load-your-dynamodb-table-exports-using-aws-glue/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Create monitoring dashboard for Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/create-monitoring-dashboard-for-amazon-rds-for-db2/"
-    },
-    {
-        "title": "DSQL SQL Dialect: How Amazon Aurora DSQL differs from single-instance PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/dsql-sql-dialect-how-amazon-aurora-dsql-differs-from-single-instance-postgresql/"
-    },
-    {
-        "title": "How Kajabi optimized costs with Amazon Aurora upgrades",
-        "link": "https://aws.amazon.com/blogs/database/how-kajabi-optimized-costs-with-amazon-aurora-upgrades/"
     }
 ]
