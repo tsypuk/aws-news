@@ -1,5 +1,13 @@
 [
     {
+        "title": "Regional routing for AWS access portals: Implementing custom vanity domains for IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center/"
+    },
+    {
+        "title": "Automating post-quantum cryptography readiness using AWS Config",
+        "link": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config/"
+    },
+    {
         "title": "Detecting and preventing crypto mining in your AWS environment",
         "link": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Optimize security operations through an AWS Security Hub POC",
         "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc/"
-    },
-    {
-        "title": "Can I do that with policy? Understanding the AWS Service Authorization Reference",
-        "link": "https://aws.amazon.com/blogs/security/can-i-do-that-with-policy-understanding-the-aws-service-authorization-reference/"
-    },
-    {
-        "title": "Protecting your secrets from tomorrow\u2019s quantum risks",
-        "link": "https://aws.amazon.com/blogs/security/protecting-your-secrets-from-tomorrows-quantum-risks/"
     }
 ]

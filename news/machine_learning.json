@@ -1,5 +1,21 @@
 [
     {
+        "title": "Improve bot accuracy with Amazon Lex Assisted NLU",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-bot-accuracy-with-amazon-lex-assisted-nlu/"
+    },
+    {
+        "title": "Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/"
+    },
+    {
+        "title": "From siloed data to unified insights: Cross-account Athena Access for Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/"
+    },
+    {
+        "title": "Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Build financial document processing with Pulse AI and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-financial-document-processing-with-pulse-ai-and-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe",
         "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/"
-    },
-    {
-        "title": "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/"
-    },
-    {
-        "title": "How Hapag-Lloyd uses Amazon Bedrock to transform customer feedback into actionable insights",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/"
-    },
-    {
-        "title": "Streamlining generative AI development with MLflow v3.10 on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Introducing OS Level Actions in Amazon Bedrock AgentCore Browser",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/"
     }
 ]

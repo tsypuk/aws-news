@@ -1,5 +1,17 @@
 [
     {
+        "title": "Getting started with Change Data Capture in Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/"
+    },
+    {
+        "title": "Upgrade strategies for Amazon RDS for MySQL 8.0 to 8.4",
+        "link": "https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-rds-for-mysql-8-0-to-8-4/"
+    },
+    {
+        "title": "Best practices for upgrading Amazon RDS for MySQL 8.0 to 8.4 with prechecks, Blue/Green, and rollback",
+        "link": "https://aws.amazon.com/blogs/database/best-practices-for-upgrading-amazon-rds-for-mysql-8-0-to-8-4-with-prechecks-blue-green-and-rollback/"
+    },
+    {
         "title": "How HotelTrader cut inter-AZ cost 95% and latency by 49% with Valkey GLIDE on Amazon ElastiCache",
         "link": "https://aws.amazon.com/blogs/database/how-hoteltrader-cut-inter-az-cost-95-and-latency-by-49-with-valkey-glide-on-amazon-elasticache/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Features and workflows with Amazon Timestream for InfluxDB 3",
         "link": "https://aws.amazon.com/blogs/database/features-and-workflows-with-amazon-timestream-for-influxdb-3/"
-    },
-    {
-        "title": "Building agentic AI for Amazon RDS for SQL Server with Strands and AgentCore",
-        "link": "https://aws.amazon.com/blogs/database/building-agentic-ai-for-amazon-rds-for-sql-server-with-strands-and-agentcore/"
-    },
-    {
-        "title": "Exploring type-safe .NET development for Amazon Neptune with Gremlinq",
-        "link": "https://aws.amazon.com/blogs/database/exploring-type-safe-net-development-for-amazon-neptune-with-gremlinq/"
-    },
-    {
-        "title": "Create monitoring dashboard for Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/create-monitoring-dashboard-for-amazon-rds-for-db2/"
     }
 ]
