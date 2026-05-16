@@ -1,5 +1,9 @@
 [
     {
+        "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
+        "link": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/"
+    },
+    {
         "title": "Regional routing for AWS access portals: Implementing custom vanity domains for IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Access control with IAM Identity Center session tags",
         "link": "https://aws.amazon.com/blogs/security/access-control-with-iam-identity-center-session-tags/"
-    },
-    {
-        "title": "Optimize security operations through an AWS Security Hub POC",
-        "link": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc/"
     }
 ]

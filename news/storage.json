@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scale your AWS Storage Gateway AL2023 migration with infrastructure as code",
+        "link": "https://aws.amazon.com/blogs/storage/scale-your-aws-storage-gateway-al2023-migration-with-infrastructure-as-code/"
+    },
+    {
         "title": "Scalable cross-cloud data migration to Amazon S3 with distributed rclone",
         "link": "https://aws.amazon.com/blogs/storage/scalable-cross-cloud-data-migration-to-amazon-s3-with-distributed-rclone/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Storage at re:Invent 2025: Every session, organized by topic",
         "link": "https://aws.amazon.com/blogs/storage/aws-storage-at-reinvent-2025/"
-    },
-    {
-        "title": "Automated malware scanning for Amazon FSx for Windows File Server with GuardDuty protection for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/storage/automated-malware-scanning-for-amazon-fsx-for-windows-file-server-with-guardduty-protection-for-amazon-s3/"
     }
 ]
