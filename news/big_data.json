@@ -1,57 +1,5 @@
 [
     {
-        "title": "Optimize Amazon S3 Tables queries with Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-amazon-s3-tables-queries-with-amazon-redshift/"
-    },
-    {
-        "title": "Securing client confidentiality at scale: Automated data discovery and governed analytics for legal workloads",
-        "link": "https://aws.amazon.com/blogs/big-data/securing-client-confidentiality-at-scale-automated-data-discovery-and-governed-analytics-for-legal-workloads/"
-    },
-    {
-        "title": "Streamlined monitoring and debugging for Amazon EMR on EC2",
-        "link": "https://aws.amazon.com/blogs/big-data/streamlined-monitoring-and-debugging-for-amazon-emr-on-ec2/"
-    },
-    {
-        "title": "Detect and resolve HBase inconsistencies faster with AI on Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/detect-and-resolve-hbase-inconsistencies-faster-with-ai-on-amazon-emr/"
-    },
-    {
-        "title": "How to use streamlined permissions for Amazon S3 Tables and Iceberg materialized views",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-use-streamlined-permissions-for-amazon-s3-tables-and-iceberg-materialized-views/"
-    },
-    {
-        "title": "Improve DynamoDB analytics with AWS Glue zero-ETL schema and partition controls",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-dynamodb-analytics-with-aws-glue-zero-etl-schema-and-partition-controls/"
-    },
-    {
-        "title": "How to build a cross-Region resilience for Amazon OpenSearch Service with Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-build-a-cross-region-resilience-for-amazon-opensearch-service-with-amazon-msk/"
-    },
-    {
-        "title": "How to consolidate cross-Region S3 data into OpenSearch",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-consolidate-cross-region-s3-data-into-opensearch/"
-    },
-    {
-        "title": "Enable real-time mainframe analytics with Precisely Connect and Amazon S3",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-real-time-mainframe-analytics-with-precisely-connect-and-amazon-s3/"
-    },
-    {
-        "title": "Build streaming applications on Amazon Managed Service for Apache Flink with AI-assisted guidance",
-        "link": "https://aws.amazon.com/blogs/big-data/build-streaming-applications-on-amazon-managed-service-for-apache-flink-with-ai-assisted-guidance/"
-    },
-    {
-        "title": "Migrating TLS Clients managed by third-party Certificate Authorities from self-managed Apache Kafka to Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/migrating-tls-clients-managed-by-third-party-certificate-authorities-from-self-managed-apache-kafka-to-amazon-msk/"
-    },
-    {
-        "title": "A guide to capacity planning for Airflow worker pool in Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/a-guide-to-capacity-planning-for-airflow-worker-pool-in-amazon-mwaa/"
-    },
-    {
-        "title": "A guide to Airflow worker pool optimization in Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/a-guide-to-airflow-worker-pool-optimization-in-amazon-mwaa/"
-    },
-    {
         "title": "Unified observability in Amazon OpenSearch Service: metrics, traces, and AI agent debugging in a single interface",
         "link": "https://aws.amazon.com/blogs/big-data/unified-observability-in-amazon-opensearch-service-metrics-traces-and-ai-agent-debugging-in-a-single-interface/"
     },
@@ -78,5 +26,57 @@
     {
         "title": "Building unified data pipelines with Apache Iceberg and Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/building-unified-data-pipelines-with-apache-iceberg-and-apache-flink/"
+    },
+    {
+        "title": "Securely connecting on-premises data systems to Amazon Redshift with IAM Roles Anywhere",
+        "link": "https://aws.amazon.com/blogs/big-data/securely-connecting-on-premises-data-systems-to-amazon-redshift-with-iam-roles-anywhere/"
+    },
+    {
+        "title": "Enhancing Identity Intelligence with Babel Street Match and Amazon OpenSearch",
+        "link": "https://aws.amazon.com/blogs/big-data/enhancing-identity-intelligence-with-babel-street-match-and-amazon-opensearch/"
+    },
+    {
+        "title": "Getting started with Apache Iceberg write support in Amazon Redshift \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-2/"
+    },
+    {
+        "title": "Get to insights faster using Notebooks in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/get-to-insights-faster-using-notebooks-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "How to use Parquet Column Indexes with Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-use-parquet-column-indexes-with-amazon-athena/"
+    },
+    {
+        "title": "Implementing Kerberos authentication for Apache Spark jobs on Amazon EMR on EKS to access a Kerberos-enabled Hive Metastore",
+        "link": "https://aws.amazon.com/blogs/big-data/implementing-kerberos-authentication-for-apache-spark-jobs-on-amazon-emr-on-eks-to-access-a-kerberos-enabled-hive-metastore/"
+    },
+    {
+        "title": "Introducing Amazon MSK Express Broker power for Kiro",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-msk-express-broker-power-for-kiro/"
+    },
+    {
+        "title": "Introducing workload simulation workbench for Amazon MSK Express broker",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-workload-simulation-workbench-for-amazon-msk-express-broker/"
+    },
+    {
+        "title": "Proactive monitoring for Amazon Redshift Serverless using AWS Lambda and Slack alerts",
+        "link": "https://aws.amazon.com/blogs/big-data/proactive-monitoring-for-amazon-redshift-serverless-using-aws-lambda-and-slack-alerts/"
+    },
+    {
+        "title": "Modernize business intelligence workloads using Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/big-data/modernize-business-intelligence-workloads-using-amazon-quick/"
+    },
+    {
+        "title": "Agentic AI for observability and troubleshooting with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/agentic-ai-for-observability-and-troubleshooting-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Streamline Apache Kafka topic management with Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/streamline-apache-kafka-topic-management-with-amazon-msk/"
+    },
+    {
+        "title": "How to set\u00a0up a network-isolated VPC for Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/how-to-set-up-a-network-isolated-vpc-for-amazon-sagemaker-unified-studio/"
     }
 ]
