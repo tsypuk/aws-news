@@ -1,5 +1,21 @@
 [
     {
+        "title": "Simplify cross-account and cross-Region stack output references with AWS CloudFormation and CDK\u2019s new Fn::GetStackOutput",
+        "link": "https://aws.amazon.com/blogs/devops/simplify-cross-account-and-cross-region-stack-output-references-with-aws-cloudformation-and-cdks-new-fngetstackoutput/"
+    },
+    {
+        "title": "Agentic application modernization at scale with Strands and Amazon Transform custom",
+        "link": "https://aws.amazon.com/blogs/devops/use-generative-ai-agents-for-application-modernization-at-scale-with-strands-amazon-transform-custom-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Building an end-to-end agentic SRE using AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/building-an-end-to-end-agentic-sre-using-aws-devops-agent/"
+    },
+    {
+        "title": "Amazon Q Developer end-of-support announcement",
+        "link": "https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/"
+    },
+    {
         "title": "AWS Transform custom: Enterprise Code Modernization with the Learn-Scale-Improve Flywheel",
         "link": "https://aws.amazon.com/blogs/devops/aws-transform-custom-enterprise-code-modernization-with-the-learn-scale-improve-flywheel/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Kaltura Accelerates CI/CD Using AWS CodeBuild-hosted Runners",
         "link": "https://aws.amazon.com/blogs/devops/how-kaltura-accelerates-ci-cd-using-aws-codebuild-hosted-runners/"
-    },
-    {
-        "title": "Resolve and prevent operational incidents with AWS DevOps Agent and New Relic",
-        "link": "https://aws.amazon.com/blogs/devops/resolve-and-prevent-operational-incidents-with-aws-devops-agent-and-new-relic/"
-    },
-    {
-        "title": "Accelerate autonomous incident resolutions using the Datadog MCP server and AWS DevOps agent (in preview)",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-autonomous-incident-resolutions-using-the-datadog-mcp-server-and-aws-devops-agent-in-preview/"
-    },
-    {
-        "title": "Building with AI-DLC using Amazon Q Developer",
-        "link": "https://aws.amazon.com/blogs/devops/building-with-ai-dlc-using-amazon-q-developer/"
-    },
-    {
-        "title": "Open-Sourcing Adaptive Workflows for AI-Driven Development Life Cycle (AI-DLC)",
-        "link": "https://aws.amazon.com/blogs/devops/open-sourcing-adaptive-workflows-for-ai-driven-development-life-cycle-ai-dlc/"
     }
 ]
