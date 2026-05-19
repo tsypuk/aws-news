@@ -1,5 +1,21 @@
 [
     {
+        "title": "Announcing AWS CDK Mixins: Composable Abstractions for AWS Resources",
+        "link": "https://aws.amazon.com/blogs/devops/announcing-aws-cdk-mixins-composable-abstractions-for-aws-resources/"
+    },
+    {
+        "title": "Building Self-Extending CLI Tools with Strands Agent",
+        "link": "https://aws.amazon.com/blogs/devops/building-self-extending-cli-tools-with-aws-strands/"
+    },
+    {
+        "title": "Modernizing Excel VBA to Python at Scale with AWS Transform custom",
+        "link": "https://aws.amazon.com/blogs/devops/modernizing-excel-vba-to-python-at-scale-with-aws-transform-custom/"
+    },
+    {
+        "title": "Ensure Code Integrity for AWS Lambda Functions with Automated Code Signing Using Terraform",
+        "link": "https://aws.amazon.com/blogs/devops/ensure-code-integrity-for-aws-lambda-functions-with-automated-code-signing-using-terraform/"
+    },
+    {
         "title": "Simplify cross-account and cross-Region stack output references with AWS CloudFormation and CDK\u2019s new Fn::GetStackOutput",
         "link": "https://aws.amazon.com/blogs/devops/simplify-cross-account-and-cross-region-stack-output-references-with-aws-cloudformation-and-cdks-new-fngetstackoutput/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Best Practices for Deploying AWS DevOps Agent in Production",
         "link": "https://aws.amazon.com/blogs/devops/best-practices-for-deploying-aws-devops-agent-in-production/"
-    },
-    {
-        "title": "AWS CloudFormation 2025 Year In Review",
-        "link": "https://aws.amazon.com/blogs/devops/aws-cloudformation-2025-year-in-review/"
-    },
-    {
-        "title": "From AI agent prototype to product: Lessons from building AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/"
-    },
-    {
-        "title": "Automating AWS SDK for Java v1 to v2 Upgrades with AWS Transform",
-        "link": "https://aws.amazon.com/blogs/devops/automating-aws-sdk-for-java-v1-to-v2-upgrades-with-aws-transform/"
-    },
-    {
-        "title": "How Kaltura Accelerates CI/CD Using AWS CodeBuild-hosted Runners",
-        "link": "https://aws.amazon.com/blogs/devops/how-kaltura-accelerates-ci-cd-using-aws-codebuild-hosted-runners/"
     }
 ]

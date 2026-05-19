@@ -1,5 +1,21 @@
 [
     {
+        "title": "Prompting Amazon Nova 2 for content moderation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/"
+    },
+    {
+        "title": "Aderant transforms cloud operations with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/"
+    },
+    {
+        "title": "Integrate Atlassian Confluence Cloud with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/"
+    },
+    {
+        "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3",
         "link": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/"
-    },
-    {
-        "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/"
-    },
-    {
-        "title": "Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/"
-    },
-    {
-        "title": "Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/"
-    },
-    {
-        "title": "Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/"
     }
 ]

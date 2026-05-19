@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building an AI-powered grid investigation agent with Aurora DSQL and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/database/building-an-ai-powered-grid-investigation-agent-with-aurora-dsql-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Improving generative AI accuracy with vector and graph search hybrid queries",
+        "link": "https://aws.amazon.com/blogs/database/improving-generative-ai-accuracy-with-vector-and-graph-search-hybrid-queries/"
+    },
+    {
         "title": "Getting started with Change Data Capture in Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Troubleshoot Amazon RDS for Oracle to Amazon Redshift DMS migrations with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/database/troubleshoot-amazon-rds-for-oracle-to-amazon-redshift-dms-migrations-with-aws-devops-agent/"
-    },
-    {
-        "title": "Timestream for InfluxDB 3 workload analysis and best practices",
-        "link": "https://aws.amazon.com/blogs/database/timestream-for-influxdb-3-workload-analysis-and-best-practices/"
-    },
-    {
-        "title": "Features and workflows with Amazon Timestream for InfluxDB 3",
-        "link": "https://aws.amazon.com/blogs/database/features-and-workflows-with-amazon-timestream-for-influxdb-3/"
     }
 ]

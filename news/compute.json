@@ -1,5 +1,9 @@
 [
     {
+        "title": "Sharing Capacity Blocks for ML Across Your AWS Organization",
+        "link": "https://aws.amazon.com/blogs/compute/sharing-capacity-blocks-for-ml-across-your-aws-organization/"
+    },
+    {
         "title": "Enhancing network observability with new AWS Outposts racks LAG metrics",
         "link": "https://aws.amazon.com/blogs/compute/enhancing-network-observability-with-new-aws-outposts-racks-lag-metrics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building zero trust generative AI applications in healthcare with AWS Nitro Enclaves",
         "link": "https://aws.amazon.com/blogs/compute/building-zero-trust-generative-ai-applications-in-healthcare-with-aws-nitro-enclaves/"
-    },
-    {
-        "title": "Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference",
-        "link": "https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/"
     }
 ]

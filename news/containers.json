@@ -1,5 +1,13 @@
 [
     {
+        "title": "Bitnami image removal from ECR Public",
+        "link": "https://aws.amazon.com/blogs/containers/bitnami-image-removal-from-ecr-public/"
+    },
+    {
+        "title": "Simplify AI infrastructure for AWS Trainium and Elastic Fabric Adapter with Kubernetes Dynamic Resource Allocation",
+        "link": "https://aws.amazon.com/blogs/containers/simplify-ai-infrastructure-for-aws-trainium-and-elastic-fabric-adapter-with-kubernetes-dynamic-resource-allocation/"
+    },
+    {
         "title": "Maximizing value with Amazon EKS Auto Mode: Strategies for visibility, control, and optimization",
         "link": "https://aws.amazon.com/blogs/containers/maximizing-value-with-amazon-eks-auto-mode-strategies-for-visibility-control-and-optimization/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Implement SPIFFE/SPIRE authorization on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/implement-spiffe-spire-authorization-on-amazon-eks/"
-    },
-    {
-        "title": "Deploying Model Context Protocol (MCP) servers on Amazon ECS",
-        "link": "https://aws.amazon.com/blogs/containers/deploying-model-context-protocol-mcp-servers-on-amazon-ecs/"
-    },
-    {
-        "title": "Navigating enterprise networking challenges with Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/containers/navigating-enterprise-networking-challenges-with-amazon-eks-auto-mode/"
     }
 ]

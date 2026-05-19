@@ -1,5 +1,13 @@
 [
     {
+        "title": "OpenSearch Agent Skills bring built-in intelligence to your agentic IDE",
+        "link": "https://aws.amazon.com/blogs/big-data/opensearch-agent-skills-bring-built-in-intelligence-to-your-agentic-ide/"
+    },
+    {
+        "title": "How Smartsheet built Real-time Dynamic Filtering on Apache Flink reducing $40K/month in messaging costs",
+        "link": "https://aws.amazon.com/blogs/big-data/how-smartsheet-built-real-time-dynamic-filtering-on-apache-flink-reducing-40k-month-in-messaging-costs/"
+    },
+    {
         "title": "Optimize Amazon S3 Tables queries with Amazon Redshift",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-amazon-s3-tables-queries-with-amazon-redshift/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Configure a custom domain name for your Amazon MSK cluster enabled with IAM authentication",
         "link": "https://aws.amazon.com/blogs/big-data/configure-a-custom-domain-name-for-your-amazon-msk-cluster-enabled-with-iam-authentication/"
-    },
-    {
-        "title": "Migrate third-party and self-managed Apache Kafka clusters to Amazon MSK Express brokers with Amazon MSK Replicator",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-third-party-and-self-managed-apache-kafka-clusters-to-amazon-msk-express-brokers-with-amazon-msk-replicator/"
-    },
-    {
-        "title": "Building unified data pipelines with Apache Iceberg and Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/building-unified-data-pipelines-with-apache-iceberg-and-apache-flink/"
     }
 ]
