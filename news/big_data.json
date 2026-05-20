@@ -1,5 +1,17 @@
 [
     {
+        "title": "A systematic approach to benchmarking SQL processing engines on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/a-systematic-approach-to-benchmarking-sql-processing-engines-on-aws/"
+    },
+    {
+        "title": "Build petabyte-scale synthetic test data with Amazon EMR on EC2",
+        "link": "https://aws.amazon.com/blogs/big-data/build-petabyte-scale-synthetic-test-data-with-amazon-emr-on-ec2/"
+    },
+    {
+        "title": "Meet Amazon Redshift RG \u2013 AWS Graviton-based instances with an integrated data lake query engine delivering up to 2.4x better performance at 30% lower price than RA3",
+        "link": "https://aws.amazon.com/blogs/big-data/meet-amazon-redshift-rg-aws-graviton-based-instances-with-an-integrated-data-lake-query-engine-delivering-up-to-2-4x-better-performance-at-30-lower-price-than-ra3/"
+    },
+    {
         "title": "OpenSearch Agent Skills bring built-in intelligence to your agentic IDE",
         "link": "https://aws.amazon.com/blogs/big-data/opensearch-agent-skills-bring-built-in-intelligence-to-your-agentic-ide/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Migrate to Apache Flink 2.2 on Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-to-apache-flink-2-2-on-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Using Apache Sedona with AWS Glue to process billions of daily points from a geospatial dataset",
-        "link": "https://aws.amazon.com/blogs/big-data/using-apache-sedona-with-aws-glue-to-process-billions-of-daily-points-from-a-geospatial-dataset/"
-    },
-    {
-        "title": "Analyzing your data catalog: Query SageMaker Catalog metadata with SQL",
-        "link": "https://aws.amazon.com/blogs/big-data/analyzing-your-data-catalog-query-sagemaker-catalog-metadata-with-sql/"
-    },
-    {
-        "title": "Configure a custom domain name for your Amazon MSK cluster enabled with IAM authentication",
-        "link": "https://aws.amazon.com/blogs/big-data/configure-a-custom-domain-name-for-your-amazon-msk-cluster-enabled-with-iam-authentication/"
     }
 ]

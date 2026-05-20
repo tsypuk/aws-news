@@ -1,5 +1,13 @@
 [
     {
+        "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
+        "link": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/"
+    },
+    {
+        "title": "Governing infrastructure as code using pattern-based policy as code",
+        "link": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/"
+    },
+    {
         "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
         "link": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Designing trust and safety into Amazon Bedrock powered applications",
         "link": "https://aws.amazon.com/blogs/security/designing-trust-and-safety-into-amazon-bedrock-powered-applications/"
-    },
-    {
-        "title": "What the March 2026 Threat Technique Catalog update means for your AWS environment",
-        "link": "https://aws.amazon.com/blogs/security/what-the-march-2026-threat-technique-catalog-update-means-for-your-aws-environment/"
-    },
-    {
-        "title": "Access control with IAM Identity Center session tags",
-        "link": "https://aws.amazon.com/blogs/security/access-control-with-iam-identity-center-session-tags/"
     }
 ]

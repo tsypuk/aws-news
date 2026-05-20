@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate root cause analysis across Datadog and Elasticsearch with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/automate-root-cause-analysis-across-datadog-and-elasticsearch-with-aws-devops-agent/"
+    },
+    {
         "title": "Announcing AWS CDK Mixins: Composable Abstractions for AWS Resources",
         "link": "https://aws.amazon.com/blogs/devops/announcing-aws-cdk-mixins-composable-abstractions-for-aws-resources/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Transform custom: AI-driven Java modernization to reduce tech debt",
         "link": "https://aws.amazon.com/blogs/devops/aws-transform-custom-ai-driven-java-modernization-to-reduce-tech-debt/"
-    },
-    {
-        "title": "Best Practices for Deploying AWS DevOps Agent in Production",
-        "link": "https://aws.amazon.com/blogs/devops/best-practices-for-deploying-aws-devops-agent-in-production/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "How ALS GeoAnalytics LITHOLENS \u2122 revolutionizes core logging through machine learning with Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/"
+    },
+    {
+        "title": "How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances",
+        "link": "https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances/"
+    },
+    {
         "title": "Streaming CloudWatch metrics to VPC-based OpenTelemetry collectors using Lambda",
         "link": "https://aws.amazon.com/blogs/architecture/streaming-cloudwatch-metrics-to-vpc-based-opentelemetry-collectors-using-lambda/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "6,000 AWS accounts, three people, one platform: Lessons learned",
         "link": "https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/"
-    },
-    {
-        "title": "How Convera built fine-grained API authorization with Amazon Verified Permissions",
-        "link": "https://aws.amazon.com/blogs/architecture/how-convera-built-fine-grained-api-authorization-with-amazon-verified-permissions/"
-    },
-    {
-        "title": "Mastering millisecond latency and millions of events: The event-driven architecture behind the Amazon Key Suite",
-        "link": "https://aws.amazon.com/blogs/architecture/mastering-millisecond-latency-and-millions-of-events-the-event-driven-architecture-behind-the-amazon-key-suite/"
     }
 ]

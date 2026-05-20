@@ -1,5 +1,21 @@
 [
     {
+        "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/"
+    },
+    {
+        "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/"
+    },
+    {
+        "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/"
+    },
+    {
+        "title": "Implementing programmatic tool calling on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/"
+    },
+    {
         "title": "Prompting Amazon Nova 2 for content moderation",
         "link": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Building web search-enabled agents with Strands and Exa",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/"
-    },
-    {
-        "title": "Introducing Claude Platform on AWS: Anthropic\u2019s native platform, through your AWS account",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/"
-    },
-    {
-        "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/"
-    },
-    {
-        "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/"
     }
 ]

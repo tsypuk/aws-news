@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automated license tracking for Microsoft SQL Server across AWS accounts and regions using license asset groups",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-license-tracking-for-sql-server-across-aws-accounts-and-regions-using-license-asset-groups/"
+    },
+    {
         "title": "Automate Microsoft SQL Server Developer Deployments on Amazon RDS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-sql-server-developer-deployments-on-amazon-rds/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Introducing the AWS Well-Architected Microsoft Workloads Lens",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-the-aws-well-architected-microsoft-workloads-lens/"
-    },
-    {
-        "title": "Introducing Kiro and MCP Tools for SQL Server professionals",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-kiro-and-mcp-tools-for-sql-server-professionals/"
     }
 ]

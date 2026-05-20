@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Observability ICYMI: Jan-May 2026",
+        "link": "https://aws.amazon.com/blogs/mt/aws-observability-icymi-jan-may-2026/"
+    },
+    {
         "title": "Import Historical data from AWS CloudTrail Lake to Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/aws-cloudtrail-lake-import-historical-data-to-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Resolve application issues autonomously with AWS DevOps Agent (Preview) and Dynatrace",
         "link": "https://aws.amazon.com/blogs/mt/resolve-application-issues-autonomously-with-aws-devops-agent-and-dynatrace/"
-    },
-    {
-        "title": "Troubleshoot AWS Tagging Compliance with AWS Resource Explorer",
-        "link": "https://aws.amazon.com/blogs/mt/troubleshoot-aws-tagging-compliance-with-aws-resource-explorer/"
     }
 ]

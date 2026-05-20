@@ -1,5 +1,17 @@
 [
     {
+        "title": "Deploying Amazon RDS for Db2 using Terraform",
+        "link": "https://aws.amazon.com/blogs/database/deploying-amazon-rds-for-db2-using-terraform/"
+    },
+    {
+        "title": "Nine Entertainment\u2019s journey: Achieving 98% cost savings with Amazon ElastiCache Serverless for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/nine-entertainments-journey-achieving-98-cost-savings-with-amazon-elasticache-serverless-for-valkey/"
+    },
+    {
+        "title": "Automated JDBC query caching with the AWS Advanced JDBC Wrapper",
+        "link": "https://aws.amazon.com/blogs/database/automated-jdbc-query-caching-with-the-aws-advanced-jdbc-wrapper/"
+    },
+    {
         "title": "Building an AI-powered grid investigation agent with Aurora DSQL and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/database/building-an-ai-powered-grid-investigation-agent-with-aurora-dsql-and-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Amazon Aurora DSQL for global-scale financial transactions",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-for-global-scale-financial-transactions/"
-    },
-    {
-        "title": "How Amazon DocumentDB on AWS Graviton4 R8g instances delivers 63% better Sysbench benchmark results",
-        "link": "https://aws.amazon.com/blogs/database/how-amazon-documentdb-on-aws-graviton4-r8g-instances-delivers-63-better-sysbench-benchmark-results/"
-    },
-    {
-        "title": "Connect to Amazon RDS for Db2 from your laptop",
-        "link": "https://aws.amazon.com/blogs/database/connect-to-amazon-rds-for-db2-from-your-laptop/"
-    },
-    {
-        "title": "Troubleshoot Amazon RDS for Oracle to Amazon Redshift DMS migrations with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/database/troubleshoot-amazon-rds-for-oracle-to-amazon-redshift-dms-migrations-with-aws-devops-agent/"
     }
 ]

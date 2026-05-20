@@ -1,5 +1,17 @@
 [
     {
+        "title": "From code to chemistry: using Kiro to tackle ADME-Tox, a key drug discovery challenge",
+        "link": "https://aws.amazon.com/blogs/industries/from-code-to-chemistry-using-kiro-to-tackle-adme-tox-a-key-drug-discovery-challenge/"
+    },
+    {
+        "title": "How Toyota securely deployed HiveMQ with mTLS on AWS to power Smart Manufacturing",
+        "link": "https://aws.amazon.com/blogs/industries/how-toyota-securely-deployed-hivemq-with-mtls-on-aws-to-power-smart-manufacturing/"
+    },
+    {
+        "title": "From record to intelligence: How EMR systems on AWS become the foundation for generative AI in healthcare",
+        "link": "https://aws.amazon.com/blogs/industries/from-record-to-intelligence-how-emr-systems-on-aws-become-the-foundation-for-generative-ai-in-healthcare/"
+    },
+    {
         "title": "How to Connect AWS HealthOmics to Public and Private Network Sources at Runtime",
         "link": "https://aws.amazon.com/blogs/industries/how-to-connect-aws-healthomics-to-public-and-private-network-sources-at-runtime/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Automate Investment Research Using Strands Agents on Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/industries/automate-investment-research-using-strands-agents-on-bedrock-agentcore/"
-    },
-    {
-        "title": "How OCC Built a Governed Cloud Foundation and Then Stress-Tested It",
-        "link": "https://aws.amazon.com/blogs/industries/how-occ-built-a-governed-cloud-foundation-and-then-stress-tested-it/"
-    },
-    {
-        "title": "Executive Insights from the 2026 AWS Life Sciences Symposium",
-        "link": "https://aws.amazon.com/blogs/industries/executive-insights-from-the-2026-aws-life-sciences-symposium/"
-    },
-    {
-        "title": "How Carlsberg\u2019s Traitomic business leveraged AWS HealthOmics to power genetic trait development",
-        "link": "https://aws.amazon.com/blogs/industries/how-carlsbergs-traitomic-business-leveraged-aws-healthomics-to-power-genetic-trait-development/"
     }
 ]
