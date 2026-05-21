@@ -1,5 +1,21 @@
 [
     {
+        "title": "Highlights from the 2026 AWS Life Sciences Symposium: Research and Drug Discovery",
+        "link": "https://aws.amazon.com/blogs/industries/highlights-from-the-2026-aws-life-sciences-symposium-research-and-drug-discovery/"
+    },
+    {
+        "title": "Discount Tire Uses Cloud WAN and Buffer VPC to Create a Scalable Enterprise Network",
+        "link": "https://aws.amazon.com/blogs/industries/discount-tire-uses-cloud-wan-and-buffer-vpc-to-create-a-scalable-enterprise-network/"
+    },
+    {
+        "title": "Centralized third-party connectivity in AWS: Architecture patterns for highly regulated environments",
+        "link": "https://aws.amazon.com/blogs/industries/centralized-third-party-connectivity-in-aws-architecture-patterns-for-highly-regulated-environments/"
+    },
+    {
+        "title": "FHIR-powered Care Continuum on AWS HealthLake",
+        "link": "https://aws.amazon.com/blogs/industries/fhir-powered-care-continuum-on-aws-healthlake/"
+    },
+    {
         "title": "From code to chemistry: using Kiro to tackle ADME-Tox, a key drug discovery challenge",
         "link": "https://aws.amazon.com/blogs/industries/from-code-to-chemistry-using-kiro-to-tackle-adme-tox-a-key-drug-discovery-challenge/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Closing the Loop with Amazon Bio Discovery\u2019s Integrated Lab Partners",
         "link": "https://aws.amazon.com/blogs/industries/closing-the-loop-with-amazon-bio-discoverys-integrated-lab-partners/"
-    },
-    {
-        "title": "Massive Parallel Processing of Financial Transactions with Amazon EKS and Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/industries/massive-parallel-processing-of-financial-transactions-with-amazon-eks-and-amazon-msk/"
-    },
-    {
-        "title": "Submit up to 100,000 Bioinformatics Workflow Runs with a Single API Call in AWS HealthOmics",
-        "link": "https://aws.amazon.com/blogs/industries/submit-up-to-100000-bioinformatics-workflow-runs-with-a-single-api-call-in-aws-healthomics/"
-    },
-    {
-        "title": "Energy HPC Orchestrator powers collaborative, scalable energy computing",
-        "link": "https://aws.amazon.com/blogs/industries/energy-hpc-orchestrator-powers-collaborative-scalable-energy-computing/"
-    },
-    {
-        "title": "Automate Investment Research Using Strands Agents on Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/industries/automate-investment-research-using-strands-agents-on-bedrock-agentcore/"
     }
 ]

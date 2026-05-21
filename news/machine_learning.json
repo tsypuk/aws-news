@@ -1,5 +1,17 @@
 [
     {
+        "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/"
+    },
+    {
+        "title": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/"
+    },
+    {
+        "title": "Build real-time voice applications with Amazon SageMaker AI and vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/"
+    },
+    {
         "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
         "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Fine-tune LLM with Databricks Unity Catalog and Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/"
-    },
-    {
-        "title": "Automate schema generation for intelligent document processing",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/"
-    },
-    {
-        "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/"
     }
 ]

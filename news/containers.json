@@ -1,5 +1,9 @@
 [
     {
+        "title": "AI-powered event-driven Amazon EKS AMI updates with GitOps",
+        "link": "https://aws.amazon.com/blogs/containers/ai-powered-event-driven-amazon-eks-ami-updates-with-gitops/"
+    },
+    {
         "title": "Bitnami image removal from ECR Public",
         "link": "https://aws.amazon.com/blogs/containers/bitnami-image-removal-from-ecr-public/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simplify hybrid Kubernetes networking with Amazon EKS Hybrid Nodes gateway",
         "link": "https://aws.amazon.com/blogs/containers/simplify-hybrid-kubernetes-networking-with-amazon-eks-hybrid-nodes-gateway/"
-    },
-    {
-        "title": "Implement SPIFFE/SPIRE authorization on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/implement-spiffe-spire-authorization-on-amazon-eks/"
     }
 ]

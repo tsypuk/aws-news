@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events",
+        "link": "https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/"
+    },
+    {
         "title": "How ALS GeoAnalytics LITHOLENS \u2122 revolutionizes core logging through machine learning with Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure",
         "link": "https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/"
-    },
-    {
-        "title": "6,000 AWS accounts, three people, one platform: Lessons learned",
-        "link": "https://aws.amazon.com/blogs/architecture/6000-aws-accounts-three-people-one-platform-lessons-learned/"
     }
 ]

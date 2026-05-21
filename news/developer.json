@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing updated retry behavior for AWS SDKs and Tools",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-updated-retry-behavior-for-aws-sdks-and-tools/"
+    },
+    {
         "title": "Announcing AWS SDK for Swift\u2019s Transfer Manager for Amazon S3",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-general-availability-of-amazon-s3-transfer-manager-for-swift/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "What\u2019s New in the AWS Deploy Tool for .NET",
         "link": "https://aws.amazon.com/blogs/developer/whats-new-in-the-aws-deploy-tool-for-net/"
-    },
-    {
-        "title": "General Availability Release of the Migration Tool for the AWS SDK for Java 2.x",
-        "link": "https://aws.amazon.com/blogs/developer/general-availability-release-of-the-migration-tool-for-the-aws-sdk-for-java-2-x/"
     }
 ]

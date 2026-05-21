@@ -1,5 +1,13 @@
 [
     {
+        "title": "Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
+        "link": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
+    },
+    {
+        "title": "AWS Security Hub Extended: Why enterprise security products should sell themselves",
+        "link": "https://aws.amazon.com/blogs/security/aws-security-hub-extended-why-enterprise-security-products-should-sell-themselves/"
+    },
+    {
         "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
         "link": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Security posture improvement in the AI era",
         "link": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/"
-    },
-    {
-        "title": "Announcing the ISO 31000:2018 Risk Management on AWS Compliance Guide",
-        "link": "https://aws.amazon.com/blogs/security/announcing-the-iso-310002018-risk-management-on-aws-compliance-guide/"
-    },
-    {
-        "title": "Designing trust and safety into Amazon Bedrock powered applications",
-        "link": "https://aws.amazon.com/blogs/security/designing-trust-and-safety-into-amazon-bedrock-powered-applications/"
     }
 ]
