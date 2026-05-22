@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate deployment of data and AI applications with Amazon SageMaker Unified Studio CI/CD CLI",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-deployment-of-data-and-ai-applications-with-amazon-sagemaker-unified-studio-ci-cd-cli/"
+    },
+    {
         "title": "A systematic approach to benchmarking SQL processing engines on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/a-systematic-approach-to-benchmarking-sql-processing-engines-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unified observability in Amazon OpenSearch Service: metrics, traces, and AI agent debugging in a single interface",
         "link": "https://aws.amazon.com/blogs/big-data/unified-observability-in-amazon-opensearch-service-metrics-traces-and-ai-agent-debugging-in-a-single-interface/"
-    },
-    {
-        "title": "Migrate to Apache Flink 2.2 on Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-to-apache-flink-2-2-on-amazon-managed-service-for-apache-flink/"
     }
 ]

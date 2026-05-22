@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon Aurora MySQL 8.4 is now generally available",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-8-4-is-now-generally-available/"
+    },
+    {
+        "title": "Knowing when new open source database engine versions release on Amazon Aurora and Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/knowing-when-new-open-source-database-engine-versions-release-on-amazon-aurora-and-amazon-rds/"
+    },
+    {
         "title": "Best practices for Amazon DynamoDB Global Tables \u2013 Part 3: Validating regional resilience with AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-3-validating-regional-resilience-with-aws-fault-injection-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Query billion-scale vectors with SQL: Integrating Amazon S3 Vectors and Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/query-billion-scale-vectors-with-sql-integrating-amazon-s3-vectors-and-aurora-postgresql/"
-    },
-    {
-        "title": "Migrating data from an Amazon Aurora snapshot into Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrating-data-from-an-amazon-aurora-snapshot-into-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Announcing Valkey 9.0 for Amazon ElastiCache",
-        "link": "https://aws.amazon.com/blogs/database/announcing-valkey-9-0-for-amazon-elasticache/"
     }
 ]

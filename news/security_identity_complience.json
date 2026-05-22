@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS KY3P report now available for third-party supplier due diligence",
+        "link": "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence/"
+    },
+    {
+        "title": "Automating identity lifecycle and security with AWS Directory Service APIs",
+        "link": "https://aws.amazon.com/blogs/security/automating-identity-lifecycle-and-security-with-aws-directory-service-apis/"
+    },
+    {
         "title": "Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
         "link": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
         "link": "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture/"
-    },
-    {
-        "title": "Securing open proxies in your AWS environment",
-        "link": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment/"
-    },
-    {
-        "title": "Security posture improvement in the AI era",
-        "link": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/"
     }
 ]
