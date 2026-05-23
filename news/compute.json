@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline your infrastructure: Automating AMI creation with Kiro CLI and EC2 Image Builder",
+        "link": "https://aws.amazon.com/blogs/compute/streamline-your-infrastructure-automating-ami-creation-with-kiro-cli-and-ec2-image-builder/"
+    },
+    {
         "title": "Sharing Capacity Blocks for ML Across Your AWS Organization",
         "link": "https://aws.amazon.com/blogs/compute/sharing-capacity-blocks-for-ml-across-your-aws-organization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": ".NET 10 runtime now available in AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/net-10-runtime-now-available-in-aws-lambda/"
-    },
-    {
-        "title": "Building zero trust generative AI applications in healthcare with AWS Nitro Enclaves",
-        "link": "https://aws.amazon.com/blogs/compute/building-zero-trust-generative-ai-applications-in-healthcare-with-aws-nitro-enclaves/"
     }
 ]

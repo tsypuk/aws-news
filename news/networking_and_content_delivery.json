@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best Practices for TCP Connection Management on EC2",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-for-tcp-connection-management-on-ec2/"
+    },
+    {
         "title": "Amazon CloudFront Premium flat-rate pricing plan now supports higher, configurable usage allowances",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cloudfront-premium-flat-rate-plan-supports-configurable-usage-allowances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline your Amazon EKS deployments with Gateway API support for AWS Load Balancer Controller and Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-your-amazon-eks-deployments-with-gateway-api-support-for-aws-load-balancer-controller-and-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Continuing to support flexibility and control for UK customers",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/continuing-to-support-flexibility-and-control-for-uk-customers/"
     }
 ]
