@@ -1,5 +1,13 @@
 [
     {
+        "title": "Rivian accelerates production with second-generation AWS Outposts: Improving resiliency and reducing costs",
+        "link": "https://aws.amazon.com/blogs/industries/rivian-accelerates-production-with-second-generation-aws-outposts-improving-resiliency-and-reducing-costs/"
+    },
+    {
+        "title": "AI-Driven Development Lifecycle for Financial Services",
+        "link": "https://aws.amazon.com/blogs/industries/ai-driven-development-lifecycle-for-financial-services/"
+    },
+    {
         "title": "How Agentic AI and Digital Twins on AWS Drive Operational Excellence",
         "link": "https://aws.amazon.com/blogs/industries/how-agentic-ai-and-digital-twins-on-aws-drive-operational-excellence/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "How Toyota securely deployed HiveMQ with mTLS on AWS to power Smart Manufacturing",
         "link": "https://aws.amazon.com/blogs/industries/how-toyota-securely-deployed-hivemq-with-mtls-on-aws-to-power-smart-manufacturing/"
-    },
-    {
-        "title": "From record to intelligence: How EMR systems on AWS become the foundation for generative AI in healthcare",
-        "link": "https://aws.amazon.com/blogs/industries/from-record-to-intelligence-how-emr-systems-on-aws-become-the-foundation-for-generative-ai-in-healthcare/"
-    },
-    {
-        "title": "How to Connect AWS HealthOmics to Public and Private Network Sources at Runtime",
-        "link": "https://aws.amazon.com/blogs/industries/how-to-connect-aws-healthomics-to-public-and-private-network-sources-at-runtime/"
     }
 ]

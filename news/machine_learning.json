@@ -1,5 +1,33 @@
 [
     {
+        "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
+        "link": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/"
+    },
+    {
+        "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/"
+    },
+    {
+        "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/"
+    },
+    {
+        "title": "Build an enterprise observability solution for Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/"
+    },
+    {
+        "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/"
+    },
+    {
         "title": "Amazon Nova Act is now HIPAA eligible",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
         "link": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/"
-    },
-    {
-        "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/"
-    },
-    {
-        "title": "Implementing programmatic tool calling on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/"
-    },
-    {
-        "title": "Prompting Amazon Nova 2 for content moderation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/"
-    },
-    {
-        "title": "Aderant transforms cloud operations with Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/"
-    },
-    {
-        "title": "Integrate Atlassian Confluence Cloud with Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/"
-    },
-    {
-        "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/"
     }
 ]

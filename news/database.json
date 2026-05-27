@@ -1,5 +1,9 @@
 [
     {
+        "title": "Preserving custom domain names for Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/preserving-custom-domain-names-for-amazon-rds-for-db2/"
+    },
+    {
         "title": "Amazon Aurora MySQL 8.4 is now generally available",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-8-4-is-now-generally-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Aurora DSQL connections: Drivers, strings, and best practices",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-connections-drivers-strings-and-best-practices/"
-    },
-    {
-        "title": "Query billion-scale vectors with SQL: Integrating Amazon S3 Vectors and Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/query-billion-scale-vectors-with-sql-integrating-amazon-s3-vectors-and-aurora-postgresql/"
     }
 ]

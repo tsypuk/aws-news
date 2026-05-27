@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate data discovery and centralized management with AWS Glue Data Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-data-discovery-and-centralized-management-with-aws-glue-data-catalog/"
+    },
+    {
         "title": "How Amazon is moving to integrate catalogs to improve data discovery with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/how-amazon-is-moving-to-integrate-catalogs-to-improve-data-discovery-with-amazon-sagemaker/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A guide to capacity planning for Airflow worker pool in Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/a-guide-to-capacity-planning-for-airflow-worker-pool-in-amazon-mwaa/"
-    },
-    {
-        "title": "A guide to Airflow worker pool optimization in Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/a-guide-to-airflow-worker-pool-optimization-in-amazon-mwaa/"
     }
 ]

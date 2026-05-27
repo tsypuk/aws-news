@@ -1,5 +1,13 @@
 [
     {
+        "title": "Welcoming the AWS Customer Incident Response Team",
+        "link": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team/"
+    },
+    {
+        "title": "Well-architected best practices for software supply chain security",
+        "link": "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/"
+    },
+    {
         "title": "AWS KY3P report now available for third-party supplier due diligence",
         "link": "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
         "link": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws/"
-    },
-    {
-        "title": "Introducing AI traffic analysis dashboards for AWS WAF",
-        "link": "https://aws.amazon.com/blogs/security/introducing-ai-traffic-analysis-dashboards-for-aws-waf/"
-    },
-    {
-        "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
-        "link": "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture/"
     }
 ]
