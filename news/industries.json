@@ -1,5 +1,13 @@
 [
     {
+        "title": "How We Built Healthcare AI You Can Trust: The Science Behind Amazon Connect Health",
+        "link": "https://aws.amazon.com/blogs/industries/how-we-built-healthcare-ai-you-can-trust-the-engineering-behind-amazon-connect-health/"
+    },
+    {
+        "title": "How Everllence Scaled P&ID Intelligence to Improve Plant Operations",
+        "link": "https://aws.amazon.com/blogs/industries/how-everllence-scaled-pid-intelligence-to-improve-plant-operations/"
+    },
+    {
         "title": "Rivian accelerates production with second-generation AWS Outposts: Improving resiliency and reducing costs",
         "link": "https://aws.amazon.com/blogs/industries/rivian-accelerates-production-with-second-generation-aws-outposts-improving-resiliency-and-reducing-costs/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "FHIR-powered Care Continuum on AWS HealthLake",
         "link": "https://aws.amazon.com/blogs/industries/fhir-powered-care-continuum-on-aws-healthlake/"
-    },
-    {
-        "title": "From code to chemistry: using Kiro to tackle ADME-Tox, a key drug discovery challenge",
-        "link": "https://aws.amazon.com/blogs/industries/from-code-to-chemistry-using-kiro-to-tackle-adme-tox-a-key-drug-discovery-challenge/"
-    },
-    {
-        "title": "How Toyota securely deployed HiveMQ with mTLS on AWS to power Smart Manufacturing",
-        "link": "https://aws.amazon.com/blogs/industries/how-toyota-securely-deployed-hivemq-with-mtls-on-aws-to-power-smart-manufacturing/"
     }
 ]

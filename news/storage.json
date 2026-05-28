@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon S3 audit logging, Part 3: Analyzing S3 Metadata journal tables for object lifecycle tracking",
+        "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-3-analyzing-s3-metadata-journal-tables-for-object-lifecycle-tracking/"
+    },
+    {
+        "title": "Amazon S3 audit logging, Part 2: Centralized logging and analysis of S3 data events in AWS CloudTrail for security and compliance",
+        "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-2-centralized-logging-and-analysis-of-s3-data-events-in-aws-cloudtrail-for-security-and-compliance/"
+    },
+    {
+        "title": "Amazon S3 audit logging, Part 1: Analyzing server access logs with Amazon Athena for performance insights",
+        "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-1-analyzing-server-access-logs-with-amazon-athena-for-performance-insights/"
+    },
+    {
+        "title": "How to configure user storage quotas for the AWS Transfer Family on Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/how-to-configure-user-storage-quotas-for-aws-transfer-family-on-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Data discovery: How to find out what\u2019s on your Amazon FSx for NetApp ONTAP volumes",
         "link": "https://aws.amazon.com/blogs/storage/data-discovery-how-to-find-out-whats-on-your-amazon-fsx-for-netapp-ontap-volumes/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Managing NTFS permissions at scale on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/manage-ntfs-permissions-at-scale-on-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Secure SFTP file sharing with AWS Transfer Family, Amazon FSx for NetApp ONTAP, and S3 Access Points",
-        "link": "https://aws.amazon.com/blogs/storage/secure-sftp-file-sharing-with-aws-transfer-family-amazon-fsx-for-netapp-ontap-and-s3-access-points/"
-    },
-    {
-        "title": "How Tavily reduced AI search caching costs by 95% with Amazon S3 Express One Zone",
-        "link": "https://aws.amazon.com/blogs/storage/how-tavily-reduced-ai-search-caching-costs-by-95-with-amazon-s3-express-one-zone/"
-    },
-    {
-        "title": "Implementing Persistent Storage for AWS Fargate and Amazon EBS",
-        "link": "https://aws.amazon.com/blogs/storage/attaching-block-storage-with-aws-fargate-and-amazon-ebs-volumes/"
-    },
-    {
-        "title": "20 years of Amazon S3: A storage professional\u2019s journey to AWS Hero",
-        "link": "https://aws.amazon.com/blogs/storage/20-years-of-amazon-s3-a-storage-professionals-journey-to-aws-hero/"
     }
 ]

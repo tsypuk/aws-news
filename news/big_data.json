@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Buildkite Operates Test Analytics at Massive Scale with Amazon MSK and Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/how-buildkite-operates-test-analytics-at-massive-scale-with-amazon-msk-and-amazon-managed-service-for-apache-flink/"
+    },
+    {
+        "title": "How Zynga scaled multi-warehouse data governance with Amazon Redshift federated permissions",
+        "link": "https://aws.amazon.com/blogs/big-data/how-zynga-scaled-multi-warehouse-data-governance-with-amazon-redshift-federated-permissions/"
+    },
+    {
         "title": "Automate data discovery and centralized management with AWS Glue Data Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/automate-data-discovery-and-centralized-management-with-aws-glue-data-catalog/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build streaming applications on Amazon Managed Service for Apache Flink with AI-assisted guidance",
         "link": "https://aws.amazon.com/blogs/big-data/build-streaming-applications-on-amazon-managed-service-for-apache-flink-with-ai-assisted-guidance/"
-    },
-    {
-        "title": "Migrating TLS Clients managed by third-party Certificate Authorities from self-managed Apache Kafka to Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/migrating-tls-clients-managed-by-third-party-certificate-authorities-from-self-managed-apache-kafka-to-amazon-msk/"
-    },
-    {
-        "title": "A guide to capacity planning for Airflow worker pool in Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/a-guide-to-capacity-planning-for-airflow-worker-pool-in-amazon-mwaa/"
     }
 ]

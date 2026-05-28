@@ -1,5 +1,25 @@
 [
     {
+        "title": "Process financial documents using Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/"
+    },
+    {
+        "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/"
+    },
+    {
+        "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
         "link": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Build AI-powered dashboard automation agents with NLP on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-dashboard-automation-agents-with-nlp-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/"
-    },
-    {
-        "title": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/"
-    },
-    {
-        "title": "Build real-time voice applications with Amazon SageMaker AI and vLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/"
-    },
-    {
-        "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/"
-    },
-    {
-        "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
-        "link": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/"
     }
 ]

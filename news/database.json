@@ -1,5 +1,21 @@
 [
     {
+        "title": "Guide your Amazon Aurora MySQL migration with Kiro powers",
+        "link": "https://aws.amazon.com/blogs/database/guide-your-amazon-aurora-mysql-migration-with-kiro-powers/"
+    },
+    {
+        "title": "AI-native, full-stack web apps with Vercel and AWS Databases",
+        "link": "https://aws.amazon.com/blogs/database/ai-native-full-stack-web-apps-with-vercel-and-aws-databases/"
+    },
+    {
+        "title": "Real-time personalized recommendations with Amazon SageMaker and Amazon-managed Valkey",
+        "link": "https://aws.amazon.com/blogs/database/real-time-personalized-recommendations-with-amazon-sagemaker-and-amazon-managed-valkey/"
+    },
+    {
+        "title": "Optimize costs in Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/optimize-costs-in-amazon-aurora/"
+    },
+    {
         "title": "Preserving custom domain names for Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/preserving-custom-domain-names-for-amazon-rds-for-db2/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "How HotelTrader cut inter-AZ cost 95% and latency by 49% with Valkey GLIDE on Amazon ElastiCache",
         "link": "https://aws.amazon.com/blogs/database/how-hoteltrader-cut-inter-az-cost-95-and-latency-by-49-with-valkey-glide-on-amazon-elasticache/"
-    },
-    {
-        "title": "Zero-downtime DynamoDB construct migration: from Table to TableV2 with cdk orphan",
-        "link": "https://aws.amazon.com/blogs/database/zero-downtime-dynamodb-construct-migration-from-table-to-tablev2-with-cdk-orphan/"
-    },
-    {
-        "title": "Filter, transform, and load your DynamoDB table exports using AWS Glue",
-        "link": "https://aws.amazon.com/blogs/database/filter-transform-and-load-your-dynamodb-table-exports-using-aws-glue/"
-    },
-    {
-        "title": "Migrating Amazon RDS for PostgreSQL to Amazon Aurora using seeded logical replication",
-        "link": "https://aws.amazon.com/blogs/database/migrating-amazon-rds-for-postgresql-to-amazon-aurora-using-seeded-logical-replication/"
-    },
-    {
-        "title": "Amazon Aurora DSQL connections: Drivers, strings, and best practices",
-        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-connections-drivers-strings-and-best-practices/"
     }
 ]
