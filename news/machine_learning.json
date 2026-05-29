@@ -1,5 +1,33 @@
 [
     {
+        "title": "Training Azerbaijani language models on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/"
+    },
+    {
+        "title": "Streamline external access to Amazon SageMaker MLflow using a REST API proxy",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/"
+    },
+    {
+        "title": "Evaluating Deep Agents using LangSmith on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/"
+    },
+    {
+        "title": "Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Claude Opus 4.8 is now available on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/"
+    },
+    {
+        "title": "Automate AML alert triage with Amazon Quick and Snowflake Cortex AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/"
+    },
+    {
         "title": "Process financial documents using Amazon Bedrock Data Automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Amazon Nova Act is now HIPAA eligible",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/"
-    },
-    {
-        "title": "Intelligent radiology workflow optimization with AI agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/"
-    },
-    {
-        "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "Building multi-tenant agents with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Break the context window barrier with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/break-the-context-window-barrier-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-for-business-intelligence-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build an AI-powered recruitment assistant using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-recruitment-assistant-using-amazon-bedrock/"
-    },
-    {
-        "title": "Build AI-powered dashboard automation agents with NLP on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-dashboard-automation-agents-with-nlp-on-amazon-bedrock-agentcore/"
     }
 ]

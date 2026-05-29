@@ -1,5 +1,9 @@
 [
     {
+        "title": "The next generation of Amazon OpenSearch Serverless: Built from the ground up for agents",
+        "link": "https://aws.amazon.com/blogs/big-data/the-next-generation-of-amazon-opensearch-serverless-built-from-the-ground-up-for-agents/"
+    },
+    {
         "title": "How Buildkite Operates Test Analytics at Massive Scale with Amazon MSK and Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/how-buildkite-operates-test-analytics-at-massive-scale-with-amazon-msk-and-amazon-managed-service-for-apache-flink/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable real-time mainframe analytics with Precisely Connect and Amazon S3",
         "link": "https://aws.amazon.com/blogs/big-data/enable-real-time-mainframe-analytics-with-precisely-connect-and-amazon-s3/"
-    },
-    {
-        "title": "Build streaming applications on Amazon Managed Service for Apache Flink with AI-assisted guidance",
-        "link": "https://aws.amazon.com/blogs/big-data/build-streaming-applications-on-amazon-managed-service-for-apache-flink-with-ai-assisted-guidance/"
     }
 ]

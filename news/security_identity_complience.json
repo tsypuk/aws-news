@@ -1,5 +1,13 @@
 [
     {
+        "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/"
+    },
+    {
+        "title": "Simplifying policy management with URL and Domain Category filtering on AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall/"
+    },
+    {
         "title": "Welcoming the AWS Customer Incident Response Team",
         "link": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "ICYMI: April 2026 @AWS Security",
         "link": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security/"
-    },
-    {
-        "title": "AWS achieves SNI 27017, SNI 27018, and SNI 9001 certifications for the AWS Asia Pacific (Jakarta) Region",
-        "link": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27017-sni-27018-and-sni-9001-certifications-for-the-aws-asia-pacific-jakarta-region/"
-    },
-    {
-        "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
-        "link": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate Amazon EBS gp2 to gp3 migration at scale with AWS Step Functions and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/storage/automate-ebs-gp2-to-gp3-migration-at-scale-with-aws-step-functions-and-aws-lambda/"
+    },
+    {
         "title": "Amazon S3 audit logging, Part 3: Analyzing S3 Metadata journal tables for object lifecycle tracking",
         "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-3-analyzing-s3-metadata-journal-tables-for-object-lifecycle-tracking/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "From hours to minutes: Rethinking Oracle database operations with Amazon FSx for OpenZFS",
         "link": "https://aws.amazon.com/blogs/storage/from-hours-to-minutes-rethinking-oracle-databases-operations-with-amazon-fsx-for-openzfs/"
-    },
-    {
-        "title": "Managing NTFS permissions at scale on Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/manage-ntfs-permissions-at-scale-on-amazon-fsx-for-netapp-ontap/"
     }
 ]
