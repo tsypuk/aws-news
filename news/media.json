@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Honeycomb improved resilience using AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/mt/how-honeycomb-improved-resilience-using-aws-fault-injection-service/"
+    },
+    {
         "title": "AWS Observability ICYMI: Jan-May 2026",
         "link": "https://aws.amazon.com/blogs/mt/aws-observability-icymi-jan-may-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Search and discover governance controls with Control Catalog in AWS Control Tower",
         "link": "https://aws.amazon.com/blogs/mt/search-and-discover-governance-controls-with-control-catalog-in-aws-control-tower/"
-    },
-    {
-        "title": "Resolve application issues autonomously with AWS DevOps Agent (Preview) and Dynatrace",
-        "link": "https://aws.amazon.com/blogs/mt/resolve-application-issues-autonomously-with-aws-devops-agent-and-dynatrace/"
     }
 ]

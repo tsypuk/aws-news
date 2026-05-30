@@ -1,5 +1,9 @@
 [
     {
+        "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
+        "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/"
+    },
+    {
         "title": "Training Azerbaijani language models on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/"
-    },
-    {
-        "title": "Amazon Nova Act is now HIPAA eligible",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/"
     }
 ]

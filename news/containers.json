@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling StarRocks on Amazon EKS with KEDA and Karpenter for enterprise OLAP workloads",
+        "link": "https://aws.amazon.com/blogs/containers/scaling-apache-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads/"
+    },
+    {
         "title": "AI-powered event-driven Amazon EKS AMI updates with GitOps",
         "link": "https://aws.amazon.com/blogs/containers/ai-powered-event-driven-amazon-eks-ami-updates-with-gitops/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Track inter-AZ and NAT gateway traffic with EKS Container Network Observability",
         "link": "https://aws.amazon.com/blogs/containers/track-inter-az-and-nat-gateway-traffic-with-eks-container-network-observability/"
-    },
-    {
-        "title": "Simplify hybrid Kubernetes networking with Amazon EKS Hybrid Nodes gateway",
-        "link": "https://aws.amazon.com/blogs/containers/simplify-hybrid-kubernetes-networking-with-amazon-eks-hybrid-nodes-gateway/"
     }
 ]
