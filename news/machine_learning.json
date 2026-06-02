@@ -1,5 +1,45 @@
 [
     {
+        "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/"
+    },
+    {
+        "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/"
+    },
+    {
+        "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
+        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/"
+    },
+    {
+        "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+        "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/"
+    },
+    {
+        "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/"
+    },
+    {
+        "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/"
+    },
+    {
+        "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/"
+    },
+    {
+        "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Accelerate LLM model loading and increase context windows with GPUDirect on Amazon FSx for Lustre and TurboQuant",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant/"
+    },
+    {
+        "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp/"
+    },
+    {
         "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
         "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/"
     },
@@ -38,45 +78,5 @@
     {
         "title": "Building AI agents for business support using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/"
-    },
-    {
-        "title": "How AWS SMGS uses an AI-powered conversational assistant to transform business management with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Powering agentic AI sales strategy with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
-        "link": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/"
-    },
-    {
-        "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/"
-    },
-    {
-        "title": "From idea to AI app: Creating intelligent research assistants with Strands",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/"
-    },
-    {
-        "title": "Build an enterprise observability solution for Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/"
-    },
-    {
-        "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/"
     }
 ]

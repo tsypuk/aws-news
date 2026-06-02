@@ -1,5 +1,13 @@
 [
     {
+        "title": "Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent",
+        "link": "https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent/"
+    },
+    {
+        "title": "Building a scalable user search layer on top of Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/"
+    },
+    {
         "title": "Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events",
         "link": "https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AI-powered event response for Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/ai-powered-event-response-for-amazon-eks/"
-    },
-    {
-        "title": "The Hidden Price Tag: Uncovering Hidden Costs in Cloud Architectures with the AWS Well-Architected Framework",
-        "link": "https://aws.amazon.com/blogs/architecture/the-hidden-price-tag-uncovering-hidden-costs-in-cloud-architectures-with-the-aws-well-architected-framework/"
-    },
-    {
-        "title": "Digital Transformation at Santander: How Platform Engineering is Revolutionizing Cloud Infrastructure",
-        "link": "https://aws.amazon.com/blogs/architecture/digital-transformation-at-santander-how-platform-engineering-is-revolutionizing-cloud-infrastructure/"
     }
 ]

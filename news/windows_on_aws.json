@@ -1,5 +1,9 @@
 [
     {
+        "title": "Advanced bootstrapping on Amazon Elastic Compute Cloud (Amazon EC2)",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/advanced-bootstrapping-on-amazon-elastic-compute-cloud/"
+    },
+    {
         "title": "Automated license tracking for Microsoft SQL Server across AWS accounts and regions using license asset groups",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-license-tracking-for-sql-server-across-aws-accounts-and-regions-using-license-asset-groups/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Gain organization-wide visibility into software licensing with AWS License Manager license asset groups",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/gain-organization-wide-visibility-into-software-licensing-with-aws-license-manager-license-asset-groups/"
-    },
-    {
-        "title": "Introducing the AWS Well-Architected Microsoft Workloads Lens",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/introducing-the-aws-well-architected-microsoft-workloads-lens/"
     }
 ]

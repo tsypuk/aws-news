@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating developer productivity in the agentic AI era with Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/accelerating-developer-productivity-in-the-agentic-ai-era-with-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Guide your Amazon Aurora MySQL migration with Kiro powers",
         "link": "https://aws.amazon.com/blogs/database/guide-your-amazon-aurora-mysql-migration-with-kiro-powers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for upgrading Amazon RDS for MySQL 8.0 to 8.4 with prechecks, Blue/Green, and rollback",
         "link": "https://aws.amazon.com/blogs/database/best-practices-for-upgrading-amazon-rds-for-mysql-8-0-to-8-4-with-prechecks-blue-green-and-rollback/"
-    },
-    {
-        "title": "How HotelTrader cut inter-AZ cost 95% and latency by 49% with Valkey GLIDE on Amazon ElastiCache",
-        "link": "https://aws.amazon.com/blogs/database/how-hoteltrader-cut-inter-az-cost-95-and-latency-by-49-with-valkey-glide-on-amazon-elasticache/"
     }
 ]

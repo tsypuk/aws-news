@@ -1,5 +1,21 @@
 [
     {
+        "title": "Announcing the General Availability of the AWS IoT Device SDK for Swift",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-general-availability-of-the-aws-iot-device-sdk-for-swift/"
+    },
+    {
+        "title": "AWS SDK for .NET V3 end-of-support announcement",
+        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-net-v3-end-of-support-announcement/"
+    },
+    {
+        "title": "AWS Tools for PowerShell V4 end-of- support announcement",
+        "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v4-end-of-support-announcement/"
+    },
+    {
+        "title": "Introducing multipart download support for AWS Tools for PowerShell v5",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-tools-for-powershell-v5/"
+    },
+    {
         "title": "Announcing updated retry behavior for AWS SDKs and Tools",
         "link": "https://aws.amazon.com/blogs/developer/announcing-updated-retry-behavior-for-aws-sdks-and-tools/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Introducing Multipart Download Support for AWS SDK for .NET Transfer Manager",
         "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-sdk-for-net-transfer-manager/"
-    },
-    {
-        "title": "CLI v1 Maintenance Mode Announcement",
-        "link": "https://aws.amazon.com/blogs/developer/cli-v1-maintenance-mode-announcement/"
-    },
-    {
-        "title": "AWS SDK for JavaScript aligns with Node.js release schedule",
-        "link": "https://aws.amazon.com/blogs/developer/aws-sdk-for-javascript-aligns-with-node-js-release-schedule/"
-    },
-    {
-        "title": "Introducing AWS SDK for Swift\u2019s Transfer Manager for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-amazon-s3-transfer-manager-for-swift-developer-preview/"
-    },
-    {
-        "title": "What\u2019s New in the AWS Deploy Tool for .NET",
-        "link": "https://aws.amazon.com/blogs/developer/whats-new-in-the-aws-deploy-tool-for-net/"
     }
 ]
