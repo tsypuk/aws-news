@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing durability for Amazon ElastiCache for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/announcing-durability-for-amazon-elasticache/"
+    },
+    {
+        "title": "Unlock license mobility with Bring Your Own Media on fully managed Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/unlock-license-mobility-with-bring-your-own-media-on-fully-managed-amazon-rds-for-sql-server/"
+    },
+    {
         "title": "Accelerating developer productivity in the agentic AI era with Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/accelerating-developer-productivity-in-the-agentic-ai-era-with-amazon-aurora-postgresql/"
     },
@@ -12,7 +20,7 @@
         "link": "https://aws.amazon.com/blogs/database/ai-native-full-stack-web-apps-with-vercel-and-aws-databases/"
     },
     {
-        "title": "Real-time personalized recommendations with Amazon SageMaker and Amazon-managed Valkey",
+        "title": "Real-time personalized recommendations with Amazon SageMaker and Valkey",
         "link": "https://aws.amazon.com/blogs/database/real-time-personalized-recommendations-with-amazon-sagemaker-and-amazon-managed-valkey/"
     },
     {
@@ -70,13 +78,5 @@
     {
         "title": "Getting started with Change Data Capture in Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Upgrade strategies for Amazon RDS for MySQL 8.0 to 8.4",
-        "link": "https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-rds-for-mysql-8-0-to-8-4/"
-    },
-    {
-        "title": "Best practices for upgrading Amazon RDS for MySQL 8.0 to 8.4 with prechecks, Blue/Green, and rollback",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-upgrading-amazon-rds-for-mysql-8-0-to-8-4-with-prechecks-blue-green-and-rollback/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Monitoring AWS Parallel Computing Service",
+        "link": "https://aws.amazon.com/blogs/hpc/the-complete-picture-unified-monitoring-for-aws-parallel-computing-service/"
+    },
+    {
         "title": "High Throughput Scheduling for Financial Services with YellowDog HTS on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/high-throughput-scheduling-for-financial-services-with-yellowdog-hts-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "October was busy for HPC in the cloud",
         "link": "https://aws.amazon.com/blogs/hpc/october-was-busy-for-hpc-in-the-cloud/"
-    },
-    {
-        "title": "What\u2019s the difference between AWS ParallelCluster  and AWS Parallel Computing Service?",
-        "link": "https://aws.amazon.com/blogs/hpc/thoughts-on-the-differences-between-aws-parallel-computing-service-and-aws-parallelcluster/"
     }
 ]

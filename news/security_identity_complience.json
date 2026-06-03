@@ -1,5 +1,13 @@
 [
     {
+        "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
+        "link": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/"
+    },
+    {
+        "title": "Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies",
+        "link": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/"
+    },
+    {
         "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
         "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS Security Agent full repository code scanning feature now available in preview",
         "link": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/"
-    },
-    {
-        "title": "Enabling AI sovereignty on AWS",
-        "link": "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws/"
-    },
-    {
-        "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
-        "link": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services/"
     }
 ]

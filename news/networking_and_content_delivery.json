@@ -1,5 +1,9 @@
 [
     {
+        "title": "Uplynk\u2019s Resilient Multi-Region Video Streaming with Amazon Route 53",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/uplynks-resilient-multi-region-video-streaming-with-amazon-route-53/"
+    },
+    {
         "title": "Best Practices for TCP Connection Management on EC2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-for-tcp-connection-management-on-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing AWS Global Accelerator Support in AWS Load Balancer Controller for Kubernetes",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/announcing-aws-global-accelerator-support-in-aws-load-balancer-controller-for-kubernetes/"
-    },
-    {
-        "title": "Streamline your Amazon EKS deployments with Gateway API support for AWS Load Balancer Controller and Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/streamline-your-amazon-eks-deployments-with-gateway-api-support-for-aws-load-balancer-controller-and-amazon-vpc-lattice/"
     }
 ]

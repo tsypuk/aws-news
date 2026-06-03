@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Open-Source Skills for AWS SDK Best Practices",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-open-source-skills-for-aws-sdk-best-practices/"
+    },
+    {
         "title": "Announcing the General Availability of the AWS IoT Device SDK for Swift",
         "link": "https://aws.amazon.com/blogs/developer/announcing-the-general-availability-of-the-aws-iot-device-sdk-for-swift/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Tools Installer V2 Preview",
         "link": "https://aws.amazon.com/blogs/developer/aws-tools-installer-v2-preview/"
-    },
-    {
-        "title": "Introducing Multipart Download Support for AWS SDK for .NET Transfer Manager",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-sdk-for-net-transfer-manager/"
     }
 ]
