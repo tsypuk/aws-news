@@ -1,5 +1,13 @@
 [
     {
+        "title": "Schedule notebook runs in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/schedule-notebook-runs-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Amazon OpenSearch Service: Mechanisms to secure your domain",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-mechanisms-to-secure-your-domain/"
+    },
+    {
         "title": "Capture data lineage of Amazon EMR spark jobs into Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/capture-data-lineage-of-amazon-emr-spark-jobs-into-amazon-sagemaker-unified-studio/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Improve DynamoDB analytics with AWS Glue zero-ETL schema and partition controls",
         "link": "https://aws.amazon.com/blogs/big-data/improve-dynamodb-analytics-with-aws-glue-zero-etl-schema-and-partition-controls/"
-    },
-    {
-        "title": "How to build a cross-Region resilience for Amazon OpenSearch Service with Amazon MSK",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-build-a-cross-region-resilience-for-amazon-opensearch-service-with-amazon-msk/"
-    },
-    {
-        "title": "How to consolidate cross-Region S3 data into OpenSearch",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-consolidate-cross-region-s3-data-into-opensearch/"
     }
 ]

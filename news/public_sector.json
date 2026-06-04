@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS GovCloud (US) account management best practices",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-govcloud-us-account-management-best-practices/"
+    },
+    {
+        "title": "Introducing AWS Cloud WAN in AWS GovCloud (US) Regions",
+        "link": "https://aws.amazon.com/blogs/publicsector/introducing-aws-cloud-wan-in-aws-govcloud-us-regions/"
+    },
+    {
+        "title": "Accelerating life sciences research with Kiro: A unified AI interface to 100+ open source databases",
+        "link": "https://aws.amazon.com/blogs/publicsector/accelerating-life-sciences-research-with-kiro-a-unified-ai-interface-to-100-open-source-databases/"
+    },
+    {
         "title": "Why the location of your AI agent is a security decision",
         "link": "https://aws.amazon.com/blogs/publicsector/why-the-location-of-your-ai-agent-is-a-security-decision/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How governments adopt the cloud for national security and defense in Asia-Pacific",
         "link": "https://aws.amazon.com/blogs/publicsector/how-governments-adopt-the-cloud-for-national-security-and-defense-in-asia-pacific/"
-    },
-    {
-        "title": "University-cloud collaboration in action: Columbia University students transform ideas into AWS powered startups",
-        "link": "https://aws.amazon.com/blogs/publicsector/university-cloud-collaboration-in-action-columbia-university-students-transform-ideas-into-aws-powered-startups/"
-    },
-    {
-        "title": "AWS Health Equity Initiative accelerates modern public health access with SmartTracker",
-        "link": "https://aws.amazon.com/blogs/publicsector/aws-health-equity-initiative-accelerates-modern-public-health-access-with-smarttracker/"
-    },
-    {
-        "title": "Transforming federal IT with Datadog\u2019s FedRAMP Class D (High) solution",
-        "link": "https://aws.amazon.com/blogs/publicsector/transforming-federal-it-with-datadogs-fedramp-high-solution/"
     }
 ]

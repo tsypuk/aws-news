@@ -1,5 +1,21 @@
 [
     {
+        "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (Bloom, pg_trgm, and pg_bigm)",
+        "link": "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-bloom-pg_trgm-and-pg_bigm/"
+    },
+    {
+        "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (SP-GiST, Btree_Gin and Btree_Gist)",
+        "link": "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-sp-gist-btree_gin-and-btree_gist/"
+    },
+    {
+        "title": "Migrating data from Oracle to Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrating-data-from-oracle-to-amazon-aurora-dsql/"
+    },
+    {
+        "title": "Implementing real-time change data capture with Debezium for Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/implementing-real-time-change-data-capture-with-debezium-for-amazon-aurora-postgresql-and-amazon-rds-for-postgresql/"
+    },
+    {
         "title": "Announcing durability for Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/announcing-durability-for-amazon-elasticache/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Nine Entertainment\u2019s journey: Achieving 98% cost savings with Amazon ElastiCache Serverless for Valkey",
         "link": "https://aws.amazon.com/blogs/database/nine-entertainments-journey-achieving-98-cost-savings-with-amazon-elasticache-serverless-for-valkey/"
-    },
-    {
-        "title": "Automated JDBC query caching with the AWS Advanced JDBC Wrapper",
-        "link": "https://aws.amazon.com/blogs/database/automated-jdbc-query-caching-with-the-aws-advanced-jdbc-wrapper/"
-    },
-    {
-        "title": "Building an AI-powered grid investigation agent with Aurora DSQL and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/database/building-an-ai-powered-grid-investigation-agent-with-aurora-dsql-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Improving generative AI accuracy with vector and graph search hybrid queries",
-        "link": "https://aws.amazon.com/blogs/database/improving-generative-ai-accuracy-with-vector-and-graph-search-hybrid-queries/"
-    },
-    {
-        "title": "Getting started with Change Data Capture in Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/"
     }
 ]

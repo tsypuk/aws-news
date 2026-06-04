@@ -1,5 +1,9 @@
 [
     {
+        "title": "Private connectivity patterns for Amazon Bedrock AgentCore Gateway Targets",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/private-connectivity-patterns-for-amazon-bedrock-agentcore-gateway-targets/"
+    },
+    {
         "title": "Uplynk\u2019s Resilient Multi-Region Video Streaming with Amazon Route 53",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/uplynks-resilient-multi-region-video-streaming-with-amazon-route-53/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing data transfer costs when using AWS Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/optimizing-data-transfer-costs-when-using-aws-network-load-balancer/"
-    },
-    {
-        "title": "Announcing AWS Global Accelerator Support in AWS Load Balancer Controller for Kubernetes",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/announcing-aws-global-accelerator-support-in-aws-load-balancer-controller-for-kubernetes/"
     }
 ]
