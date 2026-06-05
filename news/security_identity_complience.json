@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon Cognito unlocks advanced capabilities with next-generation infrastructure",
+        "link": "https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/"
+    },
+    {
+        "title": "Gain visibility into DDoS attacks with flow logs in AWS Shield Advanced",
+        "link": "https://aws.amazon.com/blogs/security/gain-visibility-into-ddos-attacks-with-flow-logs-in-aws-shield-advanced/"
+    },
+    {
+        "title": "Customize federated sign-in with new Amazon Cognito Lambda trigger",
+        "link": "https://aws.amazon.com/blogs/security/customize-federated-sign-in-with-new-amazon-cognito-lambda-trigger/"
+    },
+    {
         "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
         "link": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Detecting and preventing crypto mining in your AWS environment",
         "link": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/"
-    },
-    {
-        "title": "Introducing the updated AWS User Guide to Governance, Risk, and Compliance for Responsible AI Adoption",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-updated-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption/"
-    },
-    {
-        "title": "PCI PIN and P2PE compliance packages for AWS Payment Cryptography are now available",
-        "link": "https://aws.amazon.com/blogs/security/pci-pin-and-p2pe-compliance-packages-for-aws-payment-cryptography-are-now-available/"
-    },
-    {
-        "title": "AWS Security Agent full repository code scanning feature now available in preview",
-        "link": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/"
     }
 ]

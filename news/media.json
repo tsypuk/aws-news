@@ -1,5 +1,9 @@
 [
     {
+        "title": "From Monolith to Multi-Account: Pinterest\u2019s AWS Organization Transformation Journey",
+        "link": "https://aws.amazon.com/blogs/mt/from-monolith-to-multi-account-pinterests-aws-organization-transformation-journey/"
+    },
+    {
         "title": "How Honeycomb improved resilience using AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/mt/how-honeycomb-improved-resilience-using-aws-fault-injection-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Alerting Best Practices with Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/alerting-best-practices-with-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "Search and discover governance controls with Control Catalog in AWS Control Tower",
-        "link": "https://aws.amazon.com/blogs/mt/search-and-discover-governance-controls-with-control-catalog-in-aws-control-tower/"
     }
 ]

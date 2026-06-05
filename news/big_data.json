@@ -1,5 +1,17 @@
 [
     {
+        "title": "Query Amazon Redshift using natural language with Kiro",
+        "link": "https://aws.amazon.com/blogs/big-data/query-amazon-redshift-using-natural-language-with-kiro/"
+    },
+    {
+        "title": "Build governance dashboards for Amazon SageMaker Catalog with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/big-data/build-governance-dashboards-for-amazon-sagemaker-catalog-with-amazon-quick/"
+    },
+    {
+        "title": "Accelerate SQL development with SageMaker Data Agent in Query Editor",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-sql-development-with-sagemaker-data-agent-in-query-editor/"
+    },
+    {
         "title": "Schedule notebook runs in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/schedule-notebook-runs-in-amazon-sagemaker-unified-studio/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Streamlined monitoring and debugging for Amazon EMR on EC2",
         "link": "https://aws.amazon.com/blogs/big-data/streamlined-monitoring-and-debugging-for-amazon-emr-on-ec2/"
-    },
-    {
-        "title": "Detect and resolve HBase inconsistencies faster with AI on Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/detect-and-resolve-hbase-inconsistencies-faster-with-ai-on-amazon-emr/"
-    },
-    {
-        "title": "How to use streamlined permissions for Amazon S3 Tables and Iceberg materialized views",
-        "link": "https://aws.amazon.com/blogs/big-data/how-to-use-streamlined-permissions-for-amazon-s3-tables-and-iceberg-materialized-views/"
-    },
-    {
-        "title": "Improve DynamoDB analytics with AWS Glue zero-ETL schema and partition controls",
-        "link": "https://aws.amazon.com/blogs/big-data/improve-dynamodb-analytics-with-aws-glue-zero-etl-schema-and-partition-controls/"
     }
 ]

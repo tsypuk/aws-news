@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transforming ERP Business Process Operations with Agentic AI",
+        "link": "https://aws.amazon.com/blogs/awsforsap/transforming-erp-with-agentic-ai/"
+    },
+    {
         "title": "Building Agentic Enterprises on AWS with the AWS for SAP MCP Server on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/awsforsap/building-agentic-enterprises-on-aws-using-aws-for-sap-mcp-server-on-amazon-bedrock-agentcore/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build AI-Powered SAP automations seamlessly with Amazon Quick Automate",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-automations-with-amazon-quick-automate/"
-    },
-    {
-        "title": "Towards a plug \u2018n\u2019 play experience for the AWS SDK for SAP ABAP",
-        "link": "https://aws.amazon.com/blogs/awsforsap/towards-a-plug-n-play-experience-for-the-aws-sdk-for-sap-abap/"
     }
 ]

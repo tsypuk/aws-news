@@ -1,5 +1,9 @@
 [
     {
+        "title": "Understanding how backups work in Amazon Aurora",
+        "link": "https://aws.amazon.com/blogs/database/understanding-how-backups-work-in-amazon-aurora/"
+    },
+    {
         "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (Bloom, pg_trgm, and pg_bigm)",
         "link": "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-bloom-pg_trgm-and-pg_bigm/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying Amazon RDS for Db2 using Terraform",
         "link": "https://aws.amazon.com/blogs/database/deploying-amazon-rds-for-db2-using-terraform/"
-    },
-    {
-        "title": "Nine Entertainment\u2019s journey: Achieving 98% cost savings with Amazon ElastiCache Serverless for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/nine-entertainments-journey-achieving-98-cost-savings-with-amazon-elasticache-serverless-for-valkey/"
     }
 ]

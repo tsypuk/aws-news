@@ -1,5 +1,9 @@
 [
     {
+        "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Training Azerbaijani language models on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/"
     }
 ]
