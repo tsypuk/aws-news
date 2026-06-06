@@ -1,5 +1,13 @@
 [
     {
+        "title": "Adding LINE Messenger to your AWS omnichannel fallback solution",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/adding-line-messenger-to-your-aws-omnichannel-fallback-solution/"
+    },
+    {
+        "title": "Send WhatsApp Business messages with AWS End User Messaging Social",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/send-whatsapp-business-messages-with-aws-end-user-messaging-social/"
+    },
+    {
         "title": "Getting started with Amazon SES Agent Skills for AI-assisted email development",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/getting-started-with-amazon-ses-agent-skills-for-ai-assisted-email-development/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enhance email security using VPC endpoints with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-security-using-vpc-endpoints-with-amazon-ses/"
-    },
-    {
-        "title": "Track OTP success with AWS End User Messaging SMS feedback",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/track-otp-success-with-aws-end-user-messaging-sms-feedback/"
-    },
-    {
-        "title": "Integrate Amazon CloudWatch alarms with WhatsApp using AWS End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/integrate-amazon-cloudwatch-alarms-with-whatsapp-using-aws-end-user-messaging/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/"
+    },
+    {
         "title": "Amazon Cognito unlocks advanced capabilities with next-generation infrastructure",
         "link": "https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating post-quantum cryptography readiness using AWS Config",
         "link": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config/"
-    },
-    {
-        "title": "Detecting and preventing crypto mining in your AWS environment",
-        "link": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/"
     }
 ]
