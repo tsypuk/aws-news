@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reducing costs by 50% while processing population-scale genomics with Mountpoint for Amazon S3 and AWS Batch",
+        "link": "https://aws.amazon.com/blogs/hpc/reducing-costs-by-50-while-processing-population-scale-genomics-with-mountpoint-for-amazon-s3-and-aws-batch/"
+    },
+    {
         "title": "Monitoring AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/the-complete-picture-unified-monitoring-for-aws-parallel-computing-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimizing undersea cables: how Orsted and AWS modeled seabed thermal properties",
         "link": "https://aws.amazon.com/blogs/hpc/optimizing-undersea-cables-how-orsted-and-aws-modeled-seabed-thermal-properties/"
-    },
-    {
-        "title": "October was busy for HPC in the cloud",
-        "link": "https://aws.amazon.com/blogs/hpc/october-was-busy-for-hpc-in-the-cloud/"
     }
 ]

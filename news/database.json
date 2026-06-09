@@ -1,5 +1,21 @@
 [
     {
+        "title": "Announcing Amazon RDS for Db2 12.1 with additional community edition",
+        "link": "https://aws.amazon.com/blogs/database/announcing-amazon-rds-for-db2-12-1-with-additional-community-edition/"
+    },
+    {
+        "title": "Automate Oracle PL/SQL to PostgreSQL migration with Amazon Bedrock and Strands Agents",
+        "link": "https://aws.amazon.com/blogs/database/automate-oracle-pl-sql-to-postgresql-migration-with-amazon-bedrock-and-strands-agents/"
+    },
+    {
+        "title": "Building Python applications with SQLAlchemy and Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/building-python-applications-with-sqlalchemy-and-aurora-dsql/"
+    },
+    {
+        "title": "Oracle Database@AWS decoded: Determining the right fit for your Oracle workloads",
+        "link": "https://aws.amazon.com/blogs/database/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads/"
+    },
+    {
         "title": "Understanding how backups work in Amazon Aurora",
         "link": "https://aws.amazon.com/blogs/database/understanding-how-backups-work-in-amazon-aurora/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Best practices for Amazon DynamoDB Global Tables \u2013 Part 3: Validating regional resilience with AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-3-validating-regional-resilience-with-aws-fault-injection-service/"
-    },
-    {
-        "title": "Best practices for Amazon DynamoDB Global Tables \u2013 Part 2: Failover strategies",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-2-failover-strategies/"
-    },
-    {
-        "title": "Best practices for Amazon DynamoDB Global Tables \u2013 Part 1: Operational readiness",
-        "link": "https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-1-operational-readiness/"
-    },
-    {
-        "title": "Introducing ExtendDB: An open source DynamoDB-compatible adapter with pluggable storage backends",
-        "link": "https://aws.amazon.com/blogs/database/introducing-extenddb-an-open-source-dynamodb-compatible-adapter-with-pluggable-storage-backends/"
-    },
-    {
-        "title": "Deploying Amazon RDS for Db2 using Terraform",
-        "link": "https://aws.amazon.com/blogs/database/deploying-amazon-rds-for-db2-using-terraform/"
     }
 ]

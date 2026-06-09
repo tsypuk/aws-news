@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrating Event Source Mappings with AWS Lambda tenant isolation mode",
+        "link": "https://aws.amazon.com/blogs/compute/integrating-event-source-mappings-with-aws-lambda-tenant-isolation-mode/"
+    },
+    {
         "title": "Multi-Region event-driven failover architecture with Amazon EventBridge and Route 53",
         "link": "https://aws.amazon.com/blogs/compute/multi-region-event-driven-failover-architecture-with-amazon-eventbridge-and-route-53/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "More room to build: serverless services now support payloads up to 1 MB",
         "link": "https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/"
-    },
-    {
-        "title": "Simplify network segmentation for AWS Outposts racks with multiple local gateway routing domains",
-        "link": "https://aws.amazon.com/blogs/compute/simplify-network-segmentation-for-aws-outposts-racks-with-multiple-local-gateway-routing-domains/"
     }
 ]

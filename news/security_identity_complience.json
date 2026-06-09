@@ -1,5 +1,13 @@
 [
     {
+        "title": "ICYMI: May 2026 @AWS Security",
+        "link": "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security/"
+    },
+    {
+        "title": "Operationalizing AWS security: A maturity roadmap",
+        "link": "https://aws.amazon.com/blogs/security/operationalizing-aws-security-a-maturity-roadmap/"
+    },
+    {
         "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
         "link": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
         "link": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/"
-    },
-    {
-        "title": "Regional routing for AWS access portals: Implementing custom vanity domains for IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center/"
-    },
-    {
-        "title": "Automating post-quantum cryptography readiness using AWS Config",
-        "link": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config/"
     }
 ]
