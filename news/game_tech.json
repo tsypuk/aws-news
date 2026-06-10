@@ -1,5 +1,9 @@
 [
     {
+        "title": "Player profiles to leaderboards: Choosing the right AWS database, Part 2",
+        "link": "https://aws.amazon.com/blogs/gametech/player-profiles-to-leaderboards-choosing-the-right-aws-database-part-2/"
+    },
+    {
         "title": "Churchill Downs Races Ahead with AI: How Paddock PRO Uses Amazon Bedrock to Help Transform the Horse Player Experience",
         "link": "https://aws.amazon.com/blogs/gametech/churchill-downs-races-ahead-with-ai-how-paddock-pro-uses-amazon-bedrock-to-help-transform-the-horse-player-experience/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building gaming MLOps pipelines with Amazon Bedrock Agents",
         "link": "https://aws.amazon.com/blogs/gametech/building-gaming-mlops-pipelines-with-amazon-bedrock-agents/"
-    },
-    {
-        "title": "Designing compliant and secure betting and gaming applications on AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/designing-compliant-and-secure-betting-and-gaming-applications-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a Multi Account Patch Compliance Dashboard with Kiro Specs",
+        "link": "https://aws.amazon.com/blogs/mt/build-a-multi-account-patch-compliance-dashboard-with-kiro-specs/"
+    },
+    {
         "title": "From Monolith to Multi-Account: Pinterest\u2019s AWS Organization Transformation Journey",
         "link": "https://aws.amazon.com/blogs/mt/from-monolith-to-multi-account-pinterests-aws-organization-transformation-journey/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cross-Region AWS PrivateLink monitoring with Amazon CloudWatch Network Synthetic Monitor",
         "link": "https://aws.amazon.com/blogs/mt/cross-region-aws-privatelink-monitoring-with-amazon-cloudwatch-network-synthetic-monitor/"
-    },
-    {
-        "title": "Alerting Best Practices with Amazon Managed Service for Prometheus",
-        "link": "https://aws.amazon.com/blogs/mt/alerting-best-practices-with-amazon-managed-service-for-prometheus/"
     }
 ]

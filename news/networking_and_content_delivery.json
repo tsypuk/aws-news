@@ -1,5 +1,17 @@
 [
     {
+        "title": "Securing zero trust access with AWS Verified Access and AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-zero-trust-access-with-aws-verified-access-and-aws-network-firewall/"
+    },
+    {
+        "title": "Deploying internal DNS zones for internet-facing load balancers",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/deploying-internal-dns-zones-for-internet-facing-load-balancers/"
+    },
+    {
+        "title": "Extending AWS DevOps Agent network investigations with S3 logs and custom MCP on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-aws-devops-agent-network-investigations-with-s3-logs-and-custom-mcp-on-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Achieve least-privilege access for Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/achieve-least-privilege-access-for-amazon-route-53-profiles/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Automated network incident response with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automated-network-incident-response-with-aws-devops-agent/"
-    },
-    {
-        "title": "Dissolving the Boundary Between Cloud and Network",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/dissolving-the-boundary-between-cloud-and-network/"
-    },
-    {
-        "title": "Automating AWS Application Load Balancer Capacity Unit Reservation",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-aws-application-load-balancer-capacity-unit-reservation/"
-    },
-    {
-        "title": "How LSEG connects the world of finance: Using AWS Cross-Region PrivateLink to transform global market data access",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-lseg-connects-the-world-of-finance-using-aws-cross-region-privatelink-to-transform-global-market-data-access/"
     }
 ]

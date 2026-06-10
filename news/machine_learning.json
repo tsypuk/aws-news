@@ -1,5 +1,17 @@
 [
     {
+        "title": "Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake",
+        "link": "https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/"
+    },
+    {
+        "title": "Build an agentic incident triage assistant with Amazon Quick and New Relic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/"
+    },
+    {
         "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
         "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
         "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/"
-    },
-    {
-        "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
-        "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/"
-    },
-    {
-        "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/"
-    },
-    {
-        "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/"
     }
 ]

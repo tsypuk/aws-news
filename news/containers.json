@@ -1,5 +1,9 @@
 [
     {
+        "title": "Better Together: Amazon EKS Auto Mode and Istio Ambient Mesh",
+        "link": "https://aws.amazon.com/blogs/containers/better-together-amazon-eks-auto-mode-and-istio-ambient-mesh/"
+    },
+    {
         "title": "Scaling StarRocks on Amazon EKS with KEDA and Karpenter for enterprise OLAP workloads",
         "link": "https://aws.amazon.com/blogs/containers/scaling-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Cross-Region disaster recovery for Amazon EKS using AWS Backup",
         "link": "https://aws.amazon.com/blogs/containers/cross-region-disaster-recovery-for-amazon-eks-using-aws-backup/"
-    },
-    {
-        "title": "Track inter-AZ and NAT gateway traffic with EKS Container Network Observability",
-        "link": "https://aws.amazon.com/blogs/containers/track-inter-az-and-nat-gateway-traffic-with-eks-container-network-observability/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Customer First Callback in Amazon Connect Customer: Priority Preservation, Voicemail Detection, and Zero Reserved Agent Capacity",
+        "link": "https://aws.amazon.com/blogs/contact-center/customer-first-callback-in-amazon-connect-customer-priority-preservation-voicemail-detection-and-zero-reserved-agent-capacity/"
+    },
+    {
+        "title": "Rethinking the Case: How Amazon Connect\u2019s Approach Unlocks the Future of Customer Service",
+        "link": "https://aws.amazon.com/blogs/contact-center/rethinking-the-case-how-amazon-connects-approach-unlocks-the-future-of-customer-service/"
+    },
+    {
         "title": "Optimize activity placement in Amazon Connect Customer scheduling",
         "link": "https://aws.amazon.com/blogs/contact-center/optimize-activity-placement-in-amazon-connect-scheduling/"
     },
@@ -26,10 +34,6 @@
     {
         "title": "Configure Schedule Adherence Thresholds in Amazon Connect to Account for Operational Variances",
         "link": "https://aws.amazon.com/blogs/contact-center/configure-schedule-adherence-thresholds-in-amazon-connect-to-account-for-operational-variances/"
-    },
-    {
-        "title": "Managing Amazon Connect flows as Code with AWS CDK",
-        "link": "https://aws.amazon.com/blogs/contact-center/managing-amazon-connect-flows-as-code-with-aws-cdk/"
     },
     {
         "title": "Build Unified Voice, Video and Chat Communications with Amazon Connect",
@@ -74,9 +78,5 @@
     {
         "title": "How Toyota Insurance cut customer service costs by 98.5% and achieved 60% self-service with Amazon Connect Customer",
         "link": "https://aws.amazon.com/blogs/contact-center/how-toyota-insurance-cut-customer-service-costs-and-achieved-self-service-with-amazon-connect/"
-    },
-    {
-        "title": "Reduce testing time by up to 90%: Introducing native testing and simulation for Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/reduce-testing-time-by-up-to-90-introducing-native-testing-and-simulation-for-amazon-connect/"
     }
 ]

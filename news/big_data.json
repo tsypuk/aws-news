@@ -1,5 +1,25 @@
 [
     {
+        "title": "Beyond JSON blobs: Implementing the VARIANT data type in Apache Iceberg V3",
+        "link": "https://aws.amazon.com/blogs/big-data/beyond-json-blobs-implementing-the-variant-data-type-in-apache-iceberg-v3/"
+    },
+    {
+        "title": "Upgrade PySpark from Spark 3.5 to Spark 4.0 with AWS Spark Upgrade Agent",
+        "link": "https://aws.amazon.com/blogs/big-data/upgrade-pyspark-from-spark-3-5-to-spark-4-0-with-aws-spark-upgrade-agent/"
+    },
+    {
+        "title": "Announcing Spark Connect on Amazon EMR Serverless: Interactive PySpark development, anywhere",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-serverless-interactive-pyspark-development-anywhere/"
+    },
+    {
+        "title": "Build stateful streaming applications with Apache Spark 4.0 on Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/build-stateful-streaming-applications-with-apache-spark-4-0-on-amazon-emr-serverless/"
+    },
+    {
+        "title": "Announcing general availability of Apache Spark 4.0 on Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-general-availability-of-apache-spark-4-0-on-amazon-emr/"
+    },
+    {
         "title": "Unlock cost savings with incremental snapshot billing for Amazon Redshift Serverless and Amazon Redshift RG",
         "link": "https://aws.amazon.com/blogs/big-data/unlock-cost-savings-with-incremental-snapshot-billing-for-amazon-redshift-serverless-and-amazon-redshift-rg/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "A systematic approach to benchmarking SQL processing engines on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/a-systematic-approach-to-benchmarking-sql-processing-engines-on-aws/"
-    },
-    {
-        "title": "Build petabyte-scale synthetic test data with Amazon EMR on EC2",
-        "link": "https://aws.amazon.com/blogs/big-data/build-petabyte-scale-synthetic-test-data-with-amazon-emr-on-ec2/"
-    },
-    {
-        "title": "Meet Amazon Redshift RG \u2013 AWS Graviton-based instances with an integrated data lake query engine delivering up to 2.4x better performance at 30% lower price than RA3",
-        "link": "https://aws.amazon.com/blogs/big-data/meet-amazon-redshift-rg-aws-graviton-based-instances-with-an-integrated-data-lake-query-engine-delivering-up-to-2-4x-better-performance-at-30-lower-price-than-ra3/"
-    },
-    {
-        "title": "OpenSearch Agent Skills bring built-in intelligence to your agentic IDE",
-        "link": "https://aws.amazon.com/blogs/big-data/opensearch-agent-skills-bring-built-in-intelligence-to-your-agentic-ide/"
-    },
-    {
-        "title": "How Smartsheet built Real-time Dynamic Filtering on Apache Flink reducing $40K/month in messaging costs",
-        "link": "https://aws.amazon.com/blogs/big-data/how-smartsheet-built-real-time-dynamic-filtering-on-apache-flink-reducing-40k-month-in-messaging-costs/"
-    },
-    {
-        "title": "Optimize Amazon S3 Tables queries with Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-amazon-s3-tables-queries-with-amazon-redshift/"
     }
 ]
