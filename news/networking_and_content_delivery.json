@@ -1,5 +1,17 @@
 [
     {
+        "title": "Extending SD-WAN Segmentation into AWS Cloud WAN \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-sd-wan-segmentation-into-aws-cloud-wan-part-2/"
+    },
+    {
+        "title": "Extending SD-WAN Segmentation into AWS Cloud WAN \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-sd-wan-segmentation-into-aws-cloud-wan-part-1/"
+    },
+    {
+        "title": "Best practices for securing your IPv6 infrastructure on AWS using VPC Block Public Access",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-for-securing-your-ipv6-infrastructure-on-aws-using-vpc-block-public-access/"
+    },
+    {
         "title": "Securing zero trust access with AWS Verified Access and AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-zero-trust-access-with-aws-verified-access-and-aws-network-firewall/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implementing fine-grained Amazon Route 53 access using IAM condition keys (Part 2)",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-fine-grained-amazon-route-53-access-using-iam-condition-keys-part-2/"
-    },
-    {
-        "title": "Introducing AWS Client VPN native AWS Transit Gateway attachment",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-client-vpn-native-aws-transit-gateway-attachment/"
-    },
-    {
-        "title": "Centralized ingress inspection architecture in AWS Cloud WAN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/centralized-ingress-inspection-architecture-in-aws-cloud-wan/"
-    },
-    {
-        "title": "Automated network incident response with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automated-network-incident-response-with-aws-devops-agent/"
     }
 ]

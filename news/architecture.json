@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the Snowflake and AWS Custom Lens for the AWS Well-Architected Framework",
+        "link": "https://aws.amazon.com/blogs/architecture/introducing-the-snowflake-and-aws-custom-lens-for-the-aws-well-architected-framework/"
+    },
+    {
         "title": "Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake",
         "link": "https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate safety monitoring with computer vision and generative AI",
         "link": "https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/"
-    },
-    {
-        "title": "Streamlining access to powerful disaster recovery capabilities of AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/"
     }
 ]

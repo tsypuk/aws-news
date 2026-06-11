@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS CLI v1 maintenance mode: announcing changes to dependency updates",
+        "link": "https://aws.amazon.com/blogs/developer/aws-cli-v1-maintenance-mode-announcing-changes-to-dependency-updates/"
+    },
+    {
         "title": "Introducing Open-Source Skills for AWS SDK Best Practices",
         "link": "https://aws.amazon.com/blogs/developer/introducing-open-source-skills-for-aws-sdk-best-practices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Agent Plugins for AWS",
         "link": "https://aws.amazon.com/blogs/developer/introducing-agent-plugins-for-aws/"
-    },
-    {
-        "title": "AWS Tools Installer V2 Preview",
-        "link": "https://aws.amazon.com/blogs/developer/aws-tools-installer-v2-preview/"
     }
 ]

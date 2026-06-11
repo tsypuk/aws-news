@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automate Amazon Aurora PostgreSQL major or minor version upgrade using AWS Systems Manager and Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/database/automate-amazon-aurora-postgresql-major-or-minor-version-upgrade-using-aws-systems-manager-and-amazon-ec2/"
+    },
+    {
+        "title": "How to migrate from Oracle to Amazon Aurora PostgreSQL using AWS CloudFormation (Part 1)",
+        "link": "https://aws.amazon.com/blogs/database/how-to-migrate-from-oracle-to-amazon-aurora-postgresql-using-aws-cloudformation-part-1/"
+    },
+    {
+        "title": "Avoid shared database accounts with federated IAM authentication",
+        "link": "https://aws.amazon.com/blogs/database/avoid-shared-database-accounts-with-federated-iam-authentication/"
+    },
+    {
         "title": "Building type-safe applications with Drizzle ORM in Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/building-type-safe-applications-with-drizzle-orm-in-aurora-dsql/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Real-time personalized recommendations with Amazon SageMaker and Valkey",
         "link": "https://aws.amazon.com/blogs/database/real-time-personalized-recommendations-with-amazon-sagemaker-and-amazon-managed-valkey/"
-    },
-    {
-        "title": "Optimize costs in Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/optimize-costs-in-amazon-aurora/"
-    },
-    {
-        "title": "Preserving custom domain names for Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/preserving-custom-domain-names-for-amazon-rds-for-db2/"
-    },
-    {
-        "title": "Amazon Aurora MySQL 8.4 is now generally available",
-        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-mysql-8-4-is-now-generally-available/"
     }
 ]

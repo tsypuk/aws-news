@@ -1,5 +1,13 @@
 [
     {
+        "title": "Preventive controls for FedRAMP 20x: Using SCPs and guardrails to enforce KSIs",
+        "link": "https://aws.amazon.com/blogs/publicsector/preventive-controls-for-fedramp-20x-using-scps-and-guardrails-to-enforce-ksis/"
+    },
+    {
+        "title": "Evaluating ITAR workloads in US commercial AWS Regions",
+        "link": "https://aws.amazon.com/blogs/publicsector/evaluating-itar-workloads/"
+    },
+    {
         "title": "Can AI Help Our Cities Beat the Heat? Inside the University of Michigan\u2019s AI for Urban Heat Resilience Hackathon",
         "link": "https://aws.amazon.com/blogs/publicsector/can-ai-help-our-cities-beat-the-heat-inside-the-university-of-michigans-ai-for-urban-heat-resilience-hackathon/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Intelligent energy systems that serve tactical forces",
         "link": "https://aws.amazon.com/blogs/publicsector/intelligent-energy-systems-that-serve-tactical-forces/"
-    },
-    {
-        "title": "Secure, AI-driven cloud migration for DoW using CloudHedge",
-        "link": "https://aws.amazon.com/blogs/publicsector/secure-ai-driven-cloud-migration-for-dow-using-cloudhedge/"
-    },
-    {
-        "title": "A faster, more resilient digital repository: Migrating DSpace to AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/a-faster-more-resilient-digital-repository-migrating-dspace-to-aws/"
     }
 ]
