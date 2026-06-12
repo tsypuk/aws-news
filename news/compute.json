@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS Nitro Isolation Engine: Formally verifying the hypervisor in the AWS Nitro System",
+        "link": "https://aws.amazon.com/blogs/compute/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/"
+    },
+    {
+        "title": "Build RAG-powered AI solutions at the edge with AWS Local Zones and Outposts",
+        "link": "https://aws.amazon.com/blogs/compute/build-rag-powered-ai-solutions-at-the-edge-with-aws-local-zones-and-outposts/"
+    },
+    {
+        "title": "Optimize EC2 costs with AWS Compute Optimizer right sizing",
+        "link": "https://aws.amazon.com/blogs/compute/optimize-ec2-costs-with-aws-compute-optimizer-right-sizing/"
+    },
+    {
         "title": "Integrating Event Source Mappings with AWS Lambda tenant isolation mode",
         "link": "https://aws.amazon.com/blogs/compute/integrating-event-source-mappings-with-aws-lambda-tenant-isolation-mode/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Amazon SageMaker AI now hosts NVIDIA Evo-2 NIM microservices",
         "link": "https://aws.amazon.com/blogs/compute/amazon-sagemaker-ai-now-hosting-nvidia-evo-2-nim-microservices/"
-    },
-    {
-        "title": "Building fault-tolerant applications with AWS Lambda durable functions",
-        "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-long-running-application-with-aws-lambda-durable-functions/"
-    },
-    {
-        "title": "Serverless ICYMI Q4 2025",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q4-2025/"
-    },
-    {
-        "title": "More room to build: serverless services now support payloads up to 1 MB",
-        "link": "https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/"
     }
 ]

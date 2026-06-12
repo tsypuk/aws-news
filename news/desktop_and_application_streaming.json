@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to Set Up Workspot and Amazon WorkSpaces Core Managed Instances",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/how-to-set-up-workspot-cloud-pcs-and-amazon-workspaces-core/"
+    },
+    {
+        "title": "Amazon WorkSpaces Personal: A modern management approach with Microsoft Entra ID and Intune",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-personal-a-modern-management-approach-with-microsoft-entra-id-and-intune/"
+    },
+    {
         "title": "Dynamic multi-group entitlements in WorkSpaces applications with Entra ID",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/dynamic-multi-group-entitlements-in-workspaces-applications-with-entra-id/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Microsoft Teams optimization for Amazon WorkSpaces is now in Public Preview",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/microsoft-teams-optimization-for-amazon-workspaces-is-now-in-public-preview/"
-    },
-    {
-        "title": "Introducing an Improved BYOL Image Import Process for Amazon WorkSpaces",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/introducing-an-improved-byol-image-import-process-for-amazon-workspaces/"
-    },
-    {
-        "title": "AWS recognized as a Leader in 2025 Gartner Magic Quadrant for Desktop as a Service",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/aws-recognized-as-a-leader-in-2025-gartner-magic-quadrant-for-desktop-as-a-service/"
     }
 ]

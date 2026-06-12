@@ -1,5 +1,21 @@
 [
     {
+        "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/"
+    },
+    {
+        "title": "Evaluate AI agents systematically with Agent-EvalKit",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/"
+    },
+    {
+        "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/"
+    },
+    {
+        "title": "Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/"
+    },
+    {
         "title": "How frontier teams are reinventing AI-native development",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/"
     },
@@ -52,8 +68,8 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/"
     },
     {
-        "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-self-driving-ai-operations-on-amazon-bedrock-at-scale/"
+        "title": "Automate model quota request and operational issue triage on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-model-quota-request-and-operational-issue-triage-on-amazon-bedrock/"
     },
     {
         "title": "Fundamental\u2019s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
@@ -62,21 +78,5 @@
     {
         "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
         "link": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/"
-    },
-    {
-        "title": "Improve your agent\u2019s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/"
-    },
-    {
-        "title": "Object detection with Amazon Nova 2 Lite",
-        "link": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/"
-    },
-    {
-        "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/"
     }
 ]

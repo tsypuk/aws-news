@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/building-ai-shopping-agent-using-amazon-bedrock-agentcore-runtime-and-amazon-opensearch-service/"
+    },
+    {
         "title": "Choosing the right workflow orchestration service for your use case: Amazon MWAA and AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/big-data/choosing-the-right-workflow-orchestration-service-for-your-use-case-amazon-mwaa-and-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate data discovery and centralized management with AWS Glue Data Catalog",
         "link": "https://aws.amazon.com/blogs/big-data/automate-data-discovery-and-centralized-management-with-aws-glue-data-catalog/"
-    },
-    {
-        "title": "How Amazon is moving to integrate catalogs to improve data discovery with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/how-amazon-is-moving-to-integrate-catalogs-to-improve-data-discovery-with-amazon-sagemaker/"
     }
 ]

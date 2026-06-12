@@ -1,5 +1,9 @@
 [
     {
+        "title": "Provision Oracle Database@AWS resources using Terraform",
+        "link": "https://aws.amazon.com/blogs/database/provision-oracle-databaseaws-resources-using-terraform/"
+    },
+    {
         "title": "Automate Amazon Aurora PostgreSQL major or minor version upgrade using AWS Systems Manager and Amazon EC2",
         "link": "https://aws.amazon.com/blogs/database/automate-amazon-aurora-postgresql-major-or-minor-version-upgrade-using-aws-systems-manager-and-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AI-native, full-stack web apps with Vercel and AWS Databases",
         "link": "https://aws.amazon.com/blogs/database/ai-native-full-stack-web-apps-with-vercel-and-aws-databases/"
-    },
-    {
-        "title": "Real-time personalized recommendations with Amazon SageMaker and Valkey",
-        "link": "https://aws.amazon.com/blogs/database/real-time-personalized-recommendations-with-amazon-sagemaker-and-amazon-managed-valkey/"
     }
 ]

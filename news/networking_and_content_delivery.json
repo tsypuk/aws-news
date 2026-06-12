@@ -1,5 +1,9 @@
 [
     {
+        "title": "VPC resource gateways: Implementation patterns and use cases",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-resource-gateways-implementation-patterns-and-use-cases/"
+    },
+    {
         "title": "Extending SD-WAN Segmentation into AWS Cloud WAN \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-sd-wan-segmentation-into-aws-cloud-wan-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Selecting the Right AWS VPN Solution: A Decision Framework",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/selecting-the-right-aws-vpn-solution-a-decision-framework/"
-    },
-    {
-        "title": "Implementing fine-grained Amazon Route 53 access using IAM condition keys (Part 2)",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-fine-grained-amazon-route-53-access-using-iam-condition-keys-part-2/"
     }
 ]
