@@ -1,5 +1,21 @@
 [
     {
+        "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/"
+    },
+    {
+        "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/"
+    },
+    {
+        "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/"
+    },
+    {
+        "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
+        "link": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/"
+    },
+    {
         "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
         "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/"
-    },
-    {
-        "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Automate model quota request and operational issue triage on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-model-quota-request-and-operational-issue-triage-on-amazon-bedrock/"
-    },
-    {
-        "title": "Fundamental\u2019s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/"
     }
 ]

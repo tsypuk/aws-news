@@ -1,5 +1,13 @@
 [
     {
+        "title": "From Connected to Resilient: Cloud-Native Payment Connectivity on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/from-connected-to-resilient-cloud-native-payment-connectivity-on-aws/"
+    },
+    {
+        "title": "Ultra-low-latency cross-Region crypto trading with Avelacom and AWS",
+        "link": "https://aws.amazon.com/blogs/industries/ultra-low-latency-cross-region-crypto-trading-with-avelacom-and-aws/"
+    },
+    {
         "title": "Build an AI-powered 5G Signaling Trace Analyzer Using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/industries/build-an-ai-powered-5g-signaling-trace-analyzer-using-amazon-bedrock/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Building a cloud-based EV charging monitoring platform with real-time AI analytics",
         "link": "https://aws.amazon.com/blogs/industries/building-a-cloud-based-ev-charging-monitoring-platform-with-real-time-ai-analytics/"
-    },
-    {
-        "title": "Introducing the AWS guide to the ECB Guide on outsourcing cloud services to cloud service providers",
-        "link": "https://aws.amazon.com/blogs/industries/introducing-the-aws-guide-to-the-ecb-guide-on-outsourcing-cloud-services-to-cloud-service-providers/"
-    },
-    {
-        "title": "How a Luxury Retailer Accelerates Customer Experience with Amazon CloudFront",
-        "link": "https://aws.amazon.com/blogs/industries/how-a-luxury-retailer-accelerates-customer-experience-with-amazon-cloudfront/"
     }
 ]

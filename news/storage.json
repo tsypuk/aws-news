@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieving sub-10ms latency and 94% cost savings with Diskless Kafka using AutoMQ and Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/achieving-sub-10ms-latency-and-94-cost-savings-with-diskless-kafka-using-automq-and-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Secure shared storage with CIFS share-level access controls on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/secure-shared-storage-with-cifs-share-level-access-controls-on-amazon-fsx-for-netapp-ontap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate Apache Hadoop and Apache Iceberg on Amazon S3 with the Analytics Accelerator Library",
         "link": "https://aws.amazon.com/blogs/storage/accelerate-apache-hadoop-and-apache-iceberg-on-amazon-s3-with-the-analytics-accelerator-library/"
-    },
-    {
-        "title": "Accelerate development workflows with Amazon EBS Volume Clones",
-        "link": "https://aws.amazon.com/blogs/storage/accelerate-development-workflows-with-amazon-ebs-volume-clones/"
     }
 ]

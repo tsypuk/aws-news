@@ -1,5 +1,17 @@
 [
     {
+        "title": "GPU Cost Attribution in Amazon EKS Using Amazon Managed Service for Prometheus, Amazon Managed Grafana, and OpenTelemetry",
+        "link": "https://aws.amazon.com/blogs/mt/gpu-cost-attribution-in-amazon-eks-using-amazon-managed-service-for-prometheus-amazon-managed-grafana-and-opentelemetry/"
+    },
+    {
+        "title": "Transfer AWS accounts between AWS Organizations while preserving AWS Lake Formation permissions",
+        "link": "https://aws.amazon.com/blogs/mt/transfer-aws-accounts-between-aws-organizations-while-preserving-aws-lake-formation-permissions/"
+    },
+    {
+        "title": "Introducing native histogram support in Amazon Managed Service for Prometheus",
+        "link": "https://aws.amazon.com/blogs/mt/introducing-native-histogram-support-in-amazon-managed-service-for-prometheus/"
+    },
+    {
         "title": "Build a Multi Account Patch Compliance Dashboard with Kiro Specs",
         "link": "https://aws.amazon.com/blogs/mt/build-a-multi-account-patch-compliance-dashboard-with-kiro-specs/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize cost and automate security remediation with AMS Trusted Remediator",
         "link": "https://aws.amazon.com/blogs/mt/optimize-cost-and-automate-security-remediation-with-ams-trusted-remediator/"
-    },
-    {
-        "title": "Innovation sandbox on AWS with real-time analytics dashboard",
-        "link": "https://aws.amazon.com/blogs/mt/innovation-sandbox-on-aws-with-real-time-analytics-dashboard/"
-    },
-    {
-        "title": "Investigating Service Issues with Amazon CloudWatch Application Signals Custom Metrics",
-        "link": "https://aws.amazon.com/blogs/mt/investigating-service-issues-with-amazon-cloudwatch-application-signals-custom-metrics/"
-    },
-    {
-        "title": "Cross-Region AWS PrivateLink monitoring with Amazon CloudWatch Network Synthetic Monitor",
-        "link": "https://aws.amazon.com/blogs/mt/cross-region-aws-privatelink-monitoring-with-amazon-cloudwatch-network-synthetic-monitor/"
     }
 ]
