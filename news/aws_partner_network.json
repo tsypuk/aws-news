@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Public AI delivers sovereign LLM inference on AWS and Intel",
+        "link": "https://aws.amazon.com/blogs/apn/how-public-ai-delivers-sovereign-llm-inference-on-aws-and-intel/"
+    },
+    {
         "title": "Unified Secrets Security with GitGuardian and AWS Secrets Manager",
         "link": "https://aws.amazon.com/blogs/apn/unified-secrets-security-with-gitguardian-and-aws-secrets-manager/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How ClickHouse powers real-time AI Agents on Amazon Quick",
         "link": "https://aws.amazon.com/blogs/apn/how-clickhouse-powers-real-time-ai-agents-on-amazon-quick/"
-    },
-    {
-        "title": "How SAS Viya Workbench on AWS accelerated analytics innovation",
-        "link": "https://aws.amazon.com/blogs/apn/how-sas-viya-workbench-on-aws-accelerated-analytics-innovation/"
     }
 ]

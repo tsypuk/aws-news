@@ -1,5 +1,9 @@
 [
     {
+        "title": "How a Customer Upgraded over 2,000 Microsoft Windows Server 2016 to 2025 on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-a-customer-upgraded-over-2000-windows-server-2016-to-2025-on-amazon-ec2/"
+    },
+    {
         "title": "Modernizing a legacy monolith with Amazon EKS Windows containers",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernizing-a-legacy-monolith-with-amazon-eks-windows-containers/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Modernize legacy .NET apps to Amazon EKS using Windows containers and CloudHedge CHAI",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-legacy-net-apps-to-amazon-eks-using-windows-containers-and-cloudhedge-chai/"
-    },
-    {
-        "title": "Automate Microsoft Office LTSC golden image creation with AWS Image Builder",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-office-ltsc-golden-image-creation-with-aws-image-builder/"
     }
 ]

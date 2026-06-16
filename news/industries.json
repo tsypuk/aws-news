@@ -1,5 +1,17 @@
 [
     {
+        "title": "Highlights from the 2026 AWS Life Sciences Symposium: MedTech Track",
+        "link": "https://aws.amazon.com/blogs/industries/highlights-from-the-2026-aws-life-sciences-symposium-medtech-track/"
+    },
+    {
+        "title": "Multi-Agent Systems for Financial Services on Amazon EKS and AgentCore",
+        "link": "https://aws.amazon.com/blogs/industries/multi-agent-systems-for-financial-services-on-amazon-eks-and-agentcore/"
+    },
+    {
+        "title": "How AI can help developers migrate embedded codebases between Arm SoCs",
+        "link": "https://aws.amazon.com/blogs/industries/how-ai-can-help-developers-migrate-embedded-codebases-between-arm-socs/"
+    },
+    {
         "title": "From Connected to Resilient: Cloud-Native Payment Connectivity on AWS",
         "link": "https://aws.amazon.com/blogs/industries/from-connected-to-resilient-cloud-native-payment-connectivity-on-aws/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "BridgeWise builds responsible AI in FSI with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/industries/bridgewise-builds-responsible-ai-in-fsi-with-amazon-bedrock/"
-    },
-    {
-        "title": "Rethink Everything: Highlights from the 2026 AWS Financial Services Symposium",
-        "link": "https://aws.amazon.com/blogs/industries/rethink-everything-highlights-from-the-2026-aws-financial-services-symposium/"
-    },
-    {
-        "title": "Improving Defect Analysis and Quality Control with AI Diagnostics",
-        "link": "https://aws.amazon.com/blogs/industries/improving-defect-analysis-and-quality-control-with-ai-diagnostics/"
-    },
-    {
-        "title": "Building a cloud-based EV charging monitoring platform with real-time AI analytics",
-        "link": "https://aws.amazon.com/blogs/industries/building-a-cloud-based-ev-charging-monitoring-platform-with-real-time-ai-analytics/"
     }
 ]
