@@ -1,5 +1,17 @@
 [
     {
+        "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+        "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/"
+    },
+    {
+        "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/"
+    },
+    {
+        "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Introducing Gemma 4 models on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build an agentic incident triage assistant with Amazon Quick and New Relic",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/"
-    },
-    {
-        "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
-        "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/"
-    },
-    {
-        "title": "It\u2019s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Better decisions at scale: How mathematical optimization delivers where intuition fails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/"
     }
 ]

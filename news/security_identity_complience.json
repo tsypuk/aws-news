@@ -1,5 +1,9 @@
 [
     {
+        "title": "Threat tactic spotlight: Subdomain takeover",
+        "link": "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover/"
+    },
+    {
         "title": "ICYMI: May 2026 @AWS Security",
         "link": "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Governing infrastructure as code using pattern-based policy as code",
         "link": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/"
-    },
-    {
-        "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
-        "link": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/"
     }
 ]
