@@ -1,5 +1,9 @@
 [
     {
+        "title": "Governing AI Assets at Scale with MCP Gateway and Registry",
+        "link": "https://aws.amazon.com/blogs/opensource/governing-ai-assets-at-scale-with-mcp-gateway-and-registry/"
+    },
+    {
         "title": "Introducing Trusted Remote Execution: Policy-Enforced Scripts for AI Agents and Humans",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-trusted-remote-execution-policy-enforced-scripts-for-ai-agents-and-humans/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-1-0-production-ready-multi-agent-orchestration-made-simple/"
-    },
-    {
-        "title": "Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP",
-        "link": "https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-3-strands-agents-mcp/"
     }
 ]

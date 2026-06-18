@@ -1,5 +1,29 @@
 [
     {
+        "title": "Top announcements of the AWS Summit in New York, 2026",
+        "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/"
+    },
+    {
+        "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/"
+    },
+    {
+        "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/"
+    },
+    {
+        "title": "Proactively reduce tech debt autonomously with AWS Transform \u2013 continuous modernization (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/"
+    },
+    {
+        "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/"
+    },
+    {
+        "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
+        "link": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/"
+    },
+    {
         "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
         "link": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/"
-    },
-    {
-        "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/"
-    },
-    {
-        "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agentcore-payments-agent-toolkit-for-aws-and-more-may-11-2026/"
-    },
-    {
-        "title": "The AWS MCP Server is now generally available",
-        "link": "https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/"
-    },
-    {
-        "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/"
     }
 ]

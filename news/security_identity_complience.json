@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing AWS Continuum: Security at machine speed",
+        "link": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/"
+    },
+    {
         "title": "Threat tactic spotlight: Subdomain takeover",
         "link": "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
         "link": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/"
-    },
-    {
-        "title": "Governing infrastructure as code using pattern-based policy as code",
-        "link": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/"
     }
 ]
