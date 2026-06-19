@@ -1,5 +1,13 @@
 [
     {
+        "title": "Accelerate security investigations with Kiro CLI",
+        "link": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/"
+    },
+    {
+        "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
+        "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format/"
+    },
+    {
         "title": "Introducing AWS Continuum: Security at machine speed",
         "link": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
         "link": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
-    },
-    {
-        "title": "AWS Security Hub Extended: Why enterprise security products should sell themselves",
-        "link": "https://aws.amazon.com/blogs/security/aws-security-hub-extended-why-enterprise-security-products-should-sell-themselves/"
-    },
-    {
-        "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/"
+    },
+    {
+        "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/"
+    },
+    {
         "title": "Top announcements of the AWS Summit in New York, 2026",
         "link": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications",
         "link": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-opensearch-serverless-for-building-your-agentic-ai-applications/"
-    },
-    {
-        "title": "Meet Our Newest AWS Heroes \u2013 May 2026",
-        "link": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/"
     }
 ]
