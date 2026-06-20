@@ -1,5 +1,17 @@
 [
     {
+        "title": "Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly",
+        "link": "https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/"
+    },
+    {
+        "title": "Supercharge your cloud operations with the Kiro power for AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/supercharge-your-cloud-operations-with-the-kiro-power-for-aws-devops-agent/"
+    },
+    {
+        "title": "Accelerate Incident Resolution with PagerDuty and AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/accelerate-incident-resolution-with-pagerduty-and-aws-devops-agent/"
+    },
+    {
         "title": "Production-Ready Autonomous Incident Resolution with AWS DevOps Agent (now GA) and Datadog MCP Server",
         "link": "https://aws.amazon.com/blogs/devops/production-ready-autonomous-incident-resolution-with-aws-devops-agent-now-ga-and-datadog-mcp-server/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Streamlining Cloud Compliance at GoDaddy Using CDK Aspects",
         "link": "https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/"
-    },
-    {
-        "title": "Securely connect AWS DevOps Agent to private services in your VPCs",
-        "link": "https://aws.amazon.com/blogs/devops/securely-connect-aws-devops-agent-to-private-services-in-your-vpcs/"
-    },
-    {
-        "title": "Leverage Agentic AI for Autonomous Incident Response with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/devops/leverage-agentic-ai-for-autonomous-incident-response-with-aws-devops-agent/"
-    },
-    {
-        "title": "Standardizing construct properties with AWS CDK Property Injection",
-        "link": "https://aws.amazon.com/blogs/devops/standardizing-construct-properties-with-aws-cdk-property-injection/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Log analysis with facets, correlation, enrichment, and automation in Amazon CloudWatch Log Analytics",
+        "link": "https://aws.amazon.com/blogs/mt/log-analysis-with-facets-correlation-enrichment-and-automation-in-amazon-cloudwatch-log-analytics/"
+    },
+    {
         "title": "Analyzing Claude Code usage with CloudWatch and OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/mt/analyzing-claude-code-usage-with-cloudwatch-and-opentelemetry/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simplify AWS Control Tower governance with enhanced AWS CloudFormation Hooks",
         "link": "https://aws.amazon.com/blogs/mt/simplify-aws-control-tower-governance-with-enhanced-aws-cloudformation-hooks/"
-    },
-    {
-        "title": "Deploying custom Terraform to LZA-Managed Accounts with AFT",
-        "link": "https://aws.amazon.com/blogs/mt/deploying-custom-terraform-to-lza-managed-accounts-with-aft/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "An incident response playbook for satellite operations on AWS (Part-1): Detection and forensic readiness",
+        "link": "https://aws.amazon.com/blogs/publicsector/an-incident-response-playbook-for-satellite-operations-on-aws-part-1-detection-and-forensic-readiness/"
+    },
+    {
+        "title": "An incident response playbook for satellite operations on AWS (Part-2): Automated response and recovery",
+        "link": "https://aws.amazon.com/blogs/publicsector/an-incident-response-playbook-for-satellite-operations-on-aws-part-2-automated-response-and-recovery/"
+    },
+    {
         "title": "Resilient public safety connectivity models in AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/resilient-public-safety-connectivity-models-in-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "What if swapping your weather model was boring? How dynamical.org is making AI weather forecasting accessible on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/what-if-swapping-your-weather-model-was-boring-how-dynamical-org-is-making-ai-weather-forecasting-accessible-on-aws/"
-    },
-    {
-        "title": "Introducing US-based, US citizen, 24/7 technical support for AWS GovCloud (US) customers: Your mission never sleeps, neither do we",
-        "link": "https://aws.amazon.com/blogs/publicsector/introducing-us-based-us-citizen-24-7-technical-support-for-aws-govcloud-us-customers-your-mission-never-sleeps-neither-do-we/"
-    },
-    {
-        "title": "A governance framework for building trustworthy agentic AI for public sector and regulated organizations",
-        "link": "https://aws.amazon.com/blogs/publicsector/a-governance-framework-for-building-trustworthy-agentic-ai-for-public-sector-and-regulated-organizations/"
     }
 ]

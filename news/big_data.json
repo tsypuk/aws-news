@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Private Networking for Amazon MQ for RabbitMQ",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-private-networking-for-amazon-mq-for-rabbitmq/"
+    },
+    {
         "title": "AI-assisted data development with Kiro and SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/ai-assisted-data-development-with-kiro-and-sagemaker-unified-studio/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Capture data lineage of Amazon EMR spark jobs into Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/capture-data-lineage-of-amazon-emr-spark-jobs-into-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "The next generation of Amazon OpenSearch Serverless: Built from the ground up for agents",
-        "link": "https://aws.amazon.com/blogs/big-data/the-next-generation-of-amazon-opensearch-serverless-built-from-the-ground-up-for-agents/"
     }
 ]
