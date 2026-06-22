@@ -1,5 +1,9 @@
 [
     {
+        "title": "Player profiles to leaderboards: Choosing the right AWS database, Part 1",
+        "link": "https://aws.amazon.com/blogs/gametech/player-profiles-to-leaderboards-choosing-the-right-aws-database-part-1/"
+    },
+    {
         "title": "How Lore rethinks binary asset storage on AWS",
         "link": "https://aws.amazon.com/blogs/gametech/how-lore-rethinks-binary-asset-storage-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Game developer\u2019s guide to Amazon DocumentDB Serverless",
         "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-documentdb-serverless/"
-    },
-    {
-        "title": "Inside the federated authentication system of Amazon Game Studios",
-        "link": "https://aws.amazon.com/blogs/gametech/inside-the-federated-authentication-system-of-amazon-game-studios/"
     }
 ]

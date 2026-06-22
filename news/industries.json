@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Multi-Agent AI Turns Supply Chain Data into Decisions and Actions",
+        "link": "https://aws.amazon.com/blogs/industries/how-multi-agent-ai-turns-supply-chain-data-into-decisions-and-actions/"
+    },
+    {
         "title": "\u200b\u200b\u200bDeploy Agentic Bidding Without Sacrificing Speed: ARTF Containers with NVIDIA GPU Acceleration on AWS\u200b\u200b",
         "link": "https://aws.amazon.com/blogs/industries/deploy-agentic-bidding-without-sacrificing-speed-artf-containers-with-nvidia-gpu-acceleration-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Ultra-low-latency cross-Region crypto trading with Avelacom and AWS",
         "link": "https://aws.amazon.com/blogs/industries/ultra-low-latency-cross-region-crypto-trading-with-avelacom-and-aws/"
-    },
-    {
-        "title": "Build an AI-powered 5G Signaling Trace Analyzer Using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/build-an-ai-powered-5g-signaling-trace-analyzer-using-amazon-bedrock/"
     }
 ]
