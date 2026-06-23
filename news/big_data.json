@@ -1,5 +1,17 @@
 [
     {
+        "title": "Why tombola chose Graviton-powered RG instances for Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/why-tombola-chose-graviton-powered-rg-instances-for-amazon-redshift/"
+    },
+    {
+        "title": "Detecting fraud patterns across Snowflake and AWS using SageMaker Data Agent",
+        "link": "https://aws.amazon.com/blogs/big-data/detecting-fraud-patterns-across-snowflake-and-aws-using-sagemaker-data-agent/"
+    },
+    {
+        "title": "Automating IT support with AI: How Nexthink uses OpenSearch Service to power self-service issue resolution",
+        "link": "https://aws.amazon.com/blogs/big-data/automating-it-support-with-ai-how-nexthink-uses-opensearch-service-to-power-self-service-issue-resolution/"
+    },
+    {
         "title": "Introducing Private Networking for Amazon MQ for RabbitMQ",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-private-networking-for-amazon-mq-for-rabbitmq/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Accelerate SQL development with SageMaker Data Agent in Query Editor",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-sql-development-with-sagemaker-data-agent-in-query-editor/"
-    },
-    {
-        "title": "Schedule notebook runs in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/schedule-notebook-runs-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Amazon OpenSearch Service: Mechanisms to secure your domain",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-mechanisms-to-secure-your-domain/"
-    },
-    {
-        "title": "Capture data lineage of Amazon EMR spark jobs into Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/capture-data-lineage-of-amazon-emr-spark-jobs-into-amazon-sagemaker-unified-studio/"
     }
 ]

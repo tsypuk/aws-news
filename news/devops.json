@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building and running custom code transformations without leaving your editor",
+        "link": "https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/"
+    },
+    {
         "title": "Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly",
         "link": "https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Troubleshooting environment with AI analysis in AWS Elastic Beanstalk",
         "link": "https://aws.amazon.com/blogs/devops/troubleshooting-environment-with-ai-analysis-in-aws-elastic-beanstalk/"
-    },
-    {
-        "title": "Streamlining Cloud Compliance at GoDaddy Using CDK Aspects",
-        "link": "https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/"
     }
 ]

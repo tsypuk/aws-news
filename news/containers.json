@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon EKS now supports control plane egress through your VPC",
+        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-control-plane-egress-through-your-vpc/"
+    },
+    {
         "title": "Better Together: Amazon EKS Auto Mode and Istio Ambient Mesh",
         "link": "https://aws.amazon.com/blogs/containers/better-together-amazon-eks-auto-mode-and-istio-ambient-mesh/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Gradual deployments in Amazon ECS with linear and canary strategies",
         "link": "https://aws.amazon.com/blogs/containers/gradual-deployments-in-amazon-ecs-with-linear-and-canary-strategies/"
-    },
-    {
-        "title": "Cross-Region disaster recovery for Amazon EKS using AWS Backup",
-        "link": "https://aws.amazon.com/blogs/containers/cross-region-disaster-recovery-for-amazon-eks-using-aws-backup/"
     }
 ]

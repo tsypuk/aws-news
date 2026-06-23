@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/"
+    },
+    {
+        "title": "Embed the world: Multimodal AI for searchable aerial imagery at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/"
+    },
+    {
+        "title": "Running ComfyUI workflows on Amazon SageMaker AI processing jobs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/"
+    },
+    {
         "title": "Introducing Web Search on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/"
-    },
-    {
-        "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
-        "link": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/"
-    },
-    {
-        "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
-        "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/"
-    },
-    {
-        "title": "Evaluate AI agents systematically with Agent-EvalKit",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/"
     }
 ]

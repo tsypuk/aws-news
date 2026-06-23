@@ -1,5 +1,17 @@
 [
     {
+        "title": "Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions",
+        "link": "https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions/"
+    },
+    {
+        "title": "Modernizing financial analytics with Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/architecture/modernizing-financial-analytics-with-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Architecting AI-powered resilience framework on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/architecting-ai-powered-resilience-framework-on-aws/"
+    },
+    {
         "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
         "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/"
-    },
-    {
-        "title": "PACIFIC enables multi-tenant, sovereign product carbon footprint exchange on the Catena-X data space using AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/pacific-enables-multi-tenant-sovereign-product-carbon-footprint-exchange-on-the-catena-x-data-space-using-aws/"
-    },
-    {
-        "title": "Real-time analytics: Oldcastle integrates Infor with Amazon Aurora and Amazon Quick Sight",
-        "link": "https://aws.amazon.com/blogs/architecture/real-time-analytics-oldcastle-integrates-infor-with-amazon-aurora-and-amazon-quick-sight/"
-    },
-    {
-        "title": "Build a multi-tenant configuration system with tagged storage patterns",
-        "link": "https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
+        "link": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/"
+    },
+    {
         "title": "Accelerate security investigations with Kiro CLI",
         "link": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating identity lifecycle and security with AWS Directory Service APIs",
         "link": "https://aws.amazon.com/blogs/security/automating-identity-lifecycle-and-security-with-aws-directory-service-apis/"
-    },
-    {
-        "title": "Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
-        "link": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
     }
 ]
