@@ -1,5 +1,9 @@
 [
     {
+        "title": "Faster nodes, smarter scaling: What\u2019s new inside Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/faster-nodes-smarter-scaling-whats-new-inside-amazon-elastic-kubernetes-service-amazon-eks-auto-mode/"
+    },
+    {
         "title": "Amazon EKS now supports control plane egress through your VPC",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-control-plane-egress-through-your-vpc/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Implement centralized observability for multi-account Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/implement-centralized-observability-for-multi-account-amazon-eks/"
-    },
-    {
-        "title": "Gradual deployments in Amazon ECS with linear and canary strategies",
-        "link": "https://aws.amazon.com/blogs/containers/gradual-deployments-in-amazon-ecs-with-linear-and-canary-strategies/"
     }
 ]

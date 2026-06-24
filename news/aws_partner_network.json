@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing AI-driven APIs on AWS with Wallarm",
+        "link": "https://aws.amazon.com/blogs/apn/securing-ai-driven-apis-on-aws-with-wallarm/"
+    },
+    {
         "title": "Automate security and observability with Elastic and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/automate-security-and-observability-with-elastic-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Generative AI using TiDB and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/generative-ai-using-tidb-and-amazon-bedrock/"
-    },
-    {
-        "title": "Announcing the Regional 2026 AWS Partners of the Year for Latin America",
-        "link": "https://aws.amazon.com/blogs/apn/announcing-the-regional-2026-aws-partners-of-the-year-for-latin-america/"
     }
 ]
