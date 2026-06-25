@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Atlantic Health cut legal document search time by 42% with Amazon Bedrock metadata filtering",
+        "link": "https://aws.amazon.com/blogs/industries/how-atlantic-health-cut-legal-document-search-time-by-42-with-amazon-bedrock-metadata-filtering/"
+    },
+    {
+        "title": "Edge-to-Cloud Architecture for Real-Time Surgical Intelligence with AWS and NVIDIA",
+        "link": "https://aws.amazon.com/blogs/industries/surgical-intelligence-engine-with-aws-and-nvidia-edge-to-cloud-technology-for-med-techs/"
+    },
+    {
+        "title": "Reimagining B-Pillar DFMEA: Why Ontology-Grounded AI Is the Future of Automotive Engineering",
+        "link": "https://aws.amazon.com/blogs/industries/reimagining-b-pillar-dfmea/"
+    },
+    {
         "title": "Transforming energy trading by managing complexity and driving growth with Cloud ETRM",
         "link": "https://aws.amazon.com/blogs/industries/transforming-energy-trading-by-managing-complexity-and-driving-growth-with-cloud-etrm/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Highlights from the 2026 AWS Life Sciences Symposium: MedTech Track",
         "link": "https://aws.amazon.com/blogs/industries/highlights-from-the-2026-aws-life-sciences-symposium-medtech-track/"
-    },
-    {
-        "title": "Multi-Agent Systems for Financial Services on Amazon EKS and AgentCore",
-        "link": "https://aws.amazon.com/blogs/industries/multi-agent-systems-for-financial-services-on-amazon-eks-and-agentcore/"
-    },
-    {
-        "title": "How AI can help developers migrate embedded codebases between Arm SoCs",
-        "link": "https://aws.amazon.com/blogs/industries/how-ai-can-help-developers-migrate-embedded-codebases-between-arm-socs/"
-    },
-    {
-        "title": "From Connected to Resilient: Cloud-Native Payment Connectivity on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/from-connected-to-resilient-cloud-native-payment-connectivity-on-aws/"
     }
 ]

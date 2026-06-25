@@ -1,5 +1,9 @@
 [
     {
+        "title": "Modernizing Lambda + S3 workloads with Amazon S3 Files",
+        "link": "https://aws.amazon.com/blogs/compute/modernizing-lambda-s3-workloads-with-amazon-s3-files/"
+    },
+    {
         "title": "Simplify AWS Outposts lifecycle management with new self-service capabilities",
         "link": "https://aws.amazon.com/blogs/compute/simplify-aws-outposts-lifecycle-management/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for Lambda durable functions using a fraud detection example",
         "link": "https://aws.amazon.com/blogs/compute/best-practices-for-lambda-durable-functions-using-a-fraud-detection-example/"
-    },
-    {
-        "title": "Testing Step Functions workflows: a guide to the enhanced TestState API",
-        "link": "https://aws.amazon.com/blogs/compute/testing-step-functions-workflows-a-guide-to-the-enhanced-teststate-api/"
     }
 ]

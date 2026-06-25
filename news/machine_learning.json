@@ -1,5 +1,21 @@
 [
     {
+        "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/"
+    },
+    {
+        "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/"
+    },
+    {
+        "title": "AI-powered BI with Snowflake and Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/"
+    },
+    {
+        "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/"
+    },
+    {
         "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Introducing Gemma 4 models on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/"
-    },
-    {
-        "title": "AI Agent Failure Detection and Root Cause Analysis with Strands Evals",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/"
-    },
-    {
-        "title": "Build context-rich research agents with Deep Agents and Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/"
-    },
-    {
-        "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/"
     }
 ]
