@@ -1,5 +1,25 @@
 [
     {
+        "title": "Retrofit, don\u2019t rebuild: Agentic overlays for transforming legacy enterprise services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/"
+    },
+    {
+        "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/"
+    },
+    {
+        "title": "Implementing super resolution by deploying SeedVR2 on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/"
+    },
+    {
+        "title": "Building agentic AI applications with a modern data mesh strategy on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/"
+    },
+    {
         "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Get back hours every day with autonomous agents in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/"
-    },
-    {
-        "title": "Context intelligence for your data and AI agents at scale",
-        "link": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/"
-    },
-    {
-        "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
-        "link": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/"
-    },
-    {
-        "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
-        "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/"
-    },
-    {
-        "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/"
-    },
-    {
-        "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/"
     }
 ]

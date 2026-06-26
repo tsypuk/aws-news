@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploying industrial AI on AWS: Building the autonomous factory",
+        "link": "https://aws.amazon.com/blogs/industries/deploying-industrial-ai-on-aws-building-the-autonomous-factory/"
+    },
+    {
         "title": "How Atlantic Health cut legal document search time by 42% with Amazon Bedrock metadata filtering",
         "link": "https://aws.amazon.com/blogs/industries/how-atlantic-health-cut-legal-document-search-time-by-42-with-amazon-bedrock-metadata-filtering/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Building a HIPAA-ready generative AI architecture for healthcare on AWS",
         "link": "https://aws.amazon.com/blogs/industries/building-a-hipaa-ready-generative-ai-architecture-for-healthcare-on-aws/"
-    },
-    {
-        "title": "Highlights from the 2026 AWS Life Sciences Symposium: MedTech Track",
-        "link": "https://aws.amazon.com/blogs/industries/highlights-from-the-2026-aws-life-sciences-symposium-medtech-track/"
     }
 ]

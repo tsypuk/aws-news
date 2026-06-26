@@ -1,5 +1,13 @@
 [
     {
+        "title": "Running pgvector in production on Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/running-pgvector-in-production-on-amazon-aurora-postgresql/"
+    },
+    {
+        "title": "Centralized traffic inspection for Oracle Database@AWS",
+        "link": "https://aws.amazon.com/blogs/database/centralized-traffic-inspection-for-oracle-databaseaws/"
+    },
+    {
         "title": "Build a Spring Boot REST API with Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/build-a-spring-boot-rest-api-with-amazon-aurora-dsql/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Oracle Database@AWS decoded: Determining the right fit for your Oracle workloads",
         "link": "https://aws.amazon.com/blogs/database/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads/"
-    },
-    {
-        "title": "Understanding how backups work in Amazon Aurora",
-        "link": "https://aws.amazon.com/blogs/database/understanding-how-backups-work-in-amazon-aurora/"
-    },
-    {
-        "title": "Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (Bloom, pg_trgm, and pg_bigm)",
-        "link": "https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-bloom-pg_trgm-and-pg_bigm/"
     }
 ]

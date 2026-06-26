@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extending NLB health checks for RADIUS using an Amazon ECS witness",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-nlb-health-checks-for-radius-using-an-amazon-ecs-witness/"
+    },
+    {
         "title": "VPC resource gateways: Implementation patterns and use cases",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-resource-gateways-implementation-patterns-and-use-cases/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Manage caches with precision using Amazon CloudFront Invalidation by Cache Tag",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/manage-caches-with-precision-using-amazon-cloudfront-invalidation-by-cache-tag/"
-    },
-    {
-        "title": "Selecting the Right AWS VPN Solution: A Decision Framework",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/selecting-the-right-aws-vpn-solution-a-decision-framework/"
     }
 ]

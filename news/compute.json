@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build reliable voice analytics workflows with AWS Lambda durable functions and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/compute/build-reliable-voice-analytics-workflows-with-aws-lambda-durable-functions-and-amazon-bedrock/"
+    },
+    {
+        "title": "Maximize Amazon EC2 Capacity Reservations with Capacity Manager data exports",
+        "link": "https://aws.amazon.com/blogs/compute/maximize-amazon-ec2-capacity-reservations-with-capacity-manager-data-exports/"
+    },
+    {
         "title": "Modernizing Lambda + S3 workloads with Amazon S3 Files",
         "link": "https://aws.amazon.com/blogs/compute/modernizing-lambda-s3-workloads-with-amazon-s3-files/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build high-performance apps with AWS Lambda Managed Instances",
         "link": "https://aws.amazon.com/blogs/compute/build-high-performance-apps-with-aws-lambda-managed-instances/"
-    },
-    {
-        "title": "Enhancing auto scaling resilience by tracking worker utilization metrics",
-        "link": "https://aws.amazon.com/blogs/compute/enhancing-auto-scaling-resilience-by-tracking-worker-utilization-metrics/"
-    },
-    {
-        "title": "Best practices for Lambda durable functions using a fraud detection example",
-        "link": "https://aws.amazon.com/blogs/compute/best-practices-for-lambda-durable-functions-using-a-fraud-detection-example/"
     }
 ]
