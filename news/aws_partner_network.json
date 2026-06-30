@@ -1,5 +1,9 @@
 [
     {
+        "title": "How DXC Technology upgraded Angular and .NET applications with Amazon Q Developer",
+        "link": "https://aws.amazon.com/blogs/apn/how-dxc-technology-upgraded-angular-and-net-applications-with-amazon-q-developer/"
+    },
+    {
         "title": "Securing AI-driven APIs on AWS with Wallarm",
         "link": "https://aws.amazon.com/blogs/apn/securing-ai-driven-apis-on-aws-with-wallarm/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accenture and AWS accelerate data transformation with agentic AI",
         "link": "https://aws.amazon.com/blogs/apn/accenture-and-aws-accelerate-data-transformation-with-agentic-ai/"
-    },
-    {
-        "title": "Generative AI using TiDB and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/apn/generative-ai-using-tidb-and-amazon-bedrock/"
     }
 ]

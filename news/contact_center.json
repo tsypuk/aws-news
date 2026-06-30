@@ -1,5 +1,17 @@
 [
     {
+        "title": "AI-powered virtual agents: Automating complex business processes",
+        "link": "https://aws.amazon.com/blogs/contact-center/ai-powered-virtual-agents-automating-complex-business-processes/"
+    },
+    {
+        "title": "Using Amazon Connect Customer Views to provide one-click customer voice messages when outbound calling",
+        "link": "https://aws.amazon.com/blogs/contact-center/using-amazon-connect-customer-views-to-provide-one-click-customer-voice-messages-when-outbound-calling/"
+    },
+    {
+        "title": "Implementing Responsible AI in Contact Centers with Connect AI Agents Guardrails",
+        "link": "https://aws.amazon.com/blogs/contact-center/implementing-responsible-ai-in-contact-centers-with-connect-ai-agents-guardrails/"
+    },
+    {
         "title": "Business user is the new architect of customer experience. No code required",
         "link": "https://aws.amazon.com/blogs/contact-center/business-user-is-the-new-architect-of-customer-experience/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Deliver hyper-personalized recommendations with AI agents in Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/deliver-hyper-personalized-recommendations-with-ai-agents-in-amazon-connect/"
-    },
-    {
-        "title": "How NatWest Simplified Contact Center Analytics with Amazon Connect Customer analytics data lake",
-        "link": "https://aws.amazon.com/blogs/contact-center/how-natwest-simplified-contact-center-analytics-with-amazon-connect-analytics-data-lake/"
-    },
-    {
-        "title": "Leading the conversation with conversational AI in Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/contact-center/leading-the-conversation-with-conversational-ai-in-amazon-connect/"
-    },
-    {
-        "title": "Create smarter contact center experiences with the Amazon Connect assistant",
-        "link": "https://aws.amazon.com/blogs/contact-center/create-smarter-contact-center-experiences-with-the-amazon-connect-assistant/"
     }
 ]

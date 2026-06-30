@@ -1,5 +1,17 @@
 [
     {
+        "title": "Announcing Valkey 9.1 for Amazon ElastiCache",
+        "link": "https://aws.amazon.com/blogs/database/announcing-valkey-9-1-for-amazon-elasticache/"
+    },
+    {
+        "title": "Building Financial Hierarchies with Amazon Neptune for Treasury Operations",
+        "link": "https://aws.amazon.com/blogs/database/building-financial-hierarchies-with-amazon-neptune-for-treasury-operations/"
+    },
+    {
+        "title": "How Securonix reduced cache costs by 20% with Amazon ElastiCache for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/how-securonix-reduced-cache-costs-by-20-with-amazon-elasticache-for-valkey/"
+    },
+    {
         "title": "Running pgvector in production on Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/running-pgvector-in-production-on-amazon-aurora-postgresql/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Announcing Amazon RDS for Db2 12.1 with additional community edition",
         "link": "https://aws.amazon.com/blogs/database/announcing-amazon-rds-for-db2-12-1-with-additional-community-edition/"
-    },
-    {
-        "title": "Automate Oracle PL/SQL to PostgreSQL migration with Amazon Bedrock and Strands Agents",
-        "link": "https://aws.amazon.com/blogs/database/automate-oracle-pl-sql-to-postgresql-migration-with-amazon-bedrock-and-strands-agents/"
-    },
-    {
-        "title": "Building Python applications with SQLAlchemy and Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/building-python-applications-with-sqlalchemy-and-aurora-dsql/"
-    },
-    {
-        "title": "Oracle Database@AWS decoded: Determining the right fit for your Oracle workloads",
-        "link": "https://aws.amazon.com/blogs/database/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Scale analytics with Amazon Redshift multi-warehouse enhancements",
+        "link": "https://aws.amazon.com/blogs/big-data/scale-analytics-with-amazon-redshift-multi-warehouse-enhancements/"
+    },
+    {
+        "title": "Amazon Redshift delivers faster performance for BI dashboards and real-time analytics",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-delivers-faster-performance-for-bi-dashboards-and-real-time-analytics/"
+    },
+    {
+        "title": "Optimize your Tableau integration with Amazon Redshift Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-your-tableau-integration-with-amazon-redshift-serverless/"
+    },
+    {
         "title": "Implement multi-tenant search with Amazon OpenSearch Serverless next generation",
         "link": "https://aws.amazon.com/blogs/big-data/implement-multi-tenant-search-with-amazon-opensearch-serverless-next-generation/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build stateful streaming applications with Apache Spark 4.0 on Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/build-stateful-streaming-applications-with-apache-spark-4-0-on-amazon-emr-serverless/"
-    },
-    {
-        "title": "Announcing general availability of Apache Spark 4.0 on Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/announcing-general-availability-of-apache-spark-4-0-on-amazon-emr/"
-    },
-    {
-        "title": "Unlock cost savings with incremental snapshot billing for Amazon Redshift Serverless and Amazon Redshift RG",
-        "link": "https://aws.amazon.com/blogs/big-data/unlock-cost-savings-with-incremental-snapshot-billing-for-amazon-redshift-serverless-and-amazon-redshift-rg/"
-    },
-    {
-        "title": "Migrate JMS applications to Amazon MQ for RabbitMQ with minimal changes",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-jms-applications-to-amazon-mq-for-rabbitmq-with-minimal-changes/"
     }
 ]

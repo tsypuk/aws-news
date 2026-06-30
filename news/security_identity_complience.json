@@ -1,5 +1,9 @@
 [
     {
+        "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
+        "link": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment/"
+    },
+    {
         "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
         "link": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Well-architected best practices for software supply chain security",
         "link": "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/"
-    },
-    {
-        "title": "AWS KY3P report now available for third-party supplier due diligence",
-        "link": "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence/"
     }
 ]

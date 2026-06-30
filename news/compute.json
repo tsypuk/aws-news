@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
+        "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/"
+    },
+    {
         "title": "Build reliable voice analytics workflows with AWS Lambda durable functions and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/compute/build-reliable-voice-analytics-workflows-with-aws-lambda-durable-functions-and-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate CPU-based AI inference workloads using Intel AMX on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/compute/accelerate-cpu-based-ai-inference-workloads-using-intel-amx-on-amazon-ec2/"
-    },
-    {
-        "title": "Build high-performance apps with AWS Lambda Managed Instances",
-        "link": "https://aws.amazon.com/blogs/compute/build-high-performance-apps-with-aws-lambda-managed-instances/"
     }
 ]

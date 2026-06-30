@@ -1,5 +1,17 @@
 [
     {
+        "title": "Lessons learned from scaling to 1 million Lambda functions",
+        "link": "https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/"
+    },
+    {
+        "title": "Preventing data exfiltration in machine learning environments with Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Dual-token authentication for Nakama game servers with Amazon Cognito on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws/"
+    },
+    {
         "title": "Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions",
         "link": "https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Building hybrid multi-tenant architecture for stateful services on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/building-hybrid-multi-tenant-architecture-for-stateful-services-on-aws/"
-    },
-    {
-        "title": "Choosing between single or multiple organizations in AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/architecture/choosing-between-single-or-multiple-organizations-in-aws-organizations/"
-    },
-    {
-        "title": "Deloitte optimizes EKS environment provisioning and achieves 89% faster testing environments using Amazon EKS and vCluster",
-        "link": "https://aws.amazon.com/blogs/architecture/deloitte-optimizes-eks-environment-provisioning-and-achieves-89-faster-testing-environments-using-amazon-eks-and-vcluster/"
-    },
-    {
-        "title": "Modernizing KYC with AWS serverless solutions and agentic AI for financial services",
-        "link": "https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/"
     }
 ]
