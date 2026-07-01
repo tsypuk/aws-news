@@ -1,5 +1,13 @@
 [
     {
+        "title": "Phased AWS Transit Gateway to AWS Cloud WAN Migration with Terraform and Network MCP Server",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/phased-aws-transit-gateway-to-aws-cloud-wan-migration-with-terraform-and-network-mcp-server/"
+    },
+    {
+        "title": "Intelligent VPN observability: Decoding AWS Site-to-Site VPN logs",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/intelligent-vpn-observability-decoding-aws-site-to-site-vpn-logs/"
+    },
+    {
         "title": "AWS Cloud WAN Routing Policy: Real-World Global Network Scenarios \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-routing-policy-real-world-global-network-scenarios-part-2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building production-ready DNS infrastructure with AWS CDK",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-production-ready-dns-infrastructure-with-aws-cdk/"
-    },
-    {
-        "title": "Enhanced security with DMZ architecture using Amazon VPC Block Public Access",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/enhanced-security-with-dmz-architecture-using-amazon-vpc-block-public-access/"
-    },
-    {
-        "title": "Tag-based invalidation in Amazon CloudFront",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/tag-based-invalidation-in-amazon-cloudfront/"
     }
 ]

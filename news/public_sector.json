@@ -1,5 +1,21 @@
 [
     {
+        "title": "AWS announces up to $1 billion in cloud credits to accelerate U.S. Intelligence Community modernization",
+        "link": "https://aws.amazon.com/blogs/publicsector/aws-announces-up-to-1-billion-in-cloud-credits-to-accelerate-u-s-intelligence-community-modernization/"
+    },
+    {
+        "title": "Accelerating autonomous system innovation with Project MAVERICK field testing",
+        "link": "https://aws.amazon.com/blogs/publicsector/accelerating-autonomous-system-innovation-with-project-maverick-field-testing/"
+    },
+    {
+        "title": "Delivering on the Promise of OneGov: Federal Agencies Modernize with OneGov \u2014 and AWS Expands its Program to ISV Partners",
+        "link": "https://aws.amazon.com/blogs/publicsector/delivering-on-the-promise-of-onegov-federal-agencies-modernize-with-onegov-and-aws-expands-its-program-to-isv-partners/"
+    },
+    {
+        "title": "From Lab to Bedside: Five Years of AI-Powered Health Breakthroughs and What Comes Next",
+        "link": "https://aws.amazon.com/blogs/publicsector/from-lab-to-bedside-five-years-of-ai-powered-health-breakthroughs-and-what-comes-next/"
+    },
+    {
         "title": "5 pillars to stabilize your AI product development strategy",
         "link": "https://aws.amazon.com/blogs/publicsector/5-pillars-to-stabilize-your-ai-product-development-strategy/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "An incident response playbook for satellite operations on AWS (Part-1): Detection and forensic readiness",
         "link": "https://aws.amazon.com/blogs/publicsector/an-incident-response-playbook-for-satellite-operations-on-aws-part-1-detection-and-forensic-readiness/"
-    },
-    {
-        "title": "An incident response playbook for satellite operations on AWS (Part-2): Automated response and recovery",
-        "link": "https://aws.amazon.com/blogs/publicsector/an-incident-response-playbook-for-satellite-operations-on-aws-part-2-automated-response-and-recovery/"
-    },
-    {
-        "title": "Resilient public safety connectivity models in AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/resilient-public-safety-connectivity-models-in-aws/"
-    },
-    {
-        "title": "Prepare for your GovRAMP Progressing Snapshot with AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/prepare-for-your-govramp-progressing-snapshot-with-aws/"
-    },
-    {
-        "title": "Solving federal log retention requirements with AWS account-level subscription filters",
-        "link": "https://aws.amazon.com/blogs/publicsector/solving-federal-log-retention-requirements-with-aws-account-level-subscription-filters/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Enable self-managed AD Kerberos authentication with Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/enable-self-managed-ad-kerberos-authentication-with-amazon-rds-for-db2/"
+    },
+    {
+        "title": "Manage long-running transactions for AWS DMS performance",
+        "link": "https://aws.amazon.com/blogs/database/manage-long-running-transactions-for-aws-dms-performance/"
+    },
+    {
+        "title": "User authentication and session management with Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/user-authentication-and-session-management-with-amazon-aurora-dsql/"
+    },
+    {
         "title": "Announcing Valkey 9.1 for Amazon ElastiCache",
         "link": "https://aws.amazon.com/blogs/database/announcing-valkey-9-1-for-amazon-elasticache/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Avoid shared database accounts with federated IAM authentication",
         "link": "https://aws.amazon.com/blogs/database/avoid-shared-database-accounts-with-federated-iam-authentication/"
-    },
-    {
-        "title": "Building type-safe applications with Drizzle ORM in Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/building-type-safe-applications-with-drizzle-orm-in-aurora-dsql/"
-    },
-    {
-        "title": "Pagination patterns in Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/pagination-patterns-in-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Announcing Amazon RDS for Db2 12.1 with additional community edition",
-        "link": "https://aws.amazon.com/blogs/database/announcing-amazon-rds-for-db2-12-1-with-additional-community-edition/"
     }
 ]
