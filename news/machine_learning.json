@@ -1,5 +1,33 @@
 [
     {
+        "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/"
+    },
+    {
+        "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/"
+    },
+    {
+        "title": "Structured memory filtering with metadata in AgentCore Memory",
+        "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/"
+    },
+    {
+        "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+        "link": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/"
+    },
+    {
+        "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/"
+    },
+    {
+        "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/"
+    },
+    {
+        "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Safely Releasing Frontier Models to Customers",
         "link": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Debugging production agents with Amazon Bedrock AgentCore Observability",
         "link": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/"
-    },
-    {
-        "title": "Build interactive PDF text extraction from Amazon S3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/"
-    },
-    {
-        "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/"
-    },
-    {
-        "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
-        "link": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/"
-    },
-    {
-        "title": "Retrofit, don\u2019t rebuild: Agentic overlays for transforming legacy enterprise services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/"
-    },
-    {
-        "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/"
-    },
-    {
-        "title": "Implementing super resolution by deploying SeedVR2 on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/"
     }
 ]

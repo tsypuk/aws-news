@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect/"
+    },
+    {
+        "title": "Announcing Amazon EKS Rollback for safe and reliable management of cluster upgrades",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades/"
+    },
+    {
         "title": "Faster nodes, smarter scaling: What\u2019s new inside Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/faster-nodes-smarter-scaling-whats-new-inside-amazon-elastic-kubernetes-service-amazon-eks-auto-mode/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Maximizing value with Amazon EKS Auto Mode: Strategies for visibility, control, and optimization",
         "link": "https://aws.amazon.com/blogs/containers/maximizing-value-with-amazon-eks-auto-mode-strategies-for-visibility-control-and-optimization/"
-    },
-    {
-        "title": "Back up and restore your Amazon EKS cluster resources using Velero",
-        "link": "https://aws.amazon.com/blogs/containers/back-up-and-restore-your-amazon-eks-cluster-resources-using-velero/"
-    },
-    {
-        "title": "Implement centralized observability for multi-account Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/implement-centralized-observability-for-multi-account-amazon-eks/"
     }
 ]

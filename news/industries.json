@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce P&ID analysis time by 80% with hybrid AI maintenance planning",
+        "link": "https://aws.amazon.com/blogs/industries/reduce-pid-analysis-time-by-80-with-hybrid-ai-maintenance-planning/"
+    },
+    {
         "title": "Deploying industrial AI on AWS: Building the autonomous factory",
         "link": "https://aws.amazon.com/blogs/industries/deploying-industrial-ai-on-aws-building-the-autonomous-factory/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Flexible Telecom AI Workload Deployment Across AWS Hybrid Cloud",
         "link": "https://aws.amazon.com/blogs/industries/flexible-telecom-ai-workload-deployment-across-aws-hybrid-cloud/"
-    },
-    {
-        "title": "Building a HIPAA-ready generative AI architecture for healthcare on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/building-a-hipaa-ready-generative-ai-architecture-for-healthcare-on-aws/"
     }
 ]

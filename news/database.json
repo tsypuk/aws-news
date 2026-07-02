@@ -1,5 +1,13 @@
 [
     {
+        "title": "Cross-account and cross-Region monitoring for Amazon RDS and Aurora with Database Insights",
+        "link": "https://aws.amazon.com/blogs/database/cross-account-and-cross-region-monitoring-for-amazon-rds-and-aurora-with-database-insights/"
+    },
+    {
+        "title": "Amazon RDS log analysis: natural language queries with Kiro and MCP",
+        "link": "https://aws.amazon.com/blogs/database/amazon-rds-log-analysis-natural-language-queries-with-kiro-and-mcp/"
+    },
+    {
         "title": "Enable self-managed AD Kerberos authentication with Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/enable-self-managed-ad-kerberos-authentication-with-amazon-rds-for-db2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate Amazon Aurora PostgreSQL major or minor version upgrade using AWS Systems Manager and Amazon EC2",
         "link": "https://aws.amazon.com/blogs/database/automate-amazon-aurora-postgresql-major-or-minor-version-upgrade-using-aws-systems-manager-and-amazon-ec2/"
-    },
-    {
-        "title": "How to migrate from Oracle to Amazon Aurora PostgreSQL using AWS CloudFormation (Part 1)",
-        "link": "https://aws.amazon.com/blogs/database/how-to-migrate-from-oracle-to-amazon-aurora-postgresql-using-aws-cloudformation-part-1/"
-    },
-    {
-        "title": "Avoid shared database accounts with federated IAM authentication",
-        "link": "https://aws.amazon.com/blogs/database/avoid-shared-database-accounts-with-federated-iam-authentication/"
     }
 ]
