@@ -1,5 +1,21 @@
 [
     {
+        "title": "Accelerating log analytics at scale with AWS Glue and Apache Iceberg materialized views",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerating-log-analytics-at-scale-with-aws-glue-and-apache-iceberg-materialized-views/"
+    },
+    {
+        "title": "Serverless analytics pipelines using the Apache Spark engine in Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/serverless-analytics-pipelines-using-the-apache-spark-engine-in-amazon-athena/"
+    },
+    {
+        "title": "Deploy modern data platforms in minutes with MDAA",
+        "link": "https://aws.amazon.com/blogs/big-data/deploy-modern-data-platforms-in-minutes-with-mdaa/"
+    },
+    {
+        "title": "Amazon Redshift RG: Faster and lower cost, Graviton-powered",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-rg-faster-and-lower-cost-graviton-powered/"
+    },
+    {
         "title": "Run log analytics for a fraction of the cost with the new engine for Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/run-log-analytics-for-a-fraction-of-the-cost-with-the-new-engine-for-amazon-opensearch-service/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/building-ai-shopping-agent-using-amazon-bedrock-agentcore-runtime-and-amazon-opensearch-service/"
-    },
-    {
-        "title": "Choosing the right workflow orchestration service for your use case: Amazon MWAA and AWS Step Functions",
-        "link": "https://aws.amazon.com/blogs/big-data/choosing-the-right-workflow-orchestration-service-for-your-use-case-amazon-mwaa-and-aws-step-functions/"
-    },
-    {
-        "title": "Real-time CDC from Aurora PostgreSQL to Amazon S3 Tables using Debezium and Firehose",
-        "link": "https://aws.amazon.com/blogs/big-data/real-time-cdc-from-aurora-postgresql-to-amazon-s3-tables-using-debezium-and-firehose/"
-    },
-    {
-        "title": "Beyond JSON blobs: Implementing the VARIANT data type in Apache Iceberg V3",
-        "link": "https://aws.amazon.com/blogs/big-data/beyond-json-blobs-implementing-the-variant-data-type-in-apache-iceberg-v3/"
-    },
-    {
-        "title": "Upgrade PySpark from Spark 3.5 to Spark 4.0 with AWS Spark Upgrade Agent",
-        "link": "https://aws.amazon.com/blogs/big-data/upgrade-pyspark-from-spark-3-5-to-spark-4-0-with-aws-spark-upgrade-agent/"
     }
 ]
