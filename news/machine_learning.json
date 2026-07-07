@@ -1,5 +1,29 @@
 [
     {
+        "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/"
+    },
+    {
+        "title": "Teaching models to forget: Selective unlearning with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/"
+    },
+    {
+        "title": "Run MiniMax models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Automatically redact PII in images with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/"
+    },
+    {
+        "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/"
+    },
+    {
         "title": "How Amazon Bedrock catches AI-generated phishing",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway",
         "link": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/"
-    },
-    {
-        "title": "How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/"
-    },
-    {
-        "title": "Building bilingual NER for cargo logistics with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/"
-    },
-    {
-        "title": "Fine-tune Amazon Nova models for accurate email data extraction",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/"
-    },
-    {
-        "title": "Implement a backup strategy for Amazon Quick Sight BI assets",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/"
-    },
-    {
-        "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/"
-    },
-    {
-        "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Dynata\u2019s journey to lower TCO and faster modernization with AWS Database Savings Plans",
+        "link": "https://aws.amazon.com/blogs/database/dynatas-journey-to-lower-tco-and-faster-modernization-with-aws-database-savings-plans/"
+    },
+    {
         "title": "Data masking in Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/data-masking-in-amazon-rds-for-oracle/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Similarweb\u2019s migration from HBase to Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/similarwebs-migration-from-hbase-to-amazon-dynamodb/"
-    },
-    {
-        "title": "Improve query performance with EXPLAIN plans in Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/improve-query-performance-with-explain-plans-in-amazon-aurora-dsql/"
     }
 ]

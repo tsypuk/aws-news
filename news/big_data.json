@@ -1,5 +1,9 @@
 [
     {
+        "title": "How BigBasket uses the Iceberg based lakehouse architecture on AWS to power lightning-fast grocery delivery across India",
+        "link": "https://aws.amazon.com/blogs/big-data/how-bigbasket-uses-the-iceberg-based-lakehouse-architecture-on-aws-to-power-lightning-fast-grocery-delivery-across-india/"
+    },
+    {
         "title": "Accelerating log analytics at scale with AWS Glue and Apache Iceberg materialized views",
         "link": "https://aws.amazon.com/blogs/big-data/accelerating-log-analytics-at-scale-with-aws-glue-and-apache-iceberg-materialized-views/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Access Amazon S3 data files directly using AWS Lake Formation permissions",
         "link": "https://aws.amazon.com/blogs/big-data/access-amazon-s3-data-files-directly-using-aws-lake-formation-permissions/"
-    },
-    {
-        "title": "Building AI shopping agent using Amazon Bedrock AgentCore Runtime and Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/building-ai-shopping-agent-using-amazon-bedrock-agentcore-runtime-and-amazon-opensearch-service/"
     }
 ]

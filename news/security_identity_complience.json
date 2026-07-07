@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
+        "link": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/"
+    },
+    {
         "title": "Secure Amazon container workloads using container attribute-based rules in AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/secure-amazon-container-workloads-using-container-attribute-based-rules-in-aws-network-firewall/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/"
-    },
-    {
-        "title": "Simplifying policy management with URL and Domain Category filtering on AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall/"
     }
 ]

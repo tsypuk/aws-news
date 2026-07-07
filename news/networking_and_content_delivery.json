@@ -1,5 +1,9 @@
 [
     {
+        "title": "How IAG accelerated service-to-service communication with Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-iag-accelerated-service-to-service-communication-with-amazon-vpc-lattice/"
+    },
+    {
         "title": "Phased AWS Transit Gateway to AWS Cloud WAN Migration with Terraform and Network MCP Server",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/phased-aws-transit-gateway-to-aws-cloud-wan-migration-with-terraform-and-network-mcp-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate from Static Routing to Dynamic BGP Routing on AWS Site-to-Site VPN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-from-static-routing-to-dynamic-bgp-routing-on-aws-site-to-site-vpn/"
-    },
-    {
-        "title": "Building production-ready DNS infrastructure with AWS CDK",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-production-ready-dns-infrastructure-with-aws-cdk/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Uncover new performance insights using Amazon detailed performance statistics on Windows",
+        "link": "https://aws.amazon.com/blogs/compute/uncover-new-performance-insights-using-amazon-detailed-performance-statistics-on-windows/"
+    },
+    {
         "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
         "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building Memory-Intensive Apps with AWS Lambda Managed Instances",
         "link": "https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/"
-    },
-    {
-        "title": "Accelerate CPU-based AI inference workloads using Intel AMX on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/compute/accelerate-cpu-based-ai-inference-workloads-using-intel-amx-on-amazon-ec2/"
     }
 ]
