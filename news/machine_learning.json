@@ -1,5 +1,41 @@
 [
     {
+        "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/"
+    },
+    {
+        "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
+        "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/"
+    },
+    {
+        "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
+        "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/"
+    },
+    {
+        "title": "Multi-dataset Topic best practices for Amazon Quick Chat",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/"
+    },
+    {
+        "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/"
+    },
+    {
+        "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-image-editing-agent-with-amazon-bedrock-agentcore-harness/"
+    },
+    {
+        "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-discriminative-ml-models-using-amazon-sagemaker-ai-with-mlflow/"
+    },
+    {
+        "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-aws-support-companion-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-finance-teams-reclaimed-hundreds-of-hours-with-amazon-quick/"
+    },
+    {
         "title": "From Hugging Face to Amazon SageMaker Studio in one click",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/"
     },
@@ -42,41 +78,5 @@
     {
         "title": "Structured memory filtering with metadata in AgentCore Memory",
         "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/"
-    },
-    {
-        "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
-        "link": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/"
-    },
-    {
-        "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/"
-    },
-    {
-        "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/"
-    },
-    {
-        "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Safely Releasing Frontier Models to Customers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/"
-    },
-    {
-        "title": "Introducing Claude Sonnet 5 on AWS: Anthropic\u2019s most capable Sonnet model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/"
-    },
-    {
-        "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/"
-    },
-    {
-        "title": "Simplify multi-account access to Amazon Bedrock models with managed entitlements",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/"
-    },
-    {
-        "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/"
     }
 ]

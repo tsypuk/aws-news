@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Apache Spark Connect support in AWS Glue interactive sessions",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-connect-support-in-aws-glue-interactive-sessions/"
+    },
+    {
         "title": "How BigBasket uses the Iceberg based lakehouse architecture on AWS to power lightning-fast grocery delivery across India",
         "link": "https://aws.amazon.com/blogs/big-data/how-bigbasket-uses-the-iceberg-based-lakehouse-architecture-on-aws-to-power-lightning-fast-grocery-delivery-across-india/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Modernize Amazon Redshift: RA3 to RG Migration best practices",
         "link": "https://aws.amazon.com/blogs/big-data/modernize-amazon-redshift-ra3-to-rg-migration-best-practices/"
-    },
-    {
-        "title": "Access Amazon S3 data files directly using AWS Lake Formation permissions",
-        "link": "https://aws.amazon.com/blogs/big-data/access-amazon-s3-data-files-directly-using-aws-lake-formation-permissions/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Intelligent failover using AWS Lambda@Edge and Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/intelligent-failover-using-aws-lambdaedge-and-amazon-dynamodb/"
+    },
+    {
         "title": "How IAG accelerated service-to-service communication with Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-iag-accelerated-service-to-service-communication-with-amazon-vpc-lattice/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Network connectivity patterns for agents deployed on Amazon Bedrock AgentCore Runtime",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/network-connectivity-patterns-for-agents-deployed-on-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "Migrate from Static Routing to Dynamic BGP Routing on AWS Site-to-Site VPN",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/migrate-from-static-routing-to-dynamic-bgp-routing-on-aws-site-to-site-vpn/"
     }
 ]

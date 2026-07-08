@@ -1,5 +1,9 @@
 [
     {
+        "title": "Enforce zero data retention on Amazon Bedrock with Bedrock Projects and service control policies",
+        "link": "https://aws.amazon.com/blogs/security/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/"
+    },
+    {
         "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
         "link": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
         "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope/"
-    },
-    {
-        "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/"
     }
 ]

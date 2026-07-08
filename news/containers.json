@@ -1,5 +1,9 @@
 [
     {
+        "title": "Full request and response compliance logging on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/full-request-and-response-compliance-logging-on-amazon-eks/"
+    },
+    {
         "title": "Diagnose Kubernetes Control Plane Performance Issues with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/containers/diagnose-kubernetes-control-plane-performance-issues-with-aws-devops-agent/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Simplify AI infrastructure for AWS Trainium and Elastic Fabric Adapter with Kubernetes Dynamic Resource Allocation",
         "link": "https://aws.amazon.com/blogs/containers/simplify-ai-infrastructure-for-aws-trainium-and-elastic-fabric-adapter-with-kubernetes-dynamic-resource-allocation/"
-    },
-    {
-        "title": "Maximizing value with Amazon EKS Auto Mode: Strategies for visibility, control, and optimization",
-        "link": "https://aws.amazon.com/blogs/containers/maximizing-value-with-amazon-eks-auto-mode-strategies-for-visibility-control-and-optimization/"
     }
 ]
