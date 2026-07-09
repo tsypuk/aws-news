@@ -1,5 +1,9 @@
 [
     {
+        "title": "Fail back from Amazon RDS for Db2 to on-premises AIX Db2 using DMS",
+        "link": "https://aws.amazon.com/blogs/database/fail-back-from-amazon-rds-for-db2-to-on-premises-aix-db2-using-dms/"
+    },
+    {
         "title": "Logical replication improvements in Amazon RDS for PostgreSQL 18",
         "link": "https://aws.amazon.com/blogs/database/logical-replication-improvements-in-amazon-rds-for-postgresql-18/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "PostgreSQL 18 on Amazon Aurora and Amazon RDS: Security, monitoring, and developer enhancements",
         "link": "https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-security-monitoring-and-developer-enhancements/"
-    },
-    {
-        "title": "Deep dive into Amazon Aurora PostgreSQL lock analysis with CloudWatch Database Insights",
-        "link": "https://aws.amazon.com/blogs/database/deep-dive-into-amazon-aurora-postgresql-lock-analysis-with-cloudwatch-database-insights/"
     }
 ]

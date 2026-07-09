@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cut costs and simplify operations with writable warm storage in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/cut-costs-and-simplify-operations-with-writable-warm-storage-in-amazon-opensearch-service/"
+    },
+    {
         "title": "Introducing Apache Spark Connect support in AWS Glue interactive sessions",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-connect-support-in-aws-glue-interactive-sessions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AI-assisted data development with Kiro and SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/ai-assisted-data-development-with-kiro-and-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Modernize Amazon Redshift: RA3 to RG Migration best practices",
-        "link": "https://aws.amazon.com/blogs/big-data/modernize-amazon-redshift-ra3-to-rg-migration-best-practices/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate multiplayer game hosting with AWS m8azn instances",
+        "link": "https://aws.amazon.com/blogs/compute/accelerate-multiplayer-game-hosting-with-aws-m8azn-instances/"
+    },
+    {
         "title": "Uncover new performance insights using Amazon detailed performance statistics on Windows",
         "link": "https://aws.amazon.com/blogs/compute/uncover-new-performance-insights-using-amazon-detailed-performance-statistics-on-windows/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Outposts monitoring and reporting: A comprehensive Amazon EventBridge solution",
         "link": "https://aws.amazon.com/blogs/compute/aws-outposts-monitoring-and-reporting-a-comprehensive-amazon-eventbridge-solution/"
-    },
-    {
-        "title": "Building Memory-Intensive Apps with AWS Lambda Managed Instances",
-        "link": "https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/"
     }
 ]

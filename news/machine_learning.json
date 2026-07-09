@@ -1,5 +1,29 @@
 [
     {
+        "title": "Introducing Claude apps gateway for AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/"
+    },
+    {
+        "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
+        "link": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/"
+    },
+    {
+        "title": "Automatically sort and prioritize your mailboxes by using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/"
+    },
+    {
+        "title": "Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/"
+    },
+    {
+        "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/"
+    },
+    {
+        "title": "Manage AI applications on Mac with Jamf\u2019s AI Governance and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/"
+    },
+    {
         "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Automatically redact PII in images with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/"
-    },
-    {
-        "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Amazon Bedrock catches AI-generated phishing",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/"
-    },
-    {
-        "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/"
-    },
-    {
-        "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/"
-    },
-    {
-        "title": "Structured memory filtering with metadata in AgentCore Memory",
-        "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
+        "link": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/"
+    },
+    {
+        "title": "The CISO\u2019s guide to post-quantum mandates and migrations",
+        "link": "https://aws.amazon.com/blogs/security/the-cisos-guide-to-post-quantum-mandates-and-migrations/"
+    },
+    {
         "title": "Enforce zero data retention on Amazon Bedrock with Bedrock Projects and service control policies",
         "link": "https://aws.amazon.com/blogs/security/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
         "link": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/"
-    },
-    {
-        "title": "Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies",
-        "link": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/"
-    },
-    {
-        "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope/"
     }
 ]

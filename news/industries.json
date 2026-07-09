@@ -1,5 +1,17 @@
 [
     {
+        "title": "Scaling ML in production: how BBVA accelerated delivery with MLOps",
+        "link": "https://aws.amazon.com/blogs/industries/scaling-ml-in-production-how-bbva-accelerated-delivery-with-mlops/"
+    },
+    {
+        "title": "Inside BBVA\u2019s MLOps transformation: from data platform to scalable ML on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/inside-bbvas-mlops-transformation-from-data-platform-to-scalable-ml-on-aws/"
+    },
+    {
+        "title": "Accelerate RISC-V Software Development Before Silicon: Virtual Prototyping with MachineWare\u2019s SIM-V on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/accelerate-risc-v-software-development-before-silicon-virtual-prototyping-with-machinewares-sim-v-on-aws/"
+    },
+    {
         "title": "How retailers deliver hyper-personalization in-store with Personalisation Hub, UST, and AWS",
         "link": "https://aws.amazon.com/blogs/industries/how-retailers-deliver-hyper-personalization-in-store-with-personalisation-hub-ust-and-aws/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Edge-to-Cloud Architecture for Real-Time Surgical Intelligence with AWS and NVIDIA",
         "link": "https://aws.amazon.com/blogs/industries/surgical-intelligence-engine-with-aws-and-nvidia-edge-to-cloud-technology-for-med-techs/"
-    },
-    {
-        "title": "Reimagining B-Pillar DFMEA: Why Ontology-Grounded AI Is the Future of Automotive Engineering",
-        "link": "https://aws.amazon.com/blogs/industries/reimagining-b-pillar-dfmea/"
-    },
-    {
-        "title": "Transforming energy trading by managing complexity and driving growth with Cloud ETRM",
-        "link": "https://aws.amazon.com/blogs/industries/transforming-energy-trading-by-managing-complexity-and-driving-growth-with-cloud-etrm/"
-    },
-    {
-        "title": "How Multi-Agent AI Turns Supply Chain Data into Decisions and Actions",
-        "link": "https://aws.amazon.com/blogs/industries/how-multi-agent-ai-turns-supply-chain-data-into-decisions-and-actions/"
     }
 ]
