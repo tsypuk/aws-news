@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Stratasys built an IoT platform for industrial 3D printers with AWS IoT",
+        "link": "https://aws.amazon.com/blogs/iot/how-stratasys-built-an-iot-platform-for-industrial-3d-printers-with-aws-iot/"
+    },
+    {
         "title": "Introducing AWS IoT Core\u2019s Direct Messaging: Lower-cost server-to-device communication with better observability",
         "link": "https://aws.amazon.com/blogs/iot/introducing-aws-iot-cores-direct-messaging-lower-cost-server-to-device-communication-with-better-observability/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS IoT Greengrass nucleus lite \u2013 Revolutionizing edge computing on resource-constrained devices",
         "link": "https://aws.amazon.com/blogs/iot/aws-iot-greengrass-nucleus-lite-revolutionizing-edge-computing-on-resource-constrained-devices/"
-    },
-    {
-        "title": "Managed integrations for AWS IoT Device Management is now generally available \u2013 Connect, unify, and elevate customer experiences",
-        "link": "https://aws.amazon.com/blogs/iot/introducing-managed-integrations-for-aws-iot-device-management/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How NatWest built multi-region resilience with Amazon Connect Customer",
+        "link": "https://aws.amazon.com/blogs/contact-center/how-natwest-built-multi-region-resilience-with-amazon-connect-customer/"
+    },
+    {
         "title": "How Siemens handles 90% of calls autonomously with Amazon Connect Customer AI Agents",
         "link": "https://aws.amazon.com/blogs/contact-center/how-siemens-handles-90-of-calls-autonomously-with-amazon-connect-customer-ai-agents/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Prepare Your Contact Center Teams for Migration to Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/prepare-your-contact-center-teams-for-migration-to-amazon-connect/"
-    },
-    {
-        "title": "Customer experience predictions from industry prognosticators",
-        "link": "https://aws.amazon.com/blogs/contact-center/customer-experience-predictions-from-industry-prognosticators/"
     }
 ]

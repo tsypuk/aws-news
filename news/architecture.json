@@ -1,5 +1,9 @@
 [
     {
+        "title": "Specification-driven composition for flexible data workflows",
+        "link": "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows/"
+    },
+    {
         "title": "S&P Global\u2019s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots",
         "link": "https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances",
         "link": "https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances/"
-    },
-    {
-        "title": "Streaming CloudWatch metrics to VPC-based OpenTelemetry collectors using Lambda",
-        "link": "https://aws.amazon.com/blogs/architecture/streaming-cloudwatch-metrics-to-vpc-based-opentelemetry-collectors-using-lambda/"
     }
 ]

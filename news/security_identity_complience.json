@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing OAuth Support for AWS MCP Server",
+        "link": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/"
+    },
+    {
         "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
         "link": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Customize federated sign-in with new Amazon Cognito Lambda trigger",
         "link": "https://aws.amazon.com/blogs/security/customize-federated-sign-in-with-new-amazon-cognito-lambda-trigger/"
-    },
-    {
-        "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
-        "link": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/"
     }
 ]

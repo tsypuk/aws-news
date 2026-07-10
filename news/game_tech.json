@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building an AI game testing agent with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/gametech/building-an-ai-game-testing-agent-with-amazon-bedrock/"
+    },
+    {
         "title": "Player profiles to leaderboards: Choosing the right AWS database, Part 1",
         "link": "https://aws.amazon.com/blogs/gametech/player-profiles-to-leaderboards-choosing-the-right-aws-database-part-1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS for Games powers up for AWS re:Invent 2025",
         "link": "https://aws.amazon.com/blogs/gametech/aws-for-games-powers-up-for-aws-reinvent-2025/"
-    },
-    {
-        "title": "Game developer\u2019s guide to Amazon DocumentDB Serverless",
-        "link": "https://aws.amazon.com/blogs/gametech/game-developers-guide-to-amazon-documentdb-serverless/"
     }
 ]

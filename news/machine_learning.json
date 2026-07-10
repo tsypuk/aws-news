@@ -1,5 +1,13 @@
 [
     {
+        "title": "MCP tool design: Practical approaches and tradeoffs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/"
+    },
+    {
+        "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/"
+    },
+    {
         "title": "Introducing Claude apps gateway for AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Run MiniMax models on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/"
-    },
-    {
-        "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Automatically redact PII in images with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/"
     }
 ]
