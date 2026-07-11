@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS designated as a critical third party to the UK financial sector",
+        "link": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/"
+    },
+    {
         "title": "Introducing OAuth Support for AWS MCP Server",
         "link": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gain visibility into DDoS attacks with flow logs in AWS Shield Advanced",
         "link": "https://aws.amazon.com/blogs/security/gain-visibility-into-ddos-attacks-with-flow-logs-in-aws-shield-advanced/"
-    },
-    {
-        "title": "Customize federated sign-in with new Amazon Cognito Lambda trigger",
-        "link": "https://aws.amazon.com/blogs/security/customize-federated-sign-in-with-new-amazon-cognito-lambda-trigger/"
     }
 ]

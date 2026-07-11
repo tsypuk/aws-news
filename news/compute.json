@@ -1,5 +1,17 @@
 [
     {
+        "title": "Architecting for IOPS and throughput performance on AWS Outposts racks",
+        "link": "https://aws.amazon.com/blogs/compute/architecting-for-iops-and-throughput-performance-on-aws-outposts-racks/"
+    },
+    {
+        "title": "Announcing Lambda MicroVMs: serverless compute environments with VM-level isolation and near-instant startup",
+        "link": "https://aws.amazon.com/blogs/compute/announcing-lambda-microvms-serverless-compute-environments-with-vm-level-isolation-and-near-instant-startup/"
+    },
+    {
+        "title": "Secure code execution for AI agents with AWS Lambda MicroVMs",
+        "link": "https://aws.amazon.com/blogs/compute/secure-code-execution-for-ai-agents-with-aws-lambda-microvms/"
+    },
+    {
         "title": "Accelerate multiplayer game hosting with AWS m8azn instances",
         "link": "https://aws.amazon.com/blogs/compute/accelerate-multiplayer-game-hosting-with-aws-m8azn-instances/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Sharing Capacity Blocks for ML Across Your AWS Organization",
         "link": "https://aws.amazon.com/blogs/compute/sharing-capacity-blocks-for-ml-across-your-aws-organization/"
-    },
-    {
-        "title": "Enhancing network observability with new AWS Outposts racks LAG metrics",
-        "link": "https://aws.amazon.com/blogs/compute/enhancing-network-observability-with-new-aws-outposts-racks-lag-metrics/"
-    },
-    {
-        "title": "Serverless ICYMI Q1 2026",
-        "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2026/"
-    },
-    {
-        "title": "AWS Outposts monitoring and reporting: A comprehensive Amazon EventBridge solution",
-        "link": "https://aws.amazon.com/blogs/compute/aws-outposts-monitoring-and-reporting-a-comprehensive-amazon-eventbridge-solution/"
     }
 ]
