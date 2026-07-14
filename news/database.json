@@ -1,5 +1,13 @@
 [
     {
+        "title": "Rebuild large indexes on Aurora PostgreSQL with Blue/Green Deployments",
+        "link": "https://aws.amazon.com/blogs/database/rebuild-large-indexes-on-aurora-postgresql-with-blue-green-deployments/"
+    },
+    {
+        "title": "Provisioning DMS Schema Conversion via AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/database/provisioning-dms-schema-conversion-via-aws-cloudformation/"
+    },
+    {
         "title": "Accelerate database modernization with agentic AI in AWS DMS Schema Conversion",
         "link": "https://aws.amazon.com/blogs/database/accelerate-database-modernization-with-agentic-ai-in-aws-dms-schema-conversion/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Running pgvector in production on Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/running-pgvector-in-production-on-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Centralized traffic inspection for Oracle Database@AWS",
-        "link": "https://aws.amazon.com/blogs/database/centralized-traffic-inspection-for-oracle-databaseaws/"
-    },
-    {
-        "title": "Build a Spring Boot REST API with Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/build-a-spring-boot-rest-api-with-amazon-aurora-dsql/"
     }
 ]

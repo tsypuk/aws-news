@@ -1,5 +1,9 @@
 [
     {
+        "title": "Eliminating Java cold starts with AWS Lambda Managed Instances",
+        "link": "https://aws.amazon.com/blogs/compute/eliminating-java-cold-starts-with-aws-lambda-managed-instances/"
+    },
+    {
         "title": "Architecting for IOPS and throughput performance on AWS Outposts racks",
         "link": "https://aws.amazon.com/blogs/compute/architecting-for-iops-and-throughput-performance-on-aws-outposts-racks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Streamline your infrastructure: Automating AMI creation with Kiro CLI and EC2 Image Builder",
         "link": "https://aws.amazon.com/blogs/compute/streamline-your-infrastructure-automating-ami-creation-with-kiro-cli-and-ec2-image-builder/"
-    },
-    {
-        "title": "Sharing Capacity Blocks for ML Across Your AWS Organization",
-        "link": "https://aws.amazon.com/blogs/compute/sharing-capacity-blocks-for-ml-across-your-aws-organization/"
     }
 ]

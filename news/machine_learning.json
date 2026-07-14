@@ -1,5 +1,25 @@
 [
     {
+        "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/"
+    },
+    {
+        "title": "When your brain works differently, AI isn\u2019t a luxury\u2014it\u2019s accessibility",
+        "link": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/"
+    },
+    {
+        "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/"
+    },
+    {
+        "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/"
+    },
+    {
+        "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
         "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Manage AI applications on Mac with Jamf\u2019s AI Governance and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/"
-    },
-    {
-        "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/"
-    },
-    {
-        "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
-        "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/"
-    },
-    {
-        "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
-        "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/"
-    },
-    {
-        "title": "Multi-dataset Topic best practices for Amazon Quick Chat",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/"
-    },
-    {
-        "title": "Build a unified semantic layer across datasets with multi-dataset Topics in Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/"
     }
 ]

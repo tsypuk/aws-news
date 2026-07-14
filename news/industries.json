@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build a Multi-Agent Assessment Workbench with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/industries/build-a-multi-agent-assessment-workbench-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Sovereign by design: How AWS helps Nigeria\u2019s financial services industry protect data and drive innovation",
         "link": "https://aws.amazon.com/blogs/industries/sovereign-by-design-how-aws-helps-nigerias-financial-services-industry-protect-data-and-drive-innovation/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Deploying industrial AI on AWS: Building the autonomous factory",
         "link": "https://aws.amazon.com/blogs/industries/deploying-industrial-ai-on-aws-building-the-autonomous-factory/"
-    },
-    {
-        "title": "How Atlantic Health cut legal document search time by 42% with Amazon Bedrock metadata filtering",
-        "link": "https://aws.amazon.com/blogs/industries/how-atlantic-health-cut-legal-document-search-time-by-42-with-amazon-bedrock-metadata-filtering/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accessing private Git repositories from Amazon EKS capability for Argo CD",
+        "link": "https://aws.amazon.com/blogs/containers/accessing-private-git-repositories-from-amazon-eks-capability-for-argo-cd/"
+    },
+    {
         "title": "Migrate Amazon EC2 to EKS Auto Mode using Kiro CLI and MCP servers",
         "link": "https://aws.amazon.com/blogs/containers/migrate-amazon-ec2-to-eks-auto-mode-using-kiro-cli-and-mcp-servers/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "AI-powered event-driven Amazon EKS AMI updates with GitOps",
         "link": "https://aws.amazon.com/blogs/containers/ai-powered-event-driven-amazon-eks-ami-updates-with-gitops/"
-    },
-    {
-        "title": "Bitnami image removal from ECR Public",
-        "link": "https://aws.amazon.com/blogs/containers/bitnami-image-removal-from-ecr-public/"
     }
 ]
