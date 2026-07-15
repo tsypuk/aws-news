@@ -1,5 +1,9 @@
 [
     {
+        "title": "Integrate Amazon Connect with AWS Managed AD via IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-amazon-connect-with-aws-managed-ad-via-iam-identity-center/"
+    },
+    {
         "title": "How a Customer Upgraded over 2,000 Microsoft Windows Server 2016 to 2025 on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-a-customer-upgraded-over-2000-windows-server-2016-to-2025-on-amazon-ec2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Deploying Microsoft Exchange Server with AWS Managed Microsoft AD Hybrid Edition",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploying-microsoft-exchange-server-with-aws-managed-microsoft-ad-hybrid-edition/"
-    },
-    {
-        "title": "Modernize legacy .NET apps to Amazon EKS using Windows containers and CloudHedge CHAI",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernize-legacy-net-apps-to-amazon-eks-using-windows-containers-and-cloudhedge-chai/"
     }
 ]

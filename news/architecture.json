@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Mapfre USA modernized fraud claims with Amazon EMR Serverless",
+        "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/"
+    },
+    {
         "title": "Unlocking the future of video data: March Networks cloud storage on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events",
         "link": "https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/"
-    },
-    {
-        "title": "How ALS GeoAnalytics LITHOLENS \u2122 revolutionizes core logging through machine learning with Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/"
     }
 ]

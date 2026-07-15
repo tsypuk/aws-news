@@ -1,5 +1,9 @@
 [
     {
+        "title": "Patch perfect: Automating Amazon Redshift patch testing",
+        "link": "https://aws.amazon.com/blogs/big-data/patch-perfect-automating-amazon-redshift-patch-testing/"
+    },
+    {
         "title": "Multi-cloud lakehouse architecture on AWS for Agentic AI, Part 1: Architecture and best practices",
         "link": "https://aws.amazon.com/blogs/big-data/multi-cloud-lakehouse-architecture-on-aws-for-agentic-ai-part-1-architecture-and-best-practices/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Detecting fraud patterns across Snowflake and AWS using SageMaker Data Agent",
         "link": "https://aws.amazon.com/blogs/big-data/detecting-fraud-patterns-across-snowflake-and-aws-using-sagemaker-data-agent/"
-    },
-    {
-        "title": "Automating IT support with AI: How Nexthink uses OpenSearch Service to power self-service issue resolution",
-        "link": "https://aws.amazon.com/blogs/big-data/automating-it-support-with-ai-how-nexthink-uses-opensearch-service-to-power-self-service-issue-resolution/"
     }
 ]

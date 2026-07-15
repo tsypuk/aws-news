@@ -1,5 +1,17 @@
 [
     {
+        "title": "ICYMI: June 2026 @AWS Security",
+        "link": "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security/"
+    },
+    {
+        "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure",
+        "link": "https://aws.amazon.com/blogs/security/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure/"
+    },
+    {
+        "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
+        "link": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control/"
+    },
+    {
         "title": "New compliance guidance available: HITRUST i1 on AWS",
         "link": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "ICYMI: May 2026 @AWS Security",
         "link": "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security/"
-    },
-    {
-        "title": "Operationalizing AWS security: A maturity roadmap",
-        "link": "https://aws.amazon.com/blogs/security/operationalizing-aws-security-a-maturity-roadmap/"
-    },
-    {
-        "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
-        "link": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/"
-    },
-    {
-        "title": "Amazon Cognito unlocks advanced capabilities with next-generation infrastructure",
-        "link": "https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/"
     }
 ]

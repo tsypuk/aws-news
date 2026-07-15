@@ -1,5 +1,25 @@
 [
     {
+        "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/"
+    },
+    {
+        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/"
+    },
+    {
+        "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/"
+    },
+    {
+        "title": "Scaling medical content review at Flo Health with Amazon Bedrock \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/"
+    },
+    {
+        "title": "ScienceSoft\u2019s HIPAA-compliant AI voice scheduler built on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/"
+    },
+    {
         "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Introducing Claude apps gateway for AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/"
-    },
-    {
-        "title": "Powering scientific discovery: BYOKG and GraphRAG for intelligent pharmaceutical research",
-        "link": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/"
-    },
-    {
-        "title": "Automatically sort and prioritize your mailboxes by using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/"
-    },
-    {
-        "title": "Building and connecting a production-ready ecommerce MCP server using Amazon Bedrock AgentCore and Mistral AI Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/"
-    },
-    {
-        "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/"
-    },
-    {
-        "title": "Manage AI applications on Mac with Jamf\u2019s AI Governance and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/"
     }
 ]
