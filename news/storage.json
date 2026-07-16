@@ -1,5 +1,9 @@
 [
     {
+        "title": "Manage storage consumption at scale using quotas on Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/manage-storage-consumption-at-scale-with-quotas-on-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "How Vanderbilt University scales digital archive discovery with Amazon S3 Metadata",
         "link": "https://aws.amazon.com/blogs/storage/how-vanderbilt-university-scales-digital-archive-discovery-with-s3-metadata/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scalable cross-cloud data migration to Amazon S3 with distributed rclone",
         "link": "https://aws.amazon.com/blogs/storage/scalable-cross-cloud-data-migration-to-amazon-s3-with-distributed-rclone/"
-    },
-    {
-        "title": "Implement single-exchange tokens for short-lived Amazon S3 presigned URLs with Terraform",
-        "link": "https://aws.amazon.com/blogs/storage/implement-single-exchange-tokens-for-short-lived-amazon-s3-presigned-urls-with-terraform/"
     }
 ]

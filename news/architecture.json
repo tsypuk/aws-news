@@ -1,5 +1,9 @@
 [
     {
+        "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
+        "link": "https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events/"
+    },
+    {
         "title": "How Mapfre USA modernized fraud claims with Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a scalable user search layer on top of Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/"
-    },
-    {
-        "title": "Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events",
-        "link": "https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/"
     }
 ]

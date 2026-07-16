@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Danone Simplified Kubernetes at Scale with Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/industries/how-danone-simplified-kubernetes-at-scale-with-amazon-eks-auto-mode/"
+    },
+    {
         "title": "Build a Multi-Agent Assessment Workbench with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/industries/build-a-multi-agent-assessment-workbench-with-amazon-bedrock-agentcore/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Reduce P&ID analysis time by 80% with hybrid AI maintenance planning",
         "link": "https://aws.amazon.com/blogs/industries/reduce-pid-analysis-time-by-80-with-hybrid-ai-maintenance-planning/"
-    },
-    {
-        "title": "Deploying industrial AI on AWS: Building the autonomous factory",
-        "link": "https://aws.amazon.com/blogs/industries/deploying-industrial-ai-on-aws-building-the-autonomous-factory/"
     }
 ]

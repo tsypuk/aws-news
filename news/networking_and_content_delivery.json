@@ -1,5 +1,17 @@
 [
     {
+        "title": "Setting up Layer 2 Networking on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/setting-up-layer-2-networking-on-amazon-ec2/"
+    },
+    {
+        "title": "Fine-grained Amazon Route 53 access with IAM condition keys (Part 3)",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fine-grained-amazon-route-53-access-with-iam-condition-keys-part-3/"
+    },
+    {
+        "title": "Private AI agent with WebSocket streaming over CloudFront VPC Origins and the next generation of OpenSearch Serverless for knowledge retrieval",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/private-ai-agent-with-websocket-streaming-over-cloudfront-vpc-origins-and-the-next-generation-of-opensearch-serverless-for-knowledge-retrieval/"
+    },
+    {
         "title": "Automating CIDR expansion: Reducing IP exhaustion downtime",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-cidr-expansion-reducing-ip-exhaustion-downtime/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Private connectivity patterns for Amazon Bedrock AgentCore Gateway Targets",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/private-connectivity-patterns-for-amazon-bedrock-agentcore-gateway-targets/"
-    },
-    {
-        "title": "Uplynk\u2019s Resilient Multi-Region Video Streaming with Amazon Route 53",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/uplynks-resilient-multi-region-video-streaming-with-amazon-route-53/"
-    },
-    {
-        "title": "Best Practices for TCP Connection Management on EC2",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-for-tcp-connection-management-on-ec2/"
-    },
-    {
-        "title": "Amazon CloudFront Premium flat-rate pricing plan now supports higher, configurable usage allowances",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cloudfront-premium-flat-rate-plan-supports-configurable-usage-allowances/"
     }
 ]

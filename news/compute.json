@@ -1,5 +1,9 @@
 [
     {
+        "title": "New: Enhanced AssetState dimension for AWS Outposts capacity metrics on Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/compute/new-enhanced-assetstate-dimension-for-aws-outposts-capacity-metrics-on-amazon-cloudwatch/"
+    },
+    {
         "title": "Introducing modularized kernel cryptography in Amazon Linux",
         "link": "https://aws.amazon.com/blogs/compute/introducing-modularized-kernel-cryptography-in-amazon-linux/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Multi-Region event-driven failover architecture with Amazon EventBridge and Route 53",
         "link": "https://aws.amazon.com/blogs/compute/multi-region-event-driven-failover-architecture-with-amazon-eventbridge-and-route-53/"
-    },
-    {
-        "title": "Migrating your Java applications to AWS Graviton using AWS Transform custom",
-        "link": "https://aws.amazon.com/blogs/compute/migrating-your-java-applications-to-aws-graviton-using-aws-transform-custom/"
     }
 ]

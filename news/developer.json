@@ -1,5 +1,9 @@
 [
     {
+        "title": "Updating TypeScript version support in AWS SDK for JavaScript v3",
+        "link": "https://aws.amazon.com/blogs/developer/updating-typescript-version-support-in-aws-sdk-for-javascript-v3/"
+    },
+    {
         "title": "AWS CLI v1 maintenance mode: announcing changes to dependency updates",
         "link": "https://aws.amazon.com/blogs/developer/aws-cli-v1-maintenance-mode-announcing-changes-to-dependency-updates/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate Custom CI/CD Pipelines for Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/developer/automate-custom-ci-cd-pipelines-for-landing-zone-accelerator-on-aws/"
-    },
-    {
-        "title": "Introducing Agent Plugins for AWS",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-agent-plugins-for-aws/"
     }
 ]

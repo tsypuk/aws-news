@@ -1,5 +1,17 @@
 [
     {
+        "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/"
+    },
+    {
+        "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/"
+    },
+    {
+        "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/"
+    },
+    {
         "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/"
-    },
-    {
-        "title": "MCP tool design: Practical approaches and tradeoffs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/"
-    },
-    {
-        "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/"
-    },
-    {
-        "title": "Introducing Claude apps gateway for AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/"
     }
 ]
