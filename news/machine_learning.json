@@ -1,5 +1,17 @@
 [
     {
+        "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/"
+    },
+    {
+        "title": "Introducing Grok on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/"
+    },
+    {
+        "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/"
+    },
+    {
         "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
         "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
         "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/"
-    },
-    {
-        "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/"
-    },
-    {
-        "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/"
     }
 ]

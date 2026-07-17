@@ -1,5 +1,13 @@
 [
     {
+        "title": "Dynamic Inbound Routing for BYOIP Workloads Using Amazon VPC Route Server",
+        "link": "https://aws.amazon.com/blogs/industries/dynamic-inbound-routing-for-byoip-workloads-using-amazon-vpc-route-server/"
+    },
+    {
+        "title": "How Autel Transformed Charging Station Management with AI Agents on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-autel-transformed-charging-station-management-with-ai-agents-on-aws/"
+    },
+    {
         "title": "How Danone Simplified Kubernetes at Scale with Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/industries/how-danone-simplified-kubernetes-at-scale-with-amazon-eks-auto-mode/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Deploy diagnostic-quality imaging globally with MedDream and AWS HealthImaging",
         "link": "https://aws.amazon.com/blogs/industries/deploy-diagnostic-quality-imaging-globally-with-meddream/"
-    },
-    {
-        "title": "Coins in Motion: Building agentic blockchain payments for in-vehicle experiences",
-        "link": "https://aws.amazon.com/blogs/industries/coins-in-motion-building-agentic-blockchain-payments-for-in-vehicle-experiences/"
-    },
-    {
-        "title": "Reduce P&ID analysis time by 80% with hybrid AI maintenance planning",
-        "link": "https://aws.amazon.com/blogs/industries/reduce-pid-analysis-time-by-80-with-hybrid-ai-maintenance-planning/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Prioritize your AWS Health alerts using AWS User Notifications",
+        "link": "https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications/"
+    },
+    {
         "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
         "link": "https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent",
         "link": "https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent/"
-    },
-    {
-        "title": "Building a scalable user search layer on top of Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/"
     }
 ]

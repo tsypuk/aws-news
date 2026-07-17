@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate from Apache Solr to Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-from-apache-solr-to-amazon-opensearch-serverless/"
+    },
+    {
         "title": "High-performance Remote Shuffle Service on Amazon EMR with Apache Celeborn",
         "link": "https://aws.amazon.com/blogs/big-data/high-performance-remote-shuffle-service-on-amazon-emr-with-apache-celeborn/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Multi-Region identity-based access to Amazon Redshift and S3 Tables",
         "link": "https://aws.amazon.com/blogs/big-data/multi-region-identity-based-access-to-amazon-redshift-and-s3-tables/"
-    },
-    {
-        "title": "Autonomous troubleshooting for Medallion Architecture with AWS DevOps Agent and Apache Spark Troubleshooting Agent",
-        "link": "https://aws.amazon.com/blogs/big-data/autonomous-troubleshooting-for-medallion-architecture-with-aws-devops-agent-and-apache-spark-troubleshooting-agent/"
     }
 ]

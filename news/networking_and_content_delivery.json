@@ -1,5 +1,9 @@
 [
     {
+        "title": "Prevent VPN traffic leaks with Client VPN Route Enforcement in AWS Client VPN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/prevent-vpn-traffic-leaks-with-client-vpn-route-enforcement-in-aws-client-vpn/"
+    },
+    {
         "title": "Setting up Layer 2 Networking on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/setting-up-layer-2-networking-on-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Achieve least-privilege access for Amazon Route 53 Profiles",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/achieve-least-privilege-access-for-amazon-route-53-profiles/"
-    },
-    {
-        "title": "Private connectivity patterns for Amazon Bedrock AgentCore Gateway Targets",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/private-connectivity-patterns-for-amazon-bedrock-agentcore-gateway-targets/"
     }
 ]
