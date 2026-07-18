@@ -1,5 +1,9 @@
 [
     {
+        "title": "Explore NVIDIA CUDA-Q Applications Hub and Academic Library with Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/explore-nvidia-cuda-q-applications-hub-and-academic-library-with-amazon-braket/"
+    },
+    {
         "title": "Classiq and AWS Power Quantum-Classical Chemistry Innovation in Singapore with Hatch",
         "link": "https://aws.amazon.com/blogs/quantum-computing/classiq-and-aws-power-quantum-classical-chemistry-innovation-in-singapore-with-hatch/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Qiskit-Braket provider v0.11: New Primitives and Flexible Circuit Compilation",
         "link": "https://aws.amazon.com/blogs/quantum-computing/qiskit-braket-provider-v0-11-new-primitives-and-flexible-circuit-compilation/"
-    },
-    {
-        "title": "Quantum-Guided Cluster Algorithms for Combinatorial Optimization",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/quantum-guided-cluster-algorithms-for-combinatorial-optimization/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building extranet on AWS: Secure, scalable partner connectivity",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-extranet-on-aws-secure-scalable-partner-connectivity/"
+    },
+    {
         "title": "Prevent VPN traffic leaks with Client VPN Route Enforcement in AWS Client VPN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/prevent-vpn-traffic-leaks-with-client-vpn-route-enforcement-in-aws-client-vpn/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Extending AWS DevOps Agent network investigations with S3 logs and custom MCP on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-aws-devops-agent-network-investigations-with-s3-logs-and-custom-mcp-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Achieve least-privilege access for Amazon Route 53 Profiles",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/achieve-least-privilege-access-for-amazon-route-53-profiles/"
     }
 ]

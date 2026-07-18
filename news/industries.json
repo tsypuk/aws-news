@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a voice-enabled Automotive and Manufacturing assistant using Amazon Nova Sonic and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/industries/build-a-voice-enabled-automotive-and-manufacturing-assistant-using-amazon-nova-sonic-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Managing AI agent sprawl across business units",
+        "link": "https://aws.amazon.com/blogs/industries/managing-ai-agent-sprawl-across-business-units/"
+    },
+    {
         "title": "Dynamic Inbound Routing for BYOIP Workloads Using Amazon VPC Route Server",
         "link": "https://aws.amazon.com/blogs/industries/dynamic-inbound-routing-for-byoip-workloads-using-amazon-vpc-route-server/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Accelerate RISC-V Software Development Before Silicon: Virtual Prototyping with MachineWare\u2019s SIM-V on AWS",
         "link": "https://aws.amazon.com/blogs/industries/accelerate-risc-v-software-development-before-silicon-virtual-prototyping-with-machinewares-sim-v-on-aws/"
-    },
-    {
-        "title": "How retailers deliver hyper-personalization in-store with Personalisation Hub, UST, and AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-retailers-deliver-hyper-personalization-in-store-with-personalisation-hub-ust-and-aws/"
-    },
-    {
-        "title": "Deploy diagnostic-quality imaging globally with MedDream and AWS HealthImaging",
-        "link": "https://aws.amazon.com/blogs/industries/deploy-diagnostic-quality-imaging-globally-with-meddream/"
     }
 ]

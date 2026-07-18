@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing self-managed Amazon S3 buckets for AWS Lambda function code",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-self-managed-amazon-s3-buckets-for-aws-lambda-function-code/"
+    },
+    {
         "title": "New: Enhanced AssetState dimension for AWS Outposts capacity metrics on Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/compute/new-enhanced-assetstate-dimension-for-aws-outposts-capacity-metrics-on-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrating Event Source Mappings with AWS Lambda tenant isolation mode",
         "link": "https://aws.amazon.com/blogs/compute/integrating-event-source-mappings-with-aws-lambda-tenant-isolation-mode/"
-    },
-    {
-        "title": "Multi-Region event-driven failover architecture with Amazon EventBridge and Route 53",
-        "link": "https://aws.amazon.com/blogs/compute/multi-region-event-driven-failover-architecture-with-amazon-eventbridge-and-route-53/"
     }
 ]

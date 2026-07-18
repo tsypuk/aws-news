@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building AI agents for domain-specific classification at scale",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-ai-agents-for-domain-specific-classification-at-scale/"
+    },
+    {
         "title": "How Rize Credit Union built a serverless data lake on AWS to become its own source of truth",
         "link": "https://aws.amazon.com/blogs/publicsector/how-rize-credit-union-built-a-serverless-data-lake-on-aws-to-become-its-own-source-of-truth/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How the Georgia Data and Analytics Center uses AWS cloud services to drive improved outcomes for constituents",
         "link": "https://aws.amazon.com/blogs/publicsector/how-the-georgia-data-and-analytics-center-uses-aws-cloud-services-to-drive-improved-outcomes-for-constituents/"
-    },
-    {
-        "title": "Modernizing border control with digital arrival cards on AWS Cloud",
-        "link": "https://aws.amazon.com/blogs/publicsector/modernizing-border-control-with-digital-arrival-cards-on-aws-cloud/"
     }
 ]
