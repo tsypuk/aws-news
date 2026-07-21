@@ -1,5 +1,21 @@
 [
     {
+        "title": "Invoke AWS services directly from Amazon RDS for SQL Server 2025",
+        "link": "https://aws.amazon.com/blogs/database/invoke-aws-services-directly-from-amazon-rds-for-sql-server-2025/"
+    },
+    {
+        "title": "Building agentic AI patterns with Amazon Bedrock and SQL Server 2025 on Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/building-agentic-ai-patterns-with-amazon-bedrock-and-sql-server-2025-on-amazon-rds/"
+    },
+    {
+        "title": "Migrate from AIX or Windows Db2 to Amazon RDS for Db2",
+        "link": "https://aws.amazon.com/blogs/database/migrate-from-aix-or-windows-db2-to-amazon-rds-for-db2/"
+    },
+    {
+        "title": "Connection pooling strategies in Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/connection-pooling-strategies-in-amazon-aurora-dsql/"
+    },
+    {
         "title": "Introducing open source Bulk Executor for Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/introducing-open-source-bulk-executor-for-amazon-dynamodb/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Enable self-managed AD Kerberos authentication with Amazon RDS for Db2",
         "link": "https://aws.amazon.com/blogs/database/enable-self-managed-ad-kerberos-authentication-with-amazon-rds-for-db2/"
-    },
-    {
-        "title": "Manage long-running transactions for AWS DMS performance",
-        "link": "https://aws.amazon.com/blogs/database/manage-long-running-transactions-for-aws-dms-performance/"
-    },
-    {
-        "title": "User authentication and session management with Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/user-authentication-and-session-management-with-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Announcing Valkey 9.1 for Amazon ElastiCache",
-        "link": "https://aws.amazon.com/blogs/database/announcing-valkey-9-1-for-amazon-elasticache/"
-    },
-    {
-        "title": "Building Financial Hierarchies with Amazon Neptune for Treasury Operations",
-        "link": "https://aws.amazon.com/blogs/database/building-financial-hierarchies-with-amazon-neptune-for-treasury-operations/"
     }
 ]

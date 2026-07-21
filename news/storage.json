@@ -1,5 +1,13 @@
 [
     {
+        "title": "Unlocking data residency use cases with Amazon S3 in AWS Local Zones",
+        "link": "https://aws.amazon.com/blogs/storage/unlocking-data-residency-use-cases-with-amazon-s3-in-aws-local-zones/"
+    },
+    {
+        "title": "Optimize Amazon EBS volumes to get the right performance at the right time",
+        "link": "https://aws.amazon.com/blogs/storage/optimize-amazon-ebs-volume-performance-the-right-amount-at-the-right-time/"
+    },
+    {
         "title": "Manage storage consumption at scale using quotas on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/manage-storage-consumption-at-scale-with-quotas-on-amazon-fsx-for-netapp-ontap/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Data discovery: How to find out what\u2019s on your Amazon FSx for NetApp ONTAP volumes",
         "link": "https://aws.amazon.com/blogs/storage/data-discovery-how-to-find-out-whats-on-your-amazon-fsx-for-netapp-ontap-volumes/"
-    },
-    {
-        "title": "Scale your AWS Storage Gateway AL2023 migration with infrastructure as code",
-        "link": "https://aws.amazon.com/blogs/storage/scale-your-aws-storage-gateway-al2023-migration-with-infrastructure-as-code/"
-    },
-    {
-        "title": "Scalable cross-cloud data migration to Amazon S3 with distributed rclone",
-        "link": "https://aws.amazon.com/blogs/storage/scalable-cross-cloud-data-migration-to-amazon-s3-with-distributed-rclone/"
     }
 ]

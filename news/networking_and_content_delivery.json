@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the LBC Ingress-to-Gateway API migration toolkit",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-the-lbc-ingress-to-gateway-api-migration-toolkit/"
+    },
+    {
         "title": "Building extranet on AWS: Secure, scalable partner connectivity",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-extranet-on-aws-secure-scalable-partner-connectivity/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploying internal DNS zones for internet-facing load balancers",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/deploying-internal-dns-zones-for-internet-facing-load-balancers/"
-    },
-    {
-        "title": "Extending AWS DevOps Agent network investigations with S3 logs and custom MCP on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-aws-devops-agent-network-investigations-with-s3-logs-and-custom-mcp-on-amazon-bedrock-agentcore/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architect a dual-path IoT conversation analytics solution on AWS",
+        "link": "https://aws.amazon.com/blogs/iot/architect-a-dual-path-iot-conversation-analytics-solution-on-aws/"
+    },
+    {
         "title": "How Stratasys built an IoT platform for industrial 3D printers with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/how-stratasys-built-an-iot-platform-for-industrial-3d-printers-with-aws-iot/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Seamless migration: Securely transitioning large IoT fleets to AWS",
         "link": "https://aws.amazon.com/blogs/iot/seamless-migration-securely-transitioning-large-iot-fleets-to-aws/"
-    },
-    {
-        "title": "AWS IoT Greengrass nucleus lite \u2013 Revolutionizing edge computing on resource-constrained devices",
-        "link": "https://aws.amazon.com/blogs/iot/aws-iot-greengrass-nucleus-lite-revolutionizing-edge-computing-on-resource-constrained-devices/"
     }
 ]

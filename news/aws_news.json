@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/"
+    },
+    {
         "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
         "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
         "link": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"
-    },
-    {
-        "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
-        "link": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/"
     }
 ]

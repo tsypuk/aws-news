@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Alight Solutions achieved 55% cost savings with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/how-alight-solutions-achieved-55-cost-savings-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Govern Amazon Redshift Data Warehouses Data Across Accounts using Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/govern-amazon-redshift-data-across-accounts-with-sagemaker-unified-studio/"
+    },
+    {
         "title": "Migrate from Apache Solr to Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-from-apache-solr-to-amazon-opensearch-serverless/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Optimize your Tableau integration with Amazon Redshift Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-your-tableau-integration-with-amazon-redshift-serverless/"
-    },
-    {
-        "title": "Implement multi-tenant search with Amazon OpenSearch Serverless next generation",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-multi-tenant-search-with-amazon-opensearch-serverless-next-generation/"
-    },
-    {
-        "title": "Multi-Region identity-based access to Amazon Redshift and S3 Tables",
-        "link": "https://aws.amazon.com/blogs/big-data/multi-region-identity-based-access-to-amazon-redshift-and-s3-tables/"
     }
 ]

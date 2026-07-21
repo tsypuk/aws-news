@@ -1,5 +1,9 @@
 [
     {
+        "title": "A framework for quantum-classical integration decisions",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/a-framework-for-quantum-classical-integration-decisions/"
+    },
+    {
         "title": "Explore NVIDIA CUDA-Q Applications Hub and Academic Library with Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/explore-nvidia-cuda-q-applications-hub-and-academic-library-with-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Building advanced quantum chemistry calculations with Kvantify Qrunch on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/building-advanced-quantum-chemistry-calculations-with-kvantify-qrunch-on-amazon-braket/"
-    },
-    {
-        "title": "Qiskit-Braket provider v0.11: New Primitives and Flexible Circuit Compilation",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/qiskit-braket-provider-v0-11-new-primitives-and-flexible-circuit-compilation/"
     }
 ]

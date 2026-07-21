@@ -1,5 +1,21 @@
 [
     {
+        "title": "Custom OS installation now available on AWS DeepRacer devices",
+        "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/"
+    },
+    {
+        "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/"
+    },
+    {
+        "title": "How Couchbase built a multi-model AI architecture for Capella iQ with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/"
+    },
+    {
+        "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/"
+    },
+    {
         "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
         "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-solution-at-bluesight-with-amazon-bedrock/"
-    },
-    {
-        "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implement-on-behalf-of-token-exchange-for-multi-tenant-agents-with-amazon-bedrock-agentcore-gateway/"
-    },
-    {
-        "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/"
-    },
-    {
-        "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
-        "link": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/"
     }
 ]

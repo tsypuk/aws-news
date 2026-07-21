@@ -1,5 +1,9 @@
 [
     {
+        "title": "JVM memory, CPU, and classpath best practices for Java containers on AWS",
+        "link": "https://aws.amazon.com/blogs/containers/jvm-memory-cpu-and-classpath-best-practices-for-java-containers-on-aws/"
+    },
+    {
         "title": "Accessing private Git repositories from Amazon EKS capability for Argo CD",
         "link": "https://aws.amazon.com/blogs/containers/accessing-private-git-repositories-from-amazon-eks-capability-for-argo-cd/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Scaling StarRocks on Amazon EKS with KEDA and Karpenter for enterprise OLAP workloads",
         "link": "https://aws.amazon.com/blogs/containers/scaling-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads/"
-    },
-    {
-        "title": "AI-powered event-driven Amazon EKS AMI updates with GitOps",
-        "link": "https://aws.amazon.com/blogs/containers/ai-powered-event-driven-amazon-eks-ami-updates-with-gitops/"
     }
 ]
