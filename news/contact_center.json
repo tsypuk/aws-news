@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing Amazon Connect flows as Code with AWS CDK",
+        "link": "https://aws.amazon.com/blogs/contact-center/managing-amazon-connect-flows-as-code-with-aws-cdk/"
+    },
+    {
         "title": "Breaking Language Barriers: Real-Time Multilingual Support with Amazon Connect Chat Message Processing",
         "link": "https://aws.amazon.com/blogs/contact-center/breaking-language-barriers-real-time-multilingual-support-with-amazon-connect-chat-message-processing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Connect: Deploy conversational AI in weeks, not months",
         "link": "https://aws.amazon.com/blogs/contact-center/amazon-connect-deploy-conversational-ai-in-weeks-not-months/"
-    },
-    {
-        "title": "Configure Schedule Adherence Thresholds in Amazon Connect to Account for Operational Variances",
-        "link": "https://aws.amazon.com/blogs/contact-center/configure-schedule-adherence-thresholds-in-amazon-connect-to-account-for-operational-variances/"
     }
 ]

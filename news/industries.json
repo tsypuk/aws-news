@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Axel Springer transformed ad monetization by migrating from client-side bidding to AWS RTB Fabric",
+        "link": "https://aws.amazon.com/blogs/industries/how-axel-springer-transformed-ad-monetization-by-migrating-from-client-side-bidding-to-aws-rtb-fabric/"
+    },
+    {
         "title": "How Peloton Engineers the World\u2019s Largest Live Fitness Events on AWS",
         "link": "https://aws.amazon.com/blogs/industries/how-peloton-engineers-the-worlds-largest-live-fitness-events-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Autel Transformed Charging Station Management with AI Agents on AWS",
         "link": "https://aws.amazon.com/blogs/industries/how-autel-transformed-charging-station-management-with-ai-agents-on-aws/"
-    },
-    {
-        "title": "How Danone Simplified Kubernetes at Scale with Amazon EKS Auto Mode",
-        "link": "https://aws.amazon.com/blogs/industries/how-danone-simplified-kubernetes-at-scale-with-amazon-eks-auto-mode/"
     }
 ]

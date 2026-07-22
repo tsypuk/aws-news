@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building a multi-Region API with Prisma ORM and Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/building-a-multi-region-api-with-prisma-orm-and-amazon-aurora-dsql/"
+    },
+    {
+        "title": "AI-powered incident analysis for Amazon RDS using automated forensic artifacts",
+        "link": "https://aws.amazon.com/blogs/database/ai-powered-incident-analysis-for-amazon-rds-using-automated-forensic-artifacts/"
+    },
+    {
+        "title": "Migrating mission-critical payments at Nubank to Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrating-mission-critical-payments-at-nubank-to-amazon-aurora-postgresql/"
+    },
+    {
         "title": "Invoke AWS services directly from Amazon RDS for SQL Server 2025",
         "link": "https://aws.amazon.com/blogs/database/invoke-aws-services-directly-from-amazon-rds-for-sql-server-2025/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How CRED uses Amazon RDS Blue/Green Deployments at scale",
         "link": "https://aws.amazon.com/blogs/database/how-cred-uses-amazon-rds-blue-green-deployments-at-scale/"
-    },
-    {
-        "title": "Cross-account and cross-Region monitoring for Amazon RDS and Aurora with Database Insights",
-        "link": "https://aws.amazon.com/blogs/database/cross-account-and-cross-region-monitoring-for-amazon-rds-and-aurora-with-database-insights/"
-    },
-    {
-        "title": "Amazon RDS log analysis: natural language queries with Kiro and MCP",
-        "link": "https://aws.amazon.com/blogs/database/amazon-rds-log-analysis-natural-language-queries-with-kiro-and-mcp/"
-    },
-    {
-        "title": "Enable self-managed AD Kerberos authentication with Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/enable-self-managed-ad-kerberos-authentication-with-amazon-rds-for-db2/"
     }
 ]
