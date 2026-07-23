@@ -1,5 +1,21 @@
 [
     {
+        "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
+        "link": "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/"
+    },
+    {
+        "title": "Building multi-Region resiliency for AWS CloudFormation custom resource deployment",
+        "link": "https://aws.amazon.com/blogs/architecture/building-multi-region-resiliency-for-aws-cloudformation-custom-resource-deployment/"
+    },
+    {
+        "title": "Architecting offline-first generative AI applications for edge deployments using AWS services",
+        "link": "https://aws.amazon.com/blogs/architecture/architecting-offline-first-generative-ai-applications-for-edge-deployments-using-aws-services/"
+    },
+    {
+        "title": "Automate custom PII detection at scale with Amazon Macie and Step Functions",
+        "link": "https://aws.amazon.com/blogs/architecture/automate-custom-pii-detection-at-scale-with-amazon-macie-and-step-functions/"
+    },
+    {
         "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
         "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
         "link": "https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito/"
-    },
-    {
-        "title": "How Samsung achieved real-time pricing with AWS Lambda Response Streaming",
-        "link": "https://aws.amazon.com/blogs/architecture/how-samsung-achieved-real-time-pricing-with-aws-lambda-response-streaming/"
-    },
-    {
-        "title": "Introducing the Snowflake and AWS Custom Lens for the AWS Well-Architected Framework",
-        "link": "https://aws.amazon.com/blogs/architecture/introducing-the-snowflake-and-aws-custom-lens-for-the-aws-well-architected-framework/"
-    },
-    {
-        "title": "Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake",
-        "link": "https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/"
-    },
-    {
-        "title": "Align your architecture backlog with Tech Roadmap Prioritization (TRP)",
-        "link": "https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Protect Amazon Route 53 domains during account lifecycle events: Best practices for domain governance in multi-account organizations",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-amazon-route-53-domains-during-account-lifecycle-events-best-practices-for-domain-governance-in-multi-account-organizations/"
+    },
+    {
+        "title": "Selecting the right AWS private connectivity options: A decision framework",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/selecting-the-right-aws-private-connectivity-options-a-decision-framework/"
+    },
+    {
+        "title": "Consolidate dual-stack architectures with listener rules for Network Load Balancer",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/consolidate-dual-stack-architectures-with-listener-rules-for-network-load-balancer/"
+    },
+    {
         "title": "How Magnite uses Amazon VPC Route Server and Border Gateway Protocol (BGP) to build dynamic hybrid-cloud routing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-magnite-uses-amazon-vpc-route-server-and-border-gateway-protocol-bgp-to-build-dynamic-hybrid-cloud-routing/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Extending SD-WAN Segmentation into AWS Cloud WAN \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-sd-wan-segmentation-into-aws-cloud-wan-part-2/"
-    },
-    {
-        "title": "Extending SD-WAN Segmentation into AWS Cloud WAN \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-sd-wan-segmentation-into-aws-cloud-wan-part-1/"
-    },
-    {
-        "title": "Best practices for securing your IPv6 infrastructure on AWS using VPC Block Public Access",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/best-practices-for-securing-your-ipv6-infrastructure-on-aws-using-vpc-block-public-access/"
-    },
-    {
-        "title": "Securing zero trust access with AWS Verified Access and AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-zero-trust-access-with-aws-verified-access-and-aws-network-firewall/"
     }
 ]

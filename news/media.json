@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extend Amazon CloudWatch Beyond Native Connectors with Cribl Stream",
+        "link": "https://aws.amazon.com/blogs/mt/extend-amazon-cloudwatch-beyond-native-connectors-with-cribl-stream/"
+    },
+    {
         "title": "How Amazon Achieved Full Stack Observability Across 400 Offices with Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/mt/how-amazon-achieved-full-stack-observability-across-400-offices-with-amazon-opensearch-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing OpenTelemetry and PromQL support in Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/introducing-opentelemetry-promql-support-in-amazon-cloudwatch/"
-    },
-    {
-        "title": "AWS Unified Operations: Building Resilient Operations for Mission-Critical Workloads",
-        "link": "https://aws.amazon.com/blogs/mt/aws-unified-operations-building-resilient-operations-for-mission-critical-workloads/"
     }
 ]

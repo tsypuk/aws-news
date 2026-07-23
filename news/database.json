@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scale smart, not just big: a practical guide to multi-node Amazon Timestream for InfluxDB 3 Enterprise",
+        "link": "https://aws.amazon.com/blogs/database/scaling-amazon-timestream-for-influxdb-3-enterprise-right-sizing-for-stability-and-cost/"
+    },
+    {
         "title": "Building a multi-Region API with Prisma ORM and Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/building-a-multi-region-api-with-prisma-orm-and-amazon-aurora-dsql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Data masking in Amazon RDS for Oracle",
         "link": "https://aws.amazon.com/blogs/database/data-masking-in-amazon-rds-for-oracle/"
-    },
-    {
-        "title": "How CRED uses Amazon RDS Blue/Green Deployments at scale",
-        "link": "https://aws.amazon.com/blogs/database/how-cred-uses-amazon-rds-blue-green-deployments-at-scale/"
     }
 ]

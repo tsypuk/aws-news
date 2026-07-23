@@ -1,5 +1,9 @@
 [
     {
+        "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/"
+    },
+    {
         "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
         "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/"
     },
@@ -8,7 +12,7 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/"
     },
     {
-        "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
+        "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Relay",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/"
-    },
-    {
-        "title": "When your brain works differently, AI isn\u2019t a luxury\u2014it\u2019s accessibility",
-        "link": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/"
     }
 ]
