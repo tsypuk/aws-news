@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
+        "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect/"
+    },
+    {
+        "title": "ARC zonal shift support for EKS Auto Mode and Karpenter",
+        "link": "https://aws.amazon.com/blogs/containers/arc-zonal-shift-support-for-eks-auto-mode-and-karpenter/"
+    },
+    {
         "title": "JVM memory, CPU, and classpath best practices for Java containers on AWS",
         "link": "https://aws.amazon.com/blogs/containers/jvm-memory-cpu-and-classpath-best-practices-for-java-containers-on-aws/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Amazon EKS now supports control plane egress through your VPC",
         "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-control-plane-egress-through-your-vpc/"
-    },
-    {
-        "title": "Better Together: Amazon EKS Auto Mode and Istio Ambient Mesh",
-        "link": "https://aws.amazon.com/blogs/containers/better-together-amazon-eks-auto-mode-and-istio-ambient-mesh/"
-    },
-    {
-        "title": "Scaling StarRocks on Amazon EKS with KEDA and Karpenter for enterprise OLAP workloads",
-        "link": "https://aws.amazon.com/blogs/containers/scaling-starrocks-on-amazon-eks-with-keda-and-karpenter-for-enterprise-olap-workloads/"
     }
 ]

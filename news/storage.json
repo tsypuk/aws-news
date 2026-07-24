@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Turso built a transactional database using Amazon S3 Express One Zone",
+        "link": "https://aws.amazon.com/blogs/storage/how-turso-built-a-transactional-database-using-amazon-s3-express-one-zone/"
+    },
+    {
         "title": "Unlocking data residency use cases with Amazon S3 in AWS Local Zones",
         "link": "https://aws.amazon.com/blogs/storage/unlocking-data-residency-use-cases-with-amazon-s3-in-aws-local-zones/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to configure user storage quotas for the AWS Transfer Family on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/how-to-configure-user-storage-quotas-for-aws-transfer-family-on-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Data discovery: How to find out what\u2019s on your Amazon FSx for NetApp ONTAP volumes",
-        "link": "https://aws.amazon.com/blogs/storage/data-discovery-how-to-find-out-whats-on-your-amazon-fsx-for-netapp-ontap-volumes/"
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/"
+    },
+    {
+        "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/"
+    },
+    {
+        "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/"
+    },
+    {
+        "title": "Building multi-Region visualizations with Highcharts in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/"
+    },
+    {
+        "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/"
+    },
+    {
+        "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/"
+    },
+    {
         "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/"
     },
@@ -12,7 +36,7 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/"
     },
     {
-        "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Relay",
+        "title": "Build specialized agent workflows for your business with Amazon Quick and NVIDIA NeMo Agent Toolkit",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/"
     },
     {
@@ -54,29 +78,5 @@
     {
         "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
         "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/"
-    },
-    {
-        "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/"
-    },
-    {
-        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/"
-    },
-    {
-        "title": "Scaling UX testing with Amazon Nova Act: A new approach to user flow analysis",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/"
-    },
-    {
-        "title": "Scaling medical content review at Flo Health with Amazon Bedrock \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/"
-    },
-    {
-        "title": "ScienceSoft\u2019s HIPAA-compliant AI voice scheduler built on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/sciencesofts-hipaa-compliant-ai-voice-scheduler-built-on-aws/"
-    },
-    {
-        "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/"
     }
 ]

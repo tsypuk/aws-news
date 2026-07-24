@@ -1,5 +1,9 @@
 [
     {
+        "title": "Thermodynamic sampling of disordered materials with an analog Hamiltonian Rydberg simulator",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/thermodynamic-sampling-of-disordered-materials-with-an-analog-hamiltonian-rydberg-simulator-2/"
+    },
+    {
         "title": "A framework for quantum-classical integration decisions",
         "link": "https://aws.amazon.com/blogs/quantum-computing/a-framework-for-quantum-classical-integration-decisions/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Getting the Most from Your Quantum Measurements: Adaptive Shot Allocation on Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/getting-the-most-from-your-quantum-measurements-adaptive-shot-allocation-on-amazon-braket/"
-    },
-    {
-        "title": "Building advanced quantum chemistry calculations with Kvantify Qrunch on Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/building-advanced-quantum-chemistry-calculations-with-kvantify-qrunch-on-amazon-braket/"
     }
 ]
