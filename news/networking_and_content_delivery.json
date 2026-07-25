@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Amazon CloudFront delivered traffic for the FIFA World Cup 2026",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-amazon-cloudfront-delivered-traffic-for-the-fifa-world-cup-2026/"
+    },
+    {
+        "title": "Centralized VPC inspection with Amazon VPC Route Server and AWS Transit Gateway",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/centralized-vpc-inspection-with-amazon-vpc-route-server-and-aws-transit-gateway/"
+    },
+    {
         "title": "Protect Amazon Route 53 domains during account lifecycle events: Best practices for domain governance in multi-account organizations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-amazon-route-53-domains-during-account-lifecycle-events-best-practices-for-domain-governance-in-multi-account-organizations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Extending NLB health checks for RADIUS using an Amazon ECS witness",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-nlb-health-checks-for-radius-using-an-amazon-ecs-witness/"
-    },
-    {
-        "title": "VPC resource gateways: Implementation patterns and use cases",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-resource-gateways-implementation-patterns-and-use-cases/"
-    },
-    {
-        "title": "Extending SD-WAN Segmentation into AWS Cloud WAN \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-sd-wan-segmentation-into-aws-cloud-wan-part-2/"
     }
 ]

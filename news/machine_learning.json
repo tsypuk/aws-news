@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/"
+    },
+    {
+        "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/"
+    },
+    {
+        "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/"
+    },
+    {
         "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
         "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing Grok on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/"
-    },
-    {
-        "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
-        "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/"
-    },
-    {
-        "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/"
-    },
-    {
-        "title": "Monitor Amazon SageMaker Pipelines cross-account with custom Amazon CloudWatch dashboards",
-        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/"
     }
 ]

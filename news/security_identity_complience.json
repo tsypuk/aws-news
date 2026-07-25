@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating AWS Network Firewall troubleshooting with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent/"
+    },
+    {
         "title": "Enterprise security at machine speed: AWS Black Hat 2026 preview",
         "link": "https://aws.amazon.com/blogs/security/enterprise-security-at-machine-speed-aws-black-hat-2026-preview/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
         "link": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/"
-    },
-    {
-        "title": "Accelerate security investigations with Kiro CLI",
-        "link": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/"
     }
 ]
