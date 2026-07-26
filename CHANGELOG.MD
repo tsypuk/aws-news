@@ -6,11 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2026-07-250.1.0) - 2026-07-25
+## [0.1.0](https://github.com/tsypuk/aws-news/releases/tag/ver-2026-07-260.1.0) - 2026-07-26
 
-<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/84685120a27234d8d548e4f9ed98b18abb65476d...ver-2026-07-25)</small>
+<small>[Compare with first commit](https://github.com/tsypuk/aws-news/compare/4bf6c9460c290fa196a1c029fad7dc4cf33aa265...ver-2026-07-26)</small>
 
 ### Docs
 
-- updated AWS news - big_data,machine_learning,networking_and_content_delivery,security_identity_complience - 2026-07-25 ([3836d9d](https://github.com/tsypuk/aws-news/commit/3836d9df3597bb44a25c03abc6bf438c4e260f34) by Roman Tsypuk).
+- updated AWS news - public_sector - 2026-07-26 ([20a87a7](https://github.com/tsypuk/aws-news/commit/20a87a761747c627e083d8bfc8f4f6b230f9446d) by Roman Tsypuk).
 
