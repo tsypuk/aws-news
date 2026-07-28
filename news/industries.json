@@ -1,5 +1,9 @@
 [
     {
+        "title": "Kite Advances Scalable Bioinformatics for Cell Therapy Research in Collaboration with AWS HealthOmics",
+        "link": "https://aws.amazon.com/blogs/industries/kite-advances-scalable-bioinformatics-for-cell-therapy-research-in-collaboration-with-aws-healthomics/"
+    },
+    {
         "title": "How Axel Springer transformed ad monetization by migrating from client-side bidding to AWS RTB Fabric",
         "link": "https://aws.amazon.com/blogs/industries/how-axel-springer-transformed-ad-monetization-by-migrating-from-client-side-bidding-to-aws-rtb-fabric/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Dynamic Inbound Routing for BYOIP Workloads Using Amazon VPC Route Server",
         "link": "https://aws.amazon.com/blogs/industries/dynamic-inbound-routing-for-byoip-workloads-using-amazon-vpc-route-server/"
-    },
-    {
-        "title": "How Autel Transformed Charging Station Management with AI Agents on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-autel-transformed-charging-station-management-with-ai-agents-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/"
+    },
+    {
         "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
         "link": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/"
-    },
-    {
-        "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"
     }
 ]

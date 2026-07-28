@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
+        "link": "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare/"
+    },
+    {
+        "title": "Announcing the Cloud Security Alliance on AWS Compliance Guide",
+        "link": "https://aws.amazon.com/blogs/security/announcing-the-cloud-security-alliance-on-aws-compliance-guide/"
+    },
+    {
         "title": "Accelerating AWS Network Firewall troubleshooting with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
         "link": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment/"
-    },
-    {
-        "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
-        "link": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/"
-    },
-    {
-        "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
-        "link": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/"
     }
 ]

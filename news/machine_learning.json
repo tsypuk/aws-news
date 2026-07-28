@@ -1,5 +1,17 @@
 [
     {
+        "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/"
+    },
+    {
+        "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/"
+    },
+    {
+        "title": "How Guardoc transforms medical document processing with Amazon Nova models",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/"
+    },
+    {
         "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing Mobile Layout for Amazon Quick dashboards",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/"
-    },
-    {
-        "title": "How Smartsheet built a remote MCP server on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/"
-    },
-    {
-        "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/"
-    },
-    {
-        "title": "Introducing Grok on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/"
     }
 ]

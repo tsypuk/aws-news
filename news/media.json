@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build bespoke operational workflows with AWS DevOps Agent custom SRE agents",
+        "link": "https://aws.amazon.com/blogs/mt/build-bespoke-operational-workflows-with-aws-devops-agent-custom-sre-agents/"
+    },
+    {
         "title": "Automate CI/CD troubleshooting with AWS DevOps Agent and GitHub",
         "link": "https://aws.amazon.com/blogs/mt/automate-ci-cd-troubleshooting-with-aws-devops-agent-and-github/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Shift-Left Tag Compliance using AWS Organizations and Terraform",
         "link": "https://aws.amazon.com/blogs/mt/shift-left-tag-compliance-using-aws-organizations-and-terraform/"
-    },
-    {
-        "title": "Simplifying Prometheus metrics collection across your AWS infrastructure",
-        "link": "https://aws.amazon.com/blogs/mt/simplifying-prometheus-metrics-collection-across-your-aws-infrastructure/"
     }
 ]

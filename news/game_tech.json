@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Agentic AI Is Transforming Game Infrastructure Management",
+        "link": "https://aws.amazon.com/blogs/gametech/how-agentic-ai-is-transforming-game-infrastructure-management/"
+    },
+    {
         "title": "Game integrity and cheat detection using AWS Game Analytics Pipeline, Amazon Quick, and Kiro agentic IDE",
         "link": "https://aws.amazon.com/blogs/gametech/game-integrity-and-cheat-detection-using-aws-game-analytics-pipeline-amazon-quick-and-kiro-agentic-ide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AI-assisted game production: From static concept to interactive prototype",
         "link": "https://aws.amazon.com/blogs/gametech/ai-assisted-game-production-from-static-concept-to-interactive-prototype/"
-    },
-    {
-        "title": "Monitoring server health with Amazon GameLift Servers",
-        "link": "https://aws.amazon.com/blogs/gametech/monitoring-server-health-with-amazon-gamelift-servers/"
     }
 ]
