@@ -1,5 +1,13 @@
 [
     {
+        "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/"
+    },
+    {
+        "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/"
+    },
+    {
         "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Evolving from legacy BI to agentic AI at Tradeshift with Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/evolving-from-legacy-bi-to-agentic-ai-at-tradeshift-with-amazon-quick/"
-    },
-    {
-        "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/"
-    },
-    {
-        "title": "Introducing Mobile Layout for Amazon Quick dashboards",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/"
     }
 ]

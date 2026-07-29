@@ -1,5 +1,13 @@
 [
     {
+        "title": "Getting started with AWS End User Messaging Notify",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/getting-started-with-aws-end-user-messaging-notify/"
+    },
+    {
+        "title": "How Fanatics Commerce built a scalable email platform on Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-fanatics-commerce-built-a-scalable-email-platform-on-amazon-ses/"
+    },
+    {
         "title": "Introducing Amazon Simple Email Service (SES) pricing plans",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/introducing-amazon-simple-email-service-ses-pricing-plans/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate sender ID registration in AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-sender-id-registration-in-aws-end-user-messaging/"
-    },
-    {
-        "title": "Enhance email security using VPC endpoints with Amazon SES Manager",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/enhance-email-security-using-vpc-endpoints-with-amazon-ses-manager/"
-    },
-    {
-        "title": "Implement Tenants in your Amazon SES environment, Part 3: Implementation guide",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/implement-tenants-in-your-amazon-ses-environment-part-3-implementation-guide/"
     }
 ]

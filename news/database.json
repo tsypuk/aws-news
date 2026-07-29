@@ -1,5 +1,21 @@
 [
     {
+        "title": "Migrate to Amazon Keyspaces with zero downtime using ZDM Proxy",
+        "link": "https://aws.amazon.com/blogs/database/migrate-to-amazon-keyspaces-with-zero-downtime-using-zdm-proxy/"
+    },
+    {
+        "title": "Troubleshooting SQL Server query performance on Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/troubleshooting-sql-server-query-performance-on-amazon-rds/"
+    },
+    {
+        "title": "Building scalable applications on Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/building-scalable-applications-on-amazon-aurora-dsql/"
+    },
+    {
+        "title": "Automated PII redaction for Amazon RDS for PostgreSQL audit logs",
+        "link": "https://aws.amazon.com/blogs/database/automated-pii-redaction-for-amazon-rds-for-postgresql-audit-logs/"
+    },
+    {
         "title": "Migrate self-managed PostgreSQL to Amazon RDS using the RDS console",
         "link": "https://aws.amazon.com/blogs/database/migrate-self-managed-postgresql-to-amazon-rds-using-the-rds-console/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Optimize replication lag for Amazon RDS for Oracle replicas using redo compression \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/database/optimize-replication-lag-for-amazon-rds-for-oracle-replicas-using-redo-compression-part-1/"
-    },
-    {
-        "title": "Fail back from Amazon RDS for Db2 to on-premises AIX Db2 using DMS",
-        "link": "https://aws.amazon.com/blogs/database/fail-back-from-amazon-rds-for-db2-to-on-premises-aix-db2-using-dms/"
-    },
-    {
-        "title": "Logical replication improvements in Amazon RDS for PostgreSQL 18",
-        "link": "https://aws.amazon.com/blogs/database/logical-replication-improvements-in-amazon-rds-for-postgresql-18/"
-    },
-    {
-        "title": "Automate PostgreSQL audit log extraction and analysis with Amazon S3",
-        "link": "https://aws.amazon.com/blogs/database/automate-postgresql-audit-log-extraction-and-analysis-with-amazon-s3/"
-    },
-    {
-        "title": "Dynata\u2019s journey to lower TCO and faster modernization with AWS Database Savings Plans",
-        "link": "https://aws.amazon.com/blogs/database/dynatas-journey-to-lower-tco-and-faster-modernization-with-aws-database-savings-plans/"
     }
 ]

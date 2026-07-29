@@ -1,5 +1,9 @@
 [
     {
+        "title": "Installing and updating the AWS CLI with single-line commands",
+        "link": "https://aws.amazon.com/blogs/developer/installing-and-updating-the-aws-cli-with-single-line-commands/"
+    },
+    {
         "title": "Updating TypeScript version support in AWS SDK for JavaScript v3",
         "link": "https://aws.amazon.com/blogs/developer/updating-typescript-version-support-in-aws-sdk-for-javascript-v3/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Tools for PowerShell v4 Maintenance Mode Announcement",
         "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v4-maintenance-mode-announcement/"
-    },
-    {
-        "title": "Automate Custom CI/CD Pipelines for Landing Zone Accelerator on AWS",
-        "link": "https://aws.amazon.com/blogs/developer/automate-custom-ci-cd-pipelines-for-landing-zone-accelerator-on-aws/"
     }
 ]

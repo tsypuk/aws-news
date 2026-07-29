@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
+        "link": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution/"
+    },
+    {
+        "title": "2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers",
+        "link": "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
+    },
+    {
         "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
         "link": "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Secure Amazon container workloads using container attribute-based rules in AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/secure-amazon-container-workloads-using-container-attribute-based-rules-in-aws-network-firewall/"
-    },
-    {
-        "title": "How to use the AWS Workload Credentials Provider for cross-account secret retrieval and prefetching secrets",
-        "link": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-workload-credentials-provider-for-cross-account-secret-retrieval-and-prefetching-secrets/"
-    },
-    {
-        "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
-        "link": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment/"
     }
 ]

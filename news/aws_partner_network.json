@@ -1,5 +1,9 @@
 [
     {
+        "title": "Orca just-in-time access & AWS IAM Identity Center solve permission sprawl",
+        "link": "https://aws.amazon.com/blogs/apn/orca-just-in-time-access-aws-iam-identity-center-solve-permission-sprawl/"
+    },
+    {
         "title": "Announcing 2026 AWS Partner Award Nominations",
         "link": "https://aws.amazon.com/blogs/apn/announcing-2026-aws-partner-award-nominations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Public AI delivers sovereign LLM inference on AWS and Intel",
         "link": "https://aws.amazon.com/blogs/apn/how-public-ai-delivers-sovereign-llm-inference-on-aws-and-intel/"
-    },
-    {
-        "title": "Unified Secrets Security with GitGuardian and AWS Secrets Manager",
-        "link": "https://aws.amazon.com/blogs/apn/unified-secrets-security-with-gitguardian-and-aws-secrets-manager/"
     }
 ]
