@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate Spark on EMR Serverless with larger workers and shuffle-optimized disks",
+        "link": "https://aws.amazon.com/blogs/big-data/accelerate-spark-on-emr-serverless-with-larger-workers-and-shuffle-optimized-disks/"
+    },
+    {
         "title": "Automate Spark Scala migration to 4.x with AWS Spark Upgrade Agent",
         "link": "https://aws.amazon.com/blogs/big-data/automate-spark-scala-migration-to-4-x-with-aws-spark-upgrade-agent/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy modern data platforms in minutes with MDAA",
         "link": "https://aws.amazon.com/blogs/big-data/deploy-modern-data-platforms-in-minutes-with-mdaa/"
-    },
-    {
-        "title": "Amazon Redshift RG: Faster and lower cost, Graviton-powered",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-rg-faster-and-lower-cost-graviton-powered/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
+        "link": "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/"
+    },
+    {
+        "title": "Secure your npm and pip package updates in Amazon Linux",
+        "link": "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux/"
+    },
+    {
         "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
         "link": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enforce zero data retention on Amazon Bedrock with Bedrock Projects and service control policies",
         "link": "https://aws.amazon.com/blogs/security/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/"
-    },
-    {
-        "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
-        "link": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/"
-    },
-    {
-        "title": "Secure Amazon container workloads using container attribute-based rules in AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/security/secure-amazon-container-workloads-using-container-attribute-based-rules-in-aws-network-firewall/"
     }
 ]
