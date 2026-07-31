@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running mission-critical Microsoft SQL Server databases on Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-mission-critical-microsoft-sql-server-databases-on-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Integrate Amazon Connect with AWS Managed AD via IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-amazon-connect-with-aws-managed-ad-via-iam-identity-center/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Reduce time-to-market for AI agents using Microsoft SQL Server 2025 and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reduce-time-to-market-for-ai-agents-using-sql-server-2025-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Deploying Microsoft Exchange Server with AWS Managed Microsoft AD Hybrid Edition",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/deploying-microsoft-exchange-server-with-aws-managed-microsoft-ad-hybrid-edition/"
     }
 ]

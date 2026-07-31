@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deliver Apache Kafka data to streaming tables for Apache Iceberg with Amazon MSK Express brokers",
+        "link": "https://aws.amazon.com/blogs/big-data/deliver-apache-kafka-data-to-streaming-tables-for-apache-iceberg-with-amazon-msk-express-brokers/"
+    },
+    {
+        "title": "Lowering AWS KMS decrypt API costs in EMR Spark jobs",
+        "link": "https://aws.amazon.com/blogs/big-data/lowering-aws-kms-decrypt-api-costs-in-emr-spark-jobs/"
+    },
+    {
         "title": "Accelerate Spark on EMR Serverless with larger workers and shuffle-optimized disks",
         "link": "https://aws.amazon.com/blogs/big-data/accelerate-spark-on-emr-serverless-with-larger-workers-and-shuffle-optimized-disks/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerating log analytics at scale with AWS Glue and Apache Iceberg materialized views",
         "link": "https://aws.amazon.com/blogs/big-data/accelerating-log-analytics-at-scale-with-aws-glue-and-apache-iceberg-materialized-views/"
-    },
-    {
-        "title": "Serverless analytics pipelines using the Apache Spark engine in Amazon Athena",
-        "link": "https://aws.amazon.com/blogs/big-data/serverless-analytics-pipelines-using-the-apache-spark-engine-in-amazon-athena/"
-    },
-    {
-        "title": "Deploy modern data platforms in minutes with MDAA",
-        "link": "https://aws.amazon.com/blogs/big-data/deploy-modern-data-platforms-in-minutes-with-mdaa/"
     }
 ]

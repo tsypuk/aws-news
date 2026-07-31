@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify compliance-driven Amazon S3 data movement with multi-criteria filtering",
+        "link": "https://aws.amazon.com/blogs/storage/simplify-compliance-driven-amazon-s3-data-movement-with-multi-criteria-filtering/"
+    },
+    {
         "title": "How Turso built a transactional database using Amazon S3 Express One Zone",
         "link": "https://aws.amazon.com/blogs/storage/how-turso-built-a-transactional-database-using-amazon-s3-express-one-zone/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon S3 audit logging, Part 1: Analyzing server access logs with Amazon Athena for performance insights",
         "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-1-analyzing-server-access-logs-with-amazon-athena-for-performance-insights/"
-    },
-    {
-        "title": "How to configure user storage quotas for the AWS Transfer Family on Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/how-to-configure-user-storage-quotas-for-aws-transfer-family-on-amazon-fsx-for-netapp-ontap/"
     }
 ]

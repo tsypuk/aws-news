@@ -1,5 +1,25 @@
 [
     {
+        "title": "Deploying Kimi K3 on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/"
+    },
+    {
+        "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/"
+    },
+    {
+        "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/"
+    },
+    {
+        "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/"
+    },
+    {
         "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
         "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Building multi-Region visualizations with Highcharts in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/"
-    },
-    {
-        "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/"
-    },
-    {
-        "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/"
-    },
-    {
-        "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/"
-    },
-    {
-        "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
-        "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/"
-    },
-    {
-        "title": "Custom OS installation now available on AWS DeepRacer devices",
-        "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/"
     }
 ]
