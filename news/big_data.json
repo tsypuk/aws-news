@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing costs and performance with Advanced Managed Scaling on Amazon EMR on EC2",
+        "link": "https://aws.amazon.com/blogs/big-data/optimizing-costs-and-performance-with-advanced-managed-scaling-on-amazon-emr-on-ec2/"
+    },
+    {
         "title": "Deliver Apache Kafka data to streaming tables for Apache Iceberg with Amazon MSK Express brokers",
         "link": "https://aws.amazon.com/blogs/big-data/deliver-apache-kafka-data-to-streaming-tables-for-apache-iceberg-with-amazon-msk-express-brokers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How BigBasket uses the Iceberg based lakehouse architecture on AWS to power lightning-fast grocery delivery across India",
         "link": "https://aws.amazon.com/blogs/big-data/how-bigbasket-uses-the-iceberg-based-lakehouse-architecture-on-aws-to-power-lightning-fast-grocery-delivery-across-india/"
-    },
-    {
-        "title": "Accelerating log analytics at scale with AWS Glue and Apache Iceberg materialized views",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerating-log-analytics-at-scale-with-aws-glue-and-apache-iceberg-materialized-views/"
     }
 ]
