@@ -1,5 +1,9 @@
 [
     {
+        "title": "Using CloudWatch Database Insights to troubleshoot query performance from calling services",
+        "link": "https://aws.amazon.com/blogs/database/using-cloudwatch-database-insights-to-troubleshoot-query-performance-from-calling-services/"
+    },
+    {
         "title": "Migrate to Amazon Keyspaces with zero downtime using ZDM Proxy",
         "link": "https://aws.amazon.com/blogs/database/migrate-to-amazon-keyspaces-with-zero-downtime-using-zdm-proxy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Diagnose and resolve replica lag in Amazon RDS for Oracle replicas \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/database/diagnose-and-resolve-replica-lag-in-amazon-rds-for-oracle-replicas-part-2/"
-    },
-    {
-        "title": "Optimize replication lag for Amazon RDS for Oracle replicas using redo compression \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/database/optimize-replication-lag-for-amazon-rds-for-oracle-replicas-using-redo-compression-part-1/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run GPU batch inference on Amazon ECS Managed Instances with scale to zero",
+        "link": "https://aws.amazon.com/blogs/containers/run-gpu-batch-inference-on-amazon-ecs-managed-instances-with-scale-to-zero/"
+    },
+    {
         "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
         "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Faster nodes, smarter scaling: What\u2019s new inside Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/faster-nodes-smarter-scaling-whats-new-inside-amazon-elastic-kubernetes-service-amazon-eks-auto-mode/"
-    },
-    {
-        "title": "Amazon EKS now supports control plane egress through your VPC",
-        "link": "https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-control-plane-egress-through-your-vpc/"
     }
 ]

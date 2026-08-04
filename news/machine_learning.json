@@ -1,5 +1,13 @@
 [
     {
+        "title": "From weeks to minutes: How Formula 1\u00ae uses agentic AI on AWS to accelerate data operations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/"
+    },
+    {
+        "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/"
+    },
+    {
         "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/"
-    },
-    {
-        "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/"
-    },
-    {
-        "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/"
     }
 ]

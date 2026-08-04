@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/"
+    },
+    {
         "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
         "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/"
-    },
-    {
-        "title": "AWS Security Agent adds threat modeling, Kiro power and Claude Code plugin, and more",
-        "link": "https://aws.amazon.com/blogs/aws/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/"
     }
 ]
