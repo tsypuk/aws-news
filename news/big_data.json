@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transforming search at Delivery Hero: A migration journey to OpenSearch Service with radial search",
+        "link": "https://aws.amazon.com/blogs/big-data/transforming-search-at-delivery-hero-a-migration-journey-to-opensearch-service-with-radial-search/"
+    },
+    {
         "title": "Amazon Redshift multi-Region disaster recovery",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-redshift-multi-region-disaster-recovery/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Patch perfect: Automating Amazon Redshift patch testing",
         "link": "https://aws.amazon.com/blogs/big-data/patch-perfect-automating-amazon-redshift-patch-testing/"
-    },
-    {
-        "title": "Multi-cloud lakehouse architecture on AWS for Agentic AI, Part 1: Architecture and best practices",
-        "link": "https://aws.amazon.com/blogs/big-data/multi-cloud-lakehouse-architecture-on-aws-for-agentic-ai-part-1-architecture-and-best-practices/"
     }
 ]

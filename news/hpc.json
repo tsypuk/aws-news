@@ -1,5 +1,9 @@
 [
     {
+        "title": "Resilient HPC and ML on AWS: Running Tightly Coupled Workloads on Spot Instances",
+        "link": "https://aws.amazon.com/blogs/hpc/resilient-hpc-and-ml-on-aws-running-tightly-coupled-workloads-on-spot-instances/"
+    },
+    {
         "title": "Transforming HPC Operations with Intelligent Workload Orchestration on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/transforming-hpc-operations-with-intelligent-workload-orchestration-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Meet the Advanced Computing team of AWS at SC25 in St. Louis",
         "link": "https://aws.amazon.com/blogs/hpc/meet-the-advanced-computing-team-of-aws-at-sc25-in-st-louis/"
-    },
-    {
-        "title": "AWS re:Invent 2025: Your Complete Guide to High Performance Computing Sessions",
-        "link": "https://aws.amazon.com/blogs/hpc/aws-reinvent-2025-your-complete-guide-to-high-performance-computing-sessions/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Hyundai AutoEver: Building a multi-tenant generative AI sandbox and production AIOps on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/industries/hyundai-autoever-building-a-multi-tenant-generative-ai-sandbox-and-production-aiops-on-amazon-bedrock/"
+    },
+    {
+        "title": "Multi-Agent Multimodal Data Analysis on AWS \u2013 Part 2: Multi-Agent Orchestration and Predictive Analytics",
+        "link": "https://aws.amazon.com/blogs/industries/multi-agent-multimodal-data-analysis-on-aws-part-2-multi-agent-orchestration-and-predictive-analytics/"
+    },
+    {
+        "title": "Multi-Agent Multimodal Data Analysis on AWS \u2013 Part 1: Data Governance and Visualization",
+        "link": "https://aws.amazon.com/blogs/industries/multi-agent-multimodal-data-analysis-on-aws-part-1-data-governance-and-visualization/"
+    },
+    {
         "title": "Achieve elastic scalability for voice communications using Ribbon SBC on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/industries/achieve-elastic-scalability-for-voice-communications-using-ribbon-sbc-on-amazon-eks/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "AI Credit Analytics Across Amazon S3 and Snowflake with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/industries/ai-credit-analytics-across-amazon-s3-and-snowflake-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Kite Advances Scalable Bioinformatics for Cell Therapy Research in Collaboration with AWS HealthOmics",
-        "link": "https://aws.amazon.com/blogs/industries/kite-advances-scalable-bioinformatics-for-cell-therapy-research-in-collaboration-with-aws-healthomics/"
-    },
-    {
-        "title": "How Axel Springer transformed ad monetization by migrating from client-side bidding to AWS RTB Fabric",
-        "link": "https://aws.amazon.com/blogs/industries/how-axel-springer-transformed-ad-monetization-by-migrating-from-client-side-bidding-to-aws-rtb-fabric/"
-    },
-    {
-        "title": "How Peloton Engineers the World\u2019s Largest Live Fitness Events on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-peloton-engineers-the-worlds-largest-live-fitness-events-on-aws/"
     }
 ]

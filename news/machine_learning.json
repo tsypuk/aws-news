@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/"
+    },
+    {
+        "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "From weeks to minutes: How Formula 1\u00ae uses agentic AI on AWS to accelerate data operations",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/"
-    },
-    {
-        "title": "Build an explainable next-best-product recommendation system for banking on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/"
-    },
-    {
-        "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/"
     }
 ]

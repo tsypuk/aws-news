@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reintroducing Network Firewall Proxy for Secure Egress Connectivity",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/reintroducing-network-firewall-proxy-for-secure-egress-connectivity/"
+    },
+    {
+        "title": "Measuring network latency to AWS Region before deployment",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/measuring-network-latency-to-aws-region-before-deployment/"
+    },
+    {
         "title": "How Amazon CloudFront delivered traffic for the FIFA World Cup 2026",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-amazon-cloudfront-delivered-traffic-for-the-fifa-world-cup-2026/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Intelligent VPN observability: Decoding AWS Site-to-Site VPN logs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/intelligent-vpn-observability-decoding-aws-site-to-site-vpn-logs/"
-    },
-    {
-        "title": "AWS Cloud WAN Routing Policy: Real-World Global Network Scenarios \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-routing-policy-real-world-global-network-scenarios-part-2/"
-    },
-    {
-        "title": "Extending NLB health checks for RADIUS using an Amazon ECS witness",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/extending-nlb-health-checks-for-radius-using-an-amazon-ecs-witness/"
     }
 ]

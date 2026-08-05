@@ -1,5 +1,13 @@
 [
     {
+        "title": "Distributed generative AI for government",
+        "link": "https://aws.amazon.com/blogs/publicsector/distributed-generative-ai-for-government/"
+    },
+    {
+        "title": "Safekeeping your data anywhere: How AWS and Expando help European governments protect data from the edge to the cloud",
+        "link": "https://aws.amazon.com/blogs/publicsector/safekeeping-your-data-anywhere-how-aws-and-expando-help-european-governments-protect-data-from-the-edge-to-the-cloud/"
+    },
+    {
         "title": "The Signal-Activated Agent Pattern: A reference architecture for proactive government AI",
         "link": "https://aws.amazon.com/blogs/publicsector/the-signal-activated-agent-pattern-a-reference-architecture-for-proactive-government-ai/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate regulatory package processing with agentic AI on AWS and Databricks",
         "link": "https://aws.amazon.com/blogs/publicsector/accelerate-regulatory-package-processing-with-agentic-ai-on-aws/"
-    },
-    {
-        "title": "How Iowa State University\u2019s Translational AI Center is feeding the future with generative AI and computer vision on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-iowa-state-universitys-translational-ai-center-is-feeding-the-future-with-generative-ai-and-computer-vision-on-aws/"
-    },
-    {
-        "title": "How CGI Federal and AWS delivered 50% performance gains and 6-month ATO for GSA\u2019s financial management system",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-cgi-federal-and-aws-delivered-50-performance-gains-and-6-month-ato-for-gsas-financial-management-system/"
     }
 ]

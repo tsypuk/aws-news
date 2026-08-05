@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build smart agriculture with AWS IoT Greengrass and Strands Agents",
+        "link": "https://aws.amazon.com/blogs/iot/build-smart-agriculture-with-aws-iot-greengrass-and-strands-agents/"
+    },
+    {
         "title": "Architect a dual-path IoT conversation analytics solution on AWS",
         "link": "https://aws.amazon.com/blogs/iot/architect-a-dual-path-iot-conversation-analytics-solution-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrating ServiceNow OT Asset Workspaces with AWS IoT SiteWise Asset Models",
         "link": "https://aws.amazon.com/blogs/iot/integrating-servicenow-ot-asset-workspaces-with-aws-iot-sitewise-asset-models/"
-    },
-    {
-        "title": "Seamless migration: Securely transitioning large IoT fleets to AWS",
-        "link": "https://aws.amazon.com/blogs/iot/seamless-migration-securely-transitioning-large-iot-fleets-to-aws/"
     }
 ]
