@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
+        "link": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows/"
+    },
+    {
+        "title": "From 2 weeks to 2 minutes: Amazon Cognito launches Provisioned limits for self-service rate limit management",
+        "link": "https://aws.amazon.com/blogs/security/from-2-weeks-to-2-minutes-amazon-cognito-launches-provisioned-limits-for-self-service-rate-limit-management/"
+    },
+    {
         "title": "Spring 2026 PCI DSS and PCI 3DS compliance packages for AWS now available",
         "link": "https://aws.amazon.com/blogs/security/spring-2026-pci-dss-and-pci-3ds-compliance-packages-for-aws-now-available/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
         "link": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control/"
-    },
-    {
-        "title": "New compliance guidance available: HITRUST i1 on AWS",
-        "link": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/"
-    },
-    {
-        "title": "AWS designated as a critical third party to the UK financial sector",
-        "link": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/"
     }
 ]

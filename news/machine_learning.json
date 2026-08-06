@@ -1,5 +1,21 @@
 [
     {
+        "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/"
+    },
+    {
+        "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/"
+    },
+    {
+        "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/"
+    },
+    {
         "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/"
-    },
-    {
-        "title": "Beyond RAG: Task-aware knowledge compression for enterprise AI on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/"
-    },
-    {
-        "title": "Deepgram enhances Amazon SageMaker AI support with AWS IAM Temporary Delegation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/"
-    },
-    {
-        "title": "How Guardoc transforms medical document processing with Amazon Nova models",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/"
-    },
-    {
-        "title": "Introducing Claude Opus 5 on AWS: Anthropic\u2019s most capable Opus model",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/"
     }
 ]

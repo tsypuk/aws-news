@@ -1,5 +1,9 @@
 [
     {
+        "title": "Under the hood: how Amazon EKS Auto Mode detects, repairs, and diagnoses node failures",
+        "link": "https://aws.amazon.com/blogs/containers/under-the-hood-how-amazon-eks-auto-mode-detects-repairs-and-diagnoses-node-failures/"
+    },
+    {
         "title": "Extending Amazon ECS Express Mode to Build an Optimal Container Environment",
         "link": "https://aws.amazon.com/blogs/containers/extending-amazon-ecs-express-mode-to-build-an-optimal-container-environment/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Diagnose Kubernetes Control Plane Performance Issues with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/containers/diagnose-kubernetes-control-plane-performance-issues-with-aws-devops-agent/"
-    },
-    {
-        "title": "Announcing Amazon EKS Rollback for safe and reliable management of cluster upgrades",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades/"
     }
 ]

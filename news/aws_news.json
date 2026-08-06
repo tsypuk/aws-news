@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/"
+    },
+    {
         "title": "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Proactively reduce tech debt autonomously with AWS Transform \u2013 continuous modernization (preview)",
         "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/"
-    },
-    {
-        "title": "AWS DevOps Agent adds release management capabilities to assess code changes before production (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-devops-agent-adds-release-management-capabilities-to-assess-code-changes-before-production-preview/"
     }
 ]

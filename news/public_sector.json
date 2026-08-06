@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy AI agents in AWS GovCloud (US) using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/publicsector/deploy-ai-agents-in-aws-govcloud-us-using-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Distributed generative AI for government",
         "link": "https://aws.amazon.com/blogs/publicsector/distributed-generative-ai-for-government/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Rize Credit Union built a serverless data lake on AWS to become its own source of truth",
         "link": "https://aws.amazon.com/blogs/publicsector/how-rize-credit-union-built-a-serverless-data-lake-on-aws-to-become-its-own-source-of-truth/"
-    },
-    {
-        "title": "Accelerate regulatory package processing with agentic AI on AWS and Databricks",
-        "link": "https://aws.amazon.com/blogs/publicsector/accelerate-regulatory-package-processing-with-agentic-ai-on-aws/"
     }
 ]

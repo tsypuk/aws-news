@@ -1,5 +1,13 @@
 [
     {
+        "title": "Analyze Amazon S3 annotations at scale with materialized views",
+        "link": "https://aws.amazon.com/blogs/storage/analyze-amazon-s3-annotations-at-scale-with-materialized-views/"
+    },
+    {
+        "title": "Accelerate Amazon S3 Replication with automated S3 Batch Operations parallelization",
+        "link": "https://aws.amazon.com/blogs/storage/accelerate-amazon-s3-replication-with-automated-s3-batch-operations-parallelization/"
+    },
+    {
         "title": "Simplify compliance-driven Amazon S3 data movement with multi-criteria filtering",
         "link": "https://aws.amazon.com/blogs/storage/simplify-compliance-driven-amazon-s3-data-movement-with-multi-criteria-filtering/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon S3 audit logging, Part 3: Analyzing S3 Metadata journal tables for object lifecycle tracking",
         "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-3-analyzing-s3-metadata-journal-tables-for-object-lifecycle-tracking/"
-    },
-    {
-        "title": "Amazon S3 audit logging, Part 2: Centralized logging and analysis of S3 data events in AWS CloudTrail for security and compliance",
-        "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-2-centralized-logging-and-analysis-of-s3-data-events-in-aws-cloudtrail-for-security-and-compliance/"
-    },
-    {
-        "title": "Amazon S3 audit logging, Part 1: Analyzing server access logs with Amazon Athena for performance insights",
-        "link": "https://aws.amazon.com/blogs/storage/amazon-s3-audit-logging-part-1-analyzing-server-access-logs-with-amazon-athena-for-performance-insights/"
     }
 ]

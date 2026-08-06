@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS and JPMorganChase collaborate to advance quantum computing R&D",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/aws-and-jpmorganchase-collaborate-to-advance-quantum-computing-rd/"
+    },
+    {
         "title": "Thermodynamic sampling of disordered materials with an analog Hamiltonian Rydberg simulator",
         "link": "https://aws.amazon.com/blogs/quantum-computing/thermodynamic-sampling-of-disordered-materials-with-an-analog-hamiltonian-rydberg-simulator-2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Error mitigation on Amazon Braket with program sets and Mitiq",
         "link": "https://aws.amazon.com/blogs/quantum-computing/error-mitigation-on-amazon-braket-with-program-sets-and-mitiq/"
-    },
-    {
-        "title": "Getting the Most from Your Quantum Measurements: Adaptive Shot Allocation on Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/getting-the-most-from-your-quantum-measurements-adaptive-shot-allocation-on-amazon-braket/"
     }
 ]

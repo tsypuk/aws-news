@@ -1,5 +1,17 @@
 [
     {
+        "title": "Oracle Machine Learning for SQL on Amazon RDS: Build machine learning models entirely in SQL",
+        "link": "https://aws.amazon.com/blogs/database/oracle-machine-learning-for-sql-on-amazon-rds-build-machine-learning-models-entirely-in-sql/"
+    },
+    {
+        "title": "Detect CDC failures faster with AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/detect-cdc-failures-faster-with-aws-dms/"
+    },
+    {
+        "title": "Build semantic search with native vector support in Amazon DynamoDB",
+        "link": "https://aws.amazon.com/blogs/database/build-semantic-search-with-native-vector-support-in-amazon-dynamodb/"
+    },
+    {
         "title": "Advanced data modeling: Using user-defined types and Protocol Buffers for Amazon Keyspaces",
         "link": "https://aws.amazon.com/blogs/database/advanced-data-modeling-using-user-defined-types-and-protocol-buffers-for-amazon-keyspaces/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build a semantic ontology to power AI assistants on AWS \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/database/build-a-semantic-ontology-to-power-ai-assistants-on-aws-part-1/"
-    },
-    {
-        "title": "Rebuild large indexes on Aurora PostgreSQL with Blue/Green Deployments",
-        "link": "https://aws.amazon.com/blogs/database/rebuild-large-indexes-on-aurora-postgresql-with-blue-green-deployments/"
-    },
-    {
-        "title": "Provisioning DMS Schema Conversion via AWS CloudFormation",
-        "link": "https://aws.amazon.com/blogs/database/provisioning-dms-schema-conversion-via-aws-cloudformation/"
-    },
-    {
-        "title": "Accelerate database modernization with agentic AI in AWS DMS Schema Conversion",
-        "link": "https://aws.amazon.com/blogs/database/accelerate-database-modernization-with-agentic-ai-in-aws-dms-schema-conversion/"
     }
 ]

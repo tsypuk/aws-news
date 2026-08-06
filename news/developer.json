@@ -1,5 +1,13 @@
 [
     {
+        "title": "Announcing response streaming for .NET on AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-response-streaming-for-net-on-aws-lambda/"
+    },
+    {
+        "title": "Building and Deploying .NET AI Agents with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/developer/building-and-deploying-net-ai-agents-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "AWS Tools Installer V2 is Now Generally Available",
         "link": "https://aws.amazon.com/blogs/developer/aws-tools-installer-v2-is-now-generally-available/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Upgrading AWS CLI From v1 to v2 Using the Migration Tool",
         "link": "https://aws.amazon.com/blogs/developer/upgrading-aws-cli-from-v1-to-v2-using-the-migration-tool/"
-    },
-    {
-        "title": "Transfer Manager Directory Support for AWS SDK for Ruby",
-        "link": "https://aws.amazon.com/blogs/developer/transfer-manager-directory-support-for-aws-sdk-for-ruby/"
-    },
-    {
-        "title": "Upgrade AWS CLI from v1 to v2 using upgrade debug mode",
-        "link": "https://aws.amazon.com/blogs/developer/upgrade-aws-cli-from-v1-to-v2-using-upgrade-debug-mode/"
     }
 ]
