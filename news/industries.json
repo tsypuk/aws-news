@@ -1,5 +1,17 @@
 [
     {
+        "title": "Serverless Real-time Voice AI on AWS: A Pattern for Enterprise Sales Coaching",
+        "link": "https://aws.amazon.com/blogs/industries/serverless-real-time-voice-ai-on-aws-a-pattern-for-enterprise-sales-coaching/"
+    },
+    {
+        "title": "Automate customer complaint classification with AI agents on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/automate-customer-complaint-classification-with-ai-agents-on-aws/"
+    },
+    {
+        "title": "Run HPC Simulations faster with Siemens Teamcenter and AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/industries/run-hpc-simulations-faster-with-siemens-teamcenter-and-aws-parallelcluster/"
+    },
+    {
         "title": "Hyundai AutoEver: Building a multi-tenant generative AI sandbox and production AIOps on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/industries/hyundai-autoever-building-a-multi-tenant-generative-ai-sandbox-and-production-aiops-on-amazon-bedrock/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Amica unlocks value from Core Insurance applications with Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/industries/amica-unlocks-value-from-core-insurance-applications-with-amazon-s3-tables/"
-    },
-    {
-        "title": "Blazing a Trail: How Peloton Rebuilt the SDLC for the Agentic Era with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/blazing-a-trail-how-peloton-rebuilt-the-sdlc-for-the-agentic-era-with-amazon-bedrock/"
-    },
-    {
-        "title": "Is your AI Agent ready for prime time?",
-        "link": "https://aws.amazon.com/blogs/industries/is-your-ai-agent-ready-for-prime-time/"
-    },
-    {
-        "title": "AI Credit Analytics Across Amazon S3 and Snowflake with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/industries/ai-credit-analytics-across-amazon-s3-and-snowflake-with-amazon-bedrock-agentcore/"
     }
 ]

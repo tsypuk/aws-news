@@ -1,5 +1,37 @@
 [
     {
+        "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Configure rate limits for AI traffic on AgentCore gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/"
+    },
+    {
+        "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/"
+    },
+    {
+        "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/"
+    },
+    {
+        "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/"
+    },
+    {
+        "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/"
+    },
+    {
+        "title": "LLM optimization integration for Amazon SageMaker Python SDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/"
+    },
+    {
         "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/"
-    },
-    {
-        "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/"
-    },
-    {
-        "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/"
-    },
-    {
-        "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-your-prompts-to-new-models-and-optimize-them-on-amazon-bedrock/"
-    },
-    {
-        "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-        "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/"
-    },
-    {
-        "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/"
-    },
-    {
-        "title": "Automating customer retention workflows in Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/"
-    },
-    {
-        "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/"
-    },
-    {
-        "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Centralize cross-account Amazon ECS telemetry with an ADOT gateway",
+        "link": "https://aws.amazon.com/blogs/containers/centralize-cross-account-amazon-ecs-telemetry-with-an-adot-gateway/"
+    },
+    {
         "title": "Under the hood: how Amazon EKS Auto Mode detects, repairs, and diagnoses node failures",
         "link": "https://aws.amazon.com/blogs/containers/under-the-hood-how-amazon-eks-auto-mode-detects-repairs-and-diagnoses-node-failures/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Full request and response compliance logging on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/full-request-and-response-compliance-logging-on-amazon-eks/"
-    },
-    {
-        "title": "Diagnose Kubernetes Control Plane Performance Issues with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/containers/diagnose-kubernetes-control-plane-performance-issues-with-aws-devops-agent/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS Supports Agent Plugins: An Open Standard for Portable Agent Extensions",
+        "link": "https://aws.amazon.com/blogs/opensource/aws-supports-agent-plugins-an-open-standard-for-portable-agent-extensions/"
+    },
+    {
+        "title": "Introducing Dogwood: runtime verification for AI agents",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/"
+    },
+    {
         "title": "Open Protocols with the Strands Agents SDK",
         "link": "https://aws.amazon.com/blogs/opensource/open-protocols-with-the-strands-agents-sdk/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "The Swift AWS Lambda Runtime moves to AWSLabs",
         "link": "https://aws.amazon.com/blogs/opensource/the-swift-aws-lambda-runtime-moves-to-awslabs/"
-    },
-    {
-        "title": "Jupyter Deploy: Create a JupyterLab application with real-time collaboration in the cloud in minutes",
-        "link": "https://aws.amazon.com/blogs/opensource/jupyter-deploy-create-a-jupyterlab-application-with-real-time-collaboration-in-the-cloud-in-minutes/"
-    },
-    {
-        "title": "Introducing CLI Agent Orchestrator: Transforming Developer CLI Tools into a Multi-Agent Powerhouse",
-        "link": "https://aws.amazon.com/blogs/opensource/introducing-cli-agent-orchestrator-transforming-developer-cli-tools-into-a-multi-agent-powerhouse/"
     }
 ]

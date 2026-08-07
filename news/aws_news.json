@@ -1,5 +1,9 @@
 [
     {
+        "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Amazon DynamoDB now supports real-time vector search at any scale",
         "link": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge",
         "link": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/"
-    },
-    {
-        "title": "Proactively reduce tech debt autonomously with AWS Transform \u2013 continuous modernization (preview)",
-        "link": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/"
     }
 ]

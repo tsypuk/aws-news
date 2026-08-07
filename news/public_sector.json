@@ -1,5 +1,13 @@
 [
     {
+        "title": "SaaS design levers for sovereignty on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/saas-design-levers-for-sovereignty-on-aws/"
+    },
+    {
+        "title": "What US federal agencies need to know about OMB memorandum M-26-14: Part 1",
+        "link": "https://aws.amazon.com/blogs/publicsector/what-us-federal-agencies-need-to-know-about-omb-memorandum-m-26-14-part-1/"
+    },
+    {
         "title": "Deploy AI agents in AWS GovCloud (US) using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/publicsector/deploy-ai-agents-in-aws-govcloud-us-using-amazon-bedrock-agentcore/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How South Carolina\u2019s Talking Book Services uses Amazon Connect to bring readers closer to the stories they love",
         "link": "https://aws.amazon.com/blogs/publicsector/how-south-carolinas-talking-book-services-uses-amazon-connect-to-bring-readers-closer-to-the-stories-they-love/"
-    },
-    {
-        "title": "Building AI agents for domain-specific classification at scale",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-ai-agents-for-domain-specific-classification-at-scale/"
-    },
-    {
-        "title": "How Rize Credit Union built a serverless data lake on AWS to become its own source of truth",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-rize-credit-union-built-a-serverless-data-lake-on-aws-to-become-its-own-source-of-truth/"
     }
 ]

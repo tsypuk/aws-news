@@ -1,5 +1,17 @@
 [
     {
+        "title": "Automate certificates with ACME support in AWS Certificate Manager",
+        "link": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager/"
+    },
+    {
+        "title": "Route Amazon Bedrock Guardrails interventions to Amazon Security Lake",
+        "link": "https://aws.amazon.com/blogs/security/route-amazon-bedrock-guardrails-interventions-to-amazon-security-lake/"
+    },
+    {
+        "title": "Caching KMS data keys in multi-thread environments: Per-tenant encryption for event-driven systems at scale",
+        "link": "https://aws.amazon.com/blogs/security/caching-kms-data-keys-in-multi-thread-environments-per-tenant-encryption-for-event-driven-systems-at-scale/"
+    },
+    {
         "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
         "link": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "2026 ISO and CSA STAR certificates are now available with two additional services",
         "link": "https://aws.amazon.com/blogs/security/2026-iso-and-csa-star-certificates-are-now-available-with-two-additional-services/"
-    },
-    {
-        "title": "ICYMI: June 2026 @AWS Security",
-        "link": "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security/"
-    },
-    {
-        "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure",
-        "link": "https://aws.amazon.com/blogs/security/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure/"
-    },
-    {
-        "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
-        "link": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control/"
     }
 ]

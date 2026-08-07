@@ -1,5 +1,13 @@
 [
     {
+        "title": "Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation/"
+    },
+    {
+        "title": "Event-driven pipeline orchestration with Amazon MWAA and Airflow 3.0",
+        "link": "https://aws.amazon.com/blogs/big-data/event-driven-pipeline-orchestration-with-amazon-mwaa-and-airflow-3-0/"
+    },
+    {
         "title": "Transforming search at Delivery Hero: A migration journey to OpenSearch Service with radial search",
         "link": "https://aws.amazon.com/blogs/big-data/transforming-search-at-delivery-hero-a-migration-journey-to-opensearch-service-with-radial-search/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "High-performance Remote Shuffle Service on Amazon EMR with Apache Celeborn",
         "link": "https://aws.amazon.com/blogs/big-data/high-performance-remote-shuffle-service-on-amazon-emr-with-apache-celeborn/"
-    },
-    {
-        "title": "Zero Copy access to Apache Iceberg tables in Amazon S3 from Salesforce Data 360 using the Iceberg REST endpoint from AWS Glue Data Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/zero-copy-access-to-apache-iceberg-tables-in-amazon-s3-from-salesforce-data-360-using-the-iceberg-rest-endpoint-from-aws-glue-data-catalog/"
-    },
-    {
-        "title": "Patch perfect: Automating Amazon Redshift patch testing",
-        "link": "https://aws.amazon.com/blogs/big-data/patch-perfect-automating-amazon-redshift-patch-testing/"
     }
 ]

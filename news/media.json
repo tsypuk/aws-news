@@ -1,5 +1,9 @@
 [
     {
+        "title": "Use CloudWatch syslog and Log Alarms to give AWS DevOps Agent on-premises visibility",
+        "link": "https://aws.amazon.com/blogs/mt/use-cloudwatch-syslog-and-log-alarms-to-give-aws-devops-agent-on-premises-visibility/"
+    },
+    {
         "title": "Getting per-resource alarm notifications with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/mt/getting-per-resource-alarm-notifications-with-amazon-cloudwatch/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Honeycomb improved resilience using AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/mt/how-honeycomb-improved-resilience-using-aws-fault-injection-service/"
-    },
-    {
-        "title": "AWS Observability ICYMI: Jan-May 2026",
-        "link": "https://aws.amazon.com/blogs/mt/aws-observability-icymi-jan-may-2026/"
     }
 ]
