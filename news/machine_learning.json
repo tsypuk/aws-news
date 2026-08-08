@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/"
+    },
+    {
+        "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
+        "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/"
+    },
+    {
         "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/"
-    },
-    {
-        "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/"
-    },
-    {
-        "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/"
-    },
-    {
-        "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/"
     }
 ]

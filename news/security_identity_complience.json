@@ -1,5 +1,13 @@
 [
     {
+        "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
+        "link": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/"
+    },
+    {
+        "title": "Securing your Amazon S3 buckets: Identifying and remediating over-permissioned access",
+        "link": "https://aws.amazon.com/blogs/security/securing-your-amazon-s3-buckets-identifying-and-remediating-over-permissioned-access/"
+    },
+    {
         "title": "Automate certificates with ACME support in AWS Certificate Manager",
         "link": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Do more with AWS WAF labels using dynamic label interpolation",
         "link": "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/"
-    },
-    {
-        "title": "Introducing the Amazon GuardDuty investigation agent: on-demand AI-powered threat assessment",
-        "link": "https://aws.amazon.com/blogs/security/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment/"
-    },
-    {
-        "title": "2026 ISO and CSA STAR certificates are now available with two additional services",
-        "link": "https://aws.amazon.com/blogs/security/2026-iso-and-csa-star-certificates-are-now-available-with-two-additional-services/"
     }
 ]

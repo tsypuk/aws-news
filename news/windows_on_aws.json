@@ -1,5 +1,9 @@
 [
     {
+        "title": "Add Microsoft Office to an existing image using EC2 Image Builder",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/add-microsoft-office-to-an-existing-image-using-ec2-image-builder/"
+    },
+    {
         "title": "Running mission-critical Microsoft SQL Server databases on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-mission-critical-microsoft-sql-server-databases-on-amazon-fsx-for-netapp-ontap/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Restore SQL Server databases using T-SQL and Amazon FSx for NetApp ONTAP Snapshots",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/restore-sql-server-databases-using-t-sql-and-amazon-fsx-for-netapp-ontap-snapshots/"
-    },
-    {
-        "title": "Reduce time-to-market for AI agents using Microsoft SQL Server 2025 and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/reduce-time-to-market-for-ai-agents-using-sql-server-2025-and-amazon-bedrock-agentcore/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon OpenSearch Service extends version lifecycle support timelines",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-extends-version-lifecycle-support-timelines/"
+    },
+    {
         "title": "Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation",
         "link": "https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate from Apache Solr to Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-from-apache-solr-to-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "High-performance Remote Shuffle Service on Amazon EMR with Apache Celeborn",
-        "link": "https://aws.amazon.com/blogs/big-data/high-performance-remote-shuffle-service-on-amazon-emr-with-apache-celeborn/"
     }
 ]
