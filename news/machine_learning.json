@@ -28,10 +28,6 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/"
     },
     {
-        "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/"
-    },
-    {
         "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/"
+    },
+    {
+        "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/"
     }
 ]
