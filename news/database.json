@@ -1,5 +1,17 @@
 [
     {
+        "title": "Recover from accidental DynamoDB changes using Bulk Executor",
+        "link": "https://aws.amazon.com/blogs/database/recover-from-accidental-dynamodb-changes-using-bulk-executor/"
+    },
+    {
+        "title": "Configure AWS Advanced JDBC Wrapper connection pooling with the assistant",
+        "link": "https://aws.amazon.com/blogs/database/configure-aws-advanced-jdbc-wrapper-connection-pooling-with-the-assistant/"
+    },
+    {
+        "title": "Build zero-downtime write architectures for Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/build-zero-downtime-write-architectures-for-amazon-neptune/"
+    },
+    {
         "title": "MCP tools for Amazon Aurora DSQL: Query execution and schema management",
         "link": "https://aws.amazon.com/blogs/database/mcp-tools-for-amazon-aurora-dsql-query-execution-and-schema-management/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Building agentic AI patterns with Amazon Bedrock and SQL Server 2025 on Amazon RDS",
         "link": "https://aws.amazon.com/blogs/database/building-agentic-ai-patterns-with-amazon-bedrock-and-sql-server-2025-on-amazon-rds/"
-    },
-    {
-        "title": "Migrate from AIX or Windows Db2 to Amazon RDS for Db2",
-        "link": "https://aws.amazon.com/blogs/database/migrate-from-aix-or-windows-db2-to-amazon-rds-for-db2/"
-    },
-    {
-        "title": "Connection pooling strategies in Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/connection-pooling-strategies-in-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Introducing open source Bulk Executor for Amazon DynamoDB",
-        "link": "https://aws.amazon.com/blogs/database/introducing-open-source-bulk-executor-for-amazon-dynamodb/"
     }
 ]

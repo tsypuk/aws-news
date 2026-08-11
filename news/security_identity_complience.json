@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS completes the 2026 Police-Assured Secure Facilities (PASF) audit in Europe (London)",
+        "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2026-police-assured-secure-facilities-pasf-audit-in-europe-london/"
+    },
+    {
+        "title": "2026 AWS CyberVadis report now available for due diligence on third-party suppliers",
+        "link": "https://aws.amazon.com/blogs/security/2026-aws-cybervadis-report-now-available-for-due-diligence-on-third-party-suppliers/"
+    },
+    {
         "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
         "link": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/"
     },
@@ -10,10 +18,6 @@
     {
         "title": "Automate certificates with ACME support in AWS Certificate Manager",
         "link": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager/"
-    },
-    {
-        "title": "Route Amazon Bedrock Guardrails interventions to Amazon Security Lake",
-        "link": "https://aws.amazon.com/blogs/security/route-amazon-bedrock-guardrails-interventions-to-amazon-security-lake/"
     },
     {
         "title": "Caching KMS data keys in multi-thread environments: Per-tenant encryption for event-driven systems at scale",
@@ -74,9 +78,5 @@
     {
         "title": "Enterprise security at machine speed: AWS Black Hat 2026 preview",
         "link": "https://aws.amazon.com/blogs/security/enterprise-security-at-machine-speed-aws-black-hat-2026-preview/"
-    },
-    {
-        "title": "Do more with AWS WAF labels using dynamic label interpolation",
-        "link": "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Evaluating Amazon Connect Customer AI Agents with DeepEval for MRM",
+        "link": "https://aws.amazon.com/blogs/contact-center/evaluating-amazon-connect-customer-ai-agents-with-deepeval-for-mrm/"
+    },
+    {
         "title": "How to authenticate customers during chat with Amazon Connect Customer",
         "link": "https://aws.amazon.com/blogs/contact-center/how-to-authenticate-customers-during-chat-with-amazon-connect-customer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Configure scheduling notification rules in Amazon Connect Customer",
         "link": "https://aws.amazon.com/blogs/contact-center/configure-scheduling-notification-rules-in-amazon-connect-customer/"
-    },
-    {
-        "title": "ETERNO transforms patient communication using Amazon Connect Customer",
-        "link": "https://aws.amazon.com/blogs/contact-center/eterno-transforms-patient-communication-using-amazon-connect-customer-ai/"
     }
 ]

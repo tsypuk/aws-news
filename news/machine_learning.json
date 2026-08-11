@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/"
+    },
+    {
+        "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automated Reasoning policy refinement in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/"
-    },
-    {
-        "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/"
-    },
-    {
-        "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/"
     }
 ]

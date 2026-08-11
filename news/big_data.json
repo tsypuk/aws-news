@@ -1,5 +1,13 @@
 [
     {
+        "title": "How a team at Epic Games tuned Amazon OpenSearch Service for Fortnite analytics",
+        "link": "https://aws.amazon.com/blogs/big-data/how-a-team-at-epic-games-tuned-amazon-opensearch-service-for-fortnite-analytics/"
+    },
+    {
+        "title": "AI-powered cost optimization agent for Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/ai-powered-cost-optimization-agent-for-amazon-kinesis-data-streams/"
+    },
+    {
         "title": "Amazon OpenSearch Service extends version lifecycle support timelines",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-extends-version-lifecycle-support-timelines/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Alight Solutions achieved 55% cost savings with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/how-alight-solutions-achieved-55-cost-savings-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Govern Amazon Redshift Data Warehouses Data Across Accounts using Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/govern-amazon-redshift-data-across-accounts-with-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Migrate from Apache Solr to Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-from-apache-solr-to-amazon-opensearch-serverless/"
     }
 ]
