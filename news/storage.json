@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize your self-managed PostgreSQL data warehouse with Amazon FSx for OpenZFS",
+        "link": "https://aws.amazon.com/blogs/storage/optimize-your-self-managed-postgresql-data-warehouse-with-amazon-fsx-for-openzfs/"
+    },
+    {
         "title": "Access Amazon S3 backup data directly using S3 Access Points in AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/access-amazon-s3-backup-data-directly-using-s3-access-points-in-aws-backup/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building persistent memory for multi-agent AI systems with Amazon S3 Vectors",
         "link": "https://aws.amazon.com/blogs/storage/building-persistent-memory-for-multi-agent-ai-systems-with-amazon-s3-vectors/"
-    },
-    {
-        "title": "Orchestrate automated response for Amazon GuardDuty Malware Protection for AWS Backup at scale",
-        "link": "https://aws.amazon.com/blogs/storage/orchestrate-automated-response-for-amazon-guardduty-malware-protection-for-aws-backup-at-scale/"
     }
 ]

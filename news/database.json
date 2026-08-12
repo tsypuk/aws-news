@@ -1,5 +1,21 @@
 [
     {
+        "title": "Natural language queries on Oracle Database 26ai: Getting started with Select AI on Amazon RDS for Oracle with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/natural-language-queries-on-oracle-database-26ai-getting-started-with-select-ai-on-amazon-rds-for-oracle-with-amazon-bedrock/"
+    },
+    {
+        "title": "Enforcing TLS and managing certificate rotation for RDS and Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/enforcing-tls-and-managing-certificate-rotation-for-rds-and-amazon-aurora-postgresql/"
+    },
+    {
+        "title": "Migrate RDS and Aurora logs to CloudWatch Infrequent Access",
+        "link": "https://aws.amazon.com/blogs/database/migrate-rds-and-aurora-logs-to-cloudwatch-infrequent-access/"
+    },
+    {
+        "title": "Building search experiences for JSON data with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/database/building-search-experiences-for-json-data-with-amazon-opensearch-service/"
+    },
+    {
         "title": "Recover from accidental DynamoDB changes using Bulk Executor",
         "link": "https://aws.amazon.com/blogs/database/recover-from-accidental-dynamodb-changes-using-bulk-executor/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Building a multi-Region API with Prisma ORM and Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/building-a-multi-region-api-with-prisma-orm-and-amazon-aurora-dsql/"
-    },
-    {
-        "title": "AI-powered incident analysis for Amazon RDS using automated forensic artifacts",
-        "link": "https://aws.amazon.com/blogs/database/ai-powered-incident-analysis-for-amazon-rds-using-automated-forensic-artifacts/"
-    },
-    {
-        "title": "Migrating mission-critical payments at Nubank to Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrating-mission-critical-payments-at-nubank-to-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Invoke AWS services directly from Amazon RDS for SQL Server 2025",
-        "link": "https://aws.amazon.com/blogs/database/invoke-aws-services-directly-from-amazon-rds-for-sql-server-2025/"
-    },
-    {
-        "title": "Building agentic AI patterns with Amazon Bedrock and SQL Server 2025 on Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/database/building-agentic-ai-patterns-with-amazon-bedrock-and-sql-server-2025-on-amazon-rds/"
     }
 ]

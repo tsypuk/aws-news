@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling patterns for self-organizing multi-agent clusters with Kiro",
+        "link": "https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro/"
+    },
+    {
         "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
         "link": "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Architecting AI-powered resilience framework on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/architecting-ai-powered-resilience-framework-on-aws/"
-    },
-    {
-        "title": "Reducing SMS OTP fraud with Vonage network-powered solutions and Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/architecture/reducing-sms-otp-fraud-with-vonage-network-powered-solutions-and-amazon-cognito/"
     }
 ]
