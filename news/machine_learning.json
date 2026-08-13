@@ -1,5 +1,21 @@
 [
     {
+        "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/"
+    },
+    {
+        "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/"
+    },
+    {
+        "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/"
+    },
+    {
+        "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
+        "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/"
+    },
+    {
         "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/"
-    },
-    {
-        "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-        "link": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/"
-    },
-    {
-        "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/"
-    },
-    {
-        "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/"
     }
 ]

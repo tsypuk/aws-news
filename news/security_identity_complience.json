@@ -1,5 +1,9 @@
 [
     {
+        "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
+        "link": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles/"
+    },
+    {
         "title": "Landing Zone Accelerator Independent Assessment Report for C5:2020 now available on AWS Artifact",
         "link": "https://aws.amazon.com/blogs/security/landing-zone-accelerator-independent-assessment-report-for-c52020-now-available-on-aws-artifact/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers",
         "link": "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
-    },
-    {
-        "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
-        "link": "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare/"
     }
 ]

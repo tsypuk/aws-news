@@ -1,11 +1,19 @@
 [
     {
-        "title": "Evaluating Amazon Connect Customer AI Agents with DeepEval for MRM",
-        "link": "https://aws.amazon.com/blogs/contact-center/evaluating-amazon-connect-customer-ai-agents-with-deepeval-for-mrm/"
+        "title": "Crystal Clear in Chaos: Your Contact Center Didn\u2019t Lose Its Walls. It Lost Its Acoustics.",
+        "link": "https://aws.amazon.com/blogs/contact-center/crystal-clear-in-chaos-your-contact-center-didnt-lose-its-walls-it-lost-its-acoustics/"
     },
     {
-        "title": "How to authenticate customers during chat with Amazon Connect Customer",
-        "link": "https://aws.amazon.com/blogs/contact-center/how-to-authenticate-customers-during-chat-with-amazon-connect-customer/"
+        "title": "Amazon Connect Service Quota Monitor",
+        "link": "https://aws.amazon.com/blogs/contact-center/amazon-connect-service-quota-monitor/"
+    },
+    {
+        "title": "Best practices for measuring agent connection time in Amazon Connect Outbound Campaigns",
+        "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-measuring-agent-connection-time-in-amazon-connect-outbound-campaigns/"
+    },
+    {
+        "title": "Evaluating Amazon Connect Customer AI Agents with DeepEval for MRM",
+        "link": "https://aws.amazon.com/blogs/contact-center/evaluating-amazon-connect-customer-ai-agents-with-deepeval-for-mrm/"
     },
     {
         "title": "Be the 5%: What we learned by shipping AI at scale",
@@ -70,13 +78,5 @@
     {
         "title": "Optimize activity placement in Amazon Connect Customer scheduling",
         "link": "https://aws.amazon.com/blogs/contact-center/optimize-activity-placement-in-amazon-connect-scheduling/"
-    },
-    {
-        "title": "Amazon Connect Customer: China Calling Compliance Best Practices",
-        "link": "https://aws.amazon.com/blogs/contact-center/amazon-connect-china-calling-compliance-best-practices/"
-    },
-    {
-        "title": "Configure scheduling notification rules in Amazon Connect Customer",
-        "link": "https://aws.amazon.com/blogs/contact-center/configure-scheduling-notification-rules-in-amazon-connect-customer/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Securing backup data against modern threats with AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/securing-backup-data-against-modern-threats-with-aws-backup/"
+    },
+    {
+        "title": "Hybrid ML inferencing on Amazon EKS with Amazon FSx for NetApp ONTAP and on-premises NetApp",
+        "link": "https://aws.amazon.com/blogs/storage/hybrid-ml-inferencing-on-amazon-eks-with-amazon-fsx-for-netapp-ontap-and-on-premises-netapp/"
+    },
+    {
         "title": "Optimize your self-managed PostgreSQL data warehouse with Amazon FSx for OpenZFS",
         "link": "https://aws.amazon.com/blogs/storage/optimize-your-self-managed-postgresql-data-warehouse-with-amazon-fsx-for-openzfs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Achieving sub-10ms latency and 94% cost savings with Diskless Kafka using AutoMQ and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/achieving-sub-10ms-latency-and-94-cost-savings-with-diskless-kafka-using-automq-and-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Secure shared storage with CIFS share-level access controls on Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/secure-shared-storage-with-cifs-share-level-access-controls-on-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Building persistent memory for multi-agent AI systems with Amazon S3 Vectors",
-        "link": "https://aws.amazon.com/blogs/storage/building-persistent-memory-for-multi-agent-ai-systems-with-amazon-s3-vectors/"
     }
 ]

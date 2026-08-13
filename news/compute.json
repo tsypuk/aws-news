@@ -1,5 +1,9 @@
 [
     {
+        "title": "Burst to Region: Overflow AWS Outposts workloads to Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/compute/burst-to-region-overflow-aws-outposts-workloads-to-amazon-ec2/"
+    },
+    {
         "title": "Low-latency, high-throughput SQS event processing with AWS Lambda provisioned mode",
         "link": "https://aws.amazon.com/blogs/compute/low-latency-high-throughput-sqs-event-processing-with-aws-lambda-provisioned-mode/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Nitro Isolation Engine: Formally verifying the hypervisor in the AWS Nitro System",
         "link": "https://aws.amazon.com/blogs/compute/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/"
-    },
-    {
-        "title": "Build RAG-powered AI solutions at the edge with AWS Local Zones and Outposts",
-        "link": "https://aws.amazon.com/blogs/compute/build-rag-powered-ai-solutions-at-the-edge-with-aws-local-zones-and-outposts/"
     }
 ]
