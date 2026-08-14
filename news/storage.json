@@ -1,5 +1,9 @@
 [
     {
+        "title": "How WeatherBug reduced storage costs by 80% using Amazon S3 Storage Lens and Kiro CLI",
+        "link": "https://aws.amazon.com/blogs/storage/how-weatherbug-reduced-storage-costs-by-80-using-amazon-s3-storage-lens-and-kiro-cli/"
+    },
+    {
         "title": "Securing backup data against modern threats with AWS Backup",
         "link": "https://aws.amazon.com/blogs/storage/securing-backup-data-against-modern-threats-with-aws-backup/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gain workload-specific storage insights with Amazon S3 Storage Lens groups",
         "link": "https://aws.amazon.com/blogs/storage/create-custom-storage-groupings-with-amazon-s3-storage-lens-groups/"
-    },
-    {
-        "title": "Achieving sub-10ms latency and 94% cost savings with Diskless Kafka using AutoMQ and Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/achieving-sub-10ms-latency-and-94-cost-savings-with-diskless-kafka-using-automq-and-amazon-fsx-for-netapp-ontap/"
     }
 ]

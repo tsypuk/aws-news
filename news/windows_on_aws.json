@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate Azure SQL Managed Instance to Amazon RDS for SQL Server with BYOM",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrate-azure-sql-managed-instance-to-amazon-rds-for-sql-server-with-byom/"
+    },
+    {
         "title": "Add Microsoft Office to an existing image using EC2 Image Builder",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/add-microsoft-office-to-an-existing-image-using-ec2-image-builder/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Managing SQL Server Encryption Keys Across AWS Regions for Disaster Recovery",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/managing-sql-server-encryption-keys-across-aws-regions-for-disaster-recovery/"
-    },
-    {
-        "title": "Restore SQL Server databases using T-SQL and Amazon FSx for NetApp ONTAP Snapshots",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/restore-sql-server-databases-using-t-sql-and-amazon-fsx-for-netapp-ontap-snapshots/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Track generative AI costs with Amazon Bedrock inference profiles",
+        "link": "https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles/"
+    },
+    {
+        "title": "Recovery strategies to meet data residency requirements",
+        "link": "https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements/"
+    },
+    {
         "title": "Reducing Text2SQL latency with parameterized query templates",
         "link": "https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Preventing data exfiltration in machine learning environments with Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Dual-token authentication for Nakama game servers with Amazon Cognito on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws/"
-    },
-    {
-        "title": "Secure multi-tenant RAG with Amazon Bedrock and Verified Permissions",
-        "link": "https://aws.amazon.com/blogs/architecture/secure-multi-tenant-rag-with-amazon-bedrock-and-verified-permissions/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing for failure: Building resilient systems on AWS",
+        "link": "https://aws.amazon.com/blogs/compute/designing-for-failure-building-resilient-systems-on-aws/"
+    },
+    {
         "title": "Burst to Region: Overflow AWS Outposts workloads to Amazon EC2",
         "link": "https://aws.amazon.com/blogs/compute/burst-to-region-overflow-aws-outposts-workloads-to-amazon-ec2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Simulating Amazon EC2 EBS burst credits before downsizing an instance",
         "link": "https://aws.amazon.com/blogs/compute/simulating-amazon-ec2-ebs-burst-credits-before-downsizing-an-instance/"
-    },
-    {
-        "title": "AWS Nitro Isolation Engine: Formally verifying the hypervisor in the AWS Nitro System",
-        "link": "https://aws.amazon.com/blogs/compute/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/"
     }
 ]

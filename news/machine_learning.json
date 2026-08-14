@@ -1,5 +1,21 @@
 [
     {
+        "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/"
+    },
+    {
+        "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/"
+    },
+    {
+        "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/"
+    },
+    {
         "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
         "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Configure rate limits for AI traffic on AgentCore gateway",
         "link": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/"
-    },
-    {
-        "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/"
-    },
-    {
-        "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agent-skills-for-automated-reasoning-policies-in-amazon-bedrock/"
-    },
-    {
-        "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/"
     }
 ]

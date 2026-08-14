@@ -1,5 +1,9 @@
 [
     {
+        "title": "How AppFolio transformed its data streaming architecture with Amazon MSK Express brokers",
+        "link": "https://aws.amazon.com/blogs/big-data/how-appfolio-transformed-its-data-streaming-architecture-with-amazon-msk-express-brokers/"
+    },
+    {
         "title": "How GPU acceleration builds billion-scale vector indexes on Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/how-gpu-acceleration-builds-billion-scale-vector-indexes-on-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building a scalable personalized recommendation system on AWS: From batch to real-time",
         "link": "https://aws.amazon.com/blogs/big-data/building-a-scalable-personalized-recommendation-system-on-aws-from-batch-to-real-time/"
-    },
-    {
-        "title": "Automate creating AWS Glue Data Catalog views with AWS SDK for data mesh use case",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-creating-aws-glue-data-catalog-views-with-aws-sdk-for-data-mesh-use-case/"
     }
 ]

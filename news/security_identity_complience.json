@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
+        "link": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/"
+    },
+    {
         "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
         "link": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
         "link": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution/"
-    },
-    {
-        "title": "2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers",
-        "link": "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers/"
     }
 ]
