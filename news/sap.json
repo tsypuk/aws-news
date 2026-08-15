@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerate SAP Network Troubleshooting from Hours to Minutes: Agentic AI approach",
+        "link": "https://aws.amazon.com/blogs/awsforsap/accelerate-sap-network-troubleshooting-from-hours-to-minutes-agentic-ai-approach/"
+    },
+    {
         "title": "How Rivian Accelerated Finance Operations with AI Agents on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/awsforsap/how-rivian-accelerated-finance-operations-with-ai-agents-on-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "SAP ASE high availability design with SAP Fault Manager and AWS Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-ase-high-availability-design-with-sap-fault-manager-and-aws-network-load-balancer/"
-    },
-    {
-        "title": "Achieving Robust SAP Landscape Segregation with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/awsforsap/achieving-robust-sap-landscape-segregation-with-amazon-vpc-lattice/"
     }
 ]

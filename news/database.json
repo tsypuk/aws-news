@@ -1,5 +1,13 @@
 [
     {
+        "title": "Faster scaling for Aurora serverless to support agentic AI and other spiky workloads",
+        "link": "https://aws.amazon.com/blogs/database/faster-scaling-for-aurora-serverless-to-support-agentic-ai-and-other-spiky-workloads/"
+    },
+    {
+        "title": "Addressing CLR assembly deprecation in Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/addressing-clr-assembly-deprecation-in-amazon-rds-for-sql-server/"
+    },
+    {
         "title": "Introducing Oracle Exadata on Exascale for Oracle AI Database@AWS",
         "link": "https://aws.amazon.com/blogs/database/introducing-oracle-exadata-on-exascale-for-oracle-ai-databaseaws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building scalable applications on Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/building-scalable-applications-on-amazon-aurora-dsql/"
-    },
-    {
-        "title": "Automated PII redaction for Amazon RDS for PostgreSQL audit logs",
-        "link": "https://aws.amazon.com/blogs/database/automated-pii-redaction-for-amazon-rds-for-postgresql-audit-logs/"
-    },
-    {
-        "title": "Migrate self-managed PostgreSQL to Amazon RDS using the RDS console",
-        "link": "https://aws.amazon.com/blogs/database/migrate-self-managed-postgresql-to-amazon-rds-using-the-rds-console/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+        "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/"
+    },
+    {
+        "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/"
+    },
+    {
         "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
         "link": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
         "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/"
-    },
-    {
-        "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Configure rate limits for AI traffic on AgentCore gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/"
     }
 ]

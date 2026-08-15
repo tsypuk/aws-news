@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Autodesk migrated 2.3 billion documents to Amazon OpenSearch Service using Migration Assistant and intelligent routing",
+        "link": "https://aws.amazon.com/blogs/big-data/how-autodesk-migrated-2-3-billion-documents-to-amazon-opensearch-service-using-migration-assistant-and-intelligent-routing/"
+    },
+    {
+        "title": "Trace cascading decision failures with a blame graph on Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/trace-cascading-decision-failures-with-a-blame-graph-on-amazon-opensearch-service/"
+    },
+    {
         "title": "How AppFolio transformed its data streaming architecture with Amazon MSK Express brokers",
         "link": "https://aws.amazon.com/blogs/big-data/how-appfolio-transformed-its-data-streaming-architecture-with-amazon-msk-express-brokers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate Spark Scala migration to 4.x with AWS Spark Upgrade Agent",
         "link": "https://aws.amazon.com/blogs/big-data/automate-spark-scala-migration-to-4-x-with-aws-spark-upgrade-agent/"
-    },
-    {
-        "title": "Build a contract compliance search system with Amazon OpenSearch",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-contract-compliance-search-system-with-amazon-opensearch/"
-    },
-    {
-        "title": "Building a scalable personalized recommendation system on AWS: From batch to real-time",
-        "link": "https://aws.amazon.com/blogs/big-data/building-a-scalable-personalized-recommendation-system-on-aws-from-batch-to-real-time/"
     }
 ]
