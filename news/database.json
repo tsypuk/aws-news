@@ -1,5 +1,17 @@
 [
     {
+        "title": "Amazon Aurora DSQL observability concepts and usage with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-observability-concepts-and-usage-with-amazon-cloudwatch/"
+    },
+    {
+        "title": "Unlocking real-time analytics: Streaming Aurora DSQL changes into Apache Iceberg",
+        "link": "https://aws.amazon.com/blogs/database/unlocking-real-time-analytics-streaming-aurora-dsql-changes-into-apache-iceberg/"
+    },
+    {
+        "title": "Create Oracle Wallet for AWS DMS SSL connections using SQLcl",
+        "link": "https://aws.amazon.com/blogs/database/create-oracle-wallet-for-aws-dms-ssl-connections-using-sqlcl/"
+    },
+    {
         "title": "Faster scaling for Aurora serverless to support agentic AI and other spiky workloads",
         "link": "https://aws.amazon.com/blogs/database/faster-scaling-for-aurora-serverless-to-support-agentic-ai-and-other-spiky-workloads/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Using CloudWatch Database Insights to troubleshoot query performance from calling services",
         "link": "https://aws.amazon.com/blogs/database/using-cloudwatch-database-insights-to-troubleshoot-query-performance-from-calling-services/"
-    },
-    {
-        "title": "Migrate to Amazon Keyspaces with zero downtime using ZDM Proxy",
-        "link": "https://aws.amazon.com/blogs/database/migrate-to-amazon-keyspaces-with-zero-downtime-using-zdm-proxy/"
-    },
-    {
-        "title": "Troubleshooting SQL Server query performance on Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/database/troubleshooting-sql-server-query-performance-on-amazon-rds/"
-    },
-    {
-        "title": "Building scalable applications on Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/building-scalable-applications-on-amazon-aurora-dsql/"
     }
 ]

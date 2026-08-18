@@ -1,5 +1,13 @@
 [
     {
+        "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/"
+    },
+    {
         "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
         "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/"
-    },
-    {
-        "title": "Determining playoff clinching scenarios in the NHL using constraint programming",
-        "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/"
     }
 ]

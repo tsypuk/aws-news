@@ -1,5 +1,9 @@
 [
     {
+        "title": "Updates to your AWS Sign-In experience",
+        "link": "https://aws.amazon.com/blogs/security/updates-to-your-aws-sign-in-experience/"
+    },
+    {
         "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
         "link": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure your npm and pip package updates in Amazon Linux",
         "link": "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux/"
-    },
-    {
-        "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
-        "link": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution/"
     }
 ]

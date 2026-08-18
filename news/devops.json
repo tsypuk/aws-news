@@ -1,5 +1,9 @@
 [
     {
+        "title": "Streamline your GitHub journey with AWS CodePipeline and AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/streamline-your-github-journey-with-aws-codepipeline-and-aws-devops-agent/"
+    },
+    {
         "title": "Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization",
         "link": "https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How AWS DevOps Agent uses multi-agent reasoning to find root causes",
         "link": "https://aws.amazon.com/blogs/devops/how-aws-devops-agent-uses-multi-agent-reasoning-to-find-root-causes/"
-    },
-    {
-        "title": "Automate root cause analysis across Datadog and Elasticsearch with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/devops/automate-root-cause-analysis-across-datadog-and-elasticsearch-with-aws-devops-agent/"
     }
 ]

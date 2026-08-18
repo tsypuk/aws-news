@@ -1,5 +1,29 @@
 [
     {
+        "title": "How Zepto powers sub-second search using OpenSearch Service OR2 instances",
+        "link": "https://aws.amazon.com/blogs/big-data/how-zepto-powers-sub-second-search-using-opensearch-service-or2-instances/"
+    },
+    {
+        "title": "IAM authentication with OAuth 2.0 for Amazon MQ for RabbitMQ",
+        "link": "https://aws.amazon.com/blogs/big-data/iam-authentication-with-oauth-2-0-for-amazon-mq-for-rabbitmq/"
+    },
+    {
+        "title": "OAuth 2.0, LDAP, and HTTP auth for Amazon MQ for RabbitMQ",
+        "link": "https://aws.amazon.com/blogs/big-data/oauth-2-0-ldap-and-http-auth-for-amazon-mq-for-rabbitmq/"
+    },
+    {
+        "title": "Mutual TLS and SSL certificate authentication for Amazon MQ for RabbitMQ",
+        "link": "https://aws.amazon.com/blogs/big-data/mutual-tls-and-ssl-certificate-authentication-for-amazon-mq-for-rabbitmq/"
+    },
+    {
+        "title": "Authentication and authorization options for Amazon MQ for RabbitMQ",
+        "link": "https://aws.amazon.com/blogs/big-data/authentication-and-authorization-options-for-amazon-mq-for-rabbitmq/"
+    },
+    {
+        "title": "NaranjaX manages multiple Amazon MSK Serverless clusters in different accounts from their IDP using AWS RAM and Route 53",
+        "link": "https://aws.amazon.com/blogs/big-data/naranjax-manages-multiple-amazon-msk-serverless-clusters-in-different-accounts-from-their-idp-using-aws-ram-and-route-53/"
+    },
+    {
         "title": "How Autodesk migrated 2.3 billion documents to Amazon OpenSearch Service using Migration Assistant and intelligent routing",
         "link": "https://aws.amazon.com/blogs/big-data/how-autodesk-migrated-2-3-billion-documents-to-amazon-opensearch-service-using-migration-assistant-and-intelligent-routing/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Introducing Apache Spark troubleshooting agent for Amazon EMR on EKS",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-apache-spark-troubleshooting-agent-for-amazon-emr-on-eks/"
-    },
-    {
-        "title": "Upgrade Amazon Redshift DC2 clusters to the new Amazon Redshift RG",
-        "link": "https://aws.amazon.com/blogs/big-data/upgrade-amazon-redshift-dc2-clusters-to-the-new-amazon-redshift-rg/"
-    },
-    {
-        "title": "Optimizing costs and performance with Advanced Managed Scaling on Amazon EMR on EC2",
-        "link": "https://aws.amazon.com/blogs/big-data/optimizing-costs-and-performance-with-advanced-managed-scaling-on-amazon-emr-on-ec2/"
-    },
-    {
-        "title": "Deliver Apache Kafka data to streaming tables for Apache Iceberg with Amazon MSK Express brokers",
-        "link": "https://aws.amazon.com/blogs/big-data/deliver-apache-kafka-data-to-streaming-tables-for-apache-iceberg-with-amazon-msk-express-brokers/"
-    },
-    {
-        "title": "Lowering AWS KMS decrypt API costs in EMR Spark jobs",
-        "link": "https://aws.amazon.com/blogs/big-data/lowering-aws-kms-decrypt-api-costs-in-emr-spark-jobs/"
-    },
-    {
-        "title": "Accelerate Spark on EMR Serverless with larger workers and shuffle-optimized disks",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-spark-on-emr-serverless-with-larger-workers-and-shuffle-optimized-disks/"
-    },
-    {
-        "title": "Automate Spark Scala migration to 4.x with AWS Spark Upgrade Agent",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-spark-scala-migration-to-4-x-with-aws-spark-upgrade-agent/"
     }
 ]
