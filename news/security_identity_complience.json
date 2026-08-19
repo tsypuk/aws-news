@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/"
+    },
+    {
+        "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
+        "link": "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/"
+    },
+    {
         "title": "Updates to your AWS Sign-In experience",
         "link": "https://aws.amazon.com/blogs/security/updates-to-your-aws-sign-in-experience/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Extend Amazon Inspector SBOM Generator with Plugins",
         "link": "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins/"
-    },
-    {
-        "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
-        "link": "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/"
-    },
-    {
-        "title": "Secure your npm and pip package updates in Amazon Linux",
-        "link": "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux/"
     }
 ]

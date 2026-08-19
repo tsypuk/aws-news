@@ -1,5 +1,9 @@
 [
     {
+        "title": "This Month in AWS Observability: July 2026",
+        "link": "https://aws.amazon.com/blogs/mt/this-month-in-aws-observability-july-2026/"
+    },
+    {
         "title": "Multi-Cloud Observability with Amazon CloudWatch Using Bearer Token Auth and OpenTelemetry",
         "link": "https://aws.amazon.com/blogs/mt/achieve-multi-cloud-observability-with-amazon-cloudwatch-using-bearer-token-auth-and-opentelemetry/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing native histogram support in Amazon Managed Service for Prometheus",
         "link": "https://aws.amazon.com/blogs/mt/introducing-native-histogram-support-in-amazon-managed-service-for-prometheus/"
-    },
-    {
-        "title": "Build a Multi Account Patch Compliance Dashboard with Kiro Specs",
-        "link": "https://aws.amazon.com/blogs/mt/build-a-multi-account-patch-compliance-dashboard-with-kiro-specs/"
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/"
+    },
+    {
+        "title": "Customize Amazon Quick embedded chat into your application",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/"
+    },
+    {
+        "title": "Implement vector-prompt document classification using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/"
+    },
+    {
+        "title": "How Jumio built a real-time feature store on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/"
+    },
+    {
+        "title": "Improve contract search accuracy with auto-generated filters in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-contract-search-accuracy-with-auto-generated-filters-in-amazon-bedrock/"
+    },
+    {
+        "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/"
+    },
+    {
         "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/"
-    },
-    {
-        "title": "How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/"
-    },
-    {
-        "title": "First Orion accelerates QA automation using Amazon Nova Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act/"
-    },
-    {
-        "title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/"
-    },
-    {
-        "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/"
-    },
-    {
-        "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/"
     }
 ]

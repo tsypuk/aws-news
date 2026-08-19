@@ -1,5 +1,9 @@
 [
     {
+        "title": "Zero-downtime multi-tenant IIS deployments on AWS Elastic Beanstalk",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/zero-downtime-multi-tenant-iis-deployments-on-aws-elastic-beanstalk/"
+    },
+    {
         "title": "Migrate Azure SQL Managed Instance to Amazon RDS for SQL Server with BYOM",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrate-azure-sql-managed-instance-to-amazon-rds-for-sql-server-with-byom/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automate Microsoft SQL Server Developer Deployments on Amazon RDS",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-sql-server-developer-deployments-on-amazon-rds/"
-    },
-    {
-        "title": "Managing SQL Server Encryption Keys Across AWS Regions for Disaster Recovery",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/managing-sql-server-encryption-keys-across-aws-regions-for-disaster-recovery/"
     }
 ]

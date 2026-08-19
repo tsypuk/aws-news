@@ -1,5 +1,9 @@
 [
     {
+        "title": "Consistency is the new latency: AI at the data layer",
+        "link": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/"
+    },
+    {
         "title": "Serverless vehicle tracking at scale: Bosch L.OS on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "S&P Global\u2019s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots",
         "link": "https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/"
-    },
-    {
-        "title": "Lessons learned from scaling to 1 million Lambda functions",
-        "link": "https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/"
     }
 ]
