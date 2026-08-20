@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating SQL Server FCI Storage from Amazon FSx for NetApp ONTAP Gen 1 to Gen 2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrating-sql-server-fci-storage-from-amazon-fsx-for-netapp-ontap-gen-1-to-gen-2/"
+    },
+    {
         "title": "Zero-downtime multi-tenant IIS deployments on AWS Elastic Beanstalk",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/zero-downtime-multi-tenant-iis-deployments-on-aws-elastic-beanstalk/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Automated license tracking for Microsoft SQL Server across AWS accounts and regions using license asset groups",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-license-tracking-for-sql-server-across-aws-accounts-and-regions-using-license-asset-groups/"
-    },
-    {
-        "title": "Automate Microsoft SQL Server Developer Deployments on Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automate-sql-server-developer-deployments-on-amazon-rds/"
     }
 ]

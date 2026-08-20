@@ -1,5 +1,9 @@
 [
     {
+        "title": "Set up your AI coding agent to build with AWS Step Functions",
+        "link": "https://aws.amazon.com/blogs/compute/set-up-your-ai-coding-agent-to-build-with-aws-step-functions/"
+    },
+    {
         "title": "Introducing public preview runtimes on AWS Lambda, starting with Node.js 26 and Python 3.15",
         "link": "https://aws.amazon.com/blogs/compute/introducing-public-preview-runtimes-on-aws-lambda-starting-with-node-js-26-and-python-3-15/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build reliable voice analytics workflows with AWS Lambda durable functions and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/compute/build-reliable-voice-analytics-workflows-with-aws-lambda-durable-functions-and-amazon-bedrock/"
-    },
-    {
-        "title": "Maximize Amazon EC2 Capacity Reservations with Capacity Manager data exports",
-        "link": "https://aws.amazon.com/blogs/compute/maximize-amazon-ec2-capacity-reservations-with-capacity-manager-data-exports/"
     }
 ]

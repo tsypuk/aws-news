@@ -1,5 +1,9 @@
 [
     {
+        "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
         "link": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Balancing speed and safety: A control framework for AI coding agents",
         "link": "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents/"
-    },
-    {
-        "title": "Extend Amazon Inspector SBOM Generator with Plugins",
-        "link": "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins/"
     }
 ]

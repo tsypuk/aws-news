@@ -1,5 +1,17 @@
 [
     {
+        "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1/"
+    },
+    {
+        "title": "How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock/"
+    },
+    {
+        "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening/"
+    },
+    {
         "title": "Consistency is the new latency: AI at the data layer",
         "link": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Mapfre Insurance modernized fraud claims with Amazon EMR Serverless",
         "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/"
-    },
-    {
-        "title": "Unlocking the future of video data: March Networks cloud storage on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/"
-    },
-    {
-        "title": "Specification-driven composition for flexible data workflows",
-        "link": "https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows/"
-    },
-    {
-        "title": "S&P Global\u2019s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots",
-        "link": "https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/"
     }
 ]

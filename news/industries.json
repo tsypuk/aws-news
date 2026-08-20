@@ -1,5 +1,21 @@
 [
     {
+        "title": "Resolve duplicate health records with AWS HealthLake",
+        "link": "https://aws.amazon.com/blogs/industries/resolve-duplicate-health-records-with-aws-healthlake/"
+    },
+    {
+        "title": "Build a Dynamic Pricing Solution for Restaurants using Agentic AI Strands Agents",
+        "link": "https://aws.amazon.com/blogs/industries/build-a-dynamic-pricing-solution-for-restaurants-using-agentic-ai-strands-agents/"
+    },
+    {
+        "title": "Enterprise lab-in-the-loop on AWS: How Sanofi is compressing drug discovery from years to weeks",
+        "link": "https://aws.amazon.com/blogs/industries/enterprise-lab-in-the-loop-on-aws-how-sanofi-is-compressing-drug-discovery-from-years-to-weeks/"
+    },
+    {
+        "title": "Transforming Food Label Verification in Retail with Generative AI",
+        "link": "https://aws.amazon.com/blogs/industries/transforming-food-label-verification-in-retail-with-generative-ai/"
+    },
+    {
         "title": "Novo Nordisk selects AWS as strategic partner to accelerate drug discovery with AI",
         "link": "https://aws.amazon.com/blogs/industries/novo-nordisk-selects-aws-as-strategic-partner-to-accelerate-drug-discovery-with-ai/"
     },
@@ -22,21 +38,5 @@
     {
         "title": "Hyundai AutoEver: Building a multi-tenant generative AI sandbox and production AIOps on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/industries/hyundai-autoever-building-a-multi-tenant-generative-ai-sandbox-and-production-aiops-on-amazon-bedrock/"
-    },
-    {
-        "title": "Multi-Agent Multimodal Data Analysis on AWS \u2013 Part 2: Multi-Agent Orchestration and Predictive Analytics",
-        "link": "https://aws.amazon.com/blogs/industries/multi-agent-multimodal-data-analysis-on-aws-part-2-multi-agent-orchestration-and-predictive-analytics/"
-    },
-    {
-        "title": "Multi-Agent Multimodal Data Analysis on AWS \u2013 Part 1: Data Governance and Visualization",
-        "link": "https://aws.amazon.com/blogs/industries/multi-agent-multimodal-data-analysis-on-aws-part-1-data-governance-and-visualization/"
-    },
-    {
-        "title": "Achieve elastic scalability for voice communications using Ribbon SBC on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/industries/achieve-elastic-scalability-for-voice-communications-using-ribbon-sbc-on-amazon-eks/"
-    },
-    {
-        "title": "Engineering Development Hub: A unified workbench to accelerate product development",
-        "link": "https://aws.amazon.com/blogs/industries/engineering-development-hub-a-unified-workbench-to-accelerate-product-development/"
     }
 ]

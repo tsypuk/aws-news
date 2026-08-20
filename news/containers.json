@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deep dive into Amazon EKS certificate authority rotation",
+        "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-certificate-authority-rotation/"
+    },
+    {
+        "title": "Encrypt Amazon ECS traffic: VPC encryption controls and Service Connect TLS",
+        "link": "https://aws.amazon.com/blogs/containers/encrypt-amazon-ecs-traffic-vpc-encryption-controls-and-service-connect-tls/"
+    },
+    {
         "title": "Forensic container checkpointing on Amazon Elastic Kubernetes Service (Amazon EKS)",
         "link": "https://aws.amazon.com/blogs/containers/forensic-container-checkpointing-on-amazon-eks/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "ARC zonal shift support for EKS Auto Mode and Karpenter",
         "link": "https://aws.amazon.com/blogs/containers/arc-zonal-shift-support-for-eks-auto-mode-and-karpenter/"
-    },
-    {
-        "title": "JVM memory, CPU, and classpath best practices for Java containers on AWS",
-        "link": "https://aws.amazon.com/blogs/containers/jvm-memory-cpu-and-classpath-best-practices-for-java-containers-on-aws/"
-    },
-    {
-        "title": "Accessing private Git repositories from Amazon EKS capability for Argo CD",
-        "link": "https://aws.amazon.com/blogs/containers/accessing-private-git-repositories-from-amazon-eks-capability-for-argo-cd/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Failure Didn\u2019t Lose Your Customers, Mediocrity Did",
+        "link": "https://aws.amazon.com/blogs/contact-center/failure-didnt-lose-your-customers-mediocrity-did/"
+    },
+    {
         "title": "How to authenticate customers during chat with Amazon Connect Customer",
         "link": "https://aws.amazon.com/blogs/contact-center/how-to-authenticate-customers-during-chat-with-amazon-connect-customer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "From Amazon Pinpoint to Amazon Connect With Customer Experience Intact",
         "link": "https://aws.amazon.com/blogs/contact-center/from-amazon-pinpoint-to-amazon-connect-with-customer-experience-intact/"
-    },
-    {
-        "title": "Customer First Callback in Amazon Connect Customer: Priority Preservation, Voicemail Detection, and Zero Reserved Agent Capacity",
-        "link": "https://aws.amazon.com/blogs/contact-center/customer-first-callback-in-amazon-connect-customer-priority-preservation-voicemail-detection-and-zero-reserved-agent-capacity/"
     }
 ]

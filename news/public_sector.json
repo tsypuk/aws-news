@@ -1,5 +1,13 @@
 [
     {
+        "title": "Digital Earth Africa and AWS are making satellite data work for Africa",
+        "link": "https://aws.amazon.com/blogs/publicsector/digital-earth-africa-and-aws-are-making-satellite-data-work-for-africa/"
+    },
+    {
+        "title": "Building machine-readable FedRAMP 20x evidence on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-machine-readable-fedramp-20x-evidence-on-aws/"
+    },
+    {
         "title": "Celebrating 15 Years of AWS GovCloud (US): Built for the Nation\u2019s Most Critical Missions",
         "link": "https://aws.amazon.com/blogs/publicsector/celebrating-15-years-of-aws-govcloud-us-built-for-the-nations-most-critical-missions/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Implementing per-user token guardrails for Amazon Bedrock in government agencies",
         "link": "https://aws.amazon.com/blogs/publicsector/implementing-per-user-token-guardrails-for-amazon-bedrock-in-government-agencies/"
-    },
-    {
-        "title": "The 1000 Genomes Project, reanalyzed: A new analytical baseline for human genomics",
-        "link": "https://aws.amazon.com/blogs/publicsector/the-1000-genomes-project-reanalyzed-a-new-analytical-baseline-for-human-genomics/"
-    },
-    {
-        "title": "Accelerating geospatial work with Kiro: One AI interface for the geo stack",
-        "link": "https://aws.amazon.com/blogs/publicsector/accelerating-geospatial-work-with-kiro-one-ai-interface-for-the-geo-stack/"
     }
 ]
