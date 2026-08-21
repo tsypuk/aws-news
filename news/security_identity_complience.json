@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Network Firewall now supports rule hit count",
+        "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/"
+    },
+    {
         "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "HIPAA Security Rule on AWS \u2013 Technical Safeguards Implementation and Readiness Guidance",
         "link": "https://aws.amazon.com/blogs/security/hipaa-security-rule-on-aws-technical-safeguards-implementation-and-readiness-guidance/"
-    },
-    {
-        "title": "Balancing speed and safety: A control framework for AI coding agents",
-        "link": "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents/"
     }
 ]

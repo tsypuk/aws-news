@@ -1,5 +1,9 @@
 [
     {
+        "title": "Executive Insights from the Inaugural AWS Life Sciences Symposium EMEA",
+        "link": "https://aws.amazon.com/blogs/industries/executive-insights-from-the-inaugural-aws-life-sciences-symposium-emea/"
+    },
+    {
         "title": "Resolve duplicate health records with AWS HealthLake",
         "link": "https://aws.amazon.com/blogs/industries/resolve-duplicate-health-records-with-aws-healthlake/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Run HPC Simulations faster with Siemens Teamcenter and AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/industries/run-hpc-simulations-faster-with-siemens-teamcenter-and-aws-parallelcluster/"
-    },
-    {
-        "title": "Hyundai AutoEver: Building a multi-tenant generative AI sandbox and production AIOps on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/industries/hyundai-autoever-building-a-multi-tenant-generative-ai-sandbox-and-production-aiops-on-amazon-bedrock/"
     }
 ]

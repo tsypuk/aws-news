@@ -1,5 +1,13 @@
 [
     {
+        "title": "Long-term system tables retention in Amazon Redshift with Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/big-data/long-term-system-tables-retention-in-amazon-redshift-with-amazon-s3-tables/"
+    },
+    {
+        "title": "Track SageMaker Unified Studio project costs with custom tags and AWS CUR",
+        "link": "https://aws.amazon.com/blogs/big-data/track-sagemaker-unified-studio-project-costs-with-custom-tags-and-aws-cur/"
+    },
+    {
         "title": "Secure SageMaker Unified Studio access with SAML and conditional policies",
         "link": "https://aws.amazon.com/blogs/big-data/secure-sagemaker-unified-studio-access-with-saml-and-conditional-policies/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AI-powered cost optimization agent for Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/ai-powered-cost-optimization-agent-for-amazon-kinesis-data-streams/"
-    },
-    {
-        "title": "Amazon OpenSearch Service extends version lifecycle support timelines",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-opensearch-service-extends-version-lifecycle-support-timelines/"
-    },
-    {
-        "title": "Scaling fine-grained access control for enterprise lakehouse using SageMaker Unified Studio and AWS Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/scaling-fine-grained-access-control-for-enterprise-lakehouse-using-sagemaker-unified-studio-and-aws-lake-formation/"
     }
 ]

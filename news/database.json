@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate multilingual full-text search from SQL Server to PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/migrate-multilingual-full-text-search-from-sql-server-to-postgresql/"
+    },
+    {
         "title": "Understand memory management in Amazon RDS for PostgreSQL to avoid out of memory",
         "link": "https://aws.amazon.com/blogs/database/understand-memory-management-in-amazon-rds-for-postgresql-to-avoid-out-of-memory/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build zero-downtime write architectures for Amazon Neptune",
         "link": "https://aws.amazon.com/blogs/database/build-zero-downtime-write-architectures-for-amazon-neptune/"
-    },
-    {
-        "title": "MCP tools for Amazon Aurora DSQL: Query execution and schema management",
-        "link": "https://aws.amazon.com/blogs/database/mcp-tools-for-amazon-aurora-dsql-query-execution-and-schema-management/"
     }
 ]

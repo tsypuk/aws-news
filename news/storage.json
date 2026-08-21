@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Nearmap built continental-scale aerial search using Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/storage/how-nearmap-built-continental-scale-aerial-search-using-amazon-s3-vectors/"
+    },
+    {
         "title": "Transfer Amazon S3 data from commercial AWS Regions to AWS European Sovereign Cloud using AWS DataSync Enhanced mode",
         "link": "https://aws.amazon.com/blogs/storage/transfer-amazon-s3-data-from-aws-commercial-regions-to-aws-european-sovereign-cloud-using-aws-datasync-enhanced-mode/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Integrating Amazon FSx for NetApp ONTAP and Amazon FSx for Windows File Server using Microsoft Entra Domain Services",
         "link": "https://aws.amazon.com/blogs/storage/integrating-amazon-fsx-for-netapp-ontap-and-amazon-fsx-for-windows-file-server-with-microsoft-entra-id/"
-    },
-    {
-        "title": "Query Amazon S3 access logs instantly with CloudWatch and S3 Tables",
-        "link": "https://aws.amazon.com/blogs/storage/query-amazon-s3-access-logs-instantly-with-cloudwatch-and-s3-tables/"
     }
 ]

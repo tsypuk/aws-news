@@ -1,5 +1,41 @@
 [
     {
+        "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick \u2013 Part 1: Setting up your Snowflake environment",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/"
+    },
+    {
+        "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick \u2013 Part 2: Data preparation and model building with Amazon SageMaker Canvas",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/"
+    },
+    {
+        "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick \u2013 Part 3: Visualizing insights with Amazon Quick Sight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/"
+    },
+    {
+        "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/"
+    },
+    {
+        "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "AWS vector solutions: Build agentic AI where your data lives",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/"
+    },
+    {
+        "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/"
+    },
+    {
         "title": "Domain and publish date filters for Web Search on AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/"
     },
@@ -42,41 +78,5 @@
     {
         "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/"
-    },
-    {
-        "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/"
-    },
-    {
-        "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
-        "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/"
-    },
-    {
-        "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/"
-    },
-    {
-        "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
-        "link": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/"
-    },
-    {
-        "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/"
-    },
-    {
-        "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-microsoft-365-agentic-ai-where-you-work/"
-    },
-    {
-        "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/"
     }
 ]

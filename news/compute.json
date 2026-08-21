@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Linux default SSM parameter will now track the latest kernel",
+        "link": "https://aws.amazon.com/blogs/compute/amazon-linux-default-ssm-parameter-will-now-track-the-latest-kernel/"
+    },
+    {
         "title": "Set up your AI coding agent to build with AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/compute/set-up-your-ai-coding-agent-to-build-with-aws-step-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
         "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/"
-    },
-    {
-        "title": "Build reliable voice analytics workflows with AWS Lambda durable functions and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/compute/build-reliable-voice-analytics-workflows-with-aws-lambda-durable-functions-and-amazon-bedrock/"
     }
 ]
