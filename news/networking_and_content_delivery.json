@@ -1,5 +1,9 @@
 [
     {
+        "title": "Gain visibility into client-side network failures with NEL",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/gain-visibility-into-client-side-network-failures-with-nel/"
+    },
+    {
         "title": "Zero-trust networking for agentic AI with Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/zero-trust-networking-for-agentic-ai-with-amazon-vpc-lattice/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automating CIDR expansion: Reducing IP exhaustion downtime",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-cidr-expansion-reducing-ip-exhaustion-downtime/"
-    },
-    {
-        "title": "How United Airlines solved IP exhaustion with Private NAT Gateway",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-united-airlines-solved-ip-exhaustion-with-private-nat-gateway/"
     }
 ]

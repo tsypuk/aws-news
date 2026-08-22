@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
+        "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/"
+    },
+    {
         "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and S\u00e3o Paulo",
         "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
         "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/"
-    },
-    {
-        "title": "Amazon ECS introduces new high-resolution metrics for faster service auto scaling",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/"
     }
 ]

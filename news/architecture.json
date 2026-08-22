@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build a unified AI agent architecture with DynamoDB and Bedrock",
+        "link": "https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock/"
+    },
+    {
+        "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-2/"
+    },
+    {
         "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Prioritize your AWS Health alerts using AWS User Notifications",
         "link": "https://aws.amazon.com/blogs/architecture/prioritize-your-aws-health-alerts-using-aws-user-notifications/"
-    },
-    {
-        "title": "How bitdrift scaled to 121 million concurrent gRPC connections on Amazon CloudFront for live telemetry sporting events",
-        "link": "https://aws.amazon.com/blogs/architecture/how-bitdrift-scaled-to-121-million-concurrent-grpc-connections-on-amazon-cloudfront-for-live-telemetry-sporting-events/"
-    },
-    {
-        "title": "How Mapfre Insurance modernized fraud claims with Amazon EMR Serverless",
-        "link": "https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/"
     }
 ]
