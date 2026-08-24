@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building resilient government workflows with AWS Lambda durable functions",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-resilient-government-workflows-with-aws-lambda-durable-functions/"
+    },
+    {
+        "title": "Agentic AI Where Connectivity Is Scarce: MedZen Health in Cameroon",
+        "link": "https://aws.amazon.com/blogs/publicsector/agentic-ai-where-connectivity-is-scarce-medzen-health-in-cameroon/"
+    },
+    {
         "title": "State of Kansas modernizes mainframe file transfer using AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/publicsector/state-of-kansas-modernizes-mainframe-file-transfer-using-aws-transfer-family/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Empowering underserved youth with AI career support: KLCI\u2019s journey on AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/empowering-underserved-youth-with-ai-career-support-klcis-journey-on-aws/"
-    },
-    {
-        "title": "Transforming Public Sector Procurement with Agentic AI on AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/transforming-public-sector-procurement-with-agentic-ai-on-aws/"
-    },
-    {
-        "title": "Turn stored data into AI-ready insights with Amazon S3",
-        "link": "https://aws.amazon.com/blogs/publicsector/turn-stored-data-into-ai-ready-insights-with-amazon-s3/"
     }
 ]
