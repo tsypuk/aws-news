@@ -1,5 +1,13 @@
 [
     {
+        "title": "CloudFront Functions Unified Logging",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cloudfront-functions-unified-logging/"
+    },
+    {
+        "title": "Shared DNS views for multi-account environments with Amazon Route 53 Global Resolver",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/shared-dns-views-for-multi-account-environments-with-amazon-route-53-global-resolver/"
+    },
+    {
         "title": "Gain visibility into client-side network failures with NEL",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/gain-visibility-into-client-side-network-failures-with-nel/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Fine-grained Amazon Route 53 access with IAM condition keys (Part 3)",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fine-grained-amazon-route-53-access-with-iam-condition-keys-part-3/"
-    },
-    {
-        "title": "Private AI agent with WebSocket streaming over CloudFront VPC Origins and the next generation of OpenSearch Serverless for knowledge retrieval",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/private-ai-agent-with-websocket-streaming-over-cloudfront-vpc-origins-and-the-next-generation-of-opensearch-serverless-for-knowledge-retrieval/"
-    },
-    {
-        "title": "Automating CIDR expansion: Reducing IP exhaustion downtime",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/automating-cidr-expansion-reducing-ip-exhaustion-downtime/"
     }
 ]
