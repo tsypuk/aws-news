@@ -1,5 +1,9 @@
 [
     {
+        "title": "Part 1: Managing Large-Scale LLM Training with AWS ParallelCluster",
+        "link": "https://aws.amazon.com/blogs/hpc/part-1-managing-large-scale-llm-training-with-aws-parallelcluster/"
+    },
+    {
         "title": "Resilient HPC and ML on AWS: Running Tightly Coupled Workloads on Spot Instances",
         "link": "https://aws.amazon.com/blogs/hpc/resilient-hpc-and-ml-on-aws-running-tightly-coupled-workloads-on-spot-instances/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Daiichi Sankyo modernized drug discovery using AWS Parallel Computing Service",
         "link": "https://aws.amazon.com/blogs/hpc/how-daiichi-sankyo-modernized-drug-discovery-using-aws-parallel-computing-service/"
-    },
-    {
-        "title": "Meet the Advanced Computing team of AWS at SC25 in St. Louis",
-        "link": "https://aws.amazon.com/blogs/hpc/meet-the-advanced-computing-team-of-aws-at-sc25-in-st-louis/"
     }
 ]

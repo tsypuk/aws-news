@@ -1,5 +1,9 @@
 [
     {
+        "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
+        "link": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws/"
+    },
+    {
         "title": "AWS Network Firewall now supports rule hit count",
         "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Spring 2026 PCI DSS and PCI 3DS compliance packages for AWS now available",
         "link": "https://aws.amazon.com/blogs/security/spring-2026-pci-dss-and-pci-3ds-compliance-packages-for-aws-now-available/"
-    },
-    {
-        "title": "HIPAA Security Rule on AWS \u2013 Technical Safeguards Implementation and Readiness Guidance",
-        "link": "https://aws.amazon.com/blogs/security/hipaa-security-rule-on-aws-technical-safeguards-implementation-and-readiness-guidance/"
     }
 ]

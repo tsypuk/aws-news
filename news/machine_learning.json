@@ -1,5 +1,13 @@
 [
     {
+        "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/"
+    },
+    {
+        "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Introducing new Ray capabilities on SageMaker HyperPod",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/"
-    },
-    {
-        "title": "Domain and publish date filters for Web Search on AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/"
-    },
-    {
-        "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/"
     }
 ]

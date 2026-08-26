@@ -1,5 +1,9 @@
 [
     {
+        "title": "Setting up an RCS agent with an AI coding assistant and AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/setting-up-an-rcs-agent-with-an-ai-coding-assistant-and-aws-end-user-messaging/"
+    },
+    {
         "title": "Send rich RCS messages with AWS End User Messaging RCS",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/send-rich-rcs-messages-with-aws-end-user-messaging-rcs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build an AI-powered course recommender using Amazon Bedrock and AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-an-ai-powered-course-recommender-using-amazon-bedrock-and-aws-end-user-messaging/"
-    },
-    {
-        "title": "How to improve email sender reputation with Amazon SES Email Validation",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-improve-email-sender-reputation-with-amazon-ses-email-validation/"
     }
 ]
