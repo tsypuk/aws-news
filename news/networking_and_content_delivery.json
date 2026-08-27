@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building Multi-Region Active-Active Architectures with CloudFront VPC origins and Advanced Routing",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-multi-region-active-active-architectures-with-cloudfront-vpc-origins-and-advanced-routing/"
+    },
+    {
         "title": "CloudFront Functions Unified Logging",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cloudfront-functions-unified-logging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Setting up Layer 2 Networking on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/setting-up-layer-2-networking-on-amazon-ec2/"
-    },
-    {
-        "title": "Fine-grained Amazon Route 53 access with IAM condition keys (Part 3)",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fine-grained-amazon-route-53-access-with-iam-condition-keys-part-3/"
     }
 ]

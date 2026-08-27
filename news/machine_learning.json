@@ -1,5 +1,33 @@
 [
     {
+        "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/"
+    },
+    {
+        "title": "How GoDaddy transformed its analytics with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/"
+    },
+    {
+        "title": "Natera\u2019s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/"
+    },
+    {
+        "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
+        "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/"
+    },
+    {
+        "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
+        "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/"
+    },
+    {
+        "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/"
+    },
+    {
         "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
         "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick \u2013 Part 1: Setting up your Snowflake environment",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/"
-    },
-    {
-        "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick \u2013 Part 2: Data preparation and model building with Amazon SageMaker Canvas",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/"
-    },
-    {
-        "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick \u2013 Part 3: Visualizing insights with Amazon Quick Sight",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/"
-    },
-    {
-        "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/"
-    },
-    {
-        "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "AWS vector solutions: Build agentic AI where your data lives",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/"
-    },
-    {
-        "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/"
     }
 ]

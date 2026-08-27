@@ -1,5 +1,13 @@
 [
     {
+        "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/"
+    },
+    {
+        "title": "Closing the AI agent trust gap with graduated autonomy",
+        "link": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/"
+    },
+    {
         "title": "How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration",
         "link": "https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
         "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/"
-    },
-    {
-        "title": "Eclipse Dataspace Components on AWS: Architecture patterns in production",
-        "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-architecture-patterns-in-production/"
-    },
-    {
-        "title": "Eclipse Dataspace Components on AWS: Data sharing fundamentals",
-        "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-data-sharing-fundamentals/"
     }
 ]

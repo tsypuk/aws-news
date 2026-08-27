@@ -1,5 +1,9 @@
 [
     {
+        "title": "Break-glass access for Amazon EKS when federated identity fails",
+        "link": "https://aws.amazon.com/blogs/containers/break-glass-access-for-amazon-eks-when-federated-identity-fails/"
+    },
+    {
         "title": "Deep dive into Amazon EKS certificate authority rotation",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-certificate-authority-rotation/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
         "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect/"
-    },
-    {
-        "title": "ARC zonal shift support for EKS Auto Mode and Karpenter",
-        "link": "https://aws.amazon.com/blogs/containers/arc-zonal-shift-support-for-eks-auto-mode-and-karpenter/"
     }
 ]

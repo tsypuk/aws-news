@@ -1,5 +1,9 @@
 [
     {
+        "title": "AI-driven software delivery with Kiro, AWS DevOps Agent and Bluebox by Dynatrace",
+        "link": "https://aws.amazon.com/blogs/devops/ai-driven-software-delivery-with-kiro-aws-devops-agent-and-bluebox-by-dynatrace/"
+    },
+    {
         "title": "From clickops to governed IaC: CloudFormation drift detection in practice",
         "link": "https://aws.amazon.com/blogs/devops/from-clickops-to-governed-iac-cloudformation-drift-detection-in-practice/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Diagnose EKS Node Issues Faster with AWS DevOps Agent and Custom MCP",
         "link": "https://aws.amazon.com/blogs/devops/diagnose-eks-node-issues-faster-with-aws-devops-agent-and-custom-mcp/"
-    },
-    {
-        "title": "Debug deployment failures faster with the Deployments tab in AWS Elastic Beanstalk",
-        "link": "https://aws.amazon.com/blogs/devops/debug-deployment-failures-faster-with-the-deployments-tab-in-aws-elastic-beanstalk/"
     }
 ]

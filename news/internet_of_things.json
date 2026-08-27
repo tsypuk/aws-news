@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating IoT firmware update orchestration with an AI agent on AWS",
+        "link": "https://aws.amazon.com/blogs/iot/automating-iot-firmware-update-orchestration-with-an-ai-agent-on-aws/"
+    },
+    {
         "title": "Device connectivity in AWS IoT Core: Monitor, diagnose, and act at scale",
         "link": "https://aws.amazon.com/blogs/iot/device-connectivity-in-aws-iot-core/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Efficient video streaming and vision AI at the edge with Realtek, Plumerai, and Amazon Kinesis Video Streams",
         "link": "https://aws.amazon.com/blogs/iot/efficient-video-streaming-and-vision-ai-at-the-edge-with-realtek-plumerai-and-amazon-kinesis-video-streams/"
-    },
-    {
-        "title": "Introducing the latest AWS Well-Architected Framework: IoT Lens",
-        "link": "https://aws.amazon.com/blogs/iot/introducing-the-latest-aws-well-architected-framework-iot-lens/"
     }
 ]

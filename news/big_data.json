@@ -1,5 +1,21 @@
 [
     {
+        "title": "Migrate an OAuth 2.0 authenticated Apache Kafka cluster to Amazon MSK with MSK Replicator",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-an-oauth-2-0-authenticated-apache-kafka-cluster-to-amazon-msk-with-msk-replicator/"
+    },
+    {
+        "title": "Announcing in-place ZooKeeper-to-KRaft cluster upgrades for Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-in-place-zookeeper-to-kraft-cluster-upgrades-for-amazon-msk/"
+    },
+    {
+        "title": "Amazon MSK Service 101: How many partitions does an Amazon MSK topic need?",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-service-101-how-many-partitions-does-an-amazon-msk-topic-need/"
+    },
+    {
+        "title": "AWS and DuckLabs: Building the future of analytics together",
+        "link": "https://aws.amazon.com/blogs/big-data/aws-and-ducklabs-building-the-future-of-analytics-together/"
+    },
+    {
         "title": "PythonOperator and BashOperator Now Available on Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/pythonoperator-and-bashoperator-now-available-on-amazon-managed-workflows-for-apache-airflow-amazon-mwaa-serverless/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "OAuth 2.0, LDAP, and HTTP auth for Amazon MQ for RabbitMQ",
         "link": "https://aws.amazon.com/blogs/big-data/oauth-2-0-ldap-and-http-auth-for-amazon-mq-for-rabbitmq/"
-    },
-    {
-        "title": "Mutual TLS and SSL certificate authentication for Amazon MQ for RabbitMQ",
-        "link": "https://aws.amazon.com/blogs/big-data/mutual-tls-and-ssl-certificate-authentication-for-amazon-mq-for-rabbitmq/"
-    },
-    {
-        "title": "Authentication and authorization options for Amazon MQ for RabbitMQ",
-        "link": "https://aws.amazon.com/blogs/big-data/authentication-and-authorization-options-for-amazon-mq-for-rabbitmq/"
-    },
-    {
-        "title": "NaranjaX manages multiple Amazon MSK Serverless clusters in different accounts from their IDP using AWS RAM and Route 53",
-        "link": "https://aws.amazon.com/blogs/big-data/naranjax-manages-multiple-amazon-msk-serverless-clusters-in-different-accounts-from-their-idp-using-aws-ram-and-route-53/"
-    },
-    {
-        "title": "How Autodesk migrated 2.3 billion documents to Amazon OpenSearch Service using Migration Assistant and intelligent routing",
-        "link": "https://aws.amazon.com/blogs/big-data/how-autodesk-migrated-2-3-billion-documents-to-amazon-opensearch-service-using-migration-assistant-and-intelligent-routing/"
     }
 ]

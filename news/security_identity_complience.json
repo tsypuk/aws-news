@@ -1,5 +1,13 @@
 [
     {
+        "title": "ICYMI: July 2026 @AWS Security",
+        "link": "https://aws.amazon.com/blogs/security/icymi-july-2026-aws-security/"
+    },
+    {
+        "title": "Detecting multi-stage attacks on AWS: A guide to cross-service signal correlation",
+        "link": "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/"
+    },
+    {
         "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
         "link": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows/"
-    },
-    {
-        "title": "From 2 weeks to 2 minutes: Amazon Cognito launches Provisioned limits for self-service rate limit management",
-        "link": "https://aws.amazon.com/blogs/security/from-2-weeks-to-2-minutes-amazon-cognito-launches-provisioned-limits-for-self-service-rate-limit-management/"
-    },
-    {
-        "title": "Spring 2026 PCI DSS and PCI 3DS compliance packages for AWS now available",
-        "link": "https://aws.amazon.com/blogs/security/spring-2026-pci-dss-and-pci-3ds-compliance-packages-for-aws-now-available/"
     }
 ]

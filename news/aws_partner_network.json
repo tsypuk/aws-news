@@ -1,5 +1,9 @@
 [
     {
+        "title": "SailPoint Agent Identity Security for AI agents on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/apn/sailpoint-agent-identity-security-for-ai-agents-on-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Building intelligent data foundations: The Grubhub and Vody partnership on AWS",
         "link": "https://aws.amazon.com/blogs/apn/building-intelligent-data-foundations-the-grubhub-and-vody-partnership-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transform enterprise visual content with Amazon Nova and Bria Fibo",
         "link": "https://aws.amazon.com/blogs/apn/transform-enterprise-visual-content-with-amazon-nova-and-bria-fibo/"
-    },
-    {
-        "title": "Build a complete SOC solution with Amazon Security Lake, Splunk, and Recorded Future Autonomous Threat Operations",
-        "link": "https://aws.amazon.com/blogs/apn/build-a-complete-soc-solution-with-amazon-security-lake-splunk-and-recorded-future-autonomous-threat-operations/"
     }
 ]

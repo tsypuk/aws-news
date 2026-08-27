@@ -1,5 +1,9 @@
 [
     {
+        "title": "Get started with the Agent Toolkit for AWS in the AWS CLI",
+        "link": "https://aws.amazon.com/blogs/developer/get-started-with-the-agent-toolkit-for-aws-in-the-aws-cli/"
+    },
+    {
         "title": "Announcing response streaming for .NET on AWS Lambda",
         "link": "https://aws.amazon.com/blogs/developer/announcing-response-streaming-for-net-on-aws-lambda/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Smithy Kotlin client code generation now generally available",
         "link": "https://aws.amazon.com/blogs/developer/smithy-kotlin-client-code-generation-now-generally-available/"
-    },
-    {
-        "title": "Upgrading AWS CLI From v1 to v2 Using the Migration Tool",
-        "link": "https://aws.amazon.com/blogs/developer/upgrading-aws-cli-from-v1-to-v2-using-the-migration-tool/"
     }
 ]

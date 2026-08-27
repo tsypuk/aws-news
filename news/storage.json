@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate root cause analysis for AWS Backup failures with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/storage/automate-root-cause-analysis-for-aws-backup-failures-with-aws-devops-agent/"
+    },
+    {
         "title": "How Nearmap built continental-scale aerial search using Amazon S3 Vectors",
         "link": "https://aws.amazon.com/blogs/storage/how-nearmap-built-continental-scale-aerial-search-using-amazon-s3-vectors/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Replicate Amazon S3 bucket configurations across AWS Regions with AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/storage/replicate-amazon-s3-bucket-configurations-across-aws-regions-with-aws-step-functions/"
-    },
-    {
-        "title": "Integrating Amazon FSx for NetApp ONTAP and Amazon FSx for Windows File Server using Microsoft Entra Domain Services",
-        "link": "https://aws.amazon.com/blogs/storage/integrating-amazon-fsx-for-netapp-ontap-and-amazon-fsx-for-windows-file-server-with-microsoft-entra-id/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best practices for Instant Play Demos powered by Amazon GameLift Streams",
+        "link": "https://aws.amazon.com/blogs/gametech/best-practices-for-instant-play-demos-powered-by-amazon-gamelift-streams/"
+    },
+    {
         "title": "Protecting game servers from DDoS attacks with Amazon GameLift Servers",
         "link": "https://aws.amazon.com/blogs/gametech/protecting-game-servers-from-ddos-attacks-with-amazon-gamelift-servers/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Creating interactive gaming experiences with Amazon GameLift Streams and Amazon Interactive Video Service",
         "link": "https://aws.amazon.com/blogs/gametech/creating-interactive-gaming-experiences-with-amazon-gamelift-streams-and-amazon-interactive-video-service/"
-    },
-    {
-        "title": "Game development infrastructure simplified with AWS Game Dev Toolkit",
-        "link": "https://aws.amazon.com/blogs/gametech/game-development-infrastructure-simplified-with-aws-game-dev-toolkit/"
     }
 ]
