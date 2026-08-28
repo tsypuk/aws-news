@@ -1,5 +1,21 @@
 [
     {
+        "title": "What HCLS security teams can do this quarter to close the execution gap",
+        "link": "https://aws.amazon.com/blogs/publicsector/what-hcls-security-teams-can-do-this-quarter-to-close-the-execution-gap/"
+    },
+    {
+        "title": "Modernizing state, local digital government services with AWS and Presidio",
+        "link": "https://aws.amazon.com/blogs/publicsector/modernizing-state-local-digital-government-services-with-aws-and-presidio/"
+    },
+    {
+        "title": "How ITHAKA built an on-demand PDF remediation pipeline on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-ithaka-built-an-on-demand-pdf-remediation-pipeline-on-aws/"
+    },
+    {
+        "title": "How HOT uses open source on AWS to power humanitarian AI",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-hot-uses-open-source-on-aws-to-power-humanitarian-ai/"
+    },
+    {
         "title": "FSU researchers improve cloud skills with AWS Research Skilling Accelerator",
         "link": "https://aws.amazon.com/blogs/publicsector/fsu-researchers-improve-cloud-skills-with-aws-research-skilling-accelerator/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Deploy AI agents in AWS GovCloud (US) using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/publicsector/deploy-ai-agents-in-aws-govcloud-us-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Distributed generative AI for government",
-        "link": "https://aws.amazon.com/blogs/publicsector/distributed-generative-ai-for-government/"
-    },
-    {
-        "title": "Safekeeping your data anywhere: How AWS and Expando help European governments protect data from the edge to the cloud",
-        "link": "https://aws.amazon.com/blogs/publicsector/safekeeping-your-data-anywhere-how-aws-and-expando-help-european-governments-protect-data-from-the-edge-to-the-cloud/"
-    },
-    {
-        "title": "The Signal-Activated Agent Pattern: A reference architecture for proactive government AI",
-        "link": "https://aws.amazon.com/blogs/publicsector/the-signal-activated-agent-pattern-a-reference-architecture-for-proactive-government-ai/"
-    },
-    {
-        "title": "Signal-activated generative AI: How agencies can reach more people and react faster",
-        "link": "https://aws.amazon.com/blogs/publicsector/signal-activated-generative-ai-how-agencies-can-reach-more-people-and-react-faster/"
     }
 ]

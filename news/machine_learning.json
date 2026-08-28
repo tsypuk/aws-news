@@ -1,5 +1,21 @@
 [
     {
+        "title": "Build agentic creative workflows with Amazon Quick and fal",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/"
+    },
+    {
+        "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/"
+    },
+    {
+        "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/"
+    },
+    {
+        "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/"
+    },
+    {
         "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
         "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/"
-    },
-    {
-        "title": "Reduce RAG costs on Amazon Bedrock with query-aware compression",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/"
-    },
-    {
-        "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws/"
-    },
-    {
-        "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/"
-    },
-    {
-        "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick \u2013 Part 1: Setting up your Snowflake environment",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/"
     }
 ]

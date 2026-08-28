@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Picnic configured multiple OAuth providers for Amazon MQ",
+        "link": "https://aws.amazon.com/blogs/big-data/how-picnic-configured-multiple-oauth-providers-for-amazon-mq/"
+    },
+    {
+        "title": "Build with geospatial and variant types in Iceberg v3 on AWS Glue 6.0",
+        "link": "https://aws.amazon.com/blogs/big-data/build-with-geospatial-and-variant-types-in-iceberg-v3-on-aws-glue-6-0/"
+    },
+    {
         "title": "Migrate an OAuth 2.0 authenticated Apache Kafka cluster to Amazon MSK with MSK Replicator",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-an-oauth-2-0-authenticated-apache-kafka-cluster-to-amazon-msk-with-msk-replicator/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Zepto powers sub-second search using OpenSearch Service OR2 instances",
         "link": "https://aws.amazon.com/blogs/big-data/how-zepto-powers-sub-second-search-using-opensearch-service-or2-instances/"
-    },
-    {
-        "title": "IAM authentication with OAuth 2.0 for Amazon MQ for RabbitMQ",
-        "link": "https://aws.amazon.com/blogs/big-data/iam-authentication-with-oauth-2-0-for-amazon-mq-for-rabbitmq/"
-    },
-    {
-        "title": "OAuth 2.0, LDAP, and HTTP auth for Amazon MQ for RabbitMQ",
-        "link": "https://aws.amazon.com/blogs/big-data/oauth-2-0-ldap-and-http-auth-for-amazon-mq-for-rabbitmq/"
     }
 ]

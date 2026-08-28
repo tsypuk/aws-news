@@ -1,5 +1,9 @@
 [
     {
+        "title": "How OceanBase unifies transactions analytics and AI on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/how-oceanbase-unifies-transactions-analytics-and-ai-on-aws/"
+    },
+    {
         "title": "SailPoint Agent Identity Security for AI agents on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/apn/sailpoint-agent-identity-security-for-ai-agents-on-amazon-bedrock-agentcore/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing enterprise ready AI agents with Auth0 for AI Agents and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/apn/securing-enterprise-ready-ai-agents-with-auth0-for-ai-agents-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Transform enterprise visual content with Amazon Nova and Bria Fibo",
-        "link": "https://aws.amazon.com/blogs/apn/transform-enterprise-visual-content-with-amazon-nova-and-bria-fibo/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
+        "link": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/"
+    },
+    {
         "title": "ICYMI: July 2026 @AWS Security",
         "link": "https://aws.amazon.com/blogs/security/icymi-july-2026-aws-security/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Caching KMS data keys in multi-thread environments: Per-tenant encryption for event-driven systems at scale",
         "link": "https://aws.amazon.com/blogs/security/caching-kms-data-keys-in-multi-thread-environments-per-tenant-encryption-for-event-driven-systems-at-scale/"
-    },
-    {
-        "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
-        "link": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows/"
     }
 ]

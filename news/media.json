@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce MTTR with AI-driven RCA using AWS DevOps Agent and Splunk",
+        "link": "https://aws.amazon.com/blogs/mt/reduce-mttr-with-ai-driven-rca-using-aws-devops-agent-and-splunk/"
+    },
+    {
         "title": "How Moeve scales AWS governance with automated AWS Organization Service Control Policies",
         "link": "https://aws.amazon.com/blogs/mt/how-moeve-scales-aws-governance-with-automated-aws-organization-service-control-policies/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Log analysis with facets, correlation, enrichment, and automation in Amazon CloudWatch Log Analytics",
         "link": "https://aws.amazon.com/blogs/mt/log-analysis-with-facets-correlation-enrichment-and-automation-in-amazon-cloudwatch-log-analytics/"
-    },
-    {
-        "title": "Analyzing Claude Code usage with CloudWatch and OpenTelemetry",
-        "link": "https://aws.amazon.com/blogs/mt/analyzing-claude-code-usage-with-cloudwatch-and-opentelemetry/"
     }
 ]

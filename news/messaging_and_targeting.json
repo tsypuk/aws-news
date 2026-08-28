@@ -1,5 +1,9 @@
 [
     {
+        "title": "Creating and testing an End User Messaging RCS agent with AWS CLI",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/creating-and-testing-an-end-user-messaging-rcs-agent-with-aws-cli/"
+    },
+    {
         "title": "Setting up an RCS agent with an AI coding assistant and AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/setting-up-an-rcs-agent-with-an-ai-coding-assistant-and-aws-end-user-messaging/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adding a voice layer to WhatsApp conversations with AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/adding-a-voice-layer-to-whatsapp-conversations-with-aws-end-user-messaging/"
-    },
-    {
-        "title": "Build an AI-powered course recommender using Amazon Bedrock and AWS End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-an-ai-powered-course-recommender-using-amazon-bedrock-and-aws-end-user-messaging/"
     }
 ]
