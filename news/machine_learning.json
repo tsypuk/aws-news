@@ -1,5 +1,17 @@
 [
     {
+        "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+        "link": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/"
+    },
+    {
+        "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/"
+    },
+    {
+        "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+        "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/"
+    },
+    {
         "title": "Build agentic creative workflows with Amazon Quick and fal",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Building a restaurant telephony AI host with Amazon Connect",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/"
-    },
-    {
-        "title": "AI-powered metadata correction and harmonization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/"
-    },
-    {
-        "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/"
-    },
-    {
-        "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/"
     }
 ]

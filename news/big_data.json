@@ -1,5 +1,9 @@
 [
     {
+        "title": "Razor Group\u2019s journey to a modern data lakehouse on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/razor-groups-journey-to-a-modern-data-lakehouse-on-aws/"
+    },
+    {
         "title": "How Picnic configured multiple OAuth providers for Amazon MQ",
         "link": "https://aws.amazon.com/blogs/big-data/how-picnic-configured-multiple-oauth-providers-for-amazon-mq/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon MSK simplifies configuring custom domain names",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-simplifies-configuring-custom-domain-names/"
-    },
-    {
-        "title": "How Zepto powers sub-second search using OpenSearch Service OR2 instances",
-        "link": "https://aws.amazon.com/blogs/big-data/how-zepto-powers-sub-second-search-using-opensearch-service-or2-instances/"
     }
 ]
