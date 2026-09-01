@@ -1,5 +1,13 @@
 [
     {
+        "title": "Fix circular role dependencies before upgrading Amazon RDS and Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/resolve-circular-role-dependencies-during-upgrades-of-amazon-rds-for-postgresql-and-amazon-aurora/"
+    },
+    {
+        "title": "Provision a secure Amazon DocumentDB cluster with Terraform",
+        "link": "https://aws.amazon.com/blogs/database/provision-a-secure-amazon-documentdb-cluster-with-terraform/"
+    },
+    {
         "title": "CORTO\u2019s billion-scale legal semantic search with Aurora PostgreSQL pgvector",
         "link": "https://aws.amazon.com/blogs/database/cortos-billion-scale-legal-semantic-search-with-aurora-postgresql-pgvector/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enforcing TLS and managing certificate rotation for RDS and Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/enforcing-tls-and-managing-certificate-rotation-for-rds-and-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Migrate RDS and Aurora logs to CloudWatch Infrequent Access",
-        "link": "https://aws.amazon.com/blogs/database/migrate-rds-and-aurora-logs-to-cloudwatch-infrequent-access/"
-    },
-    {
-        "title": "Building search experiences for JSON data with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/database/building-search-experiences-for-json-data-with-amazon-opensearch-service/"
     }
 ]

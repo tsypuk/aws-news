@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing a standalone SigV4 signer for the AWS SDK for .NET",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-a-standalone-sigv4-signer-for-the-aws-sdk-for-net/"
+    },
+    {
         "title": "Get started with the Agent Toolkit for AWS in the AWS CLI",
         "link": "https://aws.amazon.com/blogs/developer/get-started-with-the-agent-toolkit-for-aws-in-the-aws-cli/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Smithy Java client framework is now generally available",
         "link": "https://aws.amazon.com/blogs/developer/smithy-java-client-framework-is-now-generally-available/"
-    },
-    {
-        "title": "Smithy Kotlin client code generation now generally available",
-        "link": "https://aws.amazon.com/blogs/developer/smithy-kotlin-client-code-generation-now-generally-available/"
     }
 ]

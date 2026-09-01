@@ -1,5 +1,25 @@
 [
     {
+        "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/"
+    },
+    {
+        "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/"
+    },
+    {
+        "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/"
+    },
+    {
+        "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/"
+    },
+    {
+        "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/"
+    },
+    {
         "title": "Batch write and discover records in Amazon SageMaker Feature Store",
         "link": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
         "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/"
-    },
-    {
-        "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Introducing new Ray capabilities on SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/"
-    },
-    {
-        "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/"
-    },
-    {
-        "title": "Building a restaurant telephony AI host with Amazon Connect",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/"
     }
 ]

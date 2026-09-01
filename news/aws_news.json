@@ -1,5 +1,13 @@
 [
     {
+        "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/"
+    },
+    {
+        "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/"
+    },
+    {
         "title": "Happy 20th Birthday, Amazon EC2",
         "link": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
         "link": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/"
-    },
-    {
-        "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
-        "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
     }
 ]

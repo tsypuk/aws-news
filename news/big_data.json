@@ -1,5 +1,21 @@
 [
     {
+        "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/deliver-real-time-data-to-streaming-tables-for-apache-iceberg-with-amazon-kinesis-data-streams/"
+    },
+    {
+        "title": "Measuring and improving search quality with Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/measuring-and-improving-search-quality-with-amazon-opensearch-service/"
+    },
+    {
+        "title": "Integrate Amazon Redshift and IAM Identity Center with enhanced VPC routing",
+        "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-redshift-and-iam-identity-center-with-enhanced-vpc-routing/"
+    },
+    {
+        "title": "Build a real-time event pipeline with Spark Real-Time Mode on AWS Glue 6.0",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-event-pipeline-with-spark-real-time-mode-on-aws-glue-6-0/"
+    },
+    {
         "title": "Razor Group\u2019s journey to a modern data lakehouse on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/razor-groups-journey-to-a-modern-data-lakehouse-on-aws/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Secure SageMaker Unified Studio access with SAML and conditional policies",
         "link": "https://aws.amazon.com/blogs/big-data/secure-sagemaker-unified-studio-access-with-saml-and-conditional-policies/"
-    },
-    {
-        "title": "Querying raw log data using SQL and PPL with the optimized engine in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/querying-raw-log-data-using-sql-and-ppl-with-the-optimized-engine-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "Fresher insights, faster decisions: talabat\u2019s near-real-time analytics across AWS and Google Cloud",
-        "link": "https://aws.amazon.com/blogs/big-data/fresher-insights-faster-decisions-talabats-near-real-time-analytics-across-aws-and-google-cloud/"
-    },
-    {
-        "title": "Powering agentic AI with real-time streaming data on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/powering-agentic-ai-with-real-time-streaming-data-on-aws/"
-    },
-    {
-        "title": "Amazon MSK simplifies configuring custom domain names",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-simplifies-configuring-custom-domain-names/"
     }
 ]

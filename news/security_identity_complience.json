@@ -1,5 +1,13 @@
 [
     {
+        "title": "We invited a direct competitor into Security Hub Extended. Here\u2019s why.",
+        "link": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/"
+    },
+    {
+        "title": "Automate IAM Identity Center governance with continuous discovery and reporting",
+        "link": "https://aws.amazon.com/blogs/security/automate-iam-identity-center-governance-with-continuous-discovery-and-reporting/"
+    },
+    {
         "title": "Extend your data perimeter to the AWS Management Console with Private Access",
         "link": "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
         "link": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/"
-    },
-    {
-        "title": "Securing your Amazon S3 buckets: Identifying and remediating over-permissioned access",
-        "link": "https://aws.amazon.com/blogs/security/securing-your-amazon-s3-buckets-identifying-and-remediating-over-permissioned-access/"
-    },
-    {
-        "title": "Automate certificates with ACME support in AWS Certificate Manager",
-        "link": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager/"
     }
 ]

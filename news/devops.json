@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
+        "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
+    },
+    {
         "title": "Build your own continuous modernization pipeline with AWS Transform custom",
         "link": "https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate Incident Resolution with PagerDuty and AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/devops/accelerate-incident-resolution-with-pagerduty-and-aws-devops-agent/"
-    },
-    {
-        "title": "Production-Ready Autonomous Incident Resolution with AWS DevOps Agent (now GA) and Datadog MCP Server",
-        "link": "https://aws.amazon.com/blogs/devops/production-ready-autonomous-incident-resolution-with-aws-devops-agent-now-ga-and-datadog-mcp-server/"
     }
 ]
