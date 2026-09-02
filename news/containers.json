@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automate proxy injection for Amazon EKS on AWS Fargate using Kyverno",
+        "link": "https://aws.amazon.com/blogs/containers/automate-proxy-injection-for-amazon-eks-on-aws-fargate-using-kyverno/"
+    },
+    {
+        "title": "Fast model loading for AI inference on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/fast-model-loading-for-ai-inference-on-amazon-eks/"
+    },
+    {
         "title": "Break-glass access for Amazon EKS when federated identity fails",
         "link": "https://aws.amazon.com/blogs/containers/break-glass-access-for-amazon-eks-when-federated-identity-fails/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Extending Amazon ECS Express Mode to Build an Optimal Container Environment",
         "link": "https://aws.amazon.com/blogs/containers/extending-amazon-ecs-express-mode-to-build-an-optimal-container-environment/"
-    },
-    {
-        "title": "Run GPU batch inference on Amazon ECS Managed Instances with scale to zero",
-        "link": "https://aws.amazon.com/blogs/containers/run-gpu-batch-inference-on-amazon-ecs-managed-instances-with-scale-to-zero/"
-    },
-    {
-        "title": "Announcing zone-aware routing in Amazon ECS Service Connect",
-        "link": "https://aws.amazon.com/blogs/containers/announcing-zone-aware-routing-in-amazon-ecs-service-connect/"
     }
 ]

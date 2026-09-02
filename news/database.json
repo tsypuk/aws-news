@@ -1,5 +1,9 @@
 [
     {
+        "title": "SQL Server to Aurora PostgreSQL conversion with AI agents for AWS DMS",
+        "link": "https://aws.amazon.com/blogs/database/sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms/"
+    },
+    {
         "title": "Fix circular role dependencies before upgrading Amazon RDS and Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/resolve-circular-role-dependencies-during-upgrades-of-amazon-rds-for-postgresql-and-amazon-aurora/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Natural language queries on Oracle Database 26ai: Getting started with Select AI on Amazon RDS for Oracle with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/natural-language-queries-on-oracle-database-26ai-getting-started-with-select-ai-on-amazon-rds-for-oracle-with-amazon-bedrock/"
-    },
-    {
-        "title": "Enforcing TLS and managing certificate rotation for RDS and Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/enforcing-tls-and-managing-certificate-rotation-for-rds-and-amazon-aurora-postgresql/"
     }
 ]

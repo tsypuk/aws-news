@@ -1,5 +1,33 @@
 [
     {
+        "title": "Introducing Claude Fable 5.1 on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/"
+    },
+    {
+        "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/"
+    },
+    {
+        "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/"
+    },
+    {
+        "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/"
+    },
+    {
+        "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/"
+    },
+    {
+        "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/"
+    },
+    {
+        "title": "How Boomi Scribe streamlines documentation using AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/"
+    },
+    {
         "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
         "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/"
-    },
-    {
-        "title": "How GoDaddy transformed its analytics with Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/"
-    },
-    {
-        "title": "Natera\u2019s intelligent appointment scheduling with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/"
-    },
-    {
-        "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
-        "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/"
-    },
-    {
-        "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
-        "link": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/"
-    },
-    {
-        "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/"
-    },
-    {
-        "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/"
     }
 ]

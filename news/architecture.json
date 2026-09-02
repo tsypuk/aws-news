@@ -1,5 +1,13 @@
 [
     {
+        "title": "Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/hybrid-cloud-orchestration-modernizing-on-premises-infrastructure-management-with-aws/"
+    },
+    {
+        "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
+        "link": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/"
+    },
+    {
         "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Architecting offline-first generative AI applications for edge deployments using AWS services",
         "link": "https://aws.amazon.com/blogs/architecture/architecting-offline-first-generative-ai-applications-for-edge-deployments-using-aws-services/"
-    },
-    {
-        "title": "Automate custom PII detection at scale with Amazon Macie and Step Functions",
-        "link": "https://aws.amazon.com/blogs/architecture/automate-custom-pii-detection-at-scale-with-amazon-macie-and-step-functions/"
-    },
-    {
-        "title": "Eclipse Dataspace Components on AWS: Cost optimization strategies",
-        "link": "https://aws.amazon.com/blogs/architecture/eclipse-dataspace-components-on-aws-cost-optimization-strategies/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Deploying MCP servers with AWS IoT Greengrass for edge diagnostics",
+        "link": "https://aws.amazon.com/blogs/iot/deploying-mcp-servers-with-aws-iot-greengrass-for-edge-diagnostics/"
+    },
+    {
+        "title": "Build edge AI agents with the AWS IoT Greengrass Component SDK for Rust",
+        "link": "https://aws.amazon.com/blogs/iot/build-edge-ai-agents-with-the-aws-iot-greengrass-component-sdk-for-rust/"
+    },
+    {
         "title": "Automating IoT firmware update orchestration with an AI agent on AWS",
         "link": "https://aws.amazon.com/blogs/iot/automating-iot-firmware-update-orchestration-with-an-ai-agent-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Preventing Machine Breakdowns: How Physical AI Predicts Equipment Problems",
         "link": "https://aws.amazon.com/blogs/iot/preventing-machine-breakdowns-how-physical-ai-predicts-equipment-problems/"
-    },
-    {
-        "title": "Using AWS IoT Device Management commands to simplify remote actions on IoT devices",
-        "link": "https://aws.amazon.com/blogs/iot/using-aws-iot-device-management-commands-to-simplify-remote-actions-on-iot-devices/"
-    },
-    {
-        "title": "Efficient video streaming and vision AI at the edge with Realtek, Plumerai, and Amazon Kinesis Video Streams",
-        "link": "https://aws.amazon.com/blogs/iot/efficient-video-streaming-and-vision-ai-at-the-edge-with-realtek-plumerai-and-amazon-kinesis-video-streams/"
     }
 ]

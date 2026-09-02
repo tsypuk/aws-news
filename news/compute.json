@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scheduling email campaigns at scale with Amazon EventBridge Scheduler",
+        "link": "https://aws.amazon.com/blogs/compute/scheduling-email-campaigns-at-scale-with-amazon-eventbridge-scheduler/"
+    },
+    {
         "title": "Amazon Linux default SSM parameter will now track the latest kernel",
         "link": "https://aws.amazon.com/blogs/compute/amazon-linux-default-ssm-parameter-will-now-track-the-latest-kernel/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Uncover new performance insights using Amazon detailed performance statistics on Windows",
         "link": "https://aws.amazon.com/blogs/compute/uncover-new-performance-insights-using-amazon-detailed-performance-statistics-on-windows/"
-    },
-    {
-        "title": "Building fault-tolerant multi-agent AI workflows with AWS Lambda durable functions",
-        "link": "https://aws.amazon.com/blogs/compute/building-fault-tolerant-multi-agent-ai-workflows-with-aws-lambda-durable-functions/"
     }
 ]
