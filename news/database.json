@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing strands-dynamodb-storage: Durable agent storage for the Strands Agents SDK",
+        "link": "https://aws.amazon.com/blogs/database/introducing-strands-dynamodb-storage-durable-agent-storage-for-the-strands-agents-sdk/"
+    },
+    {
         "title": "SQL Server to Aurora PostgreSQL conversion with AI agents for AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate Amazon Aurora PostgreSQL across major versions with active Debezium CDC connectors using native logical replication",
         "link": "https://aws.amazon.com/blogs/database/migrate-amazon-aurora-postgresql-across-major-versions-with-active-debezium-cdc-connectors-using-native-logical-replication/"
-    },
-    {
-        "title": "Natural language queries on Oracle Database 26ai: Getting started with Select AI on Amazon RDS for Oracle with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/database/natural-language-queries-on-oracle-database-26ai-getting-started-with-select-ai-on-amazon-rds-for-oracle-with-amazon-bedrock/"
     }
 ]

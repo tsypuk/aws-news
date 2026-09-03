@@ -1,5 +1,13 @@
 [
     {
+        "title": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+        "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
+    },
+    {
+        "title": "Automate planned lifecycle upgrades with AWS DevOps Agent and Kiro",
+        "link": "https://aws.amazon.com/blogs/devops/automate-planned-lifecycle-upgrades-with-aws-devops-agent-and-kiro/"
+    },
+    {
         "title": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
         "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly",
         "link": "https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/"
-    },
-    {
-        "title": "Supercharge your cloud operations with the Kiro power for AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/devops/supercharge-your-cloud-operations-with-the-kiro-power-for-aws-devops-agent/"
-    },
-    {
-        "title": "Accelerate Incident Resolution with PagerDuty and AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/devops/accelerate-incident-resolution-with-pagerduty-and-aws-devops-agent/"
     }
 ]

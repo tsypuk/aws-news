@@ -1,5 +1,13 @@
 [
     {
+        "title": "Managing identity source transition for AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
+    },
+    {
+        "title": "Agentic security: Detection and response at machine speed",
+        "link": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed/"
+    },
+    {
         "title": "We invited a direct competitor into Security Hub Extended. Here\u2019s why.",
         "link": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AWS completes the 2026 Police-Assured Secure Facilities (PASF) audit in Europe (London)",
         "link": "https://aws.amazon.com/blogs/security/aws-completes-the-2026-police-assured-secure-facilities-pasf-audit-in-europe-london/"
-    },
-    {
-        "title": "2026 AWS CyberVadis report now available for due diligence on third-party suppliers",
-        "link": "https://aws.amazon.com/blogs/security/2026-aws-cybervadis-report-now-available-for-due-diligence-on-third-party-suppliers/"
-    },
-    {
-        "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
-        "link": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reduce Traffic Interruptions with Gateway Load Balancer TCP Reset",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/reduce-traffic-interruptions-with-gateway-load-balancer-tcp-reset/"
+    },
+    {
         "title": "Implementing encryption in transit across connectivity patterns with VPC Encryption Controls",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-encryption-in-transit-across-connectivity-patterns-with-vpc-encryption-controls/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing the LBC Ingress-to-Gateway API migration toolkit",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-the-lbc-ingress-to-gateway-api-migration-toolkit/"
-    },
-    {
-        "title": "Building extranet on AWS: Secure, scalable partner connectivity",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-extranet-on-aws-secure-scalable-partner-connectivity/"
     }
 ]
