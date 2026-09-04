@@ -1,5 +1,29 @@
 [
     {
+        "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/"
+    },
+    {
+        "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/"
+    },
+    {
+        "title": "Best practices for building agentic automations with Amazon Quick Automate",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/"
+    },
+    {
+        "title": "Embed Quick Sight visuals using Cognito user authentication",
+        "link": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/"
+    },
+    {
         "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/"
-    },
-    {
-        "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/"
-    },
-    {
-        "title": "Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/"
-    },
-    {
-        "title": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/"
-    },
-    {
-        "title": "Batch write and discover records in Amazon SageMaker Feature Store",
-        "link": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/"
-    },
-    {
-        "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/"
-    },
-    {
-        "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-        "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/"
     }
 ]

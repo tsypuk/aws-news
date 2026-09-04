@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Tubular Labs reclaimed 50% of engineering capacity by rebuilding their 70TB pipeline on Apache Iceberg and Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/how-tubular-labs-reclaimed-50-of-engineering-capacity-by-rebuilding-their-70tb-pipeline-on-apache-iceberg-and-amazon-s3-tables/"
+    },
+    {
+        "title": "Migrate VMware Storage to Amazon FSx for NetApp ONTAP using AWS Transform",
+        "link": "https://aws.amazon.com/blogs/storage/migrate-vmware-storage-to-amazon-fsx-for-netapp-ontap-using-aws-transform/"
+    },
+    {
+        "title": "Run Spark 31% faster and optimize compute costs with Amazon S3 Express One Zone on Amazon EMR",
+        "link": "https://aws.amazon.com/blogs/storage/run-spark-31-faster-and-optimize-compute-costs-with-amazon-s3-express-one-zone-on-amazon-emr/"
+    },
+    {
         "title": "Detect stalled Amazon S3 live replication to prevent unexpected storage costs",
         "link": "https://aws.amazon.com/blogs/storage/detect-stalled-amazon-s3-live-replication-to-prevent-unexpected-storage-costs/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Optimize Amazon EBS volumes to get the right performance at the right time",
         "link": "https://aws.amazon.com/blogs/storage/optimize-amazon-ebs-volume-performance-the-right-amount-at-the-right-time/"
-    },
-    {
-        "title": "Manage storage consumption at scale using quotas on Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/manage-storage-consumption-at-scale-with-quotas-on-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "How Vanderbilt University scales digital archive discovery with Amazon S3 Metadata",
-        "link": "https://aws.amazon.com/blogs/storage/how-vanderbilt-university-scales-digital-archive-discovery-with-s3-metadata/"
-    },
-    {
-        "title": "Zero-downtime Amazon S3 Versioning: Architectural patterns for mission-critical workloads",
-        "link": "https://aws.amazon.com/blogs/storage/zero-downtime-amazon-s3-versioning-architectural-patterns-for-mission-critical-workloads/"
     }
 ]

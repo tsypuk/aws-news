@@ -1,5 +1,13 @@
 [
     {
+        "title": "Network connectivity patterns for the next generation of Amazon OpenSearch Serverless",
+        "link": "https://aws.amazon.com/blogs/big-data/network-connectivity-patterns-for-the-next-generation-of-amazon-opensearch-serverless/"
+    },
+    {
+        "title": "How Moovit achieved 33% cost optimization through architectural modernization",
+        "link": "https://aws.amazon.com/blogs/big-data/how-moovit-achieved-33-cost-optimization-through-architectural-modernization/"
+    },
+    {
         "title": "Query Amazon S3 Tables from Amazon EMR Trino using the Iceberg REST endpoint",
         "link": "https://aws.amazon.com/blogs/big-data/query-amazon-s3-tables-from-amazon-emr-trino-using-the-iceberg-rest-endpoint/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Enable cross-cloud analytics with Amazon S3 Tables and Google BigQuery, Part 1: IAM-based access control",
         "link": "https://aws.amazon.com/blogs/big-data/enable-cross-cloud-analytics-with-amazon-s3-tables-and-google-bigquery-part-1-iam-based-access-control/"
-    },
-    {
-        "title": "Enable cross-cloud analytics with Amazon S3 Tables and Google BigQuery, Part 2: access control with Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-cross-cloud-analytics-with-amazon-s3-tables-and-google-bigquery-part-2-access-control-with-lake-formation/"
-    },
-    {
-        "title": "GPU-accelerated Apache Spark with Amazon EMR and NVIDIA RTX PRO 4500 on Amazon EC2 G7 instances runs up to 3.7x faster",
-        "link": "https://aws.amazon.com/blogs/big-data/gpu-accelerated-apache-spark-with-amazon-emr-and-nvidia-rtx-pro-4500-on-amazon-ec2-g7-instances-runs-up-to-3-7x-faster/"
     }
 ]
