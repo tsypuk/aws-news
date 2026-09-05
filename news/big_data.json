@@ -1,5 +1,9 @@
 [
     {
+        "title": "From silos to insights: Federated data access patterns for AI agents",
+        "link": "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents/"
+    },
+    {
         "title": "Network connectivity patterns for the next generation of Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/network-connectivity-patterns-for-the-next-generation-of-amazon-opensearch-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "PythonOperator and BashOperator Now Available on Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/pythonoperator-and-bashoperator-now-available-on-amazon-managed-workflows-for-apache-airflow-amazon-mwaa-serverless/"
-    },
-    {
-        "title": "Enable cross-cloud analytics with Amazon S3 Tables and Google BigQuery, Part 1: IAM-based access control",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-cross-cloud-analytics-with-amazon-s3-tables-and-google-bigquery-part-1-iam-based-access-control/"
     }
 ]

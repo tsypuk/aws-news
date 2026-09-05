@@ -1,5 +1,29 @@
 [
     {
+        "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Designing lifecycle policies for AgentCore memory",
+        "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/"
+    },
+    {
+        "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/"
+    },
+    {
+        "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/"
+    },
+    {
+        "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/"
+    },
+    {
         "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/"
-    },
-    {
-        "title": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/"
-    },
-    {
-        "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/"
-    },
-    {
-        "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/"
-    },
-    {
-        "title": "How Boomi Scribe streamlines documentation using AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/"
-    },
-    {
-        "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/"
-    },
-    {
-        "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/"
     }
 ]

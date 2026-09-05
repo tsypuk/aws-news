@@ -1,5 +1,9 @@
 [
     {
+        "title": "Investigate DMS migration issues with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/investigate-dms-migration-issues-with-aws-devops-agent/"
+    },
+    {
         "title": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
         "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building and running custom code transformations without leaving your editor",
         "link": "https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/"
-    },
-    {
-        "title": "Feature Flag Orchestration with AWS DevOps Agent and LaunchDarkly",
-        "link": "https://aws.amazon.com/blogs/devops/feature-flag-orchestration-with-aws-devops-agent-and-launchdarkly/"
     }
 ]
