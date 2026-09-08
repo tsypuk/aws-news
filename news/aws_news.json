@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/"
+    },
+    {
         "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/"
-    },
-    {
-        "title": "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager",
-        "link": "https://aws.amazon.com/blogs/aws/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/"
     }
 ]
