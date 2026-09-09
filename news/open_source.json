@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build full-stack AWS applications in minutes with AI-powered scaffolding",
+        "link": "https://aws.amazon.com/blogs/opensource/build-full-stack-aws-applications-in-minutes-with-ai-powered-scaffolding/"
+    },
+    {
         "title": "AWS Supports Agent Plugins: An Open Standard for Portable Agent Extensions",
         "link": "https://aws.amazon.com/blogs/opensource/aws-supports-agent-plugins-an-open-standard-for-portable-agent-extensions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing ml-container-creator for easy BYOC on SageMaker",
         "link": "https://aws.amazon.com/blogs/opensource/announcing-ml-container-creator-for-easy-byoc-on-sagemaker/"
-    },
-    {
-        "title": "The Swift AWS Lambda Runtime moves to AWSLabs",
-        "link": "https://aws.amazon.com/blogs/opensource/the-swift-aws-lambda-runtime-moves-to-awslabs/"
     }
 ]

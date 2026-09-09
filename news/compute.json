@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bring your own client certificate for backend mTLS in Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/compute/bring-your-own-client-certificate-for-backend-mtls-in-amazon-api-gateway/"
+    },
+    {
         "title": "Scheduling email campaigns at scale with Amazon EventBridge Scheduler",
         "link": "https://aws.amazon.com/blogs/compute/scheduling-email-campaigns-at-scale-with-amazon-eventbridge-scheduler/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate multiplayer game hosting with AWS m8azn instances",
         "link": "https://aws.amazon.com/blogs/compute/accelerate-multiplayer-game-hosting-with-aws-m8azn-instances/"
-    },
-    {
-        "title": "Uncover new performance insights using Amazon detailed performance statistics on Windows",
-        "link": "https://aws.amazon.com/blogs/compute/uncover-new-performance-insights-using-amazon-detailed-performance-statistics-on-windows/"
     }
 ]

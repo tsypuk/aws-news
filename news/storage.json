@@ -1,5 +1,9 @@
 [
     {
+        "title": "Flexibly control Amazon S3 Object Lock retention based on real business events",
+        "link": "https://aws.amazon.com/blogs/storage/flexibly-control-amazon-s3-object-lock-retention-based-on-real-business-events/"
+    },
+    {
         "title": "How Tubular Labs reclaimed 50% of engineering capacity by rebuilding their 70TB pipeline on Apache Iceberg and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/how-tubular-labs-reclaimed-50-of-engineering-capacity-by-rebuilding-their-70tb-pipeline-on-apache-iceberg-and-amazon-s3-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Unlocking data residency use cases with Amazon S3 in AWS Local Zones",
         "link": "https://aws.amazon.com/blogs/storage/unlocking-data-residency-use-cases-with-amazon-s3-in-aws-local-zones/"
-    },
-    {
-        "title": "Optimize Amazon EBS volumes to get the right performance at the right time",
-        "link": "https://aws.amazon.com/blogs/storage/optimize-amazon-ebs-volume-performance-the-right-amount-at-the-right-time/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS recognized as a Leader in the 2026 Gartner Magic Quadrant for Strategic Cloud Platform Services for the 16th consecutive year",
+        "link": "https://aws.amazon.com/blogs/big-data/aws-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-the-16th-consecutive-year/"
+    },
+    {
+        "title": "How Sony LIV built real-time video streaming analytics with AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/how-sony-liv-built-real-time-video-streaming-analytics-with-aws/"
+    },
+    {
         "title": "From silos to insights: Federated data access patterns for AI agents",
         "link": "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon MSK Service 101: How many partitions does an Amazon MSK topic need?",
         "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-service-101-how-many-partitions-does-an-amazon-msk-topic-need/"
-    },
-    {
-        "title": "AWS and DuckLabs: Building the future of analytics together",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-and-ducklabs-building-the-future-of-analytics-together/"
-    },
-    {
-        "title": "PythonOperator and BashOperator Now Available on Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/pythonoperator-and-bashoperator-now-available-on-amazon-managed-workflows-for-apache-airflow-amazon-mwaa-serverless/"
     }
 ]

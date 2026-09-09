@@ -1,5 +1,41 @@
 [
     {
+        "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/"
+    },
+    {
+        "title": "Pathway\u2019s brain-inspired architecture development on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/"
+    },
+    {
+        "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/"
+    },
+    {
+        "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/"
+    },
+    {
+        "title": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/"
+    },
+    {
+        "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/"
+    },
+    {
+        "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/"
+    },
+    {
+        "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/"
+    },
+    {
         "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/"
     },
@@ -42,41 +78,5 @@
     {
         "title": "Best practices for building agentic automations with Amazon Quick Automate",
         "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/"
-    },
-    {
-        "title": "Embed Quick Sight visuals using Cognito user authentication",
-        "link": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/"
-    },
-    {
-        "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/"
-    },
-    {
-        "title": "Modernizing and scaling support operations with generative AI on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/"
-    },
-    {
-        "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/"
-    },
-    {
-        "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
-        "link": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/"
-    },
-    {
-        "title": "Introducing Claude Fable 5.1 on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/"
-    },
-    {
-        "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/"
-    },
-    {
-        "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/"
     }
 ]
