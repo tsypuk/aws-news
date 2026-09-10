@@ -1,5 +1,25 @@
 [
     {
+        "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/"
+    },
+    {
+        "title": "ICYMI: What landed for AI builders in August 2026",
+        "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/"
+    },
+    {
+        "title": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/"
+    },
+    {
+        "title": "Automate user-level custom permissions for Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/"
+    },
+    {
         "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/"
-    },
-    {
-        "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/"
-    },
-    {
-        "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/"
-    },
-    {
-        "title": "Best practices for building agentic automations with Amazon Quick Automate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/"
     }
 ]

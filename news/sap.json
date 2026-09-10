@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieving Single-Sign-On Agentic access to SAP with AWS for SAP MCP Server",
+        "link": "https://aws.amazon.com/blogs/awsforsap/achieving-single-sign-on-agentic-access-to-sap-with-aws-for-sap-mcp-server/"
+    },
+    {
         "title": "SAP Generative AI on AWS course now on AWS Skill Builder",
         "link": "https://aws.amazon.com/blogs/awsforsap/sap-generative-ai-on-aws-course-now-on-aws-skill-builder/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Maximize the value of your SAP data using with Amazon Q Business and Amazon Bedrock Generative AI \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/awsforsap/maximize-the-value-of-your-sap-data-using-with-amazon-q-business-and-amazon-bedrock-generative-ai-part-2/"
-    },
-    {
-        "title": "Enhance SAP Operations with New AWS Systems Manager for SAP Features: Extended Configuration Management, AI-Assisted Operations, and Scheduling",
-        "link": "https://aws.amazon.com/blogs/awsforsap/enhance-sap-operations-with-new-aws-systems-manager-for-sap-features-extended-configuration-management-ai-assisted-operations-and-scheduling/"
     }
 ]

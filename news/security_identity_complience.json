@@ -1,5 +1,9 @@
 [
     {
+        "title": "The state of AI for security: Measuring what matters most for building trust",
+        "link": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/"
+    },
+    {
         "title": "OSPAR 2026 report now available with 167 services in scope",
         "link": "https://aws.amazon.com/blogs/security/ospar-2026-report-now-available-with-167-services-in-scope/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
         "link": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles/"
-    },
-    {
-        "title": "Landing Zone Accelerator Independent Assessment Report for C5:2020 now available on AWS Artifact",
-        "link": "https://aws.amazon.com/blogs/security/landing-zone-accelerator-independent-assessment-report-for-c52020-now-available-on-aws-artifact/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build declarative ETL pipelines with AWS Glue 6.0",
+        "link": "https://aws.amazon.com/blogs/big-data/build-declarative-etl-pipelines-with-aws-glue-6-0/"
+    },
+    {
         "title": "AWS recognized as a Leader in the 2026 Gartner Magic Quadrant for Strategic Cloud Platform Services for the 16th consecutive year",
         "link": "https://aws.amazon.com/blogs/big-data/aws-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-the-16th-consecutive-year/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing in-place ZooKeeper-to-KRaft cluster upgrades for Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/announcing-in-place-zookeeper-to-kraft-cluster-upgrades-for-amazon-msk/"
-    },
-    {
-        "title": "Amazon MSK Service 101: How many partitions does an Amazon MSK topic need?",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-service-101-how-many-partitions-does-an-amazon-msk-topic-need/"
     }
 ]

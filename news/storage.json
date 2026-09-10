@@ -1,5 +1,9 @@
 [
     {
+        "title": "Secure team file sharing on Amazon WorkSpaces with Amazon EFS",
+        "link": "https://aws.amazon.com/blogs/storage/secure-team-file-sharing-on-amazon-workspaces-with-amazon-efs/"
+    },
+    {
         "title": "Flexibly control Amazon S3 Object Lock retention based on real business events",
         "link": "https://aws.amazon.com/blogs/storage/flexibly-control-amazon-s3-object-lock-retention-based-on-real-business-events/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Turso built a transactional database using Amazon S3 Express One Zone",
         "link": "https://aws.amazon.com/blogs/storage/how-turso-built-a-transactional-database-using-amazon-s3-express-one-zone/"
-    },
-    {
-        "title": "Unlocking data residency use cases with Amazon S3 in AWS Local Zones",
-        "link": "https://aws.amazon.com/blogs/storage/unlocking-data-residency-use-cases-with-amazon-s3-in-aws-local-zones/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building async Python applications with Tortoise ORM and Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/building-async-python-applications-with-tortoise-orm-and-amazon-aurora-dsql/"
+    },
+    {
+        "title": "From noise to signal: Monitoring Amazon DocumentDB like a pro",
+        "link": "https://aws.amazon.com/blogs/database/from-noise-to-signal-monitoring-amazon-documentdb-like-a-pro/"
+    },
+    {
         "title": "Getting started with Oracle Database@AWS: A complete onboarding guide",
         "link": "https://aws.amazon.com/blogs/database/getting-started-with-oracle-databaseaws-a-complete-onboarding-guide/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Unlocking real-time analytics: Streaming Aurora DSQL changes into Apache Iceberg",
         "link": "https://aws.amazon.com/blogs/database/unlocking-real-time-analytics-streaming-aurora-dsql-changes-into-apache-iceberg/"
-    },
-    {
-        "title": "Create Oracle Wallet for AWS DMS SSL connections using SQLcl",
-        "link": "https://aws.amazon.com/blogs/database/create-oracle-wallet-for-aws-dms-ssl-connections-using-sqlcl/"
-    },
-    {
-        "title": "Faster scaling for Aurora serverless to support agentic AI and other spiky workloads",
-        "link": "https://aws.amazon.com/blogs/database/faster-scaling-for-aurora-serverless-to-support-agentic-ai-and-other-spiky-workloads/"
     }
 ]
