@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/"
+    },
+    {
         "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
         "link": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/"
-    },
-    {
-        "title": "Amazon EC2 C9g and C9gd instances powered by AWS Graviton5 processors are now available",
-        "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/"
     }
 ]

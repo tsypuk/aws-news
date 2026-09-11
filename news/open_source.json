@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Pizza Bot, an open source inbox for AI agents that work in the background",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-pizza-bot-an-open-source-inbox-for-ai-agents-that-work-in-the-background/"
+    },
+    {
         "title": "Build full-stack AWS applications in minutes with AI-powered scaffolding",
         "link": "https://aws.amazon.com/blogs/opensource/build-full-stack-aws-applications-in-minutes-with-ai-powered-scaffolding/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Strands Agent SOPs \u2013 Natural Language Workflows for AI Agents",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agent-sops-natural-language-workflows-for-ai-agents/"
-    },
-    {
-        "title": "Announcing ml-container-creator for easy BYOC on SageMaker",
-        "link": "https://aws.amazon.com/blogs/opensource/announcing-ml-container-creator-for-easy-byoc-on-sagemaker/"
     }
 ]

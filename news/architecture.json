@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
+        "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/"
+    },
+    {
         "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Scaling patterns for self-organizing multi-agent clusters with Kiro",
         "link": "https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro/"
-    },
-    {
-        "title": "Building a serverless AI assistant at Pelago: concept to care in two weeks",
-        "link": "https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/"
     }
 ]

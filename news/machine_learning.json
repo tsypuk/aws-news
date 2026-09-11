@@ -1,5 +1,37 @@
 [
     {
+        "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/"
+    },
+    {
+        "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/"
+    },
+    {
+        "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
+        "link": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/"
+    },
+    {
+        "title": "Amazon Quick is now generally available on desktop",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/"
+    },
+    {
+        "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/"
+    },
+    {
+        "title": "Model-agnostic PII detection with LLMs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/"
+    },
+    {
+        "title": "Agent Evaluation Metric for multi-turn conversations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/"
+    },
+    {
+        "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/"
+    },
+    {
         "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/"
     },
@@ -25,7 +57,7 @@
     },
     {
         "title": "Pathway\u2019s brain-inspired architecture development on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/"
+        "link": "https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/"
     },
     {
         "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
@@ -46,37 +78,5 @@
     {
         "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
         "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/"
-    },
-    {
-        "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/"
-    },
-    {
-        "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/"
-    },
-    {
-        "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Designing lifecycle policies for AgentCore memory",
-        "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/"
-    },
-    {
-        "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/"
-    },
-    {
-        "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/"
-    },
-    {
-        "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/"
     }
 ]
