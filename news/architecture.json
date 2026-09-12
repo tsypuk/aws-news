@@ -1,5 +1,9 @@
 [
     {
+        "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
         "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Adobe Firefly: Simplified observability with Amazon Managed Prometheus",
         "link": "https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus/"
-    },
-    {
-        "title": "Scaling patterns for self-organizing multi-agent clusters with Kiro",
-        "link": "https://aws.amazon.com/blogs/architecture/scaling-patterns-for-self-organizing-multi-agent-clusters-with-kiro/"
     }
 ]

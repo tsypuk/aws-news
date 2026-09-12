@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run DuckDB analytics on your Amazon DynamoDB data with zero-ETL",
+        "link": "https://aws.amazon.com/blogs/database/run-duckdb-analytics-on-your-amazon-dynamodb-data-with-zero-etl/"
+    },
+    {
         "title": "Building async Python applications with Tortoise ORM and Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/building-async-python-applications-with-tortoise-orm-and-amazon-aurora-dsql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Aurora DSQL observability concepts and usage with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-observability-concepts-and-usage-with-amazon-cloudwatch/"
-    },
-    {
-        "title": "Unlocking real-time analytics: Streaming Aurora DSQL changes into Apache Iceberg",
-        "link": "https://aws.amazon.com/blogs/database/unlocking-real-time-analytics-streaming-aurora-dsql-changes-into-apache-iceberg/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/"
+    },
+    {
+        "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/"
+    },
+    {
+        "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
         "link": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
         "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/"
-    },
-    {
-        "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/"
-    },
-    {
-        "title": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/"
-    },
-    {
-        "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
-        "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/"
     }
 ]

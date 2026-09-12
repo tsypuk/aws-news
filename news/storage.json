@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build AI-powered file classification with AWS Transfer Family",
+        "link": "https://aws.amazon.com/blogs/storage/build-ai-powered-file-classification-with-aws-transfer-family/"
+    },
+    {
+        "title": "Enable zero-copy access to AWS services on Amazon FSx for NetApp ONTAP with Amazon S3 Access Points",
+        "link": "https://aws.amazon.com/blogs/storage/enable-zero-copy-access-to-aws-services-on-amazon-fsx-for-netapp-ontap-with-amazon-s3-access-points/"
+    },
+    {
         "title": "Secure team file sharing on Amazon WorkSpaces with Amazon EFS",
         "link": "https://aws.amazon.com/blogs/storage/secure-team-file-sharing-on-amazon-workspaces-with-amazon-efs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerate Amazon S3 Replication with automated S3 Batch Operations parallelization",
         "link": "https://aws.amazon.com/blogs/storage/accelerate-amazon-s3-replication-with-automated-s3-batch-operations-parallelization/"
-    },
-    {
-        "title": "Simplify compliance-driven Amazon S3 data movement with multi-criteria filtering",
-        "link": "https://aws.amazon.com/blogs/storage/simplify-compliance-driven-amazon-s3-data-movement-with-multi-criteria-filtering/"
-    },
-    {
-        "title": "How Turso built a transactional database using Amazon S3 Express One Zone",
-        "link": "https://aws.amazon.com/blogs/storage/how-turso-built-a-transactional-database-using-amazon-s3-express-one-zone/"
     }
 ]

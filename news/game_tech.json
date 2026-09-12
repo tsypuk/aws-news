@@ -1,5 +1,9 @@
 [
     {
+        "title": "Choosing the right AWS storage backend for Perforce P4 in game development",
+        "link": "https://aws.amazon.com/blogs/gametech/choosing-the-right-aws-storage-backend-for-perforce-p4-in-game-development/"
+    },
+    {
         "title": "AAA games on a $35 stick: How Luna removes the hardware barrier with AWS",
         "link": "https://aws.amazon.com/blogs/gametech/aaa-games-on-a-35-stick-how-luna-removes-the-hardware-barrier-with-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing enhanced capacity auto scaling for Amazon GameLift Streams",
         "link": "https://aws.amazon.com/blogs/gametech/introducing-enhanced-capacity-auto-scaling-for-amazon-gamelift-streams/"
-    },
-    {
-        "title": "Game on: AWS takes over City View at METREON for GDC 2026",
-        "link": "https://aws.amazon.com/blogs/gametech/game-on-aws-takes-over-city-view-at-metreon-for-gdc-2026/"
     }
 ]

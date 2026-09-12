@@ -1,9 +1,5 @@
 [
     {
-        "title": "How AWS unified its routing control plane to improve network availability and performance",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-aws-unified-its-routing-control-plane-to-improve-network-availability-and-performance/"
-    },
-    {
         "title": "When and how to centralize AWS PrivateLink Interface endpoints with Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/when-and-how-to-centralize-aws-privatelink-interface-endpoints-with-amazon-vpc-lattice/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Consolidate dual-stack architectures with listener rules for Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/consolidate-dual-stack-architectures-with-listener-rules-for-network-load-balancer/"
+    },
+    {
+        "title": "How Magnite uses Amazon VPC Route Server and Border Gateway Protocol (BGP) to build dynamic hybrid-cloud routing",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-magnite-uses-amazon-vpc-route-server-and-border-gateway-protocol-bgp-to-build-dynamic-hybrid-cloud-routing/"
     }
 ]
