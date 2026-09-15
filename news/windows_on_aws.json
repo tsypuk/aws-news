@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Kloia\u2019s AI-DLC Delivered a .NET Modernization Blueprint on AWS in 4 Weeks",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-kloias-ai-dlc-delivered-a-net-modernization-blueprint-on-aws-in-4-weeks/"
+    },
+    {
         "title": "Migrating SQL Server FCI Storage from Amazon FSx for NetApp ONTAP Gen 1 to Gen 2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrating-sql-server-fci-storage-from-amazon-fsx-for-netapp-ontap-gen-1-to-gen-2/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Advanced bootstrapping on Amazon Elastic Compute Cloud (Amazon EC2)",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/advanced-bootstrapping-on-amazon-elastic-compute-cloud/"
-    },
-    {
-        "title": "Automated license tracking for Microsoft SQL Server across AWS accounts and regions using license asset groups",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/automated-license-tracking-for-sql-server-across-aws-accounts-and-regions-using-license-asset-groups/"
     }
 ]

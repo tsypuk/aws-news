@@ -1,5 +1,9 @@
 [
     {
+        "title": "Unified Knowledge Graph RAG on AWS: GraphRAG and LightRAG on one stack",
+        "link": "https://aws.amazon.com/blogs/opensource/unified-knowledge-graph-rag-on-aws-graphrag-and-lightrag-on-one-stack/"
+    },
+    {
         "title": "Introducing Pizza Bot, an open source inbox for AI agents that work in the background",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-pizza-bot-an-open-source-inbox-for-ai-agents-that-work-in-the-background/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Shaping the future of MCP: AWS\u2019s commitment and vision",
         "link": "https://aws.amazon.com/blogs/opensource/shaping-the-future-of-mcp-aws-commitment-and-vision/"
-    },
-    {
-        "title": "Introducing Strands Agent SOPs \u2013 Natural Language Workflows for AI Agents",
-        "link": "https://aws.amazon.com/blogs/opensource/introducing-strands-agent-sops-natural-language-workflows-for-ai-agents/"
     }
 ]

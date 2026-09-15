@@ -1,5 +1,9 @@
 [
     {
+        "title": "Validating multi-agent decisions with Step Functions and Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/compute/validating-multi-agent-decisions-with-step-functions-and-bedrock-agentcore/"
+    },
+    {
         "title": "Customize Amazon API Gateway destinations for execution logs",
         "link": "https://aws.amazon.com/blogs/compute/customize-amazon-api-gateway-destinations-for-execution-logs/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Eliminating Java cold starts with AWS Lambda Managed Instances",
         "link": "https://aws.amazon.com/blogs/compute/eliminating-java-cold-starts-with-aws-lambda-managed-instances/"
-    },
-    {
-        "title": "Architecting for IOPS and throughput performance on AWS Outposts racks",
-        "link": "https://aws.amazon.com/blogs/compute/architecting-for-iops-and-throughput-performance-on-aws-outposts-racks/"
     }
 ]

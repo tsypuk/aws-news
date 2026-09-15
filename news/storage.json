@@ -1,5 +1,9 @@
 [
     {
+        "title": "Connect workloads to Amazon S3 Files across VPCs and accounts",
+        "link": "https://aws.amazon.com/blogs/storage/connect-workloads-to-amazon-s3-files-across-vpcs-and-accounts/"
+    },
+    {
         "title": "Build AI-powered file classification with AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/build-ai-powered-file-classification-with-aws-transfer-family/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Analyze Amazon S3 annotations at scale with materialized views",
         "link": "https://aws.amazon.com/blogs/storage/analyze-amazon-s3-annotations-at-scale-with-materialized-views/"
-    },
-    {
-        "title": "Accelerate Amazon S3 Replication with automated S3 Batch Operations parallelization",
-        "link": "https://aws.amazon.com/blogs/storage/accelerate-amazon-s3-replication-with-automated-s3-batch-operations-parallelization/"
     }
 ]

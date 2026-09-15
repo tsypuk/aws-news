@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scale down Kinesis Data Streams on-demand capacity with ODA warm throughput",
+        "link": "https://aws.amazon.com/blogs/big-data/scale-down-kinesis-data-streams-on-demand-capacity-with-oda-warm-throughput/"
+    },
+    {
         "title": "How to migrate from Amazon CloudSearch to Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-migrate-from-amazon-cloudsearch-to-amazon-opensearch-serverless/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Razor Group\u2019s journey to a modern data lakehouse on AWS",
         "link": "https://aws.amazon.com/blogs/big-data/razor-groups-journey-to-a-modern-data-lakehouse-on-aws/"
-    },
-    {
-        "title": "How Picnic configured multiple OAuth providers for Amazon MQ",
-        "link": "https://aws.amazon.com/blogs/big-data/how-picnic-configured-multiple-oauth-providers-for-amazon-mq/"
     }
 ]

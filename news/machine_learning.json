@@ -1,5 +1,25 @@
 [
     {
+        "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+        "link": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/"
+    },
+    {
+        "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"
+    },
+    {
+        "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/"
+    },
+    {
+        "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/"
+    },
+    {
         "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
         "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
         "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/"
-    },
-    {
-        "title": "Automate user-level custom permissions for Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/"
-    },
-    {
-        "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/"
-    },
-    {
-        "title": "Pathway\u2019s brain-inspired architecture development on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pathway-s-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/"
-    },
-    {
-        "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/"
     }
 ]

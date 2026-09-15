@@ -1,5 +1,13 @@
 [
     {
+        "title": "Resolve Amazon Aurora PostgreSQL lock contention with Database Insights: Part 2",
+        "link": "https://aws.amazon.com/blogs/database/resolve-amazon-aurora-postgresql-lock-contention-with-database-insights-part-2/"
+    },
+    {
+        "title": "Troubleshooting row lock contention in Amazon Aurora PostgreSQL: Part 1 \u2013 Understanding row lock contention in PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/troubleshooting-row-lock-contention-in-amazon-aurora-postgresql-part-1-understanding-row-lock-contention-in-postgresql/"
+    },
+    {
         "title": "Run DuckDB analytics on your Amazon DynamoDB data with zero-ETL",
         "link": "https://aws.amazon.com/blogs/database/run-duckdb-analytics-on-your-amazon-dynamodb-data-with-zero-etl/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Scale pgvector with binary quantization on Amazon Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/scale-pgvector-with-binary-quantization-on-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Migrate Oracle Materialized Views with AWS DMS and Fast Refresh",
-        "link": "https://aws.amazon.com/blogs/database/migrate-oracle-materialized-views-with-aws-dms-and-fast-refresh/"
-    },
-    {
-        "title": "Amazon Aurora DSQL observability concepts and usage with Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/database/amazon-aurora-dsql-observability-concepts-and-usage-with-amazon-cloudwatch/"
     }
 ]

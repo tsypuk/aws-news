@@ -1,5 +1,13 @@
 [
     {
+        "title": "Develop an AI voice chief of staff with Amazon Quick and Kiro",
+        "link": "https://aws.amazon.com/blogs/publicsector/develop-an-ai-voice-chief-of-staff-with-amazon-quick-and-kiro/"
+    },
+    {
+        "title": "From Amazon RDS Custom for Oracle to what\u2019s next: A technical guide to Oracle migration paths on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/from-amazon-rds-custom-for-oracle-to-whats-next-a-technical-guide-to-oracle-migration-paths-on-aws/"
+    },
+    {
         "title": "How Common Crawl and AWS Open Data built the foundation for the AI revolution",
         "link": "https://aws.amazon.com/blogs/publicsector/how-common-crawl-and-aws-open-data-built-the-foundation-for-the-ai-revolution/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Building resilient government workflows with AWS Lambda durable functions",
         "link": "https://aws.amazon.com/blogs/publicsector/building-resilient-government-workflows-with-aws-lambda-durable-functions/"
-    },
-    {
-        "title": "Agentic AI Where Connectivity Is Scarce: MedZen Health in Cameroon",
-        "link": "https://aws.amazon.com/blogs/publicsector/agentic-ai-where-connectivity-is-scarce-medzen-health-in-cameroon/"
-    },
-    {
-        "title": "State of Kansas modernizes mainframe file transfer using AWS Transfer Family",
-        "link": "https://aws.amazon.com/blogs/publicsector/state-of-kansas-modernizes-mainframe-file-transfer-using-aws-transfer-family/"
     }
 ]
