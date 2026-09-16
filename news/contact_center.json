@@ -1,5 +1,25 @@
 [
     {
+        "title": "How AWS Professional Services delivers enterprise contact center transformation at scale",
+        "link": "https://aws.amazon.com/blogs/contact-center/how-aws-professional-services-delivers-enterprise-contact-center-transformation-at-scale/"
+    },
+    {
+        "title": "Automate Agent Schedule Tracking with Amazon Connect Customer Campaigns",
+        "link": "https://aws.amazon.com/blogs/contact-center/automate-agent-schedule-tracking-with-amazon-connect-customer-campaigns/"
+    },
+    {
+        "title": "Ensure outbound and transfer call delivery by configuring caller ID in Amazon Connect",
+        "link": "https://aws.amazon.com/blogs/contact-center/ensure-outbound-and-transfer-call-delivery-by-configuring-caller-id-in-amazon-connect/"
+    },
+    {
+        "title": "Customize AI in Amazon Connect Customer: Agents, Prompts, and Guardrails",
+        "link": "https://aws.amazon.com/blogs/contact-center/customize-ai-in-amazon-connect-customer-agents-prompts-and-guardrails/"
+    },
+    {
+        "title": "Best practices for building a Customer Effort Score (CES) system with Amazon Connect Customer",
+        "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-building-a-customer-effort-score-ces-system-with-amazon-connect-customer/"
+    },
+    {
         "title": "Blend structured business logic with agentic AI to deliver delightful conversational experiences",
         "link": "https://aws.amazon.com/blogs/contact-center/blend-structured-business-logic-with-agentic-ai/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How Siemens handles 90% of calls autonomously with Amazon Connect Customer AI Agents",
         "link": "https://aws.amazon.com/blogs/contact-center/how-siemens-handles-90-of-calls-autonomously-with-amazon-connect-customer-ai-agents/"
-    },
-    {
-        "title": "AI-powered virtual agents: Automating complex business processes",
-        "link": "https://aws.amazon.com/blogs/contact-center/ai-powered-virtual-agents-automating-complex-business-processes/"
-    },
-    {
-        "title": "Using Amazon Connect Customer Views to provide one-click customer voice messages when outbound calling",
-        "link": "https://aws.amazon.com/blogs/contact-center/using-amazon-connect-customer-views-to-provide-one-click-customer-voice-messages-when-outbound-calling/"
-    },
-    {
-        "title": "Implementing Responsible AI in Contact Centers with Connect AI Agents Guardrails",
-        "link": "https://aws.amazon.com/blogs/contact-center/implementing-responsible-ai-in-contact-centers-with-connect-ai-agents-guardrails/"
-    },
-    {
-        "title": "Business user is the new architect of customer experience. No code required",
-        "link": "https://aws.amazon.com/blogs/contact-center/business-user-is-the-new-architect-of-customer-experience/"
-    },
-    {
-        "title": "Deflection is Dead. Resolution is King.",
-        "link": "https://aws.amazon.com/blogs/contact-center/deflection-is-dead-resolution-is-king/"
     }
 ]

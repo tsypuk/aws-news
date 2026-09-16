@@ -1,5 +1,17 @@
 [
     {
+        "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI \u2013 Part 1: IAM Identity Center (IDC)-based domains",
+        "link": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-1-iam-identity-center-idc-based-domains/"
+    },
+    {
+        "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI \u2013 Part 2: IAM-based domains",
+        "link": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-2-iam-based-domains/"
+    },
+    {
+        "title": "How United Airlines uses Amazon Redshift and AWS Glue Data Catalog federation to query Databricks-managed data",
+        "link": "https://aws.amazon.com/blogs/big-data/how-united-airlines-uses-amazon-redshift-and-aws-glue-data-catalog-federation-to-query-databricks-managed-data/"
+    },
+    {
         "title": "Scale down Kinesis Data Streams on-demand capacity with ODA warm throughput",
         "link": "https://aws.amazon.com/blogs/big-data/scale-down-kinesis-data-streams-on-demand-capacity-with-oda-warm-throughput/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Measuring and improving search quality with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/measuring-and-improving-search-quality-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Integrate Amazon Redshift and IAM Identity Center with enhanced VPC routing",
-        "link": "https://aws.amazon.com/blogs/big-data/integrate-amazon-redshift-and-iam-identity-center-with-enhanced-vpc-routing/"
-    },
-    {
-        "title": "Build a real-time event pipeline with Spark Real-Time Mode on AWS Glue 6.0",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-real-time-event-pipeline-with-spark-real-time-mode-on-aws-glue-6-0/"
-    },
-    {
-        "title": "Razor Group\u2019s journey to a modern data lakehouse on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/razor-groups-journey-to-a-modern-data-lakehouse-on-aws/"
     }
 ]

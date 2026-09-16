@@ -1,5 +1,9 @@
 [
     {
+        "title": "Best Practices for Securing AWS Payment Cryptography Deployments",
+        "link": "https://aws.amazon.com/blogs/industries/best-practices-for-securing-aws-payment-cryptography-deployments/"
+    },
+    {
         "title": "Mirroring Your Organization with Multi-Agent AI for FSI Risk Assessment",
         "link": "https://aws.amazon.com/blogs/industries/mirroring-your-organization-with-multi-agent-ai-for-fsi-risk-assessment/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Aligning AWS to MPA security best practices for media archives \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/industries/aligning-aws-to-mpa-security-best-practices-for-media-archives-part-2/"
-    },
-    {
-        "title": "Building a Production AI Agent on AWS: A Six-Pillar Walkthrough",
-        "link": "https://aws.amazon.com/blogs/industries/building-a-production-ai-agent-on-aws-a-six-pillar-walkthrough/"
     }
 ]

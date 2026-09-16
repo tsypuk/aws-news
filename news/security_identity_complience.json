@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
+        "link": "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring/"
+    },
+    {
+        "title": "Architecting resilient authentication with Amazon Cognito multi-Region replication",
+        "link": "https://aws.amazon.com/blogs/security/architecting-resilient-authentication-with-amazon-cognito-multi-region-replication/"
+    },
+    {
+        "title": "Operationalizing least privilege: Automate IAM remediation through your CI/CD pipeline",
+        "link": "https://aws.amazon.com/blogs/security/operationalizing-least-privilege-automate-iam-remediation-through-your-ci-cd-pipeline/"
+    },
+    {
         "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
         "link": "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
         "link": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/"
-    },
-    {
-        "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
-        "link": "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/"
-    },
-    {
-        "title": "Updates to your AWS Sign-In experience",
-        "link": "https://aws.amazon.com/blogs/security/updates-to-your-aws-sign-in-experience/"
-    },
-    {
-        "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
-        "link": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/"
     }
 ]

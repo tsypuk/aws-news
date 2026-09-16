@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Precisely transforms user experience with AI agents using Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/storage/how-precisely-transforms-user-experience-with-ai-agents-using-amazon-s3-vectors/"
+    },
+    {
         "title": "Connect workloads to Amazon S3 Files across VPCs and accounts",
         "link": "https://aws.amazon.com/blogs/storage/connect-workloads-to-amazon-s3-files-across-vpcs-and-accounts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Track healthcare data lineage in real time with Amazon S3 annotations",
         "link": "https://aws.amazon.com/blogs/storage/track-healthcare-data-lineage-in-real-time-with-amazon-s3-annotations/"
-    },
-    {
-        "title": "Analyze Amazon S3 annotations at scale with materialized views",
-        "link": "https://aws.amazon.com/blogs/storage/analyze-amazon-s3-annotations-at-scale-with-materialized-views/"
     }
 ]
