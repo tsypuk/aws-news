@@ -1,5 +1,21 @@
 [
     {
+        "title": "Improving HCLS AI reasoning with open-source agent skills",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/"
+    },
+    {
+        "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/"
+    },
+    {
+        "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/"
+    },
+    {
         "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
         "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/"
-    },
-    {
-        "title": "Model-agnostic PII detection with LLMs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/"
-    },
-    {
-        "title": "Agent Evaluation Metric for multi-turn conversations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/"
-    },
-    {
-        "title": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/"
-    },
-    {
-        "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/"
     }
 ]

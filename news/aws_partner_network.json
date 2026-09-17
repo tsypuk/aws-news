@@ -1,5 +1,9 @@
 [
     {
+        "title": "Continuous model adaptation with 4MINDS on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/continuous-model-adaptation-with-4minds-on-aws/"
+    },
+    {
         "title": "From weeks to hours: How a UK energy retailer transformed residential pricebooks with Gorilla on AWS",
         "link": "https://aws.amazon.com/blogs/apn/from-weeks-to-hours-how-a-uk-energy-retailer-transformed-residential-pricebooks-with-gorilla-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Designing enterprise AI agents with DevRev guardrails powered by Amazon Nova",
         "link": "https://aws.amazon.com/blogs/apn/designing-enterprise-ai-agents-with-devrev-guardrails-powered-by-amazon-nova/"
-    },
-    {
-        "title": "AWS and Elastio deliver comprehensive ransomware resilience",
-        "link": "https://aws.amazon.com/blogs/apn/aws-and-elastio-deliver-comprehensive-ransomware-resilience/"
     }
 ]

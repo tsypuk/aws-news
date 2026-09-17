@@ -1,5 +1,9 @@
 [
     {
+        "title": "Architecting a secure landing zone in the AWS European Sovereign Cloud",
+        "link": "https://aws.amazon.com/blogs/security/architecting-a-secure-landing-zone-in-the-aws-european-sovereign-cloud/"
+    },
+    {
         "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
         "link": "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
-        "link": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/"
     }
 ]
