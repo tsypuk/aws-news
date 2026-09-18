@@ -1,5 +1,9 @@
 [
     {
+        "title": "Free Sandbox Environments for Amazon Connect Customer on AWS Builder Center",
+        "link": "https://aws.amazon.com/blogs/contact-center/free-sandbox-environments-for-amazon-connect-customer-on-aws-builder-center/"
+    },
+    {
         "title": "How AWS Professional Services delivers enterprise contact center transformation at scale",
         "link": "https://aws.amazon.com/blogs/contact-center/how-aws-professional-services-delivers-enterprise-contact-center-transformation-at-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How NatWest built multi-region resilience with Amazon Connect Customer",
         "link": "https://aws.amazon.com/blogs/contact-center/how-natwest-built-multi-region-resilience-with-amazon-connect-customer/"
-    },
-    {
-        "title": "How Siemens handles 90% of calls autonomously with Amazon Connect Customer AI Agents",
-        "link": "https://aws.amazon.com/blogs/contact-center/how-siemens-handles-90-of-calls-autonomously-with-amazon-connect-customer-ai-agents/"
     }
 ]

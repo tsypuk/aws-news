@@ -1,5 +1,33 @@
 [
     {
+        "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
+    },
+    {
+        "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/"
+    },
+    {
+        "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/"
+    },
+    {
+        "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/"
+    },
+    {
+        "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Improving HCLS AI reasoning with open-source agent skills",
         "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
         "link": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/"
-    },
-    {
-        "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
-        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/"
-    },
-    {
-        "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/"
-    },
-    {
-        "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/"
-    },
-    {
-        "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
-        "link": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/"
-    },
-    {
-        "title": "Amazon Quick is now generally available on desktop",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/"
-    },
-    {
-        "title": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/"
     }
 ]

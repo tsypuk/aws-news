@@ -1,5 +1,13 @@
 [
     {
+        "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+        "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/"
+    },
+    {
+        "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+        "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/"
+    },
+    {
         "title": "AWS reimagines the getting started experience",
         "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
         "link": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/"
     }
 ]

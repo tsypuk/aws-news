@@ -1,5 +1,17 @@
 [
     {
+        "title": "Multi-modal autoscaling with Amazon EC2 Auto Scaling: adding signals for faster, more reliable scaling",
+        "link": "https://aws.amazon.com/blogs/compute/multi-modal-autoscaling-with-amazon-ec2-auto-scaling-adding-signals-for-faster-more-reliable-scaling/"
+    },
+    {
+        "title": "Deploying regulated workloads on AWS Local Zones and AWS Outposts",
+        "link": "https://aws.amazon.com/blogs/compute/deploying-regulated-workloads-on-aws-local-zones-and-aws-outposts/"
+    },
+    {
+        "title": "Planning for disaster recovery using AWS Local Zones and AWS Outposts racks",
+        "link": "https://aws.amazon.com/blogs/compute/planning-for-disaster-recovery-using-aws-local-zones-and-aws-outposts-racks/"
+    },
+    {
         "title": "Validating multi-agent decisions with Step Functions and Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/compute/validating-multi-agent-decisions-with-step-functions-and-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Introducing self-managed Amazon S3 buckets for AWS Lambda function code",
         "link": "https://aws.amazon.com/blogs/compute/introducing-self-managed-amazon-s3-buckets-for-aws-lambda-function-code/"
-    },
-    {
-        "title": "New: Enhanced AssetState dimension for AWS Outposts capacity metrics on Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/compute/new-enhanced-assetstate-dimension-for-aws-outposts-capacity-metrics-on-amazon-cloudwatch/"
-    },
-    {
-        "title": "Introducing modularized kernel cryptography in Amazon Linux",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-modularized-kernel-cryptography-in-amazon-linux/"
-    },
-    {
-        "title": "Eliminating Java cold starts with AWS Lambda Managed Instances",
-        "link": "https://aws.amazon.com/blogs/compute/eliminating-java-cold-starts-with-aws-lambda-managed-instances/"
     }
 ]

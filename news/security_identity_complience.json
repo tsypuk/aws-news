@@ -1,5 +1,9 @@
 [
     {
+        "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
+        "link": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud/"
+    },
+    {
         "title": "Architecting a secure landing zone in the AWS European Sovereign Cloud",
         "link": "https://aws.amazon.com/blogs/security/architecting-a-secure-landing-zone-in-the-aws-european-sovereign-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Network Firewall now supports rule hit count",
         "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/"
-    },
-    {
-        "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore/"
     }
 ]

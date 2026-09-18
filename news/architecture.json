@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/"
+    },
+    {
+        "title": "Building cloud-native PACS on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/"
+    },
+    {
+        "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
+        "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/"
+    },
+    {
         "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Track generative AI costs with Amazon Bedrock inference profiles",
         "link": "https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles/"
-    },
-    {
-        "title": "Recovery strategies to meet data residency requirements",
-        "link": "https://aws.amazon.com/blogs/architecture/recovery-strategies-to-meet-data-residency-requirements/"
-    },
-    {
-        "title": "Reducing Text2SQL latency with parameterized query templates",
-        "link": "https://aws.amazon.com/blogs/architecture/reducing-text2sql-latency-with-parameterized-query-templates/"
-    },
-    {
-        "title": "Adobe Firefly: Simplified observability with Amazon Managed Prometheus",
-        "link": "https://aws.amazon.com/blogs/architecture/adobe-firefly-simplified-observability-with-amazon-managed-prometheus/"
     }
 ]

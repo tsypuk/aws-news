@@ -1,5 +1,13 @@
 [
     {
+        "title": "Implement a correctness-safe Bloom filter lookup with Amazon ElastiCache for Valkey and Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/implement-a-correctness-safe-bloom-filter-lookup-with-amazon-elasticache-for-valkey-and-amazon-aurora-postgresql/"
+    },
+    {
+        "title": "How Intuit and AWS systematically improved resiliency on ElastiCache using AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/database/how-intuit-and-aws-systematically-improved-resiliency-on-elasticache-using-aws-fault-injection-service/"
+    },
+    {
         "title": "Resolve Amazon Aurora PostgreSQL lock contention with Database Insights: Part 2",
         "link": "https://aws.amazon.com/blogs/database/resolve-amazon-aurora-postgresql-lock-contention-with-database-insights-part-2/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Characterizing SQL*Net latency in your application for Oracle Database@AWS migrations",
         "link": "https://aws.amazon.com/blogs/database/characterizing-sqlnet-latency-in-your-application-for-oracle-databaseaws-migrations/"
-    },
-    {
-        "title": "Integrate your Spring Boot application with Amazon ElastiCache using Spring Data Valkey",
-        "link": "https://aws.amazon.com/blogs/database/integrate-your-spring-boot-application-with-amazon-elasticache-using-spring-data-valkey/"
-    },
-    {
-        "title": "Scale pgvector with binary quantization on Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/scale-pgvector-with-binary-quantization-on-amazon-aurora-postgresql/"
     }
 ]
