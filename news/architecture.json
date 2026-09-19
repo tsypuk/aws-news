@@ -1,5 +1,13 @@
 [
     {
+        "title": "ReadyOn\u2019s Four Walls of tenant isolation on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks/"
+    },
+    {
+        "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/"
+    },
+    {
         "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Consistency is the new latency: AI at the data layer",
         "link": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/"
-    },
-    {
-        "title": "Serverless vehicle tracking at scale: Bosch L.OS on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/serverless-vehicle-tracking-at-scale-bosch-l-os-on-aws/"
-    },
-    {
-        "title": "Track generative AI costs with Amazon Bedrock inference profiles",
-        "link": "https://aws.amazon.com/blogs/architecture/track-generative-ai-costs-with-amazon-bedrock-inference-profiles/"
     }
 ]

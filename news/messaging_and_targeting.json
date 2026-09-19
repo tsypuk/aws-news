@@ -1,5 +1,9 @@
 [
     {
+        "title": "Achieving CNIL/EU ePrivacy compliance for email tracking with Amazon SES",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/achieving-cnil-eu-eprivacy-compliance-for-email-tracking-with-amazon-ses/"
+    },
+    {
         "title": "How to build a serverless mass email solution with Amazon SES",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/how-to-build-a-serverless-mass-email-solution-with-amazon-ses/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Upgrade business messaging with RCS on AWS",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/upgrade-business-messaging-with-rcs-on-aws/"
-    },
-    {
-        "title": "Building a Scalable Messaging API with AWS End User Messaging and SES",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/building-a-scalable-messaging-api-with-aws-end-user-messaging-and-ses/"
     }
 ]

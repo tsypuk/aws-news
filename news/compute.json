@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running self-hosted AI agent sandboxes with AWS Lambda MicroVMs",
+        "link": "https://aws.amazon.com/blogs/compute/running-self-hosted-ai-agent-sandboxes-with-aws-lambda-microvms/"
+    },
+    {
         "title": "Multi-modal autoscaling with Amazon EC2 Auto Scaling: adding signals for faster, more reliable scaling",
         "link": "https://aws.amazon.com/blogs/compute/multi-modal-autoscaling-with-amazon-ec2-auto-scaling-adding-signals-for-faster-more-reliable-scaling/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Serverless ICYMI Q2 2026",
         "link": "https://aws.amazon.com/blogs/compute/serverless-icymi-q2-2026/"
-    },
-    {
-        "title": "Introducing self-managed Amazon S3 buckets for AWS Lambda function code",
-        "link": "https://aws.amazon.com/blogs/compute/introducing-self-managed-amazon-s3-buckets-for-aws-lambda-function-code/"
     }
 ]
