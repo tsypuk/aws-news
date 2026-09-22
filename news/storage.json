@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Comcast scaled analytics 80x while cutting costs 38% with GraphQL and Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/how-comcast-scaled-analytics-80x-while-cutting-costs-38-with-graphql-and-amazon-s3-tables/"
+    },
+    {
+        "title": "Accelerate inference with KV cache tiering on AWS",
+        "link": "https://aws.amazon.com/blogs/storage/accelerate-inference-with-kv-cache-tiering-on-aws/"
+    },
+    {
         "title": "How Precisely transforms user experience with AI agents using Amazon S3 Vectors",
         "link": "https://aws.amazon.com/blogs/storage/how-precisely-transforms-user-experience-with-ai-agents-using-amazon-s3-vectors/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Optimize your self-managed PostgreSQL data warehouse with Amazon FSx for OpenZFS",
         "link": "https://aws.amazon.com/blogs/storage/optimize-your-self-managed-postgresql-data-warehouse-with-amazon-fsx-for-openzfs/"
-    },
-    {
-        "title": "Access Amazon S3 backup data directly using S3 Access Points in AWS Backup",
-        "link": "https://aws.amazon.com/blogs/storage/access-amazon-s3-backup-data-directly-using-s3-access-points-in-aws-backup/"
-    },
-    {
-        "title": "Track healthcare data lineage in real time with Amazon S3 annotations",
-        "link": "https://aws.amazon.com/blogs/storage/track-healthcare-data-lineage-in-real-time-with-amazon-s3-annotations/"
     }
 ]

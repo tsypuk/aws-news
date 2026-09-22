@@ -1,5 +1,9 @@
 [
     {
+        "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
+        "link": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/"
+    },
+    {
         "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
         "link": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
         "link": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws/"
-    },
-    {
-        "title": "AWS Network Firewall now supports rule hit count",
-        "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/"
     }
 ]
