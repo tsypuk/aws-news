@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build resilient hybrid workloads with AWS Managed Microsoft AD (Hybrid Edition)",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/build-resilient-hybrid-workloads-with-aws-managed-microsoft-ad-hybrid-edition/"
+    },
+    {
         "title": "How Kloia\u2019s AI-DLC Delivered a .NET Modernization Blueprint on AWS in 4 Weeks",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-kloias-ai-dlc-delivered-a-net-modernization-blueprint-on-aws-in-4-weeks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Modernizing a legacy monolith with Amazon EKS Windows containers",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernizing-a-legacy-monolith-with-amazon-eks-windows-containers/"
-    },
-    {
-        "title": "Advanced bootstrapping on Amazon Elastic Compute Cloud (Amazon EC2)",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/advanced-bootstrapping-on-amazon-elastic-compute-cloud/"
     }
 ]

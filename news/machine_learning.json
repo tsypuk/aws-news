@@ -1,5 +1,37 @@
 [
     {
+        "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/"
+    },
+    {
+        "title": "Claude Opus 5.5 is now available on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/"
+    },
+    {
+        "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/"
+    },
+    {
+        "title": "Extending public sector intelligence with Agentforce and AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/"
+    },
+    {
         "title": "xAI\u2019s Grok 4.6 is now available in Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
         "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
-    },
-    {
-        "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/"
-    },
-    {
-        "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How MRH Trowe enabled secure self-service AI agents in financial services",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/"
-    },
-    {
-        "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/"
-    },
-    {
-        "title": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Improving HCLS AI reasoning with open-source agent skills",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/"
-    },
-    {
-        "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/"
     }
 ]

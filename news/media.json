@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Amazon CloudWatch Omni: Observability for the AI Era",
+        "link": "https://aws.amazon.com/blogs/mt/introducing-amazon-cloudwatch-omni-observability-for-the-ai-era/"
+    },
+    {
         "title": "Root Cause Analysis with Amazon Managed Service for Prometheus and AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/mt/root-cause-analysis-with-amazon-managed-service-for-prometheus-and-aws-devops-agent/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Deploy\u00a0OpenTelemetry\u00a0Gateway on AWS:\u00a0Monitoring\u00a0Your Observability Pipeline",
         "link": "https://aws.amazon.com/blogs/mt/deploy-opentelemetry-gateway-on-aws-monitoring-your-observability-pipeline/"
-    },
-    {
-        "title": "Turn Your Amazon CloudWatch Alarms into Actionable Signals",
-        "link": "https://aws.amazon.com/blogs/mt/turn-your-amazon-cloudwatch-alarms-into-actionable-signals/"
     }
 ]

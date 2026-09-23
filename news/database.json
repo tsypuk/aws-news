@@ -1,5 +1,9 @@
 [
     {
+        "title": "Intuitive risk investigation with Amazon Neptune and Linkurious Enterprise",
+        "link": "https://aws.amazon.com/blogs/database/intuitive-risk-investigation-with-amazon-neptune-and-linkurious-enterprise/"
+    },
+    {
         "title": "Migrate SQL Server multi-result-set procedures to PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-multi-result-set-procedures-to-postgresql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Migrate multilingual full-text search from SQL Server to PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/migrate-multilingual-full-text-search-from-sql-server-to-postgresql/"
-    },
-    {
-        "title": "Understand memory management in Amazon RDS for PostgreSQL to avoid out of memory",
-        "link": "https://aws.amazon.com/blogs/database/understand-memory-management-in-amazon-rds-for-postgresql-to-avoid-out-of-memory/"
     }
 ]

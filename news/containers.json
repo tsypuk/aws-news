@@ -1,5 +1,13 @@
 [
     {
+        "title": "The operations gap between deploying an application and running it forever",
+        "link": "https://aws.amazon.com/blogs/containers/the-operations-gap-between-deploying-an-application-and-running-it-forever/"
+    },
+    {
+        "title": "Implement per-pod image pull permissions with ECR repository policies on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/implement-per-pod-image-pull-permissions-with-ecr-repository-policies-on-amazon-eks/"
+    },
+    {
         "title": "How Ramp runs GPU AI workloads at scale with ECS Managed Instances",
         "link": "https://aws.amazon.com/blogs/containers/how-ramp-runs-gpu-ai-workloads-at-scale-with-ecs-managed-instances/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Introducing advanced Kubernetes control plane configuration in Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/introducing-advanced-kubernetes-control-plane-configuration-in-amazon-eks/"
-    },
-    {
-        "title": "Centralize cross-account Amazon ECS telemetry with an ADOT gateway",
-        "link": "https://aws.amazon.com/blogs/containers/centralize-cross-account-amazon-ecs-telemetry-with-an-adot-gateway/"
-    },
-    {
-        "title": "Under the hood: how Amazon EKS Auto Mode detects, repairs, and diagnoses node failures",
-        "link": "https://aws.amazon.com/blogs/containers/under-the-hood-how-amazon-eks-auto-mode-detects-repairs-and-diagnoses-node-failures/"
     }
 ]

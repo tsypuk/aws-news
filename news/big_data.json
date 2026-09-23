@@ -1,5 +1,13 @@
 [
     {
+        "title": "Best practices for scaling large consumer groups on Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-scaling-large-consumer-groups-on-amazon-msk/"
+    },
+    {
+        "title": "How Moeve standardized dbt runs across data lakes with Amazon Athena",
+        "link": "https://aws.amazon.com/blogs/big-data/how-moeve-standardized-dbt-runs-across-data-lakes-with-amazon-athena/"
+    },
+    {
         "title": "Discover and govern Snowflake data using SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/discover-and-govern-snowflake-data-using-sagemaker-unified-studio/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Observing and evaluating production agents using OpenSearch Agent Health",
         "link": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/"
-    },
-    {
-        "title": "Accelerate Apache Spark debugging on Amazon EMR with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerate-apache-spark-debugging-on-amazon-emr-with-aws-devops-agent/"
-    },
-    {
-        "title": "Deliver real-time data to streaming tables for Apache Iceberg with Amazon Kinesis Data Streams",
-        "link": "https://aws.amazon.com/blogs/big-data/deliver-real-time-data-to-streaming-tables-for-apache-iceberg-with-amazon-kinesis-data-streams/"
     }
 ]
