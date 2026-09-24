@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
+        "link": "https://aws.amazon.com/blogs/developer/aws-crt-for-javascript-and-aws-iot-device-sdk-for-javascript-v2-align-with-the-node-js-release-schedule/"
+    },
+    {
         "title": "Generate standalone types with Smithy",
         "link": "https://aws.amazon.com/blogs/developer/generate-standalone-types-with-smithy/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing updated retry behavior for AWS SDKs and Tools",
         "link": "https://aws.amazon.com/blogs/developer/announcing-updated-retry-behavior-for-aws-sdks-and-tools/"
-    },
-    {
-        "title": "Announcing AWS SDK for Swift\u2019s Transfer Manager for Amazon S3",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-the-general-availability-of-amazon-s3-transfer-manager-for-swift/"
     }
 ]

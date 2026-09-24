@@ -1,5 +1,17 @@
 [
     {
+        "title": "From portal-hopping to instant answers: HEMA\u2019s journey with MCP and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/"
+    },
+    {
+        "title": "Agentic conversational video intelligence built on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/"
+    },
+    {
+        "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"
+    },
+    {
         "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
         "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/"
-    },
-    {
-        "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/"
-    },
-    {
-        "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/"
-    },
-    {
-        "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
     }
 ]

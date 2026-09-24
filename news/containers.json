@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building a single-pane NOC dashboard for Amazon EKS with Amazon CloudWatch",
+        "link": "https://aws.amazon.com/blogs/containers/building-a-single-pane-noc-dashboard-for-amazon-eks-with-amazon-cloudwatch/"
+    },
+    {
         "title": "The operations gap between deploying an application and running it forever",
         "link": "https://aws.amazon.com/blogs/containers/the-operations-gap-between-deploying-an-application-and-running-it-forever/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Forensic container checkpointing on Amazon Elastic Kubernetes Service (Amazon EKS)",
         "link": "https://aws.amazon.com/blogs/containers/forensic-container-checkpointing-on-amazon-eks/"
-    },
-    {
-        "title": "Introducing advanced Kubernetes control plane configuration in Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/introducing-advanced-kubernetes-control-plane-configuration-in-amazon-eks/"
     }
 ]

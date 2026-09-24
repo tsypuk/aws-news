@@ -1,5 +1,9 @@
 [
     {
+        "title": "Demonstrating genuine multipartite non-locality on quantum processors using Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/demonstrating-genuine-multipartite-non-locality-on-quantum-processors-using-amazon-braket/"
+    },
+    {
         "title": "AWS and JPMorganChase collaborate to advance quantum computing R&D",
         "link": "https://aws.amazon.com/blogs/quantum-computing/aws-and-jpmorganchase-collaborate-to-advance-quantum-computing-rd/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Decoding Realistic Quantum Error Syndrome with Quantum Elements Digital Twins",
         "link": "https://aws.amazon.com/blogs/quantum-computing/decoding-realistic-quantum-error-syndrome-with-quantum-elements-digital-twins/"
-    },
-    {
-        "title": "Error mitigation on Amazon Braket with program sets and Mitiq",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/error-mitigation-on-amazon-braket-with-program-sets-and-mitiq/"
     }
 ]

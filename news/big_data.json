@@ -1,5 +1,17 @@
 [
     {
+        "title": "Configure domain-level VPC networking in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/configure-domain-level-vpc-networking-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "Announcing Spark Connect on Amazon EMR on EC2: Interactive PySpark anywhere",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-ec2-interactive-pyspark-anywhere/"
+    },
+    {
+        "title": "Query unstructured data in Amazon SageMaker Catalog using generative AI",
+        "link": "https://aws.amazon.com/blogs/big-data/query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai/"
+    },
+    {
         "title": "Best practices for scaling large consumer groups on Amazon MSK",
         "link": "https://aws.amazon.com/blogs/big-data/best-practices-for-scaling-large-consumer-groups-on-amazon-msk/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Query Amazon S3 Tables from Amazon EMR Trino using the Iceberg REST endpoint",
         "link": "https://aws.amazon.com/blogs/big-data/query-amazon-s3-tables-from-amazon-emr-trino-using-the-iceberg-rest-endpoint/"
-    },
-    {
-        "title": "Building medallion architecture with Iceberg materialized views in Amazon SageMaker",
-        "link": "https://aws.amazon.com/blogs/big-data/building-medallion-architecture-with-iceberg-materialized-views-in-amazon-sagemaker/"
-    },
-    {
-        "title": "Build a dynamic streaming data lake with Apache Iceberg and Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-dynamic-streaming-data-lake-with-apache-iceberg-and-apache-flink/"
-    },
-    {
-        "title": "Observing and evaluating production agents using OpenSearch Agent Health",
-        "link": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/"
     }
 ]

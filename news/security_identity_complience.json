@@ -1,5 +1,13 @@
 [
     {
+        "title": "ICYMI: August 2026 @AWS Security",
+        "link": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security/"
+    },
+    {
+        "title": "Supporting ASD\u2019s multi-factor authentication campaign: Why MFA matters more than ever",
+        "link": "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever/"
+    },
+    {
         "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
         "link": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "ICYMI: July 2026 @AWS Security",
         "link": "https://aws.amazon.com/blogs/security/icymi-july-2026-aws-security/"
-    },
-    {
-        "title": "Detecting multi-stage attacks on AWS: A guide to cross-service signal correlation",
-        "link": "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/"
-    },
-    {
-        "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
-        "link": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws/"
     }
 ]
