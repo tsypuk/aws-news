@@ -1,5 +1,17 @@
 [
     {
+        "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/"
+    },
+    {
+        "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/"
+    },
+    {
+        "title": "Aderant builds intelligent ticket triage with Amazon Nova",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/"
+    },
+    {
         "title": "From portal-hopping to instant answers: HEMA\u2019s journey with MCP and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/"
-    },
-    {
-        "title": "Introducing Kimi K3 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/"
-    },
-    {
-        "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/"
     }
 ]

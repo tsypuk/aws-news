@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Pariveda built real-time clinical voice notes for Henry Schein One using Amazon Nova and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-pariveda-built-real-time-clinical-voice-notes-for-henry-schein-one-using-amazon-nova-and-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Orygen delivers virtual therapy anywhere with Amazon GameLift Streams",
         "link": "https://aws.amazon.com/blogs/publicsector/orygen-delivers-virtual-therapy-anywhere-with-amazon-gamelift-streams/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AI Model choice brings Mission Advantage to AWS GovCloud (US) customers",
         "link": "https://aws.amazon.com/blogs/publicsector/ai-model-choice-is-now-a-mission-advantage-multiple-ai-models-available-in-aws-govcloud-us/"
-    },
-    {
-        "title": "What HCLS security teams can do this quarter to close the execution gap",
-        "link": "https://aws.amazon.com/blogs/publicsector/what-hcls-security-teams-can-do-this-quarter-to-close-the-execution-gap/"
     }
 ]
