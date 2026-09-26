@@ -1,5 +1,29 @@
 [
     {
+        "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
+    },
+    {
+        "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/"
+    },
+    {
+        "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/"
+    },
+    {
+        "title": "Multi-Region training with Amazon SageMaker HyperPod and Qumulo",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-region-training-with-amazon-sagemaker-hyperpod-and-qumulo/"
+    },
+    {
         "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Extending public sector intelligence with Agentforce and AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/"
-    },
-    {
-        "title": "xAI\u2019s Grok 4.6 is now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/"
-    },
-    {
-        "title": "Run Positron on Amazon SageMaker AI for data science workflows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/"
-    },
-    {
-        "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/"
-    },
-    {
-        "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/"
     }
 ]

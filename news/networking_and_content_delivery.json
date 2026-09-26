@@ -1,5 +1,9 @@
 [
     {
+        "title": "AI best practices for AWS network operations with AI agents and MCP",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ai-best-practices-for-aws-network-operations-with-ai-agents-and-mcp/"
+    },
+    {
         "title": "Choosing the right inspection architecture for AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/choosing-the-right-inspection-architecture-for-aws-network-firewall/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Selecting the right AWS private connectivity options: A decision framework",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/selecting-the-right-aws-private-connectivity-options-a-decision-framework/"
-    },
-    {
-        "title": "Consolidate dual-stack architectures with listener rules for Network Load Balancer",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/consolidate-dual-stack-architectures-with-listener-rules-for-network-load-balancer/"
     }
 ]

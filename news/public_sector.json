@@ -1,5 +1,9 @@
 [
     {
+        "title": "Controlling delegation in agentic AI with Amazon Bedrock Agent Core",
+        "link": "https://aws.amazon.com/blogs/publicsector/controlling-delegation-in-agentic-ai-with-amazon-bedrock-agent-core/"
+    },
+    {
         "title": "How Pariveda built real-time clinical voice notes for Henry Schein One using Amazon Nova and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/publicsector/how-pariveda-built-real-time-clinical-voice-notes-for-henry-schein-one-using-amazon-nova-and-amazon-bedrock-agentcore/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Army R&D team uses agentic engineering to build secure, compliant code",
         "link": "https://aws.amazon.com/blogs/publicsector/army-rd-team-uses-agentic-engineering/"
-    },
-    {
-        "title": "AI Model choice brings Mission Advantage to AWS GovCloud (US) customers",
-        "link": "https://aws.amazon.com/blogs/publicsector/ai-model-choice-is-now-a-mission-advantage-multiple-ai-models-available-in-aws-govcloud-us/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Container Management",
+        "link": "https://aws.amazon.com/blogs/containers/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/"
+    },
+    {
+        "title": "One Amazon EKS, many edges: How to choose your edge container strategy on AWS",
+        "link": "https://aws.amazon.com/blogs/containers/one-amazon-eks-many-edges-how-to-choose-your-edge-container-strategy-on-aws/"
+    },
+    {
         "title": "Building a single-pane NOC dashboard for Amazon EKS with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/containers/building-a-single-pane-noc-dashboard-for-amazon-eks-with-amazon-cloudwatch/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Deep dive into Amazon EKS certificate authority rotation",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-certificate-authority-rotation/"
-    },
-    {
-        "title": "Encrypt Amazon ECS traffic: VPC encryption controls and Service Connect TLS",
-        "link": "https://aws.amazon.com/blogs/containers/encrypt-amazon-ecs-traffic-vpc-encryption-controls-and-service-connect-tls/"
-    },
-    {
-        "title": "Forensic container checkpointing on Amazon Elastic Kubernetes Service (Amazon EKS)",
-        "link": "https://aws.amazon.com/blogs/containers/forensic-container-checkpointing-on-amazon-eks/"
     }
 ]

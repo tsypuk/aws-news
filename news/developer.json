@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing SDK Client Warm-Up feature in the AWS SDK for Java 2.x",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-sdk-client-warm-up-feature-in-the-aws-sdk-for-java-2-x/"
+    },
+    {
         "title": "AWS CRT for JavaScript and AWS IoT Device SDK for JavaScript v2 align with the Node.js release schedule",
         "link": "https://aws.amazon.com/blogs/developer/aws-crt-for-javascript-and-aws-iot-device-sdk-for-javascript-v2-align-with-the-node-js-release-schedule/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing multipart download support for AWS Tools for PowerShell v5",
         "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-tools-for-powershell-v5/"
-    },
-    {
-        "title": "Announcing updated retry behavior for AWS SDKs and Tools",
-        "link": "https://aws.amazon.com/blogs/developer/announcing-updated-retry-behavior-for-aws-sdks-and-tools/"
     }
 ]
