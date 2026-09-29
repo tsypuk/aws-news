@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Property Finder automated incident management with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/how-property-finder-automated-incident-management-with-aws-devops-agent/"
+    },
+    {
+        "title": "Audit trails for autonomous agents with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/devops/audit-trails-for-autonomous-agents-with-aws-devops-agent/"
+    },
+    {
         "title": "Investigate DMS migration issues with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/devops/investigate-dms-migration-issues-with-aws-devops-agent/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How CloudFormation express mode accelerates your development cycle",
         "link": "https://aws.amazon.com/blogs/devops/how-cloudformation-express-mode-accelerates-your-development-cycle/"
-    },
-    {
-        "title": "Ship infrastructure faster with CloudFormation and CDK pre-deployment validation on every stack operation",
-        "link": "https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/"
-    },
-    {
-        "title": "Building and running custom code transformations without leaving your editor",
-        "link": "https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/"
     }
 ]

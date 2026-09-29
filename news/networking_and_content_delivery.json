@@ -1,5 +1,9 @@
 [
     {
+        "title": "Routing UDP to on-premises Network Load Balancer targets",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/routing-udp-to-on-premises-network-load-balancer-targets/"
+    },
+    {
         "title": "AI best practices for AWS network operations with AI agents and MCP",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ai-best-practices-for-aws-network-operations-with-ai-agents-and-mcp/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Protect Amazon Route 53 domains during account lifecycle events: Best practices for domain governance in multi-account organizations",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-amazon-route-53-domains-during-account-lifecycle-events-best-practices-for-domain-governance-in-multi-account-organizations/"
-    },
-    {
-        "title": "Selecting the right AWS private connectivity options: A decision framework",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/selecting-the-right-aws-private-connectivity-options-a-decision-framework/"
     }
 ]

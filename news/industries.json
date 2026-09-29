@@ -1,5 +1,17 @@
 [
     {
+        "title": "How AWS Payment Cryptography Raises the Cryptographic Security Bar",
+        "link": "https://aws.amazon.com/blogs/industries/how-aws-payment-cryptography-raises-the-cryptographic-security-bar/"
+    },
+    {
+        "title": "Reduce SMT Defects with Agentic AI: Automating Polarity Validation on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/reduce-smt-defects-with-agentic-ai-automating-polarity-validation-on-aws/"
+    },
+    {
+        "title": "How Morningstar built a financial advisor AI assistant powered by Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/industries/how-morningstar-built-a-financial-advisor-ai-assistant-powered-by-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Standing Up a Governed AWS Foundation in Days, Not Quarters: A Post-Merger Integration Pattern for Financial Services",
         "link": "https://aws.amazon.com/blogs/industries/standing-up-a-governed-aws-foundation-in-days-not-quarters-a-post-merger-integration-pattern-for-financial-services/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Modernize Siemens Teamcenter Infrastructure with Certified Amazon RDS",
         "link": "https://aws.amazon.com/blogs/industries/modernize-siemens-teamcenter-infrastructure-with-certified-amazon-rds/"
-    },
-    {
-        "title": "Best Practices for Securing AWS Payment Cryptography Deployments",
-        "link": "https://aws.amazon.com/blogs/industries/best-practices-for-securing-aws-payment-cryptography-deployments/"
-    },
-    {
-        "title": "Mirroring Your Organization with Multi-Agent AI for FSI Risk Assessment",
-        "link": "https://aws.amazon.com/blogs/industries/mirroring-your-organization-with-multi-agent-ai-for-fsi-risk-assessment/"
-    },
-    {
-        "title": "From Days to Minutes: How we built Multi-Agent KYC/KYB on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/from-days-to-minutes-how-we-built-multi-agent-kyc-kyb-on-aws/"
     }
 ]

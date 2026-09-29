@@ -1,5 +1,9 @@
 [
     {
+        "title": "Fix pod distribution drift in Amazon EKS with the Kubernetes descheduler",
+        "link": "https://aws.amazon.com/blogs/containers/fix-pod-distribution-drift-in-amazon-eks-with-the-kubernetes-descheduler/"
+    },
+    {
         "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Container Management",
         "link": "https://aws.amazon.com/blogs/containers/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Break-glass access for Amazon EKS when federated identity fails",
         "link": "https://aws.amazon.com/blogs/containers/break-glass-access-for-amazon-eks-when-federated-identity-fails/"
-    },
-    {
-        "title": "Deep dive into Amazon EKS certificate authority rotation",
-        "link": "https://aws.amazon.com/blogs/containers/deep-dive-into-amazon-eks-certificate-authority-rotation/"
     }
 ]

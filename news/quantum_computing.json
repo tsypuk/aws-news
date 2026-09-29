@@ -1,5 +1,9 @@
 [
     {
+        "title": "Combating quantum noise with AWS: University of Washington Capstone Project",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/combating-quantum-noise-with-aws-university-of-washington-capstone-project/"
+    },
+    {
         "title": "Demonstrating genuine multipartite non-locality on quantum processors using Amazon Braket",
         "link": "https://aws.amazon.com/blogs/quantum-computing/demonstrating-genuine-multipartite-non-locality-on-quantum-processors-using-amazon-braket/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Amazon Braket launches Rigetti Cepheus\u2122-1-108Q superconducting device",
         "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-rigetti-cepheus-1-108q-superconducting-device/"
-    },
-    {
-        "title": "Decoding Realistic Quantum Error Syndrome with Quantum Elements Digital Twins",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/decoding-realistic-quantum-error-syndrome-with-quantum-elements-digital-twins/"
     }
 ]

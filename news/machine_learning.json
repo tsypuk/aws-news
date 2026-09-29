@@ -1,5 +1,29 @@
 [
     {
+        "title": "Grok 4.7 is now available on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/"
+    },
+    {
+        "title": "Introducing Claude Sonnet 5.5 on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
+    },
+    {
+        "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/"
+    },
+    {
+        "title": "Generate images and video with vLLM-Omni on SageMaker AI \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/"
+    },
+    {
+        "title": "Implementing synthetic monitoring using Amazon Nova Act",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/"
+    },
+    {
+        "title": "Automating Amazon Textract adapter lifecycle management across accounts",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/"
+    },
+    {
         "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
         "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Claude Opus 5.5 is now available on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/"
-    },
-    {
-        "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/"
-    },
-    {
-        "title": "Extending public sector intelligence with Agentforce and AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/"
     }
 ]
