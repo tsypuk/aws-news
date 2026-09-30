@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/"
+    },
+    {
         "title": "ReadyOn\u2019s Four Walls of tenant isolation on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening/"
-    },
-    {
-        "title": "Consistency is the new latency: AI at the data layer",
-        "link": "https://aws.amazon.com/blogs/architecture/consistency-is-the-new-latency-ai-at-the-data-layer/"
     }
 ]

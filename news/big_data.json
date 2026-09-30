@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building an LLM-powered DAG failure analysis plugin for Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/building-an-llm-powered-dag-failure-analysis-plugin-for-amazon-mwaa/"
+    },
+    {
+        "title": "Announcing Spark Connect on Amazon EMR on EKS: Interactive PySpark development, anywhere",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-eks/"
+    },
+    {
+        "title": "Aurora PostgreSQL zero-ETL integration with Amazon SageMaker",
+        "link": "https://aws.amazon.com/blogs/big-data/aurora-postgresql-zero-etl-integration-with-amazon-sagemaker/"
+    },
+    {
         "title": "Getting started with Apache Iceberg write support in Amazon Redshift \u2013 Part 3",
         "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-3/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build declarative ETL pipelines with AWS Glue 6.0",
         "link": "https://aws.amazon.com/blogs/big-data/build-declarative-etl-pipelines-with-aws-glue-6-0/"
-    },
-    {
-        "title": "AWS recognized as a Leader in the 2026 Gartner Magic Quadrant for Strategic Cloud Platform Services for the 16th consecutive year",
-        "link": "https://aws.amazon.com/blogs/big-data/aws-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-the-16th-consecutive-year/"
-    },
-    {
-        "title": "How Sony LIV built real-time video streaming analytics with AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/how-sony-liv-built-real-time-video-streaming-analytics-with-aws/"
-    },
-    {
-        "title": "From silos to insights: Federated data access patterns for AI agents",
-        "link": "https://aws.amazon.com/blogs/big-data/from-silos-to-insights-federated-data-access-patterns-for-ai-agents/"
     }
 ]

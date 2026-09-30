@@ -1,5 +1,9 @@
 [
     {
+        "title": "What\u2019s next for Research and Engineering Studio on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/whats-next-for-research-and-engineering-studio-on-aws/"
+    },
+    {
         "title": "Part 1: Managing Large-Scale LLM Training with AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/part-1-managing-large-scale-llm-training-with-aws-parallelcluster/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Running NVIDIA Cosmos world foundation models on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/running-nvidia-cosmos-world-foundation-models-on-aws/"
-    },
-    {
-        "title": "How Daiichi Sankyo modernized drug discovery using AWS Parallel Computing Service",
-        "link": "https://aws.amazon.com/blogs/hpc/how-daiichi-sankyo-modernized-drug-discovery-using-aws-parallel-computing-service/"
     }
 ]

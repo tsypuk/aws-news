@@ -1,5 +1,9 @@
 [
     {
+        "title": "How MIXI built natural language search over billions of photos with Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/storage/how-mixi-built-natural-language-search-over-billions-of-photos-with-amazon-s3-vectors/"
+    },
+    {
         "title": "Data-driven planning for cloud migration using AWS Storage Assessment",
         "link": "https://aws.amazon.com/blogs/storage/data-driven-planning-for-cloud-migration-using-aws-storage-assessment/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transfer Amazon S3 data from commercial AWS Regions to AWS European Sovereign Cloud using AWS DataSync Enhanced mode",
         "link": "https://aws.amazon.com/blogs/storage/transfer-amazon-s3-data-from-aws-commercial-regions-to-aws-european-sovereign-cloud-using-aws-datasync-enhanced-mode/"
-    },
-    {
-        "title": "Orchestrating multi-agent AI architectures with Amazon S3 Files",
-        "link": "https://aws.amazon.com/blogs/storage/orchestrating-multi-agent-ai-architectures-with-amazon-s3-files/"
     }
 ]

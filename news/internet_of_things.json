@@ -1,5 +1,9 @@
 [
     {
+        "title": "Tracking fleets in real time with AWS IoT Core and Amazon Location Service",
+        "link": "https://aws.amazon.com/blogs/iot/tracking-fleets-in-real-time-with-aws-iot-core-and-amazon-location-service/"
+    },
+    {
         "title": "Deploying MCP servers with AWS IoT Greengrass for edge diagnostics",
         "link": "https://aws.amazon.com/blogs/iot/deploying-mcp-servers-with-aws-iot-greengrass-for-edge-diagnostics/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing Vehicle Identification Number (VIN) with Reference ID in connected vehicle platforms with AWS IoT",
         "link": "https://aws.amazon.com/blogs/iot/securing-vehicle-identification-number-with-reference-id-in-connected-vehicle-platforms-with-aws-iot/"
-    },
-    {
-        "title": "Preventing Machine Breakdowns: How Physical AI Predicts Equipment Problems",
-        "link": "https://aws.amazon.com/blogs/iot/preventing-machine-breakdowns-how-physical-ai-predicts-equipment-problems/"
     }
 ]

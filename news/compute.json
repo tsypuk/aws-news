@@ -1,5 +1,17 @@
 [
     {
+        "title": "Implementing customer managed keys for AWS Lambda durable functions with Terraform",
+        "link": "https://aws.amazon.com/blogs/compute/implementing-customer-managed-keys-for-aws-lambda-durable-functions-with-terraform/"
+    },
+    {
+        "title": "Simplify AMI discovery with Amazon EC2 and SSM Parameter Store",
+        "link": "https://aws.amazon.com/blogs/compute/simplify-ami-discovery-with-amazon-ec2-and-ssm-parameter-store/"
+    },
+    {
+        "title": "Frozen package management for air-gapped RHEL-family AMIs",
+        "link": "https://aws.amazon.com/blogs/compute/frozen-package-management-for-air-gapped-rhel-family-amis/"
+    },
+    {
         "title": "Building event-driven applications at scale with Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/compute/building-event-driven-applications-at-scale-with-amazon-eventbridge/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Implementing dynamic feature flags with AWS AppConfig on AWS Lambda",
         "link": "https://aws.amazon.com/blogs/compute/implementing-dynamic-feature-flags-with-aws-appconfig-on-aws-lambda/"
-    },
-    {
-        "title": "Observability best practices for Lambda durable functions",
-        "link": "https://aws.amazon.com/blogs/compute/observability-best-practices-for-lambda-durable-functions-2/"
-    },
-    {
-        "title": "Collecting CPU and memory metrics for AWS Lambda MicroVMs",
-        "link": "https://aws.amazon.com/blogs/compute/collecting-cpu-and-memory-metrics-for-aws-lambda-microvms/"
-    },
-    {
-        "title": "Designing for failure: Building resilient systems on AWS",
-        "link": "https://aws.amazon.com/blogs/compute/designing-for-failure-building-resilient-systems-on-aws/"
     }
 ]

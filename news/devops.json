@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building a Slack-powered AI development agent with Kiro CLI and headless authentication",
+        "link": "https://aws.amazon.com/blogs/devops/building-a-slack-powered-ai-development-agent-with-kiro-cli-and-headless-authentication/"
+    },
+    {
+        "title": "Accelerating development workflows with Kiro CLI as a Pre-Commit and Git Hook Agent",
+        "link": "https://aws.amazon.com/blogs/devops/accelerating-development-workflows-with-kiro-cli-as-a-pre-commit-and-git-hook-agent/"
+    },
+    {
         "title": "How Property Finder automated incident management with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/devops/how-property-finder-automated-incident-management-with-aws-devops-agent/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
         "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
-    },
-    {
-        "title": "Automated Incident Remediation with AWS DevOps Agent and Kiro CLI",
-        "link": "https://aws.amazon.com/blogs/devops/automated-incident-remediation-with-aws-devops-agent-and-kiro-cli/"
-    },
-    {
-        "title": "How CloudFormation express mode accelerates your development cycle",
-        "link": "https://aws.amazon.com/blogs/devops/how-cloudformation-express-mode-accelerates-your-development-cycle/"
     }
 ]
