@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/"
+    },
+    {
+        "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/"
+    },
+    {
+        "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/"
+    },
+    {
+        "title": "Celebrating Our Newest AWS Heroes \u2013 September 2026",
+        "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/"
+    },
+    {
         "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
         "link": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/"
-    },
-    {
-        "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and S\u00e3o Paulo",
-        "link": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/"
-    },
-    {
-        "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/"
-    },
-    {
-        "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/"
-    },
-    {
-        "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/"
     }
 ]

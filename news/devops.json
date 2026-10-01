@@ -1,5 +1,13 @@
 [
     {
+        "title": "Running production experiments with AWS AppConfig experimentation",
+        "link": "https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/"
+    },
+    {
+        "title": "Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide",
+        "link": "https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/"
+    },
+    {
         "title": "Building a Slack-powered AI development agent with Kiro CLI and headless authentication",
         "link": "https://aws.amazon.com/blogs/devops/building-a-slack-powered-ai-development-agent-with-kiro-cli-and-headless-authentication/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Analyze and remediate technical debt autonomously with AWS Transform \u2013 continuous modernization",
         "link": "https://aws.amazon.com/blogs/devops/analyze-and-remediate-technical-debt-autonomously-with-aws-transform-continuous-modernization/"
-    },
-    {
-        "title": "How Company 3 Streamlines Studio Image Management with EC2 Image Builder and AWS CDK",
-        "link": "https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/"
-    },
-    {
-        "title": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
-        "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
     }
 ]

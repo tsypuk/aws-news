@@ -1,5 +1,13 @@
 [
     {
+        "title": "AI-powered EKS migration assessment with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/containers/ai-powered-eks-migration-assessment-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How athenahealth modernized healthcare workloads with Amazon EKS Hybrid Nodes",
+        "link": "https://aws.amazon.com/blogs/containers/how-athenahealth-modernized-healthcare-workloads-with-amazon-eks-hybrid-nodes/"
+    },
+    {
         "title": "Fix pod distribution drift in Amazon EKS with the Kubernetes descheduler",
         "link": "https://aws.amazon.com/blogs/containers/fix-pod-distribution-drift-in-amazon-eks-with-the-kubernetes-descheduler/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Automate proxy injection for Amazon EKS on AWS Fargate using Kyverno",
         "link": "https://aws.amazon.com/blogs/containers/automate-proxy-injection-for-amazon-eks-on-aws-fargate-using-kyverno/"
-    },
-    {
-        "title": "Fast model loading for AI inference on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/fast-model-loading-for-ai-inference-on-amazon-eks/"
-    },
-    {
-        "title": "Break-glass access for Amazon EKS when federated identity fails",
-        "link": "https://aws.amazon.com/blogs/containers/break-glass-access-for-amazon-eks-when-federated-identity-fails/"
     }
 ]

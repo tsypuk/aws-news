@@ -1,5 +1,21 @@
 [
     {
+        "title": "Voice to Insight: Low-Latency Transcript Pipelines from Amazon Connect Customer to Amazon Redshift (Part 2)",
+        "link": "https://aws.amazon.com/blogs/contact-center/voice-to-insight-low-latency-transcript-pipelines-from-amazon-connect-customer-to-amazon-redshift-part-2/"
+    },
+    {
+        "title": "Voice to Insight: Low-Latency Transcript Pipelines from Amazon Connect Customer to Amazon Redshift (Part 1)",
+        "link": "https://aws.amazon.com/blogs/contact-center/voice-to-insight-low-latency-transcript-pipelines-from-amazon-connect-customer-to-amazon-redshift-part-1/"
+    },
+    {
+        "title": "Automate email support with Amazon Connect Customer email AI agents",
+        "link": "https://aws.amazon.com/blogs/contact-center/automate-email-support-with-amazon-connect-customer-email-ai-agents/"
+    },
+    {
+        "title": "Voice-Activated AI Agent with Amazon Connect Customer and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/contact-center/voice-activated-ai-agent-with-amazon-connect-customer-and-amazon-bedrock/"
+    },
+    {
         "title": "Free Sandbox Environments for Amazon Connect Customer on AWS Builder Center",
         "link": "https://aws.amazon.com/blogs/contact-center/free-sandbox-environments-for-amazon-connect-customer-on-aws-builder-center/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Managing Amazon Connect flows as Code with AWS CDK",
         "link": "https://aws.amazon.com/blogs/contact-center/managing-amazon-connect-flows-as-code-with-aws-cdk/"
-    },
-    {
-        "title": "Breaking Language Barriers: Real-Time Multilingual Support with Amazon Connect Chat Message Processing",
-        "link": "https://aws.amazon.com/blogs/contact-center/breaking-language-barriers-real-time-multilingual-support-with-amazon-connect-chat-message-processing/"
-    },
-    {
-        "title": "Build an Amazon Connect Customer Data Lake with a Reusable CDK Construct",
-        "link": "https://aws.amazon.com/blogs/contact-center/build-an-amazon-connect-customer-data-lake-with-a-reusable-cdk-construct/"
-    },
-    {
-        "title": "Integration as Intelligence: Amazon Connect Customer Integrates with Salesforce via MCP",
-        "link": "https://aws.amazon.com/blogs/contact-center/integration-as-intelligence-amazon-connect-customer-integrates-with-salesforce-via-mcp/"
-    },
-    {
-        "title": "How NatWest built multi-region resilience with Amazon Connect Customer",
-        "link": "https://aws.amazon.com/blogs/contact-center/how-natwest-built-multi-region-resilience-with-amazon-connect-customer/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Simplify VPC Flow Logs with EC2 resource tags and next-hop metadata",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-vpc-flow-logs-with-ec2-resource-tags-and-next-hop-metadata/"
+    },
+    {
         "title": "Routing UDP to on-premises Network Load Balancer targets",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/routing-udp-to-on-premises-network-load-balancer-targets/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Centralized VPC inspection with Amazon VPC Route Server and AWS Transit Gateway",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/centralized-vpc-inspection-with-amazon-vpc-route-server-and-aws-transit-gateway/"
-    },
-    {
-        "title": "Protect Amazon Route 53 domains during account lifecycle events: Best practices for domain governance in multi-account organizations",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-amazon-route-53-domains-during-account-lifecycle-events-best-practices-for-domain-governance-in-multi-account-organizations/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
+        "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/"
+    },
+    {
+        "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/"
+    },
+    {
         "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How AgentFlo built AI sales agents with Amazon Bedrock AgentCore \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-1/"
-    },
-    {
-        "title": "How Clario technology detects PHI/PII in DICOM images using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/architecture/how-clario-automates-phi-pii-detection-in-dicom-images-using-amazon-bedrock/"
-    },
-    {
-        "title": "AI-powered clinical trial eligibility and safety using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/architecture/ai-agents-for-clinical-trial-screening/"
     }
 ]

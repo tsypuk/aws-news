@@ -1,5 +1,17 @@
 [
     {
+        "title": "AWS and AMD bring 5th generation AMD EPYC processors to Amazon Aurora and Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/database/aws-and-amd-bring-5th-generation-amd-epyc-processors-to-amazon-aurora-and-amazon-rds/"
+    },
+    {
+        "title": "Resolving PostgreSQL replication lag with heartbeat tables in change data capture scenarios",
+        "link": "https://aws.amazon.com/blogs/database/resolving-postgresql-replication-lag-with-heartbeat-tables-in-change-data-capture-scenarios/"
+    },
+    {
+        "title": "Migrate Db2 z/OS to Amazon Aurora PostgreSQL using AWS DMS and gateway server",
+        "link": "https://aws.amazon.com/blogs/database/migrate-db2-z-os-to-amazon-aurora-postgresql-using-aws-dms-and-gateway-server/"
+    },
+    {
         "title": "Resolving query plan regressions after a MySQL engine upgrade",
         "link": "https://aws.amazon.com/blogs/database/resolving-query-plan-regressions-after-a-mysql-engine-upgrade/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "SQL Server to Aurora PostgreSQL conversion with AI agents for AWS DMS",
         "link": "https://aws.amazon.com/blogs/database/sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms/"
-    },
-    {
-        "title": "Fix circular role dependencies before upgrading Amazon RDS and Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/resolve-circular-role-dependencies-during-upgrades-of-amazon-rds-for-postgresql-and-amazon-aurora/"
-    },
-    {
-        "title": "Provision a secure Amazon DocumentDB cluster with Terraform",
-        "link": "https://aws.amazon.com/blogs/database/provision-a-secure-amazon-documentdb-cluster-with-terraform/"
-    },
-    {
-        "title": "CORTO\u2019s billion-scale legal semantic search with Aurora PostgreSQL pgvector",
-        "link": "https://aws.amazon.com/blogs/database/cortos-billion-scale-legal-semantic-search-with-aurora-postgresql-pgvector/"
     }
 ]

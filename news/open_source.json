@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing the Dogwood Local Engine: temporal governance for agent actions",
+        "link": "https://aws.amazon.com/blogs/opensource/introducing-the-dogwood-local-engine-temporal-governance-for-agent-actions/"
+    },
+    {
         "title": "Introducing TOLAP: object-level access control for AI agent tools",
         "link": "https://aws.amazon.com/blogs/opensource/introducing-tolap-object-level-access-control-for-ai-agent-tools/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Cedar Joins CNCF as a Sandbox Project",
         "link": "https://aws.amazon.com/blogs/opensource/cedar-joins-cncf-as-a-sandbox-project/"
-    },
-    {
-        "title": "Building intelligent physical AI: From edge to cloud with Strands Agents, Bedrock AgentCore, Claude 4.5, NVIDIA GR00T, and Hugging Face LeRobot",
-        "link": "https://aws.amazon.com/blogs/opensource/building-intelligent-physical-ai-from-edge-to-cloud-with-strands-agents-bedrock-agentcore-claude-4-5-nvidia-gr00t-and-hugging-face-lerobot/"
     }
 ]
