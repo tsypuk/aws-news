@@ -1,5 +1,37 @@
 [
     {
+        "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Serve live, governed data in AI-built apps with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/"
+    },
+    {
+        "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/"
+    },
+    {
+        "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/"
+    },
+    {
+        "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/"
+    },
+    {
+        "title": "Implementing Multi-Environment Access for Claude Platform on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/"
+    },
+    {
+        "title": "Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter",
+        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/"
+    },
+    {
+        "title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/"
+    },
+    {
         "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
         "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/"
-    },
-    {
-        "title": "Generate images and video with vLLM-Omni on SageMaker AI \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/"
-    },
-    {
-        "title": "Implementing synthetic monitoring using Amazon Nova Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/"
-    },
-    {
-        "title": "Automating Amazon Textract adapter lifecycle management across accounts",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts/"
-    },
-    {
-        "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
-        "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/"
-    },
-    {
-        "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/"
-    },
-    {
-        "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Datacor built self-service rental analytics with Amazon Quick Sight",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/"
     }
 ]

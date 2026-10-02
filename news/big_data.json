@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimize consumer rebalancing on Amazon MSK with next generation protocol",
+        "link": "https://aws.amazon.com/blogs/big-data/optimize-consumer-rebalancing-on-amazon-msk-with-next-generation-protocol/"
+    },
+    {
         "title": "Building an LLM-powered DAG failure analysis plugin for Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/building-an-llm-powered-dag-failure-analysis-plugin-for-amazon-mwaa/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Every team is a data team \u2014 bring Amazon Redshift analytics to ChatGPT Work",
         "link": "https://aws.amazon.com/blogs/big-data/every-team-is-a-data-team-bring-amazon-redshift-analytics-to-chatgpt-work/"
-    },
-    {
-        "title": "Build declarative ETL pipelines with AWS Glue 6.0",
-        "link": "https://aws.amazon.com/blogs/big-data/build-declarative-etl-pipelines-with-aws-glue-6-0/"
     }
 ]

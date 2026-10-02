@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing filtered export from Amazon DynamoDB to Amazon S3",
+        "link": "https://aws.amazon.com/blogs/database/introducing-filtered-export-from-amazon-dynamodb-to-amazon-s3/"
+    },
+    {
+        "title": "Working with foreign key constraints in Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/working-with-foreign-key-constraints-in-aurora-dsql/"
+    },
+    {
+        "title": "Babelfish for Aurora PostgreSQL performance tuning",
+        "link": "https://aws.amazon.com/blogs/database/babelfish-for-aurora-postgresql-performance-tuning/"
+    },
+    {
         "title": "AWS and AMD bring 5th generation AMD EPYC processors to Amazon Aurora and Amazon RDS",
         "link": "https://aws.amazon.com/blogs/database/aws-and-amd-bring-5th-generation-amd-epyc-processors-to-amazon-aurora-and-amazon-rds/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Monitor self-managed databases with Amazon CloudWatch Database Insights",
         "link": "https://aws.amazon.com/blogs/database/monitor-self-managed-databases-with-amazon-cloudwatch-database-insights/"
-    },
-    {
-        "title": "Troubleshoot AWS Advanced JDBC Wrapper configuration for Aurora Global Database write forwarding",
-        "link": "https://aws.amazon.com/blogs/database/troubleshoot-aws-advanced-jdbc-wrapper-configuration-for-aurora-global-database-write-forwarding/"
-    },
-    {
-        "title": "Introducing strands-dynamodb-storage: Durable agent storage for the Strands Agents SDK",
-        "link": "https://aws.amazon.com/blogs/database/introducing-strands-dynamodb-storage-durable-agent-storage-for-the-strands-agents-sdk/"
-    },
-    {
-        "title": "SQL Server to Aurora PostgreSQL conversion with AI agents for AWS DMS",
-        "link": "https://aws.amazon.com/blogs/database/sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implementing feature flags in container environments with AWS AppConfig",
+        "link": "https://aws.amazon.com/blogs/containers/implementing-feature-flags-in-container-environments-with-aws-appconfig/"
+    },
+    {
         "title": "AI-powered EKS migration assessment with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/containers/ai-powered-eks-migration-assessment-with-amazon-bedrock-agentcore/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How Ramp runs GPU AI workloads at scale with ECS Managed Instances",
         "link": "https://aws.amazon.com/blogs/containers/how-ramp-runs-gpu-ai-workloads-at-scale-with-ecs-managed-instances/"
-    },
-    {
-        "title": "Automate proxy injection for Amazon EKS on AWS Fargate using Kyverno",
-        "link": "https://aws.amazon.com/blogs/containers/automate-proxy-injection-for-amazon-eks-on-aws-fargate-using-kyverno/"
     }
 ]

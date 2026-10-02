@@ -1,5 +1,9 @@
 [
     {
+        "title": "Augment your Windows management tools with agentic AI using Kiro CLI",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/augment-your-windows-management-tools-with-agentic-ai-using-kiro-cli/"
+    },
+    {
         "title": "Build resilient hybrid workloads with AWS Managed Microsoft AD (Hybrid Edition)",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/build-resilient-hybrid-workloads-with-aws-managed-microsoft-ad-hybrid-edition/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How a Customer Upgraded over 2,000 Microsoft Windows Server 2016 to 2025 on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-a-customer-upgraded-over-2000-windows-server-2016-to-2025-on-amazon-ec2/"
-    },
-    {
-        "title": "Modernizing a legacy monolith with Amazon EKS Windows containers",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/modernizing-a-legacy-monolith-with-amazon-eks-windows-containers/"
     }
 ]

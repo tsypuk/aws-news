@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build an Agentic AI IVR That Shapes Itself Per Client using Amazon Connect Customer",
+        "link": "https://aws.amazon.com/blogs/contact-center/build-an-agentic-ai-ivr-that-shapes-itself-per-client-using-amazon-connect/"
+    },
+    {
         "title": "Voice to Insight: Low-Latency Transcript Pipelines from Amazon Connect Customer to Amazon Redshift (Part 2)",
         "link": "https://aws.amazon.com/blogs/contact-center/voice-to-insight-low-latency-transcript-pipelines-from-amazon-connect-customer-to-amazon-redshift-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Be the 5%: What we learned by shipping AI at scale",
         "link": "https://aws.amazon.com/blogs/contact-center/be-the-5-what-we-learned-by-shipping-ai-at-scale/"
-    },
-    {
-        "title": "Managing Amazon Connect flows as Code with AWS CDK",
-        "link": "https://aws.amazon.com/blogs/contact-center/managing-amazon-connect-flows-as-code-with-aws-cdk/"
     }
 ]
