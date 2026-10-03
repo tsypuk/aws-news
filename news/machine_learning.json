@@ -1,5 +1,17 @@
 [
     {
+        "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/"
+    },
+    {
+        "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Cond\u00e9 Nast built multimodal video discovery with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/"
-    },
-    {
-        "title": "Grok 4.7 is now available on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/"
-    },
-    {
-        "title": "Introducing Claude Sonnet 5.5 on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
-    },
-    {
-        "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/"
     }
 ]
