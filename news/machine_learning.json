@@ -1,5 +1,33 @@
 [
     {
+        "title": "Introducing GLM 5.3 on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
+    },
+    {
+        "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/"
+    },
+    {
+        "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/"
+    },
+    {
+        "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+        "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/"
+    },
+    {
+        "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/"
+    },
+    {
+        "title": "Downgrading user roles in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/"
+    },
+    {
+        "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
         "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/"
-    },
-    {
-        "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/"
-    },
-    {
-        "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/"
-    },
-    {
-        "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/"
-    },
-    {
-        "title": "Prompt engineering fundamentals for Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/"
-    },
-    {
-        "title": "Prompt engineering by Quick component: Patterns and pitfalls",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/"
-    },
-    {
-        "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Cond\u00e9 Nast built multimodal video discovery with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/"
     }
 ]

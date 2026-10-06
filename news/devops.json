@@ -1,5 +1,9 @@
 [
     {
+        "title": "Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode",
+        "link": "https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"
+    },
+    {
         "title": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
         "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Automate SageMaker HyperPod incident triage and root-cause-analysis with AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/devops/automate-sagemaker-hyperpod-incident-triage-and-root-cause-analysis-with-aws-devops-agent/"
-    },
-    {
-        "title": "Scaling organizational knowledge in Kiro with Amazon Bedrock Knowledge Bases, LangChain, and MCP",
-        "link": "https://aws.amazon.com/blogs/devops/scaling-organizational-knowledge-in-kiro-with-amazon-bedrock-knowledge-bases-langchain-and-mcp/"
     }
 ]

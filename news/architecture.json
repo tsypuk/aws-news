@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
+        "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/"
+    },
+    {
         "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
         "link": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/"
-    },
-    {
-        "title": "Closing the AI agent trust gap with graduated autonomy",
-        "link": "https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/"
     }
 ]

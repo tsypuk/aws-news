@@ -1,5 +1,13 @@
 [
     {
+        "title": "Materialize once, query anywhere: Introducing Iceberg materialized views in Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/materialize-once-query-anywhere-introducing-iceberg-materialized-views-in-amazon-redshift/"
+    },
+    {
+        "title": "Run an automated operational review with the Amazon Redshift MCP server",
+        "link": "https://aws.amazon.com/blogs/big-data/run-an-automated-operational-review-with-the-amazon-redshift-mcp-server/"
+    },
+    {
         "title": "Optimize consumer rebalancing on Amazon MSK with next generation protocol",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-consumer-rebalancing-on-amazon-msk-with-next-generation-protocol/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How to migrate from Amazon CloudSearch to Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/how-to-migrate-from-amazon-cloudsearch-to-amazon-opensearch-serverless/"
-    },
-    {
-        "title": "Accelerating Spark queries with Iceberg materialized views",
-        "link": "https://aws.amazon.com/blogs/big-data/accelerating-spark-queries-with-iceberg-materialized-views/"
-    },
-    {
-        "title": "Every team is a data team \u2014 bring Amazon Redshift analytics to ChatGPT Work",
-        "link": "https://aws.amazon.com/blogs/big-data/every-team-is-a-data-team-bring-amazon-redshift-analytics-to-chatgpt-work/"
     }
 ]
