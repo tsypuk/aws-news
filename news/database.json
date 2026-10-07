@@ -1,5 +1,13 @@
 [
     {
+        "title": "Run least-privilege AWS DMS CDC migration from SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/run-least-privilege-aws-dms-cdc-migration-from-sql-server/"
+    },
+    {
+        "title": "A decision framework for Amazon Neptune availability",
+        "link": "https://aws.amazon.com/blogs/database/a-decision-framework-for-amazon-neptune-availability/"
+    },
+    {
         "title": "Assess and migrate SQL Server Full-Text Search to Babelfish for Aurora PostgreSQL",
         "link": "https://aws.amazon.com/blogs/database/assess-and-migrate-sql-server-full-text-search-to-babelfish-for-aurora-postgresql/"
     },
@@ -40,7 +48,7 @@
         "link": "https://aws.amazon.com/blogs/database/how-to-stream-postgresql-changes-to-amazon-s3-with-aws-fargate/"
     },
     {
-        "title": "Megabytes in milliseconds: How FireTV uses parallel queries and vertical partitioning to serve millions of customers in Amazon DynamoDB",
+        "title": "Megabytes in milliseconds: How Fire TV uses parallel queries and vertical partitioning to serve millions of customers in Amazon DynamoDB",
         "link": "https://aws.amazon.com/blogs/database/megabytes-in-milliseconds-how-firetv-uses-parallel-queries-and-vertical-partitioning-to-serve-millions-of-customers-in-amazon-dynamodb/"
     },
     {
@@ -70,13 +78,5 @@
     {
         "title": "Run DuckDB analytics on your Amazon DynamoDB data with zero-ETL",
         "link": "https://aws.amazon.com/blogs/database/run-duckdb-analytics-on-your-amazon-dynamodb-data-with-zero-etl/"
-    },
-    {
-        "title": "Building async Python applications with Tortoise ORM and Amazon Aurora DSQL",
-        "link": "https://aws.amazon.com/blogs/database/building-async-python-applications-with-tortoise-orm-and-amazon-aurora-dsql/"
-    },
-    {
-        "title": "From noise to signal: Monitoring Amazon DocumentDB like a pro",
-        "link": "https://aws.amazon.com/blogs/database/from-noise-to-signal-monitoring-amazon-documentdb-like-a-pro/"
     }
 ]

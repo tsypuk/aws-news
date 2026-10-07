@@ -1,5 +1,25 @@
 [
     {
+        "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/"
+    },
+    {
+        "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/"
+    },
+    {
+        "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
+        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/"
+    },
+    {
+        "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/"
+    },
+    {
+        "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/"
+    },
+    {
         "title": "Introducing GLM 5.3 on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/"
-    },
-    {
-        "title": "Implementing Multi-Environment Access for Claude Platform on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/"
-    },
-    {
-        "title": "Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter",
-        "link": "https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/"
-    },
-    {
-        "title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/"
-    },
-    {
-        "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/"
     }
 ]

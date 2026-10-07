@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating from NGINX Ingress to ALB: Handling oauth2-proxy",
+        "link": "https://aws.amazon.com/blogs/containers/migrating-from-nginx-ingress-to-alb-handling-oauth2-proxy/"
+    },
+    {
         "title": "Implementing feature flags in container environments with AWS AppConfig",
         "link": "https://aws.amazon.com/blogs/containers/implementing-feature-flags-in-container-environments-with-aws-appconfig/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Implement per-pod image pull permissions with ECR repository policies on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/implement-per-pod-image-pull-permissions-with-ecr-repository-policies-on-amazon-eks/"
-    },
-    {
-        "title": "How Ramp runs GPU AI workloads at scale with ECS Managed Instances",
-        "link": "https://aws.amazon.com/blogs/containers/how-ramp-runs-gpu-ai-workloads-at-scale-with-ecs-managed-instances/"
     }
 ]

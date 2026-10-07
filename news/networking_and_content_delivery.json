@@ -1,5 +1,9 @@
 [
     {
+        "title": "Provisioning AWS Interconnect \u2013 multicloud with the Kiro agentic IDE",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/provisioning-aws-interconnect-multicloud-with-the-kiro-agentic-ide/"
+    },
+    {
         "title": "Powering predictable costs with AWS Direct Connect flat-rate pricing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/powering-predictable-costs-with-aws-direct-connect-flat-rate-pricing/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reintroducing Network Firewall Proxy for Secure Egress Connectivity",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/reintroducing-network-firewall-proxy-for-secure-egress-connectivity/"
-    },
-    {
-        "title": "Measuring network latency to AWS Region before deployment",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/measuring-network-latency-to-aws-region-before-deployment/"
     }
 ]

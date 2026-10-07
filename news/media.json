@@ -1,5 +1,9 @@
 [
     {
+        "title": "Control investigation costs before they start with AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/mt/control-investigation-costs-before-they-start-with-aws-devops-agent/"
+    },
+    {
         "title": "Share Systems Manager documents across your AWS Organization with AWS RAM",
         "link": "https://aws.amazon.com/blogs/mt/share-systems-manager-documents-across-your-aws-organization-with-aws-ram/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Autonomous Root Cause Analysis for AWS Systems Manager Patch Failures Using AWS DevOps Agent",
         "link": "https://aws.amazon.com/blogs/mt/autonomous-root-cause-analysis-for-aws-systems-manager-patch-failures-using-aws-devops-agent/"
-    },
-    {
-        "title": "Build bespoke operational workflows with AWS DevOps Agent custom SRE agents",
-        "link": "https://aws.amazon.com/blogs/mt/build-bespoke-operational-workflows-with-aws-devops-agent-custom-sre-agents/"
     }
 ]
