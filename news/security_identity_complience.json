@@ -1,5 +1,17 @@
 [
     {
+        "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+        "link": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/"
+    },
+    {
+        "title": "Building your AI vulnerability harness, Part 1",
+        "link": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/"
+    },
+    {
+        "title": "Part 1 \u2013 Cybersecurity journeys: I didn\u2019t plan this",
+        "link": "https://aws.amazon.com/blogs/security/part-1-cybersecurity-journeys-i-didnt-plan-this/"
+    },
+    {
         "title": "Improving SPIRE security and resiliency with AWS managed services",
         "link": "https://aws.amazon.com/blogs/security/improving-spire-security-and-resiliency-with-aws-managed-services/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Incident response guide for AWS CloudTrail investigations \u2013 Part 1",
         "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1/"
-    },
-    {
-        "title": "Managing identity source transition for AWS IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
-    },
-    {
-        "title": "Agentic security: Detection and response at machine speed",
-        "link": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed/"
-    },
-    {
-        "title": "We invited a direct competitor into Security Hub Extended. Here\u2019s why.",
-        "link": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/"
     }
 ]

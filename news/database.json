@@ -1,5 +1,13 @@
 [
     {
+        "title": "Migrate SSIS packages to Aurora PostgreSQL \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-2/"
+    },
+    {
+        "title": "Migrate SSIS packages to Aurora PostgreSQL \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-1/"
+    },
+    {
         "title": "Run least-privilege AWS DMS CDC migration from SQL Server",
         "link": "https://aws.amazon.com/blogs/database/run-least-privilege-aws-dms-cdc-migration-from-sql-server/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Resolve Amazon Aurora PostgreSQL lock contention with Database Insights: Part 2",
         "link": "https://aws.amazon.com/blogs/database/resolve-amazon-aurora-postgresql-lock-contention-with-database-insights-part-2/"
-    },
-    {
-        "title": "Troubleshooting row lock contention in Amazon Aurora PostgreSQL: Part 1 \u2013 Understanding row lock contention in PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/troubleshooting-row-lock-contention-in-amazon-aurora-postgresql-part-1-understanding-row-lock-contention-in-postgresql/"
-    },
-    {
-        "title": "Run DuckDB analytics on your Amazon DynamoDB data with zero-ETL",
-        "link": "https://aws.amazon.com/blogs/database/run-duckdb-analytics-on-your-amazon-dynamodb-data-with-zero-etl/"
     }
 ]

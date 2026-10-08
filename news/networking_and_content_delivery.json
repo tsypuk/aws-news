@@ -1,5 +1,9 @@
 [
     {
+        "title": "Cross-account canary routing with Amazon VPC Lattice and Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cross-account-canary-routing-with-amazon-vpc-lattice-and-amazon-api-gateway/"
+    },
+    {
         "title": "Provisioning AWS Interconnect \u2013 multicloud with the Kiro agentic IDE",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/provisioning-aws-interconnect-multicloud-with-the-kiro-agentic-ide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building real-time applications with WebSocket using Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-real-time-applications-with-websocket-using-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Reintroducing Network Firewall Proxy for Secure Egress Connectivity",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/reintroducing-network-firewall-proxy-for-secure-egress-connectivity/"
     }
 ]
