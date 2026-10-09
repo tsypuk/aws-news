@@ -1,5 +1,9 @@
 [
     {
+        "title": "How MUFG Bank aims to cut flowchart work by up to 90% with ontology-grounded AI on Amazon Neptune and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/database/how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-neptune-and-amazon-bedrock/"
+    },
+    {
         "title": "Migrate SSIS packages to Aurora PostgreSQL \u2013 Part 2",
         "link": "https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-2/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Intuit and AWS systematically improved resiliency on ElastiCache using AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/database/how-intuit-and-aws-systematically-improved-resiliency-on-elasticache-using-aws-fault-injection-service/"
-    },
-    {
-        "title": "Resolve Amazon Aurora PostgreSQL lock contention with Database Insights: Part 2",
-        "link": "https://aws.amazon.com/blogs/database/resolve-amazon-aurora-postgresql-lock-contention-with-database-insights-part-2/"
     }
 ]

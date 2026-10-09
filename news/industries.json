@@ -1,5 +1,13 @@
 [
     {
+        "title": "Your Guide to AWS for Telecom at re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/industries/your-guide-to-aws-for-telecom-at-reinvent-2026/"
+    },
+    {
+        "title": "How Multi-Agent AI Is Changing the Way CPG and Retail Brands Manage Advertising at Scale",
+        "link": "https://aws.amazon.com/blogs/industries/how-multiagent-ai-is-changing/"
+    },
+    {
         "title": "Agentic AI on Connect Health: An end-to-end telehealth visit",
         "link": "https://aws.amazon.com/blogs/industries/agentic-ai-on-connect-health-an-end-to-end-telehealth-visit/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "How AWS Payment Cryptography Raises the Cryptographic Security Bar",
         "link": "https://aws.amazon.com/blogs/industries/how-aws-payment-cryptography-raises-the-cryptographic-security-bar/"
-    },
-    {
-        "title": "Reduce SMT Defects with Agentic AI: Automating Polarity Validation on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/reduce-smt-defects-with-agentic-ai-automating-polarity-validation-on-aws/"
-    },
-    {
-        "title": "How Morningstar built a financial advisor AI assistant powered by Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/industries/how-morningstar-built-a-financial-advisor-ai-assistant-powered-by-amazon-bedrock-agentcore/"
     }
 ]

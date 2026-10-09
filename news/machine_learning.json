@@ -1,5 +1,13 @@
 [
     {
+        "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/"
+    },
+    {
+        "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/"
+    },
+    {
         "title": "Introducing Claude Haiku 5.5 on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Downgrading user roles in Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/"
-    },
-    {
-        "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-        "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/"
     }
 ]
