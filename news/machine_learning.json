@@ -1,5 +1,13 @@
 [
     {
+        "title": "ICYMI: What landed for AI builders in September 2026",
+        "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/"
+    },
+    {
+        "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"
+    },
+    {
         "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
         "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
         "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/"
-    },
-    {
-        "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/"
-    },
-    {
-        "title": "Downgrading user roles in Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/"
     }
 ]
