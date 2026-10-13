@@ -1,5 +1,17 @@
 [
     {
+        "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
+        "link": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/"
+    },
+    {
+        "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
+        "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/"
+    },
+    {
+        "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
+        "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/"
+    },
+    {
         "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
         "link": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "The state of AI for security: Measuring what matters most for building trust",
         "link": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/"
-    },
-    {
-        "title": "OSPAR 2026 report now available with 167 services in scope",
-        "link": "https://aws.amazon.com/blogs/security/ospar-2026-report-now-available-with-167-services-in-scope/"
-    },
-    {
-        "title": "Incident response guide for AWS CloudTrail investigations \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2/"
-    },
-    {
-        "title": "Incident response guide for AWS CloudTrail investigations \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1/"
     }
 ]

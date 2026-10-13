@@ -1,5 +1,17 @@
 [
     {
+        "title": "Understanding the differences between PgBouncer and Amazon RDS Proxy for PostgreSQL connection pooling",
+        "link": "https://aws.amazon.com/blogs/database/understanding-the-differences-between-pgbouncer-and-amazon-rds-proxy-for-postgresql-connection-pooling/"
+    },
+    {
+        "title": "Migrate CLR code to AWS Lambda when upgrading Amazon RDS for SQL Server to 2025",
+        "link": "https://aws.amazon.com/blogs/database/migrate-clr-code-to-aws-lambda-when-upgrading-amazon-rds-for-sql-server-to-2025/"
+    },
+    {
+        "title": "Automated blocking and query alerts for Amazon RDS for SQL Server",
+        "link": "https://aws.amazon.com/blogs/database/automated-blocking-and-query-alerts-for-amazon-rds-for-sql-server/"
+    },
+    {
         "title": "How MUFG Bank aims to cut flowchart work by up to 90% with ontology-grounded AI on Amazon Neptune and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/database/how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-neptune-and-amazon-bedrock/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Intuitive risk investigation with Amazon Neptune and Linkurious Enterprise",
         "link": "https://aws.amazon.com/blogs/database/intuitive-risk-investigation-with-amazon-neptune-and-linkurious-enterprise/"
-    },
-    {
-        "title": "Migrate SQL Server multi-result-set procedures to PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/migrate-sql-server-multi-result-set-procedures-to-postgresql/"
-    },
-    {
-        "title": "Implement a correctness-safe Bloom filter lookup with Amazon ElastiCache for Valkey and Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/implement-a-correctness-safe-bloom-filter-lookup-with-amazon-elasticache-for-valkey-and-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "How Intuit and AWS systematically improved resiliency on ElastiCache using AWS Fault Injection Service",
-        "link": "https://aws.amazon.com/blogs/database/how-intuit-and-aws-systematically-improved-resiliency-on-elasticache-using-aws-fault-injection-service/"
     }
 ]

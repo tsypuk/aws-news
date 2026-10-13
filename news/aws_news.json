@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing AWS Lambda Web Functions",
+        "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
+    },
+    {
         "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
         "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
         "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/"
     }
 ]

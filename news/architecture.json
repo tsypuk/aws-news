@@ -1,5 +1,9 @@
 [
     {
+        "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
         "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
         "link": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/"
-    },
-    {
-        "title": "Gallup scales real-time coaching for thousands with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Halliburton Landmark enhanced seismic interpretation performance and data management using Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/how-halliburton-landmark-enhanced-seismic-interpretation-performance-and-data-management-using-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Adopt AWS Backup policies at enterprise scale using AWS Organizations",
         "link": "https://aws.amazon.com/blogs/storage/adopt-aws-backup-policies-at-enterprise-scale-using-aws-organizations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Detect stalled Amazon S3 live replication to prevent unexpected storage costs",
         "link": "https://aws.amazon.com/blogs/storage/detect-stalled-amazon-s3-live-replication-to-prevent-unexpected-storage-costs/"
-    },
-    {
-        "title": "Automate root cause analysis for AWS Backup failures with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/storage/automate-root-cause-analysis-for-aws-backup-failures-with-aws-devops-agent/"
     }
 ]

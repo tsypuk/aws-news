@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating incident resolution with a multi-agent self-healing SRE solution on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/automating-incident-resolution-with-a-multi-agent-self-healing-sre-solution-on-aws/"
+    },
+    {
         "title": "Your Guide to AWS for Telecom at re:Invent 2026",
         "link": "https://aws.amazon.com/blogs/industries/your-guide-to-aws-for-telecom-at-reinvent-2026/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "From cloud to clinic: How AWS powers digital psychiatry at scale",
         "link": "https://aws.amazon.com/blogs/industries/from-cloud-to-clinic-how-aws-powers-digital-psychiatry-at-scale/"
-    },
-    {
-        "title": "How AWS Payment Cryptography Raises the Cryptographic Security Bar",
-        "link": "https://aws.amazon.com/blogs/industries/how-aws-payment-cryptography-raises-the-cryptographic-security-bar/"
     }
 ]

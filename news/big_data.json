@@ -1,5 +1,13 @@
 [
     {
+        "title": "Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality",
+        "link": "https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/"
+    },
+    {
+        "title": "Build cross-account streaming pipelines with the Amazon Kinesis Producer Library and Kinesis Client Library",
+        "link": "https://aws.amazon.com/blogs/big-data/build-cross-account-streaming-pipelines-with-the-amazon-kinesis-producer-library-and-kinesis-client-library/"
+    },
+    {
         "title": "Monitoring MWAA-orchestrated ETL pipelines with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/monitoring-mwaa-orchestrated-etl-pipelines-with-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Discover and govern Snowflake data using SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/discover-and-govern-snowflake-data-using-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI \u2013 Part 1: IAM Identity Center (IDC)-based domains",
-        "link": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-1-iam-identity-center-idc-based-domains/"
-    },
-    {
-        "title": "Connect Amazon SageMaker Unified Studio to Microsoft Power BI \u2013 Part 2: IAM-based domains",
-        "link": "https://aws.amazon.com/blogs/big-data/connect-amazon-sagemaker-unified-studio-to-microsoft-power-bi-part-2-iam-based-domains/"
     }
 ]

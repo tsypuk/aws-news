@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running scalable hybrid quantum-classical workflows by integrating Amazon Braket with AWS Batch",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/running-scalable-hybrid-quantum-classical-workflows-by-integrating-amazon-braket-with-aws-batch/"
+    },
+    {
         "title": "Combating quantum noise with AWS: University of Washington Capstone Project",
         "link": "https://aws.amazon.com/blogs/quantum-computing/combating-quantum-noise-with-aws-university-of-washington-capstone-project/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Realizing the fermionic Laughlin state on a trapped-ion quantum processor",
         "link": "https://aws.amazon.com/blogs/quantum-computing/realizing-the-fermionic-laughlin-state-on-a-trapped-ion-quantum-processor/"
-    },
-    {
-        "title": "Amazon Braket launches Rigetti Cepheus\u2122-1-108Q superconducting device",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/amazon-braket-launches-rigetti-cepheus-1-108q-superconducting-device/"
     }
 ]
