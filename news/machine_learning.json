@@ -1,5 +1,29 @@
 [
     {
+        "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/"
+    },
+    {
+        "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+        "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/"
+    },
+    {
+        "title": "Natural language security queries at Orca Security using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/"
+    },
+    {
+        "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/"
+    },
+    {
+        "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
         "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/"
-    },
-    {
-        "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/"
-    },
-    {
-        "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
-        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/"
-    },
-    {
-        "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/"
-    },
-    {
-        "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/"
-    },
-    {
-        "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/"
-    },
-    {
-        "title": "Introducing GLM 5.3 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
     }
 ]

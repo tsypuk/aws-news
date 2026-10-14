@@ -1,5 +1,17 @@
 [
     {
+        "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
+        "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/"
+    },
+    {
+        "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/"
+    },
+    {
+        "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
+        "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/"
+    },
+    {
         "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
         "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/"
-    },
-    {
-        "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
-        "link": "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis/"
-    },
-    {
-        "title": "Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/hybrid-cloud-orchestration-modernizing-on-premises-infrastructure-management-with-aws/"
-    },
-    {
-        "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
-        "link": "https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/"
     }
 ]

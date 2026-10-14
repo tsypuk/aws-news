@@ -1,5 +1,9 @@
 [
     {
+        "title": "Why Amazon Connect Customer Migrations Stall And How to Fix Them",
+        "link": "https://aws.amazon.com/blogs/contact-center/why-amazon-connect-customer-migrations-stall-and-how-to-fix-them/"
+    },
+    {
         "title": "Zero-touch onboarding for Amazon Connect Customer with Identity Center",
         "link": "https://aws.amazon.com/blogs/contact-center/zero-touch-onboarding-for-amazon-connect-customer-with-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Best practices for measuring agent connection time in Amazon Connect Outbound Campaigns",
         "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-measuring-agent-connection-time-in-amazon-connect-outbound-campaigns/"
-    },
-    {
-        "title": "Evaluating Amazon Connect Customer AI Agents with DeepEval for MRM",
-        "link": "https://aws.amazon.com/blogs/contact-center/evaluating-amazon-connect-customer-ai-agents-with-deepeval-for-mrm/"
     }
 ]
