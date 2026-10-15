@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building Node.js applications with Sequelize ORM and Amazon Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/building-node-js-applications-with-sequelize-orm-and-amazon-aurora-dsql/"
+    },
+    {
+        "title": "Reducing storage initialization impact in Amazon RDS for PostgreSQL after snapshot restore",
+        "link": "https://aws.amazon.com/blogs/database/reducing-storage-initialization-impact-in-amazon-rds-for-postgresql-after-snapshot-restore/"
+    },
+    {
         "title": "Monitor Amazon Aurora DSQL costs with the Aurora DSQL console and CloudWatch alarms",
         "link": "https://aws.amazon.com/blogs/database/monitor-amazon-aurora-dsql-costs-with-the-aurora-dsql-console-and-cloudwatch-alarms/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Resolving PostgreSQL replication lag with heartbeat tables in change data capture scenarios",
         "link": "https://aws.amazon.com/blogs/database/resolving-postgresql-replication-lag-with-heartbeat-tables-in-change-data-capture-scenarios/"
-    },
-    {
-        "title": "Migrate Db2 z/OS to Amazon Aurora PostgreSQL using AWS DMS and gateway server",
-        "link": "https://aws.amazon.com/blogs/database/migrate-db2-z-os-to-amazon-aurora-postgresql-using-aws-dms-and-gateway-server/"
-    },
-    {
-        "title": "Resolving query plan regressions after a MySQL engine upgrade",
-        "link": "https://aws.amazon.com/blogs/database/resolving-query-plan-regressions-after-a-mysql-engine-upgrade/"
     }
 ]

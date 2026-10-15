@@ -1,5 +1,9 @@
 [
     {
+        "title": "Your serverless attendee\u2019s guide to AWS re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/compute/your-serverless-attendees-guide-to-aws-reinvent-2026/"
+    },
+    {
         "title": "Exploring AWS Lambda Web Functions for building web applications",
         "link": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Announcing 90-minute function timeout on AWS Lambda Managed Instances",
         "link": "https://aws.amazon.com/blogs/compute/announcing-90-minute-function-timeout-on-aws-lambda-managed-instances/"
-    },
-    {
-        "title": "Bring your own client certificate for backend mTLS in Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/compute/bring-your-own-client-certificate-for-backend-mtls-in-amazon-api-gateway/"
     }
 ]

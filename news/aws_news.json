@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+        "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/"
+    },
+    {
         "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/"
-    },
-    {
-        "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
-        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/"
     }
 ]

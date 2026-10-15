@@ -1,5 +1,21 @@
 [
     {
+        "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Generate presentations with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"
+    },
+    {
+        "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/"
+    },
+    {
         "title": "Building agents that transact with Anchor Browser and AgentCore payments",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Beyond hours saved: Building the business case for agentic automation",
         "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/"
-    },
-    {
-        "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/"
-    },
-    {
-        "title": "Automate remediation post AWS DevOps Agent investigation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/"
-    },
-    {
-        "title": "Building AI builders: Playbook for closing the AI knowledge-capability gap",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap/"
-    },
-    {
-        "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/"
     }
 ]

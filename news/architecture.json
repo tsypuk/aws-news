@@ -1,5 +1,13 @@
 [
     {
+        "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
+        "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/"
+    },
+    {
+        "title": "How UTS established a modern curriculum data services foundation on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/"
+    },
+    {
         "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
         "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
-        "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/"
-    },
-    {
-        "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
-        "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/"
     }
 ]

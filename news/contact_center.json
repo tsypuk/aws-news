@@ -28,10 +28,6 @@
         "link": "https://aws.amazon.com/blogs/contact-center/voice-activated-ai-agent-with-amazon-connect-customer-and-amazon-bedrock/"
     },
     {
-        "title": "Free Sandbox Environments for Amazon Connect Customer on AWS Builder Center",
-        "link": "https://aws.amazon.com/blogs/contact-center/free-sandbox-environments-for-amazon-connect-customer-on-aws-builder-center/"
-    },
-    {
         "title": "How AWS Professional Services delivers enterprise contact center transformation at scale",
         "link": "https://aws.amazon.com/blogs/contact-center/how-aws-professional-services-delivers-enterprise-contact-center-transformation-at-scale/"
     },
@@ -78,5 +74,9 @@
     {
         "title": "Best practices for measuring agent connection time in Amazon Connect Outbound Campaigns",
         "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-measuring-agent-connection-time-in-amazon-connect-outbound-campaigns/"
+    },
+    {
+        "title": "Evaluating Amazon Connect Customer AI Agents with DeepEval for MRM",
+        "link": "https://aws.amazon.com/blogs/contact-center/evaluating-amazon-connect-customer-ai-agents-with-deepeval-for-mrm/"
     }
 ]

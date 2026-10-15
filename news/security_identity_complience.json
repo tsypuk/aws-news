@@ -1,5 +1,9 @@
 [
     {
+        "title": "Penetration testing every deployment with AWS Continuum",
+        "link": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/"
+    },
+    {
         "title": "Part 2 \u2013 Cybersecurity journeys: What even is this job?",
         "link": "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Operationalizing least privilege: Automate IAM remediation through your CI/CD pipeline",
         "link": "https://aws.amazon.com/blogs/security/operationalizing-least-privilege-automate-iam-remediation-through-your-ci-cd-pipeline/"
-    },
-    {
-        "title": "AWS Security Reference Architecture: A deep dive into PCI DSS compliance",
-        "link": "https://aws.amazon.com/blogs/security/aws-security-reference-architecture-a-deep-dive-into-pci-dss-compliance/"
     }
 ]
