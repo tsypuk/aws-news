@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS IoT Device SDK MQTT 3.1.1 and V1 Service Clients Entering Maintenance Mode",
+        "link": "https://aws.amazon.com/blogs/developer/aws-iot-device-sdk-mqtt-3-1-1-and-v1-service-clients-entering-maintenance-mode/"
+    },
+    {
         "title": "Introducing SDK Client Warm-Up feature in the AWS SDK for Java 2.x",
         "link": "https://aws.amazon.com/blogs/developer/introducing-sdk-client-warm-up-feature-in-the-aws-sdk-for-java-2-x/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Tools for PowerShell V4 end-of- support announcement",
         "link": "https://aws.amazon.com/blogs/developer/aws-tools-for-powershell-v4-end-of-support-announcement/"
-    },
-    {
-        "title": "Introducing multipart download support for AWS Tools for PowerShell v5",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-tools-for-powershell-v5/"
     }
 ]

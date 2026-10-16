@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
+        "link": "https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide/"
+    },
+    {
         "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
         "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
         "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/"
-    },
-    {
-        "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/"
     }
 ]

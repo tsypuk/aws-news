@@ -1,5 +1,9 @@
 [
     {
+        "title": "Built with teachers, powered by AWS: How Sanoma Learning created Sanna, its AI teacher assistant",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-sanoma-learning-built-the-ai-teacher-assistant-sanna-guided-by-teachers-and-supported-by-aws/"
+    },
+    {
         "title": "Building responsible AI in EdTech: A learner protection framework",
         "link": "https://aws.amazon.com/blogs/publicsector/building-responsible-ai-in-edtech-a-learner-protection-framework/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Transforming tactical communications with AWS Wickr and agentic AI",
         "link": "https://aws.amazon.com/blogs/publicsector/transforming-tactical-communications-with-aws-wickr-and-agentic-ai/"
-    },
-    {
-        "title": "Reducing documentation drift with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/publicsector/reducing-documentation-drift-with-amazon-bedrock-agentcore/"
     }
 ]

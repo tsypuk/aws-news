@@ -1,5 +1,13 @@
 [
     {
+        "title": "Meta\u2019s Muse Spark Open now available in Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Trust in Depth: Giving agents more autonomy without losing control",
+        "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/"
+    },
+    {
         "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing Claude Haiku 5.5 on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
-    },
-    {
-        "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/"
-    },
-    {
-        "title": "Beyond hours saved: Building the business case for agentic automation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/"
     }
 ]

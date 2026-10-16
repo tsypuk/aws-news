@@ -1,5 +1,9 @@
 [
     {
+        "title": "Microsoft workloads on AWS: Your complete re:Invent 2026 guide",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/microsoft-workloads-on-aws-your-complete-reinvent-2026-guide/"
+    },
+    {
         "title": "Augment your Windows management tools with agentic AI using Kiro CLI",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/augment-your-windows-management-tools-with-agentic-ai-using-kiro-cli/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Integrate Amazon Connect with AWS Managed AD via IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-amazon-connect-with-aws-managed-ad-via-iam-identity-center/"
-    },
-    {
-        "title": "How a Customer Upgraded over 2,000 Microsoft Windows Server 2016 to 2025 on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-a-customer-upgraded-over-2000-windows-server-2016-to-2025-on-amazon-ec2/"
     }
 ]
