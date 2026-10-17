@@ -1,5 +1,13 @@
 [
     {
+        "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/"
+    },
+    {
         "title": "Meta\u2019s Muse Spark Open now available in Amazon SageMaker JumpStart",
         "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
         "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/"
-    },
-    {
-        "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Introducing Claude Haiku 5.5 on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automating secure container registry management for air-gapped AWS workloads",
+        "link": "https://aws.amazon.com/blogs/containers/automating-secure-container-registry-management-for-air-gapped-aws-workloads/"
+    },
+    {
         "title": "Migrating from NGINX Ingress to ALB: Handling oauth2-proxy",
         "link": "https://aws.amazon.com/blogs/containers/migrating-from-nginx-ingress-to-alb-handling-oauth2-proxy/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "The operations gap between deploying an application and running it forever",
         "link": "https://aws.amazon.com/blogs/containers/the-operations-gap-between-deploying-an-application-and-running-it-forever/"
-    },
-    {
-        "title": "Implement per-pod image pull permissions with ECR repository policies on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/implement-per-pod-image-pull-permissions-with-ecr-repository-policies-on-amazon-eks/"
     }
 ]

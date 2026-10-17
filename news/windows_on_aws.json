@@ -1,5 +1,9 @@
 [
     {
+        "title": "Active Directory deployment options for Microsoft Office on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/active-directory-deployment-options-for-microsoft-office-on-amazon-ec2/"
+    },
+    {
         "title": "Microsoft workloads on AWS: Your complete re:Invent 2026 guide",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/microsoft-workloads-on-aws-your-complete-reinvent-2026-guide/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Running mission-critical Microsoft SQL Server databases on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-mission-critical-microsoft-sql-server-databases-on-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Integrate Amazon Connect with AWS Managed AD via IAM Identity Center",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/integrate-amazon-connect-with-aws-managed-ad-via-iam-identity-center/"
     }
 ]
