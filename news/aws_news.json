@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/"
+    },
+    {
         "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
         "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
         "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/"
-    },
-    {
-        "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/"
     }
 ]

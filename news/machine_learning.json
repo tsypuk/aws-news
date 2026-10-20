@@ -1,5 +1,33 @@
 [
     {
+        "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Developers can now access SageMaker Studio through the new AWS experience",
+        "link": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/"
+    },
+    {
+        "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/"
+    },
+    {
+        "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/"
+    },
+    {
+        "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/"
+    },
+    {
+        "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/"
+    },
+    {
+        "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/"
+    },
+    {
         "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/"
-    },
-    {
-        "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
-    },
-    {
-        "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-        "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/"
-    },
-    {
-        "title": "ICYMI: What landed for AI builders in September 2026",
-        "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/"
-    },
-    {
-        "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"
-    },
-    {
-        "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/"
     }
 ]

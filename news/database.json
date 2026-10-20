@@ -1,5 +1,9 @@
 [
     {
+        "title": "Analyzing Aurora MySQL issues with Kiro IDE and Aurora MySQL MCP server",
+        "link": "https://aws.amazon.com/blogs/database/analyzing-aurora-mysql-issues-with-kiro-ide-and-aurora-mysql-mcp-server/"
+    },
+    {
         "title": "Building Node.js applications with Sequelize ORM and Amazon Aurora DSQL",
         "link": "https://aws.amazon.com/blogs/database/building-node-js-applications-with-sequelize-orm-and-amazon-aurora-dsql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS and AMD bring 5th generation AMD EPYC processors to Amazon Aurora and Amazon RDS",
         "link": "https://aws.amazon.com/blogs/database/aws-and-amd-bring-5th-generation-amd-epyc-processors-to-amazon-aurora-and-amazon-rds/"
-    },
-    {
-        "title": "Resolving PostgreSQL replication lag with heartbeat tables in change data capture scenarios",
-        "link": "https://aws.amazon.com/blogs/database/resolving-postgresql-replication-lag-with-heartbeat-tables-in-change-data-capture-scenarios/"
     }
 ]
