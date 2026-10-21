@@ -1,5 +1,9 @@
 [
     {
+        "title": "How U.S. Bank migrated 119 TB from Oracle Exadata to Amazon RDS for Oracle",
+        "link": "https://aws.amazon.com/blogs/database/how-u-s-bank-migrated-119-tb-from-oracle-exadata-to-amazon-rds-for-oracle/"
+    },
+    {
         "title": "Analyzing Aurora MySQL issues with Kiro IDE and Aurora MySQL MCP server",
         "link": "https://aws.amazon.com/blogs/database/analyzing-aurora-mysql-issues-with-kiro-ide-and-aurora-mysql-mcp-server/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Babelfish for Aurora PostgreSQL performance tuning",
         "link": "https://aws.amazon.com/blogs/database/babelfish-for-aurora-postgresql-performance-tuning/"
-    },
-    {
-        "title": "AWS and AMD bring 5th generation AMD EPYC processors to Amazon Aurora and Amazon RDS",
-        "link": "https://aws.amazon.com/blogs/database/aws-and-amd-bring-5th-generation-amd-epyc-processors-to-amazon-aurora-and-amazon-rds/"
     }
 ]

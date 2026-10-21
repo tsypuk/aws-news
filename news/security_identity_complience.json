@@ -1,5 +1,9 @@
 [
     {
+        "title": "Managing identity source transition for AWS IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
+    },
+    {
         "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
         "link": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
         "link": "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring/"
-    },
-    {
-        "title": "Architecting resilient authentication with Amazon Cognito multi-Region replication",
-        "link": "https://aws.amazon.com/blogs/security/architecting-resilient-authentication-with-amazon-cognito-multi-region-replication/"
     }
 ]

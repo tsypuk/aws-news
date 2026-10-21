@@ -1,5 +1,53 @@
 [
     {
+        "title": "Beyond the KV cache: Training and serving i14\u2019s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/"
+    },
+    {
+        "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/"
+    },
+    {
+        "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/"
+    },
+    {
+        "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/"
+    },
+    {
+        "title": "Discover tools at runtime with AWS Agent Registry",
+        "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/"
+    },
+    {
+        "title": "Securing AI agent identity with X.509 PKI on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/"
+    },
+    {
+        "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/"
     },
@@ -30,53 +78,5 @@
     {
         "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/"
-    },
-    {
-        "title": "Meta\u2019s Muse Spark Open now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Trust in Depth: Giving agents more autonomy without losing control",
-        "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/"
-    },
-    {
-        "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Generate presentations with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"
-    },
-    {
-        "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Building agents that transact with Anchor Browser and AgentCore payments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/"
-    },
-    {
-        "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/"
-    },
-    {
-        "title": "Natural language security queries at Orca Security using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/"
-    },
-    {
-        "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to automate your Microsoft Windows Server upgrades using AWS Systems Manager \u2013 Update",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-your-microsoft-windows-server-upgrades-using-aws-systems-manager-update/"
+    },
+    {
+        "title": "Building an Enterprise RAG System with SharePoint Online and Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/building-an-enterprise-rag-system-with-sharepoint-online-and-amazon-quick/"
+    },
+    {
         "title": "Active Directory deployment options for Microsoft Office on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/active-directory-deployment-options-for-microsoft-office-on-amazon-ec2/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Migrate Azure SQL Managed Instance to Amazon RDS for SQL Server with BYOM",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrate-azure-sql-managed-instance-to-amazon-rds-for-sql-server-with-byom/"
-    },
-    {
-        "title": "Add Microsoft Office to an existing image using EC2 Image Builder",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/add-microsoft-office-to-an-existing-image-using-ec2-image-builder/"
-    },
-    {
-        "title": "Running mission-critical Microsoft SQL Server databases on Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/running-mission-critical-microsoft-sql-server-databases-on-amazon-fsx-for-netapp-ontap/"
     }
 ]
