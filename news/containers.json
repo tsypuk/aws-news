@@ -1,5 +1,9 @@
 [
     {
+        "title": "Observability patterns for AI agents on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/observability-patterns-for-ai-agents-on-amazon-eks/"
+    },
+    {
         "title": "Automating secure container registry management for air-gapped AWS workloads",
         "link": "https://aws.amazon.com/blogs/containers/automating-secure-container-registry-management-for-air-gapped-aws-workloads/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Building a single-pane NOC dashboard for Amazon EKS with Amazon CloudWatch",
         "link": "https://aws.amazon.com/blogs/containers/building-a-single-pane-noc-dashboard-for-amazon-eks-with-amazon-cloudwatch/"
-    },
-    {
-        "title": "The operations gap between deploying an application and running it forever",
-        "link": "https://aws.amazon.com/blogs/containers/the-operations-gap-between-deploying-an-application-and-running-it-forever/"
     }
 ]

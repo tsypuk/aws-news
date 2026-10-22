@@ -1,5 +1,13 @@
 [
     {
+        "title": "How to build international two-way SMS with Amazon Connect Customer, Part 1",
+        "link": "https://aws.amazon.com/blogs/contact-center/how-to-build-international-two-way-sms-with-amazon-connect-customer-part-1/"
+    },
+    {
+        "title": "Routing Screen Real Estate:  Your Agent Workspace Is the Next Routing Decision",
+        "link": "https://aws.amazon.com/blogs/contact-center/routing-screen-real-estate-your-agent-workspace-is-the-next-routing-decision/"
+    },
+    {
         "title": "Multi-KB Retrieval with Amazon Connect Customer AI Agents for Global Contact Centers",
         "link": "https://aws.amazon.com/blogs/contact-center/multi-kb-retrieval-with-amazon-connect-customer-ai-agents-for-global-contact-centers/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Connect Flows Now Support Nested Modules and Cross-Flow Compatibility",
         "link": "https://aws.amazon.com/blogs/contact-center/connect-flows-now-support-nested-modules-and-cross-flow-compatibility/"
-    },
-    {
-        "title": "Amazon Connect Service Quota Monitor",
-        "link": "https://aws.amazon.com/blogs/contact-center/amazon-connect-service-quota-monitor/"
-    },
-    {
-        "title": "Crystal Clear in Chaos: Your Contact Center Didn\u2019t Lose Its Walls. It Lost Its Acoustics.",
-        "link": "https://aws.amazon.com/blogs/contact-center/crystal-clear-in-chaos-your-contact-center-didnt-lose-its-walls-it-lost-its-acoustics/"
     }
 ]

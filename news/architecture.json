@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
         "link": "https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building cloud-native PACS on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/"
-    },
-    {
-        "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
-        "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/"
     }
 ]

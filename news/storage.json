@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Proscia built unlimited observability with Amazon S3 and the Altinity Kubernetes Operator",
+        "link": "https://aws.amazon.com/blogs/storage/how-proscia-built-unlimited-observability-with-amazon-s3-and-the-altinity-kubernetes-operator/"
+    },
+    {
+        "title": "Updating encryption on existing Amazon S3 objects with S3 Batch Operations",
+        "link": "https://aws.amazon.com/blogs/storage/updating-encryption-on-existing-amazon-s3-objects-with-s3-batch-operations/"
+    },
+    {
+        "title": "Preserve FlexClone space efficiency when migrating to Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/preserve-flexclone-space-efficiency-when-migrating-to-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "How Halliburton Landmark improves seismic interpretation performance and data management using Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/how-halliburton-landmark-enhanced-seismic-interpretation-performance-and-data-management-using-amazon-fsx-for-netapp-ontap/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Tubular Labs reclaimed 50% of engineering capacity by rebuilding their 70TB pipeline on Apache Iceberg and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/how-tubular-labs-reclaimed-50-of-engineering-capacity-by-rebuilding-their-70tb-pipeline-on-apache-iceberg-and-amazon-s3-tables/"
-    },
-    {
-        "title": "Migrate VMware Storage to Amazon FSx for NetApp ONTAP using AWS Transform",
-        "link": "https://aws.amazon.com/blogs/storage/migrate-vmware-storage-to-amazon-fsx-for-netapp-ontap-using-aws-transform/"
-    },
-    {
-        "title": "Run Spark 31% faster and optimize compute costs with Amazon S3 Express One Zone on Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/storage/run-spark-31-faster-and-optimize-compute-costs-with-amazon-s3-express-one-zone-on-amazon-emr/"
-    },
-    {
-        "title": "Detect stalled Amazon S3 live replication to prevent unexpected storage costs",
-        "link": "https://aws.amazon.com/blogs/storage/detect-stalled-amazon-s3-live-replication-to-prevent-unexpected-storage-costs/"
     }
 ]

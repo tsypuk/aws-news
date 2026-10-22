@@ -1,5 +1,25 @@
 [
     {
+        "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+        "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/"
+    },
+    {
+        "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+        "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/"
+    },
+    {
+        "title": "Adaptive agentic intelligence framework using Strands Agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/"
+    },
+    {
+        "title": "Train Qwen3 on AWS Trainium with torchtitan",
+        "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/"
+    },
+    {
+        "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/"
+    },
+    {
         "title": "Beyond the KV cache: Training and serving i14\u2019s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
         "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/"
-    },
-    {
-        "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/"
-    },
-    {
-        "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/"
-    },
-    {
-        "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/"
-    },
-    {
-        "title": "Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
-        "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/"
-    },
-    {
-        "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Set data driven reliability targets with Amazon CloudWatch SLO Recommendations",
+        "link": "https://aws.amazon.com/blogs/mt/set-data-driven-reliability-targets-with-amazon-cloudwatch-slo-recommendations/"
+    },
+    {
         "title": "AI-powered anomaly detection for AWS Systems Manager Session Manager logs using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mt/ai-powered-anomaly-detection-for-aws-systems-manager-session-manager-logs-using-amazon-bedrock/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use CloudWatch syslog and Log Alarms to give AWS DevOps Agent on-premises visibility",
         "link": "https://aws.amazon.com/blogs/mt/use-cloudwatch-syslog-and-log-alarms-to-give-aws-devops-agent-on-premises-visibility/"
-    },
-    {
-        "title": "Getting per-resource alarm notifications with Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/mt/getting-per-resource-alarm-notifications-with-amazon-cloudwatch/"
     }
 ]

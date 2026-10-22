@@ -1,5 +1,17 @@
 [
     {
+        "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+        "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/"
+    },
+    {
+        "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+        "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+    },
+    {
+        "title": "Best practices for integrating IAM Roles Anywhere with your PKI",
+        "link": "https://aws.amazon.com/blogs/security/best-practices-for-integrating-iam-roles-anywhere-with-your-pki/"
+    },
+    {
         "title": "Managing identity source transition for AWS IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
         "link": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/"
-    },
-    {
-        "title": "Run open weight models on Amazon Bedrock in AWS European Sovereign Cloud",
-        "link": "https://aws.amazon.com/blogs/security/run-open-weight-models-on-aws-bedrock-in-aws-european-sovereign-cloud/"
-    },
-    {
-        "title": "Architecting a secure landing zone in the AWS European Sovereign Cloud",
-        "link": "https://aws.amazon.com/blogs/security/architecting-a-secure-landing-zone-in-the-aws-european-sovereign-cloud/"
-    },
-    {
-        "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
-        "link": "https://aws.amazon.com/blogs/security/aws-sts-simplifies-session-token-size-limits-and-adds-session-token-size-monitoring/"
     }
 ]

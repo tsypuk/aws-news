@@ -1,5 +1,9 @@
 [
     {
+        "title": "Centralized dashboard for monitoring SES identities",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/centralized-dashboard-for-monitoring-ses-identities/"
+    },
+    {
         "title": "Isolate email reputation in Amazon SES Mail Manager with tenant management",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/isolate-email-reputation-in-amazon-ses-mail-manager-with-tenant-management/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with Amazon SES Agent Skills for AI-assisted email development",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/getting-started-with-amazon-ses-agent-skills-for-ai-assisted-email-development/"
-    },
-    {
-        "title": "Using Amazon Mail Manager SMTP to send email via Amazon Simple Email Service",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/using-amazon-mail-manager-smtp-to-send-email-using-amazon-simple-email-service/"
     }
 ]
