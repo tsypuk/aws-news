@@ -1,5 +1,9 @@
 [
     {
+        "title": "Controlled self-healing Amazon EKS Clusters with AWS DevOps Agent and A2A remote agents",
+        "link": "https://aws.amazon.com/blogs/mt/controlled-self-healing-amazon-eks-clusters-with-aws-devops-agent-and-a2a-remote-agents/"
+    },
+    {
         "title": "Set data driven reliability targets with Amazon CloudWatch SLO Recommendations",
         "link": "https://aws.amazon.com/blogs/mt/set-data-driven-reliability-targets-with-amazon-cloudwatch-slo-recommendations/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A Practical Guide to Amazon CloudWatch Logs Cost Optimization",
         "link": "https://aws.amazon.com/blogs/mt/a-practical-guide-to-amazon-cloudwatch-logs-cost-optimization/"
-    },
-    {
-        "title": "Use CloudWatch syslog and Log Alarms to give AWS DevOps Agent on-premises visibility",
-        "link": "https://aws.amazon.com/blogs/mt/use-cloudwatch-syslog-and-log-alarms-to-give-aws-devops-agent-on-premises-visibility/"
     }
 ]

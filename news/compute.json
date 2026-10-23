@@ -1,5 +1,9 @@
 [
     {
+        "title": "OS patching and upgrades with Amazon EC2 root volume replacement",
+        "link": "https://aws.amazon.com/blogs/compute/os-patching-and-upgrades-with-amazon-ec2-root-volume-replacement/"
+    },
+    {
         "title": "Building an AEO scoring pipeline with AWS Lambda durable functions",
         "link": "https://aws.amazon.com/blogs/compute/building-an-aeo-scoring-pipeline-with-aws-lambda-durable-functions/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Customize Amazon API Gateway destinations for execution logs",
         "link": "https://aws.amazon.com/blogs/compute/customize-amazon-api-gateway-destinations-for-execution-logs/"
-    },
-    {
-        "title": "Architecting SASE solutions using AWS Local Zones",
-        "link": "https://aws.amazon.com/blogs/compute/architecting-sase-solutions-using-aws-local-zones/"
     }
 ]

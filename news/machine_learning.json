@@ -1,5 +1,37 @@
 [
     {
+        "title": "Amazon Polly delivers a major upgrade to its Generative engine",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/"
+    },
+    {
+        "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/"
+    },
+    {
+        "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/"
+    },
+    {
+        "title": "Write your own training loop \u2014 without managing GPUs \u2014 with Amazon SageMaker training session APIs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/"
+    },
+    {
+        "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/"
+    },
+    {
+        "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/"
+    },
+    {
         "title": "Securing Quick access from corporate networks with AWS PrivateLink",
         "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/"
     },
@@ -24,8 +56,8 @@
         "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/"
     },
     {
-        "title": "Work management context for AI agents with Smartsheet MCP on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/"
+        "title": "Workflow context for AI agents with Smartsheet MCP on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws/"
     },
     {
         "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
@@ -46,37 +78,5 @@
     {
         "title": "Discover tools at runtime with AWS Agent Registry",
         "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/"
-    },
-    {
-        "title": "Securing AI agent identity with X.509 PKI on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/"
-    },
-    {
-        "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/"
-    },
-    {
-        "title": "Developers can now access SageMaker Studio through the new AWS experience",
-        "link": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/"
-    },
-    {
-        "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/"
     }
 ]

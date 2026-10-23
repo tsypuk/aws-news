@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Continuum for code vulnerabilities is now generally available",
+        "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/"
+    },
+    {
         "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Elastic Beanstalk introduces Cluster Mode",
         "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/"
-    },
-    {
-        "title": "AWS reimagines the getting started experience",
-        "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/"
     }
 ]
