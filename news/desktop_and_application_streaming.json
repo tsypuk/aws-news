@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deploy Amazon WorkSpaces across Regions with Entra ID and IAM Identity Center",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/deploy-amazon-workspaces-across-regions-with-entra-id-and-iam-identity-center/"
+    },
+    {
         "title": "Cross-Region Amazon WorkSpaces Migration at Scale \u2013 How Wolters Kluwer Migrated 3,000 Desktops Without Disruption",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/cross-region-amazon-workspaces-migration-at-scale-how-wolters-kluwer-migrated-3000-desktops-without-disruption/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Microsoft Teams Optimization for Amazon WorkSpaces Now Generally Available",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/microsoft-teams-optimization-for-amazon-workspaces-now-generally-available/"
-    },
-    {
-        "title": "How ZS built Self-serve analytics at scale with Amazon WorkSpaces Applications",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/how-zs-built-self-serve-analytics-at-scale-with-amazon-workspaces-applications/"
     }
 ]

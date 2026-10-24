@@ -1,5 +1,9 @@
 [
     {
+        "title": "The Self-Improving Supply Chain: What We\u2019re Learning From Amazon Connect Decisions and AI Agents in Production",
+        "link": "https://aws.amazon.com/blogs/contact-center/the-self-improving-supply-chain-what-were-learning-from-amazon-connect-decisions-and-ai-agents-in-production/"
+    },
+    {
         "title": "How Booking.com manages Amazon Connect Customer flows as code at scale",
         "link": "https://aws.amazon.com/blogs/contact-center/how-booking-com-manages-amazon-connect-customer-flows-as-code-at-scale/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to authenticate customers during chat with Amazon Connect Customer",
         "link": "https://aws.amazon.com/blogs/contact-center/how-to-authenticate-customers-during-chat-with-amazon-connect-customer/"
-    },
-    {
-        "title": "Connect Flows Now Support Nested Modules and Cross-Flow Compatibility",
-        "link": "https://aws.amazon.com/blogs/contact-center/connect-flows-now-support-nested-modules-and-cross-flow-compatibility/"
     }
 ]

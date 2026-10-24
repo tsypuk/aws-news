@@ -1,5 +1,13 @@
 [
     {
+        "title": "Build RAG-ready indexes from Amazon S3 with Amazon OpenSearch intelligent ingestion",
+        "link": "https://aws.amazon.com/blogs/big-data/build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion/"
+    },
+    {
+        "title": "Enable cross-Region fine-grained data access with AWS Lake Formation and Trusted Identity Propagation",
+        "link": "https://aws.amazon.com/blogs/big-data/enable-cross-region-fine-grained-data-access-with-aws-lake-formation-and-trusted-identity-propagation/"
+    },
+    {
         "title": "Trace security threats in multi-agent pipelines with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/trace-security-threats-in-multi-agent-pipelines-with-amazon-opensearch-service/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Configure domain-level VPC networking in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/configure-domain-level-vpc-networking-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Announcing Spark Connect on Amazon EMR on EC2: Interactive PySpark anywhere",
-        "link": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-ec2-interactive-pyspark-anywhere/"
-    },
-    {
-        "title": "Query unstructured data in Amazon SageMaker Catalog using generative AI",
-        "link": "https://aws.amazon.com/blogs/big-data/query-unstructured-data-in-amazon-sagemaker-catalog-using-generative-ai/"
     }
 ]

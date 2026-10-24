@@ -1,5 +1,9 @@
 [
     {
+        "title": "Customize your SQL Server to Aurora PostgreSQL conversion with AWS Transform",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/customize-your-sql-server-to-aurora-postgresql-conversion-with-aws-transform/"
+    },
+    {
         "title": "How to automate your Microsoft Windows Server upgrades using AWS Systems Manager \u2013 Update",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-to-automate-your-microsoft-windows-server-upgrades-using-aws-systems-manager-update/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Zero-downtime multi-tenant IIS deployments on AWS Elastic Beanstalk",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/zero-downtime-multi-tenant-iis-deployments-on-aws-elastic-beanstalk/"
-    },
-    {
-        "title": "Migrate Azure SQL Managed Instance to Amazon RDS for SQL Server with BYOM",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrate-azure-sql-managed-instance-to-amazon-rds-for-sql-server-with-byom/"
     }
 ]

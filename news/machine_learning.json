@@ -1,5 +1,21 @@
 [
     {
+        "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+        "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/"
+    },
+    {
+        "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/"
+    },
+    {
+        "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+        "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/"
+    },
+    {
+        "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/"
+    },
+    {
         "title": "Amazon Polly delivers a major upgrade to its Generative engine",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/"
-    },
-    {
-        "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/"
-    },
-    {
-        "title": "Discover tools at runtime with AWS Agent Registry",
-        "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/"
     }
 ]
