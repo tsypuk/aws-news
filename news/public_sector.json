@@ -1,5 +1,17 @@
 [
     {
+        "title": "AI-enabled genomic pattern discovery in Epstein-Barr virus on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/publicsector/ai-enabled-genomic-pattern-discovery-in-epstein-barr-virus-on-amazon-ec2/"
+    },
+    {
+        "title": "Practical digital sovereignty: Building a sovereign landing zone on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/practical-digital-sovereignty-building-a-sovereign-landing-zone-on-aws/"
+    },
+    {
+        "title": "AI as force multiplier: Practical AI governance for HCLS security teams",
+        "link": "https://aws.amazon.com/blogs/publicsector/ai-as-force-multiplier-practical-ai-governance-for-hcls-security-teams/"
+    },
+    {
         "title": "Transforming public sector AI adoption through IT-CNP\u2019s Fusion Lab and AWS technologies",
         "link": "https://aws.amazon.com/blogs/publicsector/transforming-public-sector-ai-adoption-through-it-cnps-fusion-lab-and-aws-technologies/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How UMiami and Quantiphi optimized radiology coding with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/how-umiami-and-quantiphi-optimized-radiology-coding-with-amazon-bedrock/"
-    },
-    {
-        "title": "Implement automated STIG compliance and SCAP scanning for Amazon WorkSpaces applications",
-        "link": "https://aws.amazon.com/blogs/publicsector/implement-automated-stig-compliance-and-scap-scanning-for-amazon-workspaces-applications/"
-    },
-    {
-        "title": "Controlling delegation in agentic AI with Amazon Bedrock Agent Core",
-        "link": "https://aws.amazon.com/blogs/publicsector/controlling-delegation-in-agentic-ai-with-amazon-bedrock-agent-core/"
-    },
-    {
-        "title": "How Pariveda built real-time clinical voice notes for Henry Schein One using Amazon Nova and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-pariveda-built-real-time-clinical-voice-notes-for-henry-schein-one-using-amazon-nova-and-amazon-bedrock-agentcore/"
     }
 ]
