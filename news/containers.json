@@ -1,5 +1,9 @@
 [
     {
+        "title": "Measuring developer experience on an Amazon EKS developer platform",
+        "link": "https://aws.amazon.com/blogs/containers/measuring-developer-experience-on-an-amazon-eks-developer-platform/"
+    },
+    {
         "title": "Observability patterns for AI agents on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/observability-patterns-for-ai-agents-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "One Amazon EKS, many edges: How to choose your edge container strategy on AWS",
         "link": "https://aws.amazon.com/blogs/containers/one-amazon-eks-many-edges-how-to-choose-your-edge-container-strategy-on-aws/"
-    },
-    {
-        "title": "Building a single-pane NOC dashboard for Amazon EKS with Amazon CloudWatch",
-        "link": "https://aws.amazon.com/blogs/containers/building-a-single-pane-noc-dashboard-for-amazon-eks-with-amazon-cloudwatch/"
     }
 ]

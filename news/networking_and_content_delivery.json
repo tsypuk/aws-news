@@ -1,5 +1,9 @@
 [
     {
+        "title": "Your AWS Networking and Content Delivery guide to re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/your-aws-networking-and-content-delivery-guide-to-reinvent-2026/"
+    },
+    {
         "title": "Use private domain-name targets with Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-private-domain-name-targets-with-amazon-vpc-lattice/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Zero-trust networking for agentic AI with Amazon VPC Lattice",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/zero-trust-networking-for-agentic-ai-with-amazon-vpc-lattice/"
-    },
-    {
-        "title": "Introducing the next-generation AWS VPN Client with CLI support and admin controls",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-the-next-generation-aws-vpn-client-with-cli-support-and-admin-controls/"
     }
 ]

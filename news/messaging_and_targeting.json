@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrate production SMS traffic to a short code with AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/migrate-production-sms-traffic-to-a-short-code-with-aws-end-user-messaging/"
+    },
+    {
         "title": "Centralized dashboard for monitoring SES identities",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/centralized-dashboard-for-monitoring-ses-identities/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Send WhatsApp Business messages with AWS End User Messaging Social",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/send-whatsapp-business-messages-with-aws-end-user-messaging-social/"
-    },
-    {
-        "title": "Getting started with Amazon SES Agent Skills for AI-assisted email development",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/getting-started-with-amazon-ses-agent-skills-for-ai-assisted-email-development/"
     }
 ]

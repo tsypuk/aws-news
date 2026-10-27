@@ -1,5 +1,13 @@
 [
     {
+        "title": "Data governance with annotations in Amazon S3",
+        "link": "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/"
+    },
+    {
+        "title": "Recommended resilience testing in the next generation of AWS Resilience Hub",
+        "link": "https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub/"
+    },
+    {
         "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/"
-    },
-    {
-        "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/"
-    },
-    {
-        "title": "Building cloud-native PACS on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/"
     }
 ]

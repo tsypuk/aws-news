@@ -1,5 +1,13 @@
 [
     {
+        "title": "Operating in the agentic era: AIOps sessions at re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/mt/operating-in-the-agentic-era-aiops-sessions-at-reinvent-2026/"
+    },
+    {
+        "title": "Embracing Observability for the AI era at re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/mt/embracing-observability-for-the-ai-era-at-reinvent-2026/"
+    },
+    {
         "title": "Controlled self-healing Amazon EKS Clusters with AWS DevOps Agent and A2A remote agents",
         "link": "https://aws.amazon.com/blogs/mt/controlled-self-healing-amazon-eks-clusters-with-aws-devops-agent-and-a2a-remote-agents/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "This Month in AWS Observability: July 2026",
         "link": "https://aws.amazon.com/blogs/mt/this-month-in-aws-observability-july-2026/"
-    },
-    {
-        "title": "Multi-Cloud Observability with Amazon CloudWatch Using Bearer Token Auth and OpenTelemetry",
-        "link": "https://aws.amazon.com/blogs/mt/achieve-multi-cloud-observability-with-amazon-cloudwatch-using-bearer-token-auth-and-opentelemetry/"
-    },
-    {
-        "title": "A Practical Guide to Amazon CloudWatch Logs Cost Optimization",
-        "link": "https://aws.amazon.com/blogs/mt/a-practical-guide-to-amazon-cloudwatch-logs-cost-optimization/"
     }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/"
+    },
+    {
+        "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/"
+    },
+    {
         "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
         "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/"
-    },
-    {
-        "title": "Beyond the KV cache: Training and serving i14\u2019s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-        "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/"
-    },
-    {
-        "title": "Workflow context for AI agents with Smartsheet MCP on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws/"
-    },
-    {
-        "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/"
     }
 ]

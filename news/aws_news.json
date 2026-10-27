@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/"
+    },
+    {
         "title": "AWS Continuum for code vulnerabilities is now generally available",
         "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
         "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/"
-    },
-    {
-        "title": "AWS Elastic Beanstalk introduces Cluster Mode",
-        "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/"
     }
 ]
