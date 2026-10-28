@@ -1,5 +1,9 @@
 [
     {
+        "title": "Building document-investigation agents with Amazon Bedrock AgentCore and Amazon S3 Files",
+        "link": "https://aws.amazon.com/blogs/compute/building-document-investigation-agents-with-amazon-bedrock-agentcore-and-amazon-s3-files/"
+    },
+    {
         "title": "OS patching and upgrades with Amazon EC2 root volume replacement",
         "link": "https://aws.amazon.com/blogs/compute/os-patching-and-upgrades-with-amazon-ec2-root-volume-replacement/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Validating multi-agent decisions with Step Functions and Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/compute/validating-multi-agent-decisions-with-step-functions-and-bedrock-agentcore/"
-    },
-    {
-        "title": "Customize Amazon API Gateway destinations for execution logs",
-        "link": "https://aws.amazon.com/blogs/compute/customize-amazon-api-gateway-destinations-for-execution-logs/"
     }
 ]

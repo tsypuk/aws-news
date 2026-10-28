@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/"
+    },
+    {
+        "title": "AWS becomes first CSP to complete the Cloud High profile assessment with 172 services and features in scope",
+        "link": "https://aws.amazon.com/blogs/security/aws-becomes-first-csp-to-complete-the-cloud-high-profile-assessment-with-172-services-and-features-in-scope/"
+    },
+    {
+        "title": "Part 3 \u2013 Cybersecurity journeys: The work behind the work",
+        "link": "https://aws.amazon.com/blogs/security/part-3-cybersecurity-journeys-the-work-behind-the-work/"
+    },
+    {
         "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
         "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "AWS European Sovereign Cloud: Demonstrating an independent operation",
         "link": "https://aws.amazon.com/blogs/security/aws-european-sovereign-cloud-demonstrating-an-independent-operation/"
-    },
-    {
-        "title": "ICYMI: August 2026 @AWS Security",
-        "link": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security/"
-    },
-    {
-        "title": "Supporting ASD\u2019s multi-factor authentication campaign: Why MFA matters more than ever",
-        "link": "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever/"
-    },
-    {
-        "title": "Transforming Bedrock Guardrails events into OCSF with CloudWatch",
-        "link": "https://aws.amazon.com/blogs/security/transforming-bedrock-guardrails-events-into-ocsf-with-cloudwatch/"
     }
 ]

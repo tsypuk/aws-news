@@ -1,5 +1,21 @@
 [
     {
+        "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/"
+    },
+    {
+        "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/"
+    },
+    {
+        "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+        "link": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/"
+    },
+    {
         "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
         "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Securing Quick access from corporate networks with AWS PrivateLink",
         "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/"
-    },
-    {
-        "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
-        "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/"
-    },
-    {
-        "title": "Adaptive agentic intelligence framework using Strands Agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/"
-    },
-    {
-        "title": "Train Qwen3 on AWS Trainium with torchtitan",
-        "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/"
-    },
-    {
-        "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/"
     }
 ]

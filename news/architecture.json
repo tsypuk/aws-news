@@ -1,5 +1,17 @@
 [
     {
+        "title": "Publishing LMS courses with a Kiro SCORM pipeline",
+        "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/"
+    },
+    {
+        "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/"
+    },
+    {
+        "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
+        "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/"
+    },
+    {
         "title": "Data governance with annotations in Amazon S3",
         "link": "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/"
-    },
-    {
-        "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/"
-    },
-    {
-        "title": "ReadyOn\u2019s Four Walls of tenant isolation on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks/"
-    },
-    {
-        "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/"
     }
 ]

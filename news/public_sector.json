@@ -1,5 +1,17 @@
 [
     {
+        "title": "Verify software supply chain security using AWS Nitro cryptographic verification",
+        "link": "https://aws.amazon.com/blogs/publicsector/verify-software-supply-chain-security-using-aws-nitro-cryptographic-verification/"
+    },
+    {
+        "title": "Building a RAG architecture on Amazon Bedrock to support CJIS compliance",
+        "link": "https://aws.amazon.com/blogs/publicsector/building-a-rag-architecture-on-amazon-bedrock-to-support-cjis-compliance/"
+    },
+    {
+        "title": "A practical guide to connecting rural and remote sites to AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/a-practical-guide-to-connecting-rural-and-remote-sites-to-aws/"
+    },
+    {
         "title": "AI-enabled genomic pattern discovery in Epstein-Barr virus on Amazon EC2",
         "link": "https://aws.amazon.com/blogs/publicsector/ai-enabled-genomic-pattern-discovery-in-epstein-barr-virus-on-amazon-ec2/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Automate cross-partition AWS GovCloud (US) account bootstrapping",
         "link": "https://aws.amazon.com/blogs/publicsector/automate-cross-partition-aws-govcloud-us-account-bootstrapping/"
-    },
-    {
-        "title": "Why executive sponsorship is a top driver of AWS transformation success",
-        "link": "https://aws.amazon.com/blogs/publicsector/why-executive-sponsorship-is-a-top-driver-of-aws-transformation-success/"
-    },
-    {
-        "title": "TESSERA global Earth observation embeddings now available on AWS Open Data",
-        "link": "https://aws.amazon.com/blogs/publicsector/tessera-global-earth-observation-embeddings-now-available-on-aws-open-data/"
-    },
-    {
-        "title": "How UMiami and Quantiphi optimized radiology coding with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-umiami-and-quantiphi-optimized-radiology-coding-with-amazon-bedrock/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "How to prepare for the proposed HIPAA Security Rule update with AWS Backup and the HIPAA Assistant",
+        "link": "https://aws.amazon.com/blogs/industries/how-to-prepare-for-the-proposed-hipaa-security-rule-update-with-aws-backup-and-the-hipaa-assistant/"
+    },
+    {
         "title": "AI-enabled ECU validation on AWS using Corellium Atlas virtual ECUs",
         "link": "https://aws.amazon.com/blogs/industries/ai-enabled-ecu-validation-on-aws-using-corellium-atlas-virtual-ecus/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Agentic AI on Connect Health: An end-to-end telehealth visit",
         "link": "https://aws.amazon.com/blogs/industries/agentic-ai-on-connect-health-an-end-to-end-telehealth-visit/"
-    },
-    {
-        "title": "How WellRithms achieved 30 times faster bill processing with AWS",
-        "link": "https://aws.amazon.com/blogs/industries/how-wellrithms-achieved-30-times-faster-bill-processing-with-aws/"
     }
 ]
