@@ -1,281 +1,281 @@
 [
     {
         "name": "architecture",
-        "size": 4839,
-        "timestamp": 1793163219.323844,
-        "utc": "2026-10-28T04:53:39.323844+00:00",
-        "hash": "ef82c82ce922832d5f4e3f881e77d65622e4d2eb29f4a760419c10545181e4f0",
+        "size": 4857,
+        "timestamp": 1793250254.363995,
+        "utc": "2026-10-29T05:04:14.363995+00:00",
+        "hash": "710661535291674516d54bda5556fac12f0d7d4e52c4cb28dadb6bbc00ff53ef",
         "path": "https://tsypuk.github.io/aws-news/news/architecture.json"
     },
     {
         "name": "aws_cost_management",
         "size": 2,
-        "timestamp": 1793163219.371738,
-        "utc": "2026-10-28T04:53:39.371738+00:00",
+        "timestamp": 1793250254.406316,
+        "utc": "2026-10-29T05:04:14.406316+00:00",
         "hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
         "path": "https://tsypuk.github.io/aws-news/news/aws_cost_management.json"
     },
     {
         "name": "aws_partner_network",
         "size": 4454,
-        "timestamp": 1793163219.6531723,
-        "utc": "2026-10-28T04:53:39.653172+00:00",
+        "timestamp": 1793250254.6927273,
+        "utc": "2026-10-29T05:04:14.692727+00:00",
         "hash": "9864e1a461c9213e8778894dbbeab70fb76c107c26c1a8ac95c92956901cdc7b",
         "path": "https://tsypuk.github.io/aws-news/news/aws_partner_network.json"
     },
     {
         "name": "aws_marketplace",
         "size": 4839,
-        "timestamp": 1793163219.9056609,
-        "utc": "2026-10-28T04:53:39.905661+00:00",
+        "timestamp": 1793250254.9284005,
+        "utc": "2026-10-29T05:04:14.928401+00:00",
         "hash": "3a1d2e1ebe30bc0f82106ed3e1a4287d9bc8af8a25c504bfcd54a37347c59b99",
         "path": "https://tsypuk.github.io/aws-news/news/aws_marketplace.json"
     },
     {
         "name": "aws_news",
         "size": 5350,
-        "timestamp": 1793163220.0618665,
-        "utc": "2026-10-28T04:53:40.061867+00:00",
+        "timestamp": 1793250255.0866976,
+        "utc": "2026-10-29T05:04:15.086698+00:00",
         "hash": "01f624f869eccf5b877b15fe70848967ae76e0f21f3599e79e13a070268867a9",
         "path": "https://tsypuk.github.io/aws-news/news/aws_news.json"
     },
     {
         "name": "big_data",
-        "size": 5134,
-        "timestamp": 1793163220.4460268,
-        "utc": "2026-10-28T04:53:40.446027+00:00",
-        "hash": "8f878eab8458d5c580c7a10fbbde2fb3ada6049c95b5a51658a12d61e7cc7919",
+        "size": 5138,
+        "timestamp": 1793250255.4669704,
+        "utc": "2026-10-29T05:04:15.466970+00:00",
+        "hash": "95d4965e62e2726e57818c307ecb5999e4d174fd86eea192f26ae1e6234d56ad",
         "path": "https://tsypuk.github.io/aws-news/news/big_data.json"
     },
     {
         "name": "business_productivity",
         "size": 4879,
-        "timestamp": 1793163220.5809188,
-        "utc": "2026-10-28T04:53:40.580919+00:00",
+        "timestamp": 1793250255.5963488,
+        "utc": "2026-10-29T05:04:15.596349+00:00",
         "hash": "55fb739395301011bc492b49fa855a3b7c6806922add424c7f1003e01d65ea10",
         "path": "https://tsypuk.github.io/aws-news/news/business_productivity.json"
     },
     {
         "name": "compute",
-        "size": 4556,
-        "timestamp": 1793163220.8420932,
-        "utc": "2026-10-28T04:53:40.842093+00:00",
-        "hash": "6ac4944ab4879cf9804a76084bfd988dd2d732725faa797c2162b813585b94db",
+        "size": 4576,
+        "timestamp": 1793250255.8574514,
+        "utc": "2026-10-29T05:04:15.857451+00:00",
+        "hash": "8f9b8f4116ecee786a57f7e99f51db26ff999a26b44ac36d92baab0b41e860e8",
         "path": "https://tsypuk.github.io/aws-news/news/compute.json"
     },
     {
         "name": "contact_center",
-        "size": 5121,
-        "timestamp": 1793163221.1599023,
-        "utc": "2026-10-28T04:53:41.159902+00:00",
-        "hash": "0912cb10bf481c11bfbb44f896d48676c0a8331f3fa319037ce9a98afd23545e",
+        "size": 5130,
+        "timestamp": 1793250256.1623693,
+        "utc": "2026-10-29T05:04:16.162369+00:00",
+        "hash": "486f64b053174ffd3184033f422802549f4a6d1d75346b88c51cec9fcdee99b1",
         "path": "https://tsypuk.github.io/aws-news/news/contact_center.json"
     },
     {
         "name": "containers",
         "size": 2319,
-        "timestamp": 1793163221.3457634,
-        "utc": "2026-10-28T04:53:41.345763+00:00",
+        "timestamp": 1793250256.3610826,
+        "utc": "2026-10-29T05:04:16.361083+00:00",
         "hash": "b063ae5ab02320595321456ffc8043ef0b030b6a148535a742185d1027376bea",
         "path": "https://tsypuk.github.io/aws-news/news/containers.json"
     },
     {
         "name": "database",
         "size": 4814,
-        "timestamp": 1793163221.7146888,
-        "utc": "2026-10-28T04:53:41.714689+00:00",
+        "timestamp": 1793250256.7280827,
+        "utc": "2026-10-29T05:04:16.728083+00:00",
         "hash": "9dce1f74836c427f6942a1085485289101383d80c2983c759065c920698f479b",
         "path": "https://tsypuk.github.io/aws-news/news/database.json"
     },
     {
         "name": "desktop_and_application_streaming",
         "size": 5324,
-        "timestamp": 1793163221.9001975,
-        "utc": "2026-10-28T04:53:41.900198+00:00",
+        "timestamp": 1793250256.9078448,
+        "utc": "2026-10-29T05:04:16.907845+00:00",
         "hash": "f84d4ff4c631f27266ebafd0a056a35baf25910a4546ebc9716dbe432c59efb8",
         "path": "https://tsypuk.github.io/aws-news/news/desktop_and_application_streaming.json"
     },
     {
         "name": "developer",
         "size": 4311,
-        "timestamp": 1793163222.0696943,
-        "utc": "2026-10-28T04:53:42.069694+00:00",
+        "timestamp": 1793250257.0810351,
+        "utc": "2026-10-29T05:04:17.081035+00:00",
         "hash": "a0e9bc54a4790e208bc7e70de61cf19e616995c87f2724a265b5fc6284bf3c57",
         "path": "https://tsypuk.github.io/aws-news/news/developer.json"
     },
     {
         "name": "devops",
         "size": 4709,
-        "timestamp": 1793163222.4198463,
-        "utc": "2026-10-28T04:53:42.419846+00:00",
+        "timestamp": 1793250257.427645,
+        "utc": "2026-10-29T05:04:17.427645+00:00",
         "hash": "4c326772a2c5e440c187c7e1c91c8a2ca111899c8398eb3deb8a04cbf4343fb7",
         "path": "https://tsypuk.github.io/aws-news/news/devops.json"
     },
     {
         "name": "enterprise_strategy",
         "size": 4380,
-        "timestamp": 1793163222.5509114,
-        "utc": "2026-10-28T04:53:42.550911+00:00",
+        "timestamp": 1793250257.551857,
+        "utc": "2026-10-29T05:04:17.551857+00:00",
         "hash": "b00fd4c943f6334aaafeaa5c7312a35ad070fb4c31d026362103c1d84e0bc3ae",
         "path": "https://tsypuk.github.io/aws-news/news/enterprise_strategy.json"
     },
     {
         "name": "front-end_web_mobile",
         "size": 4521,
-        "timestamp": 1793163222.7932148,
-        "utc": "2026-10-28T04:53:42.793215+00:00",
+        "timestamp": 1793250257.7846923,
+        "utc": "2026-10-29T05:04:17.784692+00:00",
         "hash": "f91543184ce56ac6e7ab51401b531f37c90f522b07021cfa04bbf66c3a147a8a",
         "path": "https://tsypuk.github.io/aws-news/news/front-end_web_mobile.json"
     },
     {
         "name": "game_tech",
         "size": 4586,
-        "timestamp": 1793163222.9957714,
-        "utc": "2026-10-28T04:53:42.995771+00:00",
+        "timestamp": 1793250257.9853473,
+        "utc": "2026-10-29T05:04:17.985347+00:00",
         "hash": "e90a81f0f98f073456148c6505f6c2e4a0b49ff68937301bff79be7233624e34",
         "path": "https://tsypuk.github.io/aws-news/news/game_tech.json"
     },
     {
         "name": "hpc",
         "size": 4870,
-        "timestamp": 1793163223.2052217,
-        "utc": "2026-10-28T04:53:43.205222+00:00",
+        "timestamp": 1793250258.1804333,
+        "utc": "2026-10-29T05:04:18.180433+00:00",
         "hash": "d215509f7a860d11c86052ce1004f7d01bdd732ec9a59d5d9fc6dd49435dfd22",
         "path": "https://tsypuk.github.io/aws-news/news/hpc.json"
     },
     {
         "name": "infra_and_automation",
         "size": 5380,
-        "timestamp": 1793163223.4917161,
-        "utc": "2026-10-28T04:53:43.491716+00:00",
+        "timestamp": 1793250258.464786,
+        "utc": "2026-10-29T05:04:18.464786+00:00",
         "hash": "8478dc86f558c9c9809b67b7a31a42cc04cc982f999e7b50196c65772be7958d",
         "path": "https://tsypuk.github.io/aws-news/news/infra_and_automation.json"
     },
     {
         "name": "industries",
         "size": 2321,
-        "timestamp": 1793163223.6202514,
-        "utc": "2026-10-28T04:53:43.620251+00:00",
+        "timestamp": 1793250258.5863748,
+        "utc": "2026-10-29T05:04:18.586375+00:00",
         "hash": "74bae3841a0bdf72eabfc7eccabec88dc713b4002dc6fe1cf02563a23ef2ade7",
         "path": "https://tsypuk.github.io/aws-news/news/industries.json"
     },
     {
         "name": "internet_of_things",
         "size": 4674,
-        "timestamp": 1793163223.9316192,
-        "utc": "2026-10-28T04:53:43.931619+00:00",
+        "timestamp": 1793250258.9068823,
+        "utc": "2026-10-29T05:04:18.906882+00:00",
         "hash": "5168310ad52ff237938866f7291f217a54a86660149b7efe56fb510a87a03c39",
         "path": "https://tsypuk.github.io/aws-news/news/internet_of_things.json"
     },
     {
         "name": "machine_learning",
-        "size": 5023,
-        "timestamp": 1793163224.2422292,
-        "utc": "2026-10-28T04:53:44.242229+00:00",
-        "hash": "f59ba348bab364b7e42dc07d3896bbfea2d437549310bdaadd9d13047cfc1c2a",
+        "size": 5034,
+        "timestamp": 1793250259.201122,
+        "utc": "2026-10-29T05:04:19.201122+00:00",
+        "hash": "f787234cb0beb6a096ea6ad068f0c37da975911ea4dd5b24b741b21cb5789699",
         "path": "https://tsypuk.github.io/aws-news/news/machine_learning.json"
     },
     {
         "name": "media",
-        "size": 4447,
-        "timestamp": 1793163224.5160038,
-        "utc": "2026-10-28T04:53:44.516004+00:00",
-        "hash": "4402f374aa514de9a2b7e9acb9a41921cb0fef33dd448ff74cfb9cbcbdcc57d0",
+        "size": 4492,
+        "timestamp": 1793250259.4692695,
+        "utc": "2026-10-29T05:04:19.469270+00:00",
+        "hash": "cbc0e28ceb6961276de0485cc104b470be77a44551f440022f59161c2e2f3965",
         "path": "https://tsypuk.github.io/aws-news/news/media.json"
     },
     {
         "name": "messaging_and_targeting",
         "size": 4930,
-        "timestamp": 1793163224.8398187,
-        "utc": "2026-10-28T04:53:44.839819+00:00",
+        "timestamp": 1793250259.8150456,
+        "utc": "2026-10-29T05:04:19.815046+00:00",
         "hash": "21a8ab7bd9a6fa8937dc50514462fb8ce0a12286f1bebc66f2f8fb87d07ce90c",
         "path": "https://tsypuk.github.io/aws-news/news/messaging_and_targeting.json"
     },
     {
         "name": "networking_and_content_delivery",
         "size": 5034,
-        "timestamp": 1793163225.1610448,
-        "utc": "2026-10-28T04:53:45.161045+00:00",
+        "timestamp": 1793250260.1278825,
+        "utc": "2026-10-29T05:04:20.127882+00:00",
         "hash": "7dc8f7175eb7fea1bcbe0c7127c6efcebf0f6fb5e1002f6d63de6047b4ca3b0f",
         "path": "https://tsypuk.github.io/aws-news/news/networking_and_content_delivery.json"
     },
     {
         "name": "open_source",
         "size": 4525,
-        "timestamp": 1793163225.3776343,
-        "utc": "2026-10-28T04:53:45.377634+00:00",
+        "timestamp": 1793250260.3390355,
+        "utc": "2026-10-29T05:04:20.339036+00:00",
         "hash": "27491f76bd457022e299d9069c9062a908238ded5397169256107e04aa8498ed",
         "path": "https://tsypuk.github.io/aws-news/news/open_source.json"
     },
     {
         "name": "public_sector",
-        "size": 4887,
-        "timestamp": 1793163225.591815,
-        "utc": "2026-10-28T04:53:45.591815+00:00",
-        "hash": "c733663c27faed82a8fc7f99b4d7f4ae1140bfcf20b40505682204f92b55f857",
+        "size": 4837,
+        "timestamp": 1793250260.5578167,
+        "utc": "2026-10-29T05:04:20.557817+00:00",
+        "hash": "4bc6843d82d1dd180d5cfe9c9ccae4b75dbfa665a5dae82049aa0943360de926",
         "path": "https://tsypuk.github.io/aws-news/news/public_sector.json"
     },
     {
         "name": "quantum_computing",
         "size": 2602,
-        "timestamp": 1793163225.7024689,
-        "utc": "2026-10-28T04:53:45.702469+00:00",
+        "timestamp": 1793250260.6689816,
+        "utc": "2026-10-29T05:04:20.668982+00:00",
         "hash": "daa9d1054bc27003982cf8fb67b160e7c1d7f1046eb29674d16d6c918969e023",
         "path": "https://tsypuk.github.io/aws-news/news/quantum_computing.json"
     },
     {
         "name": "robotics",
         "size": 2150,
-        "timestamp": 1793163225.8218682,
-        "utc": "2026-10-28T04:53:45.821868+00:00",
+        "timestamp": 1793250260.7918334,
+        "utc": "2026-10-29T05:04:20.791833+00:00",
         "hash": "baf4e5670c7101132337b97f24607d3dd8939192f492050db99ca4b06cb941aa",
         "path": "https://tsypuk.github.io/aws-news/news/robotics.json"
     },
     {
         "name": "sap",
-        "size": 4582,
-        "timestamp": 1793163226.056543,
-        "utc": "2026-10-28T04:53:46.056543+00:00",
-        "hash": "2898105f8d13866be6e6eae7567669eccd38a773838e717f98d27ec66322c13d",
+        "size": 4607,
+        "timestamp": 1793250261.0359914,
+        "utc": "2026-10-29T05:04:21.035991+00:00",
+        "hash": "e95d890a1cd9c0bc44aabf94d0714d9a82fc0d808c84f6a06b048a035f21f82c",
         "path": "https://tsypuk.github.io/aws-news/news/sap.json"
     },
     {
         "name": "security_identity_complience",
         "size": 4785,
-        "timestamp": 1793163226.4237733,
-        "utc": "2026-10-28T04:53:46.423773+00:00",
+        "timestamp": 1793250261.3948767,
+        "utc": "2026-10-29T05:04:21.394877+00:00",
         "hash": "3a1e77d031901302e87ebb48559d9dad14f524cff64de60f175a5cb035a555b9",
         "path": "https://tsypuk.github.io/aws-news/news/security_identity_complience.json"
     },
     {
         "name": "startups",
         "size": 89681,
-        "timestamp": 1793163228.1449537,
-        "utc": "2026-10-28T04:53:48.144954+00:00",
+        "timestamp": 1793250263.1118689,
+        "utc": "2026-10-29T05:04:23.111869+00:00",
         "hash": "40f2041abb7a97afa8c25e253657dc77ea8259f19162dd3924598ff190c09cba",
         "path": "https://tsypuk.github.io/aws-news/news/startups.json"
     },
     {
         "name": "storage",
         "size": 4872,
-        "timestamp": 1793163228.4138722,
-        "utc": "2026-10-28T04:53:48.413872+00:00",
+        "timestamp": 1793250263.3819027,
+        "utc": "2026-10-29T05:04:23.381903+00:00",
         "hash": "88760b38cb165ed10784f5ec99ea0080f04ae20f452196e2d7c5a71fb78808ef",
         "path": "https://tsypuk.github.io/aws-news/news/storage.json"
     },
     {
         "name": "training_certification",
         "size": 2746,
-        "timestamp": 1793163228.5149982,
-        "utc": "2026-10-28T04:53:48.514998+00:00",
+        "timestamp": 1793250263.487145,
+        "utc": "2026-10-29T05:04:23.487145+00:00",
         "hash": "b261174785a200ca92dc01556ff9201759f55b7a310fbac6f6220af1f5726ec0",
         "path": "https://tsypuk.github.io/aws-news/news/training_certification.json"
     },
     {
         "name": "windows_on_aws",
         "size": 2526,
-        "timestamp": 1793163228.6846437,
-        "utc": "2026-10-28T04:53:48.684644+00:00",
+        "timestamp": 1793250263.6368663,
+        "utc": "2026-10-29T05:04:23.636866+00:00",
         "hash": "57470f61dbcefe9599a8b13d5e8ab5337308dd680f1ad030d886b9901ee609ee",
         "path": "https://tsypuk.github.io/aws-news/news/windows_on_aws.json"
     }

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Observing AWS Lambda durable functions with the Durable Execution Telemetry Exporter",
+        "link": "https://aws.amazon.com/blogs/compute/observing-aws-lambda-durable-functions-with-the-durable-execution-telemetry-exporter/"
+    },
+    {
         "title": "Building document-investigation agents with Amazon Bedrock AgentCore and Amazon S3 Files",
         "link": "https://aws.amazon.com/blogs/compute/building-document-investigation-agents-with-amazon-bedrock-agentcore-and-amazon-s3-files/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Planning for disaster recovery using AWS Local Zones and AWS Outposts racks",
         "link": "https://aws.amazon.com/blogs/compute/planning-for-disaster-recovery-using-aws-local-zones-and-aws-outposts-racks/"
-    },
-    {
-        "title": "Validating multi-agent decisions with Step Functions and Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/compute/validating-multi-agent-decisions-with-step-functions-and-bedrock-agentcore/"
     }
 ]

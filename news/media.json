@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Nubank automated disaster recovery with the AWS DevOps Agent",
+        "link": "https://aws.amazon.com/blogs/mt/how-nubank-automated-disaster-recovery-with-the-aws-devops-agent/"
+    },
+    {
         "title": "Operating in the agentic era: AIOps sessions at re:Invent 2026",
         "link": "https://aws.amazon.com/blogs/mt/operating-in-the-agentic-era-aiops-sessions-at-reinvent-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use AWS DevOps Agent to triage and route AWS Health event impact",
         "link": "https://aws.amazon.com/blogs/mt/use-aws-devops-agent-to-triage-and-route-aws-health-event-impact/"
-    },
-    {
-        "title": "This Month in AWS Observability: July 2026",
-        "link": "https://aws.amazon.com/blogs/mt/this-month-in-aws-observability-july-2026/"
     }
 ]

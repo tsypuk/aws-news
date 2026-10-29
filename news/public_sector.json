@@ -1,5 +1,17 @@
 [
     {
+        "title": "How Zimmer Biomet accelerated in silico clinical trials more than 1,000x with AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-zimmer-biomet-accelerated-in-silico-clinical-trials-more-than-1000x-with-aws/"
+    },
+    {
+        "title": "How a Singapore cancer institute automated genomics data operations on AWS",
+        "link": "https://aws.amazon.com/blogs/publicsector/how-a-singapore-cancer-institute-automated-genomics-data-operations-on-aws/"
+    },
+    {
+        "title": "Secure the handoff: A delegation audit for Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/publicsector/secure-the-handoff-a-delegation-audit-for-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Verify software supply chain security using AWS Nitro cryptographic verification",
         "link": "https://aws.amazon.com/blogs/publicsector/verify-software-supply-chain-security-using-aws-nitro-cryptographic-verification/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Building an environmental intelligence platform on AWS with open data",
         "link": "https://aws.amazon.com/blogs/publicsector/building-an-environmental-intelligence-platform-on-aws-with-open-data/"
-    },
-    {
-        "title": "11 organizations, one mission: AWS announces the 2026 Children\u2019s Health Innovation Award recipients",
-        "link": "https://aws.amazon.com/blogs/publicsector/eleven-organizations-one-mission-aws-announces-the-2026-childrens-health-innovation-award-recipients/"
-    },
-    {
-        "title": "Enabling and building resilience for Michigan K12 schools through MiCloud and AWS",
-        "link": "https://aws.amazon.com/blogs/publicsector/enabling-and-building-resilience-for-michigan-k12-schools-through-micloud-and-aws/"
-    },
-    {
-        "title": "Automate cross-partition AWS GovCloud (US) account bootstrapping",
-        "link": "https://aws.amazon.com/blogs/publicsector/automate-cross-partition-aws-govcloud-us-account-bootstrapping/"
     }
 ]

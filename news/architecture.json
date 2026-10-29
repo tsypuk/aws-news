@@ -1,5 +1,13 @@
 [
     {
+        "title": "How Revinate accelerated API adoption with Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/"
+    },
+    {
+        "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+        "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/"
+    },
+    {
         "title": "Publishing LMS courses with a Kiro SCORM pipeline",
         "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
         "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/"
-    },
-    {
-        "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
-        "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/"
-    },
-    {
-        "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/"
     }
 ]

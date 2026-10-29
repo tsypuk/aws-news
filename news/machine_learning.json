@@ -1,5 +1,17 @@
 [
     {
+        "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/"
+    },
+    {
+        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act \u2013 Part 3",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/"
+    },
+    {
         "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
         "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/"
-    },
-    {
-        "title": "Securing Quick access from corporate networks with AWS PrivateLink",
-        "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/"
     }
 ]
