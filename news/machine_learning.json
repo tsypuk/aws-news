@@ -1,5 +1,29 @@
 [
     {
+        "title": "How the UK Amazon Quick User Group grew in 2026",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/"
+    },
+    {
+        "title": "Building intent-driven UI testing with Amazon Nova Act",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/"
+    },
+    {
+        "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/"
+    },
+    {
+        "title": "Lend and borrow resources across teams with AWS Batch\u2019s quota management for SageMaker Training jobs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/"
+    },
+    {
+        "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/"
+    },
+    {
+        "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
+    },
+    {
         "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/"
-    },
-    {
-        "title": "Amazon Polly delivers a major upgrade to its Generative engine",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/"
-    },
-    {
-        "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/"
-    },
-    {
-        "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/"
-    },
-    {
-        "title": "Write your own training loop \u2014 without managing GPUs \u2014 with Amazon SageMaker training session APIs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/"
-    },
-    {
-        "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/"
-    },
-    {
-        "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/"
     }
 ]

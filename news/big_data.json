@@ -1,5 +1,9 @@
 [
     {
+        "title": "Optimizing Apache HBase availability on Amazon EMR, Part 1: Coordinator startup, RegionServer recovery, and regions in transition",
+        "link": "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-1-coordinator-startup-regionserver-recovery-and-regions-in-transition/"
+    },
+    {
         "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-the-next-generation-of-serverless-time-series-for-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Getting started with Apache Iceberg write support in Amazon Redshift \u2013 Part 3",
         "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-3/"
-    },
-    {
-        "title": "Enforce IAM permissions boundaries for Amazon SageMaker Unified Studio Tooling blueprints",
-        "link": "https://aws.amazon.com/blogs/big-data/enforce-iam-permissions-boundaries-for-amazon-sagemaker-unified-studio-tooling-blueprints/"
     }
 ]

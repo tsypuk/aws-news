@@ -1,5 +1,9 @@
 [
     {
+        "title": "Designing geo-segmented AWS Cloud WAN with service insertion",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/designing-geo-segmented-aws-cloud-wan-with-service-insertion/"
+    },
+    {
         "title": "Your AWS Networking and Content Delivery guide to re:Invent 2026",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/your-aws-networking-and-content-delivery-guide-to-reinvent-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Gain visibility into client-side network failures with NEL",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/gain-visibility-into-client-side-network-failures-with-nel/"
-    },
-    {
-        "title": "Zero-trust networking for agentic AI with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/zero-trust-networking-for-agentic-ai-with-amazon-vpc-lattice/"
     }
 ]

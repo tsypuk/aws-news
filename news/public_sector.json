@@ -1,5 +1,13 @@
 [
     {
+        "title": "Decoding DoD cybersecurity: CMMC, DFARS, and FedRAMP Equivalence demystified",
+        "link": "https://aws.amazon.com/blogs/publicsector/decoding-dod-cybersecurity-cmmc-dfars-and-fedramp-equivalence-demystified/"
+    },
+    {
+        "title": "Decoding DoD cybersecurity: Compliance guide for DIB organizations",
+        "link": "https://aws.amazon.com/blogs/publicsector/decoding-dod-cybersecurity-compliance-guide-for-dib-organizations/"
+    },
+    {
         "title": "How Zimmer Biomet accelerated in silico clinical trials more than 1,000x with AWS",
         "link": "https://aws.amazon.com/blogs/publicsector/how-zimmer-biomet-accelerated-in-silico-clinical-trials-more-than-1000x-with-aws/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Mission AI ROI strategy framework for space using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/publicsector/mission-ai-roi-strategy-framework/"
-    },
-    {
-        "title": "How Muzzy Lane and CSU Global built a crisis intervention roleplay assessment with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/publicsector/how-muzzy-lane-and-csu-global-built-a-crisis-intervention-roleplay-assessment-with-amazon-bedrock/"
-    },
-    {
-        "title": "Building an environmental intelligence platform on AWS with open data",
-        "link": "https://aws.amazon.com/blogs/publicsector/building-an-environmental-intelligence-platform-on-aws-with-open-data/"
     }
 ]

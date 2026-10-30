@@ -1,5 +1,9 @@
 [
     {
+        "title": "Reducing petabyte-scale S3 storage costs with evidence-based lifecycle rules",
+        "link": "https://aws.amazon.com/blogs/storage/reducing-petabyte-scale-s3-storage-costs-with-evidence-based-lifecycle-rules/"
+    },
+    {
         "title": "How Seltz cut data costs 40% with Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/how-seltz-cut-data-costs-40-with-amazon-s3-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Secure team file sharing on Amazon WorkSpaces with Amazon EFS",
         "link": "https://aws.amazon.com/blogs/storage/secure-team-file-sharing-on-amazon-workspaces-with-amazon-efs/"
-    },
-    {
-        "title": "Flexibly control Amazon S3 Object Lock retention based on real business events",
-        "link": "https://aws.amazon.com/blogs/storage/flexibly-control-amazon-s3-object-lock-retention-based-on-real-business-events/"
     }
 ]

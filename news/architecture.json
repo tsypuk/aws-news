@@ -1,5 +1,13 @@
 [
     {
+        "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
+        "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/"
+    },
+    {
+        "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/"
+    },
+    {
         "title": "How Revinate accelerated API adoption with Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
         "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/"
-    },
-    {
-        "title": "Deploy open source Regional availability tools in your VPC",
-        "link": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/"
-    },
-    {
-        "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
-        "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/"
     }
 ]
