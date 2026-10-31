@@ -1,5 +1,9 @@
 [
     {
+        "title": "Implement least-privilege access with designations in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/implement-least-privilege-access-with-designations-in-amazon-sagemaker-unified-studio/"
+    },
+    {
         "title": "Optimizing Apache HBase availability on Amazon EMR, Part 1: Coordinator startup, RegionServer recovery, and regions in transition",
         "link": "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-1-coordinator-startup-regionserver-recovery-and-regions-in-transition/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Aurora PostgreSQL zero-ETL integration with Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/big-data/aurora-postgresql-zero-etl-integration-with-amazon-sagemaker/"
-    },
-    {
-        "title": "Getting started with Apache Iceberg write support in Amazon Redshift \u2013 Part 3",
-        "link": "https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift-part-3/"
     }
 ]
