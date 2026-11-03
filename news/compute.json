@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing queue consumption mode for Apache Kafka in AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/compute/introducing-queue-consumption-mode-for-apache-kafka-in-aws-lambda/"
+    },
+    {
         "title": "Unlocking full-stack observability for AWS Outposts",
         "link": "https://aws.amazon.com/blogs/compute/unlocking-full-stack-observability-for-aws-outposts/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Multi-modal autoscaling with Amazon EC2 Auto Scaling: adding signals for faster, more reliable scaling",
         "link": "https://aws.amazon.com/blogs/compute/multi-modal-autoscaling-with-amazon-ec2-auto-scaling-adding-signals-for-faster-more-reliable-scaling/"
-    },
-    {
-        "title": "Deploying regulated workloads on AWS Local Zones and AWS Outposts",
-        "link": "https://aws.amazon.com/blogs/compute/deploying-regulated-workloads-on-aws-local-zones-and-aws-outposts/"
     }
 ]

@@ -1,5 +1,21 @@
 [
     {
+        "title": "How to run a DR readiness engagement",
+        "link": "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/"
+    },
+    {
+        "title": "Validating your DR commitment: From controlled test to real-world readiness",
+        "link": "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness/"
+    },
+    {
+        "title": "Three business decisions that define your DR success",
+        "link": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/"
+    },
+    {
+        "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
+        "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/"
+    },
+    {
         "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
         "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
         "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/"
-    },
-    {
-        "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
-        "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/"
-    },
-    {
-        "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
-        "link": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/"
-    },
-    {
-        "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
-        "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/"
     }
 ]

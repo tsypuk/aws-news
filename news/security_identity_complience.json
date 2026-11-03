@@ -1,5 +1,9 @@
 [
     {
+        "title": "Beyond DKIM key rotation: understanding email replay attacks",
+        "link": "https://aws.amazon.com/blogs/security/beyond-dkim-key-rotation-understanding-email-replay-attacks/"
+    },
+    {
         "title": "Inside a successful AWS European Sovereign Cloud exercise to demonstrate independent operation",
         "link": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Identity-aware AI data agents with AWS Lake Formation and Trusted Identity Propagation",
         "link": "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation/"
-    },
-    {
-        "title": "AWS Continuum sets a new standard in autonomous code security",
-        "link": "https://aws.amazon.com/blogs/security/aws-continuum-sets-a-new-standard-in-autonomous-code-security/"
     }
 ]
