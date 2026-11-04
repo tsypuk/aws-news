@@ -1,5 +1,13 @@
 [
     {
+        "title": "Find your logging gaps before they become compliance gaps with CloudTrail Data Event Coverage",
+        "link": "https://aws.amazon.com/blogs/mt/find-your-logging-gaps-before-they-become-compliance-gaps-with-cloudtrail-data-event-coverage/"
+    },
+    {
+        "title": "Tag Editor moves to AWS Resource Explorer: bulk-tag resources across Regions",
+        "link": "https://aws.amazon.com/blogs/mt/tag-editor-moves-to-aws-resource-explorer-bulk-tag-resources-across-regions/"
+    },
+    {
         "title": "Extending AWS DevOps Agent with Skills, Model Context Protocol (MCP) Servers, Custom Agents and Connectors",
         "link": "https://aws.amazon.com/blogs/mt/extending-aws-devops-agent-with-skills-model-context-protocol-mcp-servers-custom-agents-and-connectors/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Reduce MTTR with AI-driven RCA using AWS DevOps Agent and Splunk",
         "link": "https://aws.amazon.com/blogs/mt/reduce-mttr-with-ai-driven-rca-using-aws-devops-agent-and-splunk/"
-    },
-    {
-        "title": "How Moeve scales AWS governance with automated AWS Organization Service Control Policies",
-        "link": "https://aws.amazon.com/blogs/mt/how-moeve-scales-aws-governance-with-automated-aws-organization-service-control-policies/"
-    },
-    {
-        "title": "Analyze Application Load Balancer Logs with Amazon CloudWatch Logs",
-        "link": "https://aws.amazon.com/blogs/mt/analyze-application-load-balancer-logs-with-amazon-cloudwatch-logs/"
     }
 ]

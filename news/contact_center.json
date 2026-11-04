@@ -1,5 +1,21 @@
 [
     {
+        "title": "Amazon SES features for Protective Markings",
+        "link": "https://aws.amazon.com/blogs/contact-center/amazon-ses-features-for-protective-markings/"
+    },
+    {
+        "title": "Email security deep dive: Manual DKIM signing through Amazon SES",
+        "link": "https://aws.amazon.com/blogs/contact-center/email-security-deep-dive-manual-dkim-signing-through-amazon-ses/"
+    },
+    {
+        "title": "Unified Voice, SMS, and WhatsApp on Amazon Connect Customer",
+        "link": "https://aws.amazon.com/blogs/contact-center/unified-voice-sms-and-whatsapp-on-amazon-connect-customer/"
+    },
+    {
+        "title": "Automating Pinpoint email template migration to Amazon SES v2",
+        "link": "https://aws.amazon.com/blogs/contact-center/automating-pinpoint-email-template-migration-to-amazon-ses-v2/"
+    },
+    {
         "title": "How to build international two-way SMS with Amazon Connect Customer, Part 1",
         "link": "https://aws.amazon.com/blogs/contact-center/how-to-build-international-two-way-sms-with-amazon-connect-customer-part-1/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Ensure outbound and transfer call delivery by configuring caller ID in Amazon Connect",
         "link": "https://aws.amazon.com/blogs/contact-center/ensure-outbound-and-transfer-call-delivery-by-configuring-caller-id-in-amazon-connect/"
-    },
-    {
-        "title": "Customize AI in Amazon Connect Customer: Agents, Prompts, and Guardrails",
-        "link": "https://aws.amazon.com/blogs/contact-center/customize-ai-in-amazon-connect-customer-agents-prompts-and-guardrails/"
-    },
-    {
-        "title": "Best practices for building a Customer Effort Score (CES) system with Amazon Connect Customer",
-        "link": "https://aws.amazon.com/blogs/contact-center/best-practices-for-building-a-customer-effort-score-ces-system-with-amazon-connect-customer/"
-    },
-    {
-        "title": "Blend structured business logic with agentic AI to deliver delightful conversational experiences",
-        "link": "https://aws.amazon.com/blogs/contact-center/blend-structured-business-logic-with-agentic-ai/"
-    },
-    {
-        "title": "Failure Didn\u2019t Lose Your Customers, Mediocrity Did",
-        "link": "https://aws.amazon.com/blogs/contact-center/failure-didnt-lose-your-customers-mediocrity-did/"
     }
 ]

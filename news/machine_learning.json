@@ -1,5 +1,29 @@
 [
     {
+        "title": "Bring structured and unstructured data together with Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/"
+    },
+    {
+        "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/"
+    },
+    {
+        "title": "How Gen Digital built Norton Revamp\u2019s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/"
+    },
+    {
+        "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Building ultra-low-latency voice AI applications on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/"
+    },
+    {
+        "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/"
+    },
+    {
         "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
         "link": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
         "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
-    },
-    {
-        "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Distributed training with Ray Train DLCs and EFA on EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/"
-    },
-    {
-        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act \u2013 Part 3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/"
-    },
-    {
-        "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/"
-    },
-    {
-        "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/"
-    },
-    {
-        "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/"
     }
 ]

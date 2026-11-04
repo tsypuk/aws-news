@@ -1,5 +1,9 @@
 [
     {
+        "title": "Build an organization-wide Amazon RDS posture dashboard with Kiro",
+        "link": "https://aws.amazon.com/blogs/database/build-an-organization-wide-amazon-rds-posture-dashboard-with-kiro/"
+    },
+    {
         "title": "AWS contributes a large-transaction binary log optimization to MySQL",
         "link": "https://aws.amazon.com/blogs/database/aws-contributes-a-large-transaction-binary-log-optimization-to-mysql/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "A decision framework for Amazon Neptune availability",
         "link": "https://aws.amazon.com/blogs/database/a-decision-framework-for-amazon-neptune-availability/"
-    },
-    {
-        "title": "Assess and migrate SQL Server Full-Text Search to Babelfish for Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/database/assess-and-migrate-sql-server-full-text-search-to-babelfish-for-aurora-postgresql/"
     }
 ]

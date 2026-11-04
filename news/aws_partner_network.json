@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling Regulated AI with Domino on Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/apn/scaling-regulated-ai-with-domino-on-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Scaling agentic AI for governed banking operations with Apexon and AWS",
         "link": "https://aws.amazon.com/blogs/apn/scaling-agentic-ai-for-governed-banking-operations-with-apexon-and-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Run Apache Spark up to 10x faster with DataPelago on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/apn/run-apache-spark-up-to-10x-faster-with-datapelago-on-amazon-eks/"
-    },
-    {
-        "title": "Say Hello to 158 New AWS Competency and MSP Partners Added in August",
-        "link": "https://aws.amazon.com/blogs/apn/say-hello-to-158-new-aws-competency-service-delivery-service-ready-and-msp-partners-added-in-august/"
     }
 ]

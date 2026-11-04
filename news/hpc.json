@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Regeneron built a multi-executor Omics platform with intelligent resource management on AWS",
+        "link": "https://aws.amazon.com/blogs/hpc/how-regeneron-built-a-multi-executor-omics-platform-with-intelligent-resource-management-on-aws/"
+    },
+    {
         "title": "What\u2019s next for Research and Engineering Studio on AWS",
         "link": "https://aws.amazon.com/blogs/hpc/whats-next-for-research-and-engineering-studio-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Proteros accelerates drug discovery by using AWS ParallelCluster",
         "link": "https://aws.amazon.com/blogs/hpc/how-proteros-accelerates-drug-discovery-by-using-aws-parallelcluster/"
-    },
-    {
-        "title": "Running NVIDIA Cosmos world foundation models on AWS",
-        "link": "https://aws.amazon.com/blogs/hpc/running-nvidia-cosmos-world-foundation-models-on-aws/"
     }
 ]

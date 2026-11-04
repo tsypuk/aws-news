@@ -1,5 +1,17 @@
 [
     {
+        "title": "Introducing change-based throttling for Amazon Route 53 APIs",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-change-based-throttling-for-amazon-route-53-apis/"
+    },
+    {
+        "title": "Use Bring Your Own ASN (BYOASN) to enforce data sovereignty on AWS Direct Connect public VIFs",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-bring-your-own-asn-byoasn-to-enforce-data-sovereignty-on-aws-direct-connect-public-vifs/"
+    },
+    {
+        "title": "Securing autonomous fleet communications at scale with mTLS over QUIC using Network Load Balancer passthrough",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-autonomous-fleet-communications-at-scale-with-mtls-over-quic-using-network-load-balancer-passthrough/"
+    },
+    {
         "title": "Designing geo-segmented AWS Cloud WAN with service insertion",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/designing-geo-segmented-aws-cloud-wan-with-service-insertion/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Building Multi-Region Active-Active Architectures with CloudFront VPC origins and Advanced Routing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-multi-region-active-active-architectures-with-cloudfront-vpc-origins-and-advanced-routing/"
-    },
-    {
-        "title": "CloudFront Functions Unified Logging",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cloudfront-functions-unified-logging/"
-    },
-    {
-        "title": "Shared DNS views for multi-account environments with Amazon Route 53 Global Resolver",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/shared-dns-views-for-multi-account-environments-with-amazon-route-53-global-resolver/"
-    },
-    {
-        "title": "Gain visibility into client-side network failures with NEL",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/gain-visibility-into-client-side-network-failures-with-nel/"
     }
 ]

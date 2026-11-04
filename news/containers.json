@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deep dive: Auto scaling response times on Amazon ECS",
+        "link": "https://aws.amazon.com/blogs/containers/deep-dive-auto-scaling-response-times-on-amazon-ecs/"
+    },
+    {
         "title": "Measuring developer experience on an Amazon EKS developer platform",
         "link": "https://aws.amazon.com/blogs/containers/measuring-developer-experience-on-an-amazon-eks-developer-platform/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Container Management",
         "link": "https://aws.amazon.com/blogs/containers/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/"
-    },
-    {
-        "title": "One Amazon EKS, many edges: How to choose your edge container strategy on AWS",
-        "link": "https://aws.amazon.com/blogs/containers/one-amazon-eks-many-edges-how-to-choose-your-edge-container-strategy-on-aws/"
     }
 ]
