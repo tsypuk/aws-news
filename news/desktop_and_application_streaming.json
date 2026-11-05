@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automate Custom Image Builds with EC2 Image Builder for Amazon WorkSpaces",
+        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/automate-custom-image-builds-with-ec2-image-builder-for-amazon-workspaces/"
+    },
+    {
         "title": "Deploy Amazon WorkSpaces across Regions with Entra ID and IAM Identity Center",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/deploy-amazon-workspaces-across-regions-with-entra-id-and-iam-identity-center/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon WorkSpaces launches Graphics G6, Gr6, and G6f bundles",
         "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/amazon-workspaces-launches-graphics-g6-gr6-and-g6f-bundles/"
-    },
-    {
-        "title": "Microsoft Teams Optimization for Amazon WorkSpaces Now Generally Available",
-        "link": "https://aws.amazon.com/blogs/desktop-and-application-streaming/microsoft-teams-optimization-for-amazon-workspaces-now-generally-available/"
     }
 ]

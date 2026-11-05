@@ -1,5 +1,25 @@
 [
     {
+        "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/"
+    },
+    {
+        "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+        "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/"
+    },
+    {
+        "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+        "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/"
+    },
+    {
+        "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/"
+    },
+    {
+        "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/"
+    },
+    {
         "title": "Bring structured and unstructured data together with Amazon Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How the UK Amazon Quick User Group grew in 2026",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/"
-    },
-    {
-        "title": "Building intent-driven UI testing with Amazon Nova Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/"
-    },
-    {
-        "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/"
-    },
-    {
-        "title": "Lend and borrow resources across teams with AWS Batch\u2019s quota management for SageMaker Training jobs",
-        "link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/"
-    },
-    {
-        "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/"
-    },
-    {
-        "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
     }
 ]

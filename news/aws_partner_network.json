@@ -1,5 +1,13 @@
 [
     {
+        "title": "Autonomous replenishment with Databricks MMF, Genie, and Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/apn/autonomous-replenishment-with-databricks-mmf-genie-and-amazon-quick/"
+    },
+    {
+        "title": "Optimize AI Costs with New Relic Cloud Cost Intelligence on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/optimize-ai-costs-with-new-relic-cloud-cost-intelligence-on-aws/"
+    },
+    {
         "title": "Scaling Regulated AI with Domino on Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/apn/scaling-regulated-ai-with-domino-on-amazon-fsx-for-netapp-ontap/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "From weeks to hours: How a UK energy retailer transformed residential pricebooks with Gorilla on AWS",
         "link": "https://aws.amazon.com/blogs/apn/from-weeks-to-hours-how-a-uk-energy-retailer-transformed-residential-pricebooks-with-gorilla-on-aws/"
-    },
-    {
-        "title": "How Nubank saved $15M on Amazon DynamoDB costs with PointFive",
-        "link": "https://aws.amazon.com/blogs/apn/how-nubank-saved-15m-on-amazon-dynamodb-costs-with-pointfive/"
-    },
-    {
-        "title": "Run Apache Spark up to 10x faster with DataPelago on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/apn/run-apache-spark-up-to-10x-faster-with-datapelago-on-amazon-eks/"
     }
 ]
