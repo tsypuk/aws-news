@@ -1,5 +1,13 @@
 [
     {
+        "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/"
+    },
+    {
         "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
         "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/"
-    },
-    {
-        "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
-        "link": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/"
-    },
-    {
-        "title": "How the UK Amazon Quick User Group grew in 2026",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/"
     }
 ]

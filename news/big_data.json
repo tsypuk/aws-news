@@ -1,5 +1,9 @@
 [
     {
+        "title": "Deliver multi-tenant AI analytics at scale with AgentCore and Lake Formation",
+        "link": "https://aws.amazon.com/blogs/big-data/deliver-multi-tenant-ai-analytics-at-scale-with-agentcore-and-lake-formation/"
+    },
+    {
         "title": "Migrate Google BigQuery to an open lakehouse on AWS with Apache Iceberg",
         "link": "https://aws.amazon.com/blogs/big-data/migrate-google-bigquery-to-an-open-lakehouse-on-aws-with-apache-iceberg/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Building an LLM-powered DAG failure analysis plugin for Amazon MWAA",
         "link": "https://aws.amazon.com/blogs/big-data/building-an-llm-powered-dag-failure-analysis-plugin-for-amazon-mwaa/"
-    },
-    {
-        "title": "Announcing Spark Connect on Amazon EMR on EKS: Interactive PySpark development, anywhere",
-        "link": "https://aws.amazon.com/blogs/big-data/announcing-spark-connect-on-amazon-emr-on-eks/"
     }
 ]

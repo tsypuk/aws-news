@@ -1,5 +1,9 @@
 [
     {
+        "title": "Containerize SQL Server on AWS to reduce licensing costs and simplify operations",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-on-aws-to-reduce-licensing-costs-and-simplify-operations/"
+    },
+    {
         "title": "Augment your Windows management tools with agentic AI using Kiro CLI",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/augment-your-windows-management-tools-with-agentic-ai-using-kiro-cli/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Migrating SQL Server FCI Storage from Amazon FSx for NetApp ONTAP Gen 1 to Gen 2",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrating-sql-server-fci-storage-from-amazon-fsx-for-netapp-ontap-gen-1-to-gen-2/"
-    },
-    {
-        "title": "Zero-downtime multi-tenant IIS deployments on AWS Elastic Beanstalk",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/zero-downtime-multi-tenant-iis-deployments-on-aws-elastic-beanstalk/"
     }
 ]
