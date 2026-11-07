@@ -1,5 +1,9 @@
 [
     {
+        "title": "Store and process large strings in Amazon Redshift SUPER columns",
+        "link": "https://aws.amazon.com/blogs/big-data/store-and-process-large-strings-in-amazon-redshift-super-columns/"
+    },
+    {
         "title": "Deliver multi-tenant AI analytics at scale with AgentCore and Lake Formation",
         "link": "https://aws.amazon.com/blogs/big-data/deliver-multi-tenant-ai-analytics-at-scale-with-agentcore-and-lake-formation/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Optimize consumer rebalancing on Amazon MSK with next generation protocol",
         "link": "https://aws.amazon.com/blogs/big-data/optimize-consumer-rebalancing-on-amazon-msk-with-next-generation-protocol/"
-    },
-    {
-        "title": "Building an LLM-powered DAG failure analysis plugin for Amazon MWAA",
-        "link": "https://aws.amazon.com/blogs/big-data/building-an-llm-powered-dag-failure-analysis-plugin-for-amazon-mwaa/"
     }
 ]

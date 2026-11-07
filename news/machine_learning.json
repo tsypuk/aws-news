@@ -1,5 +1,37 @@
 [
     {
+        "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/"
+    },
+    {
+        "title": "Taxonomy of agentic primitives in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/"
+    },
+    {
+        "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+        "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/"
+    },
+    {
+        "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore \u2013 Part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/"
+    },
+    {
+        "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore \u2013 Part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/"
+    },
+    {
+        "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/"
+    },
+    {
         "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "Building ultra-low-latency voice AI applications on AWS",
         "link": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/"
-    },
-    {
-        "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/"
-    },
-    {
-        "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/"
-    },
-    {
-        "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/"
-    },
-    {
-        "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-        "link": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/"
-    },
-    {
-        "title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/"
     }
 ]
