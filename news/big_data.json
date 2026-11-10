@@ -1,5 +1,25 @@
 [
     {
+        "title": "Automate ETL pipeline creation with Amazon Bedrock AgentCore and AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/automate-etl-pipeline-creation-with-amazon-bedrock-agentcore-and-aws-glue/"
+    },
+    {
+        "title": "Introducing the Workday Data Cloud integration with AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-workday-data-cloud-integration-with-aws/"
+    },
+    {
+        "title": "Define metrics once and keep them correct with the dbt Semantic Layer on Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/define-metrics-once-and-keep-them-correct-with-the-dbt-semantic-layer-on-amazon-redshift/"
+    },
+    {
+        "title": "Assess and track your Amazon Redshift RA3 to RG modernization with CUDOS",
+        "link": "https://aws.amazon.com/blogs/big-data/assess-and-track-your-amazon-redshift-ra3-to-rg-modernization-with-cudos/"
+    },
+    {
+        "title": "Amazon Athena introduces system tables for query execution observability",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-athena-introduces-system-tables-for-query-execution-observability/"
+    },
+    {
         "title": "Store and process large strings in Amazon Redshift SUPER columns",
         "link": "https://aws.amazon.com/blogs/big-data/store-and-process-large-strings-in-amazon-redshift-super-columns/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Monitoring MWAA-orchestrated ETL pipelines with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/monitoring-mwaa-orchestrated-etl-pipelines-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "Cost-effective ETL with DuckDB and Amazon S3 Tables on AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/cost-effective-etl-with-duckdb-and-amazon-s3-tables-on-aws-glue/"
-    },
-    {
-        "title": "Query across accounts and table formats with multi-catalog in Amazon EMR",
-        "link": "https://aws.amazon.com/blogs/big-data/query-across-accounts-and-table-formats-with-multi-catalog-in-amazon-emr/"
-    },
-    {
-        "title": "Materialize once, query anywhere: Introducing Iceberg materialized views in Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/materialize-once-query-anywhere-introducing-iceberg-materialized-views-in-amazon-redshift/"
-    },
-    {
-        "title": "Run an automated operational review with the Amazon Redshift MCP server",
-        "link": "https://aws.amazon.com/blogs/big-data/run-an-automated-operational-review-with-the-amazon-redshift-mcp-server/"
-    },
-    {
-        "title": "Optimize consumer rebalancing on Amazon MSK with next generation protocol",
-        "link": "https://aws.amazon.com/blogs/big-data/optimize-consumer-rebalancing-on-amazon-msk-with-next-generation-protocol/"
     }
 ]

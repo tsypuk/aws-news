@@ -1,5 +1,13 @@
 [
     {
+        "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
+        "link": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/"
+    },
+    {
+        "title": "How DeepL keeps closest-exit routing during maintenance with AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/architecture/how-deepl-keeps-closest-exit-routing-during-maintenance-with-aws-cloud-wan/"
+    },
+    {
         "title": "How OrderServ achieved up to 64% cost savings with multi-tenant ECS",
         "link": "https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
         "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/"
-    },
-    {
-        "title": "How UTS established a modern curriculum data services foundation on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/"
-    },
-    {
-        "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/"
     }
 ]

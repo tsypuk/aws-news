@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/"
+    },
+    {
         "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
         "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
         "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/"
-    },
-    {
-        "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
-        "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/"
     }
 ]

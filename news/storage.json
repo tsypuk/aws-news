@@ -1,5 +1,9 @@
 [
     {
+        "title": "Increase application availability: Configure Linux iSCSI multipath with ALUA for Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/configure-linux-iscsi-multipath-with-alua-for-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Reducing petabyte-scale S3 storage costs with evidence-based lifecycle rules",
         "link": "https://aws.amazon.com/blogs/storage/reducing-petabyte-scale-s3-storage-costs-with-evidence-based-lifecycle-rules/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Enable zero-copy access to AWS services on Amazon FSx for NetApp ONTAP with Amazon S3 Access Points",
         "link": "https://aws.amazon.com/blogs/storage/enable-zero-copy-access-to-aws-services-on-amazon-fsx-for-netapp-ontap-with-amazon-s3-access-points/"
-    },
-    {
-        "title": "Secure team file sharing on Amazon WorkSpaces with Amazon EFS",
-        "link": "https://aws.amazon.com/blogs/storage/secure-team-file-sharing-on-amazon-workspaces-with-amazon-efs/"
     }
 ]

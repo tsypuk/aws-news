@@ -1,5 +1,13 @@
 [
     {
+        "title": "Help defend against memory poisoning in Amazon Bedrock AgentCore with multi-layer write validation",
+        "link": "https://aws.amazon.com/blogs/security/help-defend-against-memory-poisoning-in-amazon-bedrock-agentcore-with-multi-layer-write-validation/"
+    },
+    {
+        "title": "Simplify cross-partition access with AWS IAM outbound identity federation",
+        "link": "https://aws.amazon.com/blogs/security/simplify-cross-partition-access-with-aws-iam-outbound-identity-federation/"
+    },
+    {
         "title": "Addressing protocol security gaps in multi-tenant Kubernetes",
         "link": "https://aws.amazon.com/blogs/security/addressing-protocol-security-gaps-in-multi-tenant-kubernetes/"
     },
@@ -20,7 +28,7 @@
         "link": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/"
     },
     {
-        "title": "AWS becomes first CSP to complete the Cloud High profile assessment with 172 services and features in scope",
+        "title": "AWS becomes first CSP in Canada to complete the Cloud High profile assessment with 172 services and features in scope",
         "link": "https://aws.amazon.com/blogs/security/aws-becomes-first-csp-to-complete-the-cloud-high-profile-assessment-with-172-services-and-features-in-scope/"
     },
     {
@@ -70,13 +78,5 @@
     {
         "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
         "link": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/"
-    },
-    {
-        "title": "Building your AI vulnerability harness, Part 1",
-        "link": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/"
-    },
-    {
-        "title": "Part 1 \u2013 Cybersecurity journeys: I didn\u2019t plan this",
-        "link": "https://aws.amazon.com/blogs/security/part-1-cybersecurity-journeys-i-didnt-plan-this/"
     }
 ]

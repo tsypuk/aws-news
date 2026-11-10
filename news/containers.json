@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Nitro Sandboxes: Hardware-enforced workload isolation on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/containers/aws-nitro-sandboxes-hardware-enforced-workload-isolation-on-amazon-eks/"
+    },
+    {
         "title": "Deep dive: Auto scaling response times on Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/deep-dive-auto-scaling-response-times-on-amazon-ecs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Fix pod distribution drift in Amazon EKS with the Kubernetes descheduler",
         "link": "https://aws.amazon.com/blogs/containers/fix-pod-distribution-drift-in-amazon-eks-with-the-kubernetes-descheduler/"
-    },
-    {
-        "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Container Management",
-        "link": "https://aws.amazon.com/blogs/containers/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/"
     }
 ]

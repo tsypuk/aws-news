@@ -1,5 +1,9 @@
 [
     {
+        "title": "A Data-First Approach to Mainframe Modernization with AWS Transform and Qlik",
+        "link": "https://aws.amazon.com/blogs/apn/a-data-first-approach-to-mainframe-modernization-with-aws-transform-and-qlik/"
+    },
+    {
         "title": "Autonomous replenishment with Databricks MMF, Genie, and Amazon Quick",
         "link": "https://aws.amazon.com/blogs/apn/autonomous-replenishment-with-databricks-mmf-genie-and-amazon-quick/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Continuous model adaptation with 4MINDS on AWS",
         "link": "https://aws.amazon.com/blogs/apn/continuous-model-adaptation-with-4minds-on-aws/"
-    },
-    {
-        "title": "From weeks to hours: How a UK energy retailer transformed residential pricebooks with Gorilla on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/from-weeks-to-hours-how-a-uk-energy-retailer-transformed-residential-pricebooks-with-gorilla-on-aws/"
     }
 ]
