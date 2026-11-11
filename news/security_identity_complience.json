@@ -1,5 +1,17 @@
 [
     {
+        "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
+        "link": "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/"
+    },
+    {
+        "title": "AWS refreshes ProcessUnity Global Risk Exchange assessment to enhance customer\u2019s third-party due diligence",
+        "link": "https://aws.amazon.com/blogs/security/aws-refreshes-processunity-global-risk-exchange-assessment-to-enhance-customers-third-party-due-diligence/"
+    },
+    {
+        "title": "Digital sovereignty at re:Invent 2026: Sessions you won\u2019t want to miss",
+        "link": "https://aws.amazon.com/blogs/security/digital-sovereignty-at-reinvent-2026-sessions-you-wont-want-to-miss/"
+    },
+    {
         "title": "Help defend against memory poisoning in Amazon Bedrock AgentCore with multi-layer write validation",
         "link": "https://aws.amazon.com/blogs/security/help-defend-against-memory-poisoning-in-amazon-bedrock-agentcore-with-multi-layer-write-validation/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
         "link": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/"
-    },
-    {
-        "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
-        "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/"
-    },
-    {
-        "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
-        "link": "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/"
-    },
-    {
-        "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
-        "link": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/"
     }
 ]

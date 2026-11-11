@@ -1,5 +1,13 @@
 [
     {
+        "title": "46% fewer nodes, 2\u00d7 faster indexing: Confluent on Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/46-fewer-nodes-2x-faster-indexing-confluent-on-amazon-opensearch-service/"
+    },
+    {
+        "title": "Multiply pre-recorded streams with Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/multiply-pre-recorded-streams-with-amazon-managed-service-for-apache-flink/"
+    },
+    {
         "title": "Automate ETL pipeline creation with Amazon Bedrock AgentCore and AWS Glue",
         "link": "https://aws.amazon.com/blogs/big-data/automate-etl-pipeline-creation-with-amazon-bedrock-agentcore-and-aws-glue/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality",
         "link": "https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/"
-    },
-    {
-        "title": "Build cross-account streaming pipelines with the Amazon Kinesis Producer Library and Kinesis Client Library",
-        "link": "https://aws.amazon.com/blogs/big-data/build-cross-account-streaming-pipelines-with-the-amazon-kinesis-producer-library-and-kinesis-client-library/"
-    },
-    {
-        "title": "Monitoring MWAA-orchestrated ETL pipelines with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/monitoring-mwaa-orchestrated-etl-pipelines-with-amazon-opensearch-service/"
     }
 ]

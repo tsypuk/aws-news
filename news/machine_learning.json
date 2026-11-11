@@ -1,5 +1,29 @@
 [
     {
+        "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/"
+    },
+    {
+        "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/"
+    },
+    {
+        "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/"
+    },
+    {
+        "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/"
+    },
+    {
+        "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Amazon Bedrock tokenomics data lake",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/"
+    },
+    {
         "title": "How skills and agents work in AWS Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
-        "link": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/"
-    },
-    {
-        "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/"
-    },
-    {
-        "title": "Smart Approvals in AWS Quick: Human oversight where it matters",
-        "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/"
-    },
-    {
-        "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-        "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/"
     }
 ]

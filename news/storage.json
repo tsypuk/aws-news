@@ -1,5 +1,9 @@
 [
     {
+        "title": "Bring high-performance analytics to your lakehouse with ClickHouse and Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/bring-high-performance-analytics-to-your-lakehouse-with-clickhouse-and-amazon-s3-tables/"
+    },
+    {
         "title": "Increase application availability: Configure Linux iSCSI multipath with ALUA for Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/configure-linux-iscsi-multipath-with-alua-for-amazon-fsx-for-netapp-ontap/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Build AI-powered file classification with AWS Transfer Family",
         "link": "https://aws.amazon.com/blogs/storage/build-ai-powered-file-classification-with-aws-transfer-family/"
-    },
-    {
-        "title": "Enable zero-copy access to AWS services on Amazon FSx for NetApp ONTAP with Amazon S3 Access Points",
-        "link": "https://aws.amazon.com/blogs/storage/enable-zero-copy-access-to-aws-services-on-amazon-fsx-for-netapp-ontap-with-amazon-s3-access-points/"
     }
 ]
