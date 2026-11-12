@@ -1,5 +1,17 @@
 [
     {
+        "title": "Navigating messaging requirements in betting and gaming technology applications (Part 2: Executing the registration and maintaining compliance)",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/navigating-messaging-requirements-in-betting-and-gaming-technology-applications-part-2-executing-the-registration-and-maintaining-compliance/"
+    },
+    {
+        "title": "Navigating messaging requirements in betting and gaming technology applications (Part 1: Understanding the landscape and preparing your application)",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/navigating-messaging-requirements-in-betting-and-gaming-technology-applications-part-1-understanding-the-landscape-and-preparing-your-application/"
+    },
+    {
+        "title": "Track SMS spend by team and use case with AWS End User Messaging",
+        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/track-sms-spend-by-team-and-use-case-with-aws-end-user-messaging/"
+    },
+    {
         "title": "Automate toll-free number registrations at scale with AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/automate-toll-free-number-registrations-at-scale-with-aws-end-user-messaging/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Build an AI-powered real estate assistant on WhatsApp using Strands Agents SDK and AWS End User Messaging",
         "link": "https://aws.amazon.com/blogs/messaging-and-targeting/build-an-ai-powered-real-estate-assistant-on-whatsapp-using-strands-agents-sdk-and-aws-end-user-messaging/"
-    },
-    {
-        "title": "Global SMS strategy for gaming: Lessons from migrating 2FA across 100+ countries",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/global-sms-strategy-for-gaming-lessons-from-migrating-2fa-across-100-countries/"
-    },
-    {
-        "title": "Getting your SMS short code production-ready with AWS End User Messaging",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/getting-your-sms-short-code-production-ready-with-aws-end-user-messaging/"
-    },
-    {
-        "title": "Adding LINE Messenger to your AWS omnichannel fallback solution",
-        "link": "https://aws.amazon.com/blogs/messaging-and-targeting/adding-line-messenger-to-your-aws-omnichannel-fallback-solution/"
     }
 ]

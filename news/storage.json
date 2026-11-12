@@ -1,5 +1,9 @@
 [
     {
+        "title": "Scaling a Weaviate vector index 26\u00d7 with one Amazon EBS gp3 command",
+        "link": "https://aws.amazon.com/blogs/storage/scaling-a-weaviate-vector-index-26x-with-one-amazon-ebs-gp3-command/"
+    },
+    {
         "title": "Bring high-performance analytics to your lakehouse with ClickHouse and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/bring-high-performance-analytics-to-your-lakehouse-with-clickhouse-and-amazon-s3-tables/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Connect workloads to Amazon S3 Files across VPCs and accounts",
         "link": "https://aws.amazon.com/blogs/storage/connect-workloads-to-amazon-s3-files-across-vpcs-and-accounts/"
-    },
-    {
-        "title": "Build AI-powered file classification with AWS Transfer Family",
-        "link": "https://aws.amazon.com/blogs/storage/build-ai-powered-file-classification-with-aws-transfer-family/"
     }
 ]

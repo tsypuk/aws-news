@@ -1,5 +1,13 @@
 [
     {
+        "title": "Ease of use and secure defaults in the new AWS experience",
+        "link": "https://aws.amazon.com/blogs/security/ease-of-use-and-secure-defaults-in-the-new-aws-experience/"
+    },
+    {
+        "title": "Part 4 \u2013 Cybersecurity journeys: What I\u2019d tell my younger self",
+        "link": "https://aws.amazon.com/blogs/security/part-4-cybersecurity-journeys-what-id-tell-my-younger-self/"
+    },
+    {
         "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
         "link": "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Penetration testing every deployment with AWS Continuum",
         "link": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/"
-    },
-    {
-        "title": "Part 2 \u2013 Cybersecurity journeys: What even is this job?",
-        "link": "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job/"
-    },
-    {
-        "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
-        "link": "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/"
     }
 ]

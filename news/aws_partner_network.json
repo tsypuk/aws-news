@@ -1,5 +1,13 @@
 [
     {
+        "title": "OTTera cuts scheduling time by 60% with AI on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/apn/ottera-cuts-scheduling-time-by-60-with-ai-on-amazon-bedrock/"
+    },
+    {
+        "title": "How Denodo and Amazon SageMaker Deliver a Data Foundation for Agentic AI",
+        "link": "https://aws.amazon.com/blogs/apn/how-denodo-and-amazon-sagemaker-deliver-a-data-foundation-for-agentic-ai/"
+    },
+    {
         "title": "Taking control of agents on Amazon Bedrock AgentCore with Dataiku",
         "link": "https://aws.amazon.com/blogs/apn/taking-control-of-agents-on-amazon-bedrock-agentcore-with-dataiku/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "New FDE Pathways For AWS Partners: Get Ready for Production Agentic AI Delivery",
         "link": "https://aws.amazon.com/blogs/apn/new-fde-pathways-for-aws-partners-get-ready-for-production-agentic-ai-delivery/"
-    },
-    {
-        "title": "Say Hello to 156 New AWS Competency, Service Delivery, and MSP Partners Added in September",
-        "link": "https://aws.amazon.com/blogs/apn/say-hello-to-156-new-aws-competency-service-delivery-and-msp-partners-added-in-september/"
-    },
-    {
-        "title": "Unlock revenue insights in the Attributed Revenue Dashboard",
-        "link": "https://aws.amazon.com/blogs/apn/unlock-revenue-insights-in-the-new-attributed-revenue-dashboard/"
     }
 ]

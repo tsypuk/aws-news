@@ -1,5 +1,57 @@
 [
     {
+        "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/"
+    },
+    {
+        "title": "OpenAI Codex on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/"
+    },
+    {
+        "title": "Semantic diffing of formal policies with anti-unification",
+        "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/"
+    },
+    {
+        "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/"
+    },
+    {
+        "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "ICYMI: What landed for AI builders in October 2026",
+        "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/"
+    },
+    {
+        "title": "The attendee\u2019s guide to the AWS re:Invent 2026 AI/ML track",
+        "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/"
+    },
+    {
+        "title": "Automating AWS Agent Registry updates with push-based architecture",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/"
+    },
+    {
+        "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/"
+    },
+    {
+        "title": "Accelerating generative AI delivery with reusable assets",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/"
+    },
+    {
+        "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/"
+    },
+    {
+        "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/"
+    },
+    {
+        "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/"
+    },
+    {
         "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/"
     },
@@ -26,57 +78,5 @@
     {
         "title": "How skills and agents work in AWS Quick",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/"
-    },
-    {
-        "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-        "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/"
-    },
-    {
-        "title": "Introducing Claude Fable 5.2 on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/"
-    },
-    {
-        "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Professional work deserves professional tools. Meet AWS Quick.",
-        "link": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/"
-    },
-    {
-        "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-        "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/"
-    },
-    {
-        "title": "Taxonomy of agentic primitives in AWS Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/"
-    },
-    {
-        "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-        "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/"
-    },
-    {
-        "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore \u2013 Part 2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/"
-    },
-    {
-        "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore \u2013 Part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/"
-    },
-    {
-        "title": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/"
     }
 ]

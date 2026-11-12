@@ -1,5 +1,37 @@
 [
     {
+        "title": "Managed cross-Region disaster recovery for Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/managed-cross-region-disaster-recovery-for-amazon-opensearch-service/"
+    },
+    {
+        "title": "Optimizing Apache HBase availability on Amazon EMR, Part 2: Diagnose and tune compaction",
+        "link": "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-2-diagnose-and-tune-compaction/"
+    },
+    {
+        "title": "Build a data foundation for agentic AI on AWS: From lakehouse to MCP",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-data-foundation-for-agentic-ai-on-aws-from-lakehouse-to-mcp/"
+    },
+    {
+        "title": "Build a multi-team AI and analytics environment on Amazon SageMaker Unified Studio with Terraform",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-multi-team-ai-and-analytics-environment-on-amazon-sagemaker-unified-studio-with-terraform/"
+    },
+    {
+        "title": "How Samsung Ads federated Snowflake Iceberg tables using Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/big-data/how-samsung-ads-federated-snowflake-iceberg-tables-using-amazon-cognito/"
+    },
+    {
+        "title": "Allocate shared Amazon MSK costs to Kafka topics for cost visibility",
+        "link": "https://aws.amazon.com/blogs/big-data/allocate-shared-amazon-msk-costs-to-kafka-topics-for-cost-visibility/"
+    },
+    {
+        "title": "Governance compliance beyond the catalog in Amazon SageMaker Unified Studio",
+        "link": "https://aws.amazon.com/blogs/big-data/governance-compliance-beyond-the-catalog-in-amazon-sagemaker-unified-studio/"
+    },
+    {
+        "title": "How Intuit migrated from Apache Hive Metastore to AWS Glue Data Catalog",
+        "link": "https://aws.amazon.com/blogs/big-data/how-intuit-migrated-from-apache-hive-metastore-to-aws-glue-data-catalog/"
+    },
+    {
         "title": "46% fewer nodes, 2\u00d7 faster indexing: Confluent on Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/46-fewer-nodes-2x-faster-indexing-confluent-on-amazon-opensearch-service/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "Optimizing Apache HBase availability on Amazon EMR, Part 1: Coordinator startup, RegionServer recovery, and regions in transition",
         "link": "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-1-coordinator-startup-regionserver-recovery-and-regions-in-transition/"
-    },
-    {
-        "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-next-generation-of-serverless-time-series-for-amazon-opensearch-service/"
-    },
-    {
-        "title": "From Problem to Fix in Minutes: Automating Search Relevance Tuning with the Amazon OpenSearch Service Relevance Agent",
-        "link": "https://aws.amazon.com/blogs/big-data/from-problem-to-fix-in-minutes-automating-search-relevance-tuning-with-the-amazon-opensearch-service-relevance-agent/"
-    },
-    {
-        "title": "Build RAG-ready indexes from Amazon S3 with Amazon OpenSearch intelligent ingestion",
-        "link": "https://aws.amazon.com/blogs/big-data/build-rag-ready-indexes-from-amazon-s3-with-amazon-opensearch-intelligent-ingestion/"
-    },
-    {
-        "title": "Enable cross-Region fine-grained data access with AWS Lake Formation and Trusted Identity Propagation",
-        "link": "https://aws.amazon.com/blogs/big-data/enable-cross-region-fine-grained-data-access-with-aws-lake-formation-and-trusted-identity-propagation/"
-    },
-    {
-        "title": "Trace security threats in multi-agent pipelines with Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/trace-security-threats-in-multi-agent-pipelines-with-amazon-opensearch-service/"
-    },
-    {
-        "title": "dbt and Amazon Redshift Data Sharing: Multi-cluster pipelines without moving a byte",
-        "link": "https://aws.amazon.com/blogs/big-data/dbt-and-amazon-redshift-data-sharing-multi-cluster-pipelines-without-moving-a-byte/"
-    },
-    {
-        "title": "Resolving concurrent write conflicts for Apache Iceberg tables in Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/resolving-concurrent-write-conflicts-for-apache-iceberg-tables-in-amazon-redshift/"
-    },
-    {
-        "title": "Bring data quality to your Amazon EMR workloads with Amazon EMR Data Quality built on AWS Glue Data Quality",
-        "link": "https://aws.amazon.com/blogs/big-data/bring-data-quality-to-your-amazon-emr-workloads-with-amazon-emr-data-quality-built-on-aws-glue-data-quality/"
     }
 ]

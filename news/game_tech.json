@@ -1,5 +1,9 @@
 [
     {
+        "title": "Troubleshoot game session placement with Amazon GameLift Servers",
+        "link": "https://aws.amazon.com/blogs/gametech/troubleshoot-game-session-placement-with-amazon-gamelift-servers/"
+    },
+    {
         "title": "Pearl Abyss boosts Crimson Desert game discoverability with Amazon GameLift Streams Instant Play Demos with Twitch",
         "link": "https://aws.amazon.com/blogs/gametech/pearl-abyss-boosts-crimson-desert-game-discoverability-with-amazon-gamelift-streams-instant-play-demos/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Free Network Bandwidth for Amazon GameLift Servers is Here! (Yes, Really!)",
         "link": "https://aws.amazon.com/blogs/gametech/free-network-bandwidth-amazon-gamelift-servers-is-here-yes-really/"
-    },
-    {
-        "title": "Open source 3D game asset generation using AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/open-source-3d-game-asset-generation-using-aws/"
     }
 ]
