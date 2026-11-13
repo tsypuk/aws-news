@@ -1,5 +1,17 @@
 [
     {
+        "title": "Buckets guide to what\u2019s in store with AWS Storage at re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/storage/buckets-guide-to-whats-in-store-with-aws-storage-at-reinvent-2026/"
+    },
+    {
+        "title": "Remap Amazon EKS namespaces on restore with AWS Backup resource modifiers",
+        "link": "https://aws.amazon.com/blogs/storage/remap-amazon-eks-namespaces-on-restore-with-aws-backup-resource-modifiers/"
+    },
+    {
+        "title": "How Hathr.AI delivers multi-tenant agentic RAG for regulated US government workloads with Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/storage/how-hathr-ai-delivers-multi-tenant-agentic-rag-for-regulated-us-government-workloads-with-amazon-s3-vectors/"
+    },
+    {
         "title": "Scaling a Weaviate vector index 26\u00d7 with one Amazon EBS gp3 command",
         "link": "https://aws.amazon.com/blogs/storage/scaling-a-weaviate-vector-index-26x-with-one-amazon-ebs-gp3-command/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Comcast scaled analytics 80x while cutting costs 38% with GraphQL and Amazon S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/how-comcast-scaled-analytics-80x-while-cutting-costs-38-with-graphql-and-amazon-s3-tables/"
-    },
-    {
-        "title": "Accelerate inference with KV cache tiering on AWS",
-        "link": "https://aws.amazon.com/blogs/storage/accelerate-inference-with-kv-cache-tiering-on-aws/"
-    },
-    {
-        "title": "How Precisely transforms user experience with AI agents using Amazon S3 Vectors",
-        "link": "https://aws.amazon.com/blogs/storage/how-precisely-transforms-user-experience-with-ai-agents-using-amazon-s3-vectors/"
-    },
-    {
-        "title": "Connect workloads to Amazon S3 Files across VPCs and accounts",
-        "link": "https://aws.amazon.com/blogs/storage/connect-workloads-to-amazon-s3-files-across-vpcs-and-accounts/"
     }
 ]

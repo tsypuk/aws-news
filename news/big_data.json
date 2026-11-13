@@ -1,5 +1,9 @@
 [
     {
+        "title": "Migrating from Apache Hudi-based data lake to Apache Iceberg-based data lake",
+        "link": "https://aws.amazon.com/blogs/big-data/migrating-from-apache-hudi-based-data-lake-to-apache-iceberg-based-data-lake/"
+    },
+    {
         "title": "Managed cross-Region disaster recovery for Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/managed-cross-region-disaster-recovery-for-amazon-opensearch-service/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Implement least-privilege access with designations in Amazon SageMaker Unified Studio",
         "link": "https://aws.amazon.com/blogs/big-data/implement-least-privilege-access-with-designations-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "Optimizing Apache HBase availability on Amazon EMR, Part 1: Coordinator startup, RegionServer recovery, and regions in transition",
-        "link": "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-1-coordinator-startup-regionserver-recovery-and-regions-in-transition/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Profile your Amazon CloudWatch Logs estate with an AWS DevOps Agent skill in sandbox, no infrastructure to deploy",
+        "link": "https://aws.amazon.com/blogs/mt/profile-your-amazon-cloudwatch-logs-estate-with-an-aws-devops-agent-skill-in-sandbox-no-infrastructure-to-deploy/"
+    },
+    {
         "title": "Find your logging gaps before they become compliance gaps with CloudTrail Data Event Coverage",
         "link": "https://aws.amazon.com/blogs/mt/find-your-logging-gaps-before-they-become-compliance-gaps-with-cloudtrail-data-event-coverage/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Investigate your AWS account activity in plain language with Amazon Q",
         "link": "https://aws.amazon.com/blogs/mt/investigate-your-aws-account-activity-in-plain-language-with-amazon-q/"
-    },
-    {
-        "title": "Reduce MTTR with AI-driven RCA using AWS DevOps Agent and Splunk",
-        "link": "https://aws.amazon.com/blogs/mt/reduce-mttr-with-ai-driven-rca-using-aws-devops-agent-and-splunk/"
     }
 ]

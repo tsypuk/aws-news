@@ -1,5 +1,17 @@
 [
     {
+        "title": "Modular regression testing framework built on AWS for large-scale systems",
+        "link": "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/"
+    },
+    {
+        "title": "Scale distributed AI workloads with Ray and Anyscale on Amazon EC2",
+        "link": "https://aws.amazon.com/blogs/architecture/scale-distributed-ai-workloads-with-ray-and-anyscale-on-amazon-ec2/"
+    },
+    {
+        "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
+        "link": "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/"
+    },
+    {
         "title": "How Zillow runs 100 million daily notifications on AWS Step Functions",
         "link": "https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
         "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/"
-    },
-    {
-        "title": "Data governance with annotations in Amazon S3",
-        "link": "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/"
-    },
-    {
-        "title": "Recommended resilience testing in the next generation of AWS Resilience Hub",
-        "link": "https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub/"
-    },
-    {
-        "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/"
     }
 ]

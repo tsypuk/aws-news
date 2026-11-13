@@ -1,5 +1,13 @@
 [
     {
+        "title": "Always-on, grounded, and going agentic: How TGS built Scout on AWS Quick",
+        "link": "https://aws.amazon.com/blogs/industries/always-on-grounded-and-going-agentic-how-tgs-built-scout-on-aws-quick/"
+    },
+    {
+        "title": "How E.ON Germany built OneApp: One customer experience across independent energy domains on AWS",
+        "link": "https://aws.amazon.com/blogs/industries/how-e-on-germany-built-oneapp-one-customer-experience-across-independent-energy-domains-on-aws/"
+    },
+    {
         "title": "Migrating Epic to AWS returned 185% over three years compared to on-premises deployments",
         "link": "https://aws.amazon.com/blogs/industries/migrating-epic-to-aws-returned-185-over-three-years-compared-to-on-premises-deployments/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "AI-enabled ECU validation on AWS using Corellium Atlas virtual ECUs",
         "link": "https://aws.amazon.com/blogs/industries/ai-enabled-ecu-validation-on-aws-using-corellium-atlas-virtual-ecus/"
-    },
-    {
-        "title": "Modernize legacy telecom automation at scale with AWS Transform",
-        "link": "https://aws.amazon.com/blogs/industries/modernize-legacy-telecom-automation-at-scale-with-aws-transform/"
-    },
-    {
-        "title": "Santos\u2019s journey to cloud-based subsurface computing on AWS",
-        "link": "https://aws.amazon.com/blogs/industries/santoss-journey-to-cloud-based-subsurface-computing-on-aws/"
     }
 ]

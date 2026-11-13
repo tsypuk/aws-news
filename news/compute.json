@@ -1,5 +1,9 @@
 [
     {
+        "title": "Per-customer invoice management with Amazon EventBridge Scheduler",
+        "link": "https://aws.amazon.com/blogs/compute/per-customer-invoice-management-with-amazon-eventbridge-scheduler/"
+    },
+    {
         "title": "Monitor application health with Amazon EC2 application status checks",
         "link": "https://aws.amazon.com/blogs/compute/monitor-application-health-with-amazon-ec2-application-status-checks/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Reducing cross-AZ latency with the AWS Lambda metadata endpoint",
         "link": "https://aws.amazon.com/blogs/compute/reducing-cross-az-latency-with-the-aws-lambda-metadata-endpoint/"
-    },
-    {
-        "title": "Scaling RL rollouts with Firecracker on Amazon EC2 metal",
-        "link": "https://aws.amazon.com/blogs/compute/scaling-rl-rollouts-with-firecracker-on-amazon-ec2-metal/"
     }
 ]

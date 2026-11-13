@@ -1,5 +1,9 @@
 [
     {
+        "title": "Automatically recover from GPU failures with Amazon ECS Managed Instances",
+        "link": "https://aws.amazon.com/blogs/containers/automatically-recover-from-gpu-failures-with-amazon-ecs-managed-instances/"
+    },
+    {
         "title": "AWS Nitro Sandboxes: Hardware-enforced workload isolation on Amazon EKS",
         "link": "https://aws.amazon.com/blogs/containers/aws-nitro-sandboxes-hardware-enforced-workload-isolation-on-amazon-eks/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "How athenahealth modernized healthcare workloads with Amazon EKS Hybrid Nodes",
         "link": "https://aws.amazon.com/blogs/containers/how-athenahealth-modernized-healthcare-workloads-with-amazon-eks-hybrid-nodes/"
-    },
-    {
-        "title": "Fix pod distribution drift in Amazon EKS with the Kubernetes descheduler",
-        "link": "https://aws.amazon.com/blogs/containers/fix-pod-distribution-drift-in-amazon-eks-with-the-kubernetes-descheduler/"
     }
 ]
