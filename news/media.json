@@ -1,6 +1,18 @@
 [
     {
-        "title": "Profile your Amazon CloudWatch Logs estate with an AWS DevOps Agent skill in sandbox, no infrastructure to deploy",
+        "title": "Your Guide to AWS Cloud Resilience Sessions at re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/mt/your-guide-to-aws-cloud-resilience-sessions-at-reinvent-2026/"
+    },
+    {
+        "title": "Bring AWS Security Hub CSPM findings into your Amazon CloudWatch on-call workflow",
+        "link": "https://aws.amazon.com/blogs/mt/bring-aws-security-hub-cspm-findings-into-your-amazon-cloudwatch-on-call-workflow/"
+    },
+    {
+        "title": "Keeping airlines flying with AWS Unified Operations",
+        "link": "https://aws.amazon.com/blogs/mt/keeping-airlines-flying-with-aws-unified-operations/"
+    },
+    {
+        "title": "Profile your Amazon CloudWatch Logs estate with an AWS DevOps Agent skill in sandbox, no infrastructure to deploy.",
         "link": "https://aws.amazon.com/blogs/mt/profile-your-amazon-cloudwatch-logs-estate-with-an-aws-devops-agent-skill-in-sandbox-no-infrastructure-to-deploy/"
     },
     {
@@ -66,17 +78,5 @@
     {
         "title": "This Month in AWS Observability: August \u2013 September 2026",
         "link": "https://aws.amazon.com/blogs/mt/this-month-in-aws-observability-august-september-2026/"
-    },
-    {
-        "title": "Introducing Amazon CloudWatch Omni: Observability for the AI Era",
-        "link": "https://aws.amazon.com/blogs/mt/introducing-amazon-cloudwatch-omni-observability-for-the-ai-era/"
-    },
-    {
-        "title": "Root Cause Analysis with Amazon Managed Service for Prometheus and AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/mt/root-cause-analysis-with-amazon-managed-service-for-prometheus-and-aws-devops-agent/"
-    },
-    {
-        "title": "Investigate your AWS account activity in plain language with Amazon Q",
-        "link": "https://aws.amazon.com/blogs/mt/investigate-your-aws-account-activity-in-plain-language-with-amazon-q/"
     }
 ]

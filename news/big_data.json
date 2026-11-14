@@ -1,5 +1,25 @@
 [
     {
+        "title": "Understanding span queries in Amazon OpenSearch Service",
+        "link": "https://aws.amazon.com/blogs/big-data/understanding-span-queries-in-amazon-opensearch-service/"
+    },
+    {
+        "title": "Optimizing PySpark UDFs on AWS Glue 6.0 with native Arrow UDFs",
+        "link": "https://aws.amazon.com/blogs/big-data/optimizing-pyspark-udfs-on-aws-glue-6-0-with-native-arrow-udfs/"
+    },
+    {
+        "title": "Multi-statement transactions for Apache Iceberg tables in Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/multi-statement-transactions-for-apache-iceberg-tables-in-amazon-redshift/"
+    },
+    {
+        "title": "Build a self-healing ETL pipeline with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/big-data/build-a-self-healing-etl-pipeline-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Choose the right streaming ingestion path for Apache Iceberg tables on AWS",
+        "link": "https://aws.amazon.com/blogs/big-data/choose-the-right-streaming-ingestion-path-for-apache-iceberg-tables-on-aws/"
+    },
+    {
         "title": "Migrating from Apache Hudi-based data lake to Apache Iceberg-based data lake",
         "link": "https://aws.amazon.com/blogs/big-data/migrating-from-apache-hudi-based-data-lake-to-apache-iceberg-based-data-lake/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Assess and track your Amazon Redshift RA3 to RG modernization with CUDOS",
         "link": "https://aws.amazon.com/blogs/big-data/assess-and-track-your-amazon-redshift-ra3-to-rg-modernization-with-cudos/"
-    },
-    {
-        "title": "Amazon Athena introduces system tables for query execution observability",
-        "link": "https://aws.amazon.com/blogs/big-data/amazon-athena-introduces-system-tables-for-query-execution-observability/"
-    },
-    {
-        "title": "Store and process large strings in Amazon Redshift SUPER columns",
-        "link": "https://aws.amazon.com/blogs/big-data/store-and-process-large-strings-in-amazon-redshift-super-columns/"
-    },
-    {
-        "title": "Deliver multi-tenant AI analytics at scale with AgentCore and Lake Formation",
-        "link": "https://aws.amazon.com/blogs/big-data/deliver-multi-tenant-ai-analytics-at-scale-with-agentcore-and-lake-formation/"
-    },
-    {
-        "title": "Migrate Google BigQuery to an open lakehouse on AWS with Apache Iceberg",
-        "link": "https://aws.amazon.com/blogs/big-data/migrate-google-bigquery-to-an-open-lakehouse-on-aws-with-apache-iceberg/"
-    },
-    {
-        "title": "Implement least-privilege access with designations in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/implement-least-privilege-access-with-designations-in-amazon-sagemaker-unified-studio/"
     }
 ]

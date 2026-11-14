@@ -1,5 +1,17 @@
 [
     {
+        "title": "How IGNYTE runs candidate search with Amazon S3 Vectors",
+        "link": "https://aws.amazon.com/blogs/storage/how-ignyte-runs-candidate-search-with-amazon-s3-vectors/"
+    },
+    {
+        "title": "Deploy Amazon S3 Files with Terraform",
+        "link": "https://aws.amazon.com/blogs/storage/deploy-amazon-s3-files-with-terraform/"
+    },
+    {
+        "title": "Deploy Amazon S3 Object Lock with Cross-Region Replication and KMS encryption using AWS CloudFormation",
+        "link": "https://aws.amazon.com/blogs/storage/deploy-amazon-s3-object-lock-with-cross-region-replication-and-kms-encryption-using-aws-cloudformation/"
+    },
+    {
         "title": "Buckets guide to what\u2019s in store with AWS Storage at re:Invent 2026",
         "link": "https://aws.amazon.com/blogs/storage/buckets-guide-to-whats-in-store-with-aws-storage-at-reinvent-2026/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Inside the AWS Storage Assessment: How intelligent analysis replaces guesswork",
         "link": "https://aws.amazon.com/blogs/storage/inside-the-aws-storage-assessment-how-intelligent-analysis-replaces-guesswork/"
-    },
-    {
-        "title": "Planning data protection before migration: How AWS Storage Assessments model backup and disaster recovery costs",
-        "link": "https://aws.amazon.com/blogs/storage/planning-data-protection-before-migration-how-aws-storage-assessments-model-backup-and-disaster-recovery-costs/"
-    },
-    {
-        "title": "Running Apache Kafka with Amazon S3 Files",
-        "link": "https://aws.amazon.com/blogs/storage/running-apache-kafka-with-amazon-s3-files/"
-    },
-    {
-        "title": "How Comcast scaled analytics 80x while cutting costs 38% with GraphQL and Amazon S3 Tables",
-        "link": "https://aws.amazon.com/blogs/storage/how-comcast-scaled-analytics-80x-while-cutting-costs-38-with-graphql-and-amazon-s3-tables/"
     }
 ]

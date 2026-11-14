@@ -1,5 +1,9 @@
 [
     {
+        "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
+        "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/"
+    },
+    {
         "title": "Ease of use and secure defaults in the new AWS experience",
         "link": "https://aws.amazon.com/blogs/security/ease-of-use-and-secure-defaults-in-the-new-aws-experience/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
         "link": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/"
-    },
-    {
-        "title": "Penetration testing every deployment with AWS Continuum",
-        "link": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/"
     }
 ]

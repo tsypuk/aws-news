@@ -1,5 +1,17 @@
 [
     {
+        "title": "Fix Amazon Aurora MySQL error 63955: Virtual index ID overflow",
+        "link": "https://aws.amazon.com/blogs/database/fix-amazon-aurora-mysql-error-63955-virtual-index-id-overflow/"
+    },
+    {
+        "title": "Improve RDS Proxy multiplexing for PostgreSQL, Part 1: Common causes",
+        "link": "https://aws.amazon.com/blogs/database/improve-rds-proxy-multiplexing-for-postgresql-part-1-common-causes/"
+    },
+    {
+        "title": "Improve RDS Proxy multiplexing for PostgreSQL, Part 2: Diagnose and monitor",
+        "link": "https://aws.amazon.com/blogs/database/improve-rds-proxy-multiplexing-for-postgresql-part-2-diagnose-and-monitor/"
+    },
+    {
         "title": "Boosting Amazon RDS for PostgreSQL with AWS Graviton5: Benchmarks",
         "link": "https://aws.amazon.com/blogs/database/boosting-amazon-rds-with-aws-graviton5-benchmarks/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Topstep\u2019s migration journey: Self-managed Redis OSS to Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/topsteps-migration-journey-self-managed-redis-oss-to-amazon-elasticache-for-valkey/"
-    },
-    {
-        "title": "Introducing bulk put items for Amazon DynamoDB: Load data from Amazon S3 into existing tables at scale",
-        "link": "https://aws.amazon.com/blogs/database/introducing-bulk-put-items-for-amazon-dynamodb-load-data-from-amazon-s3-into-existing-tables-at-scale/"
-    },
-    {
-        "title": "Build an organization-wide Amazon RDS posture dashboard with Kiro",
-        "link": "https://aws.amazon.com/blogs/database/build-an-organization-wide-amazon-rds-posture-dashboard-with-kiro/"
-    },
-    {
-        "title": "AWS contributes a large-transaction binary log optimization to MySQL",
-        "link": "https://aws.amazon.com/blogs/database/aws-contributes-a-large-transaction-binary-log-optimization-to-mysql/"
     }
 ]

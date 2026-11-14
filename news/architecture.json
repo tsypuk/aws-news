@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Thermo Fisher Scientific built AI-powered patient matching on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/"
+    },
+    {
         "title": "Modular regression testing framework built on AWS for large-scale systems",
         "link": "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/"
-    },
-    {
-        "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
-        "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/"
     }
 ]

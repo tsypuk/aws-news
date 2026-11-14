@@ -1,5 +1,33 @@
 [
     {
+        "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+        "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/"
+    },
+    {
+        "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+        "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/"
+    },
+    {
+        "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+        "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/"
+    },
+    {
+        "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+        "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/"
+    },
+    {
+        "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/"
+    },
+    {
+        "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/"
+    },
+    {
+        "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/"
+    },
+    {
         "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
         "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "OpenAI Codex on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/"
-    },
-    {
-        "title": "Semantic diffing of formal policies with anti-unification",
-        "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/"
-    },
-    {
-        "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "ICYMI: What landed for AI builders in October 2026",
-        "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/"
-    },
-    {
-        "title": "The attendee\u2019s guide to the AWS re:Invent 2026 AI/ML track",
-        "link": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/"
-    },
-    {
-        "title": "Automating AWS Agent Registry updates with push-based architecture",
-        "link": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/"
-    },
-    {
-        "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/"
     }
 ]
