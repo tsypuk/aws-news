@@ -1,5 +1,13 @@
 [
     {
+        "title": "PostgreSQL large objects: Best practices for Amazon Aurora and RDS",
+        "link": "https://aws.amazon.com/blogs/database/postgresql-large-objects-best-practices-for-amazon-aurora-and-rds/"
+    },
+    {
+        "title": "Exploring new features of Apache TinkerPop 3.8.x in Amazon Neptune",
+        "link": "https://aws.amazon.com/blogs/database/exploring-new-features-of-apache-tinkerpop-3-8-x-in-amazon-neptune/"
+    },
+    {
         "title": "Fix Amazon Aurora MySQL error 63955: Virtual index ID overflow",
         "link": "https://aws.amazon.com/blogs/database/fix-amazon-aurora-mysql-error-63955-virtual-index-id-overflow/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "How Flickr modernized caching with Amazon ElastiCache for Valkey",
         "link": "https://aws.amazon.com/blogs/database/how-flickr-modernized-caching-with-amazon-elasticache-for-valkey/"
-    },
-    {
-        "title": "Multi-tenancy with Amazon ElastiCache: Choosing the right isolation model",
-        "link": "https://aws.amazon.com/blogs/database/multi-tenancy-with-amazon-elasticache-choosing-the-right-isolation-model/"
-    },
-    {
-        "title": "Topstep\u2019s migration journey: Self-managed Redis OSS to Amazon ElastiCache for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/topsteps-migration-journey-self-managed-redis-oss-to-amazon-elasticache-for-valkey/"
     }
 ]

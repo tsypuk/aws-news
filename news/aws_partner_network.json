@@ -1,5 +1,13 @@
 [
     {
+        "title": "Protecting Apache Iceberg Lakehouses at Scale with Rubrik on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/protecting-apache-iceberg-lakehouses-at-scale-with-rubrik-on-aws/"
+    },
+    {
+        "title": "JA Canada launches generative AI with Qalius and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/apn/ja-canada-launches-generative-ai-with-qalius-and-amazon-bedrock/"
+    },
+    {
         "title": "OTTera cuts scheduling time by 60% with AI on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/ottera-cuts-scheduling-time-by-60-with-ai-on-amazon-bedrock/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Mission Cloud accelerates data validation with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/apn/mission-cloud-accelerates-data-validation-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Continuous AI security with F5 AI Guardrails and AWS Bedrock",
-        "link": "https://aws.amazon.com/blogs/apn/continuous-ai-security-with-f5-ai-guardrails-and-aws-bedrock/"
-    },
-    {
-        "title": "New FDE Pathways For AWS Partners: Get Ready for Production Agentic AI Delivery",
-        "link": "https://aws.amazon.com/blogs/apn/new-fde-pathways-for-aws-partners-get-ready-for-production-agentic-ai-delivery/"
     }
 ]

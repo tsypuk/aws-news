@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing updates to the AWS Well-Architected Framework",
+        "link": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-3/"
+    },
+    {
         "title": "How Thermo Fisher Scientific built AI-powered patient matching on AWS",
         "link": "https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Publishing LMS courses with a Kiro SCORM pipeline",
         "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/"
-    },
-    {
-        "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
-        "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/"
     }
 ]

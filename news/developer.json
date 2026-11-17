@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing Smithy IDL 2.1",
+        "link": "https://aws.amazon.com/blogs/developer/introducing-smithy-idl-2-1/"
+    },
+    {
         "title": "Announcing AWS SDK for .NET 4.1",
         "link": "https://aws.amazon.com/blogs/developer/announcing-aws-sdk-for-net-4-1/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS CLI v1 maintenance mode: announcing changes to dependency updates",
         "link": "https://aws.amazon.com/blogs/developer/aws-cli-v1-maintenance-mode-announcing-changes-to-dependency-updates/"
-    },
-    {
-        "title": "Introducing Open-Source Skills for AWS SDK Best Practices",
-        "link": "https://aws.amazon.com/blogs/developer/introducing-open-source-skills-for-aws-sdk-best-practices/"
     }
 ]

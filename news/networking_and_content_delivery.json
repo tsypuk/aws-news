@@ -1,5 +1,13 @@
 [
     {
+        "title": "Introducing 1:1 NAT on AWS Transit Gateway and AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-11-nat-on-aws-transit-gateway-and-aws-cloud-wan/"
+    },
+    {
+        "title": "Building a unidirectional edge layer for third-party connectivity on AWS with Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/building-a-unidirectional-edge-layer-for-third-party-connectivity-on-aws-with-amazon-vpc-lattice/"
+    },
+    {
         "title": "Monitoring global traffic with AWS Cloud WAN Flow Logs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/monitoring-global-traffic-with-aws-cloud-wan-flow-logs/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "AI best practices for AWS network operations with AI agents and MCP",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ai-best-practices-for-aws-network-operations-with-ai-agents-and-mcp/"
-    },
-    {
-        "title": "Choosing the right inspection architecture for AWS Network Firewall",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/choosing-the-right-inspection-architecture-for-aws-network-firewall/"
-    },
-    {
-        "title": "When and how to centralize AWS PrivateLink Interface endpoints with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/when-and-how-to-centralize-aws-privatelink-interface-endpoints-with-amazon-vpc-lattice/"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Deliver petabytes of Apache Kafka data to Amazon S3 at up to 60% lower cost with Amazon MSK Express brokers",
+        "link": "https://aws.amazon.com/blogs/big-data/deliver-petabytes-of-apache-kafka-data-to-amazon-s3-at-up-to-60-lower-cost-with-amazon-msk-express-brokers/"
+    },
+    {
+        "title": "Migrate Apache Solr to Amazon OpenSearch Service with the AI-driven Migration Assistant",
+        "link": "https://aws.amazon.com/blogs/big-data/migrate-apache-solr-to-amazon-opensearch-service-with-the-ai-driven-migration-assistant/"
+    },
+    {
+        "title": "Analyze Anthropic usage, spend, and access with AWS Glue, Amazon S3 Tables, and AWS Quick",
+        "link": "https://aws.amazon.com/blogs/big-data/analyze-anthropic-usage-spend-and-access-with-aws-glue-amazon-s3-tables-and-aws-quick/"
+    },
+    {
+        "title": "Introducing enhanced snapshots for Amazon Managed Service for Apache Flink",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-enhanced-snapshots-for-amazon-managed-service-for-apache-flink/"
+    },
+    {
+        "title": "Upgrading and troubleshooting Amazon MWAA with AWS agent skills",
+        "link": "https://aws.amazon.com/blogs/big-data/upgrading-and-troubleshooting-amazon-mwaa-with-aws-agent-skills/"
+    },
+    {
         "title": "Understanding span queries in Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/understanding-span-queries-in-amazon-opensearch-service/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "46% fewer nodes, 2\u00d7 faster indexing: Confluent on Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/46-fewer-nodes-2x-faster-indexing-confluent-on-amazon-opensearch-service/"
-    },
-    {
-        "title": "Multiply pre-recorded streams with Amazon Managed Service for Apache Flink",
-        "link": "https://aws.amazon.com/blogs/big-data/multiply-pre-recorded-streams-with-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Automate ETL pipeline creation with Amazon Bedrock AgentCore and AWS Glue",
-        "link": "https://aws.amazon.com/blogs/big-data/automate-etl-pipeline-creation-with-amazon-bedrock-agentcore-and-aws-glue/"
-    },
-    {
-        "title": "Introducing the Workday Data Cloud integration with AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-workday-data-cloud-integration-with-aws/"
-    },
-    {
-        "title": "Define metrics once and keep them correct with the dbt Semantic Layer on Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/define-metrics-once-and-keep-them-correct-with-the-dbt-semantic-layer-on-amazon-redshift/"
-    },
-    {
-        "title": "Assess and track your Amazon Redshift RA3 to RG modernization with CUDOS",
-        "link": "https://aws.amazon.com/blogs/big-data/assess-and-track-your-amazon-redshift-ra3-to-rg-modernization-with-cudos/"
     }
 ]

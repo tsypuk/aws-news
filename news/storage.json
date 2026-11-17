@@ -1,5 +1,9 @@
 [
     {
+        "title": "Introducing AWS Backup logically air-gapped vault support for Amazon RDS",
+        "link": "https://aws.amazon.com/blogs/storage/introducing-aws-backup-logically-air-gapped-vault-support-for-amazon-rds/"
+    },
+    {
         "title": "How IGNYTE runs candidate search with Amazon S3 Vectors",
         "link": "https://aws.amazon.com/blogs/storage/how-ignyte-runs-candidate-search-with-amazon-s3-vectors/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Data-driven planning for cloud migration using AWS Storage Assessment",
         "link": "https://aws.amazon.com/blogs/storage/data-driven-planning-for-cloud-migration-using-aws-storage-assessment/"
-    },
-    {
-        "title": "Inside the AWS Storage Assessment: How intelligent analysis replaces guesswork",
-        "link": "https://aws.amazon.com/blogs/storage/inside-the-aws-storage-assessment-how-intelligent-analysis-replaces-guesswork/"
     }
 ]
