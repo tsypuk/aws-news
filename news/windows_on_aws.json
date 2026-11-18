@@ -1,5 +1,13 @@
 [
     {
+        "title": "Formal and Game-theoretic Testing for SQL Query Migration Validation",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/formal-and-game-theoretic-testing-for-sql-query-migration-validation/"
+    },
+    {
+        "title": "Fine-tune SQL Server to Aurora PostgreSQL conversions with AWS Transform and Kiro",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerate-sql-server-to-aurora-postgresql-modernization-with-aws-transform-and-kiro/"
+    },
+    {
         "title": "Containerize SQL Server on AWS to reduce licensing costs and simplify operations",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/containerize-sql-server-on-aws-to-reduce-licensing-costs-and-simplify-operations/"
     },
@@ -30,13 +38,5 @@
     {
         "title": "Build resilient hybrid workloads with AWS Managed Microsoft AD (Hybrid Edition)",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/build-resilient-hybrid-workloads-with-aws-managed-microsoft-ad-hybrid-edition/"
-    },
-    {
-        "title": "How Kloia\u2019s AI-DLC Delivered a .NET Modernization Blueprint on AWS in 4 Weeks",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/how-kloias-ai-dlc-delivered-a-net-modernization-blueprint-on-aws-in-4-weeks/"
-    },
-    {
-        "title": "Migrating SQL Server FCI Storage from Amazon FSx for NetApp ONTAP Gen 1 to Gen 2",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/migrating-sql-server-fci-storage-from-amazon-fsx-for-netapp-ontap-gen-1-to-gen-2/"
     }
 ]

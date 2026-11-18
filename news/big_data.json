@@ -1,5 +1,17 @@
 [
     {
+        "title": "Reduce the complexity and cost of real-time processing with queues in Amazon Kinesis Data Streams",
+        "link": "https://aws.amazon.com/blogs/big-data/reduce-the-complexity-and-cost-of-real-time-processing-with-queues-in-amazon-kinesis-data-streams/"
+    },
+    {
+        "title": "Amazon MSK Express brokers available on AWS Graviton4-based M8g instances",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-msk-express-brokers-available-on-aws-graviton4-based-m8g-instances/"
+    },
+    {
+        "title": "How Veeva scaled big data with Amazon EMR on EKS",
+        "link": "https://aws.amazon.com/blogs/big-data/how-veeva-scaled-big-data-with-amazon-emr-on-eks/"
+    },
+    {
         "title": "Deliver petabytes of Apache Kafka data to Amazon S3 at up to 60% lower cost with Amazon MSK Express brokers",
         "link": "https://aws.amazon.com/blogs/big-data/deliver-petabytes-of-apache-kafka-data-to-amazon-s3-at-up-to-60-lower-cost-with-amazon-msk-express-brokers/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Allocate shared Amazon MSK costs to Kafka topics for cost visibility",
         "link": "https://aws.amazon.com/blogs/big-data/allocate-shared-amazon-msk-costs-to-kafka-topics-for-cost-visibility/"
-    },
-    {
-        "title": "Governance compliance beyond the catalog in Amazon SageMaker Unified Studio",
-        "link": "https://aws.amazon.com/blogs/big-data/governance-compliance-beyond-the-catalog-in-amazon-sagemaker-unified-studio/"
-    },
-    {
-        "title": "How Intuit migrated from Apache Hive Metastore to AWS Glue Data Catalog",
-        "link": "https://aws.amazon.com/blogs/big-data/how-intuit-migrated-from-apache-hive-metastore-to-aws-glue-data-catalog/"
-    },
-    {
-        "title": "46% fewer nodes, 2\u00d7 faster indexing: Confluent on Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/46-fewer-nodes-2x-faster-indexing-confluent-on-amazon-opensearch-service/"
     }
 ]

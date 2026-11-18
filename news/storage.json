@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Mycom optimized its SaaS data fabric with Amazon S3 Access Points and Amazon FSx for NetApp ONTAP",
+        "link": "https://aws.amazon.com/blogs/storage/how-mycom-optimized-its-saas-data-fabric-with-amazon-s3-access-points-and-amazon-fsx-for-netapp-ontap/"
+    },
+    {
         "title": "Introducing AWS Backup logically air-gapped vault support for Amazon RDS",
         "link": "https://aws.amazon.com/blogs/storage/introducing-aws-backup-logically-air-gapped-vault-support-for-amazon-rds/"
     },
@@ -16,7 +20,7 @@
         "link": "https://aws.amazon.com/blogs/storage/deploy-amazon-s3-object-lock-with-cross-region-replication-and-kms-encryption-using-aws-cloudformation/"
     },
     {
-        "title": "Buckets guide to what\u2019s in store with AWS Storage at re:Invent 2026",
+        "title": "Buckets\u2019 guide to what\u2019s in store with AWS Storage at re:Invent 2026",
         "link": "https://aws.amazon.com/blogs/storage/buckets-guide-to-whats-in-store-with-aws-storage-at-reinvent-2026/"
     },
     {
@@ -74,9 +78,5 @@
     {
         "title": "How MIXI built natural language search over billions of photos with Amazon S3 Vectors",
         "link": "https://aws.amazon.com/blogs/storage/how-mixi-built-natural-language-search-over-billions-of-photos-with-amazon-s3-vectors/"
-    },
-    {
-        "title": "Data-driven planning for cloud migration using AWS Storage Assessment",
-        "link": "https://aws.amazon.com/blogs/storage/data-driven-planning-for-cloud-migration-using-aws-storage-assessment/"
     }
 ]

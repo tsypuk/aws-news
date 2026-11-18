@@ -1,5 +1,25 @@
 [
     {
+        "title": "Accelerate your DynamoDB workloads with DynamoDB caching with Amazon ElastiCache Serverless for Valkey",
+        "link": "https://aws.amazon.com/blogs/database/accelerate-your-dynamodb-workloads-with-dynamodb-caching-with-amazon-elasticache-serverless-for-valkey/"
+    },
+    {
+        "title": "Use query statistics to find slow and expensive queries in Aurora DSQL",
+        "link": "https://aws.amazon.com/blogs/database/use-query-statistics-to-find-slow-and-expensive-queries-in-aurora-dsql/"
+    },
+    {
+        "title": "Add your organization\u2019s runbooks and policies using Retrieval Augmented Generation (RAG) on Amazon Aurora PostgreSQL",
+        "link": "https://aws.amazon.com/blogs/database/add-your-organizations-runbooks-and-policies-using-retrieval-augmented-generation-rag-on-amazon-aurora-postgresql/"
+    },
+    {
+        "title": "Build an AI-powered DBA assistant for Amazon Aurora and Amazon RDS with Kiro",
+        "link": "https://aws.amazon.com/blogs/database/build-an-ai-powered-dba-assistant-for-amazon-aurora-and-amazon-rds-with-kiro/"
+    },
+    {
+        "title": "Distribute Amazon RDS traffic between read replicas using Network Load Balancer",
+        "link": "https://aws.amazon.com/blogs/database/distribute-amazon-rds-traffic-between-read-replicas-using-network-load-balancer/"
+    },
+    {
         "title": "PostgreSQL large objects: Best practices for Amazon Aurora and RDS",
         "link": "https://aws.amazon.com/blogs/database/postgresql-large-objects-best-practices-for-amazon-aurora-and-rds/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Migrate from Amazon EC2 to Amazon ElastiCache Serverless with zero downtime",
         "link": "https://aws.amazon.com/blogs/database/migrate-from-amazon-ec2-to-amazon-elasticache-serverless-with-zero-downtime/"
-    },
-    {
-        "title": "Automating Oracle Data Guard switchover and failover on Amazon EC2",
-        "link": "https://aws.amazon.com/blogs/database/automating-oracle-data-guard-switchover-and-failover-on-amazon-ec2/"
-    },
-    {
-        "title": "Help prevent out-of-memory restarts on Aurora MySQL 8.4",
-        "link": "https://aws.amazon.com/blogs/database/help-prevent-out-of-memory-restarts-on-aurora-mysql-8-4/"
-    },
-    {
-        "title": "Diagnose Amazon Aurora MySQL performance using CloudWatch Database Insights",
-        "link": "https://aws.amazon.com/blogs/database/diagnose-amazon-aurora-mysql-performance-using-cloudwatch-database-insights/"
-    },
-    {
-        "title": "Automate Aurora zero-ETL recovery after global failover",
-        "link": "https://aws.amazon.com/blogs/database/automate-aurora-zero-etl-recovery-after-global-failover/"
-    },
-    {
-        "title": "How Flickr modernized caching with Amazon ElastiCache for Valkey",
-        "link": "https://aws.amazon.com/blogs/database/how-flickr-modernized-caching-with-amazon-elasticache-for-valkey/"
     }
 ]

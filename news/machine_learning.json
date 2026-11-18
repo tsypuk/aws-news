@@ -1,5 +1,61 @@
 [
     {
+        "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+        "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/"
+    },
+    {
+        "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/"
+    },
+    {
+        "title": "Cut generative AI costs: Code for rules, models for judgment",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/"
+    },
+    {
+        "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
+    },
+    {
+        "title": "Govern and discover records with common metadata in AWS Agent Registry",
+        "link": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
+    },
+    {
+        "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
+    },
+    {
+        "title": "Getting AI out of the demo and into businesses globally",
+        "link": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/"
+    },
+    {
+        "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/"
+    },
+    {
+        "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Responsible AI for agentic AI: A phased roadmap for platform and application teams",
+        "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/"
+    },
+    {
+        "title": "How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/"
+    },
+    {
         "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
         "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/"
     },
@@ -22,61 +78,5 @@
     {
         "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
         "link": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base",
-        "link": "https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/"
-    },
-    {
-        "title": "Best practices for writing Denied Topics in Amazon Bedrock Guardrails",
-        "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/"
-    },
-    {
-        "title": "Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
-        "link": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/"
-    },
-    {
-        "title": "Use prompt caching with open-weight models on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock/"
-    },
-    {
-        "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-        "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/"
-    },
-    {
-        "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-        "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/"
-    },
-    {
-        "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
-        "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
-        "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/"
-    },
-    {
-        "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/"
-    },
-    {
-        "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/"
-    },
-    {
-        "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/"
-    },
-    {
-        "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/"
-    },
-    {
-        "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Four Amazon Bedrock inference choices that affect cost",
-        "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/"
     }
 ]

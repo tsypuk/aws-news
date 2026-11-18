@@ -1,5 +1,13 @@
 [
     {
+        "title": "Agentic CCaaS: The new category for contact center platforms, and why it matters",
+        "link": "https://aws.amazon.com/blogs/contact-center/agentic-ccaas-the-new-category-for-contact-center-platforms-and-why-it-matters/"
+    },
+    {
+        "title": "Validate Amazon Connect Customer region switch with chaos engineering using AWS Fault Injection Service",
+        "link": "https://aws.amazon.com/blogs/contact-center/validate-amazon-connect-customer-region-switch-with-chaos-engineering-using-aws-fault-injection-service/"
+    },
+    {
         "title": "Evolving Customer Experience at Avis Budget Group with Amazon Connect Customer",
         "link": "https://aws.amazon.com/blogs/contact-center/evolving-customer-experience-at-avis-budget-group-with-amazon-connect-customer/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Automate email support with Amazon Connect Customer email AI agents",
         "link": "https://aws.amazon.com/blogs/contact-center/automate-email-support-with-amazon-connect-customer-email-ai-agents/"
-    },
-    {
-        "title": "Voice-Activated AI Agent with Amazon Connect Customer and Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/contact-center/voice-activated-ai-agent-with-amazon-connect-customer-and-amazon-bedrock/"
-    },
-    {
-        "title": "How AWS Professional Services delivers enterprise contact center transformation at scale",
-        "link": "https://aws.amazon.com/blogs/contact-center/how-aws-professional-services-delivers-enterprise-contact-center-transformation-at-scale/"
     }
 ]

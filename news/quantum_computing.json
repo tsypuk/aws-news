@@ -1,5 +1,9 @@
 [
     {
+        "title": "Observing prethermal dynamical phase transitions on QuEra Aquila with Amazon Braket",
+        "link": "https://aws.amazon.com/blogs/quantum-computing/observing-prethermal-dynamical-phase-transitions-on-quera-aquila-with-amazon-braket/"
+    },
+    {
         "title": "Decoding quantum errors with NVIDIA Ising Decoding on AWS",
         "link": "https://aws.amazon.com/blogs/quantum-computing/decoding-quantum-errors-with-nvidia-ising-decoding-on-aws/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Classiq and AWS Power Quantum-Classical Chemistry Innovation in Singapore with Hatch",
         "link": "https://aws.amazon.com/blogs/quantum-computing/classiq-and-aws-power-quantum-classical-chemistry-innovation-in-singapore-with-hatch/"
-    },
-    {
-        "title": "AWS Deepens Strategic Collaboration with QuEra to Bring Fault-Tolerant Quantum Computing to Amazon Braket",
-        "link": "https://aws.amazon.com/blogs/quantum-computing/aws-deepens-strategic-collaboration-with-quera-to-bring-fault-tolerant-quantum-computing-to-amazon-braket/"
     }
 ]

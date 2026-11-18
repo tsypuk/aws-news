@@ -1,5 +1,9 @@
 [
     {
+        "title": "Securing REST APIs with JWT authorizers in Amazon API Gateway",
+        "link": "https://aws.amazon.com/blogs/compute/securing-rest-apis-with-jwt-authorizers-in-amazon-api-gateway/"
+    },
+    {
         "title": "Per-customer invoice management with Amazon EventBridge Scheduler",
         "link": "https://aws.amazon.com/blogs/compute/per-customer-invoice-management-with-amazon-eventbridge-scheduler/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Exploring AWS Lambda Web Functions for building web applications",
         "link": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications/"
-    },
-    {
-        "title": "Reducing cross-AZ latency with the AWS Lambda metadata endpoint",
-        "link": "https://aws.amazon.com/blogs/compute/reducing-cross-az-latency-with-the-aws-lambda-metadata-endpoint/"
     }
 ]
