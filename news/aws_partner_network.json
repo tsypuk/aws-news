@@ -1,5 +1,13 @@
 [
     {
+        "title": "How the Managed Services Model on AWS Grows Up for Agentic AI",
+        "link": "https://aws.amazon.com/blogs/apn/how-the-managed-services-model-on-aws-grows-up-for-agentic-ai/"
+    },
+    {
+        "title": "Governing Agent Loops on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/apn/governing-agent-loops-on-amazon-bedrock/"
+    },
+    {
         "title": "Runtime governance for AI agents with Noma Security and AgentCore Gateway",
         "link": "https://aws.amazon.com/blogs/apn/runtime-governance-for-ai-agents-with-noma-security-and-agentcore-gateway/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Introducing the AWS Direct Connect Partner Program",
         "link": "https://aws.amazon.com/blogs/apn/introducing-the-aws-direct-connect-partner-program/"
-    },
-    {
-        "title": "Building trusted AI with data and AI governance partners on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/building-trusted-ai-with-data-and-ai-governance-partners-on-aws/"
-    },
-    {
-        "title": "Know Before You Go: An AWS Partner\u2019s Guide to re:Invent 2026",
-        "link": "https://aws.amazon.com/blogs/apn/know-before-you-go-an-aws-partners-guide-to-reinvent-2026/"
     }
 ]

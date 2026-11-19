@@ -1,5 +1,9 @@
 [
     {
+        "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
+        "link": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/"
+    },
+    {
         "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
         "link": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
         "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/"
-    },
-    {
-        "title": "Celebrating Our Newest AWS Heroes \u2013 September 2026",
-        "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/"
     }
 ]

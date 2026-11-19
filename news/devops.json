@@ -1,5 +1,9 @@
 [
     {
+        "title": "Get more from your Kiro investment with credit pooling: A guide for admins",
+        "link": "https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/"
+    },
+    {
         "title": "Reducing database incident MTTR by 73% with a custom AWS DevOps Agent Skill",
         "link": "https://aws.amazon.com/blogs/devops/reducing-database-incident-mttr-by-73-with-a-custom-aws-devops-agent-skill/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How Mirelo AI brought sound design to the IDE with MCP and Kiro powers",
         "link": "https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/"
-    },
-    {
-        "title": "Running production experiments with AWS AppConfig experimentation",
-        "link": "https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/"
     }
 ]

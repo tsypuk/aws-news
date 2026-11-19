@@ -1,5 +1,13 @@
 [
     {
+        "title": "Finding Amazon S3 cost savings with natural language using AWS Quick and S3 Tables",
+        "link": "https://aws.amazon.com/blogs/storage/finding-amazon-s3-cost-savings-with-natural-language-using-aws-quick-and-s3-tables/"
+    },
+    {
+        "title": "AWS named a Leader in IDC MarketScape for public cloud object storage",
+        "link": "https://aws.amazon.com/blogs/storage/aws-named-a-leader-in-idc-marketscape-for-public-cloud-object-storage/"
+    },
+    {
         "title": "How Mycom optimized its SaaS data fabric with Amazon S3 Access Points and Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/how-mycom-optimized-its-saas-data-fabric-with-amazon-s3-access-points-and-amazon-fsx-for-netapp-ontap/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Adopt AWS Backup policies at enterprise scale using AWS Organizations",
         "link": "https://aws.amazon.com/blogs/storage/adopt-aws-backup-policies-at-enterprise-scale-using-aws-organizations/"
-    },
-    {
-        "title": "How Snap optimizes AI storage with Amazon FSx for Lustre Intelligent-Tiering",
-        "link": "https://aws.amazon.com/blogs/storage/how-snap-optimizes-ai-storage-with-amazon-fsx-for-lustre-intelligent-tiering/"
-    },
-    {
-        "title": "How MIXI built natural language search over billions of photos with Amazon S3 Vectors",
-        "link": "https://aws.amazon.com/blogs/storage/how-mixi-built-natural-language-search-over-billions-of-photos-with-amazon-s3-vectors/"
     }
 ]

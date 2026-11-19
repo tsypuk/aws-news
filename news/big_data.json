@@ -1,5 +1,25 @@
 [
     {
+        "title": "Introducing automatic version upgrades for AWS Glue jobs",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-automatic-version-upgrades-for-aws-glue-jobs/"
+    },
+    {
+        "title": "Long-term Amazon Redshift observability with Datadog and Amazon S3 Tables",
+        "link": "https://aws.amazon.com/blogs/big-data/long-term-amazon-redshift-observability-with-datadog-and-amazon-s3-tables/"
+    },
+    {
+        "title": "Orchestrate DuckDB analytics pipelines with Amazon MWAA",
+        "link": "https://aws.amazon.com/blogs/big-data/orchestrate-duckdb-analytics-pipelines-with-amazon-mwaa/"
+    },
+    {
+        "title": "Introducing Amazon OpenSearch Memory: Persistent memory for AI agents",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-opensearch-memory-persistent-memory-for-ai-agents/"
+    },
+    {
+        "title": "Introducing the Apache Spark optimization agent for Amazon EMR Serverless and AWS Glue ETL",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-the-apache-spark-optimization-agent-for-amazon-emr-serverless-and-aws-glue-etl/"
+    },
+    {
         "title": "Reduce the complexity and cost of real-time processing with queues in Amazon Kinesis Data Streams",
         "link": "https://aws.amazon.com/blogs/big-data/reduce-the-complexity-and-cost-of-real-time-processing-with-queues-in-amazon-kinesis-data-streams/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "Managed cross-Region disaster recovery for Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/big-data/managed-cross-region-disaster-recovery-for-amazon-opensearch-service/"
-    },
-    {
-        "title": "Optimizing Apache HBase availability on Amazon EMR, Part 2: Diagnose and tune compaction",
-        "link": "https://aws.amazon.com/blogs/big-data/optimizing-apache-hbase-availability-on-amazon-emr-part-2-diagnose-and-tune-compaction/"
-    },
-    {
-        "title": "Build a data foundation for agentic AI on AWS: From lakehouse to MCP",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-data-foundation-for-agentic-ai-on-aws-from-lakehouse-to-mcp/"
-    },
-    {
-        "title": "Build a multi-team AI and analytics environment on Amazon SageMaker Unified Studio with Terraform",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-multi-team-ai-and-analytics-environment-on-amazon-sagemaker-unified-studio-with-terraform/"
-    },
-    {
-        "title": "How Samsung Ads federated Snowflake Iceberg tables using Amazon Cognito",
-        "link": "https://aws.amazon.com/blogs/big-data/how-samsung-ads-federated-snowflake-iceberg-tables-using-amazon-cognito/"
-    },
-    {
-        "title": "Allocate shared Amazon MSK costs to Kafka topics for cost visibility",
-        "link": "https://aws.amazon.com/blogs/big-data/allocate-shared-amazon-msk-costs-to-kafka-topics-for-cost-visibility/"
     }
 ]

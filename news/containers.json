@@ -1,5 +1,9 @@
 [
     {
+        "title": "Running GitHub Actions runners with Amazon EKS Auto Mode",
+        "link": "https://aws.amazon.com/blogs/containers/running-github-actions-runners-with-amazon-eks-auto-mode/"
+    },
+    {
         "title": "High-quality cost-effective AI image generation on Amazon ECS",
         "link": "https://aws.amazon.com/blogs/containers/high-quality-cost-effective-ai-image-generation-on-amazon-ecs/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Migrating from NGINX Ingress to ALB: Handling oauth2-proxy",
         "link": "https://aws.amazon.com/blogs/containers/migrating-from-nginx-ingress-to-alb-handling-oauth2-proxy/"
-    },
-    {
-        "title": "Implementing feature flags in container environments with AWS AppConfig",
-        "link": "https://aws.amazon.com/blogs/containers/implementing-feature-flags-in-container-environments-with-aws-appconfig/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Control your AWS Lambda runtimes with customer-managed runtimes",
+        "link": "https://aws.amazon.com/blogs/compute/control-your-aws-lambda-runtimes-with-customer-managed-runtimes/"
+    },
+    {
         "title": "Securing REST APIs with JWT authorizers in Amazon API Gateway",
         "link": "https://aws.amazon.com/blogs/compute/securing-rest-apis-with-jwt-authorizers-in-amazon-api-gateway/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Your serverless attendee\u2019s guide to AWS re:Invent 2026",
         "link": "https://aws.amazon.com/blogs/compute/your-serverless-attendees-guide-to-aws-reinvent-2026/"
-    },
-    {
-        "title": "Exploring AWS Lambda Web Functions for building web applications",
-        "link": "https://aws.amazon.com/blogs/compute/exploring-aws-lambda-web-functions-for-building-web-applications/"
     }
 ]

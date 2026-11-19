@@ -1,5 +1,21 @@
 [
     {
+        "title": "New Site-to-Site VPN connections will default to recommended cryptography",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/new-site-to-site-vpn-connections-will-default-to-recommended-cryptography/"
+    },
+    {
+        "title": "Introducing network calls in Amazon CloudFront Functions",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-network-calls-in-amazon-cloudfront-functions/"
+    },
+    {
+        "title": "Choosing the right network architecture for Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/choosing-the-right-network-architecture-for-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Hybrid DNS with Amazon Route 53 Global Resolver for private connections on AWS Cloud WAN",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/hybrid-dns-with-amazon-route-53-global-resolver-for-private-connections-on-aws-cloud-wan/"
+    },
+    {
         "title": "Introducing 1:1 NAT on AWS Transit Gateway and AWS Cloud WAN",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-11-nat-on-aws-transit-gateway-and-aws-cloud-wan/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Powering predictable costs with AWS Direct Connect flat-rate pricing",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/powering-predictable-costs-with-aws-direct-connect-flat-rate-pricing/"
-    },
-    {
-        "title": "Protect MCP Endpoints at the Edge with Amazon CloudFront and AWS WAF",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/protect-mcp-endpoints-at-the-edge-with-amazon-cloudfront-and-aws-waf/"
-    },
-    {
-        "title": "Simplify VPC Flow Logs with EC2 resource tags and next-hop metadata",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-vpc-flow-logs-with-ec2-resource-tags-and-next-hop-metadata/"
-    },
-    {
-        "title": "Routing UDP to on-premises Network Load Balancer targets",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/routing-udp-to-on-premises-network-load-balancer-targets/"
-    },
-    {
-        "title": "AI best practices for AWS network operations with AI agents and MCP",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/ai-best-practices-for-aws-network-operations-with-ai-agents-and-mcp/"
     }
 ]

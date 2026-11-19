@@ -1,5 +1,17 @@
 [
     {
+        "title": "High-throughput Transfer Manager for Amazon S3 in Rust is now generally available",
+        "link": "https://aws.amazon.com/blogs/developer/high-throughput-transfer-manager-for-amazon-s3-in-rust-is-now-generally-available/"
+    },
+    {
+        "title": "Announcing the developer preview of the AWS SDK for Python v4",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-developer-preview-aws-sdk-for-python-v4/"
+    },
+    {
+        "title": "Announcing the developer preview of Transfer Manager for Amazon S3 in the AWS SDK for JavaScript v3",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-the-developer-preview-of-transfer-manager-for-amazon-s3-in-the-aws-sdk-for-javascript-v3/"
+    },
+    {
         "title": "Introducing Smithy IDL 2.1",
         "link": "https://aws.amazon.com/blogs/developer/introducing-smithy-idl-2-1/"
     },
@@ -66,17 +78,5 @@
     {
         "title": "Annual .NET target updates for the AWS SDK for .NET",
         "link": "https://aws.amazon.com/blogs/developer/annual-net-target-updates-for-the-aws-sdk-for-net/"
-    },
-    {
-        "title": "Installing and updating the AWS CLI with single-line commands",
-        "link": "https://aws.amazon.com/blogs/developer/installing-and-updating-the-aws-cli-with-single-line-commands/"
-    },
-    {
-        "title": "Updating TypeScript version support in AWS SDK for JavaScript v3",
-        "link": "https://aws.amazon.com/blogs/developer/updating-typescript-version-support-in-aws-sdk-for-javascript-v3/"
-    },
-    {
-        "title": "AWS CLI v1 maintenance mode: announcing changes to dependency updates",
-        "link": "https://aws.amazon.com/blogs/developer/aws-cli-v1-maintenance-mode-announcing-changes-to-dependency-updates/"
     }
 ]

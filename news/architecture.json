@@ -1,5 +1,21 @@
 [
     {
+        "title": "Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda",
+        "link": "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/"
+    },
+    {
+        "title": "How United Airlines streams database changes to Apache Iceberg with Amazon Data Firehose",
+        "link": "https://aws.amazon.com/blogs/architecture/how-united-airlines-streams-database-changes-to-apache-iceberg-with-amazon-data-firehose/"
+    },
+    {
+        "title": "Resilience testing your agents on Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/architecture/resilience-testing-your-agents-on-amazon-bedrock-agentcore/"
+    },
+    {
+        "title": "Block DNS threats with Infoblox rules in Amazon Route 53 Resolver DNS Firewall",
+        "link": "https://aws.amazon.com/blogs/architecture/block-dns-threats-with-infoblox-rules-in-amazon-route-53-resolver-dns-firewall/"
+    },
+    {
         "title": "How Rakbank built centralized observability at scale with Amazon OpenSearch Service",
         "link": "https://aws.amazon.com/blogs/architecture/how-rakbank-built-centralized-observability-at-scale-with-amazon-opensearch-service/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
         "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/"
-    },
-    {
-        "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
-        "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/"
-    },
-    {
-        "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/"
-    },
-    {
-        "title": "How Revinate accelerated API adoption with Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/"
-    },
-    {
-        "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
-        "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/"
     }
 ]

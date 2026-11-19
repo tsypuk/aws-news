@@ -1,5 +1,9 @@
 [
     {
+        "title": "Governing your AI workloads on AWS at scale: visibility, controls, and monitoring",
+        "link": "https://aws.amazon.com/blogs/mt/governing-your-ai-workloads-on-aws-at-scale-visibility-controls-and-monitoring/"
+    },
+    {
         "title": "Three questions to ask about AI inference in Amazon EKS, and how Amazon CloudWatch answers them",
         "link": "https://aws.amazon.com/blogs/mt/three-questions-to-ask-about-ai-inference-in-amazon-eks-and-how-amazon-cloudwatch-answers-them/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AI-powered anomaly detection for AWS Systems Manager Session Manager logs using Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/mt/ai-powered-anomaly-detection-for-aws-systems-manager-session-manager-logs-using-amazon-bedrock/"
-    },
-    {
-        "title": "Control investigation costs before they start with AWS DevOps Agent",
-        "link": "https://aws.amazon.com/blogs/mt/control-investigation-costs-before-they-start-with-aws-devops-agent/"
     }
 ]
