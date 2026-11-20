@@ -1,5 +1,21 @@
 [
     {
+        "title": "Handling large volume of transactions with AWS Lambda Managed Instances",
+        "link": "https://aws.amazon.com/blogs/compute/handling-large-volume-of-transactions-with-aws-lambda-managed-instances/"
+    },
+    {
+        "title": "Announcing 30-minute timeout for on-demand AWS Lambda Event Functions",
+        "link": "https://aws.amazon.com/blogs/compute/announcing-30-minute-timeout-for-on-demand-aws-lambda-event-functions/"
+    },
+    {
+        "title": "AWS Lambda Durable Functions observability with OpenTelemetry",
+        "link": "https://aws.amazon.com/blogs/compute/aws-lambda-durable-functions-observability-with-opentelemetry/"
+    },
+    {
+        "title": "Monitor the efficiency and availability of accelerated computing instances with Amazon EC2 Detailed Monitoring and performance status checks",
+        "link": "https://aws.amazon.com/blogs/compute/monitor-the-efficiency-and-availability-of-accelerated-computing-instances-with-amazon-ec2-detailed-monitoring-and-performance-status-checks/"
+    },
+    {
         "title": "Control your AWS Lambda runtimes with customer-managed runtimes",
         "link": "https://aws.amazon.com/blogs/compute/control-your-aws-lambda-runtimes-with-customer-managed-runtimes/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Observing AWS Lambda durable functions with the Durable Execution Telemetry Exporter",
         "link": "https://aws.amazon.com/blogs/compute/observing-aws-lambda-durable-functions-with-the-durable-execution-telemetry-exporter/"
-    },
-    {
-        "title": "Building document-investigation agents with Amazon Bedrock AgentCore and Amazon S3 Files",
-        "link": "https://aws.amazon.com/blogs/compute/building-document-investigation-agents-with-amazon-bedrock-agentcore-and-amazon-s3-files/"
-    },
-    {
-        "title": "OS patching and upgrades with Amazon EC2 root volume replacement",
-        "link": "https://aws.amazon.com/blogs/compute/os-patching-and-upgrades-with-amazon-ec2-root-volume-replacement/"
-    },
-    {
-        "title": "Building an AEO scoring pipeline with AWS Lambda durable functions",
-        "link": "https://aws.amazon.com/blogs/compute/building-an-aeo-scoring-pipeline-with-aws-lambda-durable-functions/"
-    },
-    {
-        "title": "Your serverless attendee\u2019s guide to AWS re:Invent 2026",
-        "link": "https://aws.amazon.com/blogs/compute/your-serverless-attendees-guide-to-aws-reinvent-2026/"
     }
 ]

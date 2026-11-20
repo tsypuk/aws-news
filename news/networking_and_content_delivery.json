@@ -1,5 +1,29 @@
 [
     {
+        "title": "Introducing mTLS for Network Load Balancer",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-mtls-for-network-load-balancer/"
+    },
+    {
+        "title": "Introducing policy-based routing for AWS Transit Gateway",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-policy-based-routing-for-aws-transit-gateway/"
+    },
+    {
+        "title": "AWS Network Firewall proxy and native NAT Gateway integration",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/aws-network-firewall-proxy-and-native-nat-gateway-integration/"
+    },
+    {
+        "title": "Fast failover with Amazon Route 53 Private Endpoint Health Checks",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/fast-failover-with-amazon-route-53-private-endpoint-health-checks/"
+    },
+    {
+        "title": "Introducing resource context for firewall policies with AWS Transit Gateway",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-resource-context-for-firewall-policies-with-aws-transit-gateway/"
+    },
+    {
+        "title": "Connect business units with AWS Cloud WAN and Amazon VPC Lattice",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/connect-business-units-with-aws-cloud-wan-and-amazon-vpc-lattice/"
+    },
+    {
         "title": "New Site-to-Site VPN connections will default to recommended cryptography",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/new-site-to-site-vpn-connections-will-default-to-recommended-cryptography/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Designing geo-segmented AWS Cloud WAN with service insertion",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/designing-geo-segmented-aws-cloud-wan-with-service-insertion/"
-    },
-    {
-        "title": "Your AWS Networking and Content Delivery guide to re:Invent 2026",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/your-aws-networking-and-content-delivery-guide-to-reinvent-2026/"
-    },
-    {
-        "title": "Use private domain-name targets with Amazon VPC Lattice",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-private-domain-name-targets-with-amazon-vpc-lattice/"
-    },
-    {
-        "title": "How Amazon CloudFront secures and accelerates the AWS MCP Server",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-amazon-cloudfront-secures-and-accelerates-the-aws-mcp-server/"
-    },
-    {
-        "title": "Cross-account canary routing with Amazon VPC Lattice and Amazon API Gateway",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/cross-account-canary-routing-with-amazon-vpc-lattice-and-amazon-api-gateway/"
-    },
-    {
-        "title": "Provisioning AWS Interconnect \u2013 multicloud with the Kiro agentic IDE",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/provisioning-aws-interconnect-multicloud-with-the-kiro-agentic-ide/"
-    },
-    {
-        "title": "Powering predictable costs with AWS Direct Connect flat-rate pricing",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/powering-predictable-costs-with-aws-direct-connect-flat-rate-pricing/"
     }
 ]

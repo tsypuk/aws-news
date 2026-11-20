@@ -1,5 +1,37 @@
 [
     {
+        "title": "How Klaviyo processes 3 billion daily events at scale with Amazon MSK Express",
+        "link": "https://aws.amazon.com/blogs/big-data/how-klaviyo-processes-3-billion-daily-events-at-scale-with-amazon-msk-express/"
+    },
+    {
+        "title": "Announcing in-place upgrades from Standard brokers to Express brokers for Amazon MSK",
+        "link": "https://aws.amazon.com/blogs/big-data/announcing-in-place-upgrades-from-standard-brokers-to-express-brokers-for-amazon-msk/"
+    },
+    {
+        "title": "How Twilio modernized billing at 70% lower cost with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/how-twilio-modernized-billing-at-70-lower-cost-with-amazon-redshift/"
+    },
+    {
+        "title": "Understanding and optimizing materialized views in Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/understanding-and-optimizing-materialized-views-in-amazon-redshift/"
+    },
+    {
+        "title": "Introducing Amazon EMR Serverless Flex: Run non-urgent Spark jobs at a discount",
+        "link": "https://aws.amazon.com/blogs/big-data/introducing-amazon-emr-serverless-flex-run-non-urgent-spark-jobs-at-a-discount/"
+    },
+    {
+        "title": "How Moonfrog scales analytics and lowers query cost with Amazon Redshift RG instances",
+        "link": "https://aws.amazon.com/blogs/big-data/how-moonfrog-scales-analytics-and-lowers-query-cost-with-amazon-redshift-rg-instances/"
+    },
+    {
+        "title": "Guardrails and cost control for your agentic workloads with Amazon Redshift",
+        "link": "https://aws.amazon.com/blogs/big-data/guardrails-and-cost-control-for-your-agentic-workloads-with-amazon-redshift/"
+    },
+    {
+        "title": "Amazon S3 Tables with dbt: Iceberg-based data transformations using AWS Glue",
+        "link": "https://aws.amazon.com/blogs/big-data/amazon-s3-tables-with-dbt-iceberg-based-data-transformations-using-aws-glue/"
+    },
+    {
         "title": "Introducing automatic version upgrades for AWS Glue jobs",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-automatic-version-upgrades-for-aws-glue-jobs/"
     },
@@ -46,37 +78,5 @@
     {
         "title": "Introducing enhanced snapshots for Amazon Managed Service for Apache Flink",
         "link": "https://aws.amazon.com/blogs/big-data/introducing-enhanced-snapshots-for-amazon-managed-service-for-apache-flink/"
-    },
-    {
-        "title": "Upgrading and troubleshooting Amazon MWAA with AWS agent skills",
-        "link": "https://aws.amazon.com/blogs/big-data/upgrading-and-troubleshooting-amazon-mwaa-with-aws-agent-skills/"
-    },
-    {
-        "title": "Understanding span queries in Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/understanding-span-queries-in-amazon-opensearch-service/"
-    },
-    {
-        "title": "Optimizing PySpark UDFs on AWS Glue 6.0 with native Arrow UDFs",
-        "link": "https://aws.amazon.com/blogs/big-data/optimizing-pyspark-udfs-on-aws-glue-6-0-with-native-arrow-udfs/"
-    },
-    {
-        "title": "Multi-statement transactions for Apache Iceberg tables in Amazon Redshift",
-        "link": "https://aws.amazon.com/blogs/big-data/multi-statement-transactions-for-apache-iceberg-tables-in-amazon-redshift/"
-    },
-    {
-        "title": "Build a self-healing ETL pipeline with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/big-data/build-a-self-healing-etl-pipeline-with-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Choose the right streaming ingestion path for Apache Iceberg tables on AWS",
-        "link": "https://aws.amazon.com/blogs/big-data/choose-the-right-streaming-ingestion-path-for-apache-iceberg-tables-on-aws/"
-    },
-    {
-        "title": "Migrating from Apache Hudi-based data lake to Apache Iceberg-based data lake",
-        "link": "https://aws.amazon.com/blogs/big-data/migrating-from-apache-hudi-based-data-lake-to-apache-iceberg-based-data-lake/"
-    },
-    {
-        "title": "Managed cross-Region disaster recovery for Amazon OpenSearch Service",
-        "link": "https://aws.amazon.com/blogs/big-data/managed-cross-region-disaster-recovery-for-amazon-opensearch-service/"
     }
 ]

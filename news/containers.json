@@ -1,5 +1,17 @@
 [
     {
+        "title": "Karpenter v1.15: GPU-aware provisioning, smarter node repair, and more",
+        "link": "https://aws.amazon.com/blogs/containers/karpenter-v1-15-gpu-aware-provisioning-smarter-node-repair-and-more/"
+    },
+    {
+        "title": "Your guide to containers at AWS re:Invent 2026",
+        "link": "https://aws.amazon.com/blogs/containers/your-guide-to-containers-at-aws-reinvent-2026/"
+    },
+    {
+        "title": "Use Amazon ECR global authentication token across AWS Regions",
+        "link": "https://aws.amazon.com/blogs/containers/use-amazon-ecr-global-authentication-token-across-aws-regions/"
+    },
+    {
         "title": "Running GitHub Actions runners with Amazon EKS Auto Mode",
         "link": "https://aws.amazon.com/blogs/containers/running-github-actions-runners-with-amazon-eks-auto-mode/"
     },
@@ -26,17 +38,5 @@
     {
         "title": "Measuring developer experience on an Amazon EKS developer platform",
         "link": "https://aws.amazon.com/blogs/containers/measuring-developer-experience-on-an-amazon-eks-developer-platform/"
-    },
-    {
-        "title": "Observability patterns for AI agents on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/containers/observability-patterns-for-ai-agents-on-amazon-eks/"
-    },
-    {
-        "title": "Automating secure container registry management for air-gapped AWS workloads",
-        "link": "https://aws.amazon.com/blogs/containers/automating-secure-container-registry-management-for-air-gapped-aws-workloads/"
-    },
-    {
-        "title": "Migrating from NGINX Ingress to ALB: Handling oauth2-proxy",
-        "link": "https://aws.amazon.com/blogs/containers/migrating-from-nginx-ingress-to-alb-handling-oauth2-proxy/"
     }
 ]

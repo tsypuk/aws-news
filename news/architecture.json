@@ -1,5 +1,13 @@
 [
     {
+        "title": "AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS",
+        "link": "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/"
+    },
+    {
+        "title": "How Country Road Group built a pattern-driven integration solution on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-country-road-group-built-a-pattern-driven-integration-solution-on-aws/"
+    },
+    {
         "title": "Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda",
         "link": "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Validating your DR commitment: From controlled test to real-world readiness",
         "link": "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness/"
-    },
-    {
-        "title": "Three business decisions that define your DR success",
-        "link": "https://aws.amazon.com/blogs/architecture/three-business-decisions-that-define-your-dr-success/"
-    },
-    {
-        "title": "Automating the full AWS DRS agent lifecycle: Install, heal, and offboard",
-        "link": "https://aws.amazon.com/blogs/architecture/automating-the-full-aws-drs-agent-lifecycle-install-heal-and-offboard/"
     }
 ]

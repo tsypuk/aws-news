@@ -1,5 +1,65 @@
 [
     {
+        "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
+    },
+    {
+        "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/"
+    },
+    {
+        "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/"
+    },
+    {
+        "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/"
+    },
+    {
+        "title": "Run your whole selling business in AWS Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/"
+    },
+    {
+        "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/"
+    },
+    {
+        "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+        "link": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/"
+    },
+    {
+        "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/"
+    },
+    {
+        "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/"
+    },
+    {
+        "title": "Optimize AI economics on Amazon Bedrock with Accenture\u2019s sequenced approach",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/"
+    },
+    {
+        "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+        "link": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/"
+    },
+    {
+        "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/"
+    },
+    {
+        "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+        "link": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/"
+    },
+    {
+        "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+        "link": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/"
+    },
+    {
+        "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/"
+    },
+    {
         "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
         "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/"
     },
@@ -18,65 +78,5 @@
     {
         "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/"
-    },
-    {
-        "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
-        "link": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/"
-    },
-    {
-        "title": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
-        "link": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/"
-    },
-    {
-        "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/"
-    },
-    {
-        "title": "How Social Department built culture-aware video discovery",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/"
-    },
-    {
-        "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
-        "link": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/"
-    },
-    {
-        "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/"
-    },
-    {
-        "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
-        "link": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/"
-    },
-    {
-        "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/"
-    },
-    {
-        "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/"
-    },
-    {
-        "title": "Cut generative AI costs: Code for rules, models for judgment",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/"
-    },
-    {
-        "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/"
-    },
-    {
-        "title": "Govern and discover records with common metadata in AWS Agent Registry",
-        "link": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/"
-    },
-    {
-        "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/"
-    },
-    {
-        "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
-        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/"
-    },
-    {
-        "title": "Getting AI out of the demo and into businesses globally",
-        "link": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "title": "Announcing AWS Common Runtime (CRT) v1.0.0",
+        "link": "https://aws.amazon.com/blogs/developer/announcing-aws-common-runtime-crt-v1-0-0/"
+    },
+    {
         "title": "High-throughput Transfer Manager for Amazon S3 in Rust is now generally available",
         "link": "https://aws.amazon.com/blogs/developer/high-throughput-transfer-manager-for-amazon-s3-in-rust-is-now-generally-available/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "AWS Durable Execution SDK for .NET now Generally Available",
         "link": "https://aws.amazon.com/blogs/developer/aws-durable-execution-sdk-for-net-now-generally-available/"
-    },
-    {
-        "title": "Annual .NET target updates for the AWS SDK for .NET",
-        "link": "https://aws.amazon.com/blogs/developer/annual-net-target-updates-for-the-aws-sdk-for-net/"
     }
 ]

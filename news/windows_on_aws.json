@@ -1,5 +1,9 @@
 [
     {
+        "title": "Accelerating the migration of end-of-support applications",
+        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/accelerating-the-migration-of-end-of-support-applications/"
+    },
+    {
         "title": "Formal and Game-theoretic Testing for SQL Query Migration Validation",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/formal-and-game-theoretic-testing-for-sql-query-migration-validation/"
     },
@@ -34,9 +38,5 @@
     {
         "title": "Microsoft workloads on AWS: Your complete re:Invent 2026 guide",
         "link": "https://aws.amazon.com/blogs/modernizing-with-aws/microsoft-workloads-on-aws-your-complete-reinvent-2026-guide/"
-    },
-    {
-        "title": "Build resilient hybrid workloads with AWS Managed Microsoft AD (Hybrid Edition)",
-        "link": "https://aws.amazon.com/blogs/modernizing-with-aws/build-resilient-hybrid-workloads-with-aws-managed-microsoft-ad-hybrid-edition/"
     }
 ]
