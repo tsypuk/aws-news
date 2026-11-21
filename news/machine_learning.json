@@ -1,5 +1,33 @@
 [
     {
+        "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+        "link": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/"
+    },
+    {
+        "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/"
+    },
+    {
+        "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/"
+    },
+    {
+        "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/"
+    },
+    {
+        "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/"
+    },
+    {
+        "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+        "link": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/"
+    },
+    {
+        "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/"
+    },
+    {
         "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/"
     },
@@ -50,33 +78,5 @@
     {
         "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
         "link": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/"
-    },
-    {
-        "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/"
-    },
-    {
-        "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/"
-    },
-    {
-        "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
-        "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/"
-    },
-    {
-        "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
-        "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/"
-    },
-    {
-        "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/"
-    },
-    {
-        "title": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/"
-    },
-    {
-        "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/"
     }
 ]

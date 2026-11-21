@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Bee implemented Zero Operator Access for personal AI on AWS",
+        "link": "https://aws.amazon.com/blogs/architecture/how-bee-implemented-zero-operator-access-for-personal-ai-on-aws/"
+    },
+    {
         "title": "AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS",
         "link": "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "How to run a DR readiness engagement",
         "link": "https://aws.amazon.com/blogs/architecture/how-to-run-a-dr-readiness-engagement/"
-    },
-    {
-        "title": "Validating your DR commitment: From controlled test to real-world readiness",
-        "link": "https://aws.amazon.com/blogs/architecture/validating-your-dr-commitment-from-controlled-test-to-real-world-readiness/"
     }
 ]

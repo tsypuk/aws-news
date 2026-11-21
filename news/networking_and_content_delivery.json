@@ -1,5 +1,9 @@
 [
     {
+        "title": "Writing AWS WAF policy for WebBotAuth bots registered with AWS Agent Registry",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/writing-aws-waf-policy-for-webbotauth-bots-registered-with-aws-agent-registry/"
+    },
+    {
         "title": "Introducing mTLS for Network Load Balancer",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-mtls-for-network-load-balancer/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Securing autonomous fleet communications at scale with mTLS over QUIC using Network Load Balancer passthrough",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-autonomous-fleet-communications-at-scale-with-mtls-over-quic-using-network-load-balancer-passthrough/"
-    },
-    {
-        "title": "Designing geo-segmented AWS Cloud WAN with service insertion",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/designing-geo-segmented-aws-cloud-wan-with-service-insertion/"
     }
 ]

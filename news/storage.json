@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reduce Amazon DynamoDB backup storage costs with incremental backups in AWS Backup",
+        "link": "https://aws.amazon.com/blogs/storage/reduce-amazon-dynamodb-backup-storage-costs-with-incremental-backups-in-aws-backup/"
+    },
+    {
+        "title": "Build cost-effective semantic search for documents stored in Amazon S3",
+        "link": "https://aws.amazon.com/blogs/storage/build-cost-effective-semantic-search-for-documents-stored-in-amazon-s3/"
+    },
+    {
         "title": "Finding Amazon S3 cost savings with natural language using AWS Quick and S3 Tables",
         "link": "https://aws.amazon.com/blogs/storage/finding-amazon-s3-cost-savings-with-natural-language-using-aws-quick-and-s3-tables/"
     },
@@ -70,13 +78,5 @@
     {
         "title": "Preserve FlexClone space efficiency when migrating to Amazon FSx for NetApp ONTAP",
         "link": "https://aws.amazon.com/blogs/storage/preserve-flexclone-space-efficiency-when-migrating-to-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "How Halliburton Landmark improves seismic interpretation performance and data management using Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/storage/how-halliburton-landmark-enhanced-seismic-interpretation-performance-and-data-management-using-amazon-fsx-for-netapp-ontap/"
-    },
-    {
-        "title": "Adopt AWS Backup policies at enterprise scale using AWS Organizations",
-        "link": "https://aws.amazon.com/blogs/storage/adopt-aws-backup-policies-at-enterprise-scale-using-aws-organizations/"
     }
 ]

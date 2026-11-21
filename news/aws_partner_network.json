@@ -1,5 +1,21 @@
 [
     {
+        "title": "Predictive Maintenance at Scale with Treon Flow and AWS IoT Core",
+        "link": "https://aws.amazon.com/blogs/apn/predictive-maintenance-at-scale-with-treon-flow-and-aws-iot-core/"
+    },
+    {
+        "title": "Bringing AI code governance into Kiro with Qodo",
+        "link": "https://aws.amazon.com/blogs/apn/bringing-ai-code-governance-into-kiro-with-qodo/"
+    },
+    {
+        "title": "Reach more customers, close deals faster with new AI-powered capabilities in AWS Partner Central",
+        "link": "https://aws.amazon.com/blogs/apn/new-ai-powered-capabilities-in-aws-partner-central/"
+    },
+    {
+        "title": "Precision Retrieval for Regulated Industries with Vespa.ai on AWS",
+        "link": "https://aws.amazon.com/blogs/apn/precision-retrieval-for-regulated-industries-with-vespa-ai-on-aws/"
+    },
+    {
         "title": "Graph-based fraud detection with Thoughtworks and Amazon SageMaker",
         "link": "https://aws.amazon.com/blogs/apn/graph-based-fraud-detection-with-thoughtworks-and-amazon-sagemaker/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Automating compliance testing with Fisent, Launchpad.io, and Amazon Bedrock",
         "link": "https://aws.amazon.com/blogs/apn/automating-compliance-testing-with-fisent-bizai-on-pega-and-amazon-bedrock/"
-    },
-    {
-        "title": "A Data-First Approach to Mainframe Modernization with AWS Transform and Qlik",
-        "link": "https://aws.amazon.com/blogs/apn/a-data-first-approach-to-mainframe-modernization-with-aws-transform-and-qlik/"
-    },
-    {
-        "title": "Autonomous replenishment with Databricks MMF, Genie, and Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/apn/autonomous-replenishment-with-databricks-mmf-genie-and-amazon-quick/"
-    },
-    {
-        "title": "Optimize AI Costs with New Relic Cloud Cost Intelligence on AWS",
-        "link": "https://aws.amazon.com/blogs/apn/optimize-ai-costs-with-new-relic-cloud-cost-intelligence-on-aws/"
-    },
-    {
-        "title": "Scaling Regulated AI with Domino on Amazon FSx for NetApp ONTAP",
-        "link": "https://aws.amazon.com/blogs/apn/scaling-regulated-ai-with-domino-on-amazon-fsx-for-netapp-ontap/"
     }
 ]
