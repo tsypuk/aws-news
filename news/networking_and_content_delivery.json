@@ -1,5 +1,9 @@
 [
     {
+        "title": "How Amazon CloudFront helped deliver Grand Theft Auto VI to players",
+        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/how-amazon-cloudfront-helped-deliver-grand-theft-auto-vi-to-players/"
+    },
+    {
         "title": "Writing AWS WAF policy for WebBotAuth bots registered with AWS Agent Registry",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/writing-aws-waf-policy-for-webbotauth-bots-registered-with-aws-agent-registry/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Use Bring Your Own ASN (BYOASN) to enforce data sovereignty on AWS Direct Connect public VIFs",
         "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/use-bring-your-own-asn-byoasn-to-enforce-data-sovereignty-on-aws-direct-connect-public-vifs/"
-    },
-    {
-        "title": "Securing autonomous fleet communications at scale with mTLS over QUIC using Network Load Balancer passthrough",
-        "link": "https://aws.amazon.com/blogs/networking-and-content-delivery/securing-autonomous-fleet-communications-at-scale-with-mtls-over-quic-using-network-load-balancer-passthrough/"
     }
 ]

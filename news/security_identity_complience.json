@@ -1,5 +1,21 @@
 [
     {
+        "title": "Know the identity behind the role: Authorize and audit with trusted identity propagation",
+        "link": "https://aws.amazon.com/blogs/security/know-the-identity-behind-the-role-authorize-and-audit-with-trusted-identity-propagation/"
+    },
+    {
+        "title": "Introducing AWS WAF simplified pricing",
+        "link": "https://aws.amazon.com/blogs/security/introducing-aws-waf-simplified-pricing/"
+    },
+    {
+        "title": "Introducing API and AI security on AWS, from discovery to protection",
+        "link": "https://aws.amazon.com/blogs/security/introducing-api-and-ai-security-on-aws-from-discovery-to-protection/"
+    },
+    {
+        "title": "Protect identity data with point-in-time recovery in Amazon Cognito",
+        "link": "https://aws.amazon.com/blogs/security/protect-identity-data-with-point-in-time-recovery-in-amazon-cognito/"
+    },
+    {
         "title": "Scope down permissions of existing sessions using AWS STS GetScopedCredentials",
         "link": "https://aws.amazon.com/blogs/security/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials/"
     },
@@ -62,21 +78,5 @@
     {
         "title": "Digital sovereignty at re:Invent 2026: Sessions you won\u2019t want to miss",
         "link": "https://aws.amazon.com/blogs/security/digital-sovereignty-at-reinvent-2026-sessions-you-wont-want-to-miss/"
-    },
-    {
-        "title": "Help defend against memory poisoning in Amazon Bedrock AgentCore with multi-layer write validation",
-        "link": "https://aws.amazon.com/blogs/security/help-defend-against-memory-poisoning-in-amazon-bedrock-agentcore-with-multi-layer-write-validation/"
-    },
-    {
-        "title": "Simplify cross-partition access with AWS IAM outbound identity federation",
-        "link": "https://aws.amazon.com/blogs/security/simplify-cross-partition-access-with-aws-iam-outbound-identity-federation/"
-    },
-    {
-        "title": "Addressing protocol security gaps in multi-tenant Kubernetes",
-        "link": "https://aws.amazon.com/blogs/security/addressing-protocol-security-gaps-in-multi-tenant-kubernetes/"
-    },
-    {
-        "title": "Introducing AWS account access manager: IAM role flexibility with centralized workforce access",
-        "link": "https://aws.amazon.com/blogs/security/introducing-aws-account-access-manager-iam-role-flexibility-with-centralized-workforce-access/"
     }
 ]
