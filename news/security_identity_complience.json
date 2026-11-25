@@ -1,5 +1,29 @@
 [
     {
+        "title": "Introducing context-aware rules for AWS Network Firewall",
+        "link": "https://aws.amazon.com/blogs/security/introducing-context-aware-rules-for-aws-network-firewall/"
+    },
+    {
+        "title": "Introducing AWS Network Firewall Next Generation policy",
+        "link": "https://aws.amazon.com/blogs/security/introducing-aws-network-firewall-next-generation-policy/"
+    },
+    {
+        "title": "AWS Network Firewall introduces automated internet firewall mode (Preview)",
+        "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-introduces-automated-internet-firewall-mode-preview/"
+    },
+    {
+        "title": "Delegate user access to AI agents with Amazon Cognito token exchange",
+        "link": "https://aws.amazon.com/blogs/security/delegate-user-access-to-ai-agents-with-amazon-cognito-token-exchange/"
+    },
+    {
+        "title": "AWS completed its second ISO/IEC 42001:2023 surveillance audit",
+        "link": "https://aws.amazon.com/blogs/security/aws-completed-its-second-iso-iec-420012023-surveillance-audit/"
+    },
+    {
+        "title": "AWS achieves Spain\u2019s national Limited Distribution (Difusi\u00f3n Limitada) and NATO Restricted accreditation in the AWS Europe (Spain) Region",
+        "link": "https://aws.amazon.com/blogs/security/aws-achieves-spains-national-limited-distribution-difusion-limitada-and-nato-restricted-accreditation-in-the-aws-europe-spain-region/"
+    },
+    {
         "title": "Know the identity behind the role: Authorize and audit with trusted identity propagation",
         "link": "https://aws.amazon.com/blogs/security/know-the-identity-behind-the-role-authorize-and-audit-with-trusted-identity-propagation/"
     },
@@ -54,29 +78,5 @@
     {
         "title": "Using the AWS RMiT workbook and ISO Compliance Guides to support your BNM submissions",
         "link": "https://aws.amazon.com/blogs/security/using-the-aws-rmit-workbook-and-iso-compliance-guides-to-support-your-bnm-submissions/"
-    },
-    {
-        "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
-        "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/"
-    },
-    {
-        "title": "Ease of use and secure defaults in the new AWS experience",
-        "link": "https://aws.amazon.com/blogs/security/ease-of-use-and-secure-defaults-in-the-new-aws-experience/"
-    },
-    {
-        "title": "Part 4 \u2013 Cybersecurity journeys: What I\u2019d tell my younger self",
-        "link": "https://aws.amazon.com/blogs/security/part-4-cybersecurity-journeys-what-id-tell-my-younger-self/"
-    },
-    {
-        "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
-        "link": "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/"
-    },
-    {
-        "title": "AWS refreshes ProcessUnity Global Risk Exchange assessment to enhance customer\u2019s third-party due diligence",
-        "link": "https://aws.amazon.com/blogs/security/aws-refreshes-processunity-global-risk-exchange-assessment-to-enhance-customers-third-party-due-diligence/"
-    },
-    {
-        "title": "Digital sovereignty at re:Invent 2026: Sessions you won\u2019t want to miss",
-        "link": "https://aws.amazon.com/blogs/security/digital-sovereignty-at-reinvent-2026-sessions-you-wont-want-to-miss/"
     }
 ]

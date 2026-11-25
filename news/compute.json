@@ -72,11 +72,11 @@
         "link": "https://aws.amazon.com/blogs/compute/introducing-queue-consumption-mode-for-apache-kafka-in-aws-lambda/"
     },
     {
-        "title": "Unlocking full-stack observability for AWS Outposts",
-        "link": "https://aws.amazon.com/blogs/compute/unlocking-full-stack-observability-for-aws-outposts/"
-    },
-    {
         "title": "Observing AWS Lambda durable functions with the Durable Execution Telemetry Exporter",
         "link": "https://aws.amazon.com/blogs/compute/observing-aws-lambda-durable-functions-with-the-durable-execution-telemetry-exporter/"
+    },
+    {
+        "title": "Building document-investigation agents with Amazon Bedrock AgentCore and Amazon S3 Files",
+        "link": "https://aws.amazon.com/blogs/compute/building-document-investigation-agents-with-amazon-bedrock-agentcore-and-amazon-s3-files/"
     }
 ]
