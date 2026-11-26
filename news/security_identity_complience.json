@@ -1,5 +1,25 @@
 [
     {
+        "title": "Make post-quantum cryptography updates routine with AWS-LC",
+        "link": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc/"
+    },
+    {
+        "title": "ICYMI: October 2026 @AWS Security",
+        "link": "https://aws.amazon.com/blogs/security/icymi-october-2026-aws-security/"
+    },
+    {
+        "title": "Secure agentic access to AWS with Enterprise-Managed Authorization",
+        "link": "https://aws.amazon.com/blogs/security/secure-agentic-access-to-aws-with-enterprise-managed-authorization/"
+    },
+    {
+        "title": "Reduce operational overhead by migrating from AWS CloudHSM to AWS KMS",
+        "link": "https://aws.amazon.com/blogs/security/reduce-operational-overhead-by-migrating-from-aws-cloudhsm-to-aws-kms/"
+    },
+    {
+        "title": "Planning for 99.99 percent availability with the Amazon Cognito Plus feature plan",
+        "link": "https://aws.amazon.com/blogs/security/planning-for-99-99-percent-availability-with-the-amazon-cognito-plus-feature-plan/"
+    },
+    {
         "title": "Introducing context-aware rules for AWS Network Firewall",
         "link": "https://aws.amazon.com/blogs/security/introducing-context-aware-rules-for-aws-network-firewall/"
     },
@@ -58,25 +78,5 @@
     {
         "title": "How AWS Security Incident Response triages your security findings",
         "link": "https://aws.amazon.com/blogs/security/how-aws-security-incident-response-triages-your-security-findings/"
-    },
-    {
-        "title": "Step-up authentication: how to right-size authentication to risk",
-        "link": "https://aws.amazon.com/blogs/security/step-up-authentication-how-to-right-size-authentication-to-risk/"
-    },
-    {
-        "title": "Detecting cross-cloud lateral movement with AWS Security Hub",
-        "link": "https://aws.amazon.com/blogs/security/detecting-cross-cloud-lateral-movement-with-aws-security-hub/"
-    },
-    {
-        "title": "Introducing simplified onboarding for AWS WAF Bot Control at the targeted inspection level",
-        "link": "https://aws.amazon.com/blogs/security/introducing-simplified-onboarding-for-aws-waf-bot-control-at-the-targeted-inspection-level/"
-    },
-    {
-        "title": "Securely exposing Amazon Bedrock AgentCore Runtime",
-        "link": "https://aws.amazon.com/blogs/security/securely-exposing-amazon-bedrock-agentcore-runtime/"
-    },
-    {
-        "title": "Using the AWS RMiT workbook and ISO Compliance Guides to support your BNM submissions",
-        "link": "https://aws.amazon.com/blogs/security/using-the-aws-rmit-workbook-and-iso-compliance-guides-to-support-your-bnm-submissions/"
     }
 ]
