@@ -1,5 +1,9 @@
 [
     {
+        "title": "Agentic Arcade: Building playable 3D games with an agentic pipeline on AWS",
+        "link": "https://aws.amazon.com/blogs/gametech/agentic-arcade-2026/"
+    },
+    {
         "title": "Cloud and AI accelerate game development innovation at AWS re:Invent 2026",
         "link": "https://aws.amazon.com/blogs/gametech/cloud-and-ai-accelerate-game-development-innovation-at-aws-reinvent-2026/"
     },
@@ -74,9 +78,5 @@
     {
         "title": "Player profiles to leaderboards: Choosing the right AWS database, Part 1",
         "link": "https://aws.amazon.com/blogs/gametech/player-profiles-to-leaderboards-choosing-the-right-aws-database-part-1/"
-    },
-    {
-        "title": "How Lore rethinks binary asset storage on AWS",
-        "link": "https://aws.amazon.com/blogs/gametech/how-lore-rethinks-binary-asset-storage-on-aws/"
     }
 ]
